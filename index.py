@@ -20,7 +20,7 @@ PAGE_PREFIX = '''
     <head>
         <meta charset="utf-8">
         <title>DOHA Case Data Extraction</title>
-        <link rel="stylesheet" href="/css/uswds.min.css">
+        <link rel="stylesheet" href="/osd-ogc-doha-data-extract/css/uswds.min.css">
     </head>
     <body>
 '''
@@ -54,7 +54,7 @@ INDEX_CONTENT_PREFIX = '''
                 <h2 class="font-lang-xl margin-y-0 line-height-serif-2">Summary</h2>
                 <div class="grid-row grid-gap tablet:margin-top-3">
                     <div class="tablet:grid-col">
-                        <p><a href="/data.txt">data.txt</a></p>
+                        <p><a href="/osd-ogc-doha-data-extract/data.txt">data.txt</a></p>
                         <p>A summary of case data</p>
                     </div>
                 </div>
@@ -109,7 +109,7 @@ with open('docs/index.html', 'w') as f:
     f.write(PAGE_PREFIX)
     f.write(INDEX_CONTENT_PREFIX)
     for year in top_years:
-        f.write('<p><a href="/' + year + '/index.html">' + year + '</a></p>')
+        f.write('<p><a href="/osd-ogc-doha-data-extract/' + year + '/index.html">' + year + '</a></p>')
     f.write(INDEX_CONTENT_SUFFIX)
     f.write(PAGE_SUFFIX)
 
@@ -124,7 +124,7 @@ for year in top_years:
                 files.remove('index.html')
             files = sorted(files)
             for file in files:
-                f.write('<p><a href="/' + join(year, file) + '">' + file + '</a></p>')
+                f.write('<p><a href="/osd-ogc-doha-data-extract/' + join(year, file) + '">' + file + '</a></p>')
         else:
             months = [ _ for _ in listdir(join('docs', year)) if isdir(join('docs', year, _)) ]
             months = sorted(months)
@@ -136,7 +136,7 @@ for year in top_years:
                     files.remove('index.html')
                 files = sorted(files)
                 for file  in files:
-                    f.write('<p><a href="/' + join(month_folder, file) + '">' + file + '</a></p>')
+                    f.write('<p><a href="/osd-ogc-doha-data-extract/' + join(month_folder, file) + '">' + file + '</a></p>')
 
 
         f.write(SUB_CONTENT_SUFFIX)
