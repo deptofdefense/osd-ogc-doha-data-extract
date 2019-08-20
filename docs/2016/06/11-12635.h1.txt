@@ -1,0 +1,798 @@
+ 
+1 
+                                      
+ 
+     DEPARTMENT OF DEFENSE 
+DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+ 
+ 
+In the matter of: ) 
+ ) 
+ ---  )  ISCR Case No. 11-12635 
+  ) 
+Applicant for Security Clearance ) 
+  
+ 
+Appearances 
+ 
+For Government: Richard Stevens, Esquire, Department Counsel 
+For Applicant: Ryan C. Nerney, Esquire 
+ 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+GALES, Robert Robinson, Administrative Judge: 
+ 
+Applicant mitigated the security concerns regarding personal conduct, use of 
+information technology systems, and foreign influence. Eligibility for a security clearance 
+and access to classified information is granted. 
+ 
+Statement of the Case 
+ 
+On April 28, 2010, Applicant applied for a security clearance and submitted an 
+Electronic Questionnaire for Investigations Processing (e-QIP) version of a Security 
+Clearance Application.1 On an unspecified date, the Department of Defense (DOD) 
+Consolidated Adjudications Facility (CAF) issued him a set of interrogatories. He 
+responded to the interrogatories on January 2, 2013.2 On January 12, 2015, the DOD 
+CAF issued a Statement of Reasons (SOR) to him, under Executive Order 10865, 
+Safeguarding Classified Information within Industry (February 20, 1960), as amended 
+and modified; DOD Directive 5220.6, Defense Industrial Personnel Security Clearance 
+Review Program (January 2, 1992), as amended and modified (Directive);  and the 
+                                                          
+1
+ GE 1 (e-QIP, dated April 28, 2010). 
+ 
+2
+ GE 3 (Applicant’s Answers to Interrogatories, dated January 2, 2013). 
+ 
+2 
+                                      
+ 
+Adjudicative Guidelines for Determining Eligibility For Access to Classified Information 
+(December 29, 2005) (AG) applicable to all adjudications and other determinations 
+made under the Directive, effective September 1, 2006. The SOR alleged security 
+concerns under Guidelines E (Personal Conduct), B (Foreign Influence), and M (Use of 
+Information Technology Systems), and detailed reasons why the DOD adjudicators 
+were unable to find that it is clearly consistent with the national interest to grant or 
+continue a security clearance for Applicant. The SOR recommended referral to an 
+administrative judge to determine whether a clearance should be granted, continued, 
+denied, or revoked.  
+ 
+ Applicant received the SOR on January 28, 2015. In an unsworn declaration, 
+dated February 17, 2015,3 Applicant responded to the SOR allegations and requested a 
+hearing before an administrative judge. Department Counsel indicated the Government 
+was prepared to proceed on August 3, 2015. The case was assigned to me on October 
+5, 2015. A Notice of Hearing was issued on October 28, 2015. I convened the hearing 
+as scheduled on November 17, 2015. 
+ 
+ During the hearing, three Government exhibits (GE) 1 through 3, and eight of the 
+nine Applicant exhibits (AE) A, B, and D through I, were admitted into evidence without 
+objection. AE C was admitted over the objection, based on hearsay, of Department 
+Counsel. Applicant and one witness testified. The transcript (TR.) was received on 
+November 25, 2015. I kept the record open to enable Applicant to supplement it. 
+Applicant took advantage of that opportunity. He timely submitted a number of 
+documents which were marked as AE J and K, and admitted into evidence without 
+objection. The record closed on December 1, 2015. 
+ 
+Findings of Fact 
+ 
+ In his Answer to the SOR, Applicant denied, with explanations, all of the factual 
+allegations of the SOR. Applicant’s explanations, treated as admissions, are 
+incorporated herein as findings of fact. After a complete and thorough review of the 
+evidence in the record, and upon due consideration of same, I make the following 
+additional findings of fact: 
+Applicant is a 56-year-old employee of a defense contractor who, since August 
+2014, has been serving as a systems administrator. He had previously been a systems 
+administrator, systems analyst, field engineer, or programmer with other employers 
+since August 1981.4 He has never served in the U.S. military.5 He was apparently 
+granted a secret security clearance in 2001, with a renewal granted in 2013, and what 
+he referred to as an EBI clearance from 1982 until 1986.6 A 1977 high school graduate, 
+                                                          
+3
+ Applicant’s Answer to the SOR, dated February 17, 2015. 
+ 
+4
+ GE 1, supra note 1, at 14-23; AE F (Resume, undated), at 1-3. 
+ 
+5
+ GE 1, supra note 1, at 25-26; Tr. at 45-46. 
+ 
+6
+ GE 1, supra note 1, at 46-47; Tr. at 44-45.  An Extended Background Investigation or EBI is not a security 
+clearance, but it can result in a security clearance. 
+ 
+3 
+                                      
+ 
+Applicant received a bachelor of arts degree in Computer Science in May 1981.7 
+Applicant was married in August 1984, separated in December 2009, and divorced in 
+July 2010. He married his current wife in October 2014.8 He adopted his first wife’s 
+daughter (born in 1976) in the mid-1980’s.9 
+Applicant and his first wife started drifting apart and went through several years 
+filled with marital issues leading up to their separation and actual divorce. She refused 
+to attend Applicant’s father’s funeral in 1995, his mother’s funeral in 1999, his college 
+reunion, or his niece’s wedding in 2008. He claimed it got to the point where he asked 
+her to help him with something and she refused. He experienced a difficult residence 
+reconstruction project. There was a lack of communication between Applicant and his 
+wife. After the separation, attempted reconciliations failed. During the period of his 
+separation, an employer’s contract ended and his position was vacated. He searched 
+for a new position, and actually obtained several short-term ones. During the period 
+2004 until 2013, 18 friends or relatives passed away. Applicant incurred several injuries, 
+illnesses, and conditions, and he went through several surgeries. At least one very 
+close friend noticed the emotional stress that the various issues were causing Applicant. 
+To minimize the stress which really started to affect him in about 2006, and to relax, 
+Applicant turned to playing Internet games and chatting during online dating 
+relationships.10 
+ 
+Use of Information Technology Systems & Personal Conduct 
+  
+(SOR ¶¶ 1.a. and 3.a.): Applicant was employed by a particular government 
+contractor from May 2010 until July 2010. On or about July 24, 2010, Applicant was 
+looking through his personal e-mails on his government furnished equipment (GFE), a 
+computer, and accessed some online dating sites, sports sites, and book sites. When 
+he opened some unsolicited e-mails, he found that they contained photos of nude 
+women. One e-mail contained one photo of five nude women and another e-mail had 
+one photo which he considered offensive, but did not describe. He claimed that if he 
+had known the e-mails contained photos of nude women, he would not have opened 
+them on his office GFE. He immediately deleted the e-mails after conferring with a 
+colleague. Applicant denied that he ever intentionally used his GFE to look at 
+pornographic photos. This was the only time any of the e-mails he opened on his GFE 
+contained photos of nude women. In addition, Applicant’s GFE computer screen saver 
+and wall paper contained approximately eight photos of his scantly clothed girlfriend 
+which were not pornographic.11  
+                                                          
+ 
+7
+ GE 1, supra note 1, at 13; AE H (Diploma, dated May 23, 1981); AE F, supra note 4, at 1. 
+ 
+8
+ GE 1, supra note 1, at 28-29; Tr. at 46 
+ 
+9
+ Tr. at 47-48. 
+ 
+10
+ AE B (Biography, dated February 15, 2015), at 2-3; Applicant’s Answer to the SOR, supra note 3, at 3-5, 
+8; Tr. at 29-33, 46-48, 53-54. 
+ 
+11
+ GE 3 (Personal Subject Interview, dated November 18, 2010), at 1-2; GE 3 (Personal Subject Interview, 
+dated December 6, 2010), at 1; Tr. at 50-51, 54; Applicant’s Answer to the SOR, supra note 3, at 1-2. 
+ 
+4 
+                                      
+ 
+On or about July 27, 2010, one of Applicant’s supervisors approached him and 
+asked to see the photos of his residence reconstruction project. Applicant’s GFE 
+computer wallpaper included photographs of his then-girlfriend in a bikini. After viewing 
+her photos and photos of the residence, the supervisor departed. What occurred next is 
+unclear. Applicant was initially of the belief that she went directly to the information 
+technology (IT) department and asked that Applicant’s GFE computer be scanned. 
+There is also some evidence that Applicant’s GFE was merely randomly scanned. The 
+actual fact in this regard in unimportant. According to an incident report filed on July 30, 
+2010, the scan of Applicant’s GFE found that he had been accessing websites for online 
+dating which were characterized as “inappropriate,” as well as 15 photos that were also 
+characterized as “inappropriate.” Two of the photos were deemed “sexually explicit” and 
+“pornographic” in nature.12  
+ 
+On July 28, 2010, Applicant was terminated from his employment without 
+warning due to “violation of company policy” and “unauthorized use of GFE for sexually 
+explicit or sexually oriented materials.”13 Although the SOR alleged that Applicant was 
+terminated from employment for “viewing pornographic websites,” the evidence upon 
+which the allegations are based, the Incident History, simply refers to them as 
+“inappropriate websites.”14 The two terms are not synonymous. 
+ 
+There is no IT report of specific findings, a report of investigation by the 
+employer, a copy of the company policy supposedly violated by Applicant, copies of the 
+troublesome photographs, or explicit descriptions of what were construed as sexually 
+explicit of pornographic, in evidence. There is no evidence of any subsequent alleged 
+misuse of GFE or violations of company policies.15 
+ 
+Foreign Influence 
+ 
+ Over a period estimated by Applicant to be 15 months, Applicant chatted with 
+various foreign individuals while playing online games and involved in online dating. He 
+explained that to be successful in these games, it was necessary to “ally” with as many 
+individuals as possible to assist him in winning. The games required communication and 
+occasional chats. Applicant’s online dating resulted in “relationships” with several foreign 
+women, but none of those “relationships” involved physically seeing or meeting the women 
+except by telephone, or photographs and videos.  
+ 
+One such “relationship” with a woman in the Philippines in November 2009 involved 
+his sending various sums of money to her via Western Union. Applicant’s two explanations 
+regarding the amounts sent her are inconsistent. He told an investigator from the U.S. 
+Office of Personnel Management (OPM) in October 2010 that he had sent her $6,000 for 
+plane reservations, $7,000 for her father’s medical care, and $25 for support. He changed 
+                                                                                                                                                                                           
+ 
+12
+ Tr. at 82-83; GE 3 (Personal Subject Interview (November 18, 2010)), supra note 11, at 1. 
+ 
+13
+ GE 2 (Incident Report, dated August 6, 2013). 
+ 
+14
+ GE 2, supra note 13. 
+ 
+15
+ Tr. at 56. 
+ 
+5 
+                                      
+ 
+the amounts during the hearing in November 2015, and said he sent her $5,000 for plane 
+reservations, and $25 on two occasions. When she asked for more, he said no, and the 
+“relationship” ended.
+16
+ Because Applicant’s initial explanation was only months after the 
+fact, and the most recent one was five years later, I have given the initial explanation more 
+weight as being more reliable. 
+ 
+ In February 2010, Applicant established a “relationship” with a woman from 
+Malaysia. He also sent her various sums of money via Western Union. Once again, 
+Applicant’s two explanations regarding the amounts sent her are inconsistent. He told the 
+OPM investigator that he had sent her $20,000 for plane reservations, $3,000 to have her 
+released from Thai customs because she supposedly possessed gold bars, and $37,000 for 
+plane reservations to return home. He changed the amounts during the hearing, and said 
+he sent her $2,000 for plane reservations. He added that he also sent her unspecified sums 
+on over ten occasions. Western Union eventually stopped Applicant from sending funds 
+overseas. When she asked for more, he said no, and the “relationship” ended.
+17
+ Once 
+again, because Applicant’s initial explanation was only months after the fact, and the most 
+recent one was five years later, I have given the initial explanation more weight as being 
+more reliable. 
+ 
+ On an unspecified date, Applicant established another “relationship” with a woman 
+from the Philippines. He sent her various sums of money via Money Gram. Applicant’s two 
+explanations regarding the amounts sent her are inconsistent. He told the OPM investigator 
+that he had sent her $200 to pay her way out of her contract with her handler, and $50 for 
+living expenses. He changed the amounts during the hearing, and said he sent her $370 to 
+buy out her contract. The “relationship” ended.
+18
+ Once again, because Applicant’s initial 
+explanation was only months after the fact, and the most recent one was five years later, I 
+have given the initial explanation more weight as being more reliable. 
+ 
+In November 2009, Applicant established another “relationship” with a woman from 
+the Philippines. He sent her an unspecified sum of money to travel to the United States, but 
+she used it for other purposes. When she requested additional money, he refused to send it 
+and the “relationship” ended.
+19
+ 
+ 
+Applicant met other foreign women over the Internet, but none of those involved 
+sending money to them, even though some of the women requested money. He 
+acknowledged that some of the women were taking advantage of him in scams, but he was 
+not aware of the truth until later. He denied having a bond of affection, loyalty, or friendship 
+obligation for any of the foreign nationals with whom he had the aforementioned 
+“relationships.” Applicant entered into an exclusive relationship with the woman who is now 
+his wife in May 2011. He no longer plays any of the Internet games and has ceased all 
+                                                          
+ 
+16
+ GE 3 (Personal Subject Interview, dated October 29, 2010)), at 1; Tr. at 57-59. 
+ 
+17
+ Tr. at 61-65; GE 3 (Personal Subject Interview (October 29, 2010)), supra note 16, at 1-2; GE 3 (Personal 
+Subject Interview (December 6, 2010)), supra note 11, at 3. 
+ 
+18
+ Tr. at 66-71; GE 3 (Personal Subject Interview (December 6, 2010)), supra note 11, at 3-4. 
+ 
+19
+ GE 3 (Personal Subject Interview (December 6, 2010)), supra note 11, at 4, 6. 
+ 
+ 
+6 
+                                      
+ 
+contacts with foreign women.
+20
+ Applicant noted that he earned $156,000 in 2008 and 
+$197,000 in 2009, before his income dropped substantially in 2010. 21 
+On February 9, 2015, Applicant underwent a self-referred psychological 
+evaluation conducted by a licensed psychologist.22 He was interviewed face-to-face for 
+nearly four hours and administered several tests. The psychologist determined that 
+Applicant was “characteristically other-oriented, i.e., his concerns and focus are 
+compassionately for the safety and well-being of others.”23 The psychologist opined 
+that24  
+prominent in [Applicant’s] character are the traits of a positive work ethic; a 
+respect for authority and boundaries; being reliable and dependable; being 
+determined and committed to success and the organizations he works for, 
+being very moral and having a well-developed conscience to guide him 
+interpersonally; and having a superior intellect.  
+The psychologist concluded that the incidents reported are25  
+an anomaly, incongruent with [Applicant’s] character, and do not represent 
+an ongoing pattern of behavior or in his interpersonal proclivities. He 
+clearly possesses the personality or character attributes, 
+adopted/developed from an early age that include a sense of duty, 
+responsibility, propriety and appropriate boundaries. 
+Character References and Work Performance 
+Former colleagues from his time with various employers, including one who has 
+known him since 1988, as well as current managers, supervisors, and colleagues, have 
+all commented favorably about Applicant. One, who has known Applicant since 1993, 
+characterized him as working relentlessly, learning continuously, retaining knowledge 
+indefinitely, and applying knowledge steadily. He added that Applicant is on the short list 
+of people he would trust with his life, and on an even shorter list of those he would trust 
+with his money and his family.26 Others have referred to Applicant’s reliability, 
+trustworthiness, good moral character, integrity, discretion, loyalty, honesty, efficiency, 
+                                                          
+20
+ GE 3, supra note 2, at 6; GE 3 (Personal Subject Interview (December 6, 2010)), supra note 11, at 7. 
+ 
+21
+ Tr. at 78. 
+ 
+22
+ AE D (Resume, undated). 
+ 
+23
+ AE C (Psychological Evaluation, dated February 13, 2015), at 3. 
+ 
+24
+ AE C, supra note 23, at 5-6. 
+ 
+25
+ AE C, supra note 23, at 6. 
+ 
+26
+ AE K (Character Reference, dated November 24, 2015); AE A (Character Reference, dated February 7, 
+2015). 
+ 
+ 
+7 
+                                      
+ 
+professionalism, problem-solving skills, and strong work ethic.27 Applicant’s very close 
+friend, a person who has known him since 1988, described the emotional stress with 
+which Applicant was previously dealing. After Applicant went through what he called 
+“that patch of time,” Applicant started returning to his old self.28 He served as a middle 
+school basketball coach, and he became a basketball referee and baseball umpire for 
+12 years. He was also active in the community chapters of several national service 
+organizations.29 Over the years, Applicant completed many professional improvement 
+courses,30 and he was awarded a number of different certificates of appreciation or 
+monetary awards.31 Applicant’s 2014 performance review reflects a person who 
+achieves expectations.32  
+Policies 
+ 
+The U.S. Supreme Court has recognized the substantial discretion of the 
+Executive Branch in regulating access to information pertaining to national security 
+emphasizing, “no one has a ‘right’ to a security clearance.”33 As Commander in Chief, 
+the President has the authority to control access to information bearing on national 
+security and to determine whether an individual is sufficiently trustworthy to have access 
+to such information. The President has authorized the Secretary of Defense or his 
+designee to grant an applicant eligibility for access to classified information “only upon a 
+finding that it is clearly consistent with the national interest to do so.”34   
+ 
+When evaluating an applicant’s suitability for a security clearance, the 
+administrative judge must consider the AG. In addition to brief introductory explanations 
+for each guideline, the AG list potentially disqualifying conditions and mitigating 
+conditions, which are used in evaluating an applicant’s eligibility for access to classified 
+information. 
+ 
+An administrative judge need not view the guidelines as inflexible, ironclad rules 
+of law. Instead, acknowledging the complexities of human behavior, these guidelines 
+are applied in conjunction with the factors listed in the adjudicative process. The 
+administrative judge’s overarching adjudicative goal is a fair, impartial, and 
+commonsense decision. The entire process is a conscientious scrutiny of a number of 
+                                                          
+27
+ AE A (Character References, various dates); Tr. at 25-43.  
+ 
+28
+ Tr. at 25-42. 
+ 
+29
+ AE B, supra note 10, at 2. 
+ 
+30
+ AE G (Certificates, various dates). 
+ 
+31
+ AE J (Certificates, various dates). 
+ 
+32
+ AE E (Performance Review, undated). 
+ 
+33
+ Department of the Navy v. Egan, 484 U.S. 518, 528 (1988). 
+ 
+34
+ Exec. Or. 10865, Safeguarding Classified Information within Industry § 2 (Feb. 20, 1960), as amended 
+and modified.    
+ 
+ 
+8 
+                                      
+ 
+variables known as the “whole-person concept.” The administrative judge must consider 
+all available, reliable information about the person, past and present, favorable and 
+unfavorable, in making a meaningful decision. 
+ 
+In the decision-making process, facts must be established by “substantial 
+evidence.”35 The Government initially has the burden of producing evidence to establish 
+a potentially disqualifying condition under the Directive, and has the burden of 
+establishing controverted facts alleged in the SOR. Once the Government has produced 
+substantial evidence of a disqualifying condition, under Directive ¶ E3.1.15, the 
+applicant has the burden of persuasion to present evidence in refutation, explanation, 
+extenuation or mitigation, sufficient to overcome the doubts raised by the Government’s 
+case. The burden of disproving a mitigating condition never shifts to the Government.36  
+ 
+A person who seeks access to classified information enters into a fiduciary 
+relationship with the Government predicated upon trust and confidence. This 
+relationship transcends normal duty hours and endures throughout off-duty hours as 
+well. It is because of this special relationship that the Government must be able to 
+repose a high degree of trust and confidence in those individuals to whom it grants 
+access to classified information. Decisions include, by necessity, consideration of the 
+possible risk the applicant may deliberately or inadvertently fail to safeguard classified 
+information. Such decisions entail a certain degree of legally permissible extrapolation 
+as to potential, rather than actual, risk of compromise of classified information.  
+Furthermore, “security clearance determinations should err, if they must, on the side of 
+denials.”37 
+ 
+Clearance decisions must be “in terms of the national interest and shall in no 
+sense be a determination as to the loyalty of the applicant concerned.”38 Thus, nothing 
+in this decision should be construed to suggest that I have based this decision, in whole 
+or in part, on any express or implied determination as to Applicant’s allegiance, loyalty, 
+or patriotism. It is merely an indication the Applicant has or has not met the strict 
+guidelines the President and the Secretary of Defense have established for issuing a 
+clearance.  In reaching this decision, I have drawn only those conclusions that are 
+reasonable, logical, and based on the evidence contained in the record. Likewise, I 
+have avoided drawing inferences grounded on mere speculation or conjecture. 
+ 
+  
+                                                          
+35
+ “Substantial evidence [is] such relevant evidence as a reasonable mind might accept as adequate to 
+support a conclusion in light of all contrary evidence in the record.”  ISCR Case No. 04-11463 at 2 (App. Bd. Aug. 4, 
+2006) (citing Directive ¶ E3.1.32.1).  “Substantial evidence” is “more than a scintilla but less than a preponderance.”  
+See v. Washington Metro. Area Transit Auth., 36 F.3d 375, 380 (4
+th
+ Cir. 1994). 
+ 
+36
+ See ISCR Case No. 02-31154 at 5 (App. Bd. Sep. 22, 2005). 
+ 
+37
+ Egan, 484 U.S. at 531 
+ 
+38
+ See Exec. Or. 10865 § 7. 
+ 
+ 
+9 
+                                      
+ 
+Analysis 
+ 
+Guideline M, Information Technology Systems 
+ 
+The security concern under the guideline for Use of Information Technology 
+Systems is set out in AG ¶ 39:   
+ 
+Noncompliance with rules, procedures, guidelines or regulations 
+pertaining to information technology systems may raise security concerns 
+about an individual's reliability and trustworthiness, calling into question 
+the willingness or ability to properly protect sensitive systems, networks, 
+and information. Information Technology Systems include all related 
+computer hardware, software, firmware, and data used for the 
+communication, transmission, processing, manipulation, storage, or 
+protection of information. 
+The guideline notes a condition that could raise security concerns. Under AG ¶ 
+40(e), security concerns may be raised by the “unauthorized use of a government or 
+other information technology system.” This guideline generally refers to sending or 
+soliciting sexually-oriented messages or images, or the downloading, creating, storing, 
+or displaying computer files of a sexual nature. In mid-2010, Applicant opened an 
+Internet site on his GFE that his employer considered an “inappropriate” website. The 
+sole evidence pertaining to it was the name, and that name, without more, seems to 
+indicate it was an online dating website. There is zero evidence that it was a 
+“pornographic” website. In July 2010, while he was again on the GFE, he opened two 
+unsolicited e-mails addressed to him. One of the e-mails contained photos of nude 
+women and the other contained a photo of what he considered offensive. Applicant 
+promptly deleted the e-mails. He also had photos of his scantily clad girlfriend on his 
+screen saver and wall paper. A subsequent computer scan of his GFE conducted by the 
+IT department revealed the access to the “inappropriate” website as well as the photos 
+that were characterized as “inappropriate.” Two of the photos were deemed “explicit” 
+and “pornographic” in nature. As a result, the following day, Applicant was terminated 
+from his employment due to “violation of company policy” and “unauthorized use of GFE 
+for sexually explicit or sexually oriented materials.” AG ¶ 40(e) has been established. 
+ 
+ The guideline also includes examples of conditions that could mitigate such 
+security concerns. Under AG ¶ 41(a), the disqualifying condition may be mitigated 
+where “so much time has elapsed since the behavior happened, or it happened under 
+such unusual circumstances, that it is unlikely to recur and does not cast doubt on the 
+individual's reliability, trustworthiness, or good judgment.” Similarly, AG ¶ 41(c) applies 
+where “the conduct was unintentional or inadvertent and was followed by a prompt, 
+good-faith effort to correct the situation and by notification of supervisor.”  
+ 
+ While Applicant did not promptly notify his supervisor, he did confer with a 
+colleague to determine what to do, and he immediately deleted the e-mails in an effort 
+to correct the situation. According to the apparent prevailing community standards, the 
+employer considered two of the photos to be “sexually explicit” and “pornographic” in 
+ 
+10 
+                                      
+ 
+nature. Department Counsel argued that this was not the only such incident and that 
+Applicant “had a history of viewing this material.”39 His argument is based purely on 
+speculation, for there is no evidence to suggest that it happened more than once. 
+Nevertheless, even assuming the accuracy of the allegation, the passing of over four 
+and one-half years from the incident to the date the SOR was issued, without 
+recurrence, is sufficient to conclude that it is unlikely to recur, and it no longer casts 
+doubt on Applicant’s reliability, trustworthiness, and good judgment.  AG ¶ 41(a) 
+applies, and AG ¶ 41(c) partially applies. 
+ 
+Guideline E, Personal Conduct 
+ 
+The security concern for Personal Conduct is set out in AG & 15:       
+ 
+Conduct involving questionable judgment, lack of candor, dishonesty, or 
+unwillingness to comply with rules and regulations can raise questions 
+about an individual's reliability, trustworthiness and ability to protect 
+classified information. Of special interest is any failure to provide truthful 
+and candid answers during the security clearance process or any other 
+failure to cooperate with the security clearance process.  
+ 
+The guideline notes conditions that could raise security concerns. Under AG ¶ 
+16(c), security concerns may be raised by:  
+credible adverse information in several adjudicative issue areas that is not 
+sufficient for an adverse determination under any other single guideline, 
+but which, when considered as a whole, supports a whole-person 
+assessment of questionable judgment, untrustworthiness, unreliability, 
+lack of candor, unwillingness to comply with rules and regulations, or other 
+characteristics indicating that the person may not properly safeguard 
+protected information. 
+Also, it is potentially disqualifying under AG ¶ 16(e) when there is: 
+personal conduct, or concealment of information about one’s conduct, that 
+creates a vulnerability to exploitation, manipulation, or duress, such as (1) 
+engaging in activities which, if known, may affect the person’s personal, 
+professional, or community standing. . . .  
+The alleged behavior consisted of being involuntarily terminated from his 
+employment in July 2010 for “viewing pornographic websites.” Applicant has been 
+consistent in his rendition of the facts. The evidence is not in dispute. Applicant was 
+involuntarily terminated from his employment due to “violation of company policy” and 
+“unauthorized use of GFE for sexually explicit or sexually oriented materials.” The IT 
+scan of Applicant’s GFE revealed that he viewed an “inappropriate” online dating 
+website, but there is zero evidence that the website was “pornographic” in nature.  The 
+                                                          
+39
+ Tr. at 101. 
+ 
+11 
+                                      
+ 
+allegation failed to address the issues related to the e-mails. Nevertheless, there is 
+reason for further discussion. AG ¶¶ 16(c) and 16(e) have been partially established.  
+ 
+The guideline also includes examples of conditions that could mitigate security 
+concerns arising from personal conduct. AG ¶ 17(c) may apply if “the offense is so 
+minor, or so much time has passed, or the behavior is so infrequent, or it happened 
+under such unique circumstances that it is unlikely to recur and does not cast doubt on 
+the individual’s reliability, trustworthiness, or good judgment.”  
+ 
+Similarly, AG ¶ 17(d) may apply if “the individual has acknowledged the behavior 
+and obtained counseling to change the behavior or taken other positive steps to 
+alleviate the stressors, circumstances, or factors that caused untrustworthy, unreliable, 
+or other inappropriate behavior, and such behavior is unlikely to recur.” Also, if “the 
+individual has taken positive steps to reduce or eliminate vulnerability to exploitation, 
+manipulation, or duress,” AG ¶ 17(e) may apply. 
+  
+In July 2010, during a period when Applicant was under substantial emotional 
+stress, he was involuntarily terminated from his employment due to “violation of 
+company policy” and “unauthorized use of GFE for sexually explicit or sexually oriented 
+materials.” The alleged behavior, both the viewing of an “inappropriate website as well 
+as the opening of unsolicited e-mails each occurred on one occasion, over four and 
+one-half years before the SOR was issued. Applicant took positive efforts to reduce or 
+eliminate the behavior of online dating and game-playing. He remarried. He was 
+subsequently evaluated by a licensed psychologist and found to be free of any 
+psychological disorders. He acknowledged his behavior. There is no evidence of any 
+subsequent alleged personal conduct. Considering the fact that the “inappropriate” 
+website dealt with online dating, and not pornography, the significance of the personal 
+conduct is minimized. Applicant has reduced or eliminated his vulnerability to 
+exploitation, and through his rehabilitative efforts, the alleged untrustworthy, unreliable, 
+or other inappropriate behavior, is unlikely to recur. AG ¶¶ 17(c), 17(d), and 17(e) apply. 
+ 
+Guideline B, Foreign Influence 
+ 
+The security concern under the Foreign Influence guideline is set out in AG ¶ 6:       
+Foreign contacts and interests may be a security concern if the individual 
+has divided loyalties or foreign financial interests, may be manipulated or 
+induced to help a foreign person, group, organization, or government in a 
+way that is not in U.S. interests, or is vulnerable to pressure or coercion by 
+any foreign interest. Adjudication under this Guideline can and should 
+consider the identity of the foreign country in which the foreign contact or 
+financial interest is located, including, but not limited to, such 
+considerations as whether the foreign country is known to target United 
+States citizens to obtain protected information and/or is associated with a 
+risk of terrorism. 
+ 
+12 
+                                      
+ 
+The guideline notes several conditions that could raise security concerns. Under 
+AG ¶ 7(a), it is potentially disqualifying where there is “contact with a foreign family 
+member, business or professional associate, friend, or other person who is a citizen of 
+or resident in a foreign country if that contact creates a heightened risk of foreign 
+exploitation, inducement, manipulation, pressure, or coercion.” Similarly, under AG ¶ 
+7(e), security concerns may be raised when there is “a substantial business, financial, 
+or property interest in a foreign country, or in any foreign-owned or foreign-operated 
+business, which could subject the individual to heightened risk of foreign influence or 
+exploitation.  
+Applicant is not a naturalized U.S. citizen. He was born in the United States of 
+parents who were also born in the United States. His entire immediate and extended 
+family members are also U.S. citizens. There is no evidence (or allegations) that he has 
+any family members or business or professional associates who are citizens or 
+residents of a foreign country. In 2009 and 2010, he did, however, have long-distance 
+online and telephone relationships with several women who were foreign-born residents 
+of various countries. Although he never physically saw or met the women, except by 
+telephone, photographs, or videos, he did send them various sums of money, estimated 
+to be a total in excess of $60,000, allegedly earmarked by the recipients for 
+transportation, medical care, support, and release from a customs. Applicant 
+acknowledged that some of the women were taking advantage of him in scams, but he 
+was not aware of the truth until later. He denied having a bond of affection, loyalty, or 
+friendship obligation for any of the foreign nationals with whom he had the 
+aforementioned “relationships.”   
+Applicant’s online dating and gaming forays with foreign women ceased in 2011 
+when he met the woman who eventually became his second wife. The security 
+significance of these identified conditions requires further examination of Applicant’s 
+former foreign “relationships” to determine the degree of “heightened risk” or potential 
+conflict of interest. Furthermore, Department Counsel argued that Applicant’s actions 
+revealed cloudy judgment, a lack of self-discipline, and a vulnerability  to possible 
+manipulation and exploitation. The SOR alleged that Applicant wired money to various 
+oversea locations “in an attempt to incite the relationships.” (Emphasis added).40 The 
+evidence is persuasive that, after nearly three decades of marriage and a separation 
+and pending divorce, Applicant was active in online dating and simply wished to make 
+the right social connection with a female. Nevertheless, AG ¶¶ 7(a) and 7(e) are partially 
+established. 
+The guideline also includes examples of conditions that could mitigate security 
+concerns arising from foreign influence. Under AG ¶ 8(a), the disqualifying condition 
+may be mitigated where: 
+                                                          
+40
+ It is unclear why the word “incite” was used in the SOR for that word generally conveys a negative 
+implication, such as to stir up, fan the flames of, provoke, inflame, egg on, whip up, or foment. The evidence seems to 
+infer another meaning such as encourage, kindle, arouse, or stimulate.  
+ 
+ 
+13 
+                                      
+ 
+the nature of the relationships with foreign persons, the country in which 
+these persons are located, or the positions or activities of those persons in 
+that country are such that it is unlikely the individual will be placed in a 
+position of having to choose between the interests of a foreign individual, 
+group, organization, or government and the interests of the U.S.  
+Similarly, AG ¶ 8(b) may apply where the evidence shows:  
+there is no conflict of interest, either because the individual's sense of 
+loyalty or obligation to the foreign person, group, government, or country is 
+so minimal, or the individual has such deep and longstanding relationships 
+and loyalties in the U.S., that the individual can be expected to resolve any 
+conflict of interest in favor of the U.S. interest. 
+In addition, AG ¶ 8(c) may apply where “contact or communication with foreign 
+citizens is so casual and infrequent that there is little likelihood that it could create a risk 
+for foreign influence or exploitation.”  
+In assessing whether there is a heightened risk because of an applicant’s 
+“relationships” in foreign countries, it is necessary to consider all relevant factors, 
+including the totality of an applicant’s conduct and circumstances in light of any realistic 
+potential for exploitation. One such factor is the potential for pressure, coercion, 
+exploitation, or duress. In that regard, it is important to realize that Applicant never 
+intended to, and did not, leave the U.S. to enter any of the foreign countries, and that 
+his sole intent was to have individuals travel to the U.S. for brief visits to explore 
+possible continuing relationships. In fact, none of those foreign women ever entered the 
+U.S., and their sole purpose was seemingly to scam money from Applicant. Yes, he did 
+send the women substantial sums of money, but any “relationships” that he might have 
+developed with them ceased in 2010 or 2011, at least four years before the SOR was 
+issued. In those circumstances, there is very little potential for pressure, coercion, 
+exploitation, or duress.  
+ 
+Applicant’s immediate family and extended family still reside in the U.S., and 
+those foreign women still remain overseas without any continuing contact with 
+Applicant. There is no risk, much less a “heightened risk,” of foreign exploitation, 
+inducement, manipulation, pressure, or coercion to disqualify Applicant from holding a 
+security clearance because of any close or continuing relationship with those foreign 
+women. While Applicant may have been somewhat naive, and displayed a lack of 
+judgment, in falling for scams and sending such large sums of money to strangers, I am 
+persuaded that Applicant’s loyalty to the United States is steadfast and undivided, and 
+that he has “such deep and longstanding relationships and loyalties in the U.S., that [he] 
+can be expected to resolve any conflict of interest in favor of the U.S. interest.” AG ¶¶ 
+8(a), 8(b), and 8(f) apply. 
+  
+  
+ 
+14 
+                                      
+ 
+Whole-Person Concept 
+ 
+ Under the whole-person concept, the administrative judge must evaluate an 
+applicant’s eligibility for a security clearance by considering the totality of the applicant’s 
+conduct and all the circumstances. The administrative judge should consider the nine 
+adjudicative process factors listed at AG ¶ 2(a):  
+ 
+(1) the nature, extent, and seriousness of the conduct; (2) the 
+circumstances surrounding the conduct, to include knowledgeable 
+participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to 
+which participation is voluntary; (6) the presence or absence of 
+rehabilitation and other permanent behavioral changes; (7) the motivation 
+for the conduct; (8) the potential for pressure, coercion, exploitation, or 
+duress; and (9) the likelihood of continuation or recurrence. 
+ 
+Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a security 
+clearance must be an overall commonsense judgment based upon careful consideration 
+of the guidelines and the whole-person concept. Moreover, I have evaluated the various 
+aspects of this case in light of the totality of the record evidence and have not merely 
+performed a piecemeal analysis.41       
+There is some evidence against mitigating Applicant’s use of information 
+technology systems, personal conduct, and foreign influence concerns. Applicant was 
+involuntarily terminated from his employment due to “violation of company policy” and 
+“unauthorized use of GFE for sexually explicit or sexually oriented materials.” The IT 
+scan of Applicant’s GFE revealed that he viewed an “inappropriate” online dating 
+website, and on one occasion in July 2010, he opened two unsolicited e-mails, one of 
+which happened to contain photos of nude women, and the other of which contained 
+something that he considered “offensive.” In 2009 and 2010, he engaged in long-
+distance online and telephone relationships with several women who were foreign-born 
+residents of various countries. He sent them various sums of money, estimated to be a 
+total in excess of $60,000, allegedly earmarked by the recipients for transportation, 
+medical care, support, and release from a customs.  
+The mitigating evidence under the whole-person concept is more substantial. 
+Applicant’s alleged behavior occurred over four and one-half years before the SOR was 
+issued, and there is no evidence of subsequent conduct of a similar nature. There is no 
+evidence of a personality disorder. Applicant has a good reputation for reliability, 
+trustworthiness, good moral character, integrity, discretion, loyalty, honesty, efficiency, 
+professionalism, problem-solving skills, and a strong work ethic. He was active in his 
+community, and served as a middle school basketball coach, as well as a basketball 
+referee and baseball umpire for 12 years. He was also active in the community chapters 
+of several national service organizations integrity and trustworthiness. Applicant’s 
+                                                          
+41
+ See U.S. v. Bottone, 365 F.2d 389, 392 (2d Cir. 1966); See also ISCR Case No. 03-22861 at 2-3 (App. 
+Bd. Jun. 2, 2006). 
+ 
+ 
+15 
+                                      
+ 
+emotional stress has dissipated and he has remarried. He no longer plays online games 
+and no longer enters online dating websites. The alleged behavior is unlikely to recur. 
+Under the evidence presented, I have no questions about Applicant’s reliability, 
+trustworthiness, and ability to protect classified information. See AG ¶ 2(a)(1) through 
+AG ¶ 2(a)(9). 
+ 
+Formal Findings 
+ 
+ Formal findings for or against Applicant on the allegations set forth in the SOR, 
+as required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+ 
+ Paragraph 1, Guideline E:   FOR APPLICANT 
+ 
+  Subparagraph 1.a:    For Applicant 
+ 
+Paragraph 2, Guideline B:   FOR APPLICANT 
+ 
+Subparagraph 2.a:    For Applicant  
+    
+ Paragraph 3, Guideline M:   FOR APPLICANT 
+ 
+Subparagraph 3.a:    For Applicant  
+  
+Conclusion 
+ 
+ In light of all of the circumstances presented by the record in this case, it is 
+clearly consistent with the national interest to grant Applicant eligibility for a security 
+clearance.  Eligibility for access to classified information is granted. 
+ 
+                                          
+            
+________________________ 
+ROBERT ROBINSON GALES 
+Administrative Judge 

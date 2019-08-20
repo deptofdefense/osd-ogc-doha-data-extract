@@ -1,0 +1,194 @@
+KEYWORD: Guideline F
+DIGEST: The Judge failed to address that Applicant did not file his Federal income tax return
+for 2009 as required.  His 2009 IRS tax transcript reflects that the IRS filed a substitute tax
+return for him in early February 2012 and determined he owed an additional $44,731 of taxes for
+that tax year.  Applicant changed his W-4 exemptions to “ten” for 2011.  Due to that change in
+exemptions, Applicant testified “they weren’t taking any taxes out” of his pay.  Id.  He used the
+extra money to purchase a custom motorcycle, which was an item on his “bucket list.”  When
+analyzing a case, a Judge must consider the evidence as a whole and not view it in an isolated or
+piecemeal manner that focuses only on matters favorable to one party.  In this case, the Judge
+erred by failing to analyze significant matters that undermined his mitigation analysis.  Favorable
+decision reversed.
+CASENO: 17-00944.a1
+DATE: 02/15/2019
+DATE: February 15, 2019
+In Re:
+----------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-00944
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Tara R. Karoian, Esq., Department Counsel
+FOR APPLICANT
+Ryan C. Nerney, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+March 24, 2017, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision—security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On October 3, 2018, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Richard A. Cefola granted Applicant’s request for a security clearance. 
+Department Counsel appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Department Counsel raised the following issue on appeal: whether the Judge’s favorable
+decision was arbitrary, capricious, or contrary to law.  Consistent with the following, we reverse.
+The Judge’s Findings of Fact
+Applicant, who is 60 years old, has been an employee of a defense contractor since 2015. 
+He has been married twice and has three adult children.   He admitted the sole SOR allegation that
+asserted he had a Federal tax lien of about $48,000 filed against him in 2014.  This lien was incurred
+because he owed past-due income taxes for 2009-2011.1  He attributed this debt to not being
+prepared to be the owner-operator of a business, to suffering a heart attack in 2009 that resulted in
+a period of unemployment, and to helping his daughter with her expenses.  
+In 2017, Applicant made two Offers in Compromise to the IRS.  In December 2017, as
+evidenced by IRS correspondence and his banking statements,  he reached an installment agreement
+with the IRS to make monthly payments of $878.  He also received financial counseling.   
+The Judge’s Analysis
+“Applicant’s tax lien has been addressed through an agreement with the IRS.  He is making
+payments pursuant to that agreement.  He has also received financial counseling to ensure that future
+financial problems are unlikely.  Mitigation under AG ¶ 20 has been established.”  Decision at 5.
+   
+Discussion
+Department Counsel argues that the record in this case does not support the Judge’s
+favorable mitigation analysis.  She also contends that the Judge did not consider important aspects
+of the case and his analysis runs contrary to the weight of the record evidence.  Department
+Counsel’s arguments have merit. 
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+1 Applicant’s IRS tax transcripts reflected that, as of February 2018, he owed $46,219 of past-due taxes and
+interest for 2009, did not owe past-due taxes for 2010 (his 2010 tax debt was resolved in 2012), and owed $870 of
+interest for 2011.  Applicant’s Exhibit (AE) N.  
+2
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371, U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’”   Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt 
+concerning personnel being considered for national security eligibility will be resolved in favor of
+the national security.”  Directive, Encl. 2, App. A ¶ 2(b).  The Appeal Board may reverse the Judge’s
+decision to grant, deny, or revoke a security clearance if it is arbitrary, capricious, or contrary to law. 
+Directive ¶¶ E3.1.32.3 and E3.1.33.3.
+There is a strong presumption against the grant or maintenance of a security clearance.  See
+Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After
+the Government presents evidence raising security concerns, the burden shifts to the applicant to
+rebut or mitigate those concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and
+mitigating conditions and whole person factors does not turn simply on a finding that one or more
+of them apply to the particular facts of a case.  Rather, their application requires the exercise of
+sound discretion in light of the record evidence as a whole.”  See, e.g., ISCR Case No. 16-02322 at
+3 (App. Bd. Mar. 14, 2018).
+In deciding whether the Judge’s rulings or conclusions are erroneous, we will review the
+Judge’s decision to determine whether:  it does not examine relevant evidence; it fails to articulate
+a satisfactory explanation for its conclusions, including a rational connection between the facts
+found and the choice made; it does not consider relevant factors; it reflects a clear error of judgment;
+it fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  Id.
+At the outset, we note Department Counsel’s arguments are of mixed merit.  She repeats an
+argument that the Board has rejected at least twice, i.e., “Mitigating Conditions 20(d) and 20(g) must
+be read in concert and harmony with the overall parameters of analysis set forth by the Appeal
+Board.”  Appeal Brief at 13.  This is not accurate.  As we have previously stated, “The Appeal Board 
+and Hearing Office Judges are creatures of the Directive.  While some analysis and precedents might
+survive amendments to the Directive or guidelines, it is mistaken to believe that the guidelines are
+somehow inferior to the Appeal Board’s decisions.  More succinctly, the provisions of the Directive,
+including the guidelines, are controlling.”   See, e.g., ISCR Case No. 17-01213 at 4, n.2 (App. Bd.
+Jun. 29, 2018) and ISCR Case No. 16-03187 at 4, n.4 (App. Bd. Aug. 1, 2018).  Furthermore,
+Department Counsel’s relevant arguments rely entirely on case law that predates the current
+guidelines without any acknowledgment that the content of the new guidelines may have narrowed
+or superceded the prior case law.  
+That said, Department Counsel’s other arguments, such as her contention that the Judge did
+not consider important aspects of the case, are meritorious.  She points out that the Judge failed to
+address that Applicant did not file his Federal income tax return for 2009 as required.  His 2009 IRS
+tax transcript reflects that the IRS filed a substitute tax return for him in early February 2012 and
+3
+determined he owed an additional $44,731 of taxes for that tax year.2  AE N.  She also notes that
+Applicant changed his W-4 exemptions to “ten” for  2011.   Tr. at 37.  Due to that change in
+exemptions, Applicant testified “they weren’t taking any taxes out” of his pay.  Id.  He used the extra
+money to purchase a custom motorcycle, which was an item on his “bucket list.”  Id. and 65-66. 
+When analyzing a case, a Judge must consider the evidence as a whole and not view it in an isolated
+or piecemeal manner that focuses only on matters favorable to one party.  See, e.g., ISCR Case No.
+14-05005 at 8 (App. Bd. Sep. 15, 2017).  In this case, the Judge erred by failing to analyze
+significant matters that undermined his mitigation analysis.  
+Department Counsel also challenges that Judge’s conclusion that Applicant’s recent
+installment agreement mitigates the security concerns arising from his past-due taxes for 2009 and
+2011.  First, she argues the Judge erred in failing to address the timing of Applicant’s actions to
+address his tax deficiencies.  As we have previously stated, a Judge may consider the underlying
+circumstances of tax debt in evaluating an applicant’s reliability and judgment.  See, e.g., ISCR Case
+No. 17-00378 at 3 (App. Bd. Nov. 2, 2018).  Furthermore, an applicant who resolves financial
+problems after being placed on notice his or her security clearance was in jeopardy may lack the
+judgment and self-discipline to follow rules and regulations over time or when there is no immediate
+threat to his own interests.  See, e.g., ISCR Case No. 15-06440 at 4 (App. Bd. Dec. 26, 2017). 
+Applicant’s 2009 IRS tax transcript reflects that he made one $100 payment towards his 2009 tax
+deficiency before the SOR was issued in March 2017.  AE N.  After issuance of the SOR, he made
+sporadic payments and submitted an Offer in Compromise (which was later withdrawn) before he
+entered into an installment agreement with the IRS one month prior to the hearing.  In her brief,
+Department Counsel also points out that Applicant has been consistently employed since 2005 (with
+the exception of a four-month period in 2009-2010), and he had an adjusted gross income (AGI) of
+about $117,000 in 2014.3  Additionally, Department Counsel notes that Applicant only submitted
+proof of one payment under the installment agreement, which was made after the hearing was held. 
+She argues that proof of one payment under a 62-month installment plan is less than convincing
+evidence that Applicant was adhering to or in compliance with the installment agreement.4     
+2 Applicant’s 2009 IRS tax transcript also reflects that his tax return for that year was received on February 14,
+2012.
+3 Tr. at 35-36, Government Exhibit 1, and AE N.  Applicant’s IRS tax transcripts reflect that he filed as “Single”
+for 2009-2011 and his AGI for those years ranged from about $47,400 to $78,100; he filed as “Head of Household” for
+2012 and his AGI was about $51,600; he filed as “Married Filing Joint” for 2013 and 2014 and his AGI for those years
+was about $83,700 and $117,000; and he filed as “Married Filing Separate” for 2015 and 2016 and his AGI for those
+years was about $53,300 and $44,700.    
+4 In the decision, the Judge failed to identify the specific mitigating conditions that applied.  He noted five
+mitigating conditions were potentially applicable.  Those mitigating conditions are set forth in Directive , Encl. 2, App.
+A ¶¶ 20(a)-(d) and (g) as follows:
+(a) the behavior happened so long ago, was so infrequent, or occurred under such
+circumstances that it is unlikely to recur and does not cast doubt on the individual's current reliability,
+trustworthiness, or good judgment;
+4
+“National security eligibility determinations take into account a person's stability,
+trustworthiness, reliability, discretion, character, honesty, and judgment.”  Directive , Encl. 2, App.
+A ¶ 1(b).   Failure to comply with Federal tax laws suggests that an applicant has a problem with
+abiding by well-established government rules and regulations.  Voluntary compliance with rules and
+regulations is essential for protecting classified information.  See, e.g., ISCR Case No. 14-04437 at
+3 (App. Bd. Apr. 15, 2016).  In this case, Applicant failed to address his significant 2009 Federal
+income tax debt for a number of years and did so only after his security clearance was in jeopardy. 
+Such a failure raises questions about whether he has demonstrated the high degree of judgment and
+reliability that is required for granting an individual access to classified information.  
+ 
+We conclude that the Judge’s decision failed to consider important aspects of the case and
+runs contrary to the weight of the record evidence.  Furthermore, we conclude that the record
+evidence, viewed as a whole, is not sufficient to mitigate the Government’s security concerns under
+the Egan standard.
+(b) the conditions that resulted in the financial problem were largely beyond the person's
+control (e.g., loss of employment, a business downturn, unexpected medical emergency, a death,
+divorce or separation, clear victimization by predatory lending practices, or identity theft), and the
+individual acted responsibly under the circumstances;
+(c) the individual has received or is receiving financial counseling for the problem from a
+legitimate and credible source, such as a non-profit credit counseling service, and there are clear
+indications that the problem is being resolved or is under control;
+(d) the individual initiated and is adhering to a good-faith effort to repay overdue creditors
+or otherwise resolve debts; [and]
+(g) the individual has made arrangements with the appropriate tax authority to file or pay the
+amount owed and is in compliance with those arrangements.
+As written, the Judge’s decision leaves us guessing which mitigating conditions he concluded either fully or partially
+applied.  This was error.  As we have previously stated, the Judge’s decision must be written in a manner that allows the
+parties and the Board to discern what findings the Judge is making and what conclusions he or she is reaching.  See, e.g.,
+ISCR Case No. 16-02536 at 5 (App. Bd. Aug. 23, 2018).
+5
+Order
+The Decision is REVERSED.  
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                 
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+6

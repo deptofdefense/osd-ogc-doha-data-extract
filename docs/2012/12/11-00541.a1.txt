@@ -1,0 +1,181 @@
+KEYWORD: Guideline K
+DIGEST: The Judge made sustainable findings that  Applicant had inappropriately disclosed
+sensitive information.  The record supports the Judge’s findings and adverse conclusions. 
+Adverse decision affirmed
+CASENO: 11-00541.a1
+DATE: 12/05/2012
+DATE: December 5, 2012
+In Re:
+------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-00541
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Steven H. Levin, Esq.
+1Government Exhibit (GE) 3 is the report of the criminal investigation giving rise to this DOHA proceeding.
+It contains summaries of investigative activity, to include detailed summaries of witness interviews.  Both the president
+and vice-president of Employer were interviewed at the same time.  Although their names were redacted, one of these
+officials stated that he had no knowledge of Applicant’s off-duty consulting work.  The summary also avers that both
+of these officials stated that  it “would have been inappropriate at best for [Applicant] to obtain information in his . . .
+employment related to government work and share that information with others outside the government or persons not
+authorized to receive the information.”   Interview Summary, May 5, 2009.   
+2
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On August 4, 2011, DOHA issued a statement of reasons (SOR) advising Applicant of
+the basis for that decision–security concerns raised under Guideline K (Handling Protected
+Information) and Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan.
+2, 1992, as amended) (Directive).  Applicant requested a hearing.  On August 28, 2012, after the
+hearing, Administrative Judge Marc E. Curry denied Applicant’s request for a security clearance.
+Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in his credibility
+determination; whether the evidence was sufficient to raise security concerns; whether the Judge
+failed to consider all of the record evidence; and whether the Judge’s adverse security clearance
+decision was arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm the
+Judge’s decision.  
+The Judge made the following findings pertinent to the issues raised on appeal: Applicant
+served in the U.S. military from 1974 until his retirement in 1995.  He has held a security clearance
+for more than 35 years.  From March 2002 until February 2010, Applicant worked for a Defense
+contractor (Employer).  From September 2004 until August 2005, Applicant worked part time as a
+consultant for an independent contractor, a person named in the record but identified in the Decision
+as X.  X became the subject of a criminal investigation, due to concerns that he had improperly
+received proprietary information which gave his company an unfair advantage in competing for
+contracts.
+As part of their investigation, investigators searched X’s computer, discovering six e-mails
+from Applicant to X that were labeled as “source selection sensitive,” “Distribution D,” or FOUO.
+These designations impose limitations on the scope of release of the documents.  During a
+subsequent interview, in December 2007, Applicant was presented with copies of these e-mails.  He
+admitted having sent all of the e-mails but one, which he claimed not to remember having sent.
+Applicant did not deny, however, having sent this one as well.  He stated that neither the
+Government nor Employer authorized him to send the information to X.      
+At the hearing, Applicant stated that he had received permission from Employer to engage
+in part-time consulting.  However, both Applicant’s supervisor at Employer, and the president of
+that company, stated that they were unaware of his part-time work.  They also stated that they did
+not know X.1  
+3
+Applicant also testified that he had only provided to X information from the public domain
+which he obtained from the internet.  He attributed the contradiction between his December 2007
+interview and his hearing testimony to a misunderstanding as to whether or not X was a DoD
+contractor.  He testified that before the interview, one of the agents advised him that X was not a
+contractor.  He stated that later he was told the contrary.  Accordingly, he said that his earlier
+answers had been predicated upon misinformation, in that, on the assumption that X was not a
+contractor, it would have been improper to have given him the information at issue here.  An agent
+who was involved in Applicant’s December 2007 interview denied that X’s status had come up
+during the interview.  
+A witness, who had been a project manager for the DoD agency that Applicant supported,
+testified that Applicant was authorized to release four of the six e-mails referenced above.  He stated
+that he did not know if X was a contractor who was authorized to receive the information in these
+e-mails.  Another witness testified concerning one of the e-mails, a message the witness had sent to
+another Government employee and that Applicant had forwarded to X.  He stated that, while
+Applicant would have been allowed to have seen the e-mail, he should not have forwarded it to X,
+who, to the witness’s knowledge, was not part of the program.    
+Another witness, a lead contracting officer for the military service involved in the contract
+at issue in this DOHA proceeding, stated that it was improper for Applicant to have sent out the
+documents in question.  He also stated that Applicant’s conduct did not affect the procurement
+process, because it occurred after contractors were already selected.  
+In the Analysis, the Judge concluded that Applicant’s conduct did not violate the
+Procurement Integrity Act, since it occurred after the award of the contract.  However, the Judge
+concluded that Applicant had, nevertheless, made unauthorized disclosures of protected information
+to X.  He found Applicant’s claim to have had his employer’s permission to work part-time to be
+lacking credibility.  On the other hand, he concluded that the agent who had testified as to the
+circumstances of his December 2007 interview was credible.  The Judge concluded that Applicant
+had failed to demonstrate mitigation.
+Credibility Determination   
+Applicant contends that the Judge erred in his credibility determination.  He states that the
+record as a whole supports Applicant’s testimony at the hearing, including his contention that he had
+received permission from his employer to work off-duty.  We are required to give deference to a
+Judge’s credibility determination.  Directive ¶ E3.1.32.1.  See ISCR Case No. 11-00180 at 5 (App.
+Bd. Jun. 19, 2012).  
+We have reviewed the record in its entirety.  As Department Counsel argues in his reply
+brief, there are significant differences among various statements Applicant made concerning the
+conduct at issue in this case.  We note Applicant’s December 2007 interview, in which he admitted
+that the documents were sensitive and that he should not have provided them to X.  These
+2As stated above, Applicant testified that he had been advised prior to the 2007 interview that X was not a
+Government contractor.  In the interview, however, he stated that he had known X for years, and that X was a consultant
+for companies that did business with the Government.  Interview at 3, included in GE 3.  There was nothing in the
+interview report to suggest that Applicant’s answers about his transmission of sensitive information were predicated upon
+an assumption that X was not a contractor. 
+4
+admissions are corroborated by other evidence contained in the criminal investigation report,
+including statements by officials in a position to know the facts.  On the other hand, Applicant’s
+June 2010 security clearance interview contains some significant discrepancies from his prior
+statement.  In this interview, a summary of which is included in GE 2, Applicant stated that the
+documents were not marked sensitive, etc.  He stated that he had obtained them in meetings while
+working for Employer, saying nothing about having downloaded them from the internet.  He also
+stated that he had given similar documents to others, and that this was not an isolated incident.  It
+is unlikely that a reasonable person would conclude that the discrepancies between Applicant’s 2007
+interview, his 2010 security clearance interview, and his hearing testimony could be explained
+simply by Applicant’s claim that he was misinformed by the criminal investigating agent as to X’s
+status as a contractor.2  Furthermore, Department Counsel notes that Applicant never raised this
+claim in his June 2010 security clearance interview but did so for the first time only at the hearing.
+The portions of the e-mails that were included in GE 3 do not support Applicant’s contention
+that they only contained public domain information that X could easily have obtained himself from
+the internet.  As stated above, the sender of one of the e-mails that Applicant had forwarded to X
+stated explicitly that Applicant’s having done so was not authorized.  Indeed, this e-mail advises the
+recipient not to transmit it outside the office, and there is a paucity of record evidence to explain
+how it would have been obtained through the internet.  Additionally, Applicant’s acknowledgment
+during his 2007 interview that the documents were marked “source selection material,” FOUO, etc,
+appears inconsistent with his hearing testimony that he had obtained them from the internet.  
+Applicant’s claim to have had permission to work off-duty was not supported by the
+statements of his supervisor and the company president.  There is no countervailing record evidence
+in corroboration of Applicant’s claim on this matter.  On the other hand, the Judge’s favorable
+evaluation of the agent’s testimony that he had correctly memorialized Applicant’s interview as
+reflected in GE 3 is consistent with the record evidence.  As the Judge stated, this testimony was not
+seriously undermined by cross-examination.  We find no reason to disturb the Judge’s credibility
+determination.
+Other Issues  
+Applicant argues that his conduct in transmitting the e-mails to X was not improper.  To the
+extent that he is contending that his conduct did not constitute a security concern, we note that the
+Government must produce substantial evidence to establish controverted allegations.  Directive ¶
+E3.1.14; ISCR Case No. 11-10988 at 3 (App. Bd. Sep. 11, 2012).  In this case, Applicant denied the
+allegations contained in the SOR.  In attempting to meet its evidentiary burden, the Government
+5
+presented several pieces of documentary evidence, including GE 2, which contains Applicant’s
+clearance interview, and GE 3, the criminal investigation report, which is lengthy, detailed, and
+internally consistent.  The Government’s case also included the testimony of one of the criminal
+investigators.  The Government has presented substantial evidence that Applicant had disseminated
+sensitive information concerning a Government procurement action without justification or excuse,
+even if the conduct did not violate a criminal statute.  Accordingly, the Government has presented
+substantial evidence of the sole concern alleged under both Guideline K and Guideline E.  
+Applicant contends that the Judge failed to consider all of the record evidence, citing, inter
+alia, the testimony of the DoD project manager.  A Judge is presumed to have considered all of the
+evidence in the record.  See, e.g., ISCR Case No. 09-07219 at 5 (App. Bd. Sep. 27, 2012).  The
+Judge made findings about the project manager’s testimony, but he plausibly explained why he
+concluded that Applicant’s conduct established security concerns and why Applicant had failed to
+mitigate those concerns.  Applicant has not rebutted the presumption that the Judge considered all
+of the record evidence.  
+The record supports a conclusion that the Judge examined the relevant data and articulated
+a satisfactory explanation for the decision, “including a ‘rational connection between the facts found
+and the choice made.’”  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins.
+Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168
+(1962)).  The Judge’s adverse decision is sustainable on this record.  “The general standard is that
+a clearance may be granted only when ‘clearly consistent with the interests of the national security.’”
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):
+“Any doubt concerning personnel being considered for access to classified information will be
+resolved in favor of the national security.”
+Order
+The Judge’s decision is AFFIRMED.  
+Signed: Michael Y. Ra’anan          
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: William S. Fields               
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+6
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board

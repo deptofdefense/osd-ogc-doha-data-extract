@@ -1,0 +1,292 @@
+KEYWORD: Guideline J; Guideline E
+DIGEST: Judge’s favorable decision was undermined by significant inconsistencies among her
+findings.  A Judge may weigh the same conduct differently under different guidelines.  However,
+self-contradictory findings are per se unreasonable and not sustainable.  Favorable decision
+reversed.
+CASE NO: 09-01652.a1
+DATE: 08/08/2011
+DATE: August 8, 2011
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 09-01652
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Julie R. Mendez, Esq., Department Counsel
+FOR APPLICANT
+Pro se
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On July 6, 2010, DOHA issued a statement of reasons (SOR) advising Applicant of the
+basis for that decision–security concerns raised under Guideline J (Criminal Conduct) and Guideline
+E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+(Directive).  Applicant requested a hearing.  On March 25, 2011, after the hearing, Administrative
+Judge Mary E. Henry granted Applicant’s request for a security clearance.  Department Counsel
+appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Department Counsel raised the following issues on appeal: whether the Judge’s conclusions
+under Guideline J were internally inconsistent, contrary to the record evidence, and arbitrary and
+capricious; whether the Judge’s conclusions under Guideline E were arbitrary, capricious, and
+contrary to law; and whether the Judge’s whole-person analysis was arbitrary and capricious.
+Consistent with the following, we reverse the Judge’s decision.  
+Facts
+The Judge made the following pertinent findings of fact: Applicant is a 36-year-old
+engineering technician for a Defense contractor.  He has attended technical school.  Married, he has
+two children.  
+In 2000, Applicant took an airplane trip from his state of residence to another state for the
+purpose of obtaining marijuana.  Applicant and an accomplice intended to return to their home state
+and sell the marijuana for a profit.  When Applicant checked into the airport for the return trip, drug
+dogs alerted on his luggage.  A search uncovered 106 pounds of marijuana.  Applicant pled guilty
+to a charge of possession of marijuana weighing more than 50 lbs but less than 2000 lbs.  The court
+concluded that the evidence substantiated his guilt but deferred an adjudication of guilt, imposing
+community service, 10 years of community supervision, a fine, and payment of court costs.  
+In 2003, Applicant flew from his hometown to a major city in his state of residence.
+Applicant and a friend then proceeded to drive from that city to another.  Although the car was
+owned by Applicant’s friend, Applicant was driving.  A policeman stopped the car upon the
+appearance of erratic driving.  The policeman advised that he smelled marijuana, and Applicant’s
+friend acknowledged that he had a small amount of marijuana on his person.  Applicant was aware
+that his friend was in possession of this marijuana.  The policeman searched the car and found a
+firearm belonging to the friend.  Applicant was arrested on a charge of driving without a license and
+his friend was arrested for possession of marijuana.  A subsequent search of the car’s trunk
+uncovered 2.7 pounds of marijuana secreted in a cooler.  This search also uncovered four stolen
+lottery tickets.  Applicant was charged with (1) possession of marijuana with intent to sell, which
+was a felony; (2) possession of a firearm within arm’s reach, also a felony; (3) receiving stolen
+property, a misdemeanor; and (4) possession of a firearm during the commission of a crime.  This
+last offense was also a felony.
+Pursuant to a plea agreement, Applicant pled guilty to possession of marijuana with intent
+to distribute.  In return the prosecutor recommended probation and a reduced fine, dropping the
+remaining charges.  During the court hearing, Applicant was questioned about the offense in order
+to establish the providence of his plea of guilty.
+Prosecutor: Okay.  Where did you get the marijuana?
+[Applicant]: The marijuana–I didn’t get the marijuana, [friend] did.
+Prosecutor: [Friend] got the marijuana.  Was it his idea?
+[Applicant]: Yes, it was.
+Prosecutor: Did you see him put it in the cooler?
+[Applicant]: No, I didn’t.
+Prosecutor: But you knew it was back there inside the cooler?
+[Applicant]: Yes.
+Prosecutor: Did he tell you he did it?
+[Applicant]: I knew it because I knew he did it.  He had it in the cooler.
+Decision at 6.
+The court sentenced Applicant to a fine and seven years probation.  
+Since his 2003 arrest, Applicant has not seen his friend.  He has not been involved in drugs
+or with the police since 2003.  
+In 2009, Applicant was interviewed by an OPM investigator pursuant to his application for
+a security clearance.  During this interview, he addressed the circumstances underlying his 2003
+conviction for possession of marijuana with intent to distribute.  He stated to the interviewer that he
+was “shocked by the charges for marijuana and stolen lottery tickets as he had no knowledge of
+these items being in the car.”  Decision at 7.  At the hearing in the case before us now, Applicant
+acknowledged to having pled guilty as described above.  However, he contended that, at the time
+of his arrest, he did not actually know that marijuana was in the car.  He testified that he only learned
+about it later.  In answers to DOHA interrogatories, Applicant stated that he last possessed marijuana
+in 2000.  He denied responsibility for the offense.
+Discussion 
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”  Directive, Enclosure 2 ¶ 2(b).  The Appeal Board may reverse the Judge’s
+decision to grant, deny, or revoke a security clearance if it is arbitrary, capricious, or contrary to law.
+Directive ¶¶ E3.1.32.3 and E3.1.33.3.  
+Once a concern arises regarding an Applicant’s security clearance eligibility, there is a strong
+presumption against the grant or maintenance of a security clearance.  See Dorfmont v. Brown, 913
+F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After the Government presents
+evidence raising security concerns, the burden shifts to the applicant to rebut or mitigate those
+concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and mitigating conditions and
+whole person factors does not turn simply on a finding that one or more of them apply to the
+particular facts of a case.  Rather, their application requires the exercise of sound discretion in light
+of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at 3 (App. Bd. Dec. 20,
+2006).
+In deciding whether the Judge's rulings or conclusions are arbitrary or capricious, the Board
+will review the Judge's decision to determine whether:  it does not examine relevant evidence; it fails
+to articulate a satisfactory explanation for its conclusions, including a rational connection between
+the facts found and the choice made; it does not consider relevant factors; it reflects a clear error of
+judgment; it fails to consider an important aspect of the case; it offers an explanation for the decision
+that runs contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere
+difference of opinion.  In deciding whether the Judge's rulings or conclusions are contrary to law,
+the Board will consider whether they are contrary to provisions of Executive Order 10865, the
+Directive, or other applicable federal law.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2,
+2006).
+Department Counsel argues that the Judge’s analysis of the Guidelines J and E security
+concerns did not take into account contrary record evidence.  We find her arguments persuasive.
+The SOR alleged, in paragraph 1, the following conduct under Guideline J:
+a.  You were arrested in about August 2000 in [State A], and charged with
+Possession of Marijuana, More than 50 pounds, Less than 2000 Pounds.  You
+pleaded guilty and were sentenced to 10 years of community supervision and ordered
+to pay a $750.00 fine and court costs.
+b.  You were arrested in about May 2003 in [State B] and charged with (1) and (2)
+two Counts of Violation of [State] Controlled Substance Act, (3) and (4) two Counts
+of Possession of a Firearm During the Commission of Felony and (5) Theft by
+Receiving.  You were found guilty of Count (1) and the other Counts were nolle
+prosequi.  You were sentenced to seven years probation and fined.
+c.  That information set forth under paragraph 2, below, which constitutes a violation
+of Federal Law, Title 18, United States Code, Section 1001, a felony.   
+Paragraph 2 of the SOR contained the sole Guideline E allegation:
+During a subject interview with an authorized investigator for the Department of
+Defense on January 12, 2009, you falsified material facts in that you stated in
+reference to your 2003 arrest, as set forth in subparagraph 1.b above, that you had no
+knowledge of any marijuana in the vehicle you were arrested in; whereas in truth,
+you deliberately failed to disclose that you were aware of the marijuana in the
+vehicle, and that you were transporting the marijuana with the other passenger in the
+vehicle, as cited in your court courtroom testimony during your hearing.
+In his Answer to the SOR, dated July 20, 2010, Applicant stated, “I admit” to each of these
+allegations.  His admissions were not accompanied by explanations or otherwise qualified in any
+way.  In her Analysis, the Judge concluded that the Government had met its burden of production
+1The Federal Rules of Evidence serve as a guide in DOHA hearings.  Directive ¶ E3.1.19.   
+for all the allegations under Guideline J.  In particular, she stated that “the Government provided
+substantial evidence for its allegation of falsification in SOR ¶ 1.c.”  Substantial evidence means
+“such relevant evidence as a reasonable mind might accept as adequate to support a conclusion in
+light of all the contrary evidence in the record.”  See, e.g., ISCR Case No. 08-05637 at 2 (App. Bd.
+Sep. 9, 2010).  Department Counsel states that these conclusions were supported by the record.
+Department Counsel is correct.  Because Applicant admitted the SOR allegations, they are
+not controverted.  Accordingly, these admissions relieved the Government of any burden of
+producing evidence.  See Directive ¶ E3.1.14.  (The Government “is responsible for presenting
+witnesses and other evidence to establish facts alleged in the SOR that have been controverted.”)
+See also ISCR Case No. 02-21087 at 2 (App. Bd. Aug. 19, 2001).   Second, even without reference
+to Applicant’s admissions, the Government presented evidence of Applicant’s alleged misconduct,
+including police reports, arrest warrants, and the transcript of his 2003 court hearing, part of which
+the Judge quoted in her findings.  These exhibits, read in the context of the entire record, to include
+Applicant’s testimony, constitute substantial evidence of the Guideline J security concerns which
+DOHA alleged in the SOR.  Furthermore, as the Judge noted in her Guideline E analysis, Applicant
+is barred from re-litigating his felony conviction in a DOHA proceeding.
+Department Counsel persuasively argues that the Judge erred in her treatment of Applicant’s
+case for mitigation.  Department Counsel notes a significant inconsistency in the Judge’s analysis.
+Although, as stated above, the Judge had concluded that the record contained substantial evidence
+of the alleged misconduct, to include the false statement, she went on to state that “Applicant did
+not falsify his statement to the OPM investigator.”  The Judge then proceeded to analyze the
+Guideline J security concerns on the view that Applicant did not make the false statement and on
+the apparent assumption that he was not guilty of the 2003 felony offense as well.  
+Under the facts of this case, the Judge’s analysis is inconsistent.  Having found that the
+record contained “such relevant evidence as a reasonable mind might accept . . . in light of all the
+contrary evidence in the record” that Applicant made a deliberately false statement during his
+clearance investigation, it was contradictory for the Judge to have gone on to conclude that, in fact,
+he did not do so.  Her conclusion that he did not falsify the statement is also contradicted by a
+portion of her analysis under Guideline E.  Although we defer to a Judge’s credibility determination,
+when, as here, an applicant’s admissions to the SOR and the record evidence viewed as a whole
+support a conclusion that Applicant committed misconduct, a Judge must explain why he or she
+believes an applicant’s testimony to the contrary.  Failure to do so gives rise to the possibility that
+the Judge has simply substituted a favorable impression of an applicant’s demeanor for record
+evidence.  Explanations that are self-contradictory on the essential point are per se unreasonable and
+are not sustainable.
+Concerning the 2003 drug offense, the record contains substantial evidence not merely that
+Applicant pled guilty to this offense but that he was, in fact, guilty.  Among other things, the prior
+similar offense in 2000 is relevant on the question of Applicant’s knowledge and intent during the
+2003 incident.  See Fed. Rule Evid. 404(b).1  The Judge’s favorable conclusion regarding mitigation
+2See, e.g., Tr. at 34: “Q: . . . [Y]ou were asked several times if you knew about the marijuana in the car.  And
+each time, you said, ‘Yes’ . . . [W]hy didn’t you say, ‘I didn’t find out until after we were in jail? A: I had– I’ll tell you
+the yes on that.  I’m not – I just – I wasn’t – I don’t know anything about as far as when that – when that – when I was
+notified.  I didn’t – as far as when the – when the traffic stop, actually stopped, I didn’t know about it.”  
+3In her analysis, the Judge characterized Applicant as a man with only a high school education, who did not
+“understand the nuances of the law[.]” Decision at 12.  She made this statement in support of her belief that Applicant
+did not understand that “intent to distribute” marijuana meant his intent at the time of the offense.  However, Applicant
+was represented at trial by counsel.      
+4Under Guideline J, the Judge found that the Government had presented substantial evidence of a false
+statement.  In her analysis of the same Guideline, however, she stated that she had “found that Applicant did not falsify
+his statement to the OPM investigator[.]” Decision at 11.  Again, under Guideline E the Judge stated that Applicant did
+not know about the marijuana at the time of his arrest.  However, she also found that his statement that he did not know
+about the marijuana at the time of his arrest was deliberately false.  A Judge may weigh the same conduct differently
+under different guidelines.  See, e.g., ISCR Case No. 03-08257 at 3 (App. Bd. May 16, 2008).  However, even when
+did not take into account the extent to which a reasonable person could find Applicant’s presentation
+at the hearing to be lacking credibility.2  Viewed in light of the totality of the record evidence, the
+Judge’s conclusion that Applicant had met his burden of persuasion in mitigation of the Guideline
+J security concerns is not supportable.3 
+Department Counsel persuasively argues that the Judge erred in her analysis of Guideline
+E as well.  The sole allegation under Guideline E was Applicant’s false denial to the investigator of
+any knowledge, at the time of the offense, of the presence of marijuana in the cooler in his friend’s
+car.  As stated above, Applicant admitted this allegation in his reply to the SOR.  Therefore, the
+allegation was not controverted, relieving the Government of any burden of producing further
+evidence.  However, the Government did produce evidence that Applicant had known at the time
+of his arrest that the marijuana was present in the car and that, accordingly, his denial to OPM was
+deliberately false.  
+In her analysis, however, the Judge did not discuss the legal effect of Applicant’s SOR
+admission.  As she had done under Guideline J, she analyzed the record evidence to determine
+whether the Government had met its burden of production, concluding that it had done so.  Although
+Department Counsel argued that the Judge’s ultimate conclusion on this matter was correct, she
+further argued that the reasoning whereby the Judge reached this conclusion was erroneous.  We find
+Department Counsel’s argument persuasive.  The Judge summarized Applicant’s testimony that he
+had not known about the marijuana in the trunk of his friend’s car, treating this testimony as true.
+Upon that assumption, she could not have found that his statement to the investigator was false.
+However, she went on to state, “[g]iven his statement that he learned about the marijuana while in
+the holding cell, he did not provide truthful and accurate information to the OPM investigator about
+the circumstances surrounding his 2003 arrest.”  Decision at 13. (emphasis added) If the Judge
+believed that Applicant did not know about the marijuana at the time of his arrest, she could not
+logically have found that his statement to the investigator denying such knowledge was knowingly
+false.  Her analysis of this issue is contradictory, as was her analysis under Guideline J.  Although
+the Judge’s ultimate conclusion that the Government had presented substantial evidence of a false
+statement is supportable, the analysis whereby she attempted to arrive at this conclusion is arbitrary
+and capricious.4 
+evaluating different guidelines, a Judge cannot find that the same conduct both occurred and did not occur, in the same
+way at the same time.  
+The Judge’s conclusion that the Government had met its burden of production under
+Guideline E required her to evaluate Applicant’s case for mitigation.  Department Counsel contends
+that the Judge’s analysis of this issue is not supportable.  This analysis consisted of the following:
+After his arrest almost eight years [ago], Applicant has changed his behavior and
+friends.  He stays away from individuals engaged in criminal activity, particularly
+individuals who are involved with drugs.  He focuses his energy on his family and
+his work.  For more than six years, he has worked successfully with the same
+company.  In his spare time, he plays drums at his church.  He actively made a
+decision to stay away form his earlier acquaintances, which has changed the
+direction of his life.  This decision show maturity, good judgment, reliability and
+trustworthiness.
+This was the extent of the Judge’s mitigation analysis under Guideline E.  The sole allegation
+under that Guideline was a false statement to an interviewer in 2009, yet the Judge discussed only
+Applicant’s claim to have avoided further drug offenses since 2000 and evidence of his good
+employment record, etc.  Absence of other drug offenses cannot logically mitigate security concerns
+arising from Applicant’s recent false statement.  Moreover, Applicant’s work history and devotion
+to his family, while not irrelevant, are nevertheless insufficient to mitigate an offense that strikes at
+the heart of the security clearance process.  See ISCR Case No. 08-07575 at 2 (App. Bd. Oct. 10,
+2010).  As Department Counsel observed in her brief, there is no evidence that Applicant attempted
+to correct his false statement or that he had made it in reliance upon legal advice, etc.  The Judge’s
+favorable conclusion as to mitigation under this Guideline is not supportable on this record. 
+Department Counsel has challenged the Judge’s whole-person analysis, citing a number of
+comments from the Decision which she argues constitute error.  For example, she cites to the
+Judge’s statement that “Applicant has been honest and forthcoming about his two arrests.”  For
+reasons set forth above, we conclude that this statement is not supportable regarding the 2003
+offense.  Department Counsel also persuasively argues that the Judge’s statement that Applicant had
+been honest throughout the security clearance process was belied by evidence of Applicant’s
+deliberate false statement to the interviewer.  We note other evidence that undermines this statement
+by the Judge.  Applicant testified, and the Judge found, that he was aware that his friend had
+marijuana on his person at the time of the 2003 offense.  Tr. at 26-27.  In his security clearance
+application, however, Applicant stated “I was not aware that any illegal drugs were in the vehicle
+at the time we were stopped.”  Government Exhibit 1 at 24.  This inconsistency further undermines
+the Judge’s conclusion that Applicant had been honest during the security clearance process.  The
+record evidence viewed as a whole does not support the Judge’s whole-person analysis.   
+We note Applicant’s Reply Brief, in which he attempts to explain the discrepancy between
+his testimony to the court in 2003 and his testimony at his security clearance hearing.  “In 2003 I did
+admit to a felony marijuana charge.  I was asked if I knew marijuana was in the cooler and I stated
+‘yes.’  In my [security clearance] hearing . . . I was very nervous, worried and tense about having
+to relive my past mistakes all over again.  I recall stating that I didn’t know that the marijuana [was]
+in the cooler but again I was very tense and worried.”  He appears to concede Department Counsel’s
+argument that his hearing testimony was not accurate, attributing the problem to stress.  Applicant’s
+Reply Brief provides no reason to reject Department Counsel’s arguments.
+In light of (1) Applicant’s SOR admissions to two instances of possessing marijuana with
+intent to distribute and one instance of a deliberately false statement to an OPM investigator; (2)
+record evidence demonstrating the same; (3) inconsistent statements by Applicant; and (4) the
+paucity of mitigating evidence, the Judge’s favorable decision is not sustainable under the Egan
+standard.  “Any doubt concerning personnel being considered for access to classified information
+will be resolved in favor of the national security.”  Directive, Enclosure 2 ¶ 2(b).  
+Order
+The Judge’s favorable security clearance decision is REVERSED. 
+Signed: Michael Y. Ra’anan         
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett               
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board

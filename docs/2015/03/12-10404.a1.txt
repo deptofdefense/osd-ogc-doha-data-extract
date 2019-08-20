@@ -1,0 +1,229 @@
+KEYWORD: Guideline K; Guideline C; Guideline E
+DIGEST: Applicant could not reasonably have believed that he had authority to remove
+classified documents (which were not relevant to his employer’s immediate needs) from another
+government agency outside official channels.  Favorable decision reversed.
+CASENO: 12-10404.a1
+DATE: 03/13/2015
+DATE: March 13, 2015
+In Re:
+------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 12-10404
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Mark D. McMann, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+March 10, 2014, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline K (Handling Protected Information), Guideline
+2
+C (Foreign Preference), and Guideline E (Personal Conduct) of Department of Defense Directive
+5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On October 8, 2014,
+after the hearing, Defense Office of Hearings and Appeals (DOHA) Administrative Judge Robert
+Robinson Gales granted Applicant’s request for a security clearance.  Department Counsel appealed
+pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Department Counsel raised the following issues on appeal: whether the Judge erred by
+requiring the Government to establish a specific security violation; whether the Judge erred in
+concluding that Applicant held a security clearance at the time he obtained custody of classified
+documents; and whether the Judge’s whole-person analysis is erroneous.  The Judge’s favorable
+findings under Guidelines C and E are not at issue in this appeal.  Consistent with the following, we
+reverse.  
+The Judge’s Findings of Fact
+Applicant worked for another Government agency (AGA), retiring in early 2010.  At the time
+of his retirement, he held a Top Secret clearance.  He did not receive an exit briefing.  AGA had
+unique procedures for handling classified information.  For example, Applicant did not have to
+secure courier authorization for document transport.  After his retirement, Applicant began working
+for a Defense contractor (Employer).  He worked there for six months, after which he starting
+working for his current employer.  
+About a month after his retirement, in order to further the accomplishment of his duties with
+Employer, Applicant arranged for a former colleague at AGA to obtain some classified documents
+that Applicant had worked on while in AGA employ.  Applicant’s supervisor at Employer gave him
+verbal authorization to do this and to store the information in the company secure safe.  On March
+30, 2012, “Applicant obtained eight properly sealed classified documents and transferred them to
+the acting Facility Security Officer (FSO) at his place of employment using all the proper protocols.”
+Decision at 4.  
+Later, the FSO conducted an inventory and, after consulting the Joint Personnel Adjudication
+System (JPAS), concluded that Applicant did not possess an active DoD security clearance.  The
+FSO reported this incident to the Defense Security Service which, in turn, advised AGA.  That
+agency purportedly undertook an investigation.  While the investigation was still ongoing, Employer
+concluded that Applicant’s conduct violated company and Government security policies and
+procedures.  Although Applicant was briefed on the correct handling and storing of classified
+information, Applicant did not receive a warning, as alleged in the SOR.  
+ Because it was not able to verify Applicant’s clearance, Employer moved him to
+unclassified direct contract work.  Applicant subsequently notified Employer that he was resigning
+to accept another job, but Employer characterized this as a termination, because Applicant’s
+clearance had not been resolved.
+3
+Applicant had undergone a clearance update in 2009 and was under the impression that his
+clearance was active following retirement, provided that it was picked up by another sponsor.
+Another AGA employee stated the opinion that a clearance remains active for two years from date
+of separation.  After the security incident, Applicant was interviewed by an AGA employee.  At
+Applicant’s request, this official debriefed Applicant.  Neither the videotape of the interview nor the
+debriefing forms were offered as evidence.
+The CEO of Applicant’s current employer had prior experience working for AGA.  He stated
+that when someone with a clearance from AGA leaves the agency for employment as a Defense
+contractor, the normal procedure is for AGA to transfer the clearance to the Defense Security
+Clearance Office (DISCO) upon request.  The CEO provided his opinion that DISCO or someone
+at Employer failed to exercise due diligence in ascertaining whether Applicant had a clearance.  He
+stated that he found nothing in JPAS , so he called a “security officer contact” at AGA, who told him
+that Applicant had “retired clean,” meaning that he had a clearance at the time he had retired.
+Decision at 6.  The CEO was not able to find anything in writing, so Applicant submitted a security
+clearance application as if he did not already possess a clearance.  The Judge found that there is no
+evidence that Applicant’s clearance was ever entered into the appropriate record system by AGA
+or that DISCO ever asked AGA to furnish information about any clearance by Applicant.
+  
+The Judge’s Analysis
+As stated above, the Judge cleared Applicant under Guidelines C and E.  Regarding
+Guideline K, he stated that the Government’s case was based upon two factors.  The first of these
+was the belief that Applicant did not have an active clearance at the time in question.  The Judge
+cited to evidence that the CEO of Applicant’s current employer had contacted a security officer at
+AGA and was told that Applicant retired “clean.”  The second was the assumption that Applicant
+had violated “general unspecified security rules in carrying out” the transfer of documents.  The
+Judge noted evidence that Employer had found Applicant to have been in violation of its security
+rules. However, the Judge stated that no investigative report had been offered into evidence, either
+from Employer or from AGA.  The Judge concluded there was a paucity of evidence sufficient to
+raise security concerns.  However, he also concluded that, even if such concerns were raised,
+Applicant’s good security record other than the incident was sufficient to mitigate the concerns.
+Discussion
+The standard applicable in security clearance decisions “is that a clearance may be granted
+only when ‘clearly consistent with the interests of the national security.’” Department of the Navy
+v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt concerning personnel being considered for access
+to classified information will be resolved in favor of the national security.”  Directive, Enclosure 2
+¶ 2(b).  In deciding whether the Judge's rulings or conclusions are erroneous, the Board will review
+the Judge's decision to determine whether:  it does not examine relevant evidence; it fails to
+articulate a satisfactory explanation for its conclusions, including a rational connection between the
+facts found and the choice made; it does not consider relevant factors; it reflects a clear error of
+judgment; it fails to consider an important aspect of the case; it offers an explanation for the decision
+1Department Counsel cites to Executive Order 13526, Classified National Security Information, which contains
+prohibitions that appear to apply to Applicant’s conduct: § 4.1(a) requires that a person have a need to know classified
+information before being granted access; § 4.1(c) provides that an “official or employee leaving agency service may not
+remove classified information from the agency’s control[;]” and § 4.1(d), which states that “[c]lassified information may
+not be removed from official premises without proper authorization.”   Department Counsel’s appeal argument does not
+rely on this EO, addressing it only in a footnote.  However, we conclude that the EO undermines the implication of the
+Judge’s analysis to the effect that there are no explicit rules against Applicant’s behavior.  
+4
+that runs contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere
+difference of opinion.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2, 2006).
+Department Counsel argues that the Judge erred, insofar as he had required the Government
+to produce evidence of a specific regulatory violation as a basis for concluding that Applicant’s
+circumstances raised concerns under Guideline K.  He contends that Guideline K “is not limited to
+a specific security violation” and that a Judge must look to the totality of an applicant’s conduct
+rather than engage in “a technical debate over the nuances of whether there has been a violation of
+a specific security rule.”  Appeal Brief at 7-8.  
+We find this argument persuasive.  We have previously noted that Guideline K contemplates
+more than the violation of specific rules.  
+Security significant conduct may be ascertained through the application of common
+sense with reference to the broad, overall goal of protecting [classified] information
+. . . Guideline K should be interpreted broadly to further the government’s interest
+in protecting classified . . . information.  The Board will not interpret provisions of
+the Directive in a manner that would undermine the effectiveness of the industrial
+security program in protecting the national security.  ISCR Case No. 11-05079 at 6
+(App. Bd. Jun. 6, 2012).  See also ISCR Case No. 11-12623 at 6 (App. Bd. Feb. 2,
+2015).   
+To apply an overly restrictive interpretation of any of the Guidelines would result in clearance
+decisions being made on the basis of legal technicalities that have more purchase in other types of
+litigation, such as criminal trials, rather than on the basis of national security.  See, e.g., ISCR Case
+No. 03-21262 at 2 (App. Bd. Jul. 10, 2007) (DOHA applicants “are not entitled to the procedural
+protections afforded to criminal defendants.”)   
+In the instant case, irrespective of whether the SOR actually cited to a particular regulatory
+prohibition against Applicant’s conduct,1 we are persuaded by Department Counsel’s argument that
+no reasonable person in Applicant’s position could actually have believed that he had lawful
+authority to remove classified documents from AGA.  Department Counsel cites to record evidence
+that Applicant had approached a named AGA employee and asked him if he would supply Applicant
+with the classified documents.  The employee agreed, and the two met at lunch, during which the
+2“I said this is training material that I would like to take with me . . . would you be able to give it to me at a later
+date when I knew I would be able to go into [Employer’s] office.  He said sure.  So we made arrangements to meet on
+a particular day for lunch.” Tr. at 44.  Later, on cross examination, Applicant continued about this matter, testifying that
+he asked the employee if they could meet at a later date for hand-off of the documents.  “Q: And he did so later?  A: Yes,
+and he also, my understanding is, of course, came under a lot of scrutiny and [was] investigated.  I do not know the
+outcome.  But unfortunately for him it was also something that could have, may have jeopardized his clearance.”  Tr.
+at 61.  
+3“On April 8, 2010, it was reported to the Director of Security at [Employer] that you brought 8 classified
+documents and one working document to the [Employer] facility for storage on March 30, 2010 . . . Upon completion
+of the inventory and during verification of your clearance it was determined that the documents were not related to any
+current [Employer] contract and that you did not possess a DoD clearance.”  Letter from Employer to Applicant, dated
+April 12, 2010, included in Government Exhibit (GE) 3, Interrogatories.   
+4To be fair, the Judge may well have been influenced by Department Counsel’s argument at the close of the
+hearing, which appeared to convey the opinion that Applicant should have a clearance.  Arguments by the parties are
+advisory only, and a Judge must evaluate the case based on the evidence presented. 
+5GE 1, SCA, dated March 12, 2012, at p. 15: “I did not understand that my [AGA] clearance had been
+terminated upon my retirement; therefore I was not in possession of an active security clearance when I picked up the
+documents from my former co-worker . . . My employer . . . provided me with a written warning.”  
+6See, e.g., Interview Summary at p. 2, contained in GE 3: “While working for [Employer] in training,
+[Applicant] brought classified documents that he received from . . . a fellow [AGA employee] that he had worked with
+into a secure facility at [Employer] in order to utilize them in a training program . . . When [Employer] FSO returned
+from leave a few days later . . . she was reviewing the documents and the subject.  When she looked the subject up in
+JPAS, it did not appear to her that he had an active clearance.”   
+5
+employee gave them to Applicant.2  Moreover, we note evidence in the form of a letter from
+Employer to Applicant that the documents in question were not relevant to the company’s business.3
+Under the circumstances, the record does not support a conclusion that Applicant, with over 20
+years’ experience holding a clearance with AGA, reasonably believed that he had authority to
+proceed as he had done.  Accordingly, the lack of reference to a particular security rule does not
+preclude a finding that Applicant’s conduct raised concerns under Guideline K.
+We note the Judge’s conclusion that the absence of investigative reports resulted in a paucity
+of evidence of security concern.4  However, the evidence that the Government produced included
+the letter from Employer referenced in Footnote 3, supra, Applicant’s statements in his Security
+Clearance Application (SCA) to the effect that he had not possessed a clearance at the time of his
+security significant conduct,5 and the answers he provided during the security clearance interview.6
+Read in light of Applicant’s hearing testimony, these documents constitute substantial evidence of
+the concern raised by the SOR allegation.  See, e.g., ISCR Case No. 11-03500 at 3 (App. Bd. Feb.
+28, 2012). 
+In any event, Applicant admitted the allegation at issue here (albeit with an explanation),
+which stated that he had “solicited and/or obtained classified documents from an employee of
+[AGA], outside of official channels and without first determining [his] clearance eligibility for
+access to that material[.]” SOR ¶ 1(a).  The Government is required to present evidence only in
+7Directive, Enclosure 2 ¶ 34(d).  Department Counsel’s Appeal Brief asserts that, after the Judge issued his
+decision, DOHA received new evidence from AGA that could form the basis of additional allegations.  Department
+Counsel requests that we remand the case for a new hearing, in anticipation of which DOHA will amend the SOR to
+include allegations based on this evidence.  In the first place, this aspect of Department Counsel’s brief consists of new
+evidence not contained in the record, which we cannot consider.  Directive ¶ E3.1.29.  Moreover, in the past we have
+remanded cases to resolve questions of due process or jurisdiction.  See, e.g., ISCR Case No. 11-15005 at 2 (App. Bd.
+Jan. 24, 2014).  However, we have declined to remand cases for the purpose of taking in new evidence.  See, e.g., ISCR
+Case No. 14-00976 at 3 (App. Bd. Feb. 5, 2015).  In a case where new derogatory evidence comes to light regarding an
+individual with a clearance, DOHA can issue a new SOR to address the newly discovered evidence.    
+6
+regard to allegations that have been controverted.  Applicant’s admission relieved the Government
+of its burden of production, and the Directive presumes a nexus between admitted or proven conduct
+under any of the Guidelines and an applicant’s security worthiness.  See, e.g., ISCR Case No. 14-
+02447 at 5 (App. Bd. Feb. 26, 2015).  Therefore, the record as a whole, containing both Applicant’s
+SOR admission and the evidence that the Government produced, was sufficient to raise a concern
+that Applicant had engaged in “inappropriate efforts to obtain or view classified or other protected
+information outside [his] need to know.”7 
+As we have stated many times before, security violations strike at the heart of the industrial
+security program.  An applicant who has committed such violations has “a very heavy burden” of
+persuasion, and the Judge must examine the applicant’s case for mitigation with “strict scrutiny.”
+ISCR Case No. 07-08119 at 3-4 (App. Bd. Jul. 8, 2010).  In the case before us, Applicant’s security-
+significant conduct is sufficient to raise doubts in a reasonable mind as to whether he is entitled to
+a clearance.  We conclude that, under the facts of this case, Applicant’s lack of subsequent violations
+is not sufficient to remove those doubts.  Therefore, they must be resolved in favor of national
+security.  The Judge’s decision fails to articulate a satisfactory explanation for its conclusions, fails
+to consider important aspects of the case, and offers an explanation for the decision that runs
+contrary to the weight of the record evidence  In light of this holding, we do not need to address the
+other issues raised by Department Counsel, save the one discussed in Footnote 7.  
+Order
+The Decision is REVERSED.    
+Signed: Michael Ra’anan              
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett             
+Jeffrey D. Billett
+7
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board

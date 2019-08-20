@@ -1,0 +1,174 @@
+KEYWORD: Guideline F; Guideline K
+DIGEST: The Government offered into evidence reports of investigation for each of the three
+alleged security violations.  Each investigation concluded that Applicant failed to follow
+applicable security procedures during the incident in question.  We give deference to the findings
+and conclusion of security personnel in such investigations.  Adverse decision affirmed.
+CASENO: 15-08385.a1
+DATE: 05/23/2018
+DATE: May 23, 2018   
+In Re:
+---------------------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-08385
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+September 20, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline K (Handling Protected Information) and
+Guideline F (Financial Considerations) of Department of Defense Directive 5220.6 (Jan. 2, 1992,
+as amended) (Directive).  Applicant requested a hearing.  On February 27, 2018, after the hearing,
+Defense Office of Hearings and Appeals (DOHA) Administrative Judge Michael H. Leonard denied
+Applicant’s request for a security clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28
+and E3.1.30.
+Applicant raised the following issue on appeal:  whether the Judge’s decision was arbitrary,
+capricious, or contrary to law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact  
+Applicant is a 60-year-old employee of a defense contractor.  In his security clearance
+application (SCA) of November 2014, Applicant disclosed that he failed to file his Federal and state
+income tax returns for 2012 and 2013.  He attributed that failure to his decision to stop using an
+accountant and to procrastination.  At the hearing, he provided tax transcripts for 2009-2016 that 
+showed he filed his 2012 and 2013 Federal income tax returns in May 2015 and that he failed to file
+his 2015 Federal income tax return in a timely manner.  He filed that latter tax return a month before
+the hearing.  He was due Federal tax refunds for 2009-2016.  He presented a certificate showing he
+is in good standing with all state tax requirements. 
+Applicant’s employer cited him once in 2012 and twice in 2014 for security infractions
+stemming from a failure to follow proper procedures while performing trusted downloads.  No
+evidence was presented that any classified or sensitive information was compromised during these
+incidents.  He was directed to complete remedial training.  Applicant estimates he performed more
+than a 1,000 downloads since commencing his employment.  He attributes the security infractions
+to honest mistakes.  In 2016, he failed to lock a door to a secured laboratory properly .  
+The Judge’s Analysis
+Applicant has a problematic financial history.  Mitigating condition 20(g) applies because
+he is now in compliance with Federal and state tax requirements.1  His tax filing deficiencies were
+not willful or deliberate, but “were due to negligence, carelessness, or inattention due to
+procrastination.”  Decision at 6.  
+Applicant has a problematic history of handling protected information.  He committed three
+security infraction in 2012-2014 due to failing to follow proper procedures.  More recently, he failed
+1 Directive, Encl. 2, App. A ¶ 20(g) states, “the individual has made arrangements with the appropriate tax
+authority to file or pay the amount owed and is in compliance with those arrangements.”
+2
+to lock a door on a secured laboratory properly .  His security infractions were due to negligence,
+carelessness, or inattention.  
+Although the SOR allegations involve different guidelines, the Judge considered the
+allegations together.  He noted the common thread in them is negligence, carelessness, or inattention
+that represent a recurring pattern of questionable judgment and irresponsibility.  While Applicant
+impressed the Judge as sincere, dedicated, and hard-working, he failed to meet his ultimate burden
+of persuasion to show that granting him access to classified information is clearly consistent with
+the national interest. 
+Discussion
+Applicant questions the fairness of the security clearance process due to the ten-month delay
+that occurred between the hearing and the issuance of the Judge’s decision.  He surmises that the
+delay may have occurred due to an increase in the Judge’s workload and argues that delay caused 
+“impressions from other [intervening] cases on [the Judge’s] mind to interfere with his impressions
+gathered at Applicant’s hearing, leaving the Judge to perhaps rely exclusively on his notes and the
+transcript.”  Appeal Brief at 4.  He further argues that “[t]he negative impact of an overloaded
+adjudication process is prejudicial to Applicant in that the Judge’s whole perception cannot be
+contained in his notes and in that the process which includes a live appearance before the Judge is
+now taking away the benefits of such a live encounter.”  Id.  Applicant’s arguments are not
+persuasive.  His arguments amount to speculation about why the delay occurred and what impact,
+if any, the delay may have had on the Judge’s adjudication of the case.  The Appeal Board will not
+speculate about such matters.  Absent a showing that the timing of the issuance of the Judge’s
+decision caused an identifiable prejudice to the appealing party, mere proof of a delay is not
+sufficient to warrant remand or reversal of a Judge’s decision.  See, e.g. ISCR Case No. 02-32581
+at 3 (App. Bd. Jun. 9, 2005).  Applicant has not established that any identifiable prejudice occurred
+in his case.
+In his analysis, the Judge stated “the failure to timely file tax returns and pay tax when due
+bears close examination and is a matter of serious concern to the federal government.”  Decision at
+6.  Applicant challenges the Judge’s use of the phrase “and pay tax” in that sentence, noting that he
+has always overpaid his taxes.  When reviewing a Judge’s decision, we do not consider individual
+sentences in isolation but rather consider them in light of the decision in its entirety.  See, e.g., ISCR
+Case No. 11-13664 at 5 (App. Bd. Aug. 15, 2013).  When the challenged sentence is viewed in light
+of the decision as a whole, we note it is not referring to the facts in Applicant’s case, but instead is
+stating a general principle pertaining to security clearance adjudications.  The Judge made clear in
+his findings of fact that Applicant was due refunds from the IRS for 2009-2016.  Applicant has not
+established that the Judge erred in misconstruing the evidence regarding his payment of taxes.  
+3
+Applicant cites to 26 U.S. Code § 6511, which sets forth time limits for claiming a Federal
+tax refund, and argues the IRS was not concerned with his tax filing delays because they simply paid
+some of the refunds without any sanctions or warnings.  He argues that he has leeway in filing his
+tax returns when a refund was due.  This argument is misplaced.  In general, security clearance
+adjudications are not concerned about whether an applicant is eligible to receive a tax refund, but
+rather with, among other matters, his or her willingness to abide by rules and regulations, including
+tax filing deadlines, which is indicative of whether he or she will comply with security requirements
+to protect classified or sensitive information.  Even if an applicant has corrected his or her tax
+problems and is now motivated to prevent such problems in the future, a Judge is not precluded from
+carefully considering an applicant’s security worthiness in light of longstanding prior behavior
+evidencing irresponsibility.  See, e.g., ISCR Case No. 14-01894 at 4-5 (App. Bd. Aug. 18, 2015)
+(discounting a “no harm, no foul” or “all’s well that ends well” mitigation analysis in a tax
+deficiency case).  See also, ISCR Case No. 15-01031 (App. Bd. Jun. 15, 2016) (reversing a Judge’s
+grant of a security clearance for an applicant who was entitled to tax refunds for each of the three
+years in which he failed to file his tax returns in a timely manner).  In this case, Applicant has failed
+to show that the Judge erred in concluding that his tax filing deficiencies “were due to negligence,
+carelessness, or inattention resulting from procrastination.”  Decision at 6.       
+Applicant argues that there is no direct linkage between his failure to file tax returns in a
+timely manner and a failure to comply with security requirements.  We note the Directive  presumes
+there is a nexus or rational connection between proven circumstances under any of its guidelines and
+an applicant’s security eligibility.  See, e.g., ISCR Case No. 14-04648 at 3 (App. Bd. Sep. 9, 2015). 
+Direct or objective evidence of nexus is not required.  See, e.g., 12-00084 at 3 (App. Bd. May 22,
+2014).  Furthermore, in this case, Applicant’s argument is rendered fatuous by his repeated security
+violations. 
+Applicant claims that one of the alleged security infractions involved a subject matter expert
+(SME) who failed to give him full and accurate information about a download that led to the
+infraction.  He argues the incident was the SME’s, and not his, fault.  While he failed to identify in
+his appeal brief which of the three alleged security infractions involved the SME, we believe he may
+be referring to the incident that occurred in July 2014.  We do not find Applicant’s argument
+persuasive.  The Government offered into evidence reports of investigation for each of the three
+alleged security violations.  Government Exhibits 3-5.  Each investigation concluded that Applicant
+failed to follow applicable security procedures during the incident in question.  We give deference
+to the findings and conclusion of security personnel in such investigations.   See, e.g., ISCR Case
+No. 10-07070 at 8 (App. Bd. Apr. 19, 2012) (“[B]ecause of the unique position of employers as
+actual administrators of classified programs and the degree of knowledge possessed by them in any
+particular case, their determinations and characterizations regarding security violations are entitled
+to considerable deference, and should not be discounted or contradicted without a cogent
+explanation.”).  Additionally, in responding to the SOR, Applicant admitted each of the alleged
+security violations.  We conclude Applicant’s argument that the SME was responsible for one of the
+security violations is an insufficient basis to successfully challenge any of the Judge’s findings or
+conclusions under Guideline K.  
+4
+Applicant also makes a number of arguments that amount to a disagreement with the Judge’s
+weighing of the evidence.  For example, he emphasizes that he is now in compliance with all Federal
+and state tax requirements; that he never failed to pay his taxes; that, based on the number of
+downloads he has performed over the years, three infractions is infrequent; and that over four years
+have passed since the occurrence of any matter alleged in the SOR.  These arguments are not
+sufficient to show that the Judge weighed the evidence in a manner that was arbitrary, capricious,
+or contrary to law.   See, e.g., ISCR Case No. 14-06440 at 4 (App. Bd. Jan. 8, 2016).  In this regard,
+we note that security violations “strike at the heart of the industrial security program.”  Once it is
+established that an applicant has committed security violations, he or she has a “very heavy burden”
+of persuasion as to mitigation.  Accordingly, a Judge must give any claims of reform or
+rehabilitation “strict scrutiny.”  See, e.g., ISCR Case No. 16-01077 at 3 (App. Bd. Apr. 25, 2018). 
+ The Judge’s conclusion that Applicant failed to meet his ultimate burden of persuasion is
+sustainable.  
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App A. ¶ 2(b):  “Any
+doubt concerning personnel being considered for national security eligibility will be resolved in
+favor of the national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan        
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Charles C. Hale           
+Charles C. Hale
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy             
+James F. Duffy
+Administrative Judge
+5
+Member, Appeal Board
+6

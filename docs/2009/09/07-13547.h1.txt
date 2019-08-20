@@ -1,0 +1,349 @@
+1
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+----------------------------------  ) ISCR Case No. 07-13547
+SSN: -------------------------- )
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Alison O’Connell, Esq., Department Counsel
+For Applicant: Alan V. Edmunds, Esq. 
+                     
+           
+______________
+Decision
+______________
+LEONARD, Michael H., Administrative Judge:
+This is a security clearance case in which Applicant contests the Defense
+Department’s intent to revoke his eligibility for an industrial security clearance. The
+action is based on psychological conditions, security violations, and foreign influence
+security concerns. The security violations and foreign influence concerns are resolved in
+Applicant’s favor. For the psychological conditions, it is undisputed that Applicant suffers
+from bipolar disorder, and he has been under the care of a psychiatrist since 2005.
+Applicant did not meet his burden to present sufficient evidence to explain, extenuate,
+or mitigate the security concerns raised by his bipolar disorder. Accordingly, as
+explained in more detail below, this case is decided against Applicant. 
+  This case is adjudicated under Executive Order 10865, Safeguarding Classified Information within Industry,1
+dated February 20, 1960, as amended, and DoD Directive 5220.6, Defense Industrial Personnel Security
+Clearance Review Program , dated January 2, 1992, as amended (Directive). In addition, because the SOR
+was issued after September 1, 2006, the revised Adjudicative Guidelines for Determining Eligibility for Access
+to Classified Information (Revised Guidelines) approved by the President on December 29, 2005, then made
+effective within the Defense Department on September 1, 2006, apply to this case. They supersede or replace
+the guidelines published in Enclosure 2 to the Directive. 
+ Exhibit 6.  2
+ Exhibit 7. 3
+2
+Statement of the Case
+Acting under the relevant Executive Order and DoD Directive,  the Defense1
+Office of Hearings and Appeals (the Agency) issued a statement of reasons (SOR) to
+Applicant on December 17, 2008. The SOR is equivalent to a complaint and it details
+the factual basis for the action. The SOR alleged security concerns under Guideline I for
+psychological conditions, Guideline K for handling protected information, and Guideline
+B for foreign influence. The SOR also recommended submitting the case to an
+administrative judge for a determination to deny or revoke Applicant’s security-
+clearance eligibility.  
+Applicant answered the SOR on January 13, 2009, and requested a hearing. The
+case was assigned to another administrative judge on April 14, 2009, and a hearing was
+scheduled for May 19, 2009. The hearing was cancelled and the case was reassigned
+to me on May 5, 2009. The hearing then took place as scheduled on June 16, 2009.
+The hearing transcript (Tr.) was received June 24, 2009. 
+Procedural Matters
+Administrative or official notice was taken of certain facts concerning the country
+of Malaysia as set forth in Department Counsel’s written request.  Also, administrative2
+or official notice was taken of certain facts from the DSM-IV-R.3
+Findings of Fact
+In his Answer to the SOR, Applicant admitted, with explanations, the allegations
+except for the allegation in SOR ¶ 3.b. His admissions are incorporated herein as
+findings of fact. Based on the record as a whole, the following facts are established by
+substantial evidence.
+Applicant is a 50-year-old software engineer. He has worked in the defense
+industry, initially as a government employee and then as a defense contractor, since
+1984. He has worked for the same company since 1998. His educational background
+includes a master’s degree in electrical engineering. He is married to his second wife;
+his first wife is deceased. He has two minor children from his current marriage.
+ Exhibit 1.4
+ Tr. 66.5
+ Tr. 68.6
+ Tr. 67. 7
+ Exhibit 5. 8
+3
+Applicant has held a security clearance since about 1984. To retain a clearance,
+he completed a security-clearance application in February 2007.  In doing so, he4
+reported, among other things, (1) his involvement in a 2006 security incident, and (2)
+that he was under the care of a psychiatrist for bipolar disorder since 2005.
+In addition to those matters, Applicant disclosed during the security-clearance
+process that his mother-in-law, sister-in-law, and nephew are citizens of Malaysia. His
+wife was born in Malaysia, and she became a U.S. citizen in 1991. His mother-in-law
+now lives in Malaysia, she is in her 70s, and Applicant describes her as “completely
+illiterate” who has no connections to any Malaysian governmental agency.  Applicant5
+and his wife do not provide financial support to her. Applicant’s sister-in-law is now
+married to a U.S. citizen and lives in the U.S.  His sister-in-law has no connections to6
+any Malaysian governmental agency. Applicant’s nephew is a citizen of and a resident
+in Malaysia.  Applicant and his wife stay in contact with the nephew because he is an7
+orphan, but their contact is limited. Applicant has not seen the nephew since 1995,
+when he was eight years old. The communication is typically via e-mail on birthdays and
+holidays. Applicant has no other connections with individuals in Malaysia, and he has no
+business, financial, or property interests in Malaysia. 
+Turning back to the 2006 security incident, the best evidence of this matter is the
+disciplinary paperwork generated by Applicant's employer.  In summary, the employer8
+found Applicant, who was the area information system security officer (ISSO), culpable
+of a security violation because he performed an unauthorized electronic download and
+subsequently removed classified data from a secure system and area. Initially, it was
+believed that there was no classified data contained in the file. Later, it was determined
+that the file did contain data that was classified. As alleged in the SOR and admitted by
+Applicant, this matter involved two separate incidents. The first was when Applicant
+connected a stand-alone unapproved PC to an approved stand-alone classified system
+without permission. The second was when Applicant connected an uncertified PC to a
+classified system without permission. As a result, the employer suspended Applicant
+without pay for five days and warned him that any additional violations would result in
+further disciplinary action, to include termination. The disciplinary paperwork indicates
+no previous disciplinary actions, and the record contains no evidence of any other
+security violation by Applicant. 
+ See Exhibit 7 for information on bipolar disorder. 9
+ Exhibit 4. 10
+ Exhibit 4, p. 7.11
+ Tr. 129–132.12
+ Exhibit AA.13
+4
+Concerning bipolar disorder,  Applicant was first diagnosed with this condition in9
+2005, when he sought help and treatment from a psychiatrist. The Agency referred
+Applicant for an independent psychiatric evaluation in August 2008. The psychiatrist did
+not appear as a witness, and so the facts below are derived from the written report.  In10
+addition, a curriculum vitae or resume was not attached to the report or otherwise
+offered as evidence, and so specific details about the doctor’s knowledge, skill,
+experience, training, or education in the field of psychiatry in general and in treating
+bipolar disorder are unknown. 
+The diagnosis was bipolar I mixed moderate, and the Agency’s psychiatrist also
+observed that Applicant was cutting his 500-mg medication in half and suggested
+Applicant take the medication in three 250-mg pills to obtain the full benefit from the
+medicine. The psychiatrist opined that Applicant was not stable so long as he continued
+to cut the medicine, but this could be cured by taking the medicine properly (three 250-
+mg pills). The psychiatrist also opined that Applicant’s bipolar disorder (1) was not
+causing now or in the future a significant defect in judgment or reliability, and (2) was
+not causing now or in the future a significant defect in psychological, social, or
+occupational functioning.  The prognosis was to continue seeing his psychiatrist. 11
+Applicant remains under the care of his psychiatrist, and he sees the doctor
+about once every three months.  The doctor did not appear as a witness, and so the12
+facts below are derived from a one-page letter, dated June 15, 2009.  The letterhead13
+indicates the doctor is associated with the American Board of Psychiatry and Neurology,
+but otherwise specific details about the doctor’s knowledge, skill, experience, training, or
+education in the field of psychiatry in general and in treating bipolar disorder are
+unknown; again, a curriculum vitae or resume was not attached to the letter or
+otherwise offered as evidence. The psychiatrist’s letter is addressed to whom it may
+concern and consists of five sentences in two paragraphs as follows: 
+I have been following [Applicant] since June 10, 2005, for a diagnosis of
+Bipolar disorder. His current medication is [medicine] 750 mg daily and his
+most recent [medicine] level was 57 on February 11, 2009. 
+My last appointment with [Applicant] was on May 1, 2009, and he was
+doing very well, with overall mood, sleep and thought processes. He has
+ Exhibit AA. 14
+ Tr. 85.15
+ Tr. 89.16
+ Tr. 130.17
+ Department of Navy v. Egan, 484 U.S. 518, 528 (1988) (“it should be obvious that no one has a ‘right’ to18
+a security clearance”); Duane v. Department of Defense, 275 F.3d 988, 994 (10  Cir. 2002) (no right to ath
+security clearance).
+ 484 U.S. at 531.19
+ Directive, ¶ 3.2. 20
+ Directive, ¶ 3.2. 21
+ ISCR Case No. 02-18663 (App. Bd. Mar. 23, 2004).22
+5
+been compliant with his treatment regimen and keeps appointments
+regularly. Currently, his prognosis is good.  14
+Applicant has been on the three 250-mg pills daily regimen since about October
+2008.  He has taken the medication consistently without exception.  Applicant15 16
+understands that the course of his treatment will be staying on bipolar medication for the
+rest of his life.  17
+Policies
+This section sets forth the general principles of law and policies that apply to an
+industrial security clearance case. To start, the only purpose of a clearance decision is
+to decide if an applicant is suitable for access to classified information.
+It is well-established law that no one has a right to a security clearance.  As18
+noted by the Supreme Court in the case of Department of Navy v. Egan, “the clearly
+consistent standard indicates that security clearance determinations should err, if they
+must, on the side of denials.”  Under Egan, Executive Order 10865, and the Directive,19
+any doubt about whether an applicant should be allowed access to classified
+information will be resolved in favor of protecting national security.
+A favorable clearance decision establishes eligibility of an applicant to be granted
+a security clearance for access to confidential, secret, or top-secret information.  An20
+unfavorable decision (1) denies any application, (2) revokes any existing security
+clearance, and (3) prevents access to classified information at any level.  21
+There is no presumption in favor of granting, renewing, or continuing eligibility for
+access to classified information.  The government has the burden of presenting22
+ Directive, Enclosure 3, ¶ E3.1.14.23
+ Directive, Enclosure 3, ¶ E3.1.15.24
+ Directive, Enclosure 3, ¶ E3.1.15.25
+ Egan, 484 U.S. at 531. 26
+ ISCR Case No. 01-20700 (App. Bd. Dec. 19, 2002) (citations omitted).27
+ Executive Order 10865, § 7.28
+ Revised Guidelines, ¶¶ 6, 7, and 8 (setting forth the security concern and the disqualifying and mitigating29
+conditions). 
+6
+evidence to establish facts alleged in the SOR that have been controverted.  An23
+applicant is responsible for presenting evidence to refute, explain, extenuate, or mitigate
+facts that have been admitted or proven.  In addition, an applicant has the ultimate24
+burden of persuasion to obtain a favorable clearance decision.  In Egan, the Supreme25
+Court stated that the burden of proof is less than a preponderance of the evidence.26
+The agency appellate authority has followed the Court’s reasoning, and a judge’s
+findings of fact are reviewed under the substantial-evidence standard.27
+The Revised Guidelines set forth adjudicative guidelines to consider when
+evaluating a person’s security clearance eligibility, including disqualifying conditions
+(DC) and mitigating conditions (MC) for each guideline. In addition, each clearance
+decision must be a commonsense decision based upon consideration of all the relevant
+and material information, the pertinent criteria and adjudication factors, and the whole-
+person concept. 
+A person granted access to classified information enters into a special
+relationship with the government. The government must be able to have a high degree
+of trust and confidence in those persons to whom it grants access to classified
+information. The decision to deny a person a security clearance is not a determination
+of an applicant’s loyalty.  Instead, it is a determination that an applicant has not met the28
+strict guidelines the President has established for granting eligibility for access.
+Analysis
+The gravamen of this case is whether Applicant’s suitability for access to
+classified information is questioned or put into doubt due to his ongoing mental-health
+condition of bipolar disorder. But before addressing that issue, it is necessary to
+address the other guidelines set forth in the SOR.
+Concerning foreign influence under Guideline B,  Applicant does have family29
+ties, via his marriage, to Malaysia that fall within the scope of the guideline as potentially
+disqualifying matters. But based on this record, coupled with Applicant’s longstanding
+ties and faithful service to the U.S., his family ties to Malaysia are rather bland and
+ Revised Guidelines, ¶¶ 33, 34, and 35 (setting forth the security concern and the disqualifying and mitigating30
+conditions). 
+ Revised Guidelines, ¶¶ 27, 28, and 29 (setting forth the security concern and the disqualifying and mitigating31
+conditions). 
+ Revised Guidelines, ¶ 27. 32
+7
+benign and do not create a heightened risk of exploitation due to foreign influence.
+Accordingly, Guideline B is decided for Applicant.
+Concerning handling protected information under Guideline K,  Applicant’s30
+security incident in October 2006, which was based on two separate incidents, falls
+within the scope of the guideline as potentially disqualifying matters. The record shows
+this was a serious matter as reflected by the employer-imposed punishment. The record
+also shows Applicant is no longer serving as the ISSO, he has a favorable (if not hyper-
+sensitive) attitude toward security responsibilities, and there are no other similar
+incidents in his background. Taken together, these two security violations in the same
+month during a 25-year career in the defense industry are not so singularly egregious
+that Applicant should be disqualified on this basis. Accordingly, Guideline K is decided
+for Applicant.
+Under Guideline I,  the suitability of an applicant may be questioned or put into31
+doubt due to an applicant’s psychological conditions. The overall concern under the
+guideline is that:
+Certain emotional, mental, and personality conditions can impair
+judgment, reliability, or trustworthiness. A formal diagnosis of a disorder is
+not required for there to be a concern under this guideline. A duly qualified
+mental health professional (e.g., clinical psychologist or psychiatrist)
+employed by, or acceptable to and approved by the U.S. Government,
+should be consulted when evaluating potentially disqualifying and
+mitigating information under this guideline. No negative inference
+concerning the standards in this guideline may be raised solely on the
+basis of seeking mental health counseling.32
+The guideline provides for three conditions that could raise security concerns and
+may be disqualifying. The three conditions are as follows:
+Behavior that casts doubt on an individual's judgment, reliability, or
+trustworthiness that is not covered under any other guideline, including but
+not limited to emotionally unstable, irresponsible, dysfunctional, violent,
+paranoid, or bizarre behavior;
+An opinion by a duly qualified mental health professional that the individual
+has a condition not covered under any other guideline that may impair
+judgment, reliability, or trustworthiness; and
+ Revised Guidelines, ¶ 28 (a) – (c).33
+ Exhibit 4. 34
+ Exhibit 4. 35
+8
+The individual has failed to follow treatment advice related to a diagnosed
+emotional, mental, or personality condition, e.g., failure to take prescribed
+medication.33
+In SOR ¶¶ 1.c and 1.d, the Agency alleged and Applicant admitted behavior that
+appears somewhat odd or strange. Because Applicant admitted the behavior, it was not
+addressed in detail in the findings of fact. It was not alleged in the SOR, but it was
+certainly implied or suggested by the Agency’s case at hearing that the behavior was a
+manifestation of or related to Applicant’s bipolar disorder. The record does not persuade
+me that is the case despite that the behavior in question was odd or strange. The
+Agency’s psychiatrist did not address this behavior in the evaluation.  And no other34
+evidence (for example, expert witness testimony) was produced to show that the
+behavior in question was a manifestation of or related to Applicant’s bipolar disorder,
+and I cannot assume it to be the case. Accordingly, on this basis, the first DC
+concerning paranoid or bizarre behavior does not apply against Applicant. 
+But both the second and third DC apply against Applicant. They apply because,
+as I read the evaluation in its entirety, the Agency’s psychiatrist found Applicant was
+unstable in August 2008 due to cutting his prescribed medication.  Given these35
+circumstances, security concerns about Applicant’s judgment, reliability, or
+trustworthiness are justified. 
+The guideline also provides the certain facts and circumstances may mitigate
+security concerns. The five mitigating conditions under the guideline are:
+The identified condition is readily controllable with treatment, and the
+individual has demonstrated ongoing and consistent compliance with the
+treatment plan;
+The individual has voluntarily entered a counseling or treatment program
+for a condition that is amenable to treatment, and the individual is currently
+receiving counseling or treatment with a favorable prognosis by a duly
+qualified mental health professional;
+Recent opinion by a duly qualified mental health professional employed
+by, or acceptable to and approved by the U.S. Government that an
+individual's previous condition is under control or in remission, and has a
+low probability of recurrence or exacerbation;
+ Revised Guidelines, ¶ 29 (a) – (e). 36
+ Exhibit AA. 37
+ Tr. 16. 38
+ See Fed. R. Evid. 703 (Bases of Opinion Testimony by Experts). 39
+ Revised Guidelines, ¶ 2 (a)(1) – (9).40
+9
+The past emotional instability was a temporary condition (e.g., one caused
+by death, illness, or marital breakup), the situation has been resolved, and
+the individual no longer shows indications of emotional instability; and
+There is no indication of a current problem.36
+The record supports application of the first, second, and third mitigating
+conditions in Applicant’s favor. Based on this record, however, I am not persuaded that
+Applicant’s condition of bipolar disorder is wholly mitigated and no longer an ongoing
+security concern. What is missing here is persuasive and convincing evidence that
+Applicant’s condition is under control and will remain so for the foreseeable future. 
+In his opening statement, Applicant’s Counsel described Applicant’s
+psychiatrist’s letter  as “the most cogent exhibit” for the Guideline I issues.  That would37 38
+be the case had the letter contained enough detail and context to be helpful. As written,
+it is of little value and receives limited weight. Besides its lack of comprehensiveness,
+the key defect is that—although the  psychiatrist opined that Applicant’s prognosis was
+good—I have no idea why the psychiatrist came to that opinion because the letter does
+not provide the bases of the opinion.  The facts or data that the psychiatrist relied upon39
+may have provided the context for the prognosis. Also, it may have demonstrated that
+the prognosis was thoughtful, reasonable, and valid, which is the type of prognosis a
+clearance decision may be based upon. This type of evidence is typically provided
+through expert witness testimony or a comprehensive report or both. The five-sentence
+letter raises as many questions as it appears to answer. And given the clearly-
+consistent standard, coupled with Applicant’s chronic condition, the five-sentence letter
+is not sufficient evidence to satisfy Applicant’s burden. Accordingly, Guideline I is
+decided against Applicant. In reaching this conclusion, I gave due consideration to
+Applicant’s favorable evidence, to include the character witness and Exhibits A–AA, and
+I also considered the nine-factor whole-person concept.  Although much of this40
+information is helpful to Applicant, it is insufficient to meet his burden.
+ 
+To conclude, Applicant did not present sufficient evidence to explain, extenuate,
+or mitigate the security concerns under Guideline I. Applicant did not meet his ultimate
+burden of persuasion to obtain a favorable clearance decision. This case is decided
+against Applicant. 
+10
+Formal Findings
+The formal findings on the SOR allegations, as required by ¶ E3.1.25 of
+Enclosure 3 of the Directive, are:
+Paragraph 1, Guideline I: Against Applicant 
+Subparagraph 1.a:  Against Applicant
+Subparagraph 1.b:  Against Applicant
+Subparagraph 1.c:  For Applicant
+Subparagraph 1.d:  For Applicant
+Paragraph 2, Guideline K: For Applicant
+Subparagraph 2.a: For Applicant
+Subparagraph 2.b: For Applicant
+Paragraph 3, Guideline B: For Applicant
+Subparagraph 3.a: For Applicant
+Subparagraph 3.b: For Applicant
+Subparagraph 3.c: For Applicant
+Conclusion
+In light of the record as a whole, it is not clearly consistent with the national
+interest to grant Applicant eligibility for a security clearance. Eligibility for access to
+classified information is denied.      
+Michael H. Leonard
+Administrative Judge 

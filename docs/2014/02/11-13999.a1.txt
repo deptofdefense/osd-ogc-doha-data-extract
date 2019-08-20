@@ -1,0 +1,255 @@
+KEYWORD: Guideline F
+DIGEST: The Appeal Board evaluates a Judge’s rulings on evidence to see if they are arbitrary,
+capricious, or contrary to law.  Clearance interview summary that Applicant had certified as
+accurate and that was included in his interrogatory answers was admissible as an admission by a
+party opponent.  Favorable decision remanded.
+CASE NO: 11-13999.a1
+DATE: 02/03/2014
+DATE: February 3, 2014
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-13999
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Marvin I. Schlackman, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+March 22, 2013, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.
+On August 28, 2013, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Wilford H. Ross granted Applicant’s request for a security clearance.
+Department Counsel appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+2
+Department Counsel raised the following issues on appeal: whether the Judge erred in
+declining to admit a Government exhibit and whether the Judge’s favorable decision was arbitrary,
+capricious, or contrary to law.  Consistent with the following, we remand the case to the Judge.
+The Judge’s Findings of Fact  
+Applicant is an employee of a Defense contractor.  His SOR listed 10 delinquent debts,
+totaling approximately $79,593.  These debts include unpaid Federal income taxes.  He has a
+payment plan with the IRS, which originally covered tax years 2007, 2008, and 2009.  Taxes for the
+first of these years have been paid.  The plan has been amended, however, to include taxes owed in
+2010 and 2011.  As of the close of the record, Applicant owed the IRS $10,012.77.  He is paying
+$175 a month on this plan.  Applicant had delinquent taxes owed to his state for tax years 2007,
+2008, and 2009.  He has satisfied these debts.
+Applicant also owes delinquent debts on seven credit cards, in amounts ranging from $1,374
+to $21,880.  Applicant has entered into an agreement with a debt resolution company, and these
+credit card debts are being resolved.  He also owes $82 for a cell phone.  He has attempted to resolve
+this debt, but has not had success.  The account appears to be closed.
+His financial problems began when he had a “bad breakup” with his girlfriend.  Decision at
+4.  She lost her job, and he took on all the expenses of the relationship, including her mother’s
+medical and subsequent funeral expenses.  He has also experienced unexpected dental expenses.
+Applicant attempted to resolve his problems himself, but he was not successful.  He lives frugally
+and has the financial ability to pay his current indebtedness, as well as to pay off his delinquent
+debts.
+The Judge’s Analysis
+The Judge concluded that Applicant’s financial circumstances raised concerns under
+Guideline F.  In resolving these concerns favorably to Applicant, the Judge cited to evidence that
+the majority of Applicant’s problems resulted from his breakup with his girlfriend.  He noted that
+Applicant entered into the debt resolution program prior to his receipt of the SOR, that he has
+resolved his state tax debts, and that he has entered into a repayment plan for his Federal taxes
+acceptable to the IRS.  In the whole-person analysis, the Judge cited to permanent behavioral
+changes by Applicant, that he has little potential for duress, and that there is a low likelihood of
+recurrence.
+Discussion
+Once a concern arises regarding an Applicant’s security clearance eligibility, there is a strong
+presumption against the grant or maintenance of a security clearance.  See Dorfmont v. Brown, 913
+F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After the Government presents
+evidence raising security concerns, the burden shifts to the applicant to rebut or mitigate those
+concerns.  See Directive ¶ E3.1.15.  The standard applicable in security clearance decisions “is that
+3
+a clearance may be granted only when ‘clearly consistent with the interests of the national security.’”
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt concerning personnel being
+considered for access to classified information will be resolved in favor of the national security.”
+Directive, Enclosure 2 ¶ 2(b). 
+In deciding whether the Judge's rulings or conclusions are erroneous, the Board will review
+the Judge's decision to determine whether: it does not examine relevant evidence; it fails to articulate
+a satisfactory explanation for its conclusions, including a rational connection between the facts
+found and the choice made; it does not consider relevant factors; it reflects a clear error of judgment;
+it fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2, 2006).
+The Judge’s Ruling on Admissibility of Evidence
+Department Counsel contends that the Judge erred in declining to admit a portion of
+Government Exhibit (GE) 2, Answers to Interrogatories.  We examine a Judge’s rulings on evidence
+to see if they are arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 10-08390 at 3
+(App. Bd. Mar. 30, 2012).  
+GE 2 consisted of DOHA interrogatories concerning Applicant’s debt problems and his
+answers thereto.  It included a copy of the summary of his clearance interview, prepared by the
+investigator in his case.  Regarding this summary, GE 2 contained the following language:
+1.  Enclosed is the report of your subject interview on August 31, 2011, as recorded
+by an authorized investigator for the Department of Defense.  Please read carefully
+the investigator’s summary of the statement you made . . . during your interview.  On
+the last page of these interrogatories, you will be asked to verify the accuracy of the
+investigator’s summary of the interview.
+2.  Does the report of investigation reflect accurately the information that you
+provided to the authorized investigator for the Department of Defense on the day you
+were interviewed?
+Applicant answered “no” to Item 2 above.  GE 2 then went on as follows:
+3.  If the report of investigation does not reflect accurately the information that you
+provided, please explain how the report is not correct.  Add additional pages if
+necessary.
+Applicant provided the following response to Item 3:
+4
+In addition to some of the [reasons] that I incurred financial burdens; I stated that my
+former live-in Domestic Partner’s Job Loss & Mother’s death & Funeral expenses,
+also added to my debt matters.
+Item 4 advised Applicant that he “may also add additional information at this time regarding
+the matters discussed during your interview.”  Applicant responded “Currently enrolled in Debt
+Consolidation/Relief & also Financial Planning assistance.”
+GE 2 then stated as follows:
+5.  Subject to any additions or deletions made above, do you agree with and adopt
+the investigator’s summary as accurately reflecting your interview?  If you agree,
+these interrogatories, along with the content of the attached report of your interview,
+may be admitted into evidence at a hearing to determine your suitability to hold a
+security clearance.  (emphasis added)
+Applicant stated “yes” in response.  After providing Applicant with an additional opportunity to
+state facts or circumstances pertinent to the adjudication of his clearance, an opportunity Applicant
+accepted by citing to his good work record, GE 2 included the following:
+I swear (or affirm) that I have read the enclosed summary of my interview conducted
+on August 31, 2011, and I either found the interview report to be accurate or I have
+added corrected entries to Item Three (3).  If I made entries to Item Four (4), I swear
+(or affirm) such entries are true and correct to the best of my knowledge and belief.
+Further, I swear (or affirm) that the information furnished is true and correct to the
+best of my knowledge and belief.
+Applicant affixed his signature to this certification under oath before a notary public, whose name
+clearly appears along with her notary seal.
+Applicant’s counsel objected to the admission of the interview summary on the ground that
+it was not clear that Applicant understood the significance of his answers and his certification
+regarding the interview summary.  He also stated that the interview summary was not accurate.  Tr.
+at 17 - 20.  The Judge admitted all of GE 2 except the interview summary, which he renumbered GE
+7 for Identification.  Applicant did not object to the admission of GE 2 without the interview
+summary.  Tr. at 23.
+At the conclusion of the hearing, the Judge declined to admit GE 7.  He stated that, during
+cross examination, Department Counsel had not laid a foundation for the admission of the interview
+summary.  
+[Y]ou didn’t question him sufficiently as to how he filled out the interrogatories,
+whether he was adopting them, whether it was a present recollection, recorded past
+1See, e.g., U.S. v. Soures, 736 F.2d 87 at 91 (3d. Cir. 1984), cert. den. 469 U.S. 1161 (1985), for discussion of
+policy underlying the doctrine of completeness: if a portion of a document is admitted into evidence, it may be necessary
+to admit other portions in order to explain the admitted portion, place it in context, or avoid misleading the trier of fact.
+2Applicant’s assertion that the summary was not accurate is not supported by testimony or by other evidence,
+insofar as the summary is generally consistent with Applicant’s presentation at the hearing.  In any event, this would go
+to the weight of the evidence rather than its admissibility. 
+5
+recollection, refreshed.  I didn’t see any of that during your questioning of him.  Tr.
+at 108.
+ 
+The Judge did not grant a request by Department Counsel to recall Applicant in order to lay a
+foundation for the admission of GE 7.
+The Judge’s view that GE 7 lacked an adequate foundation would be more understandable
+had that document been offered as a stand-alone exhibit by Department Counsel and had it not been
+integrally connected to other admissible evidence.  However, GE 7 was not a stand-alone exhibit.
+It was offered as part of GE 2, and it was the Judge’s decision to make it a separate exhibit.  As the
+interview summary was originally submitted, it was part of Applicant’s interrogatory answers and,
+under the facts of this case, its inclusion was necessary in order to render some of those answers
+comprehensible.  That is, the Judge admitted, without Applicant objection, Applicant’s written
+correction to the summary, a correction that did not challenge the accuracy of what was represented
+but supplemented the summary with additional information.  Additionally, the Judge admitted,
+without Applicant objection, Applicant’s adoption of the interview summary, as corrected, as an
+accurate depiction of what he had actually stated to the interviewer.  Having done so, it was
+inconsistent for the Judge to have excluded the very document that was the subject of Applicant’s
+comments and corrections and without which those comments and corrections are without meaning.1
+Evidence that might otherwise be severable from a larger exhibit, but which, under the
+circumstances of a particular case, is necessary in order fully to understand that exhibit, should not
+be excluded without an adequate reason, and one was not supplied in this case.  We find no support
+for Applicant’s counsel’s opinion, stated during his objection, that Applicant did not appear to have
+understood the questions at issue.  To the contrary, the questions were clear and Applicant’s
+answers, as with his answers elsewhere in GE 2, were appropriate and did not betray any lack of
+comprehension.2
+The Judge’s concern appears to have been connected with Directive ¶ E3.1.20, which
+provides that a report of a DoD clearance background investigation (ROI) may be received into
+evidence at a DOHA hearing if supported by an authenticating witness.  Because Department
+Counsel did not call the interviewer or lay a foundation through Applicant, the Judge appears to
+have concluded that the requirements of E3.1.20 had not been satisfied.  However, even though the
+summary may have been drawn from a DoD ROI, it represented Applicant’s own statements
+regarding his security-significant conduct (as opposed to statements by third party interviewees),
+and, incorporated as it was into Applicant’s interrogatory answers, it should have been evaluated
+3“Admission by Party-Opponent.  The statement is offered against a party and is (A) the party’s own
+statement, in either an individual or a representative capacity or (B) a statement of which the party has manifested an
+adoption or belief in its truth . . . ”  Although the Federal Rules of Evidence are not strictly applied in DOHA hearings,
+they do serve as a guide.  Directive ¶ E3.1.19.
+4See FRE 901(a): “The requirement of authentication or identification as a condition precedent to admissibility
+is satisfied by evidence sufficient to support a finding that the matter in question is what its proponent claims.”  
+6
+as an admission by a party-opponent.  See Federal Rule of Evidence (FRE) 801(d)(2).3  We have
+held that interview summaries are admissible in other DOHA cases under circumstances similar to
+those at issue here.  See, e.g., ISCR Case No. 09-06218 at 5 (App. Bd. Sep. 6, 2011).  See also Sea
+Star Line v. Emerald Equipment Leasing, 648 F. Supp. 626 (D. C. Del. 2009) (party’s interrogatory
+answers constitute admissions by a party-opponent).  Applicant’s corrections and notarized
+certification and adoption under oath as to accuracy of the interview summary and of GE 2 in toto
+are sufficient to satisfy Department Counsel’s threshold requirement to show that the exhibit is
+authentic for purposes of Directive ¶ E3.1.20.4  There is no evidence in the record to rebut the
+reasonable inference that GE 2 was what Department Counsel claimed it to have been.  The Judge’s
+failure to admit the interview summary was arbitrary, capricious, and contrary to law.
+Sufficiency of the Judge’s Mitigation Analysis
+Department Counsel argues that the record does not support the Judge’s analysis of
+Applicant’s case for mitigation.  He states that the Judge did not take into account contrary record
+evidence.  We find this argument to be persuasive.  Although a Judge cannot be expected to discuss
+every piece of record evidence, which would be a practical impossibility, he should discuss
+significant contrary evidence, and failure to do so can undermine a Judge’s decision.  See, e.g., ISCR
+Case No. 07-10158 at 4 (App. Bd. Aug. 28, 2008).
+As Department Counsel observes in his brief, the Judge based his favorable mitigation
+analysis on Applicant’s contention that his financial problems resulted from his breakup with his
+girlfriend and from some dental bills.  While there is evidence regarding these matters, which the
+Judge was bound to consider, the record contains other evidence less favorable to Applicant.  We
+note the following, drawn from the record.
+a.  When asked for an explanation for his failure to pay his Federal and/or state income taxes,
+Applicant replied “Lack of Focus & Prioritizing Personal Matters (Poor Budgeting of personal
+matters due to Family Deaths).”  GE 2 at 2.
+b.  During the hearing, Applicant testified that his tax problems were due to his failure
+properly to complete the forms.    
+I used to do my own taxes and so often whenever I’d do them . . . so many times the
+IRS would send me a little letter and they would tell mere that there was an
+adjustment or something that I didn’t do right.  And invariably that would always
+cost me extra money . . .”  Tr. at 92.
+7
+c.  Applicant provided similar information during his interview. 
+[Applicant] has federal and state back taxes he owes from tax years 2007, 2008 and
+2009. [Applicant] would file his federal and state tax returns and would owe taxes
+each year.  He could not afford to pay the taxes.  GE 7 at 2.  
+d.  Applicant attributed his other delinquent debts, at least in some part, to his over-
+generosity.  
+Family is important to me.  Many people that I’ve met through my years and work
+and through education, those things matter tremendously to me.  And it’s not
+responsible, as well as appropriate, to continue to allow yourself to sometimes out
+of the goodness of your heart to help when you’re sometimes not in the best position.
+Tr. at 84-85.  
+It is axiomatic that a Judge must address an applicant’s security significant conduct in light
+of the record as a whole.  The Judge’s analysis in this case did not sufficiently address circumstances
+that were within Applicant’s control or that impugned his good judgment.  We also find persuasive
+Department Counsel’s argument that the Judge did not establish a nexus between those conditions
+that were outside his control, such as his breakup with his girlfriend, and his financial problems.
+Department Counsel cites to ISCR Case No. 06-23362 (App. Bd. Apr. 4, 2008) for the proposition
+that there must be a nexus between an applicant’s security concerns and his mitigating history.  As
+it is, the Judge’s analysis is not sustainable.
+We conclude that the best resolution of this appeal is to remand the case to the Judge with
+instruction that he admit GE 7 into the record and consider it, after which he is to issue a new
+decision that takes into account the issues discussed in our appeal decision. 
+Order
+The case  is REMANDED.   
+Signed: Michael Y. Ra’anan             
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett                 
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+8
+Signed: James E. Moody                  
+James E. Moody
+Administrative Judge
+Member, Appeal Board

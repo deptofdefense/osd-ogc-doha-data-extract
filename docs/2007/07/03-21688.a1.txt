@@ -1,0 +1,139 @@
+KEYWORD: Guideline M; Guideline K; Guideline E
+DIGEST: The Findings challenged by Applicant are either permissible characterizations or
+harmless error.  There is a strong presumption against granting a clearance.  Once the
+government presents evidence raising security concerns the applicant has the burden to establish
+mitigation.  Adverse decision affirmed.
+CASENO: 03-21688.a1
+DATE: 07/02/2007
+DATE: July 2, 2007
+In Re:
+---------
+SSN:-----
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 03-21688
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Dennis J. Sysko, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On October 27, 2005, DOHA issued a statement of reasons advising Applicant of the
+Applicant incorporated the first three assignments of error into his challenge to the Judge’s findings.  1
+The Judge’s favorable decisions under Guidelines M and K are not at issue on appeal.2
+2
+basis for that decision–security concerns raised under Guideline M (Misuse of Information
+Technology Systems), Guideline K (Security Violations), and Guideline E (Personal Conduct) of
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On November 30, 2006, after the hearing, Administrative Judge Christopher
+Graham denied Applicant’s request for a security clearance.  Applicant filed a timely appeal pursuant
+to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raises the following issues on appeal: whether the Judge erred by considering
+evidence not in the record; whether the Judge erred by misinterpreting and improperly and
+erroneously considering evidence in the record; whether the Judge erred by improperly excluding
+psychological testimony; whether the Judge’s findings of fact were not supported by substantial
+evidence;  and whether the Judge’s adverse clearance decision was arbitrary, capricious, or contrary1
+to law.  Finding no error, we affirm.2
+Whether the Record Supports the Judge’s Factual Findings
+A.  Facts
+The Judge made the following pertinent findings of fact: Applicant joined the U.S. Air Force
+in 1978, taking early retirement in 1997.  On three separate occasions, twice in the 1980s and once
+in 1990, Applicant copied software belonging to the U.S. Air Force or to civilian universities for use
+on his personal computer.  He did so in connection with the discharge of his official duties.
+Additionally, in the mid 1990s, he used a government computer to browse the internet after working
+hours.  This computer was not classified and was set aside especially for such personal use and
+members checking their home e-mail accounts, etc.  In 1996, he scanned a photograph of himself
+onto this computer and forwarded it to his home.  He then forwarded this picture to an internet
+agency specializing in assisting customers in meeting women from Eastern Bloc countries.  Upon
+submitting his retirement application, Applicant used this government computer to seek post-military
+employment.  
+Applicant set up a private post office box in order to receive correspondence from the Eastern
+Bloc women he contacted through the internet service.  He received letters from 10 women.  The
+Judge found that Applicant never discussed classified information with them.  In 1997, when his
+private post office box closed, letters were forwarded to his work address, where they were
+discovered by a secretary and presented to Applicant.  Applicant claimed that someone must have
+been joking with him.  He took the letters to the Air Force Office of Special Investigations (OSI) and
+filed a complaint.  He subsequently made a second false report, presenting the OSI with a second set
+of letters.  This was shortly before Applicant retired.  Applicant did not tell his wife of his activities
+with the internet dating service until 2006.  
+In 2003, Applicant had two security violations while working for his civilian employer.  He
+had submitted reports to customers using an unclassified e-mail system.  The reports contained
+3
+“subtle violations” that were not caught by Applicant’s employer or by the program manager.
+Applicant received a letter of reprimand and was given additional training as well as additional staff.
+B.  Discussion
+The Appeal Board’s review of the Judge’s findings of facts is limited to determining if they
+are supported by substantial evidence–such relevant evidence as a reasonable mind might accept as
+adequate to support such a conclusion in light of all the contrary evidence in the record.”  Directive
+¶  E3.1.32.1.  “This is something less than the weight of the evidence, and the possibility of drawing
+two inconsistent conclusions from the evidence does not prevent an administrative agency’s findings
+from being supported by substantial evidence.”  Consolo v. Federal Maritime Comm’n, 383 U.S.
+607, 620-21 (1966).  In evaluating the Judge’s findings, we are required to give deference to the
+Judge’s credibility determinations.  Directive  ¶  E3.1.32.1. 
+The findings which Applicant challenges are either permissible characterizations by the Judge
+or harmless error, in that they would not be reasonably likely to change the outcome of the case.
+Applicant has not met his burden of demonstrating that the Judge’s material findings do not reflect
+a reasonable or plausible interpretation of the record evidence.  We note Applicant’s challenge to
+the Judge’s handling of testimony by a psychologist concerning the results of testing performed on
+Applicant.  The Judge had permitted the psychologist to testify over Department Counsel objection.
+In his decision, the Judge summarized this testimony: “[The psychologist stated that] Applicant’s
+conduct [in filing the false complaints with the OSI] can be explained away because his ethnic
+background is such that the fear of embarrassment and humiliation are some of the worst things that
+can happen to Applicant.”  The Judge went on to state, “I reject the psychologist’s testimony as
+irrelevant and pure speculation.”  Decision at 9.  Applicant interprets this statement as meaning that
+the Judge extended the testimony no consideration at all.  After reading the record, we conclude that
+the Judge did, in fact, consider the testimony but that he found it not to be persuasive.  Considering
+the record as a whole, the Judge’s challenged findings of security concern are sustainable.  
+Whether the Record Supports the Judge’s Ultimate Conclusions
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choices made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of national security.’”  Department of the Navy v. Egan, 484 U.S. 581, 528 (1988). The Appeal
+Board may reverse the Judge’s decision to grant, deny, or revoke a security clearance if it is arbitrary,
+capricious, or contrary to law.  Directive  ¶¶  E3.1.32.3 and E3.1.33.3.  
+“[T]here is a strong presumption against granting a security clearance.”   Dorfmont v. Brown,
+913 F. 2d 1399, 1401 (9  Cir. 1990), cert den 499 U.S. 905 (1991).  Once the government presentsth
+evidence raising security concerns, the burden shifts to the applicant to establish any appropriate
+mitigating conditions.  See Directive  ¶  E3.1.15.  “The application of disqualifying and mitigating
+conditions and whole person factors does not turn simply on a finding that one or more of them apply
+to the particular facts of a case.  Rather, their application requires the exercise of sound discretion
+Many of these same facts were also alleged under Guidelines M and K, which the Judge resolved favorably3
+to Applicant.  We find no inconsistency in the Judge having done so.  While Applicant may have met his burden of
+persuasion as to alleged misuse of technology or to security violations, the Judge could still reasonably believe that the
+totality of Applicant’s conduct reflected negatively upon his judgement and reliability.  See Directive  ¶  D2.A5.1.1.  
+4
+in light of the record evidence as a whole.”  See ISCR Case No. 05-03635 at 3 (App. Bd. Dec. 20,
+2006).  
+We have examined the Judge’s findings in light of the record as a whole.  We conclude that
+he articulated a rational connection between those findings and his ultimate decision.  See ISCR Case
+No. 03-22861 at 2-3 (App. Bd. Jun. 2, 2006).  While the Judge focused most of his attention on
+Applicant’s  two false reports to the OSI and the fact that Applicant neglected for nine years to
+inform his wife of his activities with the internet dating service, the Judge’s formal findings under
+Guideline E encompassed the whole of Applicant’s conduct as reflected in his findings of fact.3
+Under the circumstances, we conclude that his adverse decision is neither arbitrary, capricious, nor
+contrary to law.
+   
+Order
+The Judge’s decision denying Applicant a clearance is AFFIRMED.
+Signed: Jea E. Smallin                 
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: William S. Fields              
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                 
+James E. Moody
+Administrative Judge
+Member, Appeal Board

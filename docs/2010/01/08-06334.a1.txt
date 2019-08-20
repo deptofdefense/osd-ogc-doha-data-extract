@@ -1,0 +1,151 @@
+KEYWORD: Guideline F
+DIGEST: Both parties have demonstrated the Judge made errors which were ultimately harmless. 
+Adverse decision affirmed.
+CASENO: 08-06334.a1
+DATE: 01/15/2010
+DATE: January 15, 2010
+In Re:
+-----
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 08-06334
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Jennifer I. Goldstein, Esq., Department Counsel
+FOR APPLICANT
+Pro Se
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On March 2, 2009, DOHA issued a statement of reasons (SOR) advising Applicant of
+the basis for that decision–security concerns raised under Guideline F (Financial Considerations) of
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+2
+requested a hearing.  On September 21, 2009, after the hearing, Administrative Judge Martin H.
+Mogul denied Applicant’s request for a security clearance.  Applicant appealed pursuant to Directive
+¶¶  E3.1.28 and E3.1.30.  Department Counsel cross-appealed pursuant to Directive ¶ E3.1.28.
+Applicant raised the following issues on appeal: whether certain of the Judge’s findings of
+fact are supported by substantial record evidence and whether the Judge’s adverse security clearance
+decision is arbitrary, capricious, or contrary to law.  On cross-appeal, Department Counsel raises the
+following issue: whether the Judge erred in concluding that three of the SOR allegations did not raise
+Guideline F security concerns.  Finding no harmful error, we affirm.
+A.  Applicant’s appeal:  
+The Judge found that Applicant had numerous delinquent debts, for which she had not
+demonstrated mitigation sufficient to meet her burden of persuasion under the standard set forth in
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  These debts were for such things as
+cable services, consumer debts, etc.  Applicant contends that the Judge erred in concluding that one
+of the debts, for medical services, had not been paid off.  A review of Government Exhibit (GE) 7,
+Credit Report, demonstrates that Applicant had paid off this debt.  Therefore, the Judge’s finding on
+this matter is error.  However, it is harmless in that, even if the error had not been made, the result
+of the case would have been the same.  See ISCR Case No. 01-23362 at 2 (App. Bd. Jun. 5, 2006);
+ISCR Case No. 03-09915 at 5 (App. Bd. Dec. 16, 2004); ISCR Case No. 01-11192 at 5 (App. Bd.
+Aug. 26, 2002).  In light of the record as a whole, the Judge’s adverse conclusions are sustainable.
+B.  Department Counsel’s cross-appeal:
+The SOR contains three Guideline F allegations that describe acts of fraud by Applicant.  The
+first of the three alleges that, in 1995, she admitted to using another person’s ATM card without the
+owner’s authority.  The second alleges that in 1997 Applicant was charged with larceny of a personal
+check, larceny of Government funds, and larceny of private property, for which she was debarred
+from a military installation.  The third alleges that, in 1999, Applicant was arrested in a civilian
+jurisdiction and charged with Financial Card Theft (felony) and Financial Card Fraud.  Applicant
+pled guilty to the second count and the other was dismissed.  Concerning the first two of these
+allegations, the Judge stated that neither allegation “gives any specific insight in this case.”  Decision
+at 3.  Concerning the third, the Judge found that the Government had not provided any information
+on this matter other than a report from the FBI describing the charges and the disposition.  In the
+Analysis portion of the decision, the Judge did not explain why he apparently concluded that the
+three allegations were not supported by substantial record evidence or otherwise did not set forth
+Guideline F security concerns.
+Department Counsel persuasively contends that the Judge erred.  As regards the first of the
+three incidents, the 1995 ATM use, Applicant admitted to this allegation in her response to the SOR.
+Accordingly, the Government was under no obligation to present evidence concerning this matter.
+Nevertheless, the Government did present a report by a military criminal investigation organization,
+GE 8, Criminal Investigation Report, dated October 12, 1995, at 12, 18.  1
+Directive ¶ E3.19(d): “deceptive or illegal financial practices such as embezzlement, employee theft, check2
+fraud . . . .and other intentional financial breaches of trust[.]”  
+GE 9, Criminal Investigation Report, dated January 7, 1997.  3
+Substantial evidence is “such relevant evidence as a reasonable mind might accept as adequate to support a4
+conclusion in light of all the contrary evidence in the same record.”  Directive ¶ E3.1.32.1.  
+GE 10, FBI Identification Record, dated March 13, 2007.  5
+3
+in which Applicant admitted to having used the victim’s ATM card.   This incident occurred on a1
+military installation.  Applicant’s admission to the military investigators is corroborated by
+statements of other witnesses, including the victim, who advised that she did not give Applicant
+permission to use the card.  This allegation of fraudulent use of an ATM card, which Applicant has
+admitted both in the report and in the response to the SOR, raises Financial Considerations
+Disqualifying Condition (FCDC) 19(d).   The Judge’s failure to identify this disqualifying condition,2
+and to analyze it in the context of Applicant’s burden of persuasion as to mitigation, is error.
+Regarding the second fraud allegation, the 1997 larceny of a personal check, the Government
+presented a report, also by a military criminal investigation organization.   All incidents pertinent3
+to this allegation occurred on a military installation.  The report established that Applicant was
+arrested in a stolen vehicle.  The vehicle contained a checkbook belonging to the victim, who had
+reported it stolen along with her wallet.  Someone had written several checks on the victim’s bank
+account without her permission.  The victim told the investigators that, after the theft, a female
+contacted her saying that she would return the stolen wallet.  The victim and the female agreed to
+meet at a location on base for the return of the property.  The victim did meet with a female on the
+date in question, but she did not receive her wallet.  The victim and her husband, who was also
+present, both independently identified Applicant in a photo lineup as the female they met in hopes
+of getting back the wallet. The report concluded that there was probable cause to believe Applicant
+stole the wallet and checkbook.  The U.S. Attorney declined to prosecute Applicant, though the
+military commander debarred her from all of the service’s installations in the state.  The Judge did
+not explain why he concluded that this evidence does not shed light on Applicant’s case, insofar as
+the evidence tracks the SOR allegation in all of its particulars.  The Government has presented
+substantial evidence  of this allegation, raising FCDC 19(d), and the Judge’s failure to treat it this4
+way is error.
+The third allegation in question, the 1999 incident in which Applicant was convicted of
+Financial Card Fraud, is supported by a report prepared by the FBI.   This report demonstrates that5
+Applicant was arrested for two apparently related offenses in July 1999.  She was tried in a state
+District Court and was represented by a public defender.  She pled guilty to the lesser offense, a
+misdemeanor, while the greater offense, a felony, was dropped.  Applicant was sentenced to 30 days
+confinement, 12 months supervised probation, and a requirement to pay restitution.  Concerning this
+allegation, the Judge stated only that the Government presented no further evidence beyond that in
+See Federal Rule of Evidence 404(b), which holds that evidence of other wrongs may be admissible to prove6
+motive, intent, knowledge, absence of mistake, etc.
+In her Subject Personal Interview, contained in GE 4, Answers to Interrogatories, Applicant advised the7
+interviewer that “she was never arrested, booked or processed while at the police department.  She was never summoned
+to court on this matter.”  This is facially contradicted by GE 10.  Additionally, it appears to be inconsistent with
+Applicant’s testimony at the hearing, in which she does not deny that she was arrested and admits that she was charged
+and pled guilty, though she denied criminal intent.  Tr. at 48 - 52.  Additionally, Applicant made inconsistent statements
+concerning the 1995 incident.  In GE 8, Applicant advised military investigators that she used the ATM card in order
+to assist a third person in recovering money which was purportedly owed to the third person by the victim.  However,
+at the hearing, she stated that she had used the ATM to purchase medication for the victim, who was ill.  Tr. at 44 - 46.
+4
+the FBI report, which we construe as meaning that the Government had failed to meet its burden of
+production.  However, under the facts of this case, Applicant’s conviction by a court of competent
+jurisdiction, pursuant to a plea of guilty, of Financial Card Fraud is sufficient to meet the
+Government’s burden.  Moreover, the Judge appears to have  treated this allegation in a somewhat
+piecemeal fashion, rather than in the context of the record as a whole.  For one thing, he did not
+discuss the fundamental similarities among the three allegations at issue in the cross-appeal, all of
+which involve theft of a financial instrument–whether card or check–giving Applicant access to
+another person’s bank account or line of credit.  These similarities warranted the Judge’s discussion.
+Additionally, the similarities are pertinent on the issue of Applicant’s mens rea and undermine
+Applicant’s denial of criminal intent.    Also, the Judge did not discuss Applicant’s inconsistent or6
+contradicted statements, which affect the credibility of her denials of intentional wrongdoing.7
+Again, the Government has presented substantial evidence of this allegation, raising FCDC 19(d),
+and the Judge’s cursory treatment of this allegation is error.
+In light of the errors demonstrated by Department Counsel’s cross-appeal, we might remand
+the case to the Judge for a new decision in which he analyzes the extent to which Applicant met her
+burden of persuasion as to mitigation.  However, in light of the fact that the Judge denied Applicant
+a security clearance based on her delinquent debts, a decision which is sustainable on the record
+before us, no purpose would be served by remand.  Therefore, we conclude that these errors are
+ultimately harmless in that, even were they to be corrected, the outcome of the case would not
+change.
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.  
+Signed: Michael Y. Ra’anan         
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jean E. Smallin                  
+Jean E. Smallin
+Administrative Judge
+5
+Member, Appeal Board
+Signed: James E. Moody                  
+James E. Moody
+Administrative Judge
+Member, Appeal Board

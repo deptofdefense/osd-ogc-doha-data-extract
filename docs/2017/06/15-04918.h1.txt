@@ -1,0 +1,573 @@
+ 
+1 
+ 
+                                                              
+DEPARTMENT OF DEFENSE 
+DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+In the matter of: ) 
+ ) 
+ REDACTED )  ISCR Case No. 15-04918 
+ ) 
+Applicant for Security Clearance ) 
+ 
+ 
+Appearances 
+ 
+For Government: Alison O’Connell, Esq., Department Counsel 
+For Applicant: Pro se 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+MENDEZ, Francisco, Administrative Judge: 
+ 
+Applicant did not present sufficient evidence to mitigate security concerns raised 
+by a history of reckless spending, which recently led him to file for Chapter 7 bankruptcy 
+to resolve a substantial amount of past-due debt. Clearance is denied. 
+ 
+Statement of the Case 
+ 
+On April 29, 2016, the Department of Defense (DoD) Consolidated Adjudications 
+Facility (CAF) sent Applicant a Statement of Reasons (SOR) alleging security concerns 
+under the financial considerations and foreign influence guidelines.1 Applicant answered 
+the SOR and requested a decision on the administrative (written) record (Answer). 
+ 
+ On July 28, 2016, Department Counsel sent Applicant the Government’s written 
+case, known as a file of relevant material (FORM). With the FORM, Department 
+Counsel forwarded to Applicant eight exhibits (Items 1 – 8) that the Government offers 
+                                                          
+1 The CAF took this action under Executive Order (E.O.) 10865, Safeguarding Classified Information 
+within Industry (February 20, 1960), as amended, and DoD Directive 5220.6, Defense Industrial 
+Personnel Security Clearance Review Program (January 2, 1992), as amended (Directive). The CAF 
+presumably adjudicated this case using the previous version of the adjudicative guidelines, which were 
+applicable for all security clearance cases falling under the rubric of the Directive between September 1, 
+2006 and June 7, 2017.  
+ 
+2 
+ 
+for admission into the record. Department Counsel also moved in the FORM to 
+withdraw the foreign influence allegation. The motion was granted unopposed. Applicant 
+submitted a response to the FORM (Response), and offered four exhibits (Exhibits 1 – 
+4) for admission.2 On June 1, 2017, I was assigned the case for decision. 
+ 
+Procedural Issue 
+ 
+ On December 10, 2016, the Director of National Intelligence issued Security 
+Executive Agent Directive 4 (SEAD-4), establishing a “single, common adjudicative 
+criteria for all covered individuals who require initial or continued eligibility for access to 
+classified information or eligibility to hold a sensitive position.”3 The National Security 
+Adjudicative Guidelines (hereinafter “adjudicative guidelines” or “AG”), which are found 
+in Appendix A to SEAD-4, are to be used in all security clearance decisions issued on or 
+after June 8, 2017.4 Accordingly, I have applied the current version of the adjudicative 
+guidelines.5 ISCR Case No. 02-00305 at 3 (App. Bd. Feb. 12, 2003) (security clearance 
+decisions must be based on current DoD policy and standards). 
+ 
+Evidentiary Ruling 
+ 
+DOHA proceedings are designed to allow the parties to present a full, fair, and 
+accurate record of an applicant’s security clearance eligibility.6 In order to achieve these 
+goals, the Directive states that the federal rules of evidence “shall serve as a guide.”7 
+Furthermore, the DOHA Appeal Board has stated that administrative judges should 
+liberally apply the “technical rules of evidence,” and err on the side of admitting all 
+relevant and reliable evidence.8  
+ 
+The Directive, however, does contain one major exception to this evidentiary rule 
+of inclusion. Specifically, pursuant to Directive, Enclosure 3, ¶ E3.1.20, a DOD 
+                                                          
+2 Administrative documents, including confirmation of Applicant’s continuing sponsorship for a clearance, 
+were collectively marked and attached to the record as Appellate Exhibit I. 
+ 
+3 SEAD-4, ¶ B, Purpose.  
+ 
+4 SEAD-4, ¶ C, Applicability.  
+ 
+5 Nonetheless, I have considered the previous version of the adjudicative guidelines and my ultimate 
+decision in this case would have been the same. Specifically, under the previous version of the guidelines 
+(PV-AG), disqualifying conditions PV-AG ¶¶ 19(a) – 19(c), and 19(e) would apply to the circumstances 
+under consideration. For similar reasons noted herein, none of the mitigating conditions listed under PV-
+AG ¶ 20 would fully apply and would be insufficient to mitigate the security concerns at issue. 
+ 
+6 Directive, ¶¶ E3.1.19; E3.1.25. See also, ISCR Case No. 99-0477 (App. Bd. July 25, 2000) (overall 
+purpose of industrial security clearance program is “a full and fair adjudication of cases on the merits.”) 
+ 
+7 Directive, ¶ E3.1.19. 
+ 
+8 ISCR Case No 03-21434 at 5 (App. Bd. Feb. 20, 2007) (“the DOHA process encourages Judges to err 
+on the side of initially admitting evidence into the record, and then to consider . . . what, if any, weight to 
+give to that evidence.”). See also ISCR Case No. 14-06011 (App. Bd. Dec. 9, 2015) (“The weight that a 
+Judge assigns to evidence is a matter within his or her discretion.”). 
+ 
+3 
+ 
+personnel background report of investigation (“ROI”), including the summary of a 
+person’s security clearance interview, is generally inadmissible.9 The danger posed by 
+an unauthenticated interview summary, which an applicant has not affirmatively 
+adopted,10 is self-evident. An investigator, whether intentionally or through sheer 
+negligence, may incorrectly summarize the interview.11  
+ 
+At the same time, the interview summary may contain accurate, reliable, and 
+relevant information that an applicant will want considered (or, may assume a judge will 
+consider in the absence of an objection).12 Accordingly, it is generally an applicant who 
+holds the proverbial “key” as to the admissibility of the summary.13 An issue, however, 
+arises when an applicant does not respond to the FORM or fails to affirmatively indicate 
+that they are waiving their objection to the summary’s admission into evidence.   
+ 
+DOHA administrative judges have treated such situations in two different ways. 
+One set of judges excludes a summary unless an applicant explicitly waives the E3.1.20 
+authentication requirement,14 while another group of judges admits the summary, 
+finding that an applicant’s failure to raise an objection constitutes a waiver of the 
+authentication rule.15 This split appears to only extend to those pro se applicants who 
+                                                          
+9 See also E.O. 10865, Section 5 (prohibiting “investigative reports” without authenticating witness); 
+Directive, ¶ E3.1.22 (prohibiting a third-party statement adverse to an applicant on a controverted issue). 
+ 
+10 See generally ISCR Case No. ISCR Case No. 11-13999 (App. Bd. Feb. 3, 2014); ISCR Case No. 09-
+06218 (App. Bd. Sep. 6, 2011) (error not to admit or fully consider summary of clearance interview that 
+applicant adopted as his own). 
+ 
+11 See e.g. Department of Justice (DOJ) Press Release, U.S. Investigations Services Agrees to Forego at 
+Least $30 Million to Settle False Claims Act Allegations, August 19, 2015, publically available at 
+https://www.justice.gov/opa/pr/us-investigations-services-agrees-forego-least-30-million-settle-false-
+claims-act-allegations; DOJ Press Release, Former Background Investigator For Federal Government 
+Pleads Guilty To Making A False Statement, April 24, 2014, publically available at 
+https://www.justice.gov/usao-dc/pr/former-background-investigator-federal-government-pleads-guilty-
+making-false-statement-1.  
+  
+12 ISCR Case No. 15-05252 (App. Bd. Apr. 13, 2016) (judge erred in sua sponte excluding summary of 
+clearance interview, because applicant was under impression the summary would be considered by the 
+judge as she had not raised an objection to its admission).  
+ 
+13 The Government can overcome an objection to the interview summary by authenticating it and 
+establishing that it is otherwise admissible. See E3.1.20. Additionally, Department Counsel is not hand 
+cuffed by an applicant’s election for a decision on the written record. Under the Directive, Department 
+Counsel can convert such cases to hearing, where they can call an authenticating witness and present 
+additional evidence, including through cross-examination. See E3.1.7. 
+ 
+14 See e.g. ISCR Case No. 15-00262 at 2 (A.J. Leonard Feb. 15, 2017) (notwithstanding explicit warning 
+in FORM to applicant that they could object to the interview summary, judge excluded the summary 
+because “I am not persuaded that a pro se applicant’s failure to respond to the FORM, which is optional, 
+equates to a knowing and voluntary waiver of the authentication requirement.”).  
+ 
+15 See e.g. ISCR Case No. 14-05009 n.1 (A.J. Foreman Feb. 10, 2017) (“Department Counsel informed 
+Applicant that he was entitled to comment on the accuracy of [summary of clearance interview]; make 
+corrections, additions, deletions, or updates; or object to the lack of authentication. I have treated his lack 
+of response to the FORM as a waiver of any objections to [the summary].”). 
+ 
+4 
+ 
+elect a decision on the written record. The same concern that has led some judges to 
+exclude interview summaries offered with a FORM does not appear to extend to pro se 
+applicants who elect a hearing – whether or not such applicants are informed that they 
+can object to a summary’s admission on authentication grounds. 
+ 
+At least one Appeal Board member has expressed some reservation in finding 
+that a pro se applicant, who elects a decision on the written record, waives the 
+authentication requirement when he or she fails to respond to a FORM. See ISCR Case 
+No. 12-10933 (App. Bd. Jun. 29, 2016) (AJ Ra’anan’s concurring opinion). 
+Nevertheless, the Appeal Board in a recent unanimous decision held that a summary of 
+a security clearance interview offered with a FORM was properly admitted by a judge 
+where: (1) the pro se applicant did not raise an objection to the summary’s admission 
+and (2) there was no indication the summary contained inaccurate information. ISCR 
+Case No. 15-01807 (App. Bd. Apr. 19, 2017).16  
+ 
+Here, as in ISCR Case No. 15-01807, Applicant was on clear notice that he could 
+object to the admission of the interview summary, Item 8, or he could comment on the 
+accuracy of the summary. Applicant elected the later option and challenged a specific 
+portion of the summary, notably, that he told the investigator he was making 
+approximately $400,000 while working overseas as a federal contractor.17 He submitted 
+documentation to support his position as to his actual salary and income. I have 
+considered Applicant’s Response and his exhibits in assessing the weight to extend to 
+Item 8. In light of the preceding and the lack of objection by either party to the proffered 
+exhibits, I have admitted them, to include Item 8, into the record.  
+ 
+Findings of Fact 
+ 
+ Applicant served in the U.S. military from 1986 to 2006, and thereafter has 
+worked primarily as a federal contractor. He was offered a position by his sponsoring 
+employer, a defense contractor, in approximately January 2016. He is applying to retain 
+a security clearance that he was initially granted in the early 1990s.18  
+ 
+In 1986, Applicant enlisted in the U.S. Army. His initial application for a security 
+clearance was denied due to illegal drug involvement, namely, preservice drug 
+(marijuana) use and enrollment in a military drug rehabilitation program. He was 
+subsequently granted a security clearance by the Army in 1990 or 1991.19 
+                                                          
+16 See also ISCR Case No. 14-06781 at 3 (App. Bd. Dec. 16, 2016) (failure to raise an objection to an 
+exhibit offered by the Government with the FORM waives it); ISCR Case No. 02-12199 at n. 6 (App. Bd. 
+Oct. 7, 2004) (“An applicant can waive his or her objection to the admissibility of evidence even though 
+the Directive is silent on the matter of waiver.”); ISCR Case No. 08-12061 at 2 (App. Bd. Dec. 15, 2009) 
+("Although pro se applicants cannot be expected to act like a lawyer, they are expected to take timely, 
+reasonable steps to protect their rights under the Directive. If they fail to take timely, reasonable steps to 
+protect their rights, that failure to act does not constitute a denial of their rights.").  
+ 
+17 See FORM n.1; Response at 3, ¶ 3.  
+ 
+18 Response at 8; Item 7. See also App. Exh. I.  
+ 
+19 Item 8 at 7-9; Response.  
+ 
+5 
+ 
+In the mid-1990s, Applicant was investigated by the military for his suspected 
+involvement in the online distribution of child pornography while stationed at a U.S. base 
+in Country X. Applicant denies he engaged in such conduct and states that he only 
+shared adult material (“Penthouse-type” nude photographs of women) with other service 
+members via an online bulletin board. His personal computer was seized by military 
+investigators, and two images of suspected child pornography were found during a 
+subsequent search of the computer.  
+ 
+Applicant was represented by military defense counsel during the course of the 
+ensuing criminal investigation. He states that he was not criminally charged nor 
+otherwise disciplined by the military. He believes that a high-ranking U.S. Army officer, 
+with whom Applicant shared photos with through the online bulletin board, was court-
+martialed. After the investigation was completed, Applicant was allowed to continue to 
+serve in the U.S. Army and retired after twenty years of honorable service in 2006.20 
+ 
+In 2005, Applicant put $40,000 down and signed a contract with a builder to 
+construct a home for his family. The newly built home was completed in 2006. Applicant 
+financed the purchase price of the new home by taking equity out of his existing home 
+and through mortgage loans. He planned to sell his previous home, but due to 
+economic conditions was unable.  
+ 
+A year after the home was completed, in 2007, Applicant accepted a position to 
+work as a U.S. government contractor in Country X. He rented both his homes in the 
+United States. He worked in Country X as a U.S. Government contractor for the next 
+five years, from 2007 to 2012. Upon returning to the United States, Applicant kept 
+working for his former employer until 2015, when he was laid off. He experienced a 
+period of unemployment before being hired by his current employer in January 2016.21  
+ 
+ Applicant claims he started experiencing financial trouble in 2008, in part, 
+because his pay was reduced 22 His W-2 statements for 2007 and 2008 reflect earnings 
+of approximately $118,000 and $300,000, respectively. His IRS account transcripts for 
+2010 – 2014 reflect the following:23 
+ 
+Year Adjusted Gross Income (AGI) (approximate) 
+2010 $140,000 
+                                                          
+20 Item 8 at 6-7. Beyond the summary of the security clearance interview, no evidence was provided 
+regarding the security clearance denial and the child pornography allegations. Applicant was provided a 
+copy of the interview summary with the FORM and nowhere in his Response does he challenge the 
+accuracy or reliability of this portion of the interview. ISCR Case No. 95-0817 (App. Bd. Feb. 21, 1997). I 
+only considered these non-alleged matters in the context of the whole person. ISCR Case No. 14-00151 
+at n.1 (App. Bd. Sep. 12, 2014) (limited purposes a judge can consider non-alleged conduct). 
+ 
+21 Items 3-4; Response. It is unclear from the record whether Applicant’s former employer was aware that 
+Applicant was the subject of a criminal Army investigation when he was previously stationed in Country X. 
+ 
+22 Item 3 (Answer) at 2.  
+ 
+23 The information regarding Applicants earnings and AGI for 2007-2008 and 2010-2014 were taken from 
+Exhibits 2 and 3. Evidence regarding Applicant’s 2009 income and other years was not provided.  
+ 
+6 
+ 
+2011 $115,000 
+2012 $265,000 
+2013 $230,000 
+2014 $200,000 
+ 
+ In the summer of 2009, the tenant renting Applicant’s recently constructed home 
+received orders from the military and moved out. Applicant was unable to re-rent the 
+property, and was unable to afford the mortgages on both his homes. He requested a 
+modification, but the lender denied the request citing to Applicant’s high debt-to-income 
+ratio and that he was not using the property as his primary residence.  
+ 
+Applicant also tried to sell the recently constructed home with no success. He fell 
+behind on his mortgage payments and lender foreclosed on the property in 2010. 
+Applicant submitted a 1099-C showing the cancellation of more than $550,000 owed on 
+the first mortgage, and that the fair market value of the property was less than 
+$420,000.24 Notwithstanding Applicant’s purported inability to pay his mortgage, he took 
+numerous vacation trips to Europe and Asia between 2008 and 2013.25 
+ 
+ In September 2014, Applicant submitted a security clearance application (SCA), 
+which initiated the current reinvestigation. He reported that his past-due credit card and 
+other unsecured debt totaled about $50,000. He explained that “[m]y income has gone 
+down by almost 80% since August of 2012. I have done my best to keep up with all my 
+financial obligations but have had the most difficulty this past year. With my income 
+having gone down so much, I have not been able to keep up with everything.”26 
+Applicant’s IRS account transcripts reflect that his AGI for 2012 and 2013 was over 
+$200,000 for both years.27 He did not report the foreclosure of his home on the SCA.28  
+ 
+In December 2014, Applicant was interviewed by a security clearance 
+investigator. Applicant discussed his financial problems, including the foreclosure, with 
+the investigator. He attributed his financial problems to: (a) the recession, (b) reduction 
+in pay, (c) reliance on credit cards to pay bills, and (d) the cost associated with his wife’s 
+frequent travels to Country X to visit and care for her sick grandmother. Applicant told 
+the investigator that he was in the process paying down his debts.29 
+ 
+                                                          
+24 Item 3; Response; Exhibit 4.  
+ 
+25 Item 4 at 31-41.  
+ 
+26 Item 4 at 47.  
+ 
+27 Exhibit 2.  
+ 
+28 He also did not report on the SCA the 1986 security clearance denied, nor that he had a $30,000 
+outstanding judgment from 2007. See Item 5, Bankruptcy Petition, Schedule F (listing 2007 judgment). 
+These failures to disclose were not alleged in the SOR and are only being considered in assessing 
+mitigation, credibility, and conducting a whole-person assessment.  
+ 
+29 Item 8 at 4-5. See also Item 7 (December 2014 credit report reflects numerous delinquent accounts). 
+ 
+7 
+ 
+ Two of Applicant’s overdue creditors filed lawsuits against him. A month before 
+he was to appear in court to answer their claims, Applicant filed for Chapter 7 
+bankruptcy.30 Applicant’s August 2015 Chapter 7 bankruptcy petition reflects: 
+ 
+ A savings account balance of $6.50.31 
+ 
+ Luxury car purchases in 2012 and 2014, which debts he reaffirmed.32 
+ 
+ Delinquent state and federal taxes totaling about $12,000.33 
+ 
+ Unsecured debt totaling over $190,000. Applicant’s unsecured debt 
+included delinquent credit cards, unpaid loans, an overdrawn checking 
+account, a $30,000 judgment from 2007, and over $100,000 for a 
+mortgage-related debt. Also, listed is another mortgage-related debt for 
+an unknown amount.34 
+ 
+ Monthly income of approximately $10,800 against monthly expenses of 
+about $11,300, leaving a negative $450 monthly remainder. Applicant’s 
+recurring expenses included $1,400 monthly payments for two luxury 
+vehicles and an additional $3,000 a month for the feed and care of a 
+horse and riding lessons for his daughter.35  
+ 
+Applicant’s (dischargeable) debts were discharged through Chapter 7 bankruptcy 
+in November 2015. He used his severance pay to pay his past-due federal taxes in 
+January 2016.36 He states in his Response that he has since sold the horse and no 
+longer has that as an expense. He claims that his past financial problems were, in part, 
+attributable to receiving raises and bonuses that “were so miniscule . . . they had no 
+positive financial impact.”37 
+ 
+Law & Policies 
+ 
+“[N]o one has a ‘right’ to a security clearance.” Department of the Navy v. 
+Egan, 484 U.S. 518, 528 (1988). Individuals are eligible for access to classified 
+                                                          
+30 Item 5 at 1, 30-31. 
+ 
+31 Item 5, Schedule B.  
+ 
+32 Item 5 at 10.  
+ 
+33 Item 5, Schedule E.  
+ 
+34 Item 5, Schedule F.  
+ 
+35 Item 5 at 27; Response at 6-7 (Applicant describes the two luxury car purchases as a “necessity”).  
+ 
+36 Response; Exhibit 1.  
+ 
+37 Item 3 (Answer) at 6. But see Exhibits 2 and 3. 
+ 
+8 
+ 
+information “only upon a finding that it is clearly consistent with the national interest” to 
+authorize such access. E.O. 10865 § 2; SEAD-4, ¶ E.4. 
+ 
+When evaluating an applicant’s eligibility for a security clearance, an 
+administrative judge must consider the adjudicative guidelines. In addition to brief 
+introductory explanations, the guidelines list potentially disqualifying and mitigating 
+conditions. The guidelines are not inflexible rules of law. Instead, recognizing the 
+complexities of human behavior, an administrative judge applies the guidelines in a  
+commonsense manner, considering all available and reliable information, in arriving at a 
+fair and impartial decision. AG ¶ 2. 
+ 
+Department Counsel must present evidence to establish controverted facts 
+alleged in the SOR. Directive ¶ E3.1.14. Applicants are responsible for presenting 
+“witnesses and other evidence to rebut, explain, extenuate, or mitigate facts admitted by 
+the applicant or proven . . . and has the ultimate burden of persuasion as to obtaining a 
+favorable clearance decision.” Directive ¶ E3.1.15.  
+ 
+Administrative Judges make certain that applicants: (a) receive fair notice of the 
+issues, (b) have a reasonable opportunity to address those issues, and (c) are not 
+subjected to unfair surprise. Directive, ¶ E3.1.10; ISCR Case No. 12-01266 at 3 (App. 
+Bd. Apr. 4, 2014). In deciding a case, a judge must resolve any doubt raised by the 
+evidence in favor of the national security. AG ¶ 2(b). See also SEAD-4, ¶ E.4. Moreover, 
+the Supreme Court has held that officials making “security clearance determinations 
+should err, if they must, on the side of denials.” Egan, 484 U.S. at 531.  
+ 
+ A person who seeks access to classified information enters into a fiduciary 
+relationship with the Government predicated upon trust and confidence. This 
+relationship transcends normal duty hours. The Government reposes a high degree of 
+trust and confidence in individuals to whom it grants access to classified information. 
+Decisions include, by necessity, consideration of the possible risk an applicant may 
+deliberately or inadvertently fail to safeguard classified information. Such decisions 
+entail a certain degree of legally permissible extrapolation of potential, rather than 
+actual, risk of compromise of classified information. 
+ 
+Analysis 
+ 
+Guideline F, Financial Considerations 
+ 
+Failure to live within one's means, satisfy debts, and meet financial 
+obligations may indicate poor self-control, lack of judgment, or 
+unwillingness to abide by rules and regulations, all of which can raise 
+questions about an individual's reliability, trustworthiness, and ability to 
+protect classified or sensitive information. . . .38  
+ 
+Guideline F is not limited to a consideration of whether a person with financial 
+issues might be tempted to compromise classified information or engage in other 
+                                                          
+38 AG ¶ 18. 
+ 
+9 
+ 
+illegality to pay their debts. It also addresses the extent to which the circumstances 
+giving rise to delinquent debt cast doubt upon a person’s judgment, self-control, and 
+other qualities essential to protecting classified information.39 
+ 
+ In assessing Applicant’s case, I considered all the disqualifying and mitigating 
+conditions under Guideline F, including the following pertinent ones: 
+ 
+AG ¶ 19(a): inability to satisfy debts; 
+ 
+AG ¶ 19(b): unwillingness to satisfy debts . . .; 
+ 
+AG ¶ 19(c): a history of not meeting financial obligations;  
+ 
+AG ¶ 19(e): consistent spending beyond one's means or frivolous or 
+irresponsible spending, which may be indicated by excessive 
+indebtedness, significant negative cash flow, a history of late payments or 
+of non-payment, or other negative financial indicators; 
+ 
+AG ¶ 19(f): failure to . . . pay annual Federal, state, or local income tax 
+as required; 
+ 
+AG ¶ 20(a): the behavior happened so long ago, . . . or occurred under 
+such circumstances that it is unlikely to recur and does not cast doubt on 
+the individual's current reliability, trustworthiness, or good judgment; 
+ 
+AG ¶ 20(b): the conditions that resulted in the financial problem were 
+largely beyond the person's control (e.g., loss of employment, a business 
+downturn, unexpected medical emergency, . . .), and the individual acted 
+responsibly under the circumstances;  
+ 
+AG ¶ 20(c): the individual has received or is receiving financial 
+counseling for the problem . . . and there are clear indications that the 
+problem is being resolved or is under control;  
+ 
+AG ¶ 20(d):  the individual initiated and is adhering to a good-faith effort 
+to repay overdue creditors or otherwise resolve debts; and 
+ 
+AG ¶ 20(g): the individual has made arrangements with the appropriate 
+tax authority to file or pay the amount owed and is in compliance with 
+those arrangements. 
+ 
+ A security clearance adjudication is not a debt collection process. Instead, an 
+administrative judge examines the way an applicant handles his or her personal 
+financial obligations to assess how they may handle their security obligations.40 
+                                                          
+39 ISCR Case No. 11-05365 at 3 (App. Bd. May. 1, 2012).  
+ 
+40 See generally ISCR Case No. ISCR Case No. 12-09719 at 2-3 (App. Bd. Apr. 6, 2016). 
+ 
+10 
+ 
+Moreover, the resolution of past financial issues alone without evidence of true reform 
+and rehabilitation is of limited probative value in the security clearance context.41  
+ 
+Applicant claims that his financial problems were, in part, attributable to a lack of 
+sufficient income. The record evidence, however, reflects that he earned $300,000 in 
+2008, and his IRS account transcripts from 2010 to 2014 indicate an AGI totaling nearly 
+$1,000,000. Despite having the financial means to pay his debts, Applicant repeatedly 
+failed to meet his financial obligations. His August 2015 bankruptcy petition reflects that 
+one of his many unpaid debts included a $30,000 judgment from 2007. The record 
+evidence further reflects that instead of paying his debts Applicant took several vacation 
+trips to Europe and Asia. He purchased two luxury vehicles shortly before filing for 
+bankruptcy, and the bankruptcy documents show that he was living beyond his means. 
+Of note, his bankruptcy petition reflects that his monthly expenses, which included 
+paying for the feed and care of a horse and his daughter’s riding lessons, exceeded his 
+income. No documentary evidence was submitted showing that Applicant currently 
+manages his finances any differently than he has for the past decade. 
+ 
+Additionally, Applicant only took action to address his past-due debts through 
+bankruptcy after some of his creditors took legal action to enforce their claims against 
+him. He was then able to discharge nearly $200,000 in delinquent debt that he had 
+accrued over the years. 
+ 
+I have taken into account that some matters largely beyond Applicant’s control 
+negatively impacted his finances (short-term unemployment and cost associated with 
+his wife’s frequent travel to care for a sick family member). Also, Applicant presumably 
+received financial counseling through the bankruptcy process and paid his past-due 
+federal tax debt. Nevertheless, the record evidence and Applicant’s statements 
+throughout the security clearance process demonstrate that the real problem is not 
+these issues largely beyond his control but, rather, Applicant’s reckless or irresponsible 
+spending. His statements further reveal that he has yet to appreciate and accept his role 
+in his past financial issues. He failed to show that similar security-significant issues are 
+unlikely to recur.  
+ 
+In short, the circumstances giving rise to Applicant’s past financial problems 
+continue to raise serious concerns about his suitability. The above-enumerated 
+disqualifying conditions fully apply and some of the listed mitigating conditions partially 
+apply. Applicant’s financial circumstances continue to raise a security concern.  
+ 
+Whole-Person Concept 
+ 
+ An administrative judge must make a commonsense judgment about a person’s 
+security clearance suitability after considering all available, reliable and relevant 
+                                                          
+41 Compare, ISCR Case No. 12-04806 (App. Bd. July 3, 2014) (despite the presence of unresolved debt, 
+notably, a second mortgage loan tied to a property that had been foreclosed, Board upheld grant because 
+clear evidence of reform and rehabilitation), with, ISCR Case No. 15-03481 (App. Bd. Sep. 27, 2016) 
+(applicant’s filing of overdue tax returns alone insufficient to mitigate security concerns, where no 
+extenuating circumstances to explain the late tax filing or evidence of financial reform). 
+ 
+11 
+ 
+information. This is referred to as the whole-person concept. (See generally AG ¶ 2. 
+See also SEAD-4, ¶ E.4.) A judge’s assessment in these cases is informed by the 
+guidelines, as well as the non-exclusive factors set forth in AG ¶¶ 2(d) and 2(f). I hereby 
+incorporate my above analysis and highlight some additional whole-person factors.  
+ 
+ Applicant served honorably in the military for 20 years and thereafter has 
+supported the U.S. Government as a contractor to the present day. However, this and 
+the other favorable record evidence are insufficient to outweigh the serious security 
+concerns (and negative inferences regarding his suitability) raised by Applicant’s long 
+track record of failing to meet his financial obligations. Additionally, his lack of candor 
+during the course of the security clearance process regarding the actual state of his 
+finances further detracts from the favorable evidence. Of note, Applicant’s 2015 
+bankruptcy petition reflects that his past-due unsecured debt alone totaled nearly 
+$200,000 or four times the amount he reported a year earlier in a security clearance 
+application. Overall, the record evidence leaves me with serious doubts as to 
+Applicant’s eligibility for continued access to classified information.42 
+ 
+Formal Findings 
+ 
+ Formal findings for or against Applicant on the allegations set forth in the SOR, 
+as required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+ 
+Paragraph 1, Guideline F (Financial Considerations):      AGAINST APPLICANT 
+ 
+  Subparagraphs 1.a and 1.b:        Against Applicant 
+ 
+ Paragraph 2, Guideline B (Foreign Influence):       WITHDRAWN 
+ 
+  Subparagraph 2.a:          Withdrawn 
+ 
+Conclusion 
+ 
+ In light of the circumstances presented by the record in this case, it is not clearly 
+consistent with the interest of national security to continue Applicant’s eligibility for 
+access to classified information. Applicant’s request for a security clearance is denied. 
+ 
+ 
+ 
+____________________ 
+Francisco Mendez 
+Administrative Judge 
+                                                          
+42 I considered the exceptions listed in Appendix C to SEAD-4, and do not find that any are warranted in 
+this case. See SEAD-4, ¶ E.3 and AG ¶ 2(h); contrast with ISCR Case No. 10-03646 at 2 (App. Bd. Dec. 
+28, 2011) (under previous version of the guidelines, judges had “no authority to grant an interim, 
+conditional or probationary clearance.”)  

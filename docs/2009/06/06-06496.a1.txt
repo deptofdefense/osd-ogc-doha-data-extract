@@ -1,0 +1,153 @@
+KEYWORD: Guideline J; Guideline D; Guideline B
+DIGEST: Army CID report is an official record for the purposes of E3.1.20 of the Directive. 
+Because such a report is admissible without an authenticating witness, Applicant was not denied
+any right of confrontation under E3.1.22 of the Directive. Adverse decision affirmed.
+CASENO: 06-06496.a1
+DATE: 06/25/2009
+DATE: June 25, 2009
+In Re:
+------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 06-06496
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Francisco Mendez, Esq., Department Counsel
+FOR APPLICANT
+Claire Shapiro, Esq.
+The Judge’s favorable findings under Guideline B are not at issue in this appeal.1
+2
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On April 22, 2008, DOHA issued a statement of reasons (SOR) advising Applicant of
+the basis for that decision–security concerns raised under Guideline J (Criminal Conduct), Guideline
+D (Sexual Behavior), and Guideline B (Foreign Influence) of Department of Defense Directive
+5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On March 31, 2009,
+after the hearing, Administrative Judge Carol G. Ricciardello denied Applicant’s request for a
+security clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge failed to comply with the
+Directive in admitting an Army criminal investigation report and whether the Judge erred in her
+weighing of the evidence.   Finding no error, we affirm.1
+The Judge made the following pertinent findings of fact: Applicant is a 43-year-old network
+engineer employed by a Defense contractor in a foreign country (Host Nation).  He has resided in
+that country since 1993.  He married his wife in 1995, and he and his wife had a daughter in 1998.
+His wife is a national of a third country and the daughter was born there.  
+In December 2002 Applicant and his family traveled to the U.S. to visit Applicant’s parents.
+Toward the end of the visit, Applicant’s wife insisted that they stay at a hotel rather than with the
+parents.  Applicant checked his wife and daughter into a hotel, but he stayed with his parents.  The
+next morning Applicant visited them, and, while he went to an ATM machine to get money, the wife
+and daughter checked out of the hotel.  Applicant returned to the Host Nation and continued his
+employment for the defense contractor.  Applicant stated at the hearing that he did not know where
+his family went, or where they had been since that day.  In early 2003 he was informed by a
+representative of the local office of the Staff Judge Advocate that his wife had made allegations
+against him.  These allegations were that Applicant had raped and assaulted his wife and that he had
+physically and sexually abused his daughter, and some of those alleged incidents occurred in the
+Host Nation where Applicant accompanied the Army.  The Judge stated, in a footnote, that it “is
+unnecessary to describe in detail the sexual conduct, other than to find the conduct was inappropriate
+and would constitute physical and sexual assaults and indecent acts with a child.”  Decision at 6.
+The wife and daughter were interviewed by the protective services system (PPS) of State A.  PPS
+prepared a report, included as part of Government Exhibit 2, Army Criminal Investigation Command
+(CID) Report.  The wife also filed for custody of the daughter, alleging physical and sexual abuse
+of the daughter as well as abandonment.  The Judge’s findings quote at length a signed, sworn
+statement by the wife describing abuse alleged to have been inflicted by Applicant upon the wife and
+daughter.  The abuse is of an emotional, physical, and sexual nature.   
+Department Counsel’s case rested chiefly on the contents of the investigative report prepared
+by the Army CID in the Host Nation.  Applicant contends that this report was not admissible,
+because it contained statements adverse to Applicant without providing him the opportunity to cross-
+The CID Command “is the sole agency within the United States Army responsible for the investigation of2
+felonies[.]” Army Regulation (AR) 195-2, Criminal Investigation Activities, October 30, 1985, ¶ 1-5(a).  The CID
+exercises the Army’s investigative authority under ¶ 3-1 of this regulation.
+AR 195-2 ¶ 3-1.  In this regard, Applicant argues that an Army interest exists for investigative purposes “only”3
+where the circumstances fall in one of the five criteria in subparagraph 3-1b.
+  
+The Board notes that, although Applicant was not subject to the Uniform Code of Military Justice, he was4
+subject to 18 U.S.C. § 1361, which establishes extraterritorial criminal jurisdiction over persons serving with the Armed
+Forces outside the United States.  This jurisdiction extends to Defense contractors.  The applicable Status of Forces
+Agreement provides that the U.S. military authorities have the right of criminal jurisdiction over, inter alia, “civilian
+persons . . . who are in the employ of, serving with, or accompanying the United States armed forces . .” 
+3
+examine the makers of the statements.  See Directive ¶ E3.1.22.   Applicant also argues that the CID
+report did not satisfy the requirements of Directive ¶ E3.1.20, which permits the admission, without
+authenticating witnesses, of “[o]fficial records or evidence compiled or created in the regular course
+of business.”  Regarding the latter argument, Applicant contends that the CID investigation was
+outside the scope of authority of the CID.   Applicant relies upon AR 195-2, apparently in effect at2
+the time of Applicant’s case, in its description of circumstances in which an Army interest in
+investigation will generally be said to exist.  These circumstances do not explicitly include those of
+Applicant.   However, the regulation does not limit CID investigative authority to those five criteria3
+set forth therein–the language of the regulation is illustrative, not exhaustive.  Construing the
+regulation in its entirety, its plain meaning would include circumstances, such as these, where a
+holder of a security clearance is accused of committing felonies while accompanying the Armed
+Forces overseas.  The record demonstrates that the PPS of State A, aware that Applicant was
+overseas working with the Army, notified DoD Family Advocacy officials in Arlington, VA of the
+wife’s complaint.  DoD Family Advocacy, in turn, forwarded the information to Army officials in
+the Host Nation.  Upon receipt, CID agents interviewed the wife in State A, interviewed Applicant
+in the Host Nation, and compiled the evidence in the investigative report at issue here.  This report
+states that, prior to issuance, CID officials coordinated with the Federal Bureau of Investigation and
+with the office of the servicing Staff Judge Advocate.  The Board notes that federal agencies are
+entitled to a presumption of good faith and regularity in the performance of their responsibilities.
+Sierra Club v. Costle, 657 F.2d 298, 334 (D.C. Cir. 1981); Broderick v. American General Corp.,
+71 F.2d 864, 869 (4  Cir. 1934); Glisson v. United States Forest Service, 876 F. Supp. 1016, 1023-4th
+(S.D. Ill 1993).  The record as a whole does not sustain a conclusion that Applicant has rebutted the
+presumption of good faith and regularity as regards the activities of the DoD or Army officials in his
+case.  There is nothing on the face of the report or in its contents to suggest that it was not an official
+CID record or that it was prepared and maintained other than in the regular course of CID business.4
+Therefore, the report satisfied the requirements of Directive ¶ E3.1.20.   
+Applicant states that the report is not complete, insofar as some of the exhibits listed as
+attachments were not submitted into evidence at the hearing.  Applicant does not allege, nor does
+the record suggest, that Department Counsel withheld relevant documents that were in his
+4
+possession.  A review of the list of these attachments, included in the CID report, provides no reason
+to conclude that any of them not admitted at the hearing were exculpatory or that, had they been
+admitted, the Judge would have decided the case differently.   Accordingly, the Board resolves the
+assignment of error under Directive ¶ E3.1.20 adversely to Applicant. 
+Applicant also cites Directive ¶ E3.1.22, which forbids the admission of oral or written
+statements adverse to Applicant unless there is an opportunity for cross-examination.  However, as
+Applicant’s brief acknowledges, this provision does not establish a blanket right of confrontation but,
+rather, is qualified by other provisions of the Directive.  See, for example ISCR Case 03-06770 at
+3-4 (App. Bd. Sep. 9, 2004), which upheld a Judge’s admission of a police report under ¶ E3.1.20,
+despite the fact that the maker of the report was not available for cross examination.  The Board
+stated that “DOHA proceedings are civil, administrative proceedings in which strict rules of evidence
+need not be applied . . . [I]t is well-settled that hearsay evidence can be admitted and considered in
+federal administrative proceedings, including security clearance adjudications” (internal citations
+omitted).  The Board also stated that, in any event, police reports are admissible as an exception to
+the hearsay rule, for example as public records under Federal Rule of Evidence (FRE) 803(8).  See
+also ISCR Case No. 98-0265 at 7 (App. Bd. Mar. 17, 1999).  Because ¶ E3.1.22 does not require
+exclusion of statements that are admissible under ¶ E3.1.20 or as exceptions to the hearsay rule under
+the FRE, and because the CID report was admissible as an official record under the Directive,
+Applicant was not denied a right of confrontation.     
+Applicant contends that the Judge erred in the weight she assigned to the evidence contained
+in the CID report, insofar as it was hearsay and was, in Applicant’s view, uncorroborated.  The Board
+has considered the Judge’s decision in light of the record as a whole, finding therein no basis to
+conclude that her weighing of the evidence was arbitrary, capricious, or contrary to law or that her
+decision contravened the weight of the record evidence.  See, e.g., ISCR Case No. 06-17409 at 3
+(App. Bd. Oct. 12, 2007).   The Judge examined the relevant data and articulated a satisfactory
+explanation for the decision, “including a ‘rational connection between the facts found and the
+choice made.’”  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co.,
+463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168
+(1962)).  The Judge’s decision that “it is not clearly in the interests of national security to grant
+Applicant eligibility for a security clearance” is sustainable on this record.  Decision at 19.  See also
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988) (“The general standard is that a clearance
+may be granted only when ‘clearly consistent with the interests of the national security’”). 
+5
+ 
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.
+Signed: Jeffrey D. Billett            
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: Michael D. Hipple            
+Michael D. Hipple
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                
+James E. Moody
+Administrative Judge
+Member, Appeal Board

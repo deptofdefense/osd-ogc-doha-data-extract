@@ -1,0 +1,340 @@
+ 
+1 
+                                                              
+DEPARTMENT OF DEFENSE 
+DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+In the matter of: ) 
+ ) 
+ REDACTED  )  ISCR Case No. 17-02447 
+ ) 
+Applicant for Security Clearance ) 
+ 
+ 
+Appearances 
+ 
+For Government: Erin P. Thompson, Esq., Department Counsel 
+For Applicant: Bruce Desimone, Esq. 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+MENDEZ, Francisco, Administrative Judge: 
+ 
+Applicant mitigated concerns raised by his incomplete responses to questions on 
+a security clearance application. However, he did not present sufficient evidence to 
+mitigate concerns raised by his financial situation. Clearance is denied. 
+ 
+Statement of the Case 
+ 
+On September 27, 2017, the Department of Defense (DoD) sent Applicant a 
+Statement of Reasons (SOR) alleging security concerns under the financial 
+considerations and personal conduct guidelines. Applicant answered the SOR and 
+requested a hearing. 
+ 
+ Applicant’s hearing was initially scheduled for May 15, 2018, but at his request, the 
+hearing was rescheduled for May 17, 2018. Applicant testified at the hearing, and 
+Government Exhibits 1 – 15 and Applicant’s Exhibits A – E were admitted into the 
+administrative record.1 The transcript of the hearing was received on June 6, 2018, and 
+the record closed on June 15, 2018.2  
+                                                          
+1 Applicant’s objection to Exhibit 6 was overruled, but his comments and evidence indicating that someone 
+else filed a tax return using his social security number were considered in assessing the weight to give this 
+portion of the exhibit. See Transcript (Tr.) 8-10, 24-29; Exhibit E at 5. 
+ 
+2 Post-hearing correspondence was marked and attached to the record as Appellate Exhibit III. 
+ 
+2 
+Findings of Fact 
+ 
+Applicant, 31, is single with no children and resides with his parents in the same 
+home in State A, which he has lived in since he was young. He graduated from college in 
+2010, and has earned money as a barber since 2000. He worked as a truck driver from 
+2009 to 2010, and in 2016 submitted his first security clearance application (SCA) in 
+connection with his current employment as a defense contractor.3  
+ 
+Applicant was the victim of identity theft in about 2014. A federal income tax return 
+was filed by a person using Applicant’s name and social security number. This other 
+person listed on this fraudulent 2013 federal tax return an address in State B and claimed 
+a married status. State B issued a state tax lien. 
+ 
+Applicant has never lived or worked in State B and has never been married. He 
+contested the state tax lien and State B voided the lien. Applicant also filed the necessary 
+paperwork with the IRS alerting them to the identity theft issue involving the 2013 tax 
+return. He voluntarily provided the DoD with his IRS account transcripts for 2014 – 2016, 
+showing that his tax returns were timely filed. The state tax lien, the false information 
+contained in the 2013 federal tax return, and an allegation that Applicant purportedly failed 
+to timely file his 2015 tax return are referenced at SOR 1.b, and 2.c through 2.e.4 
+ 
+Notwithstanding the identity theft issue, Applicant admits ten of the SOR debts, 
+which together total approximately $50,000. The majority of this debt load is for a 2011 
+judgment from State A for overpayment of unemployment benefits and delinquent student 
+loans. Applicant’s pay is being garnished to satisfy the 2011 judgment and his tax refunds 
+have been intercepted to pay his student loans and other debts. He testified that he made 
+payments in the past on both debts. He also testified that he paid or is making payments 
+on the other admitted SOR debts He provided no documentation to corroborate his 
+testimony. The debts referenced at SOR 1.a and 1.c – 1.k remain unresolved.5  
+ 
+Applicant disputes the $567 medical debt referenced in SOR 1.l. He explained at 
+hearing that the medical bills he acquired in 2015, when this debt arose, relate to a car 
+accident and should have been paid by the law firm that handled his case. He received a 
+settlement of approximately $10,000 in 2016 from the car accident. He did not use the 
+settlement money to pay the 2011 judgment, his student loan debt, or any of the SOR 
+debts. He earns approximately $65,000 a year and lives rent-free, though he does 
+contribute to paying for common household expenses. He has no money in his savings 
+account, but has accumulated about $8,000 in a 401(k) retirement plan. He has not 
+obtained financial counseling.6 
+ 
+In filling out the SCA, Applicant rushed through the form and was careless. He did 
+not list addresses for apartments he shared for a time with ex-girlfriends, past jobs, his 
+                                                          
+3 Exhibit 1. 
+ 
+4 Tr. 24-31; Exhibits 2 – 3; Exhibit 6; Exhibit E. 
+ 
+5 Tr. 20-23, 31-37, 44-48, 53, 61-65, 71-72; Exhibit 6; Exhibit 11; Exhibits B – Exhibit E. 
+ 
+6 Tr. 38-40, 66-68, 79-80, 83-84; Exhibit 13. 
+ 
+3 
+delinquent accounts, and the car accident lawsuit and other non-criminal civil court 
+actions. He freely discussed these matters during the course of the ensuing background 
+investigation and at hearing. He had reported the student loan debts and other financial 
+problems on a declaration for federal employment that he filed in 2013.7 His omission of 
+these matters and two tickets he received in 2012 for driving an uninsured vehicle are 
+referenced as security concerns at SOR 2.a, 2.b, and 2.e through 2.h 
+ 
+Law, Policies, and Regulations 
+ 
+This case is decided under Executive Order (E.O.) 10865, Safeguarding Classified 
+Information within Industry (February 20, 1960), as amended; DoD Directive 5220.6, 
+Defense Industrial Personnel Security Clearance Review Program (January 2, 1992), as 
+amended (Directive); and the National Security Adjudicative Guidelines (AG), which 
+became effective on June 8, 2017.  
+ 
+“[N]o one has a ‘right’ to a security clearance.” Department of the Navy v. Egan, 
+484 U.S. 518, 528 (1988). Instead, persons are only eligible for access to classified 
+information “upon a finding that it is clearly consistent with the national interest” to 
+authorize such access. E.O. 10865 § 2. 
+ 
+When evaluating an applicant’s eligibility for a security clearance, an administrative 
+judge must consider the adjudicative guidelines. In addition to brief introductory 
+explanations, the guidelines list potentially disqualifying and mitigating conditions. The 
+guidelines are not inflexible rules of law. Instead, recognizing the complexities of human 
+behavior, an administrative judge applies the guidelines in a  commonsense manner, 
+considering all available and reliable information, in arriving at a fair and impartial 
+decision. AG ¶ 2. 
+ 
+Department Counsel must present evidence to establish controverted facts alleged 
+in the SOR. Directive ¶ E3.1.14. Applicants are responsible for presenting “witnesses and 
+other evidence to rebut, explain, extenuate, or mitigate facts admitted by the applicant or 
+proven . . . and has the ultimate burden of persuasion as to obtaining a favorable 
+clearance decision.” Directive ¶ E3.1.15.  
+ 
+DOHA administrative judges “are creatures of the Directive,”8 who derive their 
+authority from the Directive. The Directive also sets forth an administrative judge’s 
+responsibilities and obligations, including the requirement that a judge remain fair and 
+impartial, and carefully balance the needs for the expedient resolution of a case with the 
+demands of due process. Therefore, an administrative judge will ensure that an applicant: 
+(a) receives fair notice of the issues, (b) has a reasonable opportunity to address those 
+issues, and (c) is not subjected to unfair surprise. Directive, ¶ E3.1.10; ISCR Case No. 
+12-01266 at 3 (App. Bd. Apr. 4, 2014). 
+ 
+In evaluating the evidence, a judge applies a “substantial evidence” standard, 
+which is something less than a preponderance of the evidence. Specifically, substantial 
+                                                          
+7 Tr. 14-84; Exhibit 1; Exhibit 2. 
+ 
+8 ISCR Case No. 17-01213, n. 2 (App. Bd. June 29, 2018). 
+ 
+4 
+evidence is defined as “such relevant evidence as a reasonable mind might accept as 
+adequate to support a conclusion in light of all the contrary evidence in the same record.” 
+Directive, ¶ E3.1.32.1. See also ISCR Case No. 16-03712 at 3 (App. Bd. May 17, 2018).9 
+ 
+Any doubt raised by the evidence must be resolved in favor of the national security. 
+AG ¶ 2(b). See also Security Executive Agent Directive 4 (SEAD 4), ¶ E.4. Additionally, 
+the Supreme Court has held that responsible officials making “security clearance 
+determinations should err, if they must, on the side of denials.” Egan, 484 U.S. at 531. 
+ 
+ A person who seeks access to classified information enters into a fiduciary 
+relationship with the Government predicated upon trust and confidence. This relationship 
+transcends normal duty hours. The Government reposes a high degree of trust and 
+confidence in individuals to whom it grants access to classified information. Decisions 
+include, by necessity, consideration of the possible risk an applicant may deliberately or 
+inadvertently fail to safeguard classified information. Such decisions entail a certain 
+degree of legally permissible extrapolation of potential, rather than actual, risk of 
+compromise of classified information.10  
+ 
+Analysis 
+ 
+Guideline F, Financial Considerations 
+ 
+ The financial considerations security concern is explained at AG ¶ 18: 
+ 
+Failure to live within one's means, satisfy debts, and meet financial 
+obligations may indicate poor self-control, lack of judgment, or 
+unwillingness to abide by rules and regulations, all of which can raise 
+questions about an individual's reliability, trustworthiness, and ability to 
+protect classified or sensitive information.  
+ 
+The security concern here is not limited to a consideration of whether persons with 
+financial issues might be tempted to compromise classified information or engage in other 
+illegality to pay their debts. It also addresses the extent to which the circumstances giving 
+rise to delinquent debt cast doubt upon a person’s judgment, self-control, and other 
+                                                          
+9 However, a judge’s mere disbelief of an applicant’s testimony or statements, without actual evidence of 
+disqualifying conduct or admission by an applicant to the disqualifying conduct, is not enough to sustain an 
+unfavorable finding. ISCR Case No. 15-05565 (App. Bd. Aug. 2, 2017); ISCR Case No. 02-24452 (App. Bd. 
+Aug. 4, 2004). Furthermore, an unfavorable decision cannot be based on non-alleged conduct or issue. 
+ISCR Case No. 17-02952 (App. Bd. Aug. 3, 2018); ISCR Case No. 14-05986 (App. Bd. May 26, 2017). 
+Unless an applicant is provided notice that unalleged conduct or issue raises a security concern, it can only 
+be used for specific limited purposes, such as assessing mitigation and credibility. ISCR Case No. 16-
+02877 at 3 (App. Bd. Oct. 2, 2017). 
+ 
+10 See generally ISCR Case No. 11-13626 (App. Bd. November 7, 2013) (discussing predictive nature of 
+security clearance adjudications). See also Palmieri v. United States, 2018 U.S. App. LEXIS 20477, * 8 
+(D.C. Cir. July 24, 2018) ("Egan holds that ‘the grant of security clearance to a particular employee, a 
+sensitive and inherently discretionary judgment call, is committed by law to the appropriate agency of the 
+Executive Branch.’ . . . The idea is that ‘an outside non-expert body,’ including a court, is institutionally ill 
+suited to second-guess the agency's ‘[p]redictive judgment’ about the security risk posed by a specific 
+person.”) (citing to and quoting from Egan, 484 U.S. 527, 529). 
+ 
+5 
+qualities essential to protecting classified information. See generally ISCR Case No. 11-
+05365 at 3 (App. Bd. May 1, 2012). 
+ 
+ In assessing Applicant’s case, I considered the Guideline F disqualifying and 
+mitigating conditions, including: 
+ 
+AG ¶ 19(a): inability to satisfy debts; 
+ 
+AG ¶ 19(b): unwillingness to satisfy debts regardless of the ability to do so; 
+ 
+AG ¶ 19(c): a history of not meeting financial obligations;  
+ 
+AG ¶ 20(b): the conditions that resulted in the financial problem were 
+largely beyond the person's control . . . and the individual acted responsibly 
+under the circumstances; and  
+ 
+AG ¶ 20(e): the individual has a reasonable basis to dispute the legitimacy 
+of the past-due debt which is the cause of the problem and provides 
+documented proof to substantiate the basis of the dispute or provides 
+evidence of actions to resolve the issue; 
+ 
+ A security clearance adjudication is not meant to punish a person for past poor 
+financial decisions. Furthermore, persons applying for a security clearance are not 
+required to be debt free, or have unblemished financial records, or a certain credit score. 
+However, they are expected to present evidence mitigating security concerns raised by 
+the presence of delinquent debt and showing that they manage their present finances in 
+a manner expected of all clearance holders.11  
+ 
+ Applicant presented sufficient evidence to establish AG ¶¶ 20(b) and 20(e) as to 
+the matters alleged in SOR 1.b and 1.l.12 These allegations are decided for Applicant. 
+ 
+Applicant, however, did not meet his burden of proof and persuasion in mitigating 
+security concerns raised by his accumulation of approximately $50,000 in delinquent 
+debt, as alleged in SOR 1.a and 1.c – 1.k. His inaction to date in addressing and resolving 
+these longstanding debts raise questions and concerns about his security clearance 
+suitability. Of note, Applicant provided no documentation to corroborate his assertions 
+that he paid or is paying these SOR debts. His payments to date were the result of 
+garnishment and other enforcement actions taken by his overdue creditors to enforce 
+their lawful claims.13 The above listed disqualifying conditions apply. No mitigating 
+conditions apply to these SOR allegations. 
+                                                          
+11 See generally ISCR Case 07-10310 at 2 (App. Bd. Jul. 30, 2008).  
+ 
+12 Contrast with ISCR Case No. ISCR Case No. 10-02803 (App. Bd. Mar. 19, 2012) (applicant did not 
+provide sufficient evidence to sustain judge’s finding that his debts were due to fraud) 
+ 
+13 See generally ISCR Case No. 15-02585 (App. Bd. Dec. 20, 2016) (reasonable for judge to expect an 
+applicant to present documentary evidence regarding resolution of SOR debts). See also ISCR Case No. 
+15-05478 (App. Bd. Oct. 2, 2017) (judge erred in accepting applicant’s assertions that he had resolved 
+financial issues without corroborating documentary evidence).  
+ 
+6 
+Guideline E, Personal Conduct  
+ 
+ Conduct involving dishonesty during the security clearance process, such as the 
+deliberate falsification of a security clearance application, raises a serious security 
+concern. See generally AG ¶¶ 15, 16(a). Applicant did not exercise the level of care in 
+filling out the SCA that one would expect from a prospective clearance holder. However, 
+such carelessness is not enough to find that a person deliberately falsified his or her 
+responses to questions on a SCA.14 I note that this was Applicant’s first clearance 
+application, and he was fully candid and cooperative during the course of the security 
+clearance process, including regarding the information he did not list on the SCA. 
+Furthermore, he dutifully reported the delinquent student loans and other pertinent 
+matters on a federal form for federal employment several years earlier – a form that is far 
+shorter in length and far less complicated. Additionally, Applicant refuted a number of the 
+falsification allegations that were based on the fraudulent 2013 federal income tax 
+return.15 This evidence leads me to conclude that Applicant did not deliberately omit the 
+information requested on the SCA.16 The non-falsification Guideline E allegation about 
+driving an uninsured vehicle in 2012 is insufficient to raise a security concern.17 
+Accordingly, the Guideline E allegation is decided for Applicant.  
+ 
+Whole-Person Concept 
+ 
+ In addition to the specific adjudicative guidelines, a judge must also take into 
+account factors that are applicable to all cases. These factors are grouped together under 
+the all-encompassing umbrella of the whole-person concept.18 I hereby incorporate my 
+above analysis and highlight some additional whole-person matters.  
+ 
+ Specifically, I considered Applicant’s relatively young age when he incurred the 
+debts at issue and that he was the victim of identity theft – a situation that can take years 
+to fully resolve. However, this and the other favorable record evidence are insufficient to 
+mitigate the security concerns raised by his ongoing financial problems. Overall, the 
+record evidence leaves me with doubts about Applicant’s present eligibility for access to 
+classified information.19 
+ 
+                                                          
+14 See generally ISCR Case No. 15-03727 (App. Bd. Sep. 21, 2016) (judge erred in finding that applicant 
+deliberately failed to disclose on his SCA negative financial information because the applicant failed to 
+exercise certain level of care, i.e., investigate his credit history before answering SCA questions). 
+ 
+15 Tr. 53 (“Department Counsel: All right. On Government Exhibit 6, which is the compilation of your tax 
+transcripts . . . So leaving aside 2013, because we’re not sure that’s you . . .”) (emphasis added). 
+ 
+16 See generally ISCR Case No. 15-05565 (App. Bd. Aug. 2, 2017) (judge erred in rejecting applicant’s 
+plausible explanation in finding against him under Guideline E). See also ISCR Case No. 15-06990 (App. 
+Bd. Jan. 11, 2018) (reversing adverse Guideline E decision). 
+ 
+17 Contrast with ISCR Case No. 12-10889 (App. Bd. May 8, 2014) (affirming adverse decision based on 
+three decades of personal conduct that raised concerns about the person’s eligibility).  
+ 
+18 See AG ¶ 2. See also SEAD-4, ¶ E.4; Directive, ¶ 6.3. 
+ 
+19 I also considered the exceptions listed in SEAD 4, Appendix C, but none are warranted in this case. 
+ 
+7 
+Formal Findings 
+  
+Formal findings for or against Applicant on the allegations set forth in the SOR, as 
+required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+ 
+Paragraph 1, Guideline F (Financial Considerations):      AGAINST APPLICANT 
+ 
+ Subparagraphs 1.a, 1.c – 1.k:       Against Applicant 
+ 
+Subparagraphs 1.b and 1.l:        For Applicant 
+ 
+ Paragraph 2, Guideline E (Personal Conduct):       FOR APPLICANT 
+ 
+  Subparagraphs 2.a – 2.h:         For Applicant 
+ 
+Conclusion 
+ 
+ In light of the record evidence, it is not clearly consistent with the interests of 
+national security to grant Applicant initial or continued eligibility for access to classified 
+information. Applicant’s request for a security clearance is denied. 
+ 
+ 
+ 
+____________________ 
+Francisco Mendez 
+Administrative Judge 

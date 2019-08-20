@@ -1,0 +1,146 @@
+KEYWORD: Guideline F
+DIGEST: The Judge’s error about the total amount of debt was ultimately harmless in that his
+overall conclusion would have been the same had he not made the error.  Adverse decision
+affirmed.
+CASENO: 15-01184.a1
+DATE: 12/24/2015
+DATE: December 24, 2015
+In Re:
+--------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-01184
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+March 5, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+1The SOR contains only one allegation, the bankruptcy filing.  
+2
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive). Applicant requested a hearing.
+On October 16, 2015, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Thomas M. Crean denied Applicant’s request for a security clearance.
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge’s findings of fact
+contained errors and whether the Judge’s adverse decision was arbitrary, capricious, or contrary to
+law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact
+Applicant has been employed by a Defense contractor for three years.  He is studying for a
+master’s degree.  Applicant served in the National Guard for about seven years and in the Inactive
+Reserves for two.  He was unemployed from December 2010 until November 2011.  He is married,
+and the household includes three children of his wife’s and his own child from a previous marriage.
+Two of the children have medical and developmental issues.  Applicant’s net monthly income is
+$4,100, with a remainder of $410 after expenses.
+Applicant experienced financial problems starting in 2009, due to his wife having undergone
+two surgical procedures with a consequent inability to work.  Their children also had medical
+problems requiring frequent doctor’s visits.  In about 2006, Applicant’s employer switched to a
+health savings plan, which increased employees’ out-of-pocket expenses for medical treatment.
+Additionally, Applicant’s family did not have health insurance during his unemployment.  The
+family’s medical bills became delinquent because Applicant prioritized their debts, focusing on
+providing for their children and paying their mortgage.  
+In addition to medical debts, Applicant experienced tax problems.  Taxes were not withheld
+from the commissions Applicant’s wife earned from her employment.  The couple filed their returns
+as “married filing separately.”  Decision at 3.  Applicant’s wife did not file from 2005 until 2009.
+Federal and state tax authorities placed liens on the family’s property.  Applicant’s wife states that
+she is responsible for the tax liens as they arose from her employment.  She is currently attending
+school, paying tuition through student loans.  These loans are currently in forbearance.  Applicant
+is a co-signer on student loans for his children.
+Applicant filed for Chapter 13 bankruptcy protection in August 2014.  He admitted this
+allegation in his response to the SOR.1  Applicant’s liabilities were nearly $540,000 and his assets
+were just under $200,000.  At the hearing, Applicant disputed the amount of debt, contending that
+the true amount was a little over $200,000.  In addition, Applicant submitted a document to the
+effect that he is responsible for only a limited part of the debts, with much of the debt belonging to
+his wife.  The Judge suggested that Applicant might want to talk with his bankruptcy attorney after
+3
+the hearing and obtain a statement regarding the true amount of Applicant’s debts.  After the
+hearing, Applicant submitted a letter from his bankruptcy attorney.  The letter stated that the Judge
+had confirmed the payment plan, which will pay all secured debts and mortgage arrears.  The
+secured debts include about $2,500 of the nearly $89,000 tax lien.  The remainder will be treated as
+unsecured debt.  The Judge found, however, the tax debt will not be discharged by bankruptcy.
+The attorney also stated that a second mortgage will be treated as an unsecured debt.  The
+unsecured creditors will receive 1% of the amounts owed to them and the remainder will be
+discharged.  The attorney did not state that the amount of Applicant’s debts had changed.  The
+amount stated in the SOR, $540,000, is accurate.
+The Judge found that Applicant is responsible for a majority of the debts listed in the
+bankruptcy documents.  He noted that, although his wife filed separately, he lived in the household
+and benefitted from her income.  He also noted that the medical debts were incurred for members
+of the family and that Applicant was a co-signer on his children’s student loans.   
+Applicant is considered an exceptional employee who has excellent rapport with leaders in
+the organization.  His performance appraisals show that he has met or exceeded his goals.
+The Judge’s Analysis
+The Judge stated that Applicant’s delinquent debts were incurred over a significant period
+of time and have not been resolved.  Moreover, although some of them were due to circumstances
+outside Applicant’s control, others were not.  He presented no evidence of actions taken to resolve
+his debts except the filing of a bankruptcy petition in 2014.  While this is a legitimate means of
+resolving debts, Applicant has now shown responsible action, given the facts in the case.  He stated
+that Applicant was aware of his delinquent debts since November 2012, when he was interviewed
+for his clearance.  The first action he took was to file for bankruptcy in August 2014, just before he
+received the SOR.  He stated that the limited payments made under the bankruptcy plan are not
+sufficient to establish a meaningful track record of debt reform.  He stated that “there is ample
+evidence of irresponsible behavior, poor judgment, and lack of financial reliability.”  Id. at 8.  In the
+whole-person analysis, the Judge cited to Applicant’s good duty performance and his military
+service.  However, he concluded that Applicant had not acted reasonably or responsibly in regard
+to his debts.
+Discussion
+Applicant argues that the Judge erred in some of his findings.  For example, he draws our
+attention to the finding that the tax debts would not be discharged in bankruptcy, citing to the letter
+from his attorney that, he contends, asserts the contrary.  He also challenges the Judge’s finding
+about the total amount of the debts at issue here.  We examine a Judge’s findings to see if they are
+supported by “such relevant evidence as a reasonable mind might accept as adequate to support a
+conclusion in light of all the contrary evidence in the same record.”  Directive ¶ E3.1.32.1. 
+2Applicant also states that the Judge misspelled the name of Applicant’s wife, who had served as a personal
+representative at the hearing.  He acknowledges that this error is minor but contends that it shows that the Judge erred.
+We note this error but do not find it to have exerted any influence on the case.
+4
+Concerning the tax debt, the letter states, in pertinent part: “[T]he plan proposes to pay only
+the secured portion of  $2,544.52.  The remaining amount will be treated just like other unsecured
+creditors.  Therefore, most of this $88,839.62 will be discharged upon the successful completion of
+the case.”  Applicant Exhibit J, Letter dated August 4, 2015 (emphasis added).  Insofar as the
+challenged finding was apparently a description of this document’s contents, it is erroneous.
+However, the Judge’s decision relied for the most part on the amount of Applicant’s debt, the
+relative recency of his bankruptcy filing, the absence of a meaningful track record of debt payment
+or reduction, and evidence to the effect that much of the debt was due to circumstances within
+Applicant’s control.  Therefore, even if the Judge had not made this error, his overall conclusion
+would most likely have been the same.  This error is harmless.  See, e.g., ISCR Case No. 14-03601
+at 3 (App. Bd. Jul. 1, 2015).  The finding about the total amount of debt is supported by Applicant’s
+response to the SOR and by the bankruptcy documents included in the record as Government Exhibit
+3.  We find no harmful error in the Judge’s material findings of security concern.2  The findings
+satisfy the requirements of the Directive.
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The Judge stated that Applicant’s bankruptcy consisted basically of a plan to pay off debts
+in the future.  He concluded that Applicant had not demonstrated a track record of debt repayment,
+which was consistent with the record that was before him.  Promises to pay off delinquent debts in
+the future are not a substitute for a track record of paying debts in a timely manner and otherwise
+acting in a financially responsible manner.  See, e. g., ISCR Case No. 14-04565 at 2 (App. Bd. Sep.
+18, 2015).  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”
+Order
+  The Decision is AFFIRMED.  
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett              
+Jeffrey D. Billett
+5
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board

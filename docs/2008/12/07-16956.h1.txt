@@ -1,0 +1,410 @@
+ Required by Executive Order 10865, as amended, and by DoD Directive 5220.6 (Directive), as amended.1
+1
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+--------------------------- )
+SSN: ------------------- )       ISCR Case No. 07-16956
+)
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Ray T. Blank, Esquire, Department Counsel
+For Applicant: Jon L. Roberts, Esquire
+______________
+Decision
+______________
+MALONE, Matthew E., Administrative Judge:
+Based upon a review of the pleadings, exhibits, and testimony, Applicant’s
+request for eligibility for a security clearance is granted.
+On December 1, 2005, Applicant submitted an Electronic Questionnaire for
+Investigations Processing (e-QIP) to obtain a security clearance required for his job with
+a defense contractor, for whom he has worked since November 2005. (Gx. 1) After
+reviewing the results of the ensuing background investigation, adjudicators for the
+Defense Office of Hearings and Appeals (DOHA) were unable to make a preliminary
+affirmative finding  that it is clearly consistent with the national interest to allow Applicant1
+access to classified information. On April 30, 2008, DOHA issued to Applicant a
+Statement of Reasons (SOR) alleging facts which raise security concerns addressed in
+ Adjudication of this case is controlled by the Revised Adjudicative Guidelines, approved by the President on2
+December 29, 2005,which were implemented by the Department of Defense on September 1, 2006. Pending
+official revision of the Directive, the Revised Adjudicative Guidelines supercede the guidelines listed in
+Enclosure 2 to the Directive.
+ This is assumed from the context of the statement.3
+2
+the Revised Adjudicative Guidelines (AG)  under Guideline E (personal conduct) and2
+Guideline G (alcohol).
+On June 19, 2008, Applicant timely responded to the SOR and requested a
+hearing. The case was assigned to me on July 22, 2008, and I convened a hearing on
+September 3, 2008. The parties appeared as scheduled. The government presented
+four exhibits (Gx. 1 - 4). Applicant testified in his own behalf, submitted two exhibits (Ax.
+A and B) and presented four witnesses. Another witness for Applicant was unexpectedly
+called away from the hearing while waiting to testify. After consulting with the parties, I
+continued this matter to September 19, 2008. At that time, Department Counsel and
+Applicant’s counsel appeared in person at DOHA headquarters, while Applicant
+appeared by telephone and Applicant’s fifth witness appeared by video-teleconference
+(VTC). DOHA received the transcript of the September 3, 2008, hearing (Tr. I) on
+September 18, 2008, and the transcript of the September 19, 2008, hearing (Tr. II) on
+September 25, 2008. 
+Additionally, I left the record open until September 30, 2008, to allow Applicant
+time to present additional relevant information. (Tr. II, 28 - 29) Applicant timely
+submitted additional information admitted without objection as Ax. C. The record closed
+on October 10, 2008, when I received the parties’ written closing arguments.
+Procedural Issues
+Applicant’s Counsel objected to the admission of Gx. 3 based on a lack of
+foundation. Gx. 3 is a three-page document sent by facsimile on April 24, 2008, to
+Department Counsel by an employee in the human resources (HR) staff of a company
+where Applicant worked between March and August 2004. The facsimile cover page
+reads in relevant part as follows:
+As a follow up to our conversation/correspondence [Applicant] was
+terminated prior to [current HR manager’s]  employment with [name of3
+company]. The enclosed document is the only document in [Applicant’s]
+personnel file. [HR manager’s] understanding is that it was written by
+[name of Applicant’s former boss] who was Vice President of Support
+Services at the time.
+The Directive, Section E3.1.20, provides in relevant part that “official records or
+evidence compiled in the regular course of business...may be received and considered
+by the Administrative Judge without authenticating witnesses, provided that such
+information has been furnished by an investigative agency pursuant to its
+responsibilities in connection with assisting the Secretary of Defense, or the Department
+ See, Directive, E3.1.10.4
+ According to a search on 5 www.google.com , Unix is “an operating system for a computer that is capable of
+handling activity from multiple users. It is the most common OS for servers on the Internet.”
+3
+or Agency head concerned, to safeguard classified information within industry under
+E.O. 10865...”
+On its face, Gx. 3 was sent directly from Applicant’s former place of employment
+to DOHA Department Counsel. Even if Gx. 3 was admissible under an exception to the
+hearsay rule, the government did not present a witness to lay a foundation that would
+allow admission under Directive E3.1.20. Accordingly, I sustained Applicant’s objection.
+(Tr. I,  26 - 31)  4
+Findings of Fact
+Applicant is 48 years old. He graduated from college in 1982 with a degree in
+mathematics. His professional experience since about 1994 has been in the information
+technology (IT) sector as a Unix  administrator. Since November 2005, he has been5
+employed as such by a defense contractor that is sponsoring his clearance request.
+(Gx. 1) The government alleged in the SOR that Applicant was arrested for, charged
+with and convicted of driving under the influence of alcohol (DUI) on December 16,
+2002 (SOR ¶ 1.a) and on July 31, 2004 (SOR ¶ 1.b). As part of the sentence for his
+2004 DUI, Applicant was also alleged to have received alcohol counseling in 2007,
+which resulted in a diagnosis of alcohol dependence. (SOR ¶ 1.c) The government
+further alleged Applicant first consumed alcohol at age 18 and still consumes alcohol.
+(SOR ¶ 1.d) Applicant admitted the facts of each allegation, but denied he is dependent
+on alcohol, that he abuses alcohol, and that his alcohol consumption makes him a
+security risk.
+The government also alleged that, in 1999, Applicant was issued a written
+warning for “disrespecting” a co-worker (SOR ¶ 2.a); that he was “dismissed” from a job
+in July 2002 (SOR ¶ 2.b); that he was “fired” from a job at a restaurant in January 2003
+(SOR ¶ 2.c); that he was “fired” from another restaurant job in September 2003 (SOR ¶
+2.d); and that he was “dismissed” from a job in August 2004 (SOR ¶ 2.e). Applicant
+admitted with explanation all of the factual allegations, but denied that he left any of his
+jobs due to misconduct.
+On May 10, 1999, Applicant was working for an IT firm as a Unix Administrator
+when he and a co-worker argued over how to resolve a technical problem. The
+argument included shouting at each other and escalated to the point his co-worker tried
+to slam her office door on Applicant, who blocked the door causing it to strike his co-
+worker. Both employees received written reprimands. On May 20, 1999, Applicant
+received a performance evaluation from the same person who issued the written
+reprimand. In the evaluation, he was rated average or above average in all categories
+but one. It was noted that he needed improvement in his interpersonal skills, but the
+evaluation was overall a positive one and he was given a $3,250 raise. Applicant left
+that company in July 1999, after 28 months, to pursue a better opportunity. A former co-
+ And possibly because he had broken his arm.6
+4
+worker at the company praised Applicant for his professionalism and integrity. (Answer
+to SOR; Gx. 1; Gx. 2; Tr. I, 46 - 51, 101 - 103)
+In July 2002, Applicant was let go from a Unix administrator’s position after only
+three months and while he was still in a probationary status as a new employee. He
+disclosed in his e-QIP that he was told by his employer it “was not going to work out”
+there. While he had professional disagreements over how to go about his assigned
+duties, a co-worker stated that Applicant was let go as part of a reduction in force and
+that, in hindsight, Applicant’s technical approach should have been adopted. The co-
+worker also praised Applicant for his honesty, professionalism and judgment. (Answer
+to SOR; Tr. I, 52 - 54, 104) 
+Applicant is currently single, but has been married twice. His first marriage ended
+in 1996, when his wife of 13 years died of heart failure. He remarried in September
+2000, but he and his second wife separated in September 2002. Their divorce was
+finalized in March 2003. Applicant attributes the marriage’s failure to stress from the
+illness and death of his father in 2001, stress from his employment downturns, and
+stress from his ex-wife’s ongoing child custody battles with her ex-husband. In August
+2003, Applicant moved to the state where he currently lives and works. This is the same
+state where he went to college. (Gx. 1)
+Between August 2002 and March 2004, Applicant had trouble finding steady
+work in his chosen field. He attributed his uneven employment record during that time to
+a general downturn in the IT industry and to his August 2003 relocation after his divorce.
+To make ends meet, he took part-time jobs outside the IT field. Sometimes he also was
+able to find concurrent temporary work in the IT field. In September 2002, he found work
+as a waiter at a local restaurant. The job lasted one month because, as Applicant
+acknowledged, he was not a very good waiter. Applicant has characterized as a
+“personality conflict” the fact that he disagreed with the manager’s decision to let him
+go. (Answer to SOR; Gx. 1; Tr. I, 104 - 106) In September 2003, a month after he
+moved to the state where now lives, he found work concurrently at a carwash and as a
+bartender. He stopped working at the carwash because he broke his arm on the job. He
+lost his restaurant job the same month because of reorganization.  (Answer to SOR; Gx.6
+1)
+Applicant continued working at available IT jobs and at restaurant jobs through at
+least May 2005. In March 2004, he was hired as a full-time support engineer at an IT
+firm. The person who hired him for that job left the company almost immediately after
+Applicant started. Applicant did not get along with the person who succeeded the
+person who hired him. (Tr. I, 62 - 64; Tr. II, 10 - 15) Applicant eventually left the
+company. In his response to e-QIP question 22 (Your Employment Record), Applicant
+disclosed that he left this job in August 2004 under unfavorable conditions. Applicant
+cited conflicting reasons for the end of his employment there (Gx. 1), but has denied
+that he was fired or that the end of his employment was related to any misconduct. This
+conflicts with the testimony of a former co-worker, whose understanding was that
+ Not otherwise defined in the record.7
+5
+Applicant was fired. (Tr. I, 65 - 66; Tr. II, 15 - 17) A former member of the company’s
+management characterized Applicant as “a model employee...who is honest and ethical,
+hard working, professional and skilled...” (Answer to SOR)
+On December 16, 2002, Applicant was arrested and charged with driving under
+the influence of alcohol (DUI). He pleaded guilty, was fined, placed on supervision,  and7
+ordered to complete a victim impact class. On July 31, 2004, Applicant was again
+arrested and charged with DUI. He again pleaded guilty, was fined and placed on
+supervision. He also was ordered to complete an alcohol safety awareness and
+counseling course, and to complete 240 hours of community service. 
+Both DUI offenses occurred in the state where he lived when he was married.
+When he was arrested the second time, he had been visiting from out of state. Applicant
+completed the community service portion and alcohol counseling portions of his
+sentence in the state where he now lives. All of the requirements of his sentence were
+completed satisfactorily. When he began the alcohol counseling portion, he was
+provisionally diagnosed at intake as being alcohol dependent. (Gx. 2) Applicant was told
+this was a standard entry required because he had two DUIs in his record. (Tr. I, 70)
+The diagnosis at discharge was alcohol dependence in early partial remission. But there
+was no recommendation of further treatment and no concern expressed about whether
+Applicant should abstain from alcohol or participate in a 12-step recovery program.
+Applicant was also assessed as having “demonstrated lower risk.” Applicant drinks
+moderately when he drinks at all. (Answer to SOR; Gx. 2; Ax. A; Ax. B)
+In July 2008, Applicant was evaluated about his alcohol consumption by a
+Licensed Psychiatric Counselor (LPC). The evaluation included blood tests designed to
+detect liver damage from excessive long-term alcohol use. The blood tests were within
+normal limits, but the evaluation itself was inconclusive pending ongoing evaluation and
+counseling. (Ax. A) The same LPC evaluated Applicant and gave him the same blood
+tests in September 2008. The LPC concluded at that time that Applicant was not an
+alcohol abuser or alcohol dependent. The blood tests were in the normal range for liver
+function. The LPC’s evaluation also reported that he has been providing Applicant with
+substance abuse counseling and cognitive/behavioral therapy focusing on Applicant’s
+rigidity of thinking and issues related to the loss of his first wife. A supporting
+psychological evaluation included with the LPC’s evaluation showed Applicant does not
+suffer from any personality disorder and is a low risk for substance abuse or
+dependence. (Ax. C)
+Applicant currently works in computer modeling and simulation efforts in support
+of a U.S. Navy contract. His record over the past three years has been excellent.
+Numerous professional and personal associates have vouched, either in person or in
+writing, for Applicant’s trustworthiness, reliability, outstanding professional expertise,
+and integrity. More importantly, his associates and friends have noted his ability to work
+well with others. There have been no instances, either at work or in the community, of
+inappropriate behavior by the Applicant. Applicant is active in his church, through
+ Directive. 6.3.8
+ See Department of the Navy v. Egan, 484 U.S. 518 (1988).9
+ See Egan, 484 U.S. at 528, 531.10
+6
+weekly bible study classes, he excels as a member of Toastmasters, and he is an
+accomplished fast-pitch softball umpire and interscholastic wrestling referee. The
+coordinator of the program through which Applicant completed his court-ordered
+community service reported he “did an outstanding job of organizing and recruiting
+volunteers” and “did a superior job in all tasks that were assigned to him.” (Answer to
+SOR; Ax. A; Tr. I, 134 - 177)
+Policies
+Each security clearance decision must be a fair, impartial, and commonsense
+determination based on examination of all available relevant and material information,8
+and consideration of the pertinent criteria and adjudication policy in the Revised
+Adjudicative Guidelines (AG). Decisions must also reflect consideration of the factors
+listed in ¶ 2(a) of the new guidelines. Commonly referred to as the “whole person”
+concept, those factors are:
+(1) The nature, extent, and seriousness of the conduct; (2) the
+circumstances surrounding the conduct, to include knowledgeable
+participation; (3) the frequency and recency of the conduct; (4) the
+individual's age and maturity at the time of the conduct; (5) the extent to
+which participation is voluntary; (6) the presence or absence of
+rehabilitation and other permanent behavioral changes; (7) the motivation
+for the conduct; (8) the potential for pressure, coercion, exploitation, or
+duress; and (9) the likelihood of continuation or recurrence. 
+The presence or absence of a disqualifying or mitigating condition is not
+determinative of a conclusion for or against an applicant. However, specific applicable
+guidelines should be followed whenever a case can be measured against them as they
+represent policy guidance governing the grant or denial of access to classified
+information. In this case, the pleadings and the information presented by the parties
+require consideration of the security concerns and adjudicative factors addressed under
+AG ¶ 15 (Guideline E - Personal Conduct) and AG ¶ 21 (Guideline G - Alcohol).
+A security clearance decision is intended to resolve whether it is clearly
+consistent with the national interest  for an applicant to either receive or continue to9
+have access to classified information. The government bears the initial burden of
+producing admissible information on which it based the preliminary decision to deny or
+revoke a security clearance for an applicant. Additionally, the government must be able
+to prove controverted facts alleged in the SOR. If the government meets its burden, it
+then falls to the applicant to refute, extenuate or mitigate the government’s case.
+Because no one has a “right” to a security clearance, an applicant bears a heavy
+burden of persuasion.  10
+ See Egan; Revised Adjudicative Guidelines, ¶ 2(b).11
+7
+A person who has access to classified information enters into a fiduciary
+relationship with the government based on trust and confidence. Thus, the government
+has a compelling interest in ensuring each applicant possesses the requisite judgment,
+reliability and trustworthiness of one who will protect the national interests as his or her
+own. The “clearly consistent with the national interest” standard compels resolution of
+any reasonable doubt about an applicant’s suitability for access in favor of the
+government.11
+Analysis
+Alcohol.
+The government presented sufficient information to support the allegations in
+SOR ¶¶ 1.a and 1.b, that Applicant was arrested for, charged with and convicted of DUI
+in December 2002 and July 2004, respectively. It also supported the allegation in SOR ¶
+1.c, that Applicant received court-ordered counseling after his second DUI, and that the
+counseling included a diagnosis of alcohol dependence. Finally, the record reflects that
+Applicant started consuming alcohol at age 18 and still consumes alcohol, as alleged in
+SOR ¶ 1.d. 
+The facts established by the government’s information may raise a security
+concern, because “[e]xcessive alcohol consumption often leads to the exercise of
+questionable judgment or the failure to control impulses, and can raise questions about
+an individual's reliability and trustworthiness.” AG ¶ 21. More specifically, Applicant’s
+DUI convictions require application of the disqualifying condition listed at AG ¶ 22(a)
+(alcohol-related incidents away from work, such as driving while under the influence,
+fighting, child or spouse abuse, disturbing the peace, or other incidents of concern,
+regardless of whether the individual is diagnosed as an alcohol abuser or alcohol
+dependent). 
+The government’s information also tends to support application of the
+disqualifying conditions at AG ¶ 22(e) (evaluation of alcohol abuse or alcohol
+dependence by a licensed clinical social worker who is a staff member of a recognized
+alcohol treatment program) and AG ¶ 22(f) (relapse after diagnosis of alcohol abuse or
+dependence and completion of an alcohol rehabilitation program). However, the record
+shows that the basis for the alcohol dependence allegation is a single-page document
+entitled Discharge Summary and provided by Applicant in response to DOHA
+interrogatories. SOR ¶ 2.c references the name of the facility where Applicant was
+evaluated, but there is no other identifying information in the record about the facility.
+Thus, it is unclear if the program Applicant attended to fulfill a court-ordered counseling
+session is a recognized alcohol treatment program for purposes of AG ¶ 22(e). It is
+likewise unclear whether the person who made the diagnosis is the same person who
+evaluated Applicant. The signature on the form belongs to a CAC (Certified Addictions
+Counselor) as opposed to a Licensed Clinical Social Worker (LCSW). Assuming the
+person making the diagnosis was qualified to do so, there is no detailed information
+8
+from the clinician(s) involved about his history of alcohol use or his insight into any
+problem Applicant might have with alcohol. 
+Further, the only known reason why Applicant was diagnosed at intake as alcohol
+dependent was, as Applicant testified, it was required because he had two DUIs in his
+record. There is no detailed record of testing or interview that would show the diagnosis
+is anything more than a perfunctory entry required because of his arrests. (Tr. I, 70) At
+the end of the counseling program, Applicant was again diagnosed as alcohol
+dependent in early partial remission. However, it was reported that Applicant
+“demonstrated lower risk” and “no additional treatment recommendations” were made.
+Additionally, Applicant’s information regarding his evaluations in July 2008 and
+September 2008 support a conclusion he is not a heavy drinker and at low risk for
+alcohol dependence or abuse. There is also substantial testimony that for at least the
+past three years, Applicant has led a stable, sober and responsible lifestyle. All of the
+foregoing, combined with the absence of any information of heavy drinking since at
+least July 2004, supports application of the mitigating factors at AG ¶ 22(a) (so much
+time has passed, or the behavior was so infrequent, or it happened under such unusual
+circumstances that it is unlikely to recur or does not cast doubt on the individual's
+current reliability, trustworthiness, or good judgment). Applicant’s use of counseling and
+more reliable clinical evaluations of his alcohol use also support at least partial
+application of AG ¶ 22(c) (the individual is a current employee who is participating in a
+counseling or treatment program, has no history of previous treatment and relapse, and
+is making satisfactory progress). I conclude there is no history of treatment and relapse
+because, despite a diagnosis of alcohol dependence, it was not recommended he
+abstain from alcohol or engage in any follow-on treatment. Because he successfully
+completed the court-ordered counseling program and has demonstrated he is, at most,
+a moderate drinker, Applicant also benefits from AG ¶ 22(d) (the individual has
+successfully completed inpatient or outpatient counseling or rehabilitation along with any
+required aftercare, has demonstrated a clear and established pattern of modified
+consumption or abstinence in accordance with treatment recommendations, such as
+participation in meetings of Alcoholics Anonymous or a similar organization and has
+received a favorable prognosis by a duly qualified medical professional or a licensed
+clinical social worker who is a staff member of a recognized alcohol treatment
+program.). On balance, I conclude that the totality of information probative of the
+security significance of Applicant’s use of alcohol and his past alcohol-related incidents
+is sufficient to mitigate the security concerns under Guideline G.
+Personal Conduct. 
+A security concern may also exist when, as stated in AG ¶ 15, available
+information reflects
+[c]onduct involving questionable judgment, lack of candor, dishonesty, or
+unwillingness to comply with rules and regulations can raise questions
+about an individual's reliability, trustworthiness and ability to protect
+classified information.
+ Closing Argument, page 7.12
+9
+I have reviewed the facts and circumstances of this case in the context of
+Guideline E, particularly the fact that Applicant was reprimanded in 1999 after he and a
+co-worker got into an argument that included door slamming and raised voices. That
+event requires consideration of Guideline E disqualifying condition at AG ¶ 16(d)(2)
+(credible adverse information that is not explicitly covered under any other guideline and
+may not be sufficient by itself for an adverse determination, but which, when combined
+with all available information supports a whole-person assessment of questionable
+judgment, untrustworthiness, unreliability, lack of candor, unwillingness to comply with
+rules and regulations, or other characteristics indicating that the person may not
+properly safeguard protected information. This includes but is not limited to
+consideration of:... (2) disruptive, violent, or other inappropriate behavior in the
+workplace). 
+However, contrary to Department Counsel’s argument that “Applicant has been
+involved in multiple disruptive events at work that have resulted in negative job
+consequences,”  I conclude that the record, at worst, shows Applicant is not a good12
+waiter or bartender, that he understandably disagreed with one restaurant managers
+decision to let him go, and that he had two other jobs where he was not a good fit for
+what appear to be professional reasons only. Aside from the 1999 argument, there have
+been no other “disruptive events” in Applicant’s employment background. In contrast to
+the government’s information, the record shows Applicant has held 16 jobs without
+incident since 1994. Most have been within the IT industry, with some jobs held
+concurrently when the IT industry was faltering. There is ample information showing that
+Applicant has been and still is an excellent employee. It must be acknowledged, as well,
+that Applicant may not be a particularly easy person to get along with, owing to the
+rigidity of thinking mentioned in his recent psychological evaluation. 
+Nonetheless, all of the available information bearing on Applicant’s employment
+history, does not support “a whole-person assessment of questionable judgment,
+untrustworthiness, unreliability, lack of candor, unwillingness to comply with rules and
+regulations, or other characteristics indicating that the person may not properly
+safeguard protected information.” On the other hand, the record does support
+application of the mitigating condition at AG ¶ 17(c) (the offense is so minor, or so much
+time has passed, or the behavior is so infrequent, or it happened under such unique
+circumstances that it is unlikely to recur and does not cast doubt on the individual's
+reliability, trustworthiness, or good judgment). The lone disruptive workplace event
+happened nearly 10 years ago and references from that job, as well as from many of
+Applicant’s subsequent employers indicate his workplace behavior has not been a
+problem or concern. Applicant has also engaged in behavioral counseling to improve his
+ability to deal with past issues, including stress resulting from his first wife’s death. In
+that regard, it is also  appropriate to apply the mitigating condition at AG ¶ 17(d) (the
+individual has acknowledged the behavior and obtained counseling to change the
+behavior or taken other positive steps to alleviate the stressors, circumstances, or
+factors that caused untrustworthy, unreliable, or other inappropriate behavior, and such
+behavior is unlikely to recur). While Applicant may need help with his interpersonal skills
+ See footnote 8, supra.13
+10
+in the workplace, available information about his conduct is sufficient to mitigate the
+stated security concerns under this guideline.
+Whole Person Concept. 
+I have evaluated the facts presented and have applied the appropriate
+adjudicative factors under Guidelines E and G. I have also reviewed the record before
+me in the context of the whole person factors listed in AG ¶ 2(a). Applicant is 48 years
+old and presumed to be a mature adult. He has experienced personal and professional
+difficulties that resulted in a varied employment history between 2002 and 2005, and
+may have contributed to carelessness in his use of alcohol on two occasions. However,
+he has moderated and/or eliminated his drinking and is getting professional counseling
+about alcohol and other behavioral issues. Applicant has been extremely candid and
+forthcoming about his employment history and alcohol consumption. Indeed, much of
+the information which supports the SOR allegations originated with him. In contrast to
+the adverse facets of his background, the record shows Applicant is honest, active in
+the community, hard working, and professional. His alcohol-related conduct occurred
+more than four years ago, he is at low risk of future alcohol dependence or abuse, and
+the one documented instance of disruptive behavior in the workplace occurred nearly 10
+years ago. His job performance in the past three years has been excellent. Over the
+same period, he has been more stable personally and professionally. A fair and
+commonsense assessment  of all available information shows Applicant has satisfied13
+any doubts about his suitability for access to classified information.
+11
+Formal Findings
+Formal findings on the allegations set forth in the SOR, as required by section
+E3.1.25 of Enclosure 3 of the Directive, are:
+Paragraph 1, Guideline G: FOR APPLICANT
+ Subparagraph 1.a - 1.d: For Applicant
+Paragraph 2, Guideline E: FOR APPLICANT
+Subparagraph 2.a - 2.e: For Applicant
+Conclusion
+In light of all of the foregoing, it is clearly consistent with the national interest to
+continue Applicant’s eligibility for a security clearance. Eligibility for access to classified
+information is granted.
+                            
+                                                    
+MATTHEW E. MALONE
+Administrative Judge

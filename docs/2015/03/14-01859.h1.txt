@@ -1,0 +1,396 @@
+ 
+ 
+ 
+ 
+ 
+                                                              
+                           DEPARTMENT OF DEFENSE 
+         DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+In the matter of: ) 
+ ) 
+ XXXXXXXXXX, XXXXX )  ISCR Case No. 14-01859 
+  ) 
+Applicant for Security Clearance ) 
+ 
+ 
+Appearances 
+ 
+For Government: Braden M. Murphy, Esq., Department Counsel 
+For Applicant: Pro se 
+ 
+ 
+__________ 
+ 
+Decision 
+__________ 
+ 
+ 
+TUIDER, Robert J., Administrative Judge: 
+ 
+Applicant failed to mitigate security concerns under Guidelines K (handling 
+protected information) and E (personal conduct). Clearance is denied. 
+ 
+Statement of the Case 
+ 
+On August 29, 2014, the Department of Defense Consolidated Adjudications 
+Facility (DOD CAF) issued a statement of reasons (SOR) to Applicant, pursuant to 
+Executive Order 10865, Safeguarding Classified Information within Industry, dated 
+February 20, 1960, as amended; DOD Directive 5220.6, Defense Industrial Personnel 
+Security Clearance Review Program (Directive), dated January 2, 1992, as amended; 
+and the adjudicative guidelines (AG), which became effective on September 1, 2006.1  
+ 
+ The SOR alleged security concerns under Guidelines K and E. The SOR detailed 
+reasons why DOD CAF was unable to find that it is clearly consistent with the national 
+interest to grant a security clearance for Applicant, and it recommended that his case be 
+submitted to an administrative judge for a determination whether his clearance should 
+be continued or revoked. 
+                                                          
+1
+This case originated as a result of an Incident Report filed in the DOD Joint Personnel 
+Adjudication System by Applicant’s employer on August 19, 2013. (Item 7.) 
+ 
+2 
+ 
+ 
+ 
+Applicant answered the SOR on September 11, 2014. He elected to have his 
+case decided on the written record in lieu of a hearing. A complete copy of the 
+Government’s file of relevant material (FORM), dated January 23, 2015, was provided 
+to him by letter dated January 26, 2015. Applicant received the FORM on February 2, 
+2015. He was given 30 days to file objections and submit material in refutation, 
+extenuation, or mitigation. Applicant timely submitted additional information to which 
+Department Counsel posed no objections. The case was assigned to me on March 12, 
+2015. 
+ 
+Findings of Fact 
+ 
+Applicant admitted SOR ¶¶ 1.a, 1.b, 1.c with explanations, 2.a, and admitted in 
+part and denied in part 2.b with explanations. After a thorough review of the record, I 
+make the following findings of fact. 
+ 
+Background Information 
+ 
+Applicant is a 55-year-old software engineer, who has worked for his current 
+employer since September 1995. He worked for his company’s two predecessor 
+companies and has accumulated over 35 years of employment with defense 
+contractors. Applicant seeks to retain his top secret security clearance and access to 
+sensitive compartmented information (TS/SCI). (Item 4, Response to FORM.) 
+ 
+Applicant graduated from high school in 1978. (Item 8.) He was awarded a 
+bachelor’s degree in computer science and mathematics in 1982, and a master’s 
+degree in computer science in 2013. (Response to FORM.) Applicant married in April 
+1984. He has two adult children, a son and a daughter. Applicant did not serve in the 
+armed forces. (Item 4.) 
+ 
+Handling Protected Information/Personal Conduct 
+ 
+This case originated following an incident report filed by Applicant’s employer in 
+August 2013, relating to a security violation involving the Applicant. (Item 7.) On August 
+9, 2013, Applicant’s was found to be in possession of a thumb drive during a random 
+security inspection when leaving a Sensitive Compartmented Information Facility 
+(SCIF). The thumb drive was confiscated and secured by security personnel. At the 
+time, Applicant stated that he did not know the thumb drive was in his pocket and that 
+he needed a document that was on the disk. (Item 5.) 
+ 
+Applicant later admitted to placing a personal thumb drive into a classified 
+computer system that was located at an off-site location and downloading unclassified 
+files onto the thumb drive for transfer to an unclassified system. Applicant also admitted 
+to using the same thumb drive in two company laptops and a personal computer before 
+and after it was used in the classified computer system. (SOR ¶¶ 1.a, 1.b; SOR answer; 
+Items 5, 6, 7, 8.) 
+ 
+3 
+ 
+ 
+After conducting an investigation, Applicant’s employer concluded that he was 
+culpable of the unauthorized use of a personal thumb drive in a classified system as 
+well as mishandling classified material. His employer further determined that Applicant 
+had deliberately violated security requirements and was grossly negligent in the 
+handling of classified material. On August 21, 2014, Applicant’s clearance and SCI 
+access was suspended and he was assigned to work on unclassified programs only. He 
+was also suspended for five days without pay, and debriefed from classified access. 
+(SOR ¶ 1.c; Items 5, 6, 7, 8.) Applicant acknowledged to company security personnel 
+that he had completed information assurance training and was aware that he was not 
+authorized to use a thumb drive on a Government computer. (Item 5.) 
+ 
+The SOR alleged that on August 9, 2013, Applicant made a false statement to 
+company security personnel when he stated that he had not placed the thumb drive into 
+any machine at the facility. He later explained that he was being responsive to 
+questions asked at the time; however, he had placed the thumb drive into a classified 
+computer at an off-site location and also two unclassified company laptops. (SOR ¶ 2.b; 
+Items 5, 6, 7, 8.)  Applicant provided clarification that he did not make a false statement 
+to company security personnel when questioned about the thumb drive.  
+ 
+ As an explanation and not as an excuse, Applicant explained that he was under 
+pressure to meet a customer deadline and acknowledged it was wrong to disregard 
+proper security procedures to meet that deadline. He added that he had recently been 
+informed that his father-in-law was being moved to an Alzheimer’s facility and that his 
+mother was diagnosed with leukemia and was to start immediate treatments. In 
+retrospect, he realizes the proper thing to do was a trusted download and that he should 
+have followed established procedures.  He did not think he had enough time to properly 
+complete the job and acknowledges that he was wrong. (Item 3.) 
+ 
+Character Evidence 
+ 
+Although Applicant did not submit any documentary character evidence, he 
+stated that he has worked proudly for his company and two predecessor companies. He 
+acknowledged his mistakes and regrets that “this security violation has left a blemish on 
+what has otherwise been a stellar career of performance, service, and dedication to [his] 
+company for the past 35 years.” (Response to FORM.) 
+ 
+Policies 
+ 
+The U.S. Supreme Court has recognized the substantial discretion of the 
+Executive Branch in regulating access to information pertaining to national security 
+emphasizing, “no one has a ‘right’ to a security clearance.” Department of the Navy v. 
+Egan, 484 U.S. 518, 528 (1988). As Commander in Chief, the President has the 
+authority to control access to information bearing on national security and to determine 
+whether an individual is sufficiently trustworthy to have access to such information.” Id. 
+at 527. The President has authorized the Secretary of Defense or his designee to grant 
+applicant’s eligibility for access to classified information “only upon a finding that it is 
+ 
+4 
+ 
+ 
+clearly consistent with the national interest to do so.”  Exec. Or. 10865, Safeguarding 
+Classified Information within Industry § 2 (Feb. 20, 1960), as amended.    
+ 
+Eligibility for a security clearance is predicated upon the applicant meeting the 
+criteria contained in the adjudicative guidelines. These guidelines are not inflexible rules 
+of law. Instead, recognizing the complexities of human behavior, these guidelines are 
+applied in conjunction with an evaluation of the whole person. An administrative judge’s 
+overarching adjudicative goal is a fair, impartial, and commonsense decision. An 
+administrative judge must consider all available, reliable information about the person, 
+past and present, favorable and unfavorable.  
+ 
+The Government reposes a high degree of trust and confidence in persons with 
+access to classified information. This relationship transcends normal duty hours and 
+endures throughout off-duty hours. Decisions include, by necessity, consideration of the 
+possible risk the applicant may deliberately or inadvertently fail to safeguard classified 
+information. Such decisions entail a certain degree of legally permissible extrapolation 
+about potential, rather than actual, risk of compromise of classified information. 
+Clearance decisions must be “in terms of the national interest and shall in no sense be 
+a determination as to the loyalty of the applicant concerned.”  See Exec. Or. 10865 § 7. 
+See also Executive Order 12968 (Aug. 2, 1995), § 3.1. Thus, nothing in this Decision 
+should be construed to suggest that I have based this decision, in whole or in part, on 
+any express or implied determination about applicant’s allegiance, loyalty, or patriotism. 
+It is merely an indication the applicant has not met the strict guidelines the President 
+and the Secretary of Defense have established for issuing a clearance. 
+ 
+Initially, the Government must establish, by substantial evidence, conditions in 
+the personal or professional history of the applicant that may disqualify the applicant 
+from being eligible for access to classified information. The Government has the burden 
+of establishing controverted facts alleged in the SOR. See Egan, 484 U.S. at 531.  
+“Substantial evidence” is “more than a scintilla but less than a preponderance.” See v. 
+Washington Metro. Area Transit Auth., 36 F.3d 375, 380 (4th Cir. 1994). The guidelines 
+presume a nexus or rational connection between proven conduct under any of the 
+criteria listed therein and an applicant’s security suitability. See ISCR Case No. 95-0611 
+at 2 (App. Bd. May 2, 1996).      
+ 
+Once the Government establishes a disqualifying condition by substantial 
+evidence, the burden shifts to the applicant to rebut, explain, extenuate, or mitigate the 
+facts. Directive ¶ E3.1.15. An applicant “has the ultimate burden of demonstrating that it 
+is clearly consistent with the national interest to grant or continue her security 
+clearance.” ISCR Case No. 01-20700 at 3 (App. Bd. Dec. 19, 2002). The burden of 
+disproving a mitigating condition never shifts to the Government. See ISCR Case No. 
+02-31154 at 5 (App. Bd. Sep. 22, 2005). “[S]ecurity clearance determinations should err, 
+if they must, on the side of denials.” Egan, 484 U.S. at 531; see AG ¶ 2(b). 
+ 
+ 
+5 
+ 
+ 
+Analysis 
+                                                  
+Handling Protected Information2 
+ 
+AG ¶ 33 articulates the security concern pertaining to handling protected 
+information: 
+ 
+Deliberate or negligent failure to comply with rules and regulations for 
+protecting classified or other sensitive information raises doubt about an 
+individual’s trustworthiness, judgment, reliability, or willingness and ability 
+to safeguard such information, and is a serious security concern. 
+ 
+AG ¶ 34 describes nine handling protected information that could raise a security 
+concern and may be disqualifying. Two of those disqualifying conditions are applicable 
+in this case: “(c) loading, drafting, editing, modifying, storing, transmitting, or otherwise 
+handling classified reports, data, or other information on any unapproved equipment 
+including but not limited to any typewriter, word processor, or computer hardware, 
+software, drive, system, gameboard, handheld, “palm” or pocket device or other adjunct 
+equipment;” and “(g) any failure to comply with rules for the protection of classified or 
+other sensitive information.” The Government established these conditions through 
+Applicant’s admissions and evidence presented. 
+   
+  AG ¶ 35 provides for three potentially applicable handling protected information 
+mitigating conditions:  
+ 
+(a) so much time has elapsed since the behavior, or it has happened so 
+infrequently or under such unusual circumstances, that it is unlikely to 
+recur and does not cast doubt on the individual’s current reliability, 
+trustworthiness, or good judgment; 
+ 
+(b) the individual responded favorably to counseling or remedial security 
+training and now demonstrates a positive attitude toward the discharge of 
+security responsibilities; and  
+ 
+                                                          
+2
+The DOHA Appeal board has stated: “Security violations are one of the strongest possible 
+reasons for denying or revoking access to classified information, as they raise very serious questions 
+about an applicant’s suitability for access to classified information.” ISCR Case No. 04-04264 at 3 (App. 
+Bd. Sept. 8, 2006) (citing ISCR Case No. 97-0435 at 3-4 (App. Bd. July 14, 1998)). Once it is established 
+that Applicant has committed a security violation, he has “a very heavy burden of demonstrating that [he] 
+should be entrusted with classified information. Because security violations strike at the very heart of the 
+industrial security program, an Administrative Judge must give any claims of reform and rehabilitation 
+strict scrutiny.” ISCR Case No. 0030 at 7 (App. Bd. Sept. 20, 2001). In many security clearance cases, 
+applicants are denied a clearance for having an indicator of a risk that they might commit a security 
+violation (e.g. alcohol abuse, delinquent debts or drug use).” ISCR Case No. 04-04264 at 3 (App. Bd. 
+Sept. 8, 2006). In this case the Judge found more than an indicator or risk. Here the Judge found 
+Applicant negligently disregarded in-place security procedures . . . . ISCR Case No. 03-26888 at 2 (App. 
+Bd. Oct. 5, 2006). 
+ 
+6 
+ 
+ 
+(c) the security violations were due to improper or inadequate training. 
+  
+None of the handling protected information mitigating conditions are applicable. 
+Applicant’s unauthorized use of a thumb drive in a classified system and mishandling of 
+classified information is recent and serious. While Applicant acknowledges his mistake, 
+I am at somewhat of a disadvantage in assessing his rehabilitation based on his written 
+assertions. Apart from his SOR answer and Response to FORM, he did not produce 
+any corroborating evidence of rehabilitation. 
+ 
+Personal Conduct 
+ 
+AG ¶ 15 articulates the security concern pertaining to personal conduct: 
+ 
+Conduct involving questionable judgment, lack of candor, dishonesty, or 
+unwillingness to comply with rules and regulations can raise questions 
+about an individual’s reliability, trustworthiness and ability to protect 
+classified information. Of special interest is any failure to provide truthful 
+and candid answers during the security clearance process or any other 
+failure to cooperate with the security clearance process. 
+ 
+            AG ¶ 16 describes seven personal conduct concerns that could raise a security 
+concern and may be disqualifying. One of those disqualifying conditions is applicable in 
+this case: “(e) personal conduct, or concealment of information about one’s conduct, 
+that creates a vulnerability to exploitation, manipulation, or duress such as (1) engaging 
+in activities which, if known, may affect the person’s personal, professional, or 
+community standing….“ The Government established this condition through Applicant’s 
+admissions and the evidence presented.   
+ 
+AG ¶ 17 provides seven potential conditions that could mitigate security concerns 
+in this case: 
+ 
+(a) the individual made prompt, good-faith efforts to correct the omission, 
+concealment, or falsification before being confronted with the facts; 
+ 
+(b) the refusal or failure to cooperate, omission, or concealment was 
+caused or significantly contributed to by improper or inadequate advice of 
+authorized personnel or legal counsel advising or instructing the individual 
+specifically concerning the security clearance process. Upon being made 
+aware of the requirement to cooperate or provide the information, the 
+individual cooperated fully and truthfully; 
+ 
+(c) the offense is so minor, or so much time has passed, or the behavior is 
+so infrequent, or it happened under such unique circumstances that it is 
+unlikely to recur and does not cast doubt on the individual's reliability, 
+trustworthiness, or good judgment; 
+ 
+ 
+7 
+ 
+ 
+(d) the individual has acknowledged the behavior and obtained counseling 
+to change the behavior or taken other positive steps to alleviate the 
+stressors, circumstances, or factors that caused untrustworthy, unreliable, 
+or other inappropriate behavior, and such behavior is unlikely to recur; 
+ 
+(e) the individual has taken positive steps to reduce or eliminate 
+vulnerability to exploitation, manipulation, or duress;  
+ 
+(f) the information was unsubstantiated or from a source of questionable 
+reliability; and 
+ 
+(g) association with persons involved in criminal activity has ceased or 
+occurs under circumstances that do not cast doubt upon the individual's 
+reliability, trustworthiness, judgment, or willingness to comply with rules 
+and regulations.  
+ 
+Applicant’s security violation is cross-alleged under Guideline E. None of the 
+mitigating conditions under this concern are applicable for the reasons discussed under 
+Guideline K. Applicant provided clarification that he did not make a false statement to 
+company security personnel when questioned about the thumb drive. Also, Department 
+Counsel noted in the FORM that Applicant had rebutted this falsification and 
+recommended that SOR ¶ 2.b be resolved in Applicant’s favor. I concur with 
+Department Counsel’s conclusion and recommendation and I find in his favor on SOR ¶ 
+2.b. 
+   
+Whole-Person Concept 
+ Under the whole-person concept, the administrative judge must evaluate an 
+applicant’s eligibility for a security clearance by considering the totality of the applicant’s 
+conduct and all the relevant circumstances. The administrative judge should consider 
+the nine adjudicative process factors listed at AG ¶ 2(a):  
+(1) the nature, extent, and seriousness of the conduct; (2) the 
+circumstances surrounding the conduct, to include knowledgeable 
+participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to 
+which participation is voluntary; (6) the presence or absence of 
+rehabilitation and other permanent behavioral changes; (7) the motivation 
+for the conduct; (8) the potential for pressure, coercion, exploitation, or 
+duress; and (9) the likelihood of continuation or recurrence.  
+The ultimate determination of whether to grant eligibility for a security clearance 
+must be an overall commonsense judgment based upon careful consideration of the 
+guidelines and the whole-person concept. AG ¶ 2(c). My comments in the Analysis 
+section are incorporated in the whole-person discussion. 
+ 
+8 
+ 
+ 
+I considered the potentially disqualifying and mitigating conditions in light of all 
+the facts and circumstances surrounding this case. Applicant receives credit for his 35 
+years of employment as a defense contractor. Apart from his statements of remorse, he 
+provided no evidence corroborating rehabilitation. If other favorable evidence exists, 
+Applicant did not provide it. A security breach of this nature is inconsistent with the 
+standards required of those entrusted with holding a security clearance.  
+ 
+Lastly, in requesting an administrative determination, Applicant chose to rely on 
+the written record. In so doing, however, he failed to submit sufficient information or 
+evidence to supplement the record with relevant and material facts regarding his 
+circumstances. By failing to provide such information, and in relying on only several 
+uncorroborated paragraphs of explanations, security concerns remain.  
+   
+I take this position based on the law, as set forth in Department of Navy v. Egan, 
+484 U.S. 518 (1988), my careful consideration of the whole-person factors and 
+supporting evidence, my application of the pertinent factors under the adjudicative 
+process, and my interpretation of my responsibilities under the adjudicative guidelines. 
+Applicant has not fully mitigated or overcome the Government’s concerns. For the 
+reasons stated, I conclude he is not eligible for access to classified information. 
+ 
+Formal Findings 
+ 
+Formal findings for or against Applicant on the allegations set forth in the SOR, 
+as required by Section E3.1.25 of Enclosure 3 of the Directive, are:          
+ 
+ Paragraph 1, Guideline K:    AGAINST APPLICANT 
+Subparagraphs 1.a – 1.c:  Against Applicant  
+ 
+Paragraph 2, Guideline E: AGAINST APPLICANT 
+Subparagraph 1.a: Against Applicant 
+Subparagraph 1.b: For Applicant 
+ 
+Conclusion 
+ 
+In light of all the circumstances presented by the record in this case, it is not 
+clearly consistent with the national interest to grant eligibility for a security clearance to 
+Applicant. Clearance is denied. 
+ 
+ 
+ 
+____________________________ 
+ROBERT J. TUIDER 
+Administrative Judge 

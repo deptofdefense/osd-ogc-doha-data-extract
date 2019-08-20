@@ -1,0 +1,304 @@
+KEYWORD: Guideline E
+DIGEST: Federal agencies and their employees are entitled to a presumption of good faith and
+regularity in the performance of their duties.  Adverse decision affirmed.
+CASENO: 14-00996.a1
+DATE: 07/16/2015
+DATE: July 16, 2015
+In Re:
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-00996
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+Alison O’Connell, Esq., Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On June
+2, 2014, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision—security concerns raised under Guideline E (Personal Conduct) of Department of Defense
+Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Department Counsel moved to amend the
+SOR, and that amendment was granted.  Applicant requested a hearing.  On March 19, 2015, after
+the hearing, Defense Office of Hearings and Appeals (DOHA) Administrative Judge Francisco
+Mendez denied Applicant’s request for a security clearance.  Applicant appealed, pursuant to the
+Directive ¶¶ E3.1.28 and E3.1.30.  Department Counsel cross-appealed pursuant to the same
+provisions. 
+Applicant raises the following issues on appeal: (1) whether there is sufficient evidence to
+support the Judge’s formal finding under SOR subparagraph 1.(a)1; (2) whether a Report of
+Investigation was properly admitted into the evidence by the Judge; and (3) whether Applicant was
+denied due process.  Department Counsel raises the following issue on cross- appeal: whether there
+is sufficient evidence to support the Judge’s finding under SOR subparagraph 1.(d).2  Consistent
+with the following, we affirm the Judge’s adverse decision.3
+The Judge made the following findings: In 2005, while employed by Company A, Applicant
+developed an application for his government client to better manage their workforce.  The client
+decided to go in another direction and the human resources (HR) application was never fully
+developed.  Applicant kept the HR application because it contained coding he had written that he
+believed could potentially be useful on future projects.  He did not get Company A or the
+government client’s permission to keep the HR application.  Applicant testified that others in the
+information technology (IT) field routinely keep code they develop for use on future projects and
+share it with other developers without first getting approval from their employer or the government. 
+Applicant’s current supervisor, who has worked in the government IT field for about 30 years,
+testified that Applicant’s conduct in downloading software without permission and retaining the HR
+application without first getting approval would be considered a minor infraction, at best.
+In 2006, Applicant left Company A because his employer was no longer able to pay him a
+six-figure salary.  The company had submitted a low offer to successfully fend off a competitor’s
+bid for the government contract Applicant was working on.  After Company A succeeded in
+retaining the contract, Applicant’s salary was reduced by nearly half.  Applicant left Company A
+1That allegation reads, “During an interview conducted by an Other Government Agency on February 12, 2007,
+you stated that after you left employment with a U.S. Government contractor in 2006, you took a copy of the database
+structure/applications you developed which contained Personally Identifiable Information (PII), uploaded a version of
+the database to the NIPRNET, which was later deleted, and may have maintained a copy of that database on a CD ROM
+at your home.”
+2SOR allegation 1.(d) initially alleged that Applicant falsified a security clearance application on June 15, 2012
+by failing to reveal that he had been terminated from his employment in June 2006.  The amended SOR allegation 1.(d)
+alleged that Applicant falsified a security clearance application on June 15, 2012 by failing to reveal that he had left the
+employment of Company A in June 2006 by mutual agreement with the company following charges or allegations of
+misconduct.
+3The Judge’s resolution of the allegations in subparagraphs 1.(b) and 1(c) of the SOR is not at issue on appeal.
+2
+after someone else was selected for the lead project position and after he received a six-figure salary
+offer from Company B.  
+Applicant listed his employment with Company A on his current security clearance
+application (SCA).  He reported that his reason for leaving was a better offer and better pay.  
+Company A’s vice president and Applicant’s former supervisor corroborate Applicant’s version of
+events leading to his resignation from Company A.  Applicant’s last performance appraisal from
+Company A reflects that he consistently exceeded expectations in all areas.  The appraisal
+specifically notes that the government customer rated Applicant and his team as being “truly
+outstanding.”  The appraisal further stated that the government customer was looking for an
+expanded role for Company A due to Applicant’s performance and leadership.
+In 2007, Applicant’s application for access to sensitive compartmented information (SCI)
+was denied by another government agency (AGA) due to his personal conduct and misuse of IT
+systems.  The AGA found, in part, that while employed by Company A, Applicant downloaded
+software without permission and kept the HR application without approval.  Additionally, the AGA
+noted that during interviews with government agents, Applicant stated that the HR application
+contained the personally identifiable information (PII) of the government client’s workforce. 
+Following these interviews, Applicant deleted all copies of the HR application, including one that
+was saved on his Company B work computer.  Also, after the interviews, Applicant contacted his
+former client to seek permission to keep the HR application.  Applicant was eventually informed by
+his former client that Company A did not give permission for his possession of the application.  
+When answering his SCA in 2012, regarding the HR application from Company A,
+Applicant wrote that the HR application “may have contained PII or it may have been test data.” 
+At the hearing, Applicant testified that the HR application only contained “dummy” or test data, not
+PII.  
+When working for his current employer, Applicant has successfully completed and routinely
+receives refresher training on the proper handling and safeguarding of sensitive information,
+including PII.  He is highly regarded by his current and former supervisors, co-workers, and
+neighbors.  He has not been involved in any misuse of IT systems beyond those matters that led to
+the denial of SCI access in 2007.  
+ 
+The Judge concluded: Applicant refuted the falsification allegation in the SOR.  He was not
+fired from Company A, nor did he leave under unfavorable circumstances.  Instead, the record
+evidence established that Applicant left Company A for the reason he listed on his SCA, to wit:
+“better offer, better pay.”
+The Judge further concluded:  Applicant’s questionable judgment in downloading software
+and retaining the HR application without his former employer’s approval raises the personal conduct
+security concern.  Applicant submitted evidence that would tend to indicate reform and
+rehabilitation, to include the passage of time without a repeat of the underlying conduct at issue. 
+Such favorable evidence would generally mitigate the personal conduct security concerns. 
+However, Applicant’s testimony was in direct conflict with the statements he previously made to
+3
+government investigators and during the current security clearance investigation as to whether the
+HR application contained PII.  His inconsistency on such a material point undercuts the favorable
+evidence of rehabilitation and reform, and raises continuing concerns about his reliability and
+trustworthiness.  Doubts persist about Applicant’s continued eligibility for access to classified
+information.     
+SOR subparagraph 1.(a).
+Applicant argues that there was insufficient evidence to support the Judge’s adverse finding
+under SOR subparagraph 1.(a), and that he erroneously concluded that Guideline E, ¶ 16(c)4 and ¶
+16(f)5 apply to the case.  The Board disagrees.
+The record evidence indicates that when Applicant left Company A, he took with him an HR
+database that he had created for the government client when he went to Company B.  There is no
+evidence that Applicant had permission to take the database.  Notwithstanding Applicant’s assertion
+that there was no evidence indicating that his conduct was proscribed by his employer, there is
+evidence indicating that Applicant’s actions were improper and formed a sufficient basis to raise the
+issue of questionable judgment on his part.  Following the initial interview with AGA investigators,
+Applicant began to question whether he had permission to retain the HR database, and then he
+deleted it from his Company B computer.  He then contacted a representative of the government
+agency to determine whether he had permission to retain the database.  This conduct is evidence that
+he knew he had engaged in some impropriety regarding the HR database.  Also, there is some
+evidence in the record indicating that Applicant’s conduct was proscribed by his employer, although
+the evidence does not reveal a rule violation that speaks directly to Applicant’s specific conduct .6 
+Even without evidence of a specific  rule, regulation, or agreement that Applicant violated, there is
+sufficient evidence to establish misconduct.  It is unnecessary to establish a specific rule violation
+when an Applicant’s conduct clearly raises security concerns.  See, ISCR Case No. 11-05079 at 3
+(App. Bd. Jun. 6, 2012).             
+4“[C]redible adverse information in several adjudicative issue areas that is not sufficient for an adverse
+determination under any other single guideline, but which, when considered as a whole, supports a whole-person
+assessment of questionable judgment, untrustworthiness, unreliability, lack of candor, unwillingness ro comply with rules
+and regulations, or other characteristics indicating that the person may not properly safeguard protected information[.]”
+5“[V]iolation of a written or recorded commitment made by the individual to the employer as a condition of
+employment.”
+6An e-mail sent to Applicant from the government representative responded to Applicant’s inquiries about the
+propriety of keeping the HR database he developed at Company A.  The e-mail contained a section from a Company A
+manual which identified processes, methods, and tools developed or created by Company A employees as the sole
+property of Company A and the government client.  (Gov. Exhibit 3).    
+4
+Applicant’s various statements regarding the contents of the HR database constitute another
+aspect of the government’s case.  Applicant asserts that his statements were not inconsistent on the
+issue of whether the HR database contained PII, and any perceived variance was a result of mistake
+or his attempts to respond with complete candor to questions posed by AGA investigators.  The
+evidence reveals that Applicant’s statements about the existence of PII on the HR database range
+from a representation that the HR database contained the PII of up to 13,000 military members to
+statements that he did not know whether or not the database contained PII to testimony at the hearing
+that the database absolutely did not contain PII.7  The Judge found Applicant not credible on the
+issue of the contents of the database and his knowledge thereof, which he reasonably concluded
+were material points in the case, and determined that the lack of candor raised continuing concerns
+about Applicants reliability and trustworthiness.  He concluded that these concerns undercut any
+mitigating evidence of reform and rehabilitation, notwithstanding the passage of time since the
+incident. The Judge’s credibility determination is entitled to deference on appeal.  Directive ¶
+E3.1.32.1.  The Judge’s conclusions regarding the lack of mitigation are reasonable and are
+supported by the record.    
+SOR subparagraph 1.(d).   
+Department Counsel challenges the Judge’s conclusion that Applicant did not falsify a
+security clearance application question that was potentially applicable to the circumstances of
+Applicant’s departure from Company A.  Department Counsel argues that those circumstances
+required Applicant to reveal that he left Company A by mutual agreement following charges or
+allegations of misconduct, instead of answering “no” to the question, thereby denying leaving as a
+result of any unfavorable circumstances.  After a review of the record evidence and the Judge’s
+decision, the Board finds that the Judge’s conclusion that Applicant did not falsify his SCA is
+sustainable.  On the issue of whether Applicant should have revealed the circumstances of his
+departure from Company A, the evidence cuts both ways. 
+Department Counsel principally relies on two sentences from what appears to be a summary
+of a report of investigation (ROI) produced by AGA (Govt. Ex. 3).  That language reads, “. . the. .
+. . . representative requested that subject be removed from the contract based on the allegations that
+Subject was not responsive and was conducting personal business during billable time.  Based on
+the request and to maintain the contract, SUBJECT was dismissed on 5/26/2006 with his pay ending
+on 06/22/2006.”  Department Counsel also relies on evidence of a conversation between Applicant
+and his superiors wherein Applicant asked, “So, am I fired today or simply on the bench and fired
+in four weeks if [Company A] cannot find me something?”  In reply, his supervisor stated, “you are
+not fired today, consider yourself on the bench for the next four weeks.  If we cannot place you in
+four weeks, we will have to lay you off.” (Govt. Ex. 2).  When arguing that this evidence required
+the Judge to make a finding against Applicant on the falsification issue, Department Counsel states
+7Applicant insists that the inconsistencies are the result of aggressive and intimidating interviewing techniques
+that he experienced at the hands of AGA investigators.  However, as the Judge points out, in a non-coercive environment
+(his completion of his SCA) five years after the AGA interviews, he stated that the database might have contained PII,
+a statement that is directly at odds with his hearing testimony. 
+5
+that Company A’s leadership “may have chosen the path of least resistence” by speaking favorably
+of Applicant or they may have had positive feelings for him.  Department Counsel also asserts that
+the derogatory ROI summary language that she relies on was adopted as true by Applicant.
+Applicant points to the following countervailing evidence, much of which was relied on by
+the Judge: (1) the AGA ROI does not contain information about the source of the two sentence
+statement relied on by Department Counsel; (2) the AGA did not list the purported adverse
+employment information as a basis for their clearance denial; (3) numerous descriptions from
+Company A personnel, including a vice president and a supervisor described Applicant as an
+excellent employee, and their interview statements corroborate Applicant’s version of events,
+namely that his salary had been cut in half when the contract he was working on was renegotiated,
+and, at about the same time, he accepted an offer from another company for better pay.  These facts
+were also corroborated by contemporaneous e-mails found in the record; (4) Applicant’s last
+performance appraisal from Company A, which reflected outstanding performance; (5) evidence
+suggesting that the persons who removed Applicant from the contract had a motive to provide false
+derogatory information about him; and (6) statements by Company A personnel that Applicant’s
+removal from the contract in question was unfair.
+In reviewing the record evidence, the Board notes the following: (1) the language contained
+in the two sentences in the AGA ROI summary relied upon by Department Counsel does  not appear
+anywhere else in the record, including the main body of the AGA ROI; (2) when describing the
+circumstances of Applicant’s final days at Company A, Applicant’s supervisor gave no indication
+that Applicant was removed from the contract for misconduct, and he questioned the motives of the
+contract personnel who made the removal decision.  The supervisor also stated that comments of the
+government contracting officers should not be regarded as official Company A comments regarding
+Applicant’s work history (Govt. Ex. 3); (3) Applicant’s salary reduction was the result of vagaries
+in the contract termination and re-awarding process and had nothing to do with his performance; and
+(4) after he was made aware of Applicant’s removal from the contract, a Company A manager
+expressed his wish that the company could continue Applicant’s long term goals with them.  
+(Hearing Exhibit 4).  
+The Board also notes Department Counsel’s claim that Applicant affirmatively
+acknowledged as true the portion of the AGA ROI summary that contains the derogatory two
+sentence language.  This claim is without merit.  The record contains no such acknowledgment.8 
+Similarly, Department Counsel’s claim that the two sentences were an admission by Applicant is
+without merit.  It is impossible on this record to determine the source of the information in the two
+8Department Counsel may be conflating Government Exhibits 2 and 3.  Government Exhibit 2 was an Interview
+Verification Interrogatory wherein Applicant was asked to verify the accuracy of an ROI prepared by an investigative
+body other than the AGA.  He did so.  However, the derogatory two sentence language found in Government Exhibit
+3 is not found in Government Exhibit 2.  Government Exhibit 3 is styled, “Interrogatories” but it contains only a request
+that Applicant supply written documents to the investigating agency.  He did so.  The acknowledgment Applicant then
+made in Government Exhibit 3 went only to his answer to the question, “Have you provided the requested
+documentation?” His affirmation did not go to the truthfulness or accuracy of any of the contents of Government Exhibit
+3.  
+6
+sentences upon which she relies.  Also, Department Counsel’s suggestion that Company A’s
+management was taking “the path of least resistance” when speaking favorably of Applicant or was
+acting as a result of positive feelings toward him is without a basis in the case record and is
+speculative.  
+With this evidentiary record as background, the Board concludes that the Judge did not err
+by finding in Applicant’s favor on SOR subparagraph 1(d).  On these facts, it was not arbitrary or
+capricious for the Judge to discount the assertion that Applicant left his employment with Company
+A by mutual agreement following charges or allegations of misconduct.  The falsification issue was
+controverted, and as such, Department Counsel bore the burden of proof to establish the underlying
+facts.  Directive ¶ E3.1.14.  Here, Department Counsel developed some evidence in support of the
+allegation, but there was also significant evidence that detracted from the allegation.  Determining
+the weight and credibility of the evidence is the special province of the trier of fact.  See ISCR Case
+No. 02-02892 at 4 (App. Bd. Jun. 28, 2004).  A party’s disagreement with the Judge’s weighing of
+the evidence, or an ability to argue for a different interpretation of the evidence, is not sufficient to
+demonstrate the Judge weighed the evidence or reached conclusions in a manner that is arbitrary,
+capricious, or contrary to law.  See, e.g., ISCR Case No. 06-17409 at 3 (App. Bd. Oct. 12, 2007).
+Department Counsel is essentially arguing for a different interpretation of the record evidence.     
+               
+Government Exhibit 3
+Applicant objects to the Judge’s admission of a portion Government Exhibit 3, the ROI from
+the AGA.  He essentially alleges lack of reliability and lack of completeness.  Applicant cites several
+perceived irregularities, such as the fact that the reasons for the many redactions are not given in the
+exhibit’s documents, there are no representations that the ROI is a true copy, there is no statement
+that the documents contained therein were produced in the regular course of business, and the ROI
+is dated seven months after the interview sessions.  Applicant also asserts that the document is
+incomplete.  His theory is that changes were made to the document after he requested it, and the
+document “bears every indication of having been generated in anticipation of litigation.”  The Board
+concludes that the document was admissible. 
+Federal agencies and their employees are entitled to a presumption of good faith and
+regularity in the performance of their responsibilities.  See ISCR Case No. 06-06496 at 3 (App. Bd.
+Jun. 25, 2009).  Applicant’s blanket assertions that the document may have been altered or was not
+prepared in the ordinary course of business do not overcome this presumption.  The items that
+Applicant enumerates as missing from the ROI, while of some benefit in conclusively establishing
+reliability, are not prerequisites to admissibility.  Applicant has made no assertion and provided no
+evidence that would enable the Board to determine whether or not the document is incomplete.
+The Board notes that the document in question was actually supplied by Applicant in
+response to a request by the government.  Also, as Department Counsel points out, the AGA ROI
+in Government Exhibit 3 essentially speaks to the allegation in subparagraph 1.(d). of the SOR,
+7
+which was adjudicated in Applicant’s favor.  Thus, even assuming that the AGA ROI was
+improperly admitted, any resulting error would be harmless.
+Due Process
+Applicant argues that the amending of SOR allegation in subparagraph 1.(d). deprived him
+of procedural due process as did Department Counsel’s pursuit of a case against him under
+subparagraph 1.(d).  The latter assertion appears to be predicated on Applicant’s belief that there was
+no evidence on which to base the allegation.  Applicant’s claims lack merit.
+A Judge’s decision whether or not to allow an SOR amendment is reviewed for an abuse of
+discretion.  The Board concludes that the Judge’s decision to allow the amendment, which took
+place pre-hearing, was sustainable.  Again, the SOR subparagraph that was amended was resolved
+in Applicant’s favor.  Applicant’s claim that Department Counsel brought forth a frivolous case
+under subparagraph 1.(d) is undercut by the fact that there was some evidence tending to establish
+the allegation.  Given the existence of some evidence to support the allegation, Department Counsel
+cannot reasonably be accused of proceeding in bad faith.  
+Conclusion
+The Board does not review a case de novo.  After reviewing the record, the Board concludes
+that the Judge examined the relevant data and articulated a satisfactory explanation for the decision,
+“including a ‘rational connection between the facts found and the choice made.’” Motor Vehicle
+Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983) (quoting
+Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The general standard is
+that a clearance may be granted only when ‘clearly consistent with the interests of the national
+security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  Therefore, the Judge’s
+ultimate unfavorable security clearance decision is sustainable.
+Order
+The decision of the Judge is AFFIRMED.
+Signed: Michael Ra’anan            
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett            
+Jeffrey D. Billett
+8
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody            
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+9

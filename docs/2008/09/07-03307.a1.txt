@@ -1,0 +1,355 @@
+KEYWORD: Guideline J; Guideline E
+DIGEST: The Judge found that Applicant was convicted after an Alford plea of third degree
+assault.  The conviction and the other record evidence (including Applicant’s daughter’s
+description of his touching her) precluded the Judge from concluding that Applicant did not
+commit the offense.  The Judge’s analysis of Guideline Mitigating Conditions does not follow
+logically from the record evidence.  Favorable decision reversed.
+CASENO: 07-03307.a1
+DATE: 09/26/2008
+DATE: September 26, 2008
+In Re:
+------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 07-03307
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Candace L. Le’i, Esq., Department Counsel
+FOR APPLICANT
+Pro Se
+2
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On December 20, 2007, DOHA issued a statement of reasons (SOR) advising Applicant
+of the basis for that decision–security concerns raised under Guideline J (Criminal Conduct) and
+Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as
+amended) (Directive).  Applicant requested a hearing.  On May 30, 2008, after the hearing,
+Administrative Judge Mary E. Henry granted Applicant’s request for a security clearance.
+Department Counsel filed a timely appeal pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Department Counsel raised the following issues on appeal: whether the Judge erred in
+concluding that the Government had not met its burden of production under two of the Guideline E
+allegations; whether the Judge’s application of the Guidelines E and J mitigating conditions was
+unsupported by record evidence; and whether the Judge’s whole-person analysis was unsupported
+by record evidence.  Finding error, we reverse.
+Whether the Record Supports the Judge’s Factual Findings
+A.  Facts
+The Judge made the following findings of fact:  Applicant is an electronics laboratory
+technician for a Defense contractor.  He is a veteran of the U.S. Marine Corps.  He married his first
+wife in 1986, divorcing her 18 months later.  They have a daughter from the marriage (Daughter),
+of whom the wife was awarded custody in the divorce settlement.  Applicant is currently married to
+his second wife, with whom he has two children.
+In 1986 Applicant was arrested and charged with DUI.  In November 1998, Daughter was
+visiting Applicant at his home.  Applicant denied Daughter’s request for a friend to visit her, which
+Applicant believed upset Daughter.  Applicant stated that Daughter and his previous wife did not get
+along with his current wife.  Applicant’s memory of the events is “not completely clear.”  Decision
+at 3.   However, shortly after her visit with Applicant, Daughter “called Applicant and told him she
+knew what he had done-that he touched her in the wrong places.  He denied any wrongdoing and told
+her he was sorry she was upset.  The police report indicates that [Daughter] told the police about this
+alleged conduct and that Applicant also improperly touched his other daughter at the same time.  It
+also shows that, at around 1:30 a.m., with the police on the telephone line, [Daughter] called
+Applicant . . . The report states that Applicant denied improperly touching his younger daughter and
+that he admitted his conduct with [Daughter].  Applicant, however, denies that this conduct occurred
+with [Daughter].”  Id.  
+The police arrested Applicant on November 16, 1998, charging him with sexual assault on
+a child by a person in a position of trust, a felony.  Following a Miranda warning, Applicant was
+questioned by the police.  After being informed that he had failed a polygraph examination,
+North Carolina v. Alford, 400 U.S. 25 (1970).  1
+3
+Applicant acknowledged that he committed the conduct with Daughter.  For six months or more
+Applicant lived with his parents.  The State Department of Social Services convened a panel, which
+concluded that Applicant could not return to live with his wife and their two children.  Consistent
+with State law, Applicant requested a jury trial on this matter and was permitted to return to his
+home.
+Subsequent to that, Applicant entered an Alford  plea to third degree assault.  Applicant did1
+not want to put his family through another trial and he had exhausted his financial resources.  If he
+litigated the case and were found guilty, Applicant could have been sentenced to ten years in jail.
+Following Applicant’ plea, the court sentenced him to two years probation and a fine.  He was
+ordered to undergo a psychological examination.  In addition, the court issued a permanent
+restraining order requiring him to stay away from Daughter.  He has had no contact with his daughter
+or ex-wife since November 1998.
+When completing his security clearance application (SCA), Applicant checked “not
+applicable” in reply to the question inquiring about whether he had a former spouse.  When
+answering the question about his other relatives, he listed his parents and siblings but he did not list
+any of his children, including Daughter.  To the question as to whether he had ever been charged
+with or convicted of a felony, he answered “no.”   These answers were not factually correct.
+Applicant did not list his first marriage because “it was a long time ago, his first wife is not a part
+of his life and he is trying to put his contacts with her behind him.”   He did not list the arrest for
+sexual assault on Daughter because he believed he only had to list offenses less than seven years old.
+“In explaining his reason for not listing his former wife and oldest daughter, he said ‘[he] did not
+consider those two people part of my life anymore.’” Id. at 5.   Applicant stated that he did not take
+the security clearance process seriously and was not thorough when completing his SCA.
+Applicant’s wife and family are aware of his arrest and the circumstances surrounding it.  His
+boss is also aware of his arrest and plea.  
+B.  Discussion
+The Appeal Board’s review of the Judge’s findings of facts is limited to determining if they
+are supported by substantial evidence–“such relevant evidence as a reasonable mind might accept
+as adequate to support a conclusion in light of all the contrary evidence in the same record.”
+Directive  ¶ E3.1.32.1.  “This is something less than the weight of the evidence, and the possibility
+of drawing two inconsistent conclusions from the evidence does not prevent an administrative
+agency’s finding from being supported by substantial evidence.”  Consolo v. Federal Maritime
+Comm’n, 383 U.S. 607, 620 (1966).  In evaluating the Judge’s findings, we are required to give
+deference to the Judge’s credibility determinations.  Directive ¶ E3.1.32.1. 
+4
+The Board will address whether the Judge’s decision is supported by substantial record
+evidence in the course of the discussion below. 
+Whether the Record Supports the Judge’s Ultimate Conclusions
+ A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  The Appeal
+Board may reverse the Judge’s decision to grant, deny, or revoke a security clearance if it is arbitrary,
+capricious, or contrary to law.  Directive ¶¶ E3.1.32.3 and E3.1.33.3.  
+Once a concern arises regarding an Applicant’s security clearance eligibility, there is a strong
+presumption against the grant or maintenance of a security clearance.  See Dorfmont v. Brown, 913
+F. 2d 1399, 1401 (9  Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After the Government presentsth
+evidence raising security concerns, the burden shifts to the applicant to rebut or mitigate those
+concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and mitigating conditions and
+whole person factors does not turn simply on a finding that one or more of them apply to the
+particular facts of a case.  Rather, their application requires the exercise of sound discretion in light
+of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at 3 (App. Bd. Dec. 20,
+2006).
+In deciding whether the Judge's rulings or conclusions are arbitrary or capricious, the Board
+will review the Judge's decision to determine whether:  it does not examine relevant evidence; it fails
+to articulate a satisfactory explanation for its conclusions, including a rational connection between
+the facts found and the choice made; it does not consider relevant factors; it reflects a clear error of
+judgment; it fails to consider an important aspect of the case; it offers an explanation for the decision
+that runs contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere
+difference of opinion.  In deciding whether the Judge's rulings or conclusions are contrary to law,
+the Board will consider whether they are contrary to provisions of Executive Order 10865, the
+Directive, or other applicable federal law.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2,
+2006).
+Whether the Judge erred in her conclusion that the Government had not met its burden of
+production under two of the Guideline E allegations.
+The SOR contains three allegations under Guideline E.  The first is that Applicant falsified
+his SCA by omitting his former spouse.  The second is that he falsified the SCA by omitting
+Daughter.  The third is that he falsified the SCA by omitting his felony arrest for sexual assault on
+Daughter.  The Judge concluded that the Government had satisfied its burden with regard to the
+former spouse.  The Judge stated, “[Applicant] acknowledged that he realized that he thought about
+In Government Exhibit (GE) 2, Subject Interview, dated December 2006, Applicant offered a different set of2
+explanations for his omissions.  
+5
+his first wife, but decided that the information was not necessary.  His decision not to acknowledge
+his first marriage was deliberate.”  Decision at 9.  This conclusion is sustainable.
+However, the Judge concluded that Applicant’s failure to list Daughter was not deliberate,
+on the ground that he failed to name any of his children through a simple mistake.  See Tr. at 47.  (“I
+don’t understand how I missed that, Your Honor.  I really don’t.  There’s no reason I would
+deliberately leave my current children off.”)  The Judge does not explain why she finds this to be a
+credible explanation for the omission, given the fact that the SCA explicitly requires an applicant
+to name any and all children he or she may have.  Be that as it may, the Judge’s conclusion that
+Applicant did not deliberately omit Daughter’s name is not even consistent with her own finding that
+he omitted both his former wife and Daughter for the same reason.  That reason is that they were a
+part of his life that he wished to put behind him.  The Judge’s finding is consistent with a portion of
+the record evidence.  “Judge: Is there a reason you would leave [Daughter] out?  Witness: Yes, Your
+Honor.  Judge: Why would you leave her out?  Witness: Same reason.  It’s sad to say, but I disowned
+her after this incident and did not consider those two people part of my life anymore.”  Tr. at 47.
+“Department Counsel: . . . [I]t occurred to you to list your daughter and your wife, but you chose not
+to.  A: Right.  I believe that’s correct.”  Tr. at 50.   In evaluating whether the Government has2
+presented substantial evidence regarding the deliberate nature of a false statement or an omission,
+the Judge must examine the statement or omission in light of the record as a whole. When an
+applicant claims that a false answer to a SCA question is not deliberate, the Judge should address
+explicitly any contrary evidence in the record.  In this case Applicant’s desire to relegate to the past
+two people who had accused him of sexual assault is, in and of itself, not surprising.  However,
+insofar as that is a reason to believe that his omission of the former wife was deliberate, it is, a
+fortiari, a reason to believe the same thing about Daughter.  The Judge’s decision does not provide
+a rational basis for distinguishing between these omissions.  The Judge’s conclusion that the
+Government had not presented substantial evidence regarding the deliberate nature of Applicant’s
+omission of Daughter’s name is arbitrary, capricious, and contrary to law.
+The Judge also concluded that the Government had not met its burden of production as to
+the deliberate nature of Applicant’s omission of his felony arrest for sexual assault on Daughter.
+Department Counsel’s argument that this conclusion is unsupported by record evidence is
+persuasive.  Applicant stated that he believed the question asked only for convictions during the prior
+seven years.  Applicant’s explanation that he answered hurriedly and without reading the question
+closely, while testimony the Judge had to consider, should have been balanced against other matters
+in the record which point to a deliberate omission.  The Judge reproduced this question verbatim in
+her findings of fact: “Have you ever been charged with or convicted of any felony offense?”  The
+question is clear and unambiguous, containing no time limitation.  Given the fact that all three
+factual omissions at issue in this case relate to Applicant’s prior conviction arising from an allegation
+of sexual assault on his biological daughter, a reasonable person could infer that Applicant was
+omitting from his SCA any facts that would lead to discovery of that misconduct.  His testimony that
+Applicant testified as to advice he had received from his attorney.  “He told me that we could take it to trial,3
+criminal trial, that it was going to be very costly, and if I was found guilty, then I could spend up to ten years in prison.
+And at that point, I was out of money.  I didn’t want to drag my family back through all the proceedings again, and so
+I pled to assault to end everything.”  Tr. at 42.
+Directive ¶ E2.31(a): “a single serious crime or multiple lesser offenses[.]” Directive ¶ E2.31(c): “allegation4
+or admission of criminal conduct, regardless of whether the person was formally charged, formally prosecuted or
+convicted[.]”  
+6
+he failed to take the security clearance process seriously does not contravene such an inference.  Tr.
+at 20, 46.  The Judge’s own conclusion that one of the omissions was deliberate is a matter which
+she should have addressed in evaluating his state of mind regarding the other two.  Indeed, the
+multiple nature of the omissions, and the fact that they were made contemporaneously, as well a his
+varying explanations for the omissions, are matters which the Judge should have discussed.  Viewed
+as a whole, the record demonstrates that the Government presented substantial evidence of the
+deliberate nature of Applicant’s omission of his felony arrest.  The Judge’s contrary conclusion is
+arbitrary, capricious, and contrary to law.  
+Whether the Judge’s application of the mitigating conditions was unsupported by record
+evidence.  
+The Judge properly concluded that the incident with Daughter raised security concerns under
+Guideline J.  Government Exhibit (GE) 6 includes a Probable Cause affidavit, which contains a
+description of the incident.  It includes information apparently provided by Daughter to the police.
+The document states that Daughter 
+visited her father . . . for a regular visit.  She said that at bedtime she was sharing a
+bedroom with her half-sister . . . who is 7 years old.  She said her and [sister] were
+also sharing a bed. [Daughter] said that she was asleep when her father entered the
+room and woke her up, by touching her on the leg. [She] further stated . . . that her
+father rubbed up her leg, resting his hand on her vagina. [She] believed her father
+rubbed her vagina, with one finger, in a circular motion. [She] stated that her father
+continued to rub her vaginal area and legs for approximately five to ten minutes.  
+GE 6 also contains a description of a pretext phone call Daughter made to Applicant.  “During the
+pretext phone call the suspect . . . did not . . . deny touching [Daughter].  He did extend to [her] an
+apology for his actions.”    During a subsequent interrogation by the police Applicant admitted that
+he had “sexually molested [Daughter] by fondling her vagina on the night in question.”  Tr. at 68.
+See also Decision at 3.  The record, and the Judge’s findings, demonstrate that as a consequence of
+his actions, Applicant was charged with sexual assault and entered a plea of guilty to a lesser
+included offense in order to avoid the consequences to his family and to himself of a litigated trial.3
+The Judge’s conclusion that this matter is covered by two Guideline J disqualifying conditions  is4
+Directive ¶ E2.16(a): “deliberate omission, concealment, or falsification of relevant facts from any personnel5
+security questionnaire, personal history statement, or similar form used to conduct investigations, determine employment
+qualifications, award benefits or status, determine security clearance eligibility or trustworthiness, or award fiduciary
+responsibilities[.]”   
+“Subject in 11/98 was arrested and charged with sexual assault on his daughter . . . Subject after being charged6
+had his attorney request this case to be heard in a court by a jury.  Several months after 11/98, this case went to trial.
+Subject testified and had other character witnesses testify on his behalf.  Subject recalls his ex-wife and daughter also
+testified against him.  Subject recalls that once this case went to the jury, they only took less than one hour to reach a
+verdict.  Subject . . . stated that during this [trial] he was found to be not guilty by a jury.”  GE 2 at 5.  
+7
+sustainable.  Additionally, the Judge’s similar conclusion under Guideline E about Applicant’s
+omission of his former wife is also sustainable.   5
+However, Department Counsel persuasively argues that the Judge erred in her analysis of the
+pertinent  mitigating conditions.  Regarding Guideline J, the Judge concluded that Applicant had met
+his burden of persuasion under three provisions in the Directive.  Criminal Conduct Mitigating
+Condition (CCMC) 32(a) mitigates security concerns when “so much time has elapsed since the
+criminal behavior happened, or it happened under such unusual circumstances that it is unlikely to
+recur and does not cast doubt on the individuals’s reliability, trustworthiness, or good judgement[.]”
+Directive ¶ E2.32(a).  CCMC 32(c) mitigates criminal conduct when there is “evidence that the
+person did not commit the offense[.]” Directive ¶ E2.32(c).  CCMC 32(d) does so when “there is
+evidence of successful rehabilitation[.]” Directive ¶ E2.32(d).  Department Counsel argues that the
+Judge’s analysis is not supported by record evidence.  The Board notes, for example, GE 2, a record
+of Applicant’s subject interview conducted as part of his security clearance investigation.  This
+document describes Applicant’s explanation to the investigator, taken under oath and concerning,
+among other things, the assault allegation.   In this document Applicant appears to claim that, as a
+consequence of Daughter’s allegation, he was taken to trial by a jury and found to be not guilty.6
+Although Applicant later stated that this was a reference to the civil hearing concerning his efforts
+to return home to his current wife, the statement itself, read in its entirety, could lead a reasonable
+person to believe that Applicant was claiming to have been acquitted of the criminal charge of sexual
+assault.  There is nothing in the statement about his plea of guilty to the lesser included offense of
+assault.  Such a statement is consistent neither with the other record evidence nor the Judge’s own
+findings about the criminal trial in Applicant’s case.  Furthermore, in this document Applicant
+attributes Daughter’s assault accusation to her having been manipulated by the former wife, whom
+Applicant described as “evil” and jealous of Applicant’s current spouse.  This is not totally
+consistent with other evidence provided by Applicant, the implication of which is that Daughter
+reported Applicant to the police because she was angry that Applicant would not permit her to have
+an overnight guest.  Additionally, the Judge does not discuss the credibility of Applicant’s testimony
+that his confession, following a polygraph, was actually false and that he had confessed merely due
+to having been tired.  Tr. at 68.  These matters, especially when read in light of the omissions on the
+SCA, are not consistent with a view that Applicant has demonstrated reliability and good judgement,
+or that he has been rehabilitated.  The Judge does not adequately explain why she discounts the
+record evidence that impeaches Applicant’s credibility and is contrary to her favorable resolution of
+the case.   
+See Crofoot v. U.S. Government Printing Office, 761 F.2d 661at 665, n. 1, (Fed. Cir. 1985) (A court that7
+receives an Alford plea “must independently determine that the plea has a factual basis”); U.S. v. Alber, 56 F. 3d 1106,
+1110 (9  Cir. 1995)(A court accepting an Alford plea must “be convinced that there is sufficient evidence to justify” ath
+conclusion that an accused is guilty beyond a reasonable doubt); People v. Birdsong, 958 P.2d 1124 (Colorado 1998);
+Wirsching v. Colorado, 360 F. 3d. 1191  (10  Cir. 2004).  See also 21 Am. Jur. 2d ¶  665 (“in order to accept a guiltyth
+plea by a defendant who continues to maintain his or her innocence, the court must determine that a strong factual basis
+exists establishing defendant’s actual guilt.”)   
+See Directive ¶ E2.17(c): “the offense is so minor, or so much time has passed, or the behavior is so infrequent,8
+or it happened under such unique circumstances that it is unlikely to recur and does not case doubt on the individual’s
+reliability, trustworthiness, or good judgement[;]” Directive ¶ E2.17(e): “the individual has taken positive steps to reduce
+or eliminate vulnerability to exploitation, manipulation, or duress[.]”      
+Compare this the Judge’s own finding that Applicant had also been arrested for DUI.9
+8
+The Judge also concluded that Applicant had met the requirements of CCMC 32(c) by
+providing evidence that he did not commit the offense.  Under the facts of this case, this appears to
+be at odds with the Judge’s other conclusions that Applicant had established that the offense would
+not recur and that he had shown rehabilitation.  In any event, the Judge appears to conclude that
+Applicant’s Alford plea to a lesser included offense and his denials of criminal conduct demonstrate
+that the offense in question did not occur.  While the Judge framed her discussion in terms of sexual
+assault, it should be noted that Applicant has denied any criminal activity with Daughter, sexual or
+otherwise.  The Judge does not explain why she finds this denial credible in light the record evidence
+as to the facts underlying Applicant’s arrest; his admission to the police that he assaulted Daughter
+after having been advised that he failed a polygraph examination; and his apparent inconsistent
+and/or meretricious statements concerning the incident and its aftermath.  The Judge appears to have
+given weight to the fact of the Alford plea, in which a defendant consents to the imposition of a
+sentence despite a denial of actual guilt.  However, a court cannot accept such a plea unless it also
+finds that it is supported by facts sufficient to sustain a conviction.   Under the facts of this case, such7
+a plea, in and of itself, is entitled to minimal favorable weight viewed in light of Applicant’s
+otherwise uncorroborated claims of innocence.  The record, viewed as a whole, will not sustain a
+conclusion that Applicant has met his burden of persuasion as to the Guideline J mitigating
+conditions.
+    The Judge also concluded that Applicant has successfully mitigated the Guideline E
+allegation.   The Judge stated that Applicant’s failure to list his previous wife “is not significant8
+because the usual criminal background investigation in the security clearance process would and did
+reveal his first marriage and the arrest.  His 1998 arrest is his only criminal arrest.   There are no9
+other allegations of sexual misconduct involving his younger daughter.  Since he has no contact with
+[Daughter] or her mother, there is little likelihood of a reoccurrence.  His failure to acknowledge his
+first marriage does not cast doubt upon his reliability, trustworthiness, and good judgement.”
+Decision at 9.  The Board finds this analysis problematic for a number of reasons.  First, the Judge
+evaluated Applicant’s case for mitigation in light of only one of the three Guideline E allegations.
+Her failure to consider the totality of Applicant’s conduct  impairs her analysis.  Second, the Judge’s
+discussion focuses not only on his falsification but is based to a large extent on the fact that
+9
+Applicant has not been accused of further sexual misconduct.  This does not logically mitigate
+security concerns arising from record evidence of three different omissions on his SCA.  That is, the
+gravamen of the Guideline E allegations is that Applicant did not provide correct responses to three
+separate questions on the SCA.  Evidence that he has not been accused of other sexual misconduct
+does not demonstrate that the omissions in question are minor, are not recent, or are not likely to
+recur.  Third, Applicant’s apparent false statement in GE 6 about an acquittal, made after he
+completed his SCA, further undercuts a conclusion that his false statements are not likely to recur.
+Fourth, the Judge’s analysis does not explain what Applicant has done to reduce or eliminate the
+possibility of duress arising from these omissions.  The record, viewed as a whole, will not sustain
+a conclusion that Applicant has met his burden of persuasion under the Guideline E mitigating
+conditions.
+Neither will the record sustain a favorable whole-person analysis.  In that section of her
+decision, the Judge states that the allegation of sexual misconduct “arose out of a problematic family
+situation and one particular weekend.  In this case, the allegation arose after a difficult weekend
+visiting with his oldest daughter.  A jury of his peers, however, concluded that he should return to
+his home to live with his family after hearing days of testimony from all persons involved.  The jury
+considered balanced testimony and ultimately overruled a negative determination by a social services
+panel.  Moreover, the jury found him not to be a threat to his younger daughter.  I infer from the
+decision of the jury that the evidence failed to establish sexual misconduct by Applicant.”  Decision
+at 10.  The trial to which the Judge refers was the previously-mentioned civil hearing on the question
+of whether Applicant should be permitted to live with his current wife and children.  The only
+evidence in the record about this hearing comes from Applicant himself.  Even assuming that the
+evidence is correct, it establishes nothing more than Applicant’s fitness to live with his second
+family.  It provides no basis for the Judge’s conclusion that Applicant did not commit misconduct
+involving Daughter, or to undermine the court’s order in the criminal trial that Applicant have no
+further contact with her.  Neither does it provide a reason to mitigate Applicant’s omissions on the
+SCA.  The Judge stated that Applicant “recognizes his responsibilities and accepts them.  There is
+no apparent link between an alleged incident of sexual assault in 1998 and Applicant’s ability to
+protect classified information.”  Id.  It is not clear why the Judge concludes that Applicant accepts
+responsibility, or for what, in light of his denial of having committed any misconduct with Daughter
+at all and his insistence that she and/or his ex wife fabricated the basis for his arrest and subsequent
+assault conviction.  To sum up, the record contains substantial evidence that Applicant was accused
+of felony sexual misconduct involving Daughter; that he admitted the misconduct to the police
+following a polygraph; that consistent with his plea the court found him guilty of a misdemeanor
+assault on Daughter; that the court ordered him permanently to stay away from Daughter;  that he
+omitted any reference to these matters in his SCA; and that he made inconsistent statements
+concerning these matters.  The Judge’s conclusion that Applicant has met his burden of persuasion
+under the Egan standard, either regarding the mitigating conditions or the whole-person factors in
+the Directive, is not sustainable.  Accordingly, the Judge’s favorable decision is arbitrary, capricious,
+and contrary to law.
+10
+Order
+The Judge’s favorable security clearance decision is REVERSED. 
+Signed: Michael Y. Ra’anan         
+Michael Y. Ra’anan
+Administrative Judge
+Chairman, Appeal Board
+Signed: Jeffery D. Billett               
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                
+James E. Moody
+Administrative Judge
+Member, Appeal Board

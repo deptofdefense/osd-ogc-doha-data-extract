@@ -1,0 +1,209 @@
+KEYWORD: Guideline B
+DIGEST: The Judge erred in limiting her analysis to the protection of U.S. intelligence
+information.  Furthermore, the Judge used language which implies that she was not applying the
+clearly consistent with the national interest standard. Favorable decision remanded.
+CASENO: 16-04056.a1
+DATE: 09/06/2018
+DATE: September 6, 2018
+In Re:
+----------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 16-04056
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+February 10, 2017, DOD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision—security concerns raised under Guideline B (Foreign Influence) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On May 25, 2018, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Noreen A. Lynch granted Applicant’s request for a security clearance. 
+Department Counsel timely appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Department Counsel raises the following issues on appeal: (a) whether the Judge erred by
+concluding that the Government failed to establish a case of heightened risk under Guideline B; and
+(b) whether the Judge’s decision was arbitrary, capricious, or contrary to law.  For the following
+reasons, the Board remands the Judge’s favorable security clearance determination.
+The Judge’s Findings of Fact
+Applicant, who is 50 years old, was born in Taiwan.  He grew up and obtained his
+undergraduate degree there.  He earned graduate degrees in the United States in 1997 and 1999.  His
+wife was born in Taiwan.  They married in the United States in 2001.  Both are U.S. citizens, and
+they have two children who were born in the United States.
+Applicant admitted the SOR allegations.  He has relatives who are citizens and residents of
+Taiwan.  These include his parents who are retired, his sister and her husband who are tutors, his
+mother-in-law who is a retired teacher, and his sister-in-law who works for a non-profit
+organization.  He maintains regular contact with these relatives.  None know about his work or that
+he is applying for a security clearance.  In the past, he visited his family annually in Taiwan, but
+more recently he travels there every other year.  He has no financial interests in Taiwan.  He and his
+wife own a home in the United States valued over $500,000.
+Applicant has a reputation for being an excellent family man and as a respected neighbor and 
+church member.  His work evaluations praise his performance.  While he realizes there is a security
+concern arising from his relatives in Taiwan, he believes his family in the United States is a bigger
+influence and acknowledges that he took an oath when he became a U.S. citizen to obey the laws
+of the United States.
+“While Taiwan is an active collector of industrial information and engages in industrial
+espionage, the record does not demonstrate that the government of Taiwan targets U.S. intelligence
+information.  Further, the record does not demonstrate that it seeks to exert pressure on U.S. citizens
+to collect information from family members residing in country or abroad.”  Decision at 3.
+The Judge’s Analysis
+The Government failed to establish that Applicant’s contacts with his family members in
+Taiwan creates a heightened risk of exploitation, inducement, manipulation, pressure, or coercion.
+It has not been demonstrated that Taiwan targets U.S. citizens to obtain protected information. 
+2
+“Given that Taiwan generally respects the human rights of its citizens, the risk that it might seek
+protected information–or succeed in obtaining such information–from Applicant is low, if non-
+existent.”  Decision at 4.  Even if security concerns were established, they were mitigated.  His
+contacts in Taiwan are routine.  His parents are not involved in activities that would make it likely
+Applicant would have to choose between their interests and those of the United States.1
+Discussion
+A judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt
+concerning personnel being considered for national security eligibility will be resolved in favor of
+the national security.”  Directive, Encl. 2, App A ¶ 2(b).  The Appeal Board may reverse the Judge’s
+decision to grant, deny, or revoke a security clearance if it is arbitrary, capricious, or contrary to law.
+Directive ¶¶ E3.1.32.3 and E3.1.33.3.
+There is a strong presumption against the grant or maintenance of a security clearance.   See
+Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After
+the Government presents evidence raising security concerns, the burden shifts to the applicant to
+rebut or mitigate those concerns. See Directive ¶ E3.1.15.  “The application of disqualifying and
+mitigating conditions and whole-person factors does not turn simply on a finding that one or more
+of them apply to the particular facts of a case.  Rather, their application requires the exercise of
+sound discretion in light of the record evidence as a whole.”  See, e.g., ISCR Case No. 16-02322 at
+3 (App. Bd. Mar. 14, 2018).
+In deciding whether the Judge’s rulings or conclusions are erroneous, we will review the
+Judge’s decision to determine whether:  it does not examine relevant evidence; it fails to articulate
+a satisfactory explanation for its conclusions, including a rational connection between the facts
+found and the choice made; it does not consider relevant factors; it reflects a clear error of judgment;
+it fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  Id.
+1 In this case, the Judge chose not to have an explicit discussion of the whole-person concept.  Judges have wide
+latitude in how they write decisions.  In some cases in the past, it has been noted that a Judge is not limited to the
+guidelines when analyzing a case (See, e.g., ISCR Case No. 03-17620 at 4 (App. Bd. Apr. 17, 2006)) and that a Judge
+acts properly by evaluating a case under the general factors of the Directive as well as the specific adjudicative
+guidelines.  See, e.g., ISCR Case No. 03-09445 at 3, n. 1 (App. Bd. Apr. 25, 2005).  
+3
+Department Counsel challenges the Judge’s conclusion that the Government failed to present
+evidence of heightened risk and, thus, failed to establish disqualifying conditions under Guideline
+B.  Disqualifying Condition 7(a) provides that “contact, regardless of method, with a foreign family
+member, business or professional associate, friend, or other person who is a citizen of or resident
+in a foreign country if that contact creates a heightened risk of foreign exploitation, inducement,
+manipulation, pressure, or coercion” could raise a security concerns and may be disqualifying.2
+Guideline B also states that “[a]ssessment of foreign contacts and interests should consider the
+country in which the foreign contact or interest is located, including, but not limited to,
+considerations such as whether it is known to target U.S. citizens to obtain classified or sensitive
+information or is associated with a risk of terrorism.”3  Consequently, the foreign contact as well as
+the foreign country are important factors to consider in assessing potential foreign influence security
+concerns.  See, e.g., ISCR Case No. 99-0601 at 6 (App. Bd. Jan. 30, 2001).4
+Department Counsel contends the Judge erred in her analysis regarding Taiwan.  Although
+the Judge found that Taiwan is an active collector of industrial information and engages in industrial
+espionage, she concludes that Taiwan “has not been demonstrated to target protected U.S.
+information.”  Decision at 4.  The Judge also indicated that the record does not demonstrate Taiwan
+targets U.S. intelligence information.  This analysis is too narrow.  Protected information is much
+broader than U.S. intelligence information.  In general, the adjudicative guidelines, including
+Guideline B, address the protection of classified and sensitive information.  Sensitive information
+includes non-Government information, such as a company’s proprietary information, which may
+have national security significance.5  As a general proposition, industrial espionage targets protected
+information.  The Judge erred in limiting her analysis to the protection of U.S. intelligence
+information.  Furthermore, the Judge used language which implies that she was not applying the
+clearly consistent with the national interest standard.  She wrote that the risk of Taiwan seeking or
+obtaining information from Applicant was “low.”  The Board previously remanded a case where the
+Judge concluded the security concerns were “manageable.”  See, e.g., ISCR Case No. 14-05986 at
+4 (App. Bd. Oct. 14, 2016).    
+2 Directive Encl. 2, App. A ¶ 7(a).
+3 Directive Encl. 2, App. A ¶ 6.
+4 In ISCR Case No. 99-0601 at 6, we stated:
+For purpose of Guideline B, it does not matter whether an applicant is at risk because the applicant
+(1) may be influenced through favorable feelings toward the government or regime of the foreign
+nation; (2) may be influenced through favorable feelings toward the people (including the applicant’s
+relatives) and culture of a foreign nation; (3) may be influenced through a desire to avoid harm, or to
+gain benefit for, his relatives in a foreign nation; or (4) some combination or variation of such
+concerns.
+5 See, e.g., ISCR Case No. 14-00963 at 3 (App. Bd. Jan. 13, 2015) (affirming an unfavorable clearance decision
+in which an applicant’s mishandling of a company’s proprietary information was alleged under Guideline K).  
+4
+In his appeal brief, Department Counsel argues the Judge applied a “heightened risk”
+analysis that we previously rejected.6  In that prior case, we stated:
+The Board notes the Judge’s findings and record evidence that Applicant has close
+family members in Taiwan with whom she regularly communicates and visits, and
+that Taiwan is a country that actively collects industrial information and engages in
+industrial espionage.  As pointed out by Department Counsel, the Judge’s
+conclusions in this case have the practical effect of requiring Department Counsel
+to prove affirmatively that a country specifically targets U.S. intelligence information
+and specifically targets U.S. citizens in the course of attempts to gather protected
+information.  The language of the Directive, Guideline B, does not require this level
+of proof from Department Counsel in order to raise security concerns that shift the
+burden of persuasion to Applicant.7  
+Here, as in the prior case, the Judge erred by impermissibly shifting the burden to the Government
+to prove that Taiwan targeted U.S. intelligence information and U.S. citizens.  
+Department Counsel also argues that the presence of Applicant close family members in
+Taiwan creates a potential conflict of interest.  However, the Judge did not address Disqualifying
+Condition 7(b).8  Based on the facts of this case, we conclude the Judge erred in failing to address
+that disqualifying condition.
+Department Counsel further contends that the Judge’s application of Mitigating Condition
+8(a)9 is unsupported by the record evidence and is arbitrary, capricious, and contrary to law.  He
+describes the Judge’s analysis as “a cursory nod to the Mitigating Conditions.”  Appeal Brief at 16.
+The Judge based her mitigation rationale in part on her conclusion that Applicant’s
+relationships with his foreign family members in Taiwan were  “routine.”  The Judge does not define
+or elaborate on her use of the word “routine.”  In any event, the ability to characterize an applicant’s
+relationships with foreign resident citizens who are immediate family relatives as “routine” does not
+vitiate the Government’s security concerns.  Indeed, the rebuttable presumption that an applicant
+has ties of affection for immediate family members is based on the set of circumstances one
+6 ISCR Case No. 08-04488 (App. Bd. Apr. 23, 2009).   
+7 Id. at 4.
+8 Directive Encl. 2, App. A ¶ 7(b) states: “connections to a foreign person, group, government, or country that
+create a potential conflict of interest between the individual's obligation to protect classified or sensitive information or
+technology and the individual's desire to help a foreign person, group, or country by providing that information or
+technology[.]”
+9 Directive Encl. 2, App. A ¶ 8(a) states: “the nature of the relationships with foreign persons, the country in
+which these persons are located, or the positions or activities of those persons in that country are such that it is unlikely
+the individual will be placed in a position of having to choose between the interests of a foreign individual, group,
+organization, or government and the interests of the United States[.] ”
+5
+normally expects to exist among close relatives.  See, e.g., ISCR Case No 08-04488 at 5.  Such
+circumstances include strong emotional attachments, feelings of obligation, and the maintenance of
+regular contact with such relatives.  These are the very factors that give rise to the potential of
+exploitation and use of those relationships to place applicants in the position of having to choose
+between the interests of those individuals and the interests of the United States.  The Judge’s
+findings of fact in this case do not rebut the presumption.  Thus, the Judge erroneously employed
+her conclusion that these contacts were “routine” as a partial basis for her ultimate ruling that
+Applicant satisfied his burden of overcoming the government’s security concerns.
+The Judge also based part of her mitigation rationale on her statement that Taiwan generally
+respects the human rights of its citizens.  However, when evaluating the strength of Applicant’s case
+in mitigation, the Judge omits any consideration of Taiwan as an active collector of industrial
+information and a user of industrial espionage techniques.  Taiwan’s posture in this regard is of such
+significance that the failure of the Judge to factor it into her analysis of the strength of Applicant’s
+case in mitigation was error.
+In light of the errors identified above, we conclude that the best course of action is to remand
+the case to the Judge for further processing consistent with the Directive. 
+6
+Order
+The Decision is REMANDED.  
+Signed: Michael Ra’anan           
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy               
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+7

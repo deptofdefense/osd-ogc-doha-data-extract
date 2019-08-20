@@ -1,0 +1,186 @@
+KEYWORD: Guideline B; Guideline E; Guideline J
+DIGEST: Applicant has close family member and a business partner in Russia.  Applicant served
+in the Red Army.  There is also substantial evidence of a false statement.  Favorable decision
+reversed.
+CASENO: 07-05686.a1
+DATE: 11/12/2008
+DATE: November 12, 2008
+In Re:
+----------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 07-05686
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+John Bayard Glendon, Esq., Department Counsel
+FOR APPLICANT
+Eric A. Eisen, Esq.
+The Judge’s favorable decision under Guidelines L and J is not at issue in this appeal.1
+2
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On November 18, 2007,  DOHA issued a statement of reasons (SOR) advising Applicant
+of the basis for that decision–security concerns raised under Guideline B (Foreign Influence),
+Guideline L (Outside Activities), Guideline E (Personal Conduct), and Guideline J (Criminal
+Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).
+Applicant requested a hearing.  On July 28, 2008, after the hearing, Administrative Judge John
+Grattan Metz, Jr., granted Applicant’s request for a security clearance.  Department Counsel filed
+a timely appeal pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Department Counsel raised the following issues on appeal: whether the Judge erred by
+concluding that the Government had not met its burden of production under Guideline B and whether
+the Judge’s adverse decision under Guideline E fails to consider an important aspect of the case.
+Finding error, we reverse.1
+Whether the Record Supports the Judge’s Factual Findings
+A.  Facts
+The Judge made the following pertinent findings of fact:  Applicant was born in Russia,
+which was then a part of the Soviet Union.  He immigrated from Russia in the early 1990s and to the
+U.S. a few years later.  He became a U.S. citizen in the early 2000s.  He and his wife have two
+children.  Applicant has a sister who is a citizen and resident of Russia.  His sister calls him “every
+few weeks” to check on Applicant and his family.  Decision at 2.
+Russia is a “nominal democracy with a mixed human rights record . . . Russia has an active
+and significant information collection program focusing on the U.S.  As of 2005, Russia was one of
+the two most aggressive collectors of sensitive and protected U.S. technology and accounted for
+much of such targeting.  However, Russia has not been demonstrated to target U.S. citizens to obtain
+protected information.”  Id. at 3
+Applicant answered “no” to question 17a of the security clearance application (SCA).  “This
+answer is alleged to be false because a U.S. company co-founded by Applicant (1) had business
+clients in [European and Asian countries, including Russia] and (2) Applicant had business partners
+at this company and a second company he co-founded who were resident citizens of Russia.”  Id. at
+2.      
+B.  Discussion
+3
+The Appeal Board’s review of the Judge’s findings of facts is limited to determining if they
+are supported by substantial evidence–“such relevant evidence as a reasonable mind might accept
+as adequate to support a conclusion in light of all the contrary evidence in the same record.”
+Directive  ¶ E3.1.32.1.  “This is something less than the weight of the evidence, and the possibility
+of drawing two inconsistent conclusions from the evidence does not prevent an administrative
+agency’s finding from being supported by substantial evidence.”  Consolo v. Federal Maritime
+Comm’n, 383 U.S. 607, 620 (1966).  In evaluating the Judge’s findings, we are required to give
+deference to the Judge’s credibility determinations.  Directive ¶ E3.1.32.1.  The Board will consider
+the sufficiency of the Judge’s findings to the extent necessary to address the issues which
+Department Counsel has raised on appeal.
+Whether the Record Supports the Judge’s Ultimate Conclusions
+ A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  The Appeal
+Board may reverse the Judge’s decision to grant, deny, or revoke a security clearance if it is arbitrary,
+capricious, or contrary to law.  Directive ¶¶ E3.1.32.3 and E3.1.33.3.  
+Once a concern arises regarding an Applicant’s security clearance eligibility, there is a strong
+presumption against the grant or maintenance of a security clearance.  See Dorfmont v. Brown, 913
+F. 2d 1399, 1401 (9  Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After the Government presentsth
+evidence raising security concerns, the burden shifts to the applicant to rebut or mitigate those
+concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and mitigating conditions and
+whole person factors does not turn simply on a finding that one or more of them apply to the
+particular facts of a case.  Rather, their application requires the exercise of sound discretion in light
+of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at 3 (App. Bd. Dec. 20,
+2006).
+In deciding whether the Judge's rulings or conclusions are arbitrary or capricious, the Board
+will review the Judge's decision to determine whether:  it does not examine relevant evidence; it fails
+to articulate a satisfactory explanation for its conclusions, including a rational connection between
+the facts found and the choice made; it does not consider relevant factors; it reflects a clear error of
+judgment; it fails to consider an important aspect of the case; it offers an explanation for the decision
+that runs contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere
+difference of opinion.  In deciding whether the Judge's rulings or conclusions are contrary to law,
+the Board will consider whether they are contrary to provisions of Executive Order 10865, the
+Directive, or other applicable federal law.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2,
+2006).
+See Directive ¶ E2.7(a): “contact with a foreign family member . . . or other person who is a citizen of or2
+resident in a foreign country if that contact creates a heightened risk of foreign exploitation, inducement, manipulation,
+pressure, or coercion[.]” Directive ¶ E2.7(b): “connections to a foreign person, group, government, or country that create
+a potential conflict of interest between the individual’s obligation to protect sensitive information or technology and the
+individual’s desire to help a foreign person, group, or country by providing that information[.]”
+The Board has remanded cases in order for the Judge to make findings of fact and conclusions regarding the3
+current geopolitical situation in Russia.  See, e.g., ISCR Case No. 07-14508 at 4 (App. Bd. Oct. 22, 2008) (“The Board
+also notes certain events which have occurred since the close of the record and which have a bearing on this case.  In
+August 2008 Russia attacked Georgia . . .  For a discussion of official notice in DOHA proceedings, see ISCR Case No.
+05-11292 at 2-4 (App. Bd. Apr. 12, 2007) . . . A current and accurate assessment of the “geopolitical situation” and the
+“security/intelligence profile of the country vis-a-vis the United states” is crucial in Guideline B cases.  See ADP Case
+No. 06-14978 at 3 (App. Bd. Oct. 11, 2007); ISCR Case No. 04-02630 at 2-3 (App. Bd. May 23, 2007).  In this case,
+Applicant has regular contact with citizens of a country that has engaged in armed conflict with a democracy friendly
+with the U.S. . . .   This is a matter bearing on the Guideline B security concern, which requires consideration of the
+nature of the foreign country.”)  In light of Board’s disposition of the case under consideration here, however, no point
+would be served in remanding it for additional findings on these matters. 
+ 
+4
+In the analysis section of his decision, the Judge stated that “the [G]overnment failed to
+establish a disqualification under Guideline B.  Considering the country involved, Russia and the
+U.S. enjoy competitive foreign relations, although they cooperate on a wide variety of issues.  While
+Russia is actively engaged in the collection of U.S. information, there is no evidence suggesting that
+it targets its expatriate citizens . . .”  Decision at 4.  Department Counsel  argues that the Judge erred
+by concluding that the Government produced no evidence of heightened risk under section 7(a) of
+Guideline B.  Department Counsel’s argument is persuasive.  The Board notes the Judge’s findings
+and record evidence demonstrating that Applicant has a close family member in Russia, with whom
+he regularly communicates; that Applicant has a business partner who at the time of the hearing was
+a citizen of Russia; that Applicant served in the Red Army; and that Russia is a nation with a
+problematic human rights record that actively seeks U.S. intelligence.  Viewed as a whole, these
+matters are sufficient to raise a Foreign Influence security concern.   As pointed out by Department2
+Counsel, the Judge’s conclusions in this case have the practical effect of requiring Department
+Counsel to prove affirmatively that Russia specifically targets U.S. citizens in the course of its
+attempt to gather protected information.  The language of the Directive (Guideline B) on this topic
+is inclusive and does not require this level of proof from Department Counsel in order to raise
+security concerns that shift the burden of persuasion to Applicant.  The Judge’s conclusion on this
+matter is not sustainable.3
+ Department Counsel also challenges the Judge’s decision under Guideline E, arguing that
+the Judge erred in concluding that the evidence presented by the Government did not demonstrate
+a security concern.  Question 17a of the SCA required an applicant to state whether he has any
+“foreign property, business connections, or financial interests.”  Government Exhibit (GE) 1 at 10.
+As stated above, Applicant answered “no” to this question.  The Board notes GE 2 at 6, which is a
+summary of Applicant’s security clearance interview.  This exhibit describes Applicant as identifying
+a foreign national (FN) with whom he was, at the time of the interview, a partner in a business
+Applicant testified that, from an early age, he perfected his English by reading widely in American literature,4
+including the works of James Fenimore Cooper, Jack London, and Theodore Dreiser.  Tr. at 45.
+Directive ¶ E2.15: “conduct involving questionable judgment, lack of candor . . . can raise questions about an5
+individual’s reliability, trustworthiness, and ability to protect classified information.  Of special interest is any failure
+to provide truthful and candid answers during the security clearance process . . .” 
+The Judge did not permit Department Counsel to question Applicant as to what kind of information he6
+understood Question 17a to be soliciting.  The Board concludes that Applicant’s understanding of the meaning of this
+question is relevant and a proper matter for cross-examination. 
+5
+venture involving software development.  The Board also notes Applicant’s response to the SOR,
+and the Judge’s findings of fact, concerning another company founded by Applicant and which has
+foreign clients in Europe, Asia, and Russia.  The names of these clients suggest that they are
+companies engaged in business activities.  GE 3, Answers to Interrogatories, at 4.  Under the facts
+of this case, Applicant’s SOR response and the other record evidence described above; Applicant’s
+apparent command of English,  his formal education, and business experience; and  the clarity of the4
+question at issue here constitute substantial evidence of a false statement concerning foreign business
+connections, which raises security concerns under Guideline E.   The Judge’s conclusion that the5
+Government had not presented security concerns under Guideline  E is not sustainable on this record.
+Furthermore, the Judge’s conclusion that Applicant did not willfully falsify his SCA is not
+sustainable in light of the contrary evidence in the record.   The Board pays special attention to GE
+2 at 6, in which Applicant explained why he left FN’s name off his SCA.  “This contact is not
+reported on his security form because it is a business relationship, and when he was required to fill
+out the form for the [interview], he did not want information to be conflicting from original security
+paperwork.”   Although this comment is not elsewhere elaborated upon, it does raise a reasonable
+impression that Applicant acted with deceptive intent in answering relevant questions.   Additionally,
+this comment does not appear consistent with Applicant’s testimony at the hearing to the effect that
+he left FN’s name off the SCA because, although a Russian citizen, FN resides in the U.S.   Tr. at6
+106-7.  The Judge’s decision does not address this apparent contradiction, nor does he assess
+Applicant’s credibility in light of it.  Therefore, the Judge has failed to consider an important aspect
+of the case.   
+The record as a whole does not support a conclusion that Applicant has met his burden of
+persuasion in light of the Egan standard.  Therefore, the Judge’s ultimate decision is not sustainable.
+6
+Order  
+The Judge’s favorable security clearance decision is REVERSED.            
+Signed: Michael Y. Ra’anan       
+Michael Y. Ra’anan
+Administrative Judge
+Chairman, Appeal Board
+Signed: Jeffrey D. Billett            
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James. E. Moody           
+James E. Moody
+Administrative Judge
+Member, Appeal Board

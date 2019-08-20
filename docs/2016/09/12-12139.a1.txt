@@ -1,0 +1,163 @@
+KEYWORD: Guideline F; Guideline E
+DIGEST: The Judge’s error in her findings of fact was harmless.  The record contains substantial
+evidence that Applicant’s false statement was deliberate.  Applicant did not rebut the
+presumption that the Judge considered all of the evidence.  The interview summary stated that
+there is nothing in Applicant’s record that would subject him to blackmail.  This was Applicant’s
+answer to the interviewer’s question, not the interviewer’s opinion as to Applicant’s security
+eligibility.  Adverse decision affirmed.  
+CASE NO: 12-12139.a1
+DATE: 09/13/2016
+DATE:  September 13, 2016  
+In Re:
+----------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 12-12139
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+April 28, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) and Guideline E
+(Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+(Directive).  Applicant requested a hearing.  On June 28, 2016, after the hearing, Defense Office of
+Hearings and Appeals (DOHA) Administrative Judge Carol G. Ricciardello denied Applicant’s
+request for a security clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in her findings and
+whether the Judge’s decision was arbitrary, capricious, or contrary to law.  The Judge found in favor
+of Applicant on the Guideline F allegations and one falsification allegation under Guideline E.  She
+found against him on another falsification allegation.  Her favorable findings were not raised as an
+issue on appeal.  Consistent with the following, we affirm the Judge’s unfavorable decision.
+The Judge’s Findings of Fact 
+Applicant, who is 65 years old, retired from the military in 1989 after 20 years of service. 
+He earned a master’s degree in 2004.  He attributed his financial problems to his 2005 divorce.  His
+ex-wife left him with the children, about $135,000 in debt, two car payments, and the mortgage
+payments.  He was able to pay the debts until he became unemployed for about six months in late
+2008.  He later negotiated settlements with many of the creditors and in some cases received an IRS
+Form 1099-C (cancellation of debt) for the amount he did not pay.   
+In May 2012, Applicant completed a security clearance application (SCA).  He answered
+“No” to questions that asked if he had any bills or debts turned over to a collection agency; if he had
+any account or credit card that had been suspended, charged off, or cancelled for failing to pay as
+agreed; if he had been over 120 days delinquent on any debt; or if he was currently over 120 days
+past due on any debt.  During a background interview, Applicant acknowledged the debts in SOR
+¶¶ 1.a (about $21,800) and 1.d (about $3,200) became past due in 2005 or 2006, but did not recall
+any collection information about those accounts.  He also could not recall when the debt in SOR ¶
+1.c (about $17,900) was opened, went past due, or the amount owed.  He had made payment
+arrangements with the creditor to pay $250 a month to resolve the debt in SOR ¶ 1.c.  His intention
+was to pay off the debts as soon as possible.  When Applicant was confronted about five other
+collection accounts totaling about $85,000 during the interview, he agreed these accounts belonged
+to him and indicated they were either paid or were under payment arrangements with the creditors. 
+In his Answer to the SOR, Applicant wrote the debts in SOR ¶¶ 1.a, 1.c, and 1.d were closed
+and stated “Account was not delinquent at time of completion of questionnaire.”  Decision at 4.  His
+Answer contradicted information he provided during his background interview.  His credit report 
+of July 2012 also reflected the dates of last activity for debts in SOR ¶¶ 1.a and 1.d was March 2008
+and for the debt in SOR ¶ 1.c was May 2012.  In a later SOR Answer, Applicant stated that he did
+not deliberately fail to report the information and completed the SCA during a time at which his
+mother had suffered a severe stoke that caused in her death in March 2012 and his wife was
+diagnosed with a serious disease that later caused her death.     
+At the hearing, Applicant testified that he was aware of the debts in SOR ¶¶ 1.a, 1.c, and 1.d
+when he completed the SCA.  He was aware he had bills that were turned over to collection agencies
+and some that had been or were more than 120 days delinquent or past due.  He explained that his
+failure to disclose the debts was because he was going through an emotional time due to his mother’s
+passing and his wife’s diagnosis.  He also stated that he read the questions too quickly and does not
+know why he did not answer the questions correctly.  The Judge found Applicant’s testimony was
+not credible.
+2
+The Judge’s Analysis 
+The Judge concluded that Applicant deliberately failed to disclose his delinquent debts when
+he completed his SCA.  She noted he was aware of the delinquent debts when he completed the SCA
+and denied having them in his SOR Answer.  She found that his falsifications are not considered
+minor and do not rise to the level of occurring under unique circumstances.  His failure to disclose
+the delinquent debts on his SCA casts doubt on his reliability, trustworthiness, and good judgment. 
+Discussion
+Applicant contends that the Judge erred in finding that he testified he was aware of the
+delinquent debts when he completed his SCA.  Our reading of the transcript supports Applicant’s
+contention.  While he testified that he had debts that were delinquent in 2009, he never testified that
+he was aware he had delinquent debts when he submitted the SCA.  Tr. at 38-39, 49-53, and 70-71. 
+For the reasons discussed below, the Judge’s error does not warrant any corrective action.
+The record contains sufficient evidence for the Judge to have concluded that Applicant was
+aware of the delinquent debts in SOR ¶¶ 1.a, 1.c, and 1.d when he submitted his SCA.  In this regard,
+Applicant testified that his financial problems were attributable to his divorce in 2005.  Although
+he continued to make payments on the debts until he became unemployed for about six months in
+late 2008, he testified that the debts became delinquent in 2009.  Tr. 38-39, 70.  Credit reports
+confirm the delinquencies, which occurred within the seven-year reporting requirement for most of
+the pertinent SCA questions.1  Government Exhibits 2 and 4.  He hired a debt consolidation service
+in 2009.  Government Exhibit 3.  He testified that he started to resolve the delinquent debts in 2013. 
+Tr. at 39.  He had been living at the same address for the past 21 years and, except for the time frame
+he employed the debt consolidation service, he would have received creditor bills at that address. 
+Tr. at 68-69. 
+The evidence was sufficient for a reasonable person to conclude Applicant knew of the debts
+when he submitted the SCA. Based on that evidence, the Judge’s erroneous finding that Applicant
+testified that he was aware of the debts upon submission of the SCA was harmless because she likely
+would have rendered the same decision even if she had not committed that err.  See, e.g., ISCR Case
+No. 14-03601 at 3 (App. Bd. Jul. 1, 2015). 
+Applicant also contends that the evidence does not establish that he deliberately failed to
+disclose the delinquent debts.  In evaluating whether the Government has presented substantial
+evidence regarding the deliberate nature of a false statement or omission, the Judge must examine
+the statement or omission in light of the record as a whole.  See, e.g., ISCR Case No. 14-04226 at
+1 The pertinent questions are in Section 26 of the SCA (Government Exhibit 1).  With the exception of the
+question that asked Applicant if he was currently over 120 days delinquent on any debt, the other pertinent questions
+required reporting of financial delinquencies if they occurred “In the past seven (7) years” before submission of the
+SCA.
+3
+3 (App. Bd. Aug. 18, 2015).  As a practical matter, a finding that an omission was deliberate may
+not always be based on an applicant’s statements concerning his intent or state of mind but, rather,
+may rely on circumstantial evidence.  It is not mere speculation or surmise for a Judge to make a
+finding of fact about an applicant’s intent or state of mind based on circumstantial evidence.  To the
+contrary, it is legally permissible to do so.  ISCR Case No. 12-05850 at 4 (App. Bd. Apr. 12, 2013). 
+In this case, the Judge considered the record evidence in light of her assessment of Applicant’s
+credibility.2  From our review of the record, the Board concludes the Judge’s finding that Applicant
+deliberately failed to disclose debts on his SCA reflects a reasonable interpretation of the record
+evidence and is sustainable.
+Applicant presented other arguments for challenging the Judge’s decision.  For example, he
+pointed out that he omitted information about his family members in his SCA and argues those
+omissions are a testament to the emotional stress that he was under when he submitted that
+application.  While the Judge did not make any findings about other omissions in the SCA, 
+Applicant’s arguments are neither enough to rebut the presumption that the Judge considered all of
+the evidence in the record nor are they sufficient to show that the Judge weighed the evidence in a
+manner that was arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 14-01284 at 3
+(App. Bd. Apr. 6, 2015).   Additionally, Applicant highlighted that in the summary of his security
+clearance interview the interviewer commented that the omission of family information in
+Applicant’s SCA was an inadvertent oversight and the interviewer also stated: “There was nothing
+in the [Applicant’s] background or regarding [Applicant’s] character or conduct to include financial
+issues and discrepant information that could result in exploitation, blackmail or coercion.” 
+Government Exhibit 3.  As the Board has noted in the past, such comments summarize Applicant’s
+answers to the interviewer.  They do not constitute the interviewer’s considered opinion as to
+Applicant’s worthiness for a clearance.  In any event, even if an interviewer provided such an
+opinion it would not bind the DoD in its evaluation of an applicant’s case.  See, e.g., ISCR Case No.
+14-03069 at 3 (App. Bd. Jul. 30, 2015). 
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  Applicant has not identified any harmful error likely to change the outcome of the case. 
+The decision is sustainable on this record.  “The general standard is that a clearance may be granted
+only when ‘clearly consistent with the interests of the national security.’”  Department of the Navy
+v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt concerning
+personnel being considered for access to classified information will be resolved in favor of the
+national security.”
+2 Of note, Applicant testified that he could not explain why he stated in his Answer to the SOR that each of the
+debts in SOR ¶¶ 1.a, 1.c, and 1.d were not delinquent at the time he completed the SCA.  Tr. at 70.
+4
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan           
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody          
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy             
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+5

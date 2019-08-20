@@ -1,0 +1,468 @@
+ 
+1                                         
+ 
+   DEPARTMENT OF DEFENSE 
+      DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+ 
+ 
+             
+In the matter of: ) 
+ ) 
+    )  ISCR Case No. 18-01656 
+  ) 
+Applicant for Security Clearance   ) 
+ 
+ 
+Appearances 
+ 
+For Government: Eric Price, Esq., and Andre M. Gregorian, Esq. 
+For Applicant: Pro se 
+ 
+06/05/2019 
+___________ 
+ 
+Decision 
+___________ 
+ 
+HARVEY, Mark, Administrative Judge: 
+ 
+ In 2008, Applicant negligently took a classified document home and stored it in a 
+file box in his garage. In 2011, he discovered the document and shredded it. Later in 
+2011, he disclosed his negligent handling of the classified document. His negligent 
+handling of the classified document is not recent. Guideline K (handling protected 
+information) security concerns are mitigated. However, in 2016, he used 
+countermeasures to attempt to manipulate a counterintelligence-polygraph test. Security 
+concerns under Guideline E (personal conduct) are not mitigated. Eligibility for access to 
+classified information is denied.      
+  
+Statement of the Case 
+  
+On April 19, 2016, Applicant completed and signed a Questionnaire for National 
+Security Positions (SF 86) or security clearance application (SCA). (Government Exhibit 
+(GE) 1) On June 29, 2018, the Department of Defense (DOD) Consolidated Adjudications 
+Facility (CAF) issued an SOR to Applicant under Executive Order (Exec. Or.) 10865, 
+Safeguarding Classified Information within Industry, February 20, 1960; DOD Directive 
+5220.6, Defense Industrial Personnel Security Clearance Review Program (Directive), 
+January 2, 1992; and the National Security Adjudicative Guidelines for Determining 
+Eligibility for Access to Classified Information or Eligibility to Hold a Sensitive Position 
+(AGs), effective June 8, 2017. The SOR set forth security concerns arising under 
+Guidelines E and K. (Hearing Exhibit (HE) 2) 
+ 
+ 
+2                                         
+ 
+On July 23, 2018, Applicant provided a response to the SOR. (HE 3) Department 
+Counsel requested a hearing. (Transcript (Tr.) 13) On March 13, 2019, the case was 
+assigned to me. On April 22, 2019, the Defense Office of Hearings and Appeals (DOHA) 
+issued a notice of hearing, setting the hearing for May 2, 2019. (HE 1) The hearing was 
+held as scheduled.   
+  
+During the hearing, Department Counsel offered four exhibits; Applicant offered 
+two exhibits; there were no objections; and all proffered exhibits were admitted into 
+evidence. (Tr. 17-20; GE 1-4; Applicant Exhibit (AE) A-B) On May 15, 2019, DOHA 
+received a copy of the hearing transcript.  
+ 
+Findings of Fact1 
+ 
+ Applicant’s SOR response admitted the facts alleged in SOR ¶¶ 1.a, 1.b, and 2.a. 
+(Tr. 21-22; HE 3) He also provided mitigating information. Applicant’s admissions are 
+accepted as findings of fact. Additional findings of fact follow.  
+ 
+Applicant is a 39-year-old Air Force mission planner employed by a government 
+contractor. (Tr. 6-7; GE 1) In 1998, he graduated from high school. (Tr. 6; GE 1) In 2018, 
+he received a bachelor of science degree in liberal arts. (Tr. 6) He served in the Air Force 
+from 1998 to 2008. (Tr. 7, 22) He left active duty as a staff sergeant (E-5), and he received 
+an honorable discharge. (Tr. 7) His Air Force specialty was cable-antenna technician, and 
+he cross-trained as an airborne cryptologic linguist. He held a top secret clearance with 
+access to sensitive compartmented information (SCI) starting in 2006. (Tr. 7, 23) He has 
+worked for his current employer since September 2017. (Tr. 8) In 1997, Applicant married, 
+and his children are ages 16, 18, and 20. (Tr. 8) 
+ 
+Removal of Classified Document from a SCI Facility (SCIF) 
+ 
+ Applicant received routine training about handling of classified information. (Tr. 24-
+25, 27) In 2008, Applicant attended training inside a SCIF, which involved his use of 
+classified documents. (Tr. 28) He unintentionally brought a document classified at the 
+secret level to his home, and he stored it in a file box in his garage. (Tr. 28-29; SOR 
+response) The document was clearly marked as secret. (Tr. 29)2 In about March 2011, 
+he discovered the classified document in his garage. (Tr. 28; 63) He transported the 
+classified document to an Air Force unit where he was working, and he shredded the 
+document. (Tr. 30) He did not have authorization to transport classified documents 
+outside of the SCIF. (Tr. 61) He did not timely disclose his possession at home and 
+subsequent destruction of the classified document because he did not want to get in 
+                                            
+1 Some details were excluded to protect Applicant’s right to privacy. Specific information is available 
+in the cited exhibits. 
+ 
+2 In Applicant’s April 19, 2016 Questionnaire for National Security Positions (SF 86) or security 
+clearance application (SCA), Applicant said the document he erroneously took home was “protected 
+information” not classified information. (Government Exhibit (GE) 1) At his hearing, he acknowledged that 
+it was a classified document, and he conceded it was possible that he was trying to minimize what he had 
+done in his SCA by not characterizing the document as classified. (Tr. 58-59) No adverse inference is made 
+because of Applicant’s incorrect description of his handling of the classified document in his SCA.  
+ 
+3                                         
+ 
+trouble. (Tr. 30-31) Several months after he destroyed the classified document, Applicant 
+was interviewed before his counterintelligence polygraph examination. (Tr. 31, 63) He 
+disclosed to the polygrapher that he mishandled the classified document in 2008, and 
+destroyed it in 2011. (Tr. 31-32, 63-65) He passed the counterintelligence polygraph 
+examination in 2011. (Tr. 65) His security clearance was suspended for about three 
+months after his 2011 polygraph due to his mishandling of the classified document. (Tr. 
+32, 57-58)  
+ 
+Polygraph Countermeasures 
+ 
+Prior to 2016, Applicant had done some research on methods of manipulating the 
+polygraph-test result. (Tr. 45-46, 55-56) In 2016, Applicant was scheduled for a routine 
+counterintelligence-polygraph examination. (Tr. 35) The polygrapher discussed the test 
+questions and polygraph procedures with Applicant during the pre-polygraph interview. 
+(Tr. 36-37) Applicant was aware that his rate of breathing could affect the polygraph-test 
+results. (Tr. 66) Before a polygraph examination, the polygrapher tells the person being 
+tested to give false answers to control questions about mundane topics such as the 
+number of times the test taker drove in excess of the speed limit or the number of times 
+the test taker caused a family member to be angered. These control questions are 
+considered “known lies.” The physiological responses, including rate of breathing, to the 
+control questions are compared to the responses to the questions relevant to 
+counterintelligence issues. (Tr. 38-39, 49-50) To pass the polygraph, there should be 
+more of a physiological response to lying to a control question than telling the truth on a 
+relevant question. 
+ 
+During the polygraph examination, the polygrapher accused Applicant of 
+attempting to manipulate the polygraph-test results. (Tr. 37) Applicant admitted that he 
+was “breathing faster and kind of tricked [himself] into being scared” during the control 
+questions. (Tr. 38) He attempted to magnify or exaggerate his responses during the 
+control questions. (Tr. 38, 45, 48-49) He said he believed his physiological responses to 
+the control questions were too low, and he became scared. (Tr. 39-40) He was just trying 
+to ensure he had the “desired response” to enable him to pass the polygraph. (Tr. 39-40) 
+He admitted to the polygrapher that he was trying to manipulate the polygraph test 
+through fast breathing. (Tr. 45) He subsequently told an Office of Personnel Management 
+(OPM) investigator that he wanted his answers to the control questions to “light up like a 
+Christmas tree.” (Tr. 43) He admitted that he intentionally attempted to manipulate the 
+polygraph-test results. (Tr. 44)  
+ 
+Applicant claimed that during the polygraph he did not understand that his 
+manipulative efforts could cause an erroneous polygraph-test result. (Tr. 50) He believed 
+he was helping the polygrapher receive an accurate test result through his enhancement 
+of his responses to the control questions. (Tr. 54) In other words, he did not believe there 
+was any reason to suspect himself of being a counterintelligence concern, and his 
+manipulation was designed to ensure the polygrapher did not erroneously find a 
+counterintelligence issue. He understands now that his efforts to “assist” the polygrapher 
+by breathing faster during the control questions did not actually help the polygrapher. (Tr. 
+54-55) Applicant has not taken a counterintelligence polygraph after the 2016 test was 
+terminated due to his countermeasures. (Tr. 62)     
+ 
+4                                         
+ 
+Applicant said he accepted responsibility for his decisions, and if he had an 
+opportunity to make the same decisions that he made in 2011 and 2016 now, he would 
+choose differently and scrupulously comply with security requirements. (Tr. 67) He had 
+no fear of providing answers to the counterintelligence questions, and he would timely 
+report security violations. (Tr. 67)  
+  
+Character Evidence 
+ 
+ An Air Force captain and a program manager described Applicant as careful about 
+compliance with security requirements. (AE A; AE B) Applicant has sound judgment and 
+is loyal to the United States. Applicant has an excellent reputation and contributes to 
+mission accomplishment. They support continuation of Applicant’s security clearance.  
+  
+Policies 
+ 
+The U.S. Supreme Court has recognized the substantial discretion of the Executive 
+Branch in regulating access to information pertaining to national security emphasizing, 
+“no one has a ‘right’ to a security clearance.” Department of the Navy v. Egan, 484 U.S. 
+518, 528 (1988). As Commander in Chief, the President has the authority to control 
+access to information bearing on national security and to determine whether an individual 
+is sufficiently trustworthy to have access to such information.” Id. at 527. The President 
+has authorized the Secretary of Defense or his designee to grant applicant’s eligibility for 
+access to classified information “only upon a finding that it is clearly consistent with the 
+national interest to do so.” Exec. Or. 10865, Safeguarding Classified Information within 
+Industry § 2 (Feb. 20, 1960), as amended.  
+ 
+Eligibility for a security clearance is predicated upon the applicant meeting the 
+criteria contained in the adjudicative guidelines. These guidelines are not inflexible rules 
+of law. Instead, recognizing the complexities of human behavior, these guidelines are 
+applied in conjunction with an evaluation of the whole person. An administrative judge’s 
+overarching adjudicative goal is a fair, impartial, and commonsense decision. An 
+administrative judge must consider all available, reliable information about the person, 
+past and present, favorable and unfavorable.  
+ 
+The Government reposes a high degree of trust and confidence in persons with 
+access to classified information. This relationship transcends normal duty hours and 
+endures throughout off-duty hours. Decisions include, by necessity, consideration of the 
+possible risk the applicant may deliberately or inadvertently fail to safeguard classified 
+information. Such decisions entail a certain degree of legally permissible extrapolation 
+about potential, rather than actual, risk of compromise of classified information. Clearance 
+decisions must be “in terms of the national interest and shall in no sense be a 
+determination as to the loyalty of the applicant concerned.” See Exec. Or. 10865 § 7. 
+Thus, nothing in this decision should be construed to suggest that it is based, in whole or 
+in part, on any express or implied determination about applicant’s allegiance, loyalty, or 
+patriotism. It is merely an indication the applicant has not met the strict guidelines the 
+President, Secretary of Defense, and DNI have established for issuing a clearance. 
+ 
+ 
+5                                         
+ 
+Initially, the Government must establish, by substantial evidence, conditions in the 
+personal or professional history of the applicant that may disqualify the applicant from 
+being eligible for access to classified information. The Government has the burden of 
+establishing controverted facts alleged in the SOR. See Egan, 484 U.S. at 531. 
+“Substantial evidence” is “more than a scintilla but less than a preponderance.” See v. 
+Washington Metro. Area Transit Auth., 36 F.3d 375, 380 (4th Cir. 1994). The guidelines 
+presume a nexus or rational connection between proven conduct under any of the criteria 
+listed therein and an applicant’s security suitability. See ISCR Case No. 95-0611 at 2 
+(App. Bd. May 2, 1996). 
+ 
+Once the Government establishes a disqualifying condition by substantial 
+evidence, the burden shifts to the applicant to rebut, explain, extenuate, or mitigate the 
+facts. Directive ¶ E3.1.15. An applicant “has the ultimate burden of demonstrating that it 
+is clearly consistent with the national interest to grant or continue his security clearance.” 
+ISCR Case No. 01-20700 at 3 (App. Bd. Dec. 19, 2002). The burden of disproving a 
+mitigating condition never shifts to the Government. See ISCR Case No. 02-31154 at 5 
+(App. Bd. Sep. 22, 2005). “[S]ecurity clearance determinations should err, if they must, 
+on the side of denials.” Egan, 484 U.S. at 531; see AG ¶ 2(b).  
+ 
+Analysis 
+Personal Conduct 
+ 
+AG ¶ 15 articulates the security concern for personal conduct: 
+ 
+Conduct involving questionable judgment, lack of candor, dishonesty, or 
+unwillingness to comply with rules and regulations can raise questions 
+about an individual’s reliability, trustworthiness, and ability to protect 
+classified or sensitive information. Of special interest is any failure to 
+cooperate or provide truthful and candid answers during national security 
+investigative or adjudicative processes. The following will normally result in 
+an unfavorable national security eligibility determination, security clearance 
+action, or cancellation of further processing for national security eligibility: 
+ 
+(a) refusal, or failure without reasonable cause, to undergo or cooperate 
+with security processing, including but not limited to meeting with a security 
+investigator for subject interview, completing security forms or releases, 
+cooperation with medical or psychological evaluation, or polygraph 
+examination, if authorized and required. 
+ 
+AG ¶ 16 lists conditions that could raise a security concern and may be 
+disqualifying in this case including: 
+ 
+(d) credible adverse information that is not explicitly covered under any 
+other guideline and may not be sufficient by itself for an adverse 
+determination, but which, when combined with all available information, 
+supports a whole-person assessment of questionable judgment, 
+untrustworthiness, unreliability, lack of candor, unwillingness to comply with 
+rules and regulations, or other characteristics indicating that the individual 
+ 
+6                                         
+ 
+may not properly safeguard classified or sensitive information. This 
+includes, but is not limited to, consideration of: 
+ 
+(1) untrustworthy or unreliable behavior . . . ; 
+ 
+(2) any disruptive, violent, or other inappropriate behavior; 
+ 
+(3) a pattern of dishonesty or rule violations; and 
+ 
+(e) personal conduct, or concealment of information about one's conduct, 
+that creates a vulnerability to exploitation, manipulation, or duress by a 
+foreign intelligence entity or other individual or group. Such conduct 
+includes: (1) engaging in activities which, if known, could affect the person's 
+personal, professional, or community standing. 
+ 
+ SOR ¶ 1.a alleges and Applicant admits that he knowingly increased his rate of 
+breathing on the control questions of his 2016 counterintelligence-polygraph test as a 
+countermeasure to manipulate the test result.  
+ 
+ SOR ¶ 1.b alleges and Applicant admits that in 2008, he negligently took a 
+classified document from the SCIF to his home, and he stored it in a file box in his garage 
+until he discovered it in 2011. He transported the classified document to an Air Force unit 
+and shredded it in 2011. He disclosed his negligent handling of a classified document 
+during a pre-polygraph interview in 2011. 
+ 
+ Applicant’s conduct in SOR ¶¶ 1.a and 1.b establishes AG ¶¶ 15(a), 16(d)(1), and 
+16(e). Additional inquiry about the possible applicability of mitigating conditions is 
+required. 
+ 
+Six personal conduct mitigating conditions under AG ¶ 17 are potentially applicable 
+in this case:  
+ 
+(a) the individual made prompt, good-faith efforts to correct the omission, 
+concealment, or falsification before being confronted with the facts; 
+ 
+(b) the refusal or failure to cooperate, omission, or concealment was caused 
+or significantly contributed to by advice of legal counsel or of a person with 
+professional responsibilities for advising or instructing the individual 
+specifically concerning security processes. Upon being made aware of the 
+requirement to cooperate or provide the information, the individual 
+cooperated fully and truthfully; 
+ 
+(c) the offense is so minor, or so much time has passed, or the behavior is 
+so infrequent, or it happened under such unique circumstances that it is 
+unlikely to recur and does not cast doubt on the individual's reliability, 
+trustworthiness, or good judgment; 
+ 
+ 
+7                                         
+ 
+(d) the individual has acknowledged the behavior and obtained counseling 
+to change the behavior or taken other positive steps to alleviate the 
+stressors, circumstances, or factors that contributed to untrustworthy, 
+unreliable, or other inappropriate behavior, and such behavior is unlikely to 
+recur; 
+ 
+(e) the individual has taken positive steps to reduce or eliminate vulnerability 
+to exploitation, manipulation, or duress; and 
+ 
+(f) the information was unsubstantiated or from a source of questionable 
+reliability. 
+ 
+The DOHA Appeal Board in ISCR Case No. 10-04641 at 4 (App. Bd. Sept. 24, 
+2013), concisely explained Applicant’s responsibility for proving the applicability of 
+mitigating conditions as follows:  
+ 
+Once a concern arises regarding an Applicant’s security clearance 
+eligibility, there is a strong presumption against the grant or maintenance of 
+a security clearance. See Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th 
+Cir. 1990), cert. denied, 499 U.S. 905 (1991). After the Government 
+presents evidence raising security concerns, the burden shifts to the 
+applicant to rebut or mitigate those concerns. See Directive ¶ E3.1.15. The 
+standard applicable in security clearance decisions is that articulated in 
+Egan, supra. “Any doubt concerning personnel being considered for access 
+to classified information will be resolved in favor of the national security.” 
+Directive, Enclosure 2 ¶ 2(b).  
+ 
+AG ¶ 17(c) applies to Applicant’s negligent handling of the classified document in 
+2008 and his improper destruction of the document in 2011. His negligent conduct is not 
+recent. It occurred on two occasions, and it happened under such unique circumstances 
+that it is unlikely to recur and does not cast doubt on Applicant’s reliability, trustworthiness, 
+or good judgment. 
+ 
+None of the mitigating conditions apply to Applicant’s attempted manipulation of 
+his polygraph test in 2016. His manipulation was premeditated and intentional. It was 
+designed to mislead the polygrapher. His attempted countermeasures are relatively 
+recent, serious, and not mitigated.  
+ 
+Handling Protected Information  
+ 
+AG ¶ 33 articulates the security concern for drug involvement: 
+ 
+Deliberate or negligent failure to comply with rules and regulations for 
+handling protected information-which includes classified and other sensitive 
+government information, and proprietary information-raises doubt about an 
+individual's trustworthiness, judgment, reliability, or willingness and ability 
+to safeguard such information, and is a serious security concern. 
+ 
+ 
+8                                         
+ 
+AG ¶ 34 lists two conditions that could raise a security concern and may be 
+disqualifying in this case:  
+ 
+(b) collecting or storing protected information in any unauthorized location; 
+and 
+ 
+(g) any failure to comply with rules for the protection of classified or sensitive 
+information. 
+ 
+SOR ¶ 2.a cross alleges the same conduct described in the personal conduct 
+section under SOR ¶ 1.b. The record establishes AG ¶¶ 34(b) and 34(g).  
+ 
+AG ¶ 35 lists conditions that could mitigate security concerns:   
+ 
+(a) so much time has elapsed since the behavior, or it has happened so 
+infrequently or under such unusual circumstances, that it is unlikely to recur 
+and does not cast doubt on the individual's current reliability, 
+trustworthiness, or good judgment; 
+ 
+(b) the individual responded favorably to counseling or remedial security 
+training and now demonstrates a positive attitude toward the discharge of 
+security responsibilities; 
+ 
+(c) the security violations were due to improper or inadequate training or 
+unclear instructions; and 
+ 
+(d) the violation was inadvertent, it was promptly reported, there is no 
+evidence of compromise, and it does not suggest a pattern. 
+ 
+AG ¶ 35(a) is established for the same reasons AG ¶ 17(c) is established as 
+discussed in the personal conduct section. Handling protected information security 
+concerns are mitigated.  
+ 
+Whole-Person Concept 
+ 
+Under the whole-person concept, the administrative judge must evaluate an 
+Applicant’s eligibility for a security clearance by considering the totality of the Applicant’s 
+conduct and all the circumstances. The administrative judge should consider the nine 
+adjudicative process factors listed at AG ¶ 2(d):  
+ 
+(1) the nature, extent, and seriousness of the conduct; (2) the 
+circumstances surrounding the conduct, to include knowledgeable 
+participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to 
+which participation is voluntary; (6) the presence or absence of rehabilitation 
+and other permanent behavioral changes; (7) the motivation for the conduct; 
+(8) the potential for pressure, coercion, exploitation, or duress; and (9) the 
+likelihood of continuation or recurrence.  
+ 
+9                                         
+ 
+     Under AG ¶ 2(c), “[t]he ultimate determination” of whether to grant a security 
+clearance “must be an overall commonsense judgment based upon careful consideration 
+of the guidelines” and the whole-person concept. My comments under Guidelines K and 
+E are incorporated in my whole-person analysis. Some of the factors in AG ¶ 2(d) were 
+addressed under those guidelines but some warrant additional comment. 
+ 
+Applicant is a 39-year-old Air Force mission planner employed by a government 
+contractor. In 2018, he received a bachelor of science degree in liberal arts. (Tr. 6) He 
+served in the Air Force from 1998 to 2008. He left active duty as a staff sergeant, and he 
+received an honorable discharge. He held a top secret clearance with access to SCI 
+starting in 2006.  
+ 
+Applicant’s supervisor and program manager lauded his loyalty, judgment, 
+diligence, and contributions to mission accomplishment. They supported continuation of 
+his access to classified information. 
+ 
+In 2016, Applicant knowingly and intentionally attempted to manipulate his 
+physiological responses to polygraph-control questions during a counterintelligence 
+polygraph examination. AG ¶ 15 indicates, “Of special interest is any failure to cooperate 
+or provide truthful and candid answers during national security investigative or 
+adjudicative processes.” Applicant’s actions raise serious security concerns. The 
+protection of national security relies on applicants to cooperate with and not to mislead or 
+intentionally jeopardize security clearance processes. Applicant did not establish his 
+reliability, trustworthiness, and ability to protect classified information. 
+ 
+I have carefully applied the law, as set forth in Egan, Exec. Or. 10865, and the 
+AGs, to the facts and circumstances in the context of the whole person. Guideline K 
+security concerns are mitigated; however, Guideline E security concerns are not 
+mitigated.  
+ 
+Formal Findings 
+ 
+Formal findings For or Against Applicant on the allegations set forth in the SOR, 
+as required by Section E3.1.25 of Enclosure 3 of the Directive, are: 
+  
+Paragraph 1, Guideline E:     AGAINST APPLICANT  
+ 
+Subparagraph 1.a:    Against Applicant 
+Subparagraph 1.b:    For Applicant 
+ 
+Paragraph 2, Guideline K:     FOR APPLICANT  
+ 
+Subparagraph 2.a:    For Applicant 
+ 
+  
+ 
+10                                         
+ 
+Conclusion 
+ 
+In light of all of the circumstances in this case, it is not clearly consistent with the 
+national interest to grant Applicant eligibility for a security clearance. Eligibility for access 
+to classified information is denied. 
+ 
+ 
+_______________________ 
+Mark Harvey 
+Administrative Judge 

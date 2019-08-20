@@ -1,0 +1,144 @@
+KEYWORD: Guideline F
+DIGEST: Applicant, relying on the Federal Rules of Evidence (FRE), asserts that the Judge erred
+by saying an exhibit lacked authenticity.  The FRE addresses admissibility.  The Judge appears
+to have admitted the exhibited.  His discussion of authenticity seems to have been part of his
+weighing the evidence.  Adverse decision affirmed.
+CASENO: 14-06011.a1
+DATE: 12/09/2015
+DATE: December 9, 2015
+In Re:
+-----
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-06011
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+John Gagliano, Esq.
+2
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On  
+January 13, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On August 31, 2015, after considering the record, Defense Office of Hearings
+and Appeals (DOHA) Administrative Judge Paul J. Mason denied Applicant’s request for a security
+clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm.  
+The Judge’s Findings of Fact
+The Judge made the following findings pertinent to the issue raised on appeal: Applicant
+attended an officer training program for a branch of the U.S. military but decided not to accept a
+commission.  He has worked for his current employer since December 2013 and has held a clearance
+since 2001.
+SOR allegation 1.d was a student loan in the amount of over $22,000 that became delinquent
+in 2010.  The loan was signed by Applicant’s son, with Applicant as a co-signer. Applicant did not
+disclose this debt in his security clearance application (SCA).  He stated that he had not recalled it
+at the time he completed the SCA.  In 2013, the creditor was awarded a judgment in an action
+naming the son only as defendant.  Applicant provided no information about how or why he was
+removed from liability as a co-signer. 
+In the response to the File of Relevant Material (FORM), Applicant presented a settlement
+letter from the collection agency to whom this debt had been transferred.  In this letter, dated May
+15, 2015, Applicant and his son are listed as account holders.  The letter states, in pertinent part, “the
+above referenced account has been settled in full.”  Decision at 3.  Applicant did not explain why
+his name appeared as a debtor in this document if the judgment was only against his son.  He
+provided no information about the terms of the settlement or of any accompanying documentation
+from a court.  “Finally, the settlement letter lacks authenticity because it is unsigned.”  Id.  
+Between mid-2005 and mid-2010, Applicant co-signed at least five student loans on behalf
+of his children.  After these loans were defaulted, Applicant paid them off.  In addition, Applicant
+co-signed about eight accounts to enable his son to obtain credit in order to open a business.
+Applicant’s son defaulted on these accounts, and Applicant found out about it when he received
+notice from the courts.  Applicant paid these accounts off from his savings and retirement accounts,
+with the exception of the loan referenced above.  
+The Judge’s Analysis
+1These allegations pertained to two medical accounts and to a student loan.   
+2Directive ¶ E3.1.15 provides that the applicant is responsible for presenting evidence in rebuttal, explanation,
+extenuation, or mitigation and bears the ultimate burden of persuasion as to obtaining a favorable decision.  
+3Directive, Enclosure 2 ¶ 20(c): “. . .  there are clear indications that the problem is being resolved or is under
+control[.]”  
+3
+The SOR alleged four debts, three of which the Judge resolved in Applicant’s favor.1
+However, he reached the opposite conclusion for the $22,000 student loan alleged at SOR ¶ 1.d.  The
+gravamen of the Judge’s analysis was that Applicant had provided insufficient information about
+this loan and its apparent resolution to meet his burden of persuasion as to mitigation.2  The Judge
+noted, for example, that Applicant had failed to disclose this loan in his SCA, even though it was
+his largest delinquent debt.  He also stated that Applicant had failed to explain how he was removed
+from secondary liability on the judgment filed in 2013.  The Judge also cited to evidence of
+Applicant’s having co-signed numerous loans for his children, describing this conduct as a
+“bewildering” exposure to extensive liability.  Id. at 6.  Though commending Applicant for his good
+judgment in resolving three of the four SOR debts, regarding SOR 1.d he stated “The lack of an
+explanation of how he removed himself from liability for the January 2013 judgment against his son
+reduces the mitigation Applicant is entitled to under AG ¶ 20(c).”3 Id.  The Judge also stated that
+Applicant’s case for mitigation was further impaired by an absence of information about the terms
+of the settlement of the student loan.  
+In the whole-person analysis, the Judge cited to evidence of Applicant’s having held a
+security clearance since 2001 and his concern for his children, evidenced by his having co-signed
+several loans with them.  However, the Judge also reiterated his concerns that there was no
+explanation for Applicant’s apparently having been dropped from the $22,000 student loan and the
+lack of evidence as to the terms of the settlement.  The Judge stated that, given the quantum of
+evidence Applicant submitted concerning the other three SOR debts, one would expect him to have
+submitted at least as much for the remaining one rather than simply an unsigned settlement letter.
+Discussion
+Applicant has attached to his brief documents that are not included in the record.  We cannot
+consider new evidence on appeal.  Directive ¶ E3.1.29.  
+Applicant contends that the Judge erred in concluding that the settlement letter lacked
+authenticity because it bore no signature.  He notes that Federal Rule of Evidence 901 provides that
+authentication may be shown by “evidence sufficient to support a finding that the matter in question
+is what is proponent claims.”  Appeal Brief at 3, quoting FRE 901(a).  The Federal Rules of
+Evidence serve as a guide in DOHA proceedings.  Directive ¶ E3.1.19.  However, Rule 901
+addresses authentication as a condition of admissibility.  In the case before us, it appears that the
+Judge did not exclude the letter as being irrelevant.  Rather, he appears to have included it in the
+record but extended it less weight than he might have had it been signed.  The weight that a Judge
+assigns to evidence is a matter within his or her discretion.  Mere disagreement with a Judge’s
+4That Applicant did not address this debt until several months after receipt of the SOR, despite having been on
+notice of it at least from the date of his clearance interview, also supports the Judge’s decision.  See, e.g., ISCR Case
+No.14-01243 at 3 (App. Bd. Jun. 18, 2015) (Timing of debt payments is relevant in evaluating an applicant’s case for
+mitigation).   
+4
+weighing of the evidence is not sufficient to demonstrate the Judge weighed the evidence in a
+manner that was arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 14-05251 at 3-4
+(App. Bd. Oct. 5, 2015).  In this case, we find no reason to disturb the Judge’s treatment of this
+letter.4  
+Applicant also argues that the Judge placed too much weight on his finding that only the son
+was listed as a defendant in the judgment although Applicant was included as a co-debtor in the
+subsequent settlement letter.  He argues that this could be for a number of reasons that do not reflect
+poorly upon Applicant.  Again, however, this amounts to a disagreement with the Judge’s weighing
+of the evidence.  In any event, a Judge must evaluate an applicant’s case for mitigation in light of
+the record evidence viewed as a totality.  See, e.g., ISCR Case No. 12-04813 at 4 (App. Bd. Jul. 31,
+2015).  In this case, in addition to the two matters discussed above, the Judge noted that Applicant
+had failed to list the student loan on his SCA although it was his largest debt and that there is no
+record evidence of the terms of the loan settlement.  Moreover, the record contains evidence that,
+by co-signing numerous loans for his children, Applicant exposed himself to substantial liability,
+which is relevant in evaluating his judgment.  See, e.g., ISCR Case No. 14-01479 at 2 (App. Bd. Sep.
+2, 2015) for the proposition that a Judge should consider the extent to which an applicant’s
+circumstances cast doubt upon his judgment, self control, and other characteristics essential to
+protecting national security information.  In light of the standard prescribed for security clearance
+decisions by the Supreme Court in Department of the Navy v. Egan, 484 U.S. 518, 528 (1988), that
+a clearance may be granted only when ‘clearly consistent with the interests of the national security,’”
+the Judge’s adverse decision is sustainable.  “Any doubt concerning personnel being considered for
+access to classified information will be resolved in favor of the national security.”  Directive,
+Enclosure 2 ¶ 2(b).  
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett                 
+5
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board

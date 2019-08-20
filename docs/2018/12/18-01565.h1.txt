@@ -1,0 +1,600 @@
+1 
+        DEPARTMENT OF DEFENSE 
+   DEFENSE OFFICE OF HEARINGS AND APPEALS 
+In the matter of: )
+)
+) ISCR Case No. 18-01565 
+) 
+Applicant for Security Clearance ) 
+Appearances 
+For Government: Chris Morin, Esq., Department Counsel 
+For Applicant: Kris Poppe, Esq.  
+______________ 
+Decision 
+______________ 
+KILMARTIN, Robert J., Administrative Judge: 
+Applicant failed to mitigate the criminal conduct and personal conduct security 
+concerns, but he did mitigate the foreign influence security concerns. Eligibility for 
+access to classified information is denied.  
+Statement of the Case 
+Applicant submitted a security clearance application (SCA) on February 28, 
+2017. On July 20, 2018, the Department of Defense Consolidated Adjudications Facility 
+(DOD CAF) issued Applicant a Statement of Reasons (SOR) detailing security concerns 
+under Guideline B, foreign influence, Guideline J, criminal conduct, and Guideline E, 
+personal conduct. The DOD CAF acted under Executive Order (EO) 10865, 
+Safeguarding Classified Information within Industry (February 20, 1960), as amended; 
+DOD Directive 5220.6, Defense Industrial Personnel Security Clearance Review 
+Program (January 2, 1992), as amended (Directive); and the adjudicative guidelines 
+(AGs) implemented by DOD on June 8, 2017. 
+12/18/2018
+ 
+2 
+ 
+Applicant obtained counsel and answered the SOR on August 15, 2018, 
+admitting all of the SOR allegations under Guideline B, foreign influence, and Guideline 
+J, criminal conduct. He denied the two SOR allegations of falsification under Guideline 
+E at SOR ¶ 3.b and ¶ 3.c. Applicant also requested a hearing before an administrative 
+judge. The case was assigned to me on October 15, 2018. The Defense Office of 
+Hearings and Appeals (DOHA) notified Applicant that the hearing was scheduled for 
+November 6, 2018. I convened the hearing as scheduled.  
+ 
+Government Exhibits (GE) 1 - 12 were admitted into evidence without objection. 
+At the hearing, Applicant testified, and he submitted Applicant’s Exhibits (AE) A – N, 
+which were admitted without objection. DOHA received the transcript (Tr.) on November 
+15, 2018.  
+ 
+    Procedural Ruling 
+ 
+Department Counsel submitted formal requests that I take administrative notice 
+of certain facts relating to Iraq and Turkey. Applicant did not object and the requests 
+were approved. The requests concerning Iraq and Turkey and attached supporting 
+documents were not admitted into evidence but were included in the record as Hearing 
+Exhibits (HE) 1 and 2. Some of the facts administratively noticed are set out in the 
+Findings of Fact below.   
+ 
+Request for Administrative Notice - Iraq 
+ 
+The request listed supporting documents to show detail and context for those 
+facts. AG ¶ 6, Foreign Influence, provides, “Adjudication under this Guideline can and 
+should consider the identity of the foreign country in which the foreign contact or 
+financial interest is located, including, but not limited to, such considerations as whether 
+the foreign country is known to target United States citizens to obtain protected 
+information and/or is associated with a risk of terrorism.” A risk assessment in this case 
+necessitates administrative notice of facts concerning Iraq.  
+ 
+Administrative or official notice is the appropriate type of notice used for 
+administrative proceedings. See ISCR Case No. 05-11292 at 4 n.1 (App. Bd. Apr. 12, 
+2007); ISCR Case No. 02-24875 at 2 (App. Bd. Oct. 12, 2006) (citing ISCR Case No. 
+02-18668 at 3 (App. Bd. Feb. 10, 2004) and McLeod v. Immigration and Naturalization  
+Service, 802 F.2d 89, 93 n.4 (3d Cir. 1986)). Usually administrative notice at ISCR 
+proceedings is accorded to facts that are either well known or from government reports. 
+See Stein, ADMINISTRATIVE LAW, Section 25.01 (Bender & Co. 2006) (listing fifteen types 
+of facts for administrative notice).  
+ 
+Applicant did not object, and I have taken administrative notice of the facts 
+contained in the HE 1 source documents, and incorporated them by reference. The 
+facts are summarized in the written request and will not be repeated in this decision. 
+However, of particular note, are the following salient facts from HE 1: 
+ 
+ 
+3 
+ 
+Iraq is a constitutional parliamentary republic. The U.S. State Department warns 
+that U.S. citizens traveling in Iraq remain at high risk for kidnapping and terrorist 
+violence and to avoid all but essential travel to Iraq. The Islamic State of Iraq and the 
+Levant (ISIL) controls a significant portion of Iraq’s territory. Within areas under ISIL 
+control, the Iraq government has little or no ability to exercise control and ensure public 
+safety. Kidnappings and attacks by improvised explosive devices (IED’s) occur 
+frequently in many areas of the country, including Baghdad. Such attacks often take 
+place in public venues such as cafes and markets.  
+ 
+Anti-U.S. sectarian militias threaten U.S. citizens and Western companies 
+throughout Iraq. Iraq witnessed a continuing surge of terrorist activity in 2016, primarily 
+as a result of the actions of ISIL. Although the government of Iraq has made significant 
+progress in its campaign to retake occupied territory from ISIL, there remains a security 
+vacuum in parts of Iraq. The U.S. State Department has also reported that ISIL 
+committed the overwhelming number of significant human rights abuses, including 
+attacks against civilians, especially Shia but also Sunnis who opposed ISIL, and women 
+and children. ISIL members committed acts of violence on a mass scale, including 
+killings by suicide bombings, IED’s, execution-style shootings, public beheadings, and 
+other forms of execution. Sectarian hostility, widespread corruption, and lack of 
+transparency at all levels, weakened the Iraq government’s authority and worsened 
+effective human rights protections. 
+ 
+Request for Administrative Notice - Turkey 
+ 
+The request listed supporting documents to show detail and context for those 
+facts. A risk assessment in this case necessitates administrative notice of facts 
+concerning Turkey.  
+ 
+Applicant did not object, and I have taken administrative notice of the facts 
+contained in the HE 2 source documents, and incorporated them by reference. The 
+facts are summarized in the written request and will not be repeated in this decision. 
+However, of particular note, are the following salient facts from HE 2: 
+ 
+Notwithstanding the long strategic U.S. – Turkey relationship, current country 
+conditions are problematic.  The U.S. State Department urges citizens to avoid travel to 
+Turkey due to terrorism and arbitrary detentions. Terrorist groups explicitly target 
+Western tourists and expatriates for kidnapping and assassination. The potential for 
+terrorist attacks in Turkey, including against U.S. citizens and interests, remains high. 
+The U.S. Government does not allow family members to accompany personnel 
+assigned to the U.S. Consulate in Adana, unless they are working in the Consulate. 
+Turkey is a transit country for foreign terrorist fighters wishing to join the Islamic State of 
+Iraq and Syria (ISIS) and other terrorist groups fighting in Syria and Iraq. Since a July 
+2016 coup attempt, the Turkish Government has operated under a state of emergency, 
+with far reaching effects on the country’s society and institutions, restricting the exercise 
+of many fundamental freedoms. Profound and significant human rights abuses persist.    
+ 
+ 
+4 
+ 
+Findings of Fact1 
+ 
+ Applicant is 37 years old and single. He reports no children. He was born in 
+Baghdad, Iraq and he served as a linguist for a federal contractor attached to armed 
+forces of the United States from 2003 to 2009. (GE 1, Tr. 15, 35) He went on more than 
+1,000 combat patrols. (Tr. 86) Applicant has one brother, age 30, who served as a 
+linguist in support of U.S. Marines in Iraq for five years. (Tr. 36) He also has three 
+sisters still living in different cities in Iraq with their husbands and families. Their ages 
+are 31, 39, and 42. Applicant’s parents moved from Iraq to Syria in 2005 and remained 
+for three years. (Tr. 38-39) Next, they moved to Turkey due to the instability in Syria. 
+Applicant moved to the U.S. in 2009 on a special immigrant visa program and he was 
+naturalized in 2014. (Tr. 15)  
+ 
+ Applicant’s mother served in the Ministry of Education in Iraq for 22 years, and 
+his father retired from the Iraqi Army as a major in 1989-’90, after more than 20 years of 
+service.  (Tr. 30-31) Applicant provided financial support of $250, once a month from 
+2010-2016, to his parents for such things as medical bills. (Tr. 39) They are refugees 
+residing in Turkey. Applicant has telephonic contact with his parents once or twice a 
+week. (Tr. 40-41) Applicant has filed an application with the Embassy in Turkey to try to 
+move them to the U.S. on a visa. His brother tutors school children in Iraq. They last 
+had contact more than three years ago. (Tr. 43) Applicant’s two oldest sisters are 
+teachers in Iraq and his youngest sister never worked. (Tr. 44) In addition to providing 
+financial support to his parents, as needed, Applicant gave his youngest sister $900 to 
+help her buy a car. (Tr. 45) His telephonic contact with his sisters varies from once 
+every two weeks to once a month. He has no property in Iraq, and held a bank account 
+there briefly from 2008-2009. (Tr. 89)  
+ 
+ Applicant submitted a security clearance application (SCA) on February 28, 
+2017.2 In section 22 (Police Record) of his SCA, he answered “no” to all questions 
+about being issued any summons, citations, tickets to appear in court in a criminal 
+proceeding etc. Applicant failed to disclose the civil summons, 4 criminal summonses, 
+25 citations and 18 traffic warnings that he received between November 2010 and 
+September 2016. (GE 4-11) He admitted all of these traffic violations in his Answer. 
+Applicant submitted AE A, an updated state division of motor vehicles driving record, to 
+show that he has not had any vehicle violations since 2015. Applicant testified credibly 
+that he may have misinterpreted the questions in this section of the SCA but since all of 
+his citations involved fines of less than $300, he was not required to report them. (Tr. 
+82) Since all of the charges against him alleged in SOR ¶¶ 2.a–2.e were dismissed and 
+Applicant served no community service, paid no fines, and had no consequences, he 
+misunderstood and believed he did not have to report these in his SCA. (Tr. 83) To 
+corroborate his testimony on this point, he did disclose his arrest for domestic violence 
+                                                          
+1 Unless otherwise stated, the basis for these findings of fact is Applicant’s Questionnaire for National 
+Security Positions (SCA) dated February 28, 2017 (GE 1) and the summaries of personal subject 
+interviews conducted on July 27, 2017, and December 8, 2017. (GE 2) 
+ 
+2 GE 1. 
+ 
+ 
+5 
+ 
+in 2015 (SOR ¶ 2.a) and protective order against him, as well as the arrest for 
+communicating threats in 2016, to the clearance investigator in his December 8, 2017 
+clearance interview. (GE 2, Tr. 117) He disclosed this offense because it is the only one 
+where he went to trial.  
+ 
+ In September 2011, Applicant lived with his girlfriend. They had a disagreement 
+and when he tried to move out, she gave him only half of his personal property. (Tr. 58) 
+She tried to shove him out the door and he allegedly pushed her. The judge dismissed 
+this complaint at SOR ¶ 2.a. (Tr. 58) In SOR ¶ 2.b, Applicant lent $250 to a female co-
+worker who was in financial distress in January 2015. He asked her for a check to 
+secure this loan, which he would only cash after she became solvent. (Tr. 60-63) When 
+he later tried to cash the check, he found that there were insufficient funds in her 
+account and confronted her. She tried to snatch the cold check out of his hand and 
+called police. He was charged with trespassing and the judge summarily dismissed that 
+complaint and had her arrested for uttering a false instrument. (Tr. 63) In August 2015, 
+a mentally ill neighbor alleged that Applicant committed simple assault, but promptly 
+dropped the charges. (GE 6, Tr. 63) Again, Applicant was arrested for communicating 
+threats against a former business partner in March 2016, as alleged in SOR ¶ 1.e, and 
+that charge was dismissed by the judge on May 16, 2016. (GE 8)   
+ 
+ Applicant obtained his commercial driver’s license (CDL) and operated a 
+transportation company from 2013-2017. (Tr. 52) He received numerous citations for 
+driving infractions during that period. (Tr. 55) Applicant testified that he started driving in 
+Iraq when he was 14 years old, and he was accustomed to driving unimpeded by 
+restrictions on speed, and rules and regulations. (Tr. 75) He had difficulty assimilating to 
+the rules of the road and driving laws when he moved to the U.S. at age 28. Although 
+he studied a safe driving booklet, passed a written exam, and took a state road test to 
+obtain his state driver’s license in 2009, he had a habit of speeding. (GE 9, 10, 11, Tr. 
+77)  
+ 
+ Applicant testified credibly that despite his astonishing number of driving 
+offenses, his state license was never suspended, and it is still valid. (Tr. 80, AE A) 
+Instead, he would routinely hire an attorney who would go into state court and get the 
+driving offense reduced to improper equipment (odometer), and pay a fine – 25 times. 
+(Tr. 79) Despite this ruse, Applicant was aware that the problem was not a defective 
+odometer. (Tr. 123) Applicant admitted that he took too long to change his driving 
+habits, but he did so. (Tr. 79) He was recently issued a warning in 2018 because he 
+was driving his girlfriend’s car, which had an improperly displayed license plate. (Tr. 96) 
+ 
+ Applicant was involved in a civil dispute with one of his former employee-truck 
+drivers, after that driver abandoned one of his trucks and left it unattended. (Tr. 12, GE 
+7) He was charged with simple assault on the other CDL driver in August 2015 at SOR 
+¶ 2.d. The state court judge dismissed this criminal complaint against Applicant on 
+September 28, 2015. (GE 7) Then, a civil action ensued between Applicant and the 
+same driver for $4,500 that Applicant loaned the driver. It was resolved for $4,500 in 
+Applicant’s favor. (Tr. 72) Applicant reasonably stated that he had no reason to report 
+this civil action in his favor, in his SCA, and he did not intend to falsify that form or 
+ 
+6 
+ 
+deceive the government as alleged in SOR ¶ 3.c because this is all a matter of public 
+court records. (Tr. 114, 118, GE 7,12)   
+ 
+ Applicant submitted AE B–K, which are character reference letters, and AE L-N, 
+which are certificates of appreciation for his service as a linguist on behalf of U.S. 
+Armed Forces. Notably, he served coalition forces with bravery and distinction since 
+2006. An Army Brigadier General stated “service of local national translators who risk 
+their safety, and that of their families, to support the mission and U.S. soldiers, is 
+invaluable.” (AE B) Applicant was first employed by the U.S. military as a general 
+laborer in 2004 in Iraq. Then, he served in direct support of combat units including the 
+82nd Airborne Division, and 2nd and 3rd Brigade Combat Teams, 4th Infantry Division, as 
+an Arabic translator. He performed so well that he was added to Army civil action teams 
+in 2008. (AE C-N)   
+  
+         Policies 
+ 
+ When evaluating an applicant’s suitability for a security clearance, the 
+administrative judge must consider the adjudicative guidelines. In addition to brief 
+introductory explanations for each guideline, the adjudicative guidelines list potentially 
+disqualifying conditions and mitigating conditions, which are to be used in evaluating an 
+applicant’s eligibility for access to classified information. 
+ 
+These guidelines are not inflexible rules of law. Instead, recognizing the 
+complexities of human behavior, administrative judges apply the guidelines in 
+conjunction with the factors listed in the adjudicative process. The administrative judge’s 
+overarching adjudicative goal is a fair, impartial, and commonsense decision. According 
+to AG ¶ 2(c), the entire process is a conscientious scrutiny of a number of variables 
+known as the “whole-person concept.” The administrative judge must consider all 
+available, reliable information about the person, past and present, favorable and 
+unfavorable, in making a decision. 
+ 
+The protection of the national security is the paramount consideration. AG ¶ 2(b) 
+requires that “[a]ny doubt concerning personnel being considered for national security 
+eligibility will be resolved in favor of the national security.”  
+ 
+Under Directive ¶ E3.1.14, the Government must present evidence to establish 
+controverted facts alleged in the SOR. Under Directive ¶ E3.1.15, the applicant is 
+responsible for presenting “witnesses and other evidence to rebut, explain, extenuate, 
+or mitigate facts admitted by the applicant or proven by Department Counsel.” The 
+applicant has the ultimate burden of persuasion to obtain a favorable security decision.  
+ 
+ A person who seeks access to classified information enters into a fiduciary 
+relationship with the Government predicated upon trust and confidence. This 
+relationship transcends normal duty hours and endures throughout off-duty hours. The 
+Government reposes a high degree of trust and confidence in individuals to whom it 
+grants access to classified information. Decisions include, by necessity, consideration of 
+the possible risk the applicant may deliberately or inadvertently fail to safeguard 
+ 
+7 
+ 
+classified information. Such decisions entail a certain degree of legally permissible 
+extrapolation of potential, rather than actual, risk of compromise of classified 
+information. 
+ 
+Section 7 of EO 10865 provides that adverse decisions shall be “in terms of the 
+national interest and shall in no sense be a determination as to the loyalty of the 
+applicant concerned.” See also EO 12968, Section 3.1(b) (listing multiple prerequisites 
+for access to classified or sensitive information).   
+ 
+Analysis 
+Guideline B, Foreign Influence 
+ 
+ The security concern for foreign influence is set out in AG ¶ 6: 
+ 
+Foreign contacts and interests, including, but not limited to business, 
+financial, and property interests, are a national security concern if they 
+result in divided allegiance. They may also be a national security concern 
+if they create circumstances in which the individual may be manipulated or 
+induced to help a foreign person, group, organization, or government in a 
+way that is inconsistent with U.S. interests or otherwise made vulnerable 
+to pressure or coercion by any foreign interest. Assessment of foreign 
+contacts and interests should consider the country in which the foreign 
+contact or interest is located, including, but not limited to, such 
+considerations as whether the foreign country is known to target United 
+States citizens to obtain classified or sensitive information or is associated 
+with a risk of terrorism. 
+ 
+The guideline notes several conditions that could raise security concerns under 
+AG ¶ 7. The following are potentially applicable in this case:   
+ 
+(a) contact, regardless of method, with a foreign family member, business 
+or professional associate, friend, or other person who is a citizen of or 
+resident in a foreign country if that contact creates a heightened risk of 
+foreign exploitation, inducement, manipulation, pressure, or coercion; and 
+ 
+(b) connections to a foreign person, group, government, or country that 
+create a potential conflict of interest between the individual’s obligation to 
+protect classified or sensitive information or technology and the 
+individual’s desire to help a foreign person, group, or country by providing 
+that information or technology. 
+ 
+Applicant’s parents are living in Turkey, but applied for visas to immigrate to the 
+U.S. His brother and sisters are citizens and residents of Iraq. He provides occasional 
+financial support to his parents as a dutiful son. Applicant’s foreign contacts create a 
+potential conflict of interest and a heightened risk of foreign exploitation, inducement, 
+manipulation, pressure, and coercion, both directly and through his family members. AG 
+¶¶ 7(a) and 7(b) are implicated by the evidence. Accordingly, Applicant’s relationship 
+ 
+8 
+ 
+with his parents and siblings, who are citizens and residents of Turkey and Iraq, creates 
+a heightened risk of foreign exploitation, inducement, manipulation, pressure, or 
+coercion.  
+  
+Conditions that could potentially mitigate foreign influence security concerns are 
+provided under AG ¶ 8. The following are potentially applicable:  
+ 
+(a) the nature of the relationships with foreign persons, the country in 
+which these persons are located, or the positions or activities of those 
+persons in that country are such that it is unlikely the individual will be 
+placed in a position of having to choose between the interests of a foreign 
+individual, group, organization, or government and the interests of the 
+United States; and 
+ 
+(b) there is no conflict of interest, either because the individual’s sense of 
+loyalty or obligation to the foreign person, or allegiance to the group, 
+government, or country is so minimal, or the individual has such deep and 
+longstanding relationships and loyalties in the U.S., that the individual can 
+be expected to resolve any conflict of interest in favor of the U.S. interest.  
+ 
+Applicant has demonstrated a long-standing preference for working and living in 
+the U.S. He served in harm’s way as a linguist for over six years and endured over 
+1,000 patrols with U.S. Armed Forces. He was hired as a linguist precisely because of 
+his Arabic language skills that are indigenous to people who were born and raised 
+and have family in Iraq. He has the background, upbringing, and understanding of Iraqi 
+culture that is invaluable. Although he is presumed to have strong bonds of affection 
+with his parents and siblings in Turkey and Iraq, these bonds are not sufficient to offset 
+or overcome his demonstrated, long-term commitment to the U.S. and self-abnegation 
+in its service under dangerous conditions.3  
+ 
+ I considered the totality of Applicant’s foreign contacts and interests. Guideline B 
+is not limited to countries hostile to the United States:  
+ 
+The United States has a compelling interest in protecting and 
+safeguarding classified information from any person, organization, or 
+country that is not authorized to have access to it, regardless of whether 
+that person, organization, or country has interests inimical to those of the 
+United States.4  
+ 
+ The distinctions between friendly and unfriendly governments must be made with 
+caution. Relations between nations can shift, sometimes dramatically and unexpectedly. 
+Furthermore, friendly nations can have profound disagreements with the U.S. over 
+                                                          
+3 The Appeal Board has held that “an Applicant’s proven record of action in defense of the United States 
+is very important and can lead to a favorable result for an Applicant in a Guideline B case.” ISCR Case 
+04-02511 at 4 (App. Bd. March 20, 2007). 
+4 ISCR Case No. 02-11570 at 5 (App. Bd. May 19, 2004).  
+ 
+ 
+9 
+ 
+matters they view as important to their vital interests or national security. Finally, we 
+know friendly nations have engaged in espionage against the United States, especially 
+in the economic, scientific, and technical fields. The nature of a nation’s government, its 
+relationship with the U.S., and its human rights record are relevant in assessing whether 
+an applicant’s family members are vulnerable to government coercion. The risk of 
+coercion, persuasion, or duress is significantly greater if the foreign country has an 
+authoritarian government, a family member is associated with or dependent upon the 
+government, the country is known to conduct intelligence operations against the U.S., or 
+the foreign country is associated with a risk of terrorism.  
+ 
+ Applicant parents are Iraqi citizens residing in Turkey, and his siblings are 
+citizens and residents of Iraq, which is an unstable regime. His contact with them is 
+infrequent by telephone. There is no indication that they are affiliated with the Iraqi 
+government or intelligence services. Applicant’s foreign family members do not pose an 
+unacceptable security risk. There is sufficient evidence to conclude that Applicant would 
+report contacts with his relatives by foreign intelligence agents, and that he has a long-
+term commitment to the U.S. All of the mitigating conditions in AG ¶ 8 are applicable to 
+the contacts with family members, which are alleged in SOR ¶¶ 1.a–1.b.  
+ 
+Guideline J, Criminal Conduct 
+ 
+Criminal activity creates doubt about a person's judgment, reliability, and 
+trustworthiness. By its very nature, it calls into question a person's ability or willingness 
+to comply with laws, rules, and regulations. 
+ 
+AG ¶ 31 lists conditions that could raise a security concern and may be dis- 
+qualifying including: 
+ 
+(a) a pattern of minor offenses, any one of which on its own would 
+be unlikely to affect a national security eligibility decision, but which 
+in combination cast doubt on the individual’s judgment, reliability or 
+trustworthiness; and 
+ 
+(b) evidence (including, but not limited to, a credible allegation, 
+an admission, and matters of official record) of criminal conduct, 
+regardless of whether the individual was formally charged, 
+prosecuted, or convicted. 
+ 
+Applicant admitted to 25 traffic citations, and 18 warnings between 2010 and 
+2016. However, traffic violations generally don’t rise to the level of criminality. Although 
+he repeatedly violated state traffic regulations and admits that it took too long for him to 
+alter his behavior, there is no evidence of criminality. This same aberrant behavior is 
+properly cross-alleged in SOR ¶ 3.a. The criminal summonses issued against Applicant 
+alleged in SOR ¶¶ 2.a – 2.e were all dismissed or resolved in his favor.  Thus, AG ¶¶ 
+31(a) and (b) do not apply.  
+ 
+ 
+ 
+10 
+ 
+Guideline E, Personal Conduct 
+ 
+           The security concern for personal conduct is set out in AG ¶ 15, as follows: 
+ 
+The Concern. Conduct involving questionable judgment, lack of candor, 
+dishonesty, or unwillingness to comply with rules and regulations can raise 
+questions about an individual’s reliability, trustworthiness and ability to 
+protect classified or sensitive information. Of special interest is any failure 
+to cooperate or provide truthful and candid answers during national 
+security investigative or adjudicative processes. The following normally will 
+result in an unfavorable national security eligibility determination, security 
+clearance action, or cancellation of further processing for national security 
+eligibility: 
+ 
+(a) refusal, or failure without reasonable cause, to undergo or 
+cooperate with security processing, including but not limited to meeting 
+with a security investigator for subject interview, completing security 
+forms or releases, cooperation with medical or psychological 
+evaluation, or polygraph examination, if authorized and required; and 
+  
+b) refusal to provide full, frank, and truthful answers to lawful questions 
+of investigators, security officials, or other official representatives in 
+connection with a personnel security or trustworthiness determination. 
+     
+  AG ¶ 16 describes conditions that could raise a security concern and may be 
+disqualifying. The following disqualifying conditions are potentially applicable: 
+ 
+(a) deliberate omission, concealment or falsification of relevant facts from 
+any personnel security questionnaire, personal history statement or similar 
+form used to conduct investigations, determine employment qualifications, 
+award benefits or status, determine security clearance eligibility or 
+trustworthiness, or award fiduciary responsibilities;  
+ 
+ (c) credible adverse information in several adjudicative issue areas that is 
+not sufficient for an adverse determination under any other single 
+guideline, but which, when considered as a whole, supports a whole-
+person assessment of questionable judgment, untrustworthiness, 
+unreliability, lack of candor, unwillingness to comply with rules and 
+regulations, or other characteristics indicating that the individual may not 
+properly safeguard classified or sensitive information; and 
+ 
+ (d) credible adverse information that is not explicitly covered under any 
+other guideline and may not be sufficient by itself for an adverse 
+determination, but which, when combined with all available information, 
+supports a whole-person assessment of questionable judgment, 
+untrustworthiness, unreliability, lack of candor, unwillingness to comply 
+with rules and regulations, or other characteristics indicating that the 
+ 
+11 
+ 
+individual may not properly safeguard classified information. This 
+includes but is not limited to, considerations of: 
+    
+   (3) a pattern of dishonesty or rule violations. 
+ 
+Applicant did not disclose his extraordinary involvement and frequent interaction 
+with authorities in law enforcement and the U.S. judicial system over the last decade in 
+his SCA. He has a well-established pattern of speeding and failure to comply with traffic 
+rules and regulations. AG ¶¶ 16(a) (c) and (d) are implicated and the focus shifts to a 
+determination of which, if any of the mitigating conditions apply. 
+ 
+17. Conditions that could potent ia l l y  mitigate security concerns include: 
+ 
+(c) the offense is so minor, or so much time has passed, or the 
+behavior is so infrequent, or it happened under such unique 
+circumstances that it is unlikely to recur and does not cast doubt on the 
+individual's reliability, trustworthiness, or good judgment; and 
+ 
+(d) the individual has acknowledged the behavior and obtained 
+counseling to change the behavior or taken other positive steps to 
+alleviate the stressors, circumstances or factors that contributed to 
+untrustworthy, unreliable, or other inappropriate behavior, and such 
+behavior is unlikely to recur. 
+ 
+            Applicant’s traffic violations were frequent and numerous. His last offense 
+occurred in  2018 when he was driving his girlfriend’s vehicle, and received a warning 
+because  the vehicle lacked a proper license plate. It is premature to conclude that 
+his aberrant driving behavior is unlikely to recur. Thus, the cross-alleged 25 citations 
+and 18 warnings at SOR ¶ 3.a, while not rising to criminality, do support a whole-
+person assessment of unwillingness to comply with rules and regulations. This 
+allegation, insofar as it cross-alleges driving offenses improperly alleged under 
+Guideline J, at SOR ¶¶ 2.f – 2.h, is not mitigated here under Guideline E. The sheer 
+number of repeated driving offenses, when combined with all available information, 
+raises concerns about Applicant’s judgment, trustworthiness, and reliability.  
+ 
+Applicant misunderstood the questions in the SCA in section 28 about being 
+a party to any civil court actions in the last 10 years. He testified credibly that he was 
+the successful plaintiff in a civil dispute and multiple summonses were dismissed 
+against him. His contention that he felt no reason to disclose these matters of public 
+record, in his SCA, is not unreasonable. He naturally assumed that since his 
+extensive list of infractions all involved fines of less than $300 he did not have to 
+report these on his SCA. I find that he did not have the specific intent to deliberately 
+deceive the government or falsify his SCA. His failures to disclose these infractions 
+and civil disputes as alleged in SOR ¶¶ 3.c and 3.d, have no national security 
+significance or concern. 
+ 
+ 
+12 
+ 
+ 
+ 
+Whole-Person Concept 
+ 
+ Under the whole-person concept, the administrative judge must evaluate an 
+applicant’s eligibility for a security clearance by considering the totality of the applicant’s 
+conduct and all relevant circumstances. The administrative judge should consider the 
+nine adjudicative process factors listed at AG ¶ 2(d):  
+ 
+(1) the nature, extent, and seriousness of the conduct; (2) the 
+circumstances surrounding the conduct, to include knowledgeable 
+participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to 
+which participation is voluntary; (6) the presence or absence of 
+rehabilitation and other permanent behavioral changes; (7) the motivation 
+for the conduct; (8) the potential for pressure, coercion, exploitation, or 
+duress; and (9) the likelihood of continuation or recurrence. 
+ 
+ Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a 
+security clearance must be an overall commonsense judgment based upon careful 
+consideration of the guidelines and the whole-person concept.        
+ 
+I considered the potentially disqualifying and mitigating conditions in light of all 
+the facts and circumstances surrounding this case. I have incorporated my comments 
+under Guidelines B, E, and J in my whole-person analysis. Some of the factors in AG ¶ 
+2(d) were addressed under that guideline. Applicant is 37 years old. He submitted 
+character references from his supervisors attesting to his allegiance to the U.S. Virtually 
+all of his adult work life was spent in Iraq supporting U.S. interests. However, he is still 
+in the process of assimilating successfully into his new country, and learning to comply 
+with driving laws.  
+ 
+Overall, the record evidence leaves me with serious questions and doubts as to 
+Applicant’s eligibility and suitability for a security clearance. I conclude Applicant has  
+mitigated foreign influence security concerns, and criminal conduct security concerns, 
+but not personal conduct security concerns.  
+ 
+     Formal Findings 
+ 
+ Formal findings for or against Applicant on the allegations set forth in the SOR, 
+as required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+ 
+                      Paragraph 1, Guideline B:                         FOR APPLICANT 
+ 
+  Subparagraphs 1.a-1.c:                             For Applicant 
+ 
+  Paragraph 2, Guideline J:     FOR APPLICANT 
+ 
+ 
+13 
+ 
+                      Subparagraphs 2.a-2.h:                             For Applicant 
+ 
+                      Paragraph 3, Guideline E:                         AGAINST APPLICANT 
+ 
+                      Subparagraph 3.a                                      Against Applicant  
+ 
+                      Subparagraphs 3.b-3.c:                             For Applicant 
+ 
+ 
+                   Conclusion 
+ 
+ In light of all of the circumstances presented by the record in this case, it is not 
+clearly consistent with the national interest to continue Applicant’s eligibility for a 
+security clearance. Eligibility for access to classified information is denied. 
+ 
+ 
+          ________________________ 
+          Robert J. Kilmartin 
+                                               Administrative Judge 

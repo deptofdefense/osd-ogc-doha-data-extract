@@ -1,0 +1,124 @@
+KEYWORD: Guideline F
+DIGEST: A notation that a debt was removed in a credit report without further explanation does
+not establish the reason why that action was taken.  Applicant’s credit reports do not establish
+that he dealt with creditors in a responsible manner.  The Judge’s material findings are based on
+substantial evidence, or constitute reasonable characterizations or inferences that could be drawn
+from the record.  A Judge is precluded from raising security concerns outside the scope of the
+SOR without amending the SOR and giving the parties a reasonable time in which to prepare to
+address the amendment.    However, conduct not alleged or otherwise fairly embraced by the
+SOR may be relevant for other purposes such as evaluating an applicant’s credibility,
+rehabilitation, or case in mitigation.  There is no basis for concluding that the Judge considered
+matters not alleged in the SOR for an improper purpose.    Adverse decision affirmed. 
+CASENO: 14-03475.a1
+DATE: 06/15/2016
+DATE: June 15, 2016
+In Re:
+--------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-03475
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+February 4, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On March 23, 2016, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge John Grattan Metz, Jr., denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s decision was arbitrary,
+capricious, or contrary to law. Consistent with the following, we affirm.
+The Judge’s Findings of Fact  
+Applicant is a 33-year-old employee of a defense contractor.  He served in the military for
+over seven years, including two tours in hostile-fire zones, and received an honorable discharge. 
+After leaving the military, he was unemployed for about six months before obtaining his current job
+in 2007.  He works two full-time jobs and earns a total of about $142,000 annually.  He divorced in
+April 2006, married again in September 2006, and separated from his second wife in August 2013. 
+Applicant had ten delinquent debts totaling about $35,000.  In his answer to the SOR, he
+asserted all the debts were either paid or removed from his credit report. He provided documentation
+showing two debts (SOR ¶¶ 1.b and 1.d) were resolved, but no documentation showing resolution
+of the other debts.   
+Applicant hired a law firm that specialized in contesting entries on credit reports.  Between
+January 2014 and February 2015, he succeeded in having 24 accounts removed from his credit
+reports.  The removed accounts correspond roughly to the creditors alleged in the SOR.  An August
+2015 credit report showed many accounts closed, but also showed new accounts in collection.  A
+footnote in the decision reflects that the August 2015 credit report does not provide much clarity to
+Applicant’s current financial situation because he did not print account details that were available for
+each account.  In the footnote, the Judge also stated, “I cannot tell if the accounts were closed because
+they were paid or otherwise resolved, then aged off, or simply aged off.”  Decision at not n. 5.
+The Judge’s Analysis
+The Judge found for Applicant on SOR ¶¶ 1.b and 1.d and against him on the remaining
+allegations. The Judge noted that Applicant had delinquent debts dating back to at least 2006 and had
+2
+not documented any action on them, except perhaps having them removed from his credit report for
+reasons that could range from satisfaction of the debt to simple expiration of the seven-year reporting
+period.  The Judge concluded that, even though Applicant’s period of unemployment and child
+support issues resulting from his divorce and separation were conditions beyond his control, he had
+not documented that he dealt with his debts in a responsible manner. The Judge noted the successful
+challenge of the contents of a credit report does not establish that Applicant dealt responsibly with
+his creditors, had any contact with them for several years, or engaged in good-faith efforts to resolve
+his debts.
+Discussion
+Applicant argues that the Judge should have found his security concerns mitigated.  He points
+out that all of the debts were removed from his credit report and disputes the Judge’s finding that the
+evidence is unclear as to how the debts were resolved and that some of the debts may have “aged off”
+his credit report.  He claimed the debts would not have aged off his credit report until late 2015 or
+2016.  The Board, however, has previously noted that a credit report may not be sufficient to meet
+an applicant’s burden of persuasion as to mitigation because it may provide little evidence regarding
+the underlying circumstances of the debt.  The fact that a debt no longer appears on a credit report
+does not establish any meaningful, independent evidence as to the disposition of the debt.  See, e.g.,
+ISCR Case No. 14-03612 at 3 (App. Bd. Aug. 25, 2015).  Likewise, the mere notation that a debt was
+“removed” in a credit report without any further explanation does not establish the underlying reason
+for why that action was taken.  Applicant’s credit reports do not establish that he dealt with his
+creditors in a responsible manner.  After reviewing the record, the Board concludes that the Judge’s
+material findings are based on substantial evidence, or constitute reasonable characterizations or
+inferences that could be drawn from the record.  Considering the record evidence as a whole, the
+Judge’s material findings of security concern are sustainable.  See, e.g., ISCR Case No. 12-03420 at
+3 (App. Bd. Jul. 25, 2014). 
+Applicant also claimed that the Judge considered collection accounts not alleged in the SOR
+in denying his security clearance. A Judge is precluded from raising security concerns outside the
+scope of the SOR without amending the SOR and giving the parties a reasonable time in which to
+prepare to address the amendment.  However, conduct not alleged or otherwise fairly embraced by
+the SOR may be relevant for other purposes such as evaluating an applicant’s credibility,
+rehabilitation, or case in mitigation.  See, e.g., ISCR Case No. 14-00151 at n. 1 (App. Bd. Sep. 12,
+2014).  From a review of the record, there is no basis for concluding that the Judge considered
+matters not alleged in the SOR for an improper purpose.     
+Applicant further contends that the Judge may have denied his security clearance because he
+did not express himself clearly at the hearing.  However, having decided to represent himself during
+the proceedings below, Applicant cannot fairly complain about the quality of his self-representation
+or seek to be relieved of the consequences of his decision to represent himself.  ISCR Case No. 11-
+08118 at 2-3 (App. Bd. Aug. 12, 2013).  
+3
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  Applicant has not identified any harmful error likely to change the outcome of the case. 
+The decision is sustainable on this record.  “The general standard is that a clearance may be granted
+only when ‘clearly consistent with the interests of the national security.’”  Department of the Navy
+v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt concerning
+personnel being considered for access to classified information will be resolved in favor of the
+national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan            
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jean E. Smallin                  
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed; James F. Duffy               
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+4

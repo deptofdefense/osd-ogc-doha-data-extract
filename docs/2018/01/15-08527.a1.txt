@@ -1,0 +1,187 @@
+KEYWORD: Guideline J; Guideline E
+DIGEST: we find no basis for concluding an administrative judge in a security clearance
+adjudication is bound by a Federal Judge’s determination in a sentencing proceeding that an
+applicant accepted responsibility for his criminal conduct. Applicant’s Answer to the SOR and
+his testimony at the security clearance hearing support the DOHA Judge’s conclusion that
+Applicant minimized his involvement in the conspiracy and has not accepted responsibility for
+his past criminal conduct.  Adverse decision affirmed.
+CASENO: 15-08527.a1
+DATE: 01/02/2018
+DATE: January 2, 2018
+In Re:
+---------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-08527
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Alexander M. Laughlin, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+March 21, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline J (Criminal Conduct), and Guideline E (Personal
+Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive). 
+Applicant requested a hearing.  On August 25, 2017, after the hearing, Defense Office of Hearings
+and Appeals (DOHA) Administrative Judge Juan J. Rivera denied Applicant’s request for a security
+clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge’s findings and
+conclusions are supported by record evidence and whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm.
+The Judge found against Applicant on a Guideline J and a Guideline E allegation.  One
+allegation asserted that Applicant was named as a party in a civil action brought by an individual
+in 2005.  As a result of that action, he paid a settlement of $1,000,000.  The other allegation asserted
+Applicant pled guilty to conspiracy to restrain trade, a felony, in 2009.  The criminal conduct
+occurred between 2001 and 2002 and involved Applicant orchestrating and supervising a
+“conspiracy to suppress and eliminate competition by allocating customers, rigging bids, and fixing
+prices that resulted in government contracts being awarded at inflated prices.”  Decision at 2. 
+Applicant was sentenced to 18 months in prison, one year of supervised release, and a $100,000 fine. 
+He served about 13 months in confinement.  The civil and criminal actions are related.  The Judge
+found in favor of Applicant on a falsification allegation, and that finding has not been raised as an
+issue on appeal.  
+Applicant challenges the Judge’s findings and conclusions that Applicant minimized his
+involvement in the conspiracy and that he has not accepted responsibility for his past criminal
+conduct.  Specifically, the Judge concluded, “[c]onsidering the information contained in the extracts
+of his criminal proceedings, Applicant’s efforts to minimize his involvement in the criminal
+conspiracy he orchestrated are not credible.  Moreover, his lack of credibility and his unwillingness
+to accept responsibility for his past criminal misconduct continue to raise serious questions about
+his rehabilitation.”  Decision at 7.  In the appeal brief, Applicant provides a lengthy explanation of
+the U.S. sentencing guidelines and emphasizes that a Federal Judge concluded that Applicant
+“clearly demonstrates acceptance of responsibility for his offense.”  Appeal Brief at 9, citing
+Government Exhibit (GE) 5, Transcript of Sentencing Proceedings.  Applicant also argues that the
+DOHA Judge committed reversible error in construing his counsel’s arguments at the criminal
+sentencing hearing as Applicant’s refusal to accept responsibility and compounded an incorrect
+assessment of Applicant’s credibility.  Appeal Brief at 10.
+We do not find Applicant’s arguments persuasive.  To the extent that he is arguing that the
+DOHA Judge must adopt the Federal Judge’s “acceptance of responsibility” determination, the
+2
+Board rejects that contention.1  The Federal Judge’s determination is important record evidence
+which the DOHA Judge must consider.  However, it merits noting that there are significant
+differences between an “acceptance of responsibility” determination in a Federal criminal
+proceeding and one in a security clearance adjudication.  Besides being made in different forums,
+these determinations serve different purposes.  An “acceptance of responsibility” determination in
+a criminal proceedings is made to assess an appropriate punishment.  In a security clearance
+adjudication, such a determination is made to evaluate whether an applicant has reformed and
+rehabilitated himself, which is then used in concluding if that individual has demonstrated the high
+degree of reliability, trustworthiness, and good judgment required of persons granted access to
+classified information.  See, e.g., ISCR Case No. 96-0360 at 4-5 (App. Bd. Sep. 25, 1997).  See also,
+ISCR Case No. 14-01894 at 5 (App. Bd. Aug. 18, 2015)(citing Cafeteria & Restaurant Workers
+Union, Local 473 v. McElroy, 284 F.2d 173, 183 (D.C. Cir 1960), aff’d, 367 U.S. 886(1961)). 
+Moreover, an “acceptance of responsibility” determination in a Federal criminal proceeding is made
+by applying specific criteria in the sentencing guidelines.2  In security clearance adjudications, the
+Directive has no specific provision that uses the phrase “acceptance of responsibility.”  Instead, such
+a determination is a general finding or conclusion that is derived from reviewing the record evidence
+to conclude whether or how much analytical factors addressing rehabilitation may apply.3 
+Additionally, as a practical matter, different evidence may be presented to the judges in these
+different forums to assist in making such a determination, especially considering the different
+purposes for which the evidence would be submitted in these proceedings.  In short, we find no basis
+for concluding an administrative judge in a security clearance adjudication is bound by a Federal
+Judge’s determination in a sentencing proceeding that an applicant accepted responsibility for his
+criminal conduct. 
+  
+Applicant’s Answer to the SOR and his testimony at the security clearance hearing support 
+the DOHA Judge’s conclusion that Applicant minimized his involvement in the conspiracy and has
+not accepted responsibility for his past criminal conduct.  In his Answer to the SOR, Applicant
+stated,
+Companies cannot be sent to jail, nor can they - in most peoples’ minds - take full
+responsibility for criminal activity.  I, as . . . [an officer] of my company during that
+1 Applicant argues that the Federal Judge in the criminal proceeding “found as a matter of law that [Applicant]
+did accept responsibility for his role in the criminal conspiracy, and accordingly reduced [Applicant’s] offense level
+when calculating the applicable sentencing range under the United States Sentencing Guidelines . . . .”  Appeal Brief
+at 4-5.  Applicant also contends that the DOHA Judge’s “assessment is contrary to law and patently erroneous when the
+record is viewed in its totality and under the whole person concept, especially when coupled with the judicial finding
+by the district court of his acceptance of responsibility for his criminal conduct as a matter of law.”  Appeal Brief at 13
+and 16.  
+2 See, Federal Sentencing Guidelines Manual § 3E1.1 (Acceptance of Responsibility).  Applicant cites this
+criteria.  Appeal Brief at 11.  
+3 See, e.g., Directive Encl.2, App. A ¶¶ 2d(6), 2f(2)-(5), 17(d), and 32(d). 
+3
+2001 to 2002 timeframe, accepted criminal responsibility for its actions and the
+actions of its employees.
+Similarly, in the civil lawsuit, I ultimately took responsibility for the company’s
+activities.
+Note, Applicant is not accepting responsibility for his conduct but for the conduct of others;
+arguably he is effectively shifting the blame to others.  He testified similarly at his security clearance
+hearing.  For example, his testimony reflects the following:
+[Applicant]: This is a civil count under the antitrust suit, Sherman Act violation. 
+Allegations  were that I supervised a person who talked to a competitor and that they
+rigged the bids.  And, I plead guilty to that.4
+* * *
+[Applicant’s Counsel]:  How do you personally, how did you take responsibility for
+these two issues?
+[Applicant]:  I supervised the gentlemen involved.5
+* * *
+[Applicant’s Counsel]: Why would you never do this again?
+[Applicant]:  Well, I didn’t want it to happen in the first place.  Right?  I had asked
+all the people involved to do it the way that it was set up, so, I, you know, one of the
+things about antitrust is that you don’t even have to know you did something wrong,
+and you don’t have to have the intent to do something wrong to be guilty under
+antitrust.  But I learned that and, you know, that’s why I took responsibility.  I had
+never had any intent to do, to break the law.6
+* * *
+4 Tr. at 36.
+5 Tr. at 43.
+6 Tr. at 44-45.  In the appeal brief, Applicant notes that his testimony was a “misunderstanding of Title 15,
+Section 1, U.S. Code . . . [ and Applicant] incorrectly understood that he could be found guilty of [a] criminal violation
+of Title 15 even if he did not intend to commit a criminal act.”  Appeal Brief at 15-16.   However, compare with GE 3,
+a “Statement of Fact” signed by Applicant in the criminal proceeding in which he stated he “participated in a conspiracy
+. . .”,  “was aware that another [company] executive participated in meetings and engaged in discussions by telephone,
+facsimile, and electronic mail   . . .”, and “[d]uring these meetings and discussions, . . . the other [company] executive,
+agreed to allocate customers and rig bid for contracts . . . .”
+4
+[Judge]:  Okay.  And what was of that was done that was illegal?
+[Applicant]: So, this was done on some cases, and it made it look like it was being
+done properly.  But then the two managers . . . [names omitted] decided this is a lot
+of work.  Let’s just, you bid, this, and I bid that and that automatically will decide
+who gets the job.  They were working new bids. . . .  [T]hey were not having the joint
+venture bid.  And that’s where the violation of the Sherman Act came in.
+[Judge]: Okay.  Was there any other, anything else that was done that was improper
+or illegal, other than that what you just described?
+[Applicant]: Not while I was there. . . .7
+Based on our review of the record, we conclude the Judge’s findings and conclusions that Applicant
+has not accepted responsibility for his criminal conduct are based on substantial evidence or
+constitute reasonable inferences or conclusions that could be drawn from the evidence.  See, e.g.,
+ISCR Case No. 12-03420 at 3 (App. Bd. Jul. 25, 2014).  We do not find persuasive Applicant’s
+argument that the Judge’s findings and conclusions were improperly based on his counsel’s
+arguments at the criminal sentencing hearing.  Additionally, as provided in Directive ¶ E3.1.32.1,
+we give deference to a Judge’s credibility determination and find no reason in the record to do
+otherwise. 
+Applicant also argues the Judge failed to consider certain evidence and mis-weighed the
+evidence.  He cites, for example, to the passage of time that has elapsed since his criminal conduct, 
+the factors the Federal Judge considered in sentencing him, the punishment imposed and its impact
+on him, and his character evidence.  His arguments, however, are not sufficient to rebut the
+presumption that the Judge considered all of the record evidence nor enough to show the Judge
+weighed the evidence in a manner that was arbitrary, capricious, or contrary to law.  See, e.g., ISCR
+15-04856 at 2-3 (App. Bd. Mar. 9, 2017).  
+Applicant has failed to identify any harmful error.  The Judge examined the relevant
+evidence and articulated a satisfactory explanation for the decision.  The decision is sustainable on
+the record.  “The general standard is that a clearance may be granted only when ‘clearly consistent
+with the interests of the national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528
+(1988).  See also Directive, Encl. 2, App. A ¶ 2(b):  “Any doubt concerning personnel being
+considered for national security eligibility will be resolved in favor of the national security.”
+7 Tr. at 64-65.
+5
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan           
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody            
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+6

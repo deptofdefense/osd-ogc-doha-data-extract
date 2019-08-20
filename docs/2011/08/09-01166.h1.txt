@@ -1,0 +1,654 @@
+ 
+1 
+ 
+                                                              
+                        DEPARTMENT OF DEFENSE 
+         DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+ 
+In the matter of: ) 
+ ) 
+  )  ISCR Case No. 09-01166 
+ ) 
+Applicant for Security Clearance ) 
+ 
+ 
+Appearances 
+ 
+For Government: Candace Le’i Garcia, Esq., Department Counsel 
+For Applicant: Jason M. Berent, Esq. 
+ 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+LOUGHRAN, Edward W., Administrative Judge: 
+ 
+Applicant rebutted personal conduct security concerns and mitigated criminal 
+conduct concerns, but he has not mitigated financial considerations security concerns. 
+Eligibility for access to classified information is denied.  
+ 
+Statement of the Case 
+ 
+On February 14, 2011, the Defense Office of Hearings and Appeals (DOHA) 
+issued a Statement of Reasons (SOR) to Applicant detailing security concerns under 
+Guidelines F (financial considerations), E (personal conduct), and J (criminal conduct). 
+The action was taken under Executive Order (EO) 10865, Safeguarding Classified 
+Information within Industry (February 20, 1960), as amended; Department of Defense 
+Directive 5220.6, Defense Industrial Personnel Security Clearance Review Program 
+(January 2, 1992), as amended (Directive); and the adjudicative guidelines (AG) 
+implemented by the Department of Defense on September 1, 2006. 
+ 
+Applicant answered the SOR on March 25, 2011, and requested a hearing before 
+an administrative judge. The case was assigned to me on May 16, 2011. DOHA issued 
+ 
+2 
+ 
+a notice of hearing on June 16, 2011, and the hearing was convened as scheduled on 
+July 12, 2011.  
+ 
+The Government offered Exhibits (GE) 1 through 13. GE 1 through 12 were 
+admitted without objection. The Government did not provide Applicant with prior notice 
+that it was submitting GE 13. Applicant objected to its admission. Applicant was given 
+until July 29, 2011, to submit a request to reconvene to address GE 13. No request to 
+reconvene was made. GE 13 is admitted. Applicant testified and submitted Exhibits 
+(AE) A, A(1) through A(6), and B. AE A, A(2) through A(6), and B were admitted without 
+objection. AE(1) was admitted over the Government’s objection. The record was held 
+open until August 5, 2011, for Applicant to submit additional information. No additional 
+material was submitted. DOHA received the hearing transcript (Tr.) on July 20, 2011. 
+ 
+Findings of Fact 
+ 
+ Applicant is a 51-year-old employee of a defense contractor. He is on unpaid 
+leave pending his security clearance adjudication. He is a high school graduate. He 
+married in 1977 and divorced in 1987. He married his current wife in 1990. He has five 
+adult children.1 
+  
+ Applicant and his wife started a company (Corporation X) in about 2000. The 
+company was incorporated as a Subchapter C corporation.2 Although personal liability 
+for the corporation’s debts, for the most part, does not pass to the shareholders, many 
+creditors would not contract with the corporation unless Applicant, his wife, or both of 
+them, also agreed to be on the account in an individual capacity.3 Responsible officers 
+in the corporation are required to ensure that payroll taxes are paid to the Internal 
+Revenue Service (IRS). If the taxes are not paid, the responsible officers can be held 
+personally liable for the taxes.4 
+                                                          
+1 Tr. at 69-70, 100-101, 122; GE 1. 
+ 
+2 For federal income tax purposes, a C corporation is recognized as a separate taxpaying entity. A 
+corporation conducts business, realizes net income or loss, pays taxes and distributes profits to 
+shareholders. See www.irs.gov/businesses/small/article/0,,id=98240,00.html. 
+ 
+3 Tr. at 32-33, 40-41; GE 7, 8, 11; AE A.  
+ 
+4 See IRS Publication 15 (January 2007), Employers Tax Guide at page 23. www.irs.gov/pub/irs-
+prior/p15--2007.pdf: 
+ 
+Trust fund recovery penalty. If income, social security, and Medicare taxes that a 
+corporation must withhold from employee wages are not withheld or are not deposited or 
+paid to the United States Treasury, the trust fund recovery penalty may apply. The 
+penalty is the full amount of the unpaid trust fund tax. This penalty may apply to you if 
+these unpaid taxes cannot be immediately collected from the business.  
+ 
+The trust fund recovery penalty may be imposed on all persons who are determined by 
+the IRS to be responsible for collecting, accounting for, and paying these taxes, and who 
+acted willfully in not doing so.  
+ 
+ 
+3 
+ 
+ On August 23, 2007, Corporation X entered into an agreement with another 
+corporation (Corporation Y), in which Corporation Y would receive 51% of Corporation 
+X, with Applicant and his wife retaining a 49% interest in Corporation X. In return, 
+Corporation Y agreed to “take responsibility clearing all outstanding debt and assumes 
+all future debts, provide bonding for [Corporation X].”5  
+ 
+ On October 5, 2007, Corporation X entered into a servicing contract with a third 
+business (Company Z). On April 16, 2008, Corporation X assigned its contract with 
+Company Z to Corporation Y. In return, Corporation Y agreed to assume Corporation 
+X’s IRS debt, as follows: 
+ 
+[Corporation Y] acknowledges prior agreement (to pay said debt) with 
+[Corporation X] for debt due IRS of approximately $196,372.57, rent of 
+[Corporation X’s] equipment and tools on project, purchase of equipment, 
+list of debt listed on prior agreement, retainage due [Corporation X] on 
+said Contract [with Company Z].6 
+ 
+ Applicant stated that Corporation Y failed to honor its contractual agreements. He 
+stated Corporation Y did not pay the payroll taxes due to the IRS and did not pay other 
+liabilities.7  
+ 
+ On May 20, 2008, Applicant’s wife, signing as the president of Corporation X, 
+filed Chapter 11 bankruptcy on behalf of Corporation X. The petition listed a secured 
+claim to a bank (Bank W) for $272,966. The total of the unsecured claims exceeded 
+$1.6 million. Included in the unsecured claims were claims to the IRS for $87,890 and a 
+series of claims to Bank W totaling $95,810. There was also a $450,000 claim to 
+Applicant and his wife. Corporation X also filed a suit in bankruptcy court against 
+Corporation Y and its owner. The bankruptcy and the included lawsuit were dismissed 
+in 2009.8 
+ 
+ In June 2010, Corporation X, Applicant, and his wife filed a lawsuit against 
+Corporation Y, its owners, and other entities, alleging breach of contract. The petition 
+                                                                                                                                                                                           
+A responsible person can be an officer or employee of a corporation, an accountant, or 
+a volunteer director/trustee. A responsible person also may include one who signs 
+checks for the corporation or otherwise has authority to cause the spending of business 
+funds.  
+ 
+Willfully means voluntarily, consciously, and intentionally. A responsible person acts 
+willfully if the person knows the required actions are not taking place. (emphasis in 
+original) 
+ 
+5 Tr. at 28-36; GE 7, 8; AE A, A(2). 
+ 
+6 AE A(3). 
+ 
+7 Tr. at 37-39; GE 7, 8; AE A. 
+ 
+8 Tr. at 28; GE 2, 5, 7, 8, 11; AE A, A(1). 
+ 
+4 
+ 
+alleges that Corporation Y failed to pay the IRS $196,372 and the debts owed to Bank 
+W. The petition also alleges: 
+ 
+Defendants also: (1) interfered with Plaintiffs’ contracts and business 
+relations with third parties; (2) stole, misdirected and/or misappropriated 
+money properly owing to Plaintiffs; and (3) stole and/or otherwise obtained 
+unlawful possession of Plaintiffs’ tools, equipment, vehicles and other 
+property.9 
+ 
+ The lawsuit is still pending. The defendants have filed a countersuit against 
+Corporation X, Applicant, and his wife. Applicant submitted a copy of his petition; he did 
+not submit a copy of the answer or the countersuit petition.10  
+ 
+ Bank W filed a lawsuit against Corporation X, Applicant, and his wife. The parties 
+entered into an agreed judgment in November 2010. Corporation X and Applicant’s 
+wife, jointly and severally, were ordered to pay $282,526 to Bank W, with interest 
+accruing at the rate of 5% a year. Corporation X and Applicant’s wife, jointly and 
+severally, were also ordered to pay $4,584 to Bank W, with interest accruing at the rate 
+of 18% a year, plus $20,000 in attorney’s fees. The case against Applicant was 
+dismissed with prejudice. Applicant’s attorney stated that in exchange for the agreed 
+judgment, Bank W agreed not to pursue efforts to collect on the judgment until the 
+lawsuit against Corporation Y is resolved.11 
+ 
+ The SOR alleges the Chapter 11 bankruptcy, five delinquent debts to Bank W, a 
+department store credit card account, two delinquent medical debts, a telephone 
+company account, $87,890 owed to the IRS, and a past-due mortgage that is in 
+foreclosure. The debts were listed on Applicant’s credit reports. In his response to the 
+SOR, Applicant denied owing all the debts except the tax debt and the mortgage, which 
+he admitted with explanations. 
+ 
+ The debts to Bank W were alleged in SOR ¶¶ 1.d ($1,670), 1.e ($1,383), 1.f 
+($27,021), 1.h ($6,859), and 1.l ($991). Applicant stated that some or all of the debts 
+were Corporation X’s debts that should have been paid by Corporation Y. He admitted 
+that he was also liable to the bank because he personally guaranteed the accounts. 
+When Corporation X filed Chapter 11 bankruptcy, it listed six unsecured accounts with 
+Bank W totaling $95,810. The debts alleged in SOR ¶¶ 1.e and 1.f were listed in the 
+petition. Applicant is only listed on his credit report as an authorized user on the SOR ¶ 
+1.e debt, so he is not personally liable for that debt. The bankruptcy petition does not 
+appear to include the Bank W debts alleged in SOR ¶¶ 1.d, 1.h, and 1.l.12 
+ 
+                                                          
+9 AE A(4). 
+ 
+10 Tr. at 39-40, 82-84; GE 11; AE A. 
+ 
+11 Tr. at 44-48; AE A(5), B. 
+ 
+12 Tr. at 40-48, 64-68; GE 4, 6-12; AE A. 
+ 
+5 
+ 
+ The Bank W debt alleged in SOR ¶ 1.d is listed on Applicant’s credit reports as a 
+joint account. The Bank W debt in SOR ¶ 1.l is listed on the credit reports as an 
+individual account. Applicant stated that those two debts were Corporation X accounts, 
+but he submitted no supporting documentation. He stated that the files from Corporation 
+X were turned over to Corporation Y. He stated that his bankruptcy attorney has copies 
+of the files from Corporation X, but the attorney has not turned them over to Applicant or 
+his present attorney.13 
+ 
+ The $6,859 Bank W debt alleged in SOR ¶ 1.h was transferred to a collection 
+company. It appears to be an individual debt that was charged off, with a date of last 
+action in February 2007. Applicant stated that he believed this debt was his son’s 
+responsibility. The debt was reported by TransUnion on the credit reports obtained in 
+November 2008 and May 2010. It was listed on the January 2011 Equifax credit report 
+under Bank W as a charged-off account that was transferred or sold. It was not 
+separately reported by Equifax under the collection company that received the debt. 
+Applicant did not submit any documentation corroborating his statement that the debt 
+belonged to his son.14 
+ 
+ Applicant denied responsibility for the $1,694 delinquent department store debt 
+alleged in SOR ¶ 1.g. The debt is listed on the November 2008 credit report as a joint 
+account that was opened in 1984, with a date of last action in November 2004. 
+Applicant stated this was his wife’s debt from before they married. It is listed on later 
+reports as charged off and transferred, with a zero balance. There is no indication on 
+Applicant’s credit reports of a subsequent collection company handling the debt.15  
+ 
+ Applicant acknowledged responsibility for the medical debts of $434 and $28, as 
+alleged in SOR ¶¶ 1.b and 1.c. The credit reports indicate these debts became 
+delinquent in 2008. Applicant was asked about the debts during his background 
+interview in December 2008. He did not recognize the $28 debt. He stated that his 
+insurance company paid the $434 debt. He was asked about the debts again in June 
+2010. He stated that he would pay his medical debts “within the next year or so.” He 
+testified that he was unable to pay the debts because of the financial problems resulting 
+from Corporation Y’s failure to honor the contract. He obtained a job with a defense 
+contractor in October 2008, but he was placed on unpaid leave in February 2011, when 
+he lost his interim security clearance. The company is still sponsoring him and will rehire 
+him should he obtain a security clearance. Applicant stated that he will pay his medical 
+debts when he is rehired.16 
+ 
+ Applicant denied responsibility for the $322 delinquent debt to a telephone 
+company, as alleged in SOR ¶ 1.k. Applicant stated that be believed the debt resulted 
+                                                          
+13 Tr. at 40-48, 64-72, 81-82; GE 4, 6-12; AE A. 
+ 
+14 Tr. at 72-78; GE 4, 6-12; AE A. 
+ 
+15 Tr. at 48-53, 101-102; Applicant’s response to SOR; GE 4, 6-10, 12; AE A. 
+ 
+16 Tr. at 27, 68-72; GE 1, 4, 6-12. 
+ 
+ 
+6 
+ 
+from damage done by Corporation X to the telephone company’s equipment. He stated 
+that Corporation Y should have paid the debt. The debt is listed on the most recent 
+credit report as a charged-off account that was opened in April 2001, with a date of last 
+action in April 2009. Applicant did not submit any business records from Corporation X, 
+or any other documentary evidence, to establish that this was Corporation X’s debt.17 
+ 
+ Applicant’s mortgage is in foreclosure, as alleged in SOR ¶ 1.j. Applicant’s 
+position, as related through the attorney addressing that matter, is that Applicant 
+maintained homeowner’s insurance as required, but the mortgage company improperly 
+“force paid” an additional policy, which caused an increase in the monthly mortgage 
+payment. When Applicant continued with his normal payments, he fell behind. The May 
+2010 credit report lists the mortgage as $4,221 past due, with a balance of $194,747. 
+The January 2011 credit report does not show a past-due amount, but it shows the 
+mortgage in foreclosure, with a balance of $194,000. Applicant acknowledges that he 
+has stopped making the mortgage payments in accordance with his attorney’s advice. 
+His attorney filed an affidavit on March 25, 2011, in which he stated that “[i]t is 
+customary, particularly in [his] dealings with [mortgage company’s attorney] for the 
+homeowner to not pay their mortgage until the dispute is resolved. This is sometimes 
+the case because it may turn out that the mortgage company may actually owe the 
+homeowner money.” The attorney also wrote in that affidavit that he was working with 
+the mortgage company’s attorney, and they were “fairly close to having the dispute 
+resolved in a mutually acceptable manner.” 18  
+ 
+ Applicant admitted that he is liable to the IRS for Corporation X’s payroll taxes, 
+as alleged in SOR ¶ 1.i. He stated that they owed the IRS in the area of $150,000 when 
+the company was sold. He stated that the money was from the previous quarter, and 
+that the taxes “[were] current, but it was coming up to the point that [they] needed to be 
+paid.” He stated they would have been due at the end of the quarter. Applicant’s 
+statement is inconsistent with the IRS rules that payroll taxes must be paid semiweekly 
+or monthly. The IRS also requires that once $100,000 is withheld from employees’ 
+salaries, the taxes must be paid the next day, notwithstanding the company’s normal 
+payment schedule.19 Applicant later testified that the payroll taxes stopped being paid 
+after the sale to Corporation Y. He stated that he believed the amount currently owed is 
+about $150,000. Applicant stated that he had documents from the IRS computing 
+specifically how they calculated the tax liability and the current balance. He did not 
+submit any of those documents. The IRS has placed a lien on his house. He stated that 
+IRS will be paid when the lawsuit is won or settled. He stated that he will make payment 
+arrangements with the IRS if his lawsuit is unsuccessful.20 
+ 
+                                                          
+17 Tr. at 55, 93-96; Applicant’s response to SOR; GE 12; AE A. 
+ 
+18 Tr. at 53-54, 78-80; Applicant’s response to SOR; GE 10, 12; AE B. 
+ 
+19 See  IRS Publication 15 (January 2007), Employers Tax Guide at pages 18-23. www.irs.gov/pub/irs-
+prior/p15--2007.pdf. 
+ 
+20 Tr. at 30-37, 61-62, 102-104; Applicant’s response to SOR; GE 11. 
+ 
+7 
+ 
+ Applicant was arrested in February 2007 and charged with driving while 
+intoxicated (DWI) and open alcohol container. In February 2008, he was found guilty 
+and sentenced to 90 days in jail, which was suspended, probation for 18 months, a 
+$1,500 fine, and court costs. Applicant acknowledged his conduct was wrong and 
+stupid. He has not been arrested or charged with any offense since the DWI arrest.21  
+ 
+ Applicant submitted a Questionnaire for National Security Positions (SF 86) in 
+October 2008. Under the question asking about alcohol-related charges, he listed his 
+DWI conviction. He answered all the pertinent financial questions in the negative. 
+Applicant credibly testified that he did not intentionally falsify the SF 86. He stated that 
+he did not have to list the bankruptcy because it was a corporate bankruptcy and not his 
+personal bankruptcy. He did not list any delinquent debts because they were corporate 
+debts, they were not delinquent when he submitted the SF 86, or he was unaware of the 
+debts.22 After considering all the evidence, I find that Applicant did not intentionally 
+falsify his SF 86.  
+ 
+Policies 
+ 
+ When evaluating an applicant’s suitability for a security clearance, the 
+administrative judge must consider the adjudicative guidelines. In addition to brief 
+introductory explanations for each guideline, the adjudicative guidelines list potentially 
+disqualifying conditions and mitigating conditions, which are to be used in evaluating an 
+applicant’s eligibility for access to classified information. 
+ 
+These guidelines are not inflexible rules of law. Instead, recognizing the 
+complexities of human behavior, administrative judges apply the guidelines in 
+conjunction with the factors listed in the adjudicative process. The administrative judge’s 
+overarching adjudicative goal is a fair, impartial, and commonsense decision. According 
+to AG ¶ 2(c), the entire process is a conscientious scrutiny of a number of variables 
+known as the “whole-person concept.” The administrative judge must consider all 
+available, reliable information about the person, past and present, favorable and 
+unfavorable, in making a decision. 
+ 
+The protection of the national security is the paramount consideration. AG ¶ 2(b) 
+requires that “[a]ny doubt concerning personnel being considered for access to 
+classified information will be resolved in favor of national security.” In reaching this 
+decision, I have drawn only those conclusions that are reasonable, logical, and based 
+on the evidence contained in the record.  
+ 
+Under Directive ¶ E3.1.14, the Government must present evidence to establish 
+controverted facts alleged in the SOR. Under Directive ¶ E3.1.15, the applicant is 
+responsible for presenting “witnesses and other evidence to rebut, explain, extenuate, 
+                                                          
+21 Tr. at 56-57, 99-100; GE 1, 3; AE A. 
+ 
+22 Tr. at 27-28, 55-57, 97-99; GE 1; AE A, A(6). 
+ 
+ 
+8 
+ 
+or mitigate facts admitted by the applicant or proven by Department Counsel.” The 
+applicant has the ultimate burden of persuasion to obtain a favorable security decision.  
+ 
+ A person who seeks access to classified information enters into a fiduciary 
+relationship with the Government predicated upon trust and confidence. This 
+relationship transcends normal duty hours and endures throughout off-duty hours. The 
+Government reposes a high degree of trust and confidence in individuals to whom it 
+grants access to classified information. Decisions include, by necessity, consideration of 
+the possible risk the applicant may deliberately or inadvertently fail to safeguard 
+classified information. Such decisions entail a certain degree of legally permissible 
+extrapolation of potential, rather than actual, risk of compromise of classified 
+information. 
+ 
+Section 7 of EO 10865 provides that adverse decisions shall be “in terms of the 
+national interest and shall in no sense be a determination as to the loyalty of the 
+applicant concerned.” See also EO 12968, Section 3.1(b) (listing multiple prerequisites 
+for access to classified or sensitive information).   
+ 
+Analysis 
+ 
+Guideline F, Financial Considerations 
+ 
+The security concern for financial considerations is set out in AG ¶ 18:       
+ 
+Failure or inability to live within one’s means, satisfy debts, and meet 
+financial obligations may indicate poor self-control, lack of judgment, or 
+unwillingness to abide by rules and regulations, all of which can raise 
+questions about an individual’s reliability, trustworthiness and ability to 
+protect classified information. An individual who is financially 
+overextended is at risk of having to engage in illegal acts to generate 
+funds.  
+ 
+The guideline notes several conditions that could raise security concerns under 
+AG ¶ 19. Two are potentially applicable in this case:   
+ 
+ (a) inability or unwillingness to satisfy debts; and 
+ 
+ (c) a history of not meeting financial obligations. 
+ 
+ Applicant accumulated a number of delinquent debts and was unable to pay his 
+financial obligations. The evidence is sufficient to raise the above disqualifying 
+conditions. 
+ 
+ SOR ¶ 1.a alleges that Applicant filed Chapter 11 bankruptcy in 2008, and the 
+bankruptcy was dismissed in 2009. That bankruptcy was filed by Corporation X, not by 
+Applicant in a personal capacity. It raises no independent security concerns beyond 
+those raised in other allegations. SOR ¶ 1.a is concluded for Applicant. 
+ 
+9 
+ 
+ Applicant is only listed as an authorized user on the SOR ¶ 1.e debt, so he is not 
+personally liable for that debt. SOR ¶ 1.e is concluded for Applicant. 
+ 
+Conditions that could mitigate financial considerations security concerns are 
+provided under AG ¶ 20. The following are potentially applicable:  
+ 
+(a) the behavior happened so long ago, was so infrequent, or occurred 
+under such circumstances that it is unlikely to recur and does not cast 
+doubt on the individual’s current reliability, trustworthiness, or good 
+judgment; 
+ 
+(b) the conditions that resulted in the financial problem were largely 
+beyond the person’s control (e.g., loss of employment, a business 
+downturn, unexpected medical emergency, or a death, divorce or 
+separation), and the individual acted responsibly under the circumstances; 
+ 
+(c) the person has received or is receiving counseling for the problem 
+and/or there are clear indications that the problem is being resolved or is 
+under control;  
+ 
+(d) the individual initiated a good-faith effort to repay overdue creditors or 
+otherwise resolve debts; and 
+ 
+(e) the individual has a reasonable basis to dispute the legitimacy of the 
+past-due debt which is the cause of the problem and provides 
+documented proof to substantiate the basis of the dispute or provides 
+evidence of actions to resolve the issue. 
+ 
+ Applicant attributed his financial problems to Corporation Y’s breach of contract 
+and failure to pay Corporation X’s debts, including payroll taxes owed to the IRS and 
+corporate accounts owed to Bank W. However, the record is replete with concerns and 
+unanswered questions.  
+ 
+ Applicant stated the payroll taxes are paid quarterly, and they were not yet due 
+when he and his wife sold 51% of their company to Corporation Y. That is contrary to 
+the IRS requirement that payroll taxes be paid semiweekly or monthly, and that once 
+$100,000 is withheld from employees’ salaries, the taxes must be paid the next day, 
+notwithstanding the company’s normal payment schedule. Applicant did not adequately 
+explain why he and his wife did not pay Corporation X’s payroll taxes when due, instead 
+of relying on Corporation Y to do so. He stated that he had documents from the IRS 
+computing specifically how they calculated the tax liability and the current balance. 
+Those documents would have been helpful in evaluating this case, but Applicant did not 
+submit any of those documents. 
+ 
+ Applicant stated that all or most of his Bank W accounts were corporate 
+accounts. Applicant admitted that creditors would not contract with the corporation 
+unless Applicant, his wife, or both of them, also agreed to be on the account in an 
+ 
+10 
+ 
+individual capacity. Corporation X’s bankruptcy petition listed the debts in SOR ¶¶ 1.e 
+and 1.f, so I accept those debts were tied to the corporation. He did not submit any 
+business records or other documentation establishing that the three other Bank W debts 
+were in any way tied to the corporation. 
+ 
+ Bank W sued Corporation X, Applicant, and his wife. The parties entered into an 
+agreed judgment in November 2010. Corporation X and Applicant’s wife, jointly and 
+severally, were ordered to pay Bank W $282,526 and $4,584, plus $20,000 in attorney’s 
+fees. The case against Applicant was dismissed with prejudice. Applicant did not submit 
+any evidence establishing which Bank W debts were involved in the lawsuit. I note that 
+Corporation X’s petition listed a secured claim to Bank W for $272,966 and unsecured 
+claims to Bank W totaling $95,810. I will accept that the debt in SOR ¶ 1.f was included 
+in the lawsuit, and Applicant is no longer personally liable for that debt. I am unable to 
+do so for the remaining Bank W debts. I find that the debt in SOR ¶ 1.f has been 
+resolved, and AG ¶ 20(c) is applicable to that debt.  
+ 
+ Applicant stated that he believed the $6,859 Bank W/collection company debt 
+alleged in SOR ¶ 1.h was his son’s responsibility. He did not submit any supporting 
+documentation. 
+ 
+ Applicant stated that be believed the $322 delinquent debt to a telephone 
+company, as alleged in SOR ¶ 1.k, resulted from damage done by Corporation X to the 
+telephone company’s equipment. He stated that Corporation Y should have paid the 
+debt. He did not submit any business records from Corporation X, or any other 
+documentary evidence, to establish that this debt was Corporation X’s responsibility. 
+ 
+ Applicant admitted that he has not been paying his mortgage. It is unclear how 
+many payments, if any, he has made in the last year. He may have a legitimate dispute 
+with the mortgage company, and his attorney indicated that it is normal procedure to not 
+pay the mortgage until the dispute is resolved. However, the lawyer also indicated in 
+March 2011 that they were “fairly close to having the dispute resolved in a mutually 
+acceptable manner.” In the meantime, Applicant is not making any mortgage payments, 
+and his home apparently is in foreclosure. 
+ 
+ Applicant has known about the two medical debts since at least December 2008. 
+He has taken no action to pay or dispute those debts. 
+ 
+ Applicant stated that the $1,694 delinquent department store debt alleged in 
+SOR ¶ 1.g was his wife’s debt from before they married. It is listed on the credit reports 
+as a joint account that was opened in 1984, which was six years before Applicant 
+married his wife. The debt is listed on the most recent credit reports as charged off and 
+transferred, with a zero balance. There is no indication on Applicant’s credit reports of a 
+subsequent collection company handling the debt. I find that AG ¶ 20(e) is applicable to 
+this debt. It is not applicable to any other debts.  
+ 
+ In summary, Applicant has taken no real action to pay any of his debts. He may 
+have a legitimate and winning lawsuit against Corporation Y, or he may not. Applicant 
+ 
+11 
+ 
+did not submit sufficient information to convince me that his financial issues will be 
+resolved within a reasonable time. I find that Applicant’s finances are not yet under 
+control. His financial issues are recent and ongoing. I am unable to determine that they 
+are unlikely to recur. They continue to cast doubt on his current reliability, 
+trustworthiness, and good judgment. AG ¶¶ 20(a) and 20(d) are not applicable. AG ¶ 
+20(b) is partially applicable. AG ¶¶ 20(c) and 20(e) are not applicable, except as 
+discussed above. I find that financial concerns remain despite the presence of some 
+mitigation. 
+ 
+Guideline E, Personal Conduct  
+ 
+The security concern for personal conduct is set out in AG ¶ 15: 
+ 
+Conduct involving questionable judgment, lack of candor, dishonesty, or 
+unwillingness to comply with rules and regulations can raise questions 
+about an individual’s reliability, trustworthiness and ability to protect 
+classified information. Of special interest is any failure to provide truthful 
+and candid answers during the security clearance process or any other 
+failure to cooperate with the security clearance process. 
+ 
+ AG ¶ 16 describes conditions that could raise a security concern and may be 
+disqualifying. The following disqualifying condition is potentially applicable: 
+ 
+(a) deliberate omission, concealment, or falsification of relevant facts from 
+any personnel security questionnaire, personal history statement, or 
+similar form used to conduct investigations, determine employment 
+qualifications, award benefits or status, determine security clearance 
+eligibility or trustworthiness, or award fiduciary responsibilities. 
+ 
+ Applicant did not deliberately falsify his SF 86. AG ¶ 16(a) is not applicable. SOR 
+¶¶ 2.a and 2.b are concluded for Applicant. 
+ 
+Guideline J, Criminal Conduct  
+ 
+The security concern for criminal conduct is set out in AG ¶ 30: 
+ 
+Criminal activity creates doubt about an Applicant’s judgment, reliability, 
+and trustworthiness. By its very nature, it calls into question a person’s 
+ability or willingness to comply with laws, rules and regulations. 
+ 
+ AG ¶ 31 describes conditions that could raise a security concern and may be 
+disqualifying. The following are potentially applicable:  
+ 
+(a) a single serious crime or multiple lesser offenses; and 
+ 
+(c) allegation or admission of criminal conduct, regardless of whether the 
+person was formally charged, formally prosecuted or convicted.  
+ 
+12 
+ 
+Applicant’s DWI conviction is sufficient to raise the above disqualifying 
+conditions.  
+ 
+ SOR ¶ 3.a cross alleges the falsification of the Applicant’s SF 86 as a criminal 
+violation of 18 U.S.C. § 1001. Applicant did not intentionally falsify the SF 86, and he did 
+not violate 18 U.S.C. § 1001. SOR ¶ 3.a is concluded for Applicant. 
+ 
+Conditions that could mitigate criminal conduct security concerns are provided 
+under AG ¶ 32. The following are potentially applicable:  
+ 
+(a) so much time has elapsed since the criminal behavior happened, or it 
+happened under such unusual circumstances that it is unlikely to recur and 
+does not cast doubt on the individual’s reliability, trustworthiness, or good 
+judgment; and 
+ 
+(d) there is evidence of successful rehabilitation; including but not limited 
+to the passage of time without recurrence of criminal activity, remorse or 
+restitution, job training or higher education, good employment record, or 
+constructive community involvement. 
+ 
+ Applicant’s DWI arrest occurred in February 2007, more than four years ago. He 
+is appropriately remorseful for the conduct, and he has not been arrested or charged for 
+an offense since that date. I find there is evidence of successful rehabilitation, and 
+Applicant’s criminal behavior is unlikely to recur. AG ¶¶ 32(a) and (d) are applicable.  
+ 
+Whole-Person Concept 
+ 
+ Under the whole-person concept, the administrative judge must evaluate an 
+applicant’s eligibility for a security clearance by considering the totality of the applicant’s 
+conduct and all relevant circumstances. The administrative judge should consider the 
+nine adjudicative process factors listed at AG ¶ 2(a):  
+ 
+(1) the nature, extent, and seriousness of the conduct; (2) the 
+circumstances surrounding the conduct, to include knowledgeable 
+participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to 
+which participation is voluntary; (6) the presence or absence of 
+rehabilitation and other permanent behavioral changes; (7) the motivation 
+for the conduct; (8) the potential for pressure, coercion, exploitation, or 
+duress; and (9) the likelihood of continuation or recurrence. 
+ 
+Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a security 
+clearance must be an overall commonsense judgment based upon careful consideration 
+of the guidelines and the whole-person concept.     
+    
+ 
+13 
+ 
+I considered the potentially disqualifying and mitigating conditions in light of all 
+the facts and circumstances surrounding this case. I have incorporated my comments 
+under Guidelines F, E, and J in my whole-person analysis.  
+ 
+Applicant may win or settle his lawsuit and pay all his delinquent debts. That 
+could be years down the road, or it could never happen. Applicant has left me with 
+unanswered questions and unresolved concerns about his finances. Under AG ¶ 2(b), I 
+am required to resolve my doubt in favor of national security. 
+ 
+Overall, the record evidence leaves me with questions and doubts as to 
+Applicant’s eligibility and suitability for a security clearance. I conclude Applicant 
+rebutted personal conduct security concerns, and he mitigated criminal conduct 
+concerns, but he has not mitigated financial considerations security concerns.  
+ 
+Formal Findings 
+ 
+ Formal findings for or against Applicant on the allegations set forth in the SOR, 
+as required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+ 
+Paragraph 1, Guideline F:   AGAINST APPLICANT 
+ 
+Subparagraph 1.a:   For Applicant 
+Subparagraphs 1.b-1.d:  Against Applicant 
+Subparagraphs 1.e-1.g:  For Applicant 
+Subparagraphs 1.h-1.l:  Against Applicant 
+ 
+Paragraph 2, Guideline E:   FOR APPLICANT 
+ 
+  Subparagraphs 2.a-2.b:  For Applicant 
+ 
+Paragraph 3, Guideline J:   FOR APPLICANT 
+ 
+  Subparagraphs 3.a-3.b:  For Applicant 
+  
+Conclusion 
+ 
+ In light of all of the circumstances presented by the record in this case, it is not 
+clearly consistent with the national interest to grant Applicant eligibility for a security 
+clearance. Eligibility for access to classified information is denied. 
+ 
+ 
+ 
+________________________ 
+Edward W. Loughran 
+Administrative Judge 

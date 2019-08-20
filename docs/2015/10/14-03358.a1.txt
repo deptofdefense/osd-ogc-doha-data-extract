@@ -1,0 +1,188 @@
+KEYWORD: Guideline F
+DIGEST: Applicant has $180,000 in delinquent debt for past due taxes and for education loans,
+approximately $150,000 of which are owed to the Federal Government.  Even if Applicant’s
+plan for his state taxes were sufficient to resolve the concern arising from them, evidence that he
+has only recently made an offer for compromise to the IRS and is making $5 a month payments
+on a plan for the student loans is not sufficient to mitigate the security concerns.  The Judge’s
+decision runs contrary to the weight of the record evidence.  Favorable decision reversed.
+CASENO: 14-03358.a1
+DATE: 10/09/2015
+DATE: October 9, 2015
+In Re:
+---------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-03358
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Ryan C. Nerney, Esq.
+2
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+August 11, 2014, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.
+On July 8, 2015, after the hearing, Defense Office of Hearings and Appeals (DOHA) Administrative
+Judge Philip S. Howe granted Applicant’s request for a security clearance.  Department Counsel
+appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Department Counsel raised the following issue on appeal: whether the Judge’s favorable
+decision was unsupported by the weight of the record evidence.  Consistent with the following, we
+reverse the Judge’s decision.
+The Judge’s Finding of Fact
+Applicant operates a consulting business.  Starting in 2007, his company experienced a
+diminution in income due to the cancellation of several contracts.  Applicant owes over $53,000 in
+taxes  to the Internal Revenue Service (IRS) for tax years 2006 and 2007.  He filed his returns but
+did not pay due to illness and to his having paid off credit card debt instead.  Applicant attempted
+to set up an installment plan but was not able to maintain the payments.  Applicant also owes over
+$58,000 for tax year 2010.  He made an offer in compromise to the IRS for his delinquent taxes and,
+as of the close of the record, was awaiting a decision.
+Applicant owes over $6,000 in past due taxes to his state for tax year 2010 and $152 for tax
+year 2011.  He attempted to enter into an installment agreement, but the state required him to make
+a down payment of one-third of the total amount owed.  Subsequently his business improved, and
+he agreed to the payment terms.  This debt is being resolved.
+Applicant also owes his home county for real estate taxes of over $6,000 for tax year 2010
+and another $6,000 each for 2011 and 2012.  His mortgage lender has paid these taxes and has
+folded the amounts into the end term of is mortgage.
+Applicant owes nearly $5,000 to a lender for a student loan on behalf of his daughter.  He
+has been making monthly payments of $55 since April 2015.
+ Applicant also owes the U.S. Department of Education over $40,000 for past due
+repayments of education loans.  He has arranged a rehabilitation agreement with the Department,
+whereby he makes 10 monthly payments of $5, after which the amount owed increases.  
+Applicant has completed a financial counseling course.  His budget shows a net remainder
+of over $6,000 for the first quarter of 2015.  Applicant used credit cards extensively when his
+consulting income decreased.  He paid them off, resulting in his inability to pay his taxes.  He also
+had a kidney removed, which impaired his ability to work.  He does not currently have any credit
+3
+cards.
+The Judge’s Analysis
+In concluding that Applicant had mitigated concerns arising from his delinquent debts, the
+Judge cited to evidence of Applicant’s business downturn and medical problem, which he concluded
+were circumstances beyond Applicant’s control.  He also noted that Applicant’s property tax debts
+had been paid by his mortgage lender; that he had hired a tax consultant to submit an offer in
+compromise to the IRS; and that he has rehabilitation agreements with his student loan creditors.
+He also cited to evidence that Applicant had successfully disputed one of the education loans that
+appeared on his credit report.
+Discussion
+There is a strong presumption against the grant or maintenance of a security clearance.  See
+Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  The
+applicant bears the burden of mitigating the security concerns raised by admitted or proven facts
+alleged in the SOR  See Directive ¶ E3.1.15.  The standard “is that a clearance may be granted only
+when ‘clearly consistent with the interests of the national security.’” Department of the Navy v.
+Egan, 484 U.S. 518, 528 (1988).  “Any doubt concerning personnel being considered for access to
+classified information will be resolved in favor of the national security.”  Directive, Enclosure 2 ¶
+2(b). 
+In deciding whether the Judge's rulings or conclusions are erroneous, we will review the
+Judge's decision to determine whether:  it does not examine relevant evidence; it fails to articulate
+a satisfactory explanation for its conclusions, including a rational connection between the facts
+found and the choice made; it does not consider relevant factors; it reflects a clear error of judgment;
+it fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2, 2006).
+Department Counsel argues that the Judge’s application of the mitigating conditions was not
+supported by the weight of the record evidence.  In doing so, he cites to what he views as a relative
+paucity of evidence of debt repayment, given the extent of Applicant’s financial problems.
+We note first of all that Applicant’s security concerns arise from delinquent debts owed, for
+the most part, to various Federal, state, and local governmental entities.  These include income and
+property taxes as well as a significant debt to the Federal Government for student loans.  A security
+clearance represents an obligation to the Federal Government for the protection of national secrets.
+Accordingly failure to honor other obligations to the Government has a direct bearing on an
+1See Directive, Enclosure 2 ¶ 18 regarding the concern under Guideline F: “Failure or inability to live within
+one’s means, satisfy debts, and meet financial obligations may indicate poor self-control, lack of judgment, or
+unwillingness to abide by rules and regulations, all of which can raise questions about an individual’s reliability,
+trustworthiness and ability to protect classified information.”  
+2We note that the actual terms of this offer are not contained in the record.  Applicant testified that he had
+submitted the offer to the IRS, with a reply expected by the end of August 2015, nearly three months after the hearing.
+He also submitted a proof of retainer by the tax assistance attorney who prepared the offer.  As the record stands, the
+Judge was in no position to evaluate the facial reasonableness of the offer.  
+4
+applicant’s reliability, trustworthiness, and ability to protect classified information.1  As we noted
+in an earlier case
+A person who fails repeatedly to fulfill his or her legal obligations does not
+demonstrate the high degree of good judgment and reliability required of persons
+granted access to classified information . . . [We] have . . . noted that a person who
+has a history of not fulfilling their legal obligation to file income tax returns may be
+said not to have demonstrated the high degree of judgment and reliability required for
+access for classified information.  ISCR Case No. 98-0608 at 2 (App. Bd. Jun. 27,
+2000).  
+Although in the case before us Applicant filed his tax returns, his substantial debts to the Federal,
+state, and local governments raise questions of equivalent urgency about his eligibility for a
+clearance.  The Judge properly concluded that Applicant’s circumstances raised security concerns
+under Guideline F.
+Turning to the issue of mitigation, we find persuasive Department Counsel’s argument that
+the evidence that Applicant had supplied was not enough to meet his burden of persuasion under the
+Egan standard.  Department Counsel cites to evidence that, a few weeks before the hearing, Applicant
+submitted an offer in compromise to the IRS2 and that he had made nominal payments on his Federal
+education loan.  In addition, we note evidence that, on the day of the hearing, Applicant repaid a loan
+of $1,000 to a person who testified in his behalf as a character witness.  Tr. at 47.  While this
+evidence is relevant, the timing of these actions diminishes the weight to which they might otherwise
+have been entitled.  See, e.g., ISCR Case No. 14-00279 at 3 (App. Bd. Jan. 23, 2015) for the
+proposition that the timing of debt payment is a relevant factor in evaluating an applicant’s case for
+mitigation of Guideline F concerns.   The reason that timing is important is that an applicant who
+begins to resolve debts only after an SOR placed him on notice that his clearance was in jeopardy
+may lack the judgment and self discipline to follow rules and regulations over time or when there is
+no immediate threat to his own interests.      
+In addition, we note testimony that undercuts the Judge’s conclusion that Applicant’s debts
+necessarily arose from circumstances outside his control.  
+[Department Counsel]: Did you, in your company, have a . . . system in place to make
+sure that you were withholding the correct amount of money during the course of the
+3Directive, Enclosure 2 ¶ 20(b): “the conditions that resulted in the financial problem were largely beyond the
+person’s control . . . and the individual acted responsibly under the circumstances[.]”  
+4As the Judge found, the student loans were on behalf of Applicant’s children.  One of them is a surgical nurse
+at a hospital in a large U.S. city and another is employed in a professional position at the Defense contractor with which
+Applicant is seeking employment.  See the Judge’s comment to Applicant: “[Y]our ship is taking water, to use a nautical
+term.  And you need help.  I don’t know why they haven’t paid . . . But you’re telling me you just don’t think . . . that
+you should force your daughters to pay for their education.”  Tr. at 102.  Despite this line of questioning, the Judge did
+not address the reasonableness of Applicant’s having undertaken sole responsibility to repay these loans.  
+5
+year? 
+[Applicant]: We tried to do that.  Tr. at 82.  
+Department Counsel continued this line of questioning: “So the problem wasn’t that you didn’t earn
+enough; the problem was the you . . . weren’t keeping back enough money . . . to pay your taxes at
+the end of the year?”  Applicant did not respond directly to the question, testifying instead about his
+effort to pay off credit card debt and about his medical problem.  Tr. at 83.  At no point did Applicant
+clearly address the material issue of whether or not he had adequate withholding from his income
+and, if not, why not.  As it is, this colloquy should have been sufficient to raise a doubt in the Judge’s
+mind as to the extent to which Applicant’s own business decisions were a significant cause of his tax
+delinquencies, thereby impairing the Judge’s favorable application of Mitigating Condition 20(b).3
+ We also find persuasive Department Counsel’s argument that the evidence referenced above
+is not sufficient to demonstrate that Applicant has made a good-faith effort to pay his debts or that
+his financial problems are under control.  As Department Counsel notes, the mere presence of
+mitigating evidence “does not justify . . . making an overall favorable determination in the face of
+disqualifying conduct such as Applicant’s[.]” Appeal Brief at 8.  Especially in regard to his debts to
+the Federal Government, Applicant’s evidence in mitigation, at best, announces an intention to pay
+them off at some unspecified time in the future.  See ISCR Case No. 09-02926 at 2 (App. Bd. May
+11, 2014), which states that evidence of a plan to resolve delinquent debts in the future is not a
+substitute for a track record of paying debts in a timely manner and otherwise acting in a financially
+responsible manner.  
+To sum up, Applicant owes about $180,000 in delinquent debt for pasts due taxes and for
+education loans, approximately $150,000 of which are owed to the Federal Government.  Even if one
+concludes that Applicant’s payment plan for his state taxes is sufficient to resolve the concern arising
+from them,  evidence that he has only recently made an unspecified offer for compromise to the IRS
+and is making $5 a month payments on a rehabilitation plan for the student loans4 is not sufficient
+to mitigate the concerns that arise from his Federal debts.  The Judge’s decision runs contrary to the
+weight of the record evidence and is not sustainable.
+6
+Order
+The Decision is REVERSED.    
+Signed: Michael Ra’anan                
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett                 
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed; James E. Moody                  
+James E. Moody
+Administrative Judge
+Member, Appeal Board

@@ -1,0 +1,167 @@
+Consisting of the FORM, Items 1-11, and the Applicant’s response to the FORM.1
+DOHA acted under Executive Order 10865, Safeguarding Classified Information within Industry (February2
+20, 1960), as amended; Department of Defense (DoD) Directive 5220.6, Defense Industrial Personnel Security
+Clearance Review Program  (January 2, 1992), as amended (Directive); and the Adjudicative Guidelines (AG)
+effective within the DoD on 1 September 2006. 
+1
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+XXXXXXXXXX, Xxxxx Xxxxx )       ISCR Case No. 11–04305
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Gregg A. Cervi, Esquire, Department Counsel
+For Applicant: Pro se
+______________
+Decision
+______________
+METZ, John Grattan, Jr., Administrative Judge:
+Based on the record in this case,  I deny Applicant’s clearance.1
+On 14 February 2012, the Defense Office of Hearings and Appeals (DOHA) sent
+Applicant a Statement of Reasons (SOR) listing security concerns under Guideline F,
+Financial Considerations.  Applicant timely answered the SOR, requesting a decision2
+without hearing. The record in this case closed 5 July 2012, the day Department
+Counsel noted no objection to Applicant’s response to the Government’s File of
+Relevant Material (FORM). DOHA assigned the case to me 12 July 2012. 
+Tracing the journey of education loans through a credit report is complicated, particularly where an account3
+falls delinquent. The government guarantor disburses the loans to the educational institution. After a student
+graduates, the loans are deferred for six months, at which point the student must begin repayment unless the
+student is eligible for further deferment based on the kind of employment undertaken by the student, i.e.
+military service or teaching. After the deferment ends, the individual disbursements may be consolidated into
+one of more loans. The loans may also be assigned to a commercial lender for repayment. Tracing the loans
+is further exacerbated by several factors. The loan guarantor uses one set of account numbers when the loans
+are disbursed and when they are in deferred status. These account numbers are reported by one division of
+the loan guarantor to the three major credit reporting agencies, which themselves have their own shorthand
+for reporting the account numbers. W hen the deferment period ends, the loans are consolidated in another
+division of the loan guarantor, and given different numbers. So for example, the account numbers for the six
+deferred loan disbursements in GI 10 consisted of a 14-digit base and a 15  digit extension reflecting theth
+disbursement. W hen the accounts were consolidated in the other division of the loan guarantor, the six
+disbursements were consolidated to three accounts, each with the 14-digit base and a nine digit extension.
+One major credit agency reported all 23 digits. Another major agency reported only the 14-digit base and the
+first six digits of the extension. The agencies occasionally change their reporting formats, so by GI 9 and GI
+8, the agency that used the first six digits of the extension now only uses the first two digits. Nevertheless, by
+comparing account numbers and loan amounts, it is possible to trace the loan guarantor’s disbursements on
+the August 2010 credit report, through the December 2011 and May 2012 credit reports, to observe the
+growing debt on each loan.
+2
+Findings of Fact
+Applicant admitted the SOR financial allegations, except for SOR 1.a, 1.c, and
+1.d. He is a 29-year-old field technical specialist employed by a U.S. defense contractor
+since April 2010. He has not previously held an industrial clearance. He is unmarried
+and has no children. However, he supports his girlfriend and her child. He has not
+served in the military.
+ 
+The SOR alleges, and Government items (GI) 1-10 prove, nine delinquent debts
+totaling nearly $67,000. All but $1,900 of the debt is for delinquent education loans. 
+In 2004, Applicant began attending a technical college, from which he received
+an associate’s degree in March 2006. He attended college with government-insured
+education loans. Applicant’s August 2010 credit report (GI 10) and his December 2010
+credit report (GI 9) suggest that Applicant received loan disbursements in at least April
+2004 (2), December 2010 (2), and August 2005 (2), totaling just over $21,000.  It3
+appears that Applicant did not begin repaying his education loan as required when his
+deferment period ended in September 2006. By December 2011 (GI 9), the loan
+guarantor reported three delinquent consolidated accounts (SOR 1.e, 1.f, and 1.g)
+totaling nearly $34,000. By May 2012 (GI 8), the three debts had grown another $600.
+Meanwhile, on Applicant’s August 2010 credit report (GI 10), a commercial
+lender reported opening two deferred education loan accounts in September 2006,
+initially totaling just over $22,000. However, those two accounts used account numbers
+dramatically different from the loan guarantor. That lender consolidated the two
+That lender later transferred the loan to a second commercial lender (GI 8-9), who in turn transferred it to the4
+loan guarantor’s collection agent (SOR 1.c and 1.d). The collection agent separated the loan back to its
+constituent accounts, using an account number that corresponds to the two earlier holders of the loans.
+The collection agent uses account numbers that are completely different from any of the other account5
+numbers used to identify the education loans in the credit reports. However, the asserted balances are close
+enough to the balances reported on GI 8 to conclude that the collection agent is pursuing the two loans
+previously held by the commercial lenders.
+3
+accounts into one account later reported delinquent with a balance over $25,000.  By4
+December 2011 (GI 9), the loan had been transferred first to another commercial
+lender, then on to a collection agent for government loans, which reported returning a
+delinquent balance totaling over $31,000 (SOR 1.c. and 1.d) to the government.
+Applicant’s Answer documented a January 2012 offer from a different collection agent
+to enter two delinquent loans totaling just under $31,000 into a loan rehabilitation
+program, conditioned on making nine consecutive and timely payments of $245.5
+Applicant entered the loan rehabilitation program in late January 2012. Applicant
+rehabilitated the two loans in early April 2012. Applicant was to begin regular monthly
+payments, but has not documented any loan payments since the loans were
+rehabilitated.
+Applicant worked a part-time, minimum wage job while he was in school.
+However, in August 2005, he obtained a job based on his soon-to-be-earned
+associate’s degree. Applicant attributes his financial problems to his drop in income
+when that job ended in June 2009, and the underemployment that followed between
+June 2009 and April 2010, when he obtained his current job. However, the credit reports
+suggest that the education loans were delinquent in 2006.
+Applicant has not sought credit or financial counseling. He presented no
+personal financial statement or budget. He presented no work or character references.
+Policies
+The adjudicative guidelines (AG) list factors for evaluating a person’s suitability
+for access to classified information. Administrative judges must assess disqualifying and
+mitigating conditions under each issue fairly raised by the facts and situation presented.
+Each decision must also reflect a fair, impartial, and commonsense consideration of the
+factors listed in AG ¶ 2(a). Any one disqualifying or mitigating condition is not, by itself,
+conclusive. However, specific adjudicative guidelines should be followed where a case
+can be measured against them, as they represent policy guidance governing access to
+classified information. Considering the SOR allegations and the evidence as a whole,
+the relevant adjudicative guideline is Guideline F (Financial Considerations).
+Security clearance decisions resolve whether it is clearly consistent with the
+national interest to grant or continue an applicant’s security clearance. The Government
+must prove, by substantial evidence, controverted facts alleged in the SOR. If it does,
+the burden shifts to applicant to refute, extenuate, or mitigate the Government’s case.
+See, Department of the Navy v. Egan, 484 U.S. 518 (1988).6
+¶19 (a) inability or unwillingness to satisfy debts; (c) a history of not meeting financial obligations;7
+¶20 (a) the behavior happened so long ago, was so infrequent, or occurred under such circumstances that8
+it is  unlikely to recur . . . 
+¶20 (b) the conditions that resulted in the financial problem were largely beyond the person’s control . . . and9
+the individual acted responsibly under the circumstances;
+¶20 (c) the person has received or is receiving counseling for the problem and there are clear indications10
+that the problem is being resolved or is under control;
+4
+Because no one has a right to a security clearance, the applicant bears a heavy burden
+of persuasion.
+Persons with access to classified information enter into a fiduciary relationship
+with the Government based on trust and confidence. Therefore, the Government has a
+compelling interest in ensuring each applicant possesses the requisite judgement,
+reliability, and trustworthiness of those who must protect national interests as their own.
+The “clearly consistent with the national interest” standard compels resolution of any
+reasonable doubt about an applicant’s suitability for access in favor of the Government.6
+Analysis
+The Government established a case for disqualification under Guideline F, and
+Applicant did not mitigate the security concerns. Applicant has an extensive history of
+financial difficulties, which are ongoing, and seem unlikely to be resolved any time
+soon.  At the outset, I should note that the education loans at SOR 1.c and 1.d and the7
+loans at SOR 1.e-1.f may be the same education loans. I conclude that they are not for
+several reasons. First, Applicant reports having contacted the collection agent for SOR
+1.e-1.g, and that is a different collection than the collection agent for SOR 1.c-1.d.
+Second, neither the account numbers or the loan balances correspond enough to
+conclude that the loans are the same. Finally, Applicant has the burden to show that the
+loans are the same, and he has produced no evidence to that effect.
+Applicant meets few of the mitigating factors for financial considerations. His
+financial difficulties are both recent and multiple, and the immediate causes of his
+problems can recur.  His underemployment is a circumstance beyond his control, but it8
+appears that the loans were in default before his employment situation changed.
+Further, he has not demonstrated that he dealt responsibly with his debts during his
+underemployment or after regaining full employment.  Applicant has received no9
+financial or credit counseling, and has presented no budget.  Even if I concluded that10
+SOR debts 1.e-1.g are duplicates of SOR debts 1.c-1.d, and that Applicant was
+currently making regular payments on his rehabilitated loans, there are unresolved
+debts that Applicant will apparently not be a position to address for several years. This
+¶20 (d) the individual initiated a good-faith effort to repay overdue creditors or otherwise resolve debts.11
+5
+is not a timely, good-faith effort.  I conclude Guideline F against Applicant. A “whole-11
+person” analysis requires no other result.
+Formal Findings
+Paragraph 1. Guideline F: AGAINST APPLICANT
+Subparagraphs a-h: Against Applicant
+Conclusion
+Under the circumstances presented by the record in this case, it is not clearly
+consistent with the national interest to grant or continue a security clearance for
+Applicant. Clearance denied.
+                                              
+                                             
+JOHN GRATTAN METZ, JR
+Administrative Judge

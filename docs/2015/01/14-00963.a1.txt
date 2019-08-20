@@ -1,0 +1,136 @@
+KEYWORD: Guideline K; Guideline M
+DIGEST: The Judge’s resolution of evidentiary conflicts and his findings of fact are sustainable. 
+An ability to argue for an alternative interpretation of the evidence is not enough to show that the
+Judge weighed the evidence in a manner that was arbitrary, capricious, or contrary to law. 
+Adverse decision affirmed.
+CASE NO: 14-00963.a1
+DATE: 01/13/2015
+DATE: January 13, 2015
+In Re:
+----------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-00963
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+April 28, 2014, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision—security concerns raised under Guideline K (Handling Protected Information), and
+Guideline M (Use of Information Technology Systems) of Department of Defense Directive 5220.6
+(Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On October 10, 2014, after
+the hearing, Defense Office of Hearings and Appeals (DOHA) Administrative Judge James F. Duffy
+denied Applicant’s request for a security clearance.  Applicant appealed, pursuant to the Directive
+¶¶ E3.1.28 and E3.1.30.  
+2
+Applicant raises the following issue on appeal:  whether the Judge’s decision is arbitrary,
+capricious, or contrary to law.  For the following reasons, the Board affirms the Judge’s unfavorable
+security clearance decision. 
+The Judge made the following findings:  Applicant is 52 years old.  From 1982 to 2011 he
+worked as a drafter for Company A.  Throughout the years, he signed nondisclosure agreements and
+knew he was obligated to protect the company’s proprietary information.  While working at
+Company A, Applicant would routinely backup computer data to a Company A external hard drive.
+Late in 2011, Applicant decided to leave Company A and to begin employment with Company B,
+a competitor.  In the weeks and days before resigning from Company A, Applicant transferred or
+copied all the projects that he worked on for his own personal reference.  A lot of backups occurred
+on the afternoon of his departure.  Applicant also copied data from a Company A computer onto his
+personal thumb drive, which he then uploaded at Company B for use at Company B.  He did not
+have authority to do this.
+Applicant’s statements about what happened to the Company A external hard drive after he
+left Company A are inconsistent.  In an OPM interview, Applicant indicated that he used a checklist
+when departing Company A and turned in all of Company A’s property except the external hard
+drive because it had been packed away in the boxes used for his personal items.  He also indicated
+in the interview that he told the Company A human resources supervisor that he would return the
+external hard drive when he found it after going through the boxes.  According to Applicant’s initial
+hearing testimony the hard drive had been inadvertently placed in one of the boxes or his briefcase.
+He then testified that he learned he had the external drive when he saw it in his garage on either the
+night he left Company A or the next day.  He testified that he procrastinated in reporting to the head
+of human resources of Company A that he had found the external hard drive in his garage.  In
+subsequent testimony, Applicant indicated that he realized he had the external drive “within a week
+or a month” later while he was at Company B.  The hard drive was eventually seized by the FBI
+while it was in Applicant’s possession at Company B.  
+About a month after leaving Company A, Applicant ran into an employee of Company A
+and, based on their conversation, Applicant assumed an inquiry was being conducted that involved
+him.  Subsequent to the conversation, Applicant reported to the head of human resources at
+Company A that he had the external hard drive. Two days later, Applicant was contacted by agents
+from the FBI.  The external hard drive was then seized by the FBI while it was in Applicant’s
+possession at Company B.
+Applicant stated that he had no bad intentions when copying files and he did not transfer the
+files to take away any of Company A’s property or business.  Applicant is not a credible witness.
+The Judge reached the following conclusions: Sufficient circumstantial evidence exists to
+establish that Applicant took the external hard drive from Company A without permission.  His
+actions in backing up “a bunch of stuff” to the external hard drive on the afternoon of the day he was
+leaving Company A is suspicious.  Sufficient circumstantial evidence exists to conclude that
+Applicant’s conversation with the Company A employee is what prompted him to report to the head
+3
+of human resources that he had the external hard drive. Applicant’s testimony is entitled to little
+weight given the inconsistencies contained therein and elsewhere.  Furthermore, Applicant’s
+testimony regarding the personal thumb drive establishes that he had the intent to take property from
+Company A without its knowledge or authorization.  When the above pieces are put together, the
+picture becomes clear that Applicant intentionally took the external hard drive from Company A.
+Applicant had no authority to take Company A proprietary data or official government
+information on the external hard drive and store that information at Company B.  Applicant knew
+that he should not have taken sensitive data from Company A to Company B, but he intentionally
+did so.  Applicant’s conduct is recent and casts doubt on his reliability, trustworthiness, and good
+judgment.  No evidence of counseling or remedial security training was offered.  None of the
+mitigating conditions under either Guideline K or Guideline M apply.  His actions were a breach of
+trust.  The record establishes unmitigated questions and doubts about Applicant’s suitability for a
+security clearance.
+Applicant asserts on appeal that he attempted to return the Company A hard drive before
+anyone told him that the FBI was looking into his activities.  The Board construes this as a challenge
+to the Judge’s finding of fact that Applicant took steps to notify Company A about his possession
+of the hard drive and to arrange its return after learning from a Company A employee that the matter
+was being investigated.  The Judge was required in this case to resolve conflicts in the evidence and
+to make findings based on circumstantial evidence.  After a review of the record and the Judge’s
+decision, the Board concludes that the Judge’s evaluation of the evidence and his finding are
+sustainable.
+Applicant states that he made a slight error in judgment, and that he now realizes his error.
+He argues that Company A turned him in as a result of his role as a whistleblower, and he cites to
+transgressions that the company was engaged in and was attempting to cover up.  He states that he
+is worthy of his security clearance and is deserving of a second chance.  Applicant’s assertions do
+not establish error on the part of the Judge
+The Board finds no reason to believe that the Judge did not properly weigh the evidence or
+that he failed to consider all the evidence of record.  See, e.g., ISCR Case No. 11-06622 at 4 (App.
+Bd. Jul. 2, 2012).  We have considered the totality of Applicant’s arguments on appeal and find no
+error in the Judge’s ultimate conclusions regarding mitigation.  As the trier of fact, the Judge has to
+weigh the evidence as a whole and decide whether the favorable evidence outweighs the unfavorable
+evidence, or vice versa.  See, e.g., ISCR Case No. 06-10320 at 2 (App. Bd. Nov. 7, 2007).  A party’s
+disagreement with the Judge’s weighing of the evidence, or an ability to argue for a different
+interpretation of the evidence, is not sufficient to demonstrate the Judge weighed the evidence or
+reached conclusions in a manner that is arbitrary, capricious, or contrary to law.  See, e.g., ISCR
+Case No. 06-17409 at 3 (App. Bd. Oct. 12, 2007).  
+The Board does not review a case de novo.  The favorable evidence cited by Applicant is not
+sufficient to demonstrate the Judge’s decision is arbitrary, capricious, or contrary to law.  See, e.g.,
+ISCR Case No. 06-11172 at 3 (App. Bd. Sep. 4, 2007).  After reviewing the record, the Board
+4
+concludes that the Judge examined the relevant data and articulated a satisfactory explanation for
+the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983) (quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  Therefore,
+the Judge’s ultimate unfavorable security clearance decision is sustainable.
+Order
+The decision of the Judge is AFFIRMED.
+Signed: Michael Ra’anan           
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett           
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody           
+James E. Moody
+Administrative Judge
+Member, Appeal Board

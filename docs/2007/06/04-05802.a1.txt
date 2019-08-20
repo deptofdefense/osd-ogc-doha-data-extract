@@ -1,0 +1,234 @@
+KEYWORD: Guideline K
+DIGEST: Given the record that was before him the Judge articulated a rational explanation for
+his favorable decision.  Favorable decision affirmed.
+CASENO: 04-05802.a1
+DATE: 06/13/2007
+DATE: June 13, 2007
+In Re:
+------------
+SSN: ------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 04-05802
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Julie R. Edmunds, Esq., Department Counsel
+FOR APPLICANT
+Pro Se
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On July 13, 2005, DOHA issued a statement of reasons advising Applicant of the basis
+for that decision–security concerns raised under Guideline K (Security Violations) of Department
+of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.
+On August 22, 2006, after the hearing, Administrative Judge Philip S. Howe granted Applicant’s
+2
+request for a security clearance.  Department Counsel filed a timely appeal pursuant to Directive ¶¶
+E3.1.28 and E3.1.30. 
+Department Counsel raises the following issue on appeal: whether the Judge’s conclusion
+that Applicant had mitigated the Guideline K security concerns was based upon a piecemeal analysis
+and was arbitrary, capricious, and contrary to law.  We affirm the decision of the Judge.
+Whether the Record Supports the Judge’s Factual Findings
+A.  Facts
+The Judge made the following findings of fact: Applicant is a computer technician for a
+defense contractor and has held a security clearance since 1990.  His duties include “being custodian
+of the computer resource lab closed area (CRL), information security officer (ISSO) of a classified
+computer network in the CRL, and a backup systems administrator for various computer systems his
+employer owned and operated.  He acquired these duties over time as other personnel departed the
+company and replacements were not hired.  Applicant worked in the CRL four to eight hours daily,
+often up to 10 hours daily when the workload was heavy.  He would enter and exist this secured area
+several times daily in the course of his duties.” 
+“Applicant committed seven security violations between 1997 and 2005 during the course
+of his official duties for his employer.  Each violation was investigated by his employer.  Applicant
+was retrained on security protocols after each violation.  Applicant also made procedural changes
+in his routine to prevent repeats of the individual violation types after each incident.  No compromise
+of classified material occurred as a result of any of Applicant’s actions because the violations
+occurred in a secured and limited access area within the employer’s facility, and the facility has
+‘security in depth’ procedures.  As of February 2006 his company has reduced his workload by
+removing and reassigning Applicant’s former additional duties as main custodian for the CRL and
+ISSO.  The company’s chief security officer is confident that with these changes the possibility of
+future security violations are substantially eliminated.”  (Citations omitted)
+Applicant’s security violations included four incidents of failing to log off a classified
+computer system; a failure to engage the combination lock on the CRL door and to sign the log sheet
+upon departure; a failure properly to secure a computer disc classified at the secret level; and a
+failure to secure a secret tape in the CRL server room.  His last incident consisted of a failure to log
+off the computer system.  Applicant’s employer placed a sign prominently within the CRL asking,
+“Did you log off?”  Applicant has placed a chain across his cubicle entrance as a reminder, and he
+triple checks his computers.  Furthermore, a guard is now called when the CRL is closed after the
+last person departs.
+The Judge noted that Applicant’s security officials “regard him as a conscientious employee
+who takes his security responsibilities seriously.”  In his Conclusions section, the Judge stated,
+“Applicant is a very credible and honest witness whose explanations of the various situations were
+direct and persuasive.”    
+    
+B.  Discussion
+3
+The Appeal Board’s review of the Judge’s findings of facts is limited to determining if they
+are supported by substantial evidence–such relevant evidence as a reasonable mind might accept as
+adequate to support such a conclusion in light of all the contrary evidence in the record.”  Directive
+¶  E3.1.32.1.  “This is something less than the weight of the evidence, and the possibility of drawing
+two inconsistent conclusions from the evidence does not prevent an administrative agency’s findings
+from being supported by substantial evidence.”  Consolo v. Federal Maritime Comm’n, 383 U.S.
+607, 620-21 (1966).  In evaluating the Judge’s findings, we are required to give deference to the
+Judge’s credibility determinations.  Directive  ¶  E3.1.32.1. 
+Department Counsel has not challenged the Judge’s findings.  Therefore, they are not at issue
+in this case. 
+Whether the Record Supports the Judge’s Ultimate Conclusions
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choices made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. V. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528 (1988). The Appeal
+Board may reverse the Judge’s decision to grant, deny, or revoke a security clearance if it is arbitrary,
+capricious, or contrary to law.  Directive  ¶¶  E3.1.32.3 and E3.1.33.3.  
+In deciding whether the Judge's rulings or conclusions are arbitrary or capricious, the Board
+will review the Judge's decision to determine whether:  it does not examine relevant evidence; it fails
+to articulate a satisfactory explanation for its conclusions, including a rational connection between
+the facts found and the choice made; it does not consider relevant factors; it reflects a clear error of
+judgment; it fails to consider an important aspect of the case; it offers an explanation for the decision
+that runs contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere
+difference of opinion. In deciding whether the Judge's rulings or conclusions are contrary to law, the
+Board will consider whether they are contrary to provisions of Executive Order 10865, the Directive,
+or other applicable federal law.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2, 2006).
+Because  the Department Counsel did not challenge the Judge’s factual findings, they are
+binding upon the Board in our analysis of the issue on appeal.  See ISCR Case No. 04-11369 at 2
+(App. Bd. Mar. 16, 2007) (“The Board may consider whether a Judge’s factual findings are based
+upon substantial evidence, presuming that issue is raised.  Failing that, we rely on the findings as set
+forth in the decision”).  See also ISCR Case No. 03-11765 at 3 (App. Bd. Apr. 11, 2005).  The issue
+before us is not whether we ourselves would have granted Applicant a clearance, since we do not
+review cases de novo.  Rather, it is whether, in light of the Judge’s unchallenged findings, his
+decision is sustainable.
+  We acknowledge that there is much in the Judge’s findings that would have supported the
+opposite decision, primarily the fact that Applicant committed seven security violations, not an
+inconsiderable number.  However, we also take note of the Judge’s findings concerning the impact
+that Applicant’s workload had upon his mistakes; the inadvertent nature of the violations; the
+employer’s decision to assign some of Applicant’s responsibilities to others; the employer’s belief
+Regarding  Department Counsel’s argument that the Judge addressed the case in a piecemeal fashion, we1
+conclude that the Judge’s whole person analysis complies with the requirements of Directive  ¶  E2.2.1, in that the Judge
+considered the totality of Applicant’s conduct in reaching his decision.  See ISCR Case No. 04-09959 at 6 (App. Bd. May
+19, 2006). 
+4
+that these changes will eliminate the possibility of future violations; and steps Applicant has taken
+to ensure his compliance with security procedures.  We also note the Judge’s evaluation of Applicant
+as a believable and honest witness in his own behalf.  See Directive ¶ E3.1.32.1 (“[T]he Appeal
+Board shall give deference to the credibility determinations of the Administrative Judge.”); see also
+ISCR Case No. 01-14740 at 9 (App. Bd. Jan. 15, 2003).  In light of this, we conclude that, given the
+record before him, the Judge has articulated a rational explanation for his favorable decision.  An
+appealing party’s disagreement with a Judge’s decision is not a sufficient basis to establish that he
+erred.  See, e. g., ISCR Case No. 01-05912 (App. Bd. Aug. 29, 2001).    The Board concludes that1
+the Judge’s favorable security clearance decision is not arbitrary, capricious, or contrary to law, given
+the totality of facts and circumstances in this case.  See Directive ¶ E3.1.32.3.
+Order
+The Judge’s decision granting Applicant a clearance is AFFIRMED.
+See Dissenting Opinion           
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: Jean E. Smallin          
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody           
+James E Moody
+Administrative Judge
+Member, Appeal Board
+DISSENTING OPINION OF JUDGE JEFFREY D. BILLETT
+The Administrative Judge’s favorable security decision should be reversed.  While I do not
+subscribe to Department Counsel’s theory that the Judge engaged in a piecemeal analysis of the case,
+I do think that the Judge erred when he analyzed the evidence in mitigation outside the context of
+the considerable amount of evidence that forms the basis for the government’s security concerns.
+5
+I  agree fully with Department Counsel’s larger point that the Judge’s conclusion that Applicant’s
+security violations have been mitigated cannot be sustained.
+Applicant committed seven security violations at his workplace over an eight year period
+between 1997 and 2005.  Additionally, in 2005 Applicant was responsible for a breach of physical
+security involving alarms at his workplace that was later determined not to be a security violation
+under the terms of the NISPOM.  After each security violation, Applicant was “re-briefed” and steps
+were taken to ensure he understood his security responsibilities.  However, repeated remedial actions
+did not prevent the commission of multiple additional violations.  During the period that the
+violations took place, Applicant was the Information Systems Security Officer and the Custodian of
+the Computer Resource Lab, positions that required him to spend considerable time maintaining
+security.  In February 2006, the same month as the hearing in this case, Applicant was relieved of
+his duties as the Information Systems Security Officer and Custodian of the Computer Resource Lab.
+Security violations are one of the strongest possible reasons for denying or revoking access
+to classified information, as they raise very serious questions about an applicant’s suitability for
+access to classified information. ISCR Case No. 97-0435 at 3-4 (App. Bd. July 14, 1998).  Once it
+is established that Applicant has committed a security violation, he has “a very heavy burden of
+demonstrating that [he] should be entrusted with classified information.  Because security violations
+strike at the very heart of the industrial security program, an Administrative Judge must give any
+claims of reform and rehabilitation strict scrutiny.”  ISCR Case No. 00-0030 at 7 (App. Bd. Sept. 20,
+2001).  In many security clearance cases, applicants are denied a clearance for having an indicator
+of risk that they might commit a security violation in the future (e.g., alcohol abuse, drug use, or
+delinquent debts).  In this case, there is more than the presence of an indicator.  The Judge found
+Applicant repeatedly disregarded in-place security procedures in violation of the NISPOM.  The
+frequency and duration of Applicant’s security violations are aggravating factors.  ISCR Case No.
+97-0435 at  5 (App. Bd. July 14, 1998.)
+Given these standards and the totality of the record evidence in the case, the matters in
+mitigation cited by the Judge are insufficient to sustain his overall favorable security clearance
+determination.  The Judge makes much of the fact that Applicant’s security violations were not
+deliberate but were due to oversight and were unintentional.  However, the Board has held that
+security violations are a serious matter, whether they are the result of deliberate or negligent conduct.
+The United States has a compelling interest in protecting classified information from disclosure to
+unauthorized persons, regardless of whether such disclosure is the result of deliberate or negligent
+conduct.  ISCR Case No. 00-0030 at 6 (App. Bd. Sept. 20, 2001).  In a case like this one, where there
+are numerous violations, the fact the violations were inadvertent or the result of oversight is of
+limited value in mitigation.
+In his “Conclusions” section when discussing matters in mitigation, the Judge also mentions
+that there was never a compromise of classified information and all of Applicant’s violations
+occurred within a secure area.  To consider the lack of compromise a matter in mitigation was clear
+error.  The negative security implications of Applicant’s history of security violations are not reduced
+or diminished by the fact that no compromise of classified information occurred.  See, e.g., DISCR
+Case No. 89-1397 at 7 (App. Bd. Sept. 25, 1997)(“The absence of any compromise of classified
+information may be a fortunate circumstance, but it does not diminish the seriousness of Applicant’s
+multiple security violations over a period of years.”); DISCR Case No. 88-2773 at 7 (App. Bd. Jan.
+6
+30, 1990)(“Applicant’s pattern of negligent or careless security violations is not rendered any less
+serious or problematic by the purely fortuitous circumstance that none of them resulted in a
+compromise of national security”).       
+The Judge found that in February 2006 Applicant’s company reduced his workload by
+removing his previous responsibilities for maintaining security in the hopes of substantially
+eliminating the possibility of future security violations.  The Judge cited this change as a matter in
+mitigation.  However, the change occurred, at most, two or three weeks prior to the hearing in the
+case.  The lack of ability to evaluate whether the change has had the salutary results Applicant’s
+superiors were hoping for significantly undercuts the mitigating effect of this evidence.  
+The Judge cited as another factor in mitigation the fact that Applicant displays a positive
+attitude toward his security responsibilities by various remedial actions he instituted himself to
+prevent security violations, including his “rebriefs” on security.  However, as pointed out by
+Department Counsel, on at least one occasion a remedial measure instituted and undertaken by
+Applicant failed to prevent a subsequent security violation.  Numerous “rebriefs” undergone by
+Applicant also failed to forestall subsequent violations.  Omitting these facts in an analysis of
+Applicant’s display of a positive security attitude reduces the analysis to an assessment of mere good
+intentions.  By ignoring Applicant’s unsuccessful attempts at reform and rehabilitation, the Judge
+has not employed the strict scrutiny required when evaluating claims of reform and rehabilitation in
+security violation cases.  Moreover, by not reviewing evidence of reform and rehabilitation in light
+of Applicant’s subsequent violations after reforms and rehabilitation were instituted, the Judge erred
+by not considering an important aspect of the case.    
+The Judge gave considerable weight to the assessment of Applicant’s superiors and his
+security managers regarding Applicant’s conscientiousness and high integrity.  The Judge also gave
+weight to the fact that Applicant was a very credible and honest witness “whose explanations of the
+various situations were direct and persuasive.”  The willingness of Applicant’s superiors to vouch
+for his trustworthiness and integrity must be considered in light of Applicant’s long history of
+security violations.  See, e.g., ISCR Case No. 99-0109 at 5 (App. Bd. Mar. 1, 2000).  Applicant’s
+personal trustworthiness and credibility has not prevented him from committing many security
+violations over a period of years.  The Judge’s failure to address this issue and his failure to evaluate
+this evidence in the context of the totality of the record evidence is error. 
+Given the totality of the record evidence, and given the high mitigation burden necessary to
+overcome seven prior security violations, the Administrative Judge’s findings of mitigation and
+reform and rehabilitation sufficient to overcome the negative implications of Applicant’s long history
+of security violations are not sustainable.  Directive, Additional Procedural Guidance, Item 32.a. See
+Lauvik v. INS, 910 F.2d 658, 660 (9th Cir. 1990)(“there is some point at which the evidence, though
+it exists, becomes so slight and so thoroughly outweighed by contrary evidence, that it would be an
+abuse of discretion to base a decision upon it.”)(cited in DISCR Case No. 92-0404 at 3 (App. Bd.
+May 25, 1993)).  I would reverse the Judge’s favorable security clearance decision.  
+Signed: Jeffrey D. Billett            
+Jeffrey D. Billett
+7
+Administrative Judge
+Member, Appeal Board

@@ -1,0 +1,159 @@
+Consisting of the FORM, Items 1-14.1
+DOHA acted under Executive Order 10865, Safeguarding Classified Information within Industry (February2
+20, 1960), as amended; Department of Defense (DoD) Directive 5220.6, Defense Industrial Personnel Security
+Clearance Review Program  (January 2, 1992), as amended (Directive), and the Adjudicative Guidelines (AG)
+effective within the DoD on 1 September 2006.
+1
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+   )       ISCR Case No. 09-06782
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Alison O’Connell, Esquire, Department Counsel
+For Applicant: Pro se
+______________
+Decision
+______________
+METZ, John Grattan, Jr., Administrative Judge:
+Based on the record in this case,  Applicant’s clearance is denied.1
+On 15 June 2010, the Defense Office of Hearings and Appeals (DOHA) sent
+Applicant a Statement of Reasons (SOR) listing security concerns under Guidelines F,
+Financial Considerations, and E, Personal Conduct.  Applicant timely answered the2
+SOR, and requested a decision without hearing. DOHA assigned the case to me 14
+June 2011. The record in this case closed 21 April 2011, the day Applicant’s response
+to the government’s File of Relevant Material (FORM) was due. Applicant submitted no
+response to the FORM.
+W hich Applicant incorrectly estimated as July 2004 on his application.3
+2
+Findings of Fact
+Applicant admitted the SOR financial allegations, except for SOR 1.c (a $2,100
+judgment), SOR 1.g (a $372 collection account he claimed he paid), SOR 1.k (a
+$14,000 automobile repossession), and SOR 1.q (a $919 collection account). He denies
+the falsification allegations of SOR 2.a, claiming that omission of his adverse financial
+information was an oversight. He is a 44-year-old system administrator employed by a
+U.S. defense contractor since February 2009. He had a clearance in 1985, but has not
+previously held an industrial clearance.
+Applicant has an extensive history of financial problems dating back to October
+1989, when he first filed for chapter 13 bankruptcy protection. The petition was later
+converted to a chapter 7 bankruptcy petition and he was discharged of his
+dischargeable debt in May 1991 (Item 11, 12). In October 2004, he again filed for
+chapter 13 bankruptcy protection, but his petition was dismissed without confirmation of
+a payment plan in May 2005 (Item 11, 13). He refiled his chapter 13 bankruptcy petition
+in July 2005, but it was again dismissed without confirmation of a payment plan in
+October 2005 (Item 11, 14).
+ 
+In addition to the latter two bankruptcy filings, the SOR alleges, and Government
+exhibits (Item 7, 8, 9) substantiate, 17 delinquent accounts totaling over $28,000.
+Applicant admits 14 debts totaling nearly $12,000. The debts consist of 13 collection
+accounts, an automobile repossession, one judgment, charged-off education loans, and
+past-due education loans. Applicant claims, without corroboration, to have paid six small
+debts totaling $460. However, only one of these (SOR 1.g) is among the debts he
+denied owing.
+Applicant acknowledges the majority of his delinquent accounts, but during an
+August 2009 interview with a Government investigator, either disputed the debts or
+otherwise claimed to not recognize them. He also failed to corroborate the basis of any
+of his claimed disputes or any efforts he had made to resolve the debts with the
+creditors. Applicant has not stated any clear reasons for his financial problems. His
+November 2009 personal financial statement (Item 6) showed positive monthly cash
+flow of $1,400. However, he was making no payments on the debts alleged in the SOR.
+On Applicant’s March 2009 clearance application (Item 5), Applicant answered
+“no” to 15 questions (§26 b.-p) asking him to report any history of financial problems. In
+fact, Applicant had an automobile repossession (§26 b.), one unpaid judgment against
+him (§26e), 13 collection accounts (§26g), one charged-off account (§26h), and many
+accounts that had been 180-days past due or were currently 90-days past due (§26m
+and n). Applicant truthfully disclosed a chapter 13 bankruptcy filing (§26 a.) in July 2005
+(SOR 1.b),  but falsely stated that “[a]ll debts were satisfied under bankruptcy and all3
+has been paid off.” In fact, the petition was dismissed in October 2005 (Item 14) without
+confirmation of a payment plan. In addition, during an interview with a Government
+See, Department of the Navy v. Egan, 484 U.S. 518 (1988).4
+¶19 (a) inability or unwillingness to satisfy debts; (c) a history of not meeting financial obligations;5
+3
+investigator in August 2009 (Item 6), he falsely claimed to have made payments from
+October 2004 to February 2005 and received a discharge of his debts, and to have
+made payments on a second chapter 13 petition (which he placed in 2007) until April
+2009 and received a discharge on those debts.
+Policies
+The adjudicative guidelines (AG) list factors for evaluating a person’s suitability
+for access to classified information. Administrative judges must assess disqualifying and
+mitigating conditions under each issue fairly raised by the facts and situation presented.
+Each decision must also reflect a fair, impartial, and commonsense consideration of the
+factors listed in AG ¶ 2(a). Any one disqualifying or mitigating condition is not, by itself,
+conclusive. However, specific adjudicative guidelines should be followed where a case
+can be measured against them, as they represent policy guidance governing access to
+classified information. Considering the SOR allegations and the evidence as a whole,
+the relevant adjudicative guidelines are Guideline F (Financial Considerations) and
+Guideline E (Personal Conduct).
+Security clearance decisions resolve whether it is clearly consistent with the
+national interest to grant or continue an applicant’s security clearance. The Government
+must prove, by substantial evidence, controverted facts alleged in the SOR. If it does,
+the burden shifts to applicant to refute, extenuate, or mitigate the Government’s case.
+Because no one has a right to a security clearance, the applicant bears a heavy burden
+of persuasion.
+Persons with access to classified information enter into a fiduciary relationship
+with the Government based on trust and confidence. Therefore, the Government has a
+compelling interest in ensuring each applicant possesses the requisite judgement,
+reliability, and trustworthiness of those who must protect national interests as their own.
+The “clearly consistent with the national interest” standard compels resolution of any
+reasonable doubt about an applicant’s suitability for access in favor of the Government.4
+Analysis
+The government established a case for disqualification under Guideline F, and
+Applicant did not mitigate the security concerns. Applicant has an extensive history of
+financial difficulties, which are ongoing.  Further, he has taken no documented action to5
+address his debts.
+¶20 (a) the behavior happened so long ago, was so infrequent, or occurred under such circumstances that6
+it is  unlikely to recur . . . ;
+¶20 (b) the conditions that resulted in the financial problem were largely beyond the person’s control . . . and7
+the individual acted responsibly under the circumstances;
+¶20 (c) the person has received or is receiving counseling for the problem and there are clear indications that8
+the problem is being resolved or is under control;
+¶20 (d) the individual initiated a good-faith effort to repay overdue creditors or otherwise resolve debts.9
+¶16 (a) deliberate omission, concealment, or falsification of relevant and material facts from any personnel10
+security questionnaire, personal history statement, or similar form used to conduct investigations, . . . [or]
+determine security clearance eligibility or trustworthiness. . .;
+¶17(a) the individual made prompt, good-faith efforts to correct the omission, concealment, or falsification11
+before being confronted with the facts;
+4
+Applicant meets none of the mitigating factors for financial considerations. His
+financial difficulties are both recent and multiple.  He has not established that his6
+financial problems were due to circumstance beyond his control, nor he has he
+demonstrated that he acted responsibly in addressing his debts.  He has undertaken no7
+financial counseling.  None of the debts have been paid, much less in a timely, good-8
+faith effort.  I conclude Guideline F against Applicant.9
+The Government established a case for disqualification under Guideline E, and
+Applicant did not mitigate the security concerns. Applicants are expected to give full and
+frank answers during the clearance process. Applicant’s failure to disclose any
+information about his financial problems constitutes a deliberate omission or
+evasiveness inconsistent with the candor required of applicants.  10
+None of the Guideline E mitigating conditions apply. The concealed information
+was relevant to a clearance decision. Applicant did not disclose this adverse information
+until his subject interview.  Applicant’s failure to disclose this information demonstrates11
+a lack of candor required of cleared personnel. The Government has an interest in
+examining all relevant and material adverse information about an applicant before
+making a clearance decision. The Government relies on applicants to truthfully disclose
+that adverse information in a timely fashion, not when they perceive disclosure to be
+prudent or convenient. Further, an applicant’s willingness to report adverse information
+about himself provides some indication of his willingness to report inadvertent security
+violations or other security concerns in the future, something the Government relies on
+to perform damage assessments and limit the compromise of classified information.
+Applicant’s conduct suggests he is willing to put his personal needs ahead of legitimate
+Government interests. I resolve Guideline E against Applicant.
+5
+Formal Findings
+Paragraph 1. Guideline F: AGAINST APPLICANT
+Subparagraphs a-s: Against Applicant
+Paragraph 2. Guideline E: AGAINST APPLICANT
+Subparagraph a: Against Applicant
+Conclusion
+In light of all the circumstances presented by the record in this case, it is not
+clearly consistent with the national interest to grant or continue a security clearance for
+Applicant. Clearance denied.
+                                              
+                                             
+JOHN GRATTAN METZ, JR
+Administrative Judge

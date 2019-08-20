@@ -1,0 +1,175 @@
+KEYWORD: Guideline B; Guideline E
+DIGEST: Judge’s finding that Applicant’s omissions were deliberate was supported by
+substantial evidence.  Hearing Office cases are not binding on other Hearing Office Judges or on
+the Appeal Board.  The Judge’s whole-person analysis complied with the requirements of the
+Directive.  On cross-appeal, Applicant’s settlement agreement between himself and his agency,
+with subsequent termination of adverse action, was not sufficient to demonstrate that the
+allegations underlying the adverse action were unfounded.  The Judge erred in concluding that
+the Government failed to meet its burden of production regarding an allegation that Applicant
+doctored a certain e-mail.  However, given the voluminous record and possible failure of the
+Government clearly to identify the document, the Judge probably simply overlooked the
+document.  Adverse decision affirmed.
+CASE NO: 12-05232.a2
+DATE: 06/30/2014
+DATE: June 30, 2014
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 12-05232
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+John Bayard Glendon, Esq., Deputy Chief Department Counsel
+FOR APPLICANT
+Cathryn E. Young, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+September 11, 2012, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline B (Foreign Influence) and Guideline E
+(Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+2
+(Directive).  DOHA amended the SOR on February 21, 2013, and again on August 12, 2013. 
+Applicant requested a hearing.  On November 8, 2013, after the hearing, Defense Office of Hearings
+and Appeals (DOHA) Administrative Judge Marc E. Curry denied Applicant’s request for a security
+clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.  On February 10, 2014,
+the Appeal Board remanded the case to the Judge for further processing.  On March 12, 2014, the
+Judge issued a Remand Decision.  Applicant again appealed pursuant to the Directive.  Department
+Counsel cross-appealed pursuant to Directive ¶ E3.1.28.  
+Applicant raised the following issues on appeal: whether the Judge erred in finding that
+certain omissions during Applicant’s clearance interview were deliberate and whether the Judge’s
+adverse decision was arbitrary, capricious, or contrary to law.  Department Counsel raised the
+following issue on cross-appeal: whether the Judge erred by failing properly to analyze certain
+Guideline E security concerns.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact
+The Judge apparently incorporated his findings from the first Decision.  Although he does
+not explicitly state that, we are construing his Decision that way.  Applicant was born and raised in
+Afghanistan.  He came to the U.S. in the early 1990s and became a naturalized citizen in the late
+1990s.  His mother is a citizen and resident of Afghanistan, with whom Applicant speaks “every two
+or three months.”  Decision at 4.  He has several siblings who are citizens and residents of
+Afghanistan.  He speaks with some of them about once every one to three months.  He has visited
+Afghanistan three times in the last 10 years, the last occasion being a few years ago.  He has no
+plans to return.
+Afghanistan and the U.S. signed a strategic partnership, committing the U.S. to assisting
+Afghanistan in rebuilding after decades of conflict.  The Taliban, Al Queda, and narcoterrorists
+operate in Afghanistan.  There is an ongoing risk of kidnaping and assassination of U.S. citizens
+throughout the country.  
+Beginning in mid-2000s and for several years thereafter, Applicant worked for a Federal
+agency.  He was placed on administrative leave for failing to work his prescribed schedule and for
+improperly recording his time and attendance.  He denied the charges.  Eventually Applicant and
+his employer settled the dispute.  The employer rescinded the removal letter and removed documents
+regarding the proposed termination, and agreed to pay Applicant a sum of money.  In exchange,
+Applicant resigned and did not pursue further legal action.
+Applicant enjoyed an excellent reputation for the quality of his work.  He received a Superior
+Accomplishment Award for his services to the Federal agency.
+In 2011, Applicant was interviewed pursuant to his effort to obtain a clearance.  During his
+interview, he did not disclose that he was on administrative leave.  A month later he was re-
+interviewed.  When asked why he omitted the leave, he made inconsistent statements.  He said that
+he did not think that the issues pertaining to the leave were relevant.  Later in the same interview
+3
+he claimed that he had suppressed his employment problems from his memory.  At the hearing, he
+characterized the suppression as “unconscious,” offering no further explanation.  Id. at 6.
+The Judge’s Analysis
+One of the Guideline E allegations concerned Applicant’s having falsified his time and
+attendance cards.  The Judge cited to the settlement agreement, which he characterized as having
+rescinded the allegations in exchange for Applicant’s agreement to forego potential claims.  The
+Judge stated that, given Applicant’s good work record, his affirmative defense against his
+employer’s allegations was made in good faith.  The Judge resolved this particular allegation in
+Applicant’s favor.  The Judge also favorably resolved an allegation to the effect that Applicant had
+provided a doctored e-mail in response to the SOR.  He stated that the Government had failed to
+establish this allegation.
+However, the Judge concluded that Applicant’s omission of his adverse action during his
+clearance investigation was deliberate.  He noted Applicant’s inconsistent statements during the
+subsequent interview and concluded that Applicant’s hearing testimony “was incredible and
+evasive.”  Id. at 7.  He stated that none of the mitigating conditions applied to this matter.
+In evaluating the allegations under Guideline B, the Judge noted that the risk of terrorism is
+present in Afghanistan.  He stated that Applicant’s relatives created a heightened risk of foreign
+exploitation or pressure.  In evaluating Applicant’s case for mitigation, the Judge stated that
+Applicant was not credible, given evidence of his inconsistent statements.   As a consequence, he
+stated that he could not accept as truthful Applicant’s evidence as to the extent of his contacts with
+his foreign relatives, nor could he conclude that Applicant would resolve any conflict of interest in
+favor of the U.S.
+Discussion
+Applicant’s Appeal
+Applicant contends that the Judge erred in his finding that his omission during the interview
+was deliberate.  In analyzing an applicant’s mens rea, a Judge must consider the applicant’s answers
+in light of the record as a whole.  See, e.g., ISCR Case No. 12-12172 at 3 (App. Bd. Jan. 9, 2014).
+In this case, the Judge’s treatment of this issue is supported by the record.  Applicant’s inconsistent
+explanations for his omission could persuade a reasonable person that he was not truthful.  We defer
+to a Judge’s credibility determinations.  Directive ¶ E3.1.32.1.  See also ISCR 10-06089 at 3 (App.
+Bd. Sep. 11, 2013).  Moreover, a reasonable person could conclude that Applicant had a motive to
+conceal the adverse action that was ongoing at the time of the interview, in that it might have had
+an impact on his effort to get a clearance.  We find no reason to disturb the Judge’s finding about
+the deliberate nature of Applicant’s omission.  
+Applicant cites to other hearing office cases concerning Guideline B, which he believes
+support his effort to obtain a clearance.  We have given these cases due consideration, as persuasive
+4
+authority.   However, Hearing Office cases are not binding on other Hearing Office Judges or on the
+Appeal Board.  See, e.g., ISCR Case No. 13-00464 at 3 (App. Bd. Feb. 20, 2014).  Applicant’s case
+has some aspects that distinguish it from the ones he has cited in his brief, and, in any event, each
+case must the judged on its own merits.  The cases cited by Applicant are not sufficient to show that
+the Judge’s adverse decision under Guideline B was arbitrary, capricious, or contrary to law.  We
+also conclude that the Judge did not err in considering Applicant’s inconsistent statements about his
+omission in the context of evaluating the extent to which Applicant had shown mitigation under
+Guideline B. 
+Despite Applicant’s argument to the contrary, we conclude that the Judge’s whole-person
+analysis complied with the requirements of the Directive, in that he considered Applicant’s
+circumstances in light of the entirety of the record.  See, e.g., ISCR Case No. 11-13984 at 4 (App.
+Bd. Feb. 20, 2014).  The Judge examined the relevant data and articulated a satisfactory explanation
+for the decision.  The decision is sustainable on this record.  The presence of terrorist activity in a
+foreign country is a significant factor in Guideline B cases.  See, e.g., ISCR Case No. 13-00375 at
+3 (App. Bd. Mar. 28, 2104).  An applicant’s failure to provide truthful answers is “[o]f special
+interest” in evaluating his or her fitness of a clearance.  Directive, Enclosure 2 ¶ 15.  “The general
+standard is that a clearance may be granted only when ‘clearly consistent with the interests of the
+national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive,
+Enclosure 2 ¶ 2(b):  “Any doubt concerning personnel being considered for access to classified
+information will be resolved in favor of the national security.”
+Cross-Appeal
+Department Counsel argues that the Judge erred in his treatment of the settlement agreement.
+He argues that settlement of the dispute was no reason to conclude that the dispute was groundless.
+See, e.g., ISCR Case No. 09-08394 at 6 (App. Bd. Jan. 16, 2013).  
+In the case before us, the record contains the letter from the agency outlining its reasons for
+proposing Applicant’s removal from Federal Service.  Government Exhibit (GE) 6, Removal Letter,
+dated April 13, 2011.  These reasons are 101 separate instances of Applicant’s failure to work his
+prescribed schedule and 97 instances of his failure properly to record his time and attendance.  The
+allegations are sufficiently specific as to times, dates, and circumstances that GE 6 could properly
+be considered not only as evidence that Applicant’s employer proposed his termination but as
+evidence of the infractions that formed the basis of that proposal.  While a Judge cannot be expected
+to discuss each piece of evidence in a record, he or she should address “significant evidence that has
+a material bearing on the case.”  ISCR Case No. 09-08394, supra, at 7.  The Judge’s failure to
+discuss GE 6 in the context of the Guideline E disqualifying conditions impaired his analysis.  To
+the extent that a reasonable person could believe that he treated the settlement agreement by itself
+as evidence that the infractions were unfounded, without reference to contrary evidence, he erred.
+However, any such error did not affect the overall outcome of the case and, therefore, was harmless.
+Department Counsel argues that the Judge erred in concluding that the Government had
+failed to meet its burden of production regarding the allegation of a doctored e-mail.  The allegation
+5
+read as follows: “In your March 13, 2013, Answer to the Amendment to the Statement of Reasons,
+you falsified material facts when you submitted a false document containing email correspondence
+with altered text.”  We note that Department Counsel’s documents were identified with small
+stickers, the last one designated 2-F.  The document cited by Department Counsel in support of this
+allegation is in the file.  The absence of stickers after 2-F probably accounts for the Judge’s
+conclusion.  Given the voluminous documentary evidence in this case and the multiple amendments
+to the SOR, the Judge may simply have overlooked the cited document.  Any error in this regard is
+harmless, however, because it did not likely affect the outcome of the case.
+Order
+The Decision is AFFIRMED. 
+Signed: Michael Ra’anan           
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett             
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody           
+James E. Moody
+Administrative Judge
+Member, Appeal Board

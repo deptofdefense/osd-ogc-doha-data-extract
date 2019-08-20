@@ -1,0 +1,900 @@
+ 
+1 
+                                      
+ 
+                                                          
+   DEPARTMENT OF DEFENSE 
+       DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+ 
+ 
+In the matter of: ) 
+ ) 
+ -----------------------  )  ISCR Case No. 10-01707 
+  ) 
+ ) 
+Applicant for Security Clearance ) 
+ 
+ 
+Appearances 
+ 
+For Government: Ray T. Blank, Jr., Esquire, Department Counsel 
+For Applicant: Michael Vater, Esquire 
+ 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+GALES, Robert Robinson, Administrative Judge: 
+ 
+Applicant mitigated the security concerns regarding financial considerations and 
+personal conduct. Eligibility for a security clearance and access to classified information 
+is granted. 
+ 
+Statement of the Case 
+ 
+On March 4, 2009, Applicant applied for a security clearance and submitted an 
+Electronic Questionnaires for Investigations Processing (e-QIP) version of a Security 
+Clearance Application (SF 86).1 On an unspecified date, the Defense Office of Hearings 
+and Appeals (DOHA) issued him a set of interrogatories. He responded to the 
+interrogatories on August 9, 2010.2 On another unspecified date, DOHA issued him 
+another set of interrogatories. He responded to the interrogatories on September 20, 
+2010.3 On November 17, 2010, DOHA issued a Statement of Reasons (SOR) to him, 
+1 Government Exhibit 1 (SF 86), dated March 4, 2009. 
+ 
+2 Government Exhibit 2 (Applicant’s Answers to Interrogatories, dated August 9, 2010).  
+ 
+ 
+2 
+                                      
+ 
+                                                                                                                                                                                          
+pursuant to Executive Order 10865, Safeguarding Classified Information within Industry 
+(February 20, 1960), as amended; Department of Defense Directive 5220.6, Defense 
+Industrial Personnel Security Clearance Review Program (January 2, 1992), as 
+amended and modified (Directive); and the Adjudicative Guidelines for Determining 
+Eligibility For Access to Classified Information (December 29, 2005) (AG) for all 
+adjudications and other determinations made under the Directive. The SOR alleged 
+security concerns under Guideline F (Financial Considerations) and Guideline E 
+(Personal Conduct) and detailed reasons why DOHA could not make a preliminary 
+affirmative finding under the Directive that it is clearly consistent with the national 
+interest to grant or continue a security clearance for Applicant. The SOR recommended 
+referral to an administrative judge to determine whether a clearance should be granted, 
+continued, denied, or revoked.  
+ 
+ Applicant received the SOR on December 1, 2010. In a written statement, dated 
+December 21, 2010, Applicant’s attorney responded to the SOR allegations and 
+requested a hearing before an administrative judge. Department Counsel was prepared 
+to proceed on January 26, 2011, and the case was assigned to Administrative Judge 
+Robert Tuider on February 1, 2011. It was reassigned to me on February 10, 2011. A 
+Notice of Hearing was issued on March 2, 2011, and I convened the hearing, as 
+scheduled, on March 22, 2011. 
+ 
+ During the hearing, four Government exhibits (GE 1-4) and seven Applicant 
+exhibits (AE A, and C-H) were admitted into evidence without objection or over 
+objection.4 Applicant objected to GE 5 for identification, and Department Counsel 
+objected to AE B for identification. I withheld rulings pertaining to the two documents 
+and afforded the parties the opportunity to submit briefs regarding same. Applicant and 
+two other witnesses testified on his behalf. The hearing transcript (Tr.) was received on 
+March 30, 2011. The record was kept open until April 5, 2011, to enable the parties to 
+furnish the briefs, and kept open until April 15, 2011, to enable them to submit written 
+closing arguments.  
+ 
+Rulings on Procedure 
+ 
+As noted above, Applicant objected to GE 5 for identification (GE 5/ID)5 because 
+no foundation had been presented.6 During a discussion on the objection, Department 
+Counsel acknowledged GE 5/ID had not been developed during the investigation and 
+was not a component of the Office of Personnel Management (OPM) report of 
+investigation. Instead, GE 5/ID was obtained by a DOHA security specialist – an 
+ 
+3 Government Exhibit 3 (Applicant’s Answers to Interrogatories, dated September 2, 2010). 
+ 
+4 Applicant’s objection to Government Exhibit 4 (Combined Experian, TransUnion, and Equifax Credit 
+Report, dated October 21, 2009), was overruled. Likewise, Department Counsel’s objection to Applicant Exhibit C 
+(Initial Forensic Mortgage Audit, dated February 22, 2011), was overruled. 
+ 
+5 Equifax Credit Report, dated May 21, 2010. 
+ 
+6 Tr. at 22-23. 
+ 
+ 
+3 
+                                      
+ 
+                                                          
+adjudicator – in preparation for the drafting of the SOR.7 He also urged that I reconsider 
+because GE 5/ID is a relevant and material document.8 In his brief in support of 
+admission, Department Counsel claimed the admission of GE 5/ID was justified and 
+commented on the general rules of admissibility in DOHA cases; the admissibility of 
+credit reports as business records; and the rules for authentication of documents. 
+Department Counsel went further by stating:9  
+ 
+In this instance, the Credit Bureau Report was collected and furnished by 
+the DOHA personnel under the authority of the Directive and E.O. 10865 
+(enclosure 1 to the Directive), and Paragraph E3.1.2 of the Additional 
+Procedural Guidance of the Directive. The latter empowers DOHA to take 
+interim actions necessary to determining whether to grant or continue a 
+security clearance. The list of Actions provided in Paragraph E3.1.2 of the 
+Additional Procedural Guidance of the Directive is not exclusive. 
+ 
+In his brief against the admission, Applicant’s attorney claimed admission of GE 
+5/ID was not justified, and noted that Paragraph E3.1.20 of the Directive states that 
+official records or evidence compiled or created in the regular course of business are 
+admissible so long as they have been furnished by an investigative agency pursuant to 
+its responsibilities in connection with assisting the Secretary of Defense. 
+ 
+While the Directive may empower DOHA to take various interim actions, 
+including the issuance of interrogatories, necessary to determining whether to grant or 
+continue a security clearance, contrary to Department Counsel’s assertion that there is 
+no specific limitation on such actions, there are such limitations. Paragraph E3.1.20 sets 
+one of those limitations.10 In general, an investigator investigates and an adjudicator 
+adjudicates. In this instance, the adjudicator crossed the line and functioned as an 
+investigator in order to perfect evidence in support of allegations in an SOR against 
+Applicant.11 GE 5/ID was not furnished by an investigative agency pursuant to its 
+responsibilities under E.O. 10865. Accordingly, Applicant’s objection to GE 5/ID is 
+sustained. 
+ 
+Also as noted above, Department Counsel objected to AE B for identification (AE 
+B/ID) because it was merely an answer to a complaint, and as such, it was not the best 
+7 Id. at 23. 
+ 
+8 Id. at 29. 
+ 
+9 Government Brief on the Admissibility of GE 5, dated April 5, 2011, at fn. 18, at 6. 
+ 
+10 The following limitation applies: 
+ 
+Official records or evidence compiled or created in the regular course of business, other than DoD 
+personnel background reports of investigation (ROI), may be received and considered by the 
+Administrative Judge without authenticating witnesses, provided that such information has been 
+furnished by an investigative agency pursuant to its responsibilities in connection with assisting the 
+Secretary of Defense, or the Department or Agency head concerned. . . . 
+ 
+11 During his presentation, Department Counsel acknowledged that the adjudicator was acting in an 
+investigative capacity. See Tr. at 28. 
+ 
+4 
+                                      
+ 
+                                                          
+evidence available.12 He also noted that the document merely refers to allegations that 
+had not yet been decided by the court.13 Along with his brief on the issue, Applicant 
+subsequently submitted the original complaint to merge with AE B/ID. Department 
+Counsel did not submit a brief. Based on the issues presented in the SOR, I find that AE 
+B/ID as supplemented is relevant and material. Accordingly, Department Counsel’s 
+objection to AE B/ID is overruled and AE B is admitted. 
+ 
+Findings of Fact 
+ 
+ In his Answer to the SOR, Applicant admitted two of the factual allegations (¶¶ 
+1.b. and 1.d.) of the SOR. Applicant's admissions are incorporated herein as findings of 
+fact. He denied the remaining factual allegations (¶¶ 1.a., 1.c., and 2.a.) of the SOR. 
+After a complete and thorough review of the evidence in the record, and upon due 
+consideration of same, I make the following additional findings of fact: 
+ 
+Applicant is a 35-year-old employee of a defense contractor, currently serving as 
+a parts inspection specialist.14 He is seeking to obtain a secret security clearance. A 
+1994 high school graduate, Applicant has a May 1998 bachelor of science degree in 
+chemistry, a 2007 master of science degree in quality management systems, and a May 
+2009 master of science degree in industrial systems engineering.15 Over the years, 
+Applicant has held several different positions with various employers. He was a 
+production and analytical chemist from February 1999 until August 1999;16 a research 
+and development chemist from September 1999 until May 2003;17 a newspaper 
+“deliverer” from June 2003 until April 2004;18 and a quality control inspector at two 
+different companies from April 2004 until January 2005, and from February 2005 until 
+May 2005.19 He joined his current employer as a parts inspector in April 2005.20 
+Applicant has never served with the U.S. military.21 
+ 
+Applicant was never married,22 but he and his fiancée have two children, a son 
+(born in 2004) and a daughter (born in 2006).23 
+ 
+12 Id. at 38. 
+ 
+13 Id. at 39. 
+ 
+14 Id. at 33. 
+ 
+15 Id. at 34, 92; Government Exhibit 1, supra note 1, at 11-12. 
+ 
+16 Government Exhibit 1, at 17-18. 
+ 
+17 Id. at 16-17. 
+ 
+18 Id. at 16. 
+ 
+19 Id. at 14-15. 
+ 
+20 Id. at 13. 
+ 
+21 Id. at 22-23. 
+ 
+ 
+5 
+                                      
+ 
+                                                                                                                                                                                          
+ 
+Financial Considerations 
+ 
+There was nothing unusual about Applicant’s finances until about August 2008 
+when, because of the downturn in the economy, his employer eliminated overtime and 
+he was put on furlough with mandatory days off without pay.24 The absence of overtime 
+continued through March 2009.25 Unforeseen expenses occurred, especially when the 
+air conditioning unit at his residence failed.26 During a three-month period of no 
+overtime, during which Applicant needed funds to enable him to pay his mortgage, he 
+borrowed about $1,700 from his father each month.27 Applicant repaid his father 
+$5,076.68 in March 2009.28 At some unspecified point thereafter, Applicant started to 
+again be delinquent on his monthly accounts. 
+ 
+The SOR identified three purportedly continuing delinquencies, as reflected by 
+credit reports from 2009,29 and 2010,30 totaling approximately $37,111, in charged-off 
+or past due accounts. Some accounts reflected in the credit reports have been 
+transferred, reassigned, or sold to other creditors or collection agents. Other accounts 
+are referenced repeatedly, in many instances duplicating other accounts listed, either 
+under the same creditor name or under a different creditor name. Some accounts are 
+identified by complete account numbers, while others are identified by partial account 
+numbers, in some instances eliminating the last four digits and in others eliminating 
+other digits. The information reflected is not necessarily accurate or up to date.  
+ 
+(SOR ¶ 1.a.): On November 13, 2007, Applicant financed the purchase of a 
+planned unit with a mortgage of $209,000 from a local bank.31 His monthly payments 
+were $1,303.89.32 Applicant fell behind in his mortgage payments, and on August 26, 
+ 
+22 Id. at 20. 
+ 
+23 Id. at 22; Tr. at 92. 
+ 
+24 Government Exhibit 2 (Personal Subject Interview, dated January 13, 2010), at 1, attached to Applicant’s 
+Answers to the Interrogatories; Tr. at 56. 
+ 
+25 Government Exhibit 2, at 4. 
+ 
+26 Id. at 1. 
+ 
+27 Id. at 4; Government Exhibit 2 (Statement, dated August 3, 2010), attached to Applicant’s Answers to the 
+Interrogatories. 
+ 
+28 Government Exhibit 2 (Statement of father, dated August 4, 2010), attached to Applicant’s Answers to the 
+Interrogatories. 
+ 
+29 Government Exhibit 4 (Combined Experian, TransUnion, and Equifax Credit Report, dated October 21, 
+2009). 
+ 
+30 Government Exhibit 3 (Experian Credit Report, dated July 17, 2010), attached to Applicant’s Answers to 
+the Interrogatories; Applicant Exhibit G (Experian Credit Report, dated December 8, 2010). 
+ 
+31 Applicant Exhibit B (Note, dated November 13, 2007), at 1, attached to Fannie Mae/Freddie Mac Uniform 
+Instrument (Form 3010). 
+ 
+ 
+6 
+                                      
+ 
+                                                                                                                                                                                          
+2009, Freddie Mac Default Asset Management (Freddie Mac) informed Applicant that 
+he might be eligible for the Home Affordable Modification Program (HAMP), “which is a 
+part of the federal Making Home Affordable Program to help homeowners avoid 
+foreclosure whenever possible.”33 He was advised that there were no costs associated 
+with the program.34 Applicant was also told:35 
+ 
+First, Home Retention Services will determine if you are eligible, based on 
+your financial situation. If you are, Home Retention Services will look at 
+your monthly income and housing costs, including any past due payments, 
+and then determine an affordable mortgage payment. At first, you will 
+make the new monthly mortgage payment during a Trial Period. If you 
+make those payments successfully and fulfill all Trial Period conditions, 
+[the mortgage lender] will permanently modify your mortgage loan.  
+ 
+The modification may involve one or more of the following changes: 1) 
+bringing your account current; 2) reducing the interest rate on your loan; 3) 
+extending the term of the loan, and/or 4) delaying your repayment of a 
+portion of the mortgage principal until the end of the loan term. 
+ 
+Applicant submitted a hardship affidavit to Freddie Mac.36 On October 6, 2009, 
+Freddie Mac informed Applicant that he was deemed eligible for a loan modification 
+under the HAMP.37 He was advised that if his income documentation did not support 
+the income amount discussed, two things could happen: his monthly payment under a 
+trial period plan could change, or he might not qualify for the loan modification 
+program.38 If he did not qualify, Freddie Mac “will work with you to explore other options 
+available to help you keep your home or ease your transition to a new home.”39  The 
+trial period established under the plan commenced with a monthly payment of 
+$1,246.86 due on or before November 1, 2009, and was to continue for three months.40 
+Applicant contends that at some point in the loan modification process he was advised 
+ 
+32 Id. 
+ 
+33 Government Exhibit 3 (Freddie Mac letter, dated August 26, 2009), at 1, attached to Applicant’s Answers 
+to the Interrogatories. 
+ 
+34 Id. 
+ 
+35 Id. 
+ 
+36 Government Exhibit 3 (Home Affordable Modification Program Hardship Affidavit, dated October 9, 2009), 
+at 1, attached to Applicant’s Answers to the Interrogatories. 
+ 
+37 Government Exhibit 3 (Freddie Mac letter, dated October 6, 2009), at 1, attached to Applicant’s Answers 
+to the Interrogatories. 
+ 
+38 Id. 
+ 
+39 Id. 
+ 
+40 Government Exhibit 3 (Home Affordable Modification Program Loan Workout Plan, undated), at 2, 
+attached to Applicant’s Answers to the Interrogatories. Applicant’s monthly mortgage payments were, under his 
+mortgage, originally $1,672. See Government Exhibit 4, supra note 29, at 5. 
+ 
+7 
+                                      
+ 
+hs.   
+                                                          
+by the mortgage lender that in order to be eligible for a loan modification he must be 
+behind in his payments.41 Nevertheless, Applicant made his timely payments under the 
+trial period plan.42 At some point, the mortgage lender persuaded Applicant to continue 
+making his monthly payments beyond the trial period while the modification process 
+was underway so as to make it more affordable for Applicant and to avoid foreclosure.43 
+Believing that the modification was imminent, Applicant continued making his payments 
+for an additional two mont 44
+ 
+On March 11, 2010, Applicant received written notice from the mortgage lender 
+that his application for loan modification had been rejected and that his initial 
+qualification for the program had been a mistake.45 The mortgage lender demanded all 
+delinquent payments.46 On an unspecified date, the mortgage lender filed an action to 
+foreclose Applicant’s mortgage, claiming $204,495.12 in principal on the mortgage, 
+together with interest from October 1, 2009, late charges, and costs.47 In April 2010, 
+Applicant engaged an attorney to represent him in the foreclosure action.48 Applicant’s 
+attorney secured the services of a licensed mortgage broker to perform a forensic audit 
+of the paperwork associated with Applicant’s foreclosure action. The initial report was 
+issued in February 2011, and it found substantial irregularities on the part of the 
+mortgage lender.49  
+ 
+In his Answer to the foreclosure complaint, Applicant asserted a number of 
+affirmative defenses, including the following:50 (1) there is a lack of standing because 
+the plaintiff in the action is not the original mortgage lender; (2) the plaintiff has unclean 
+hands because it engaged in a pattern of criminal activity involving falsifying information 
+on the loan application; falsifying mortgage documents; violating the Financial 
+Institutions Reform Recovery and Enforcement Act of 1989 (FIRREA);51 and violating 
+the Truth in Lending Act and the Real Estate Settlement Procedures Act (RESPA)52 by 
+ 
+41 Applicant Exhibit B (Answer and Affirmative Defenses, dated March 14, 2011), at 10. 
+ 
+42 Tr. at 46. 
+ 
+43 Applicant Exhibit B (Answer and Affirmative Defenses), supra note 41, at 10. 
+ 
+44 Government Exhibit 2 (Statement, dated August 3, 2010), supra note 27; Id. at 7, 9, 11. 
+ 
+45 Id. Government Exhibit 2. 
+ 
+46 Id. 
+ 
+47 Applicant Exhibit B (Complaint to Foreclose Mortgage, undated). 
+ 
+48 Government Exhibit 3 (Letter from attorney, dated April 15, 2010), attached to Applicant’s Answers to the 
+Interrogatories. 
+ 
+49 Applicant Exhibit C, supra note 4.  
+ 
+50 Applicant Exhibit B (Answer and Affirmative Defenses), supra note 41, at 2-12. 
+ 
+51 12 U.S.C. § 3336; 12 C.F.R. § 323.5. 
+ 
+52 12 U.S. C. § 2601, et seq. 
+ 
+8 
+                                      
+ 
+                                                          
+concealing important facts from Applicant; (3) failing to properly post Applicant’s 
+payments to his account; (4) failing to fulfill all conditions precedent to the acceleration 
+of the Note and Mortgage; (5) maintaining a pattern of waiver; and (6) equitable 
+estoppel. No decision regarding the foreclosure action has yet been rendered. 
+ 
+The October 2009 credit report indicates the mortgage account had a balance of 
+$205,140, with a past due balance of $3,343, that was 60 days past due.53 The July 
+2010 credit report indicates the mortgage account had a balance of $204,495, with a 
+past due balance of $14,834, that was 180 days past due.54 It reflects no mortgage 
+payments having been made by Applicant during or after the HAMP trial period plan, 
+although Applicant made five such payments. The December 2010 credit report 
+indicates the mortgage account had a balance of $204,495, with a past due balance of 
+$22,982, and indicated there was a foreclosure proceeding pending.55 It too reflects no 
+mortgage payments having been made by Applicant during or after the HAMP trial 
+period plan. 
+ 
+ (SOR ¶ 1.b.): Applicant had a bank credit card which he opened in 2007 to pay 
+for utilities and gifts. When his employer eliminated overtime and he was put on furlough 
+with mandatory days off without pay, and Applicant encountered unexpected expenses, 
+his monthly accounts started to become delinquent. Applicant routinely made payments 
+of the minimum amount due, and the interest rate on the card started to climb.56 At 
+some point in early 2009, the account became delinquent and was placed for collection. 
+The October 2009 credit report indicates the account had a balance of $12,652, with a 
+past due balance of $2,346.57 The July 2010 and December 2010 credit reports reflect 
+the same figures, but indicate the account was charged off.58 On January 21, 2009, 
+over a year before the SOR was issued, Applicant signed a debt settlement agreement 
+with a debt management company to obtain debt settlement services including financial 
+guidance, budgeting, debt settlement, and creditor’s rights.59 Since he started the 
+program, Applicant has received eight hours of financial counseling per month.60 The 
+agreement called for the company to negotiate with two particular creditors (those listed 
+in SOR ¶¶ 1.b. and 1.c.) the reduction of unsecured debt and settle accounts enrolled in 
+ 
+53 Government Exhibit 4, supra note 29, at 5. 
+ 
+54 Government Exhibit 3 (Experian Credit Report), supra note 30, at 8. 
+ 
+55 Applicant Exhibit G, supra note 30, at 2. 
+ 
+56 Government Exhibit 2 (Statement), supra note 27, at 1. 
+ 
+57 Government Exhibit 4, supra note 29, at 5. 
+ 
+58 Government Exhibit 3 (Experian Credit Report), supra note 30, at 8; Applicant Exhibit G, supra note 30, at 
+2. 
+ 
+59 Government Exhibit 3 (Debt Management File – Debt Settlement Agreement, dated January 21, 2009), 
+attached to Applicant’s Answers to the Interrogatories; Tr. at 89. 
+ 
+60 Tr. at 89. 
+ 
+ 
+9 
+                                      
+ 
+                                                          
+the 38 month program.61 Commencing in March 2009, Applicant made at least 20 
+monthly payments of $381.51 to the company.62 That monthly amount included service 
+fees and maintenance fees. The debt management company has already started 
+settlement negotiations with the creditor,63 and once Applicant builds a sufficient 
+reserve, the account will be resolved. 
+ 
+(SOR ¶ 1.c.): Applicant had another bank credit card opened in 1999 to pay for 
+routine bills, maintenance for his boat, and offshore gambling.64 When Applicant 
+encountered his diminished income and unexpected expenses, this account started to 
+become delinquent. Applicant routinely made payments of the minimum amount due, 
+and at some point in early 2009, the account became delinquent and was charged off. 
+The October 2009 credit report indicates the account had a balance of $9,666, with a 
+past due balance of $9,663.65 The July 2010 and December 2010 credit reports reflect 
+nearly identical figures.66 On December 7, 2010, with the assistance of his debt 
+management company, Applicant and the creditor settled the account.67 The creditor 
+agreed to accept a lump-sum payment in the amount of $5,010 as full and complete 
+satisfaction of the debt.68 On or before February 1, 2011, Applicant paid the agreed 
+amount, and the account was resolved as paid.69 
+ 
+(SOR ¶ 1.d.): Over the years, Applicant had a hobby of gambling online playing 
+Texas Hold’em and card games.70 He generally played two times per week, spending 
+$100 - $200 each time.71 Applicant acknowledged using his credit card, the one referred 
+to in SOR ¶ 1.c., above, for his online gambling and estimated he charged $5,000 for 
+such use.72 He has not gambled for at least two years.73 
+ 
+61 Government Exhibit 3 (Debt Management File – Debt Settlement Agreement), supra note 59. 
+ 
+62 Government Exhibit 3 (Debt Management File – Account Status, various dates), attached to Applicant’s 
+Answers to the Interrogatories; Applicant Exhibit D (Account Overview, dated March 21, 2011). 
+ 
+63 Tr. at 71. 
+ 
+64 Government Exhibit 2 (Personal Subject Interview), supra note 24, at 1. 
+ 
+65 Government Exhibit 4, supra note 29, at 5. 
+ 
+66 Government Exhibit 3 (Experian Credit Report), supra note 30, at 9; Applicant Exhibit G, supra note 30, at 
+1. 
+ 
+67 Applicant Exhibit E (Stipulation for Settlement, dated December 7, 2010). 
+ 
+68 Id. 
+ 
+69 Applicant Exhibit F (Notice of Voluntary Dismissal with Prejudice, dated February 1, 2011). 
+ 
+70 Government Exhibit 2 (Personal Subject Interview), supra note 24, at 2. 
+ 
+71 Id. 
+ 
+72 Government Exhibit 3 (Applicant’s Answers to Interrogatories), supra note 3, at 3. 
+ 
+73 Tr. at 56. 
+ 
+ 
+10 
+                                      
+ 
+                                                          
+During the hearing, Applicant submitted a personal financial statement reflecting 
+a net monthly income of $5,196.44; monthly expenses of $4,416.78; and debt 
+repayments of $964.51.74 He estimated he had a monthly remainder of $815.15 
+available for discretionary spending.75 Applicant contends, that with the exception of the 
+one credit card for which there are current settlement negotiations, he is current on all 
+other accounts and has not incurred any new debts.76 
+ 
+Personal Conduct 
+ 
+On March 4, 2009, when Applicant completed and submitted his SF 86, he 
+responded to a question set forth in the SF 86. The SOR alleges Applicant deliberately 
+failed to disclose complete information in response to the following financial question: § 
+28b - (Are you currently over 90 days delinquent on any debt(s)?). Appellant answered 
+“no” to the question.77 He did not list either of his two delinquent accounts which came 
+within the scope of the question (SOR ¶¶ 1.b. and 1.c.). Applicant denied intending to 
+convey a false impression and contended his response was based upon information he 
+obtained in a credit report.78 The July 2010 and December 2010 credit reports both 
+reflect that the accounts identified in SOR ¶¶ 1.b. and 1.c. were 90 days past due as of 
+April 2009, not March 2009.79 Under those circumstances, Applicant answered the 
+question truthfully, and did not deliberately falsify his response. 
+ 
+Character References and Work Performance 
+ 
+ The president of Applicant’s union local, who is also a coworker, is highly 
+supportive of Applicant’s application for a security clearance. He believes Applicant has 
+displayed a positive attitude and excellent work ethic, and is a “shining example of 
+patriotism.”80 Applicant’s father and fiancée consider him trustworthy and faithful, and 
+have never seen him demonstrate poor judgment.81 
+ 
+Policies 
+ 
+The U.S. Supreme Court has recognized the substantial discretion of the 
+Executive Branch in regulating access to information pertaining to national security 
+74 Applicant Exhibit A (Personal Financial Statement, undated). 
+ 
+75 Id.  
+ 
+76 Tr. at 37. 
+ 
+77 SF 86, supra note 1, at 40-41. 
+ 
+78 Applicant’s Answer to the SOR, dated December 21, 2010), at 2. 
+ 
+79 Government Exhibit 3 (Experian Credit Report), supra note 30, at 8-9; Applicant Exhibit G, supra note 30, 
+at 1-2. 
+ 
+80 Applicant Exhibit H (Character reference, dated March 11, 2011). 
+ 
+81 Tr. at 105,109. 
+ 
+11 
+                                      
+ 
+                                                          
+emphasizing, “no one has a ‘right’ to a security clearance.”82 As Commander in Chief, 
+the President has the authority to control access to information bearing on national 
+security and to determine whether an individual is sufficiently trustworthy to have access 
+to such information. The President has authorized the Secretary of Defense or his 
+designee to grant an applicant eligibility for access to classified information “only upon a 
+finding that it is clearly consistent with the national interest to do so.”83   
+ 
+When evaluating an applicant’s suitability for a security clearance, the 
+administrative judge must consider the AG. In addition to brief introductory explanations 
+for each guideline, the AG list potentially disqualifying conditions and mitigating 
+conditions, which are used in evaluating an applicant’s eligibility for access to classified 
+information. 
+ 
+An administrative judge need not view the guidelines as inflexible, ironclad rules 
+of law. Instead, acknowledging the complexities of human behavior, these guidelines 
+are applied in conjunction with the factors listed in the adjudicative process. The 
+administrative judge’s overarching adjudicative goal is a fair, impartial, and 
+commonsense decision. The entire process is a conscientious scrutiny of a number of 
+variables known as the “whole-person concept.” The administrative judge must consider 
+all available, reliable information about the person, past and present, favorable and 
+unfavorable, in making a meaningful decision. 
+ 
+In the decision-making process, facts must be established by “substantial 
+evidence.”84 The Government initially has the burden of producing evidence to establish 
+a potentially disqualifying condition under the Directive, and has the burden of 
+establishing controverted facts alleged in the SOR. Once the Government has produced 
+substantial evidence of a disqualifying condition, under Directive ¶ E3.1.15, the 
+applicant has the burden of persuasion to present evidence in refutation, explanation, 
+extenuation or mitigation, sufficient to overcome the doubts raised by the Government’s 
+case. The burden of disproving a mitigating condition never shifts to the Government.85  
+ 
+A person who seeks access to classified information enters into a fiduciary 
+relationship with the Government predicated upon trust and confidence. This 
+relationship transcends normal duty hours and endures throughout off-duty hours as 
+well. It is because of this special relationship that the Government must be able to 
+repose a high degree of trust and confidence in those individuals to whom it grants 
+access to classified information. Decisions include, by necessity, consideration of the 
+82 Department of the Navy v. Egan, 484 U.S. 518, 528 (1988). 
+ 
+83 Exec. Or. 10865, Safeguarding Classified Information within Industry § 2 (Feb. 20, 1960), as amended 
+and modified.    
+ 
+84 “Substantial evidence [is] such relevant evidence as a reasonable mind might accept as adequate to 
+support a conclusion in light of all contrary evidence in the record.”  ISCR Case No. 04-11463 at 2 (App. Bd. Aug. 4, 
+2006) (citing Directive ¶ E3.1.32.1).  “Substantial evidence” is “more than a scintilla but less than a preponderance.”  
+See v. Washington Metro. Area Transit Auth., 36 F.3d 375, 380 (4th Cir. 1994). 
+ 
+85 See ISCR Case No. 02-31154 at 5 (App. Bd. Sep. 22, 2005). 
+ 
+ 
+12 
+                                      
+ 
+                                                          
+possible risk the applicant may deliberately or inadvertently fail to safeguard classified 
+information. Such decisions entail a certain degree of legally permissible extrapolation 
+as to potential, rather than actual, risk of compromise of classified information.  
+Furthermore, “security clearance determinations should err, if they must, on the side of 
+denials.”86 
+ 
+Clearance decisions must be “in terms of the national interest and shall in no 
+sense be a determination as to the loyalty of the applicant concerned.”87 Thus, nothing 
+in this decision should be construed to suggest that I have based this decision, in whole 
+or in part, on any express or implied determination as to Applicant’s allegiance, loyalty, 
+or patriotism. It is merely an indication the Applicant has or has not met the strict 
+guidelines the President and the Secretary of Defense have established for issuing a 
+clearance. In reaching this decision, I have drawn only those conclusions that are 
+reasonable, logical, and based on the evidence contained in the record. Likewise, I 
+have avoided drawing inferences grounded on mere speculation or conjecture. 
+ 
+Analysis 
+ 
+Guideline F, Financial Considerations 
+ 
+The security concern relating to the guideline for Financial Considerations is set 
+out in AG ¶ 18:       
+ 
+Failure or inability to live within one=s means, satisfy debts, and meet 
+financial obligations may indicate poor self-control, lack of judgment, or 
+unwillingness to abide by rules and regulations, all of which can raise 
+questions about an individual=s reliability, trustworthiness and ability to 
+protect classified information. An individual who is financially 
+overextended is at risk of having to engage in illegal acts to generate 
+funds. . . . 
+ 
+The guideline notes several conditions that could raise security concerns. Under 
+AG ¶ 19(a), an Ainability or unwillingness to satisfy debts@ is potentially disqualifying.  
+Similarly, under AG ¶ 19(c), Aa history of not meeting financial obligations@ may raise 
+security concerns. Also, if there are “financial problems that are linked to . . . gambling 
+problems . . . ,” AG ¶ 19(f) is potentially disqualifying. As noted above, there was 
+nothing unusual about Applicant’s finances until about August 2008 when, due to the 
+downturn in the economy, his employer eliminated overtime and he was put on furlough 
+with mandatory days off without pay. Although Applicant borrowed money to enable him 
+to pay his mortgage, some accounts, including the one with which he gambled online, 
+became delinquent and were either placed for collection or charged off. AG ¶¶ 19(a), 
+19(c), and 19(f) apply. 
+ 
+86 Egan, 484 U.S. at 531 
+ 
+87 See Exec. Or. 10865 § 7. 
+ 
+ 
+13 
+                                      
+ 
+                                                          
+The guideline also includes examples of conditions that could mitigate security 
+concerns arising from financial difficulties. Under AG ¶ 20(a), the disqualifying condition 
+may be mitigated where Athe behavior happened so long ago, was so infrequent, or 
+occurred under such circumstances that it is unlikely to recur and does not cast doubt 
+on the individual=s current reliability, trustworthiness, or good judgment.@ Also, under AG 
+¶ 20(b), financial security concerns may be mitigated where Athe conditions that resulted 
+in the financial problem were largely beyond the person=s control (e.g., loss of 
+employment, a business downturn, unexpected medical emergency, or a death, divorce 
+or separation), and the individual acted responsibly under the circumstances.@ Evidence 
+that Athe person has received or is receiving counseling for the problem and/or there are 
+clear indications that the problem is being resolved or is under control@ is potentially 
+mitigating under AG ¶ 20(c). Similarly, AG ¶ 20(d) applies where the evidence shows 
+Athe individual initiated a good-faith effort to repay overdue creditors or otherwise 
+resolve debts.@88 Also, AG ¶ 20(e) may apply where “the individual has a reasonable 
+basis to dispute the legitimacy of the past-due debt which is the cause of the problem 
+and provides documented proof to substantiate the basis of the dispute or provides 
+evidence of actions to resolve the issue.” 
+ 
+There was nothing unusual about Applicant’s finances until about August 2008 
+when, because of the downturn in the economy, his employer eliminated overtime and 
+he was put on furlough with mandatory days off without pay. The absence of overtime 
+continued through March 2009. When Applicant needed funds to enable him to pay his 
+mortgage, he borrowed it from his father. Applicant repaid his father in March 2009. 
+Applicant fell behind in his mortgage payments, and in August 2009, Freddie Mac 
+informed Applicant that he might be eligible for HAMP, and was advised that he had to 
+make the new monthly mortgage payment during a trial period. Once he fulfilled all trial 
+period conditions, Applicant’s mortgage loan would be permanently modified. In October 
+2009, Freddie Mac informed Applicant that he was deemed eligible for a loan 
+modification under the HAMP. Applicant made his timely payments under the trial period 
+plan, and continued making them for another two months to comply with the wishes of 
+the mortgage lender. In March 2010, Applicant was notified that his application for loan 
+modification had been rejected and that his initial qualification for the program had been 
+a mistake. The mortgage lender demanded all delinquent payments, and when they 
+were not forthcoming, the mortgage lender filed an action to foreclose Applicant’s 
+mortgage. In his Answer to the foreclosure complaint, Applicant asserted a number of 
+88 The Appeal Board has previously explained what constitutes a “good-faith” effort to repay overdue 
+creditors or otherwise resolve debts: 
+ 
+In order to qualify for application of [the “good-faith” mitigating condition], an applicant must present 
+evidence showing either a good-faith effort to repay overdue creditors or some other good-faith 
+action aimed at resolving the applicant’s debts. The Directive does not define the term ‘good-faith.’ 
+However, the Board has indicated that the concept of good-faith ‘requires a showing that a person 
+acts in a way that shows reasonableness, prudence, honesty, and adherence to duty or obligation.’ 
+Accordingly, an applicant must do more than merely show that he or she relied on a legally 
+available option (such as bankruptcy [or statute of limitations]) in order to claim the benefit of [the 
+“good-faith” mitigating condition].  
+ 
+(internal citation and footnote omitted) ISCR Case No. 02-30304 at 3 (App. Bd. Apr. 20, 2004) (quoting ISCR Case 
+No. 99-9020 at 5-6 (App. Bd. June 4, 2001)). 
+ 
+ 
+14 
+                                      
+ 
+affirmative defenses, including many of those found to have existed by the conclusions 
+of a regulatory review conducted by the various federal banking agencies and 
+subsequent consent orders by and between those agencies and certain national banks, 
+including the mortgage lender herein, designed to remedy the numerous matters 
+requiring attention, including unsafe or unsound practices that were identified. No 
+decision regarding the foreclosure action has yet been rendered. 
+ 
+Of the two credit cards, one was placed for collection and the other was charged 
+off. In January 2009, over a year before the SOR was issued, Applicant signed a debt 
+settlement agreement with a debt management company to obtain debt settlement 
+services including financial guidance, budgeting, debt settlement, and creditor’s rights. 
+Since he started the program, Applicant received eight hours of financial counseling per 
+month. The agreement called for the company to negotiate with two particular creditors 
+(those credit cards listed in SOR ¶¶ 1.b. and 1.c.) the reduction of unsecured debt and 
+settle accounts enrolled in the 38 month program. Commencing in March 2009, 
+Applicant made at least 20 monthly payments to the company, and one delinquent 
+credit card account was settled and paid off, and the debt management company has 
+already started settlement negotiations with the remaining creditor. Once Applicant 
+builds a sufficient reserve, the account will be resolved. Applicant is current on all other 
+accounts and has not incurred any new debts. 
+ 
+Much of what occurred was largely beyond Applicant’s control and took place 
+under such circumstances that it is unlikely to recur. Applicant received counseling for 
+his financial problems, and there are clear indications that the problems are now being 
+resolved. The issues with the mortgage lender are not unlike similar issues found during 
+the regulatory review conducted by the various federal banking agencies. Applicant 
+acted responsibly under the circumstances, and his current reliability, trustworthiness, 
+or good judgment, are not in question. AG ¶¶ 20(a), 20(b), 20(c), 20(d), and 20(e), 
+apply. 
+ 
+Guideline E, Personal Conduct 
+ 
+The security concern relating to the guideline for Personal Conduct is set out in 
+AG ¶ 15:  
+      
+Conduct involving questionable judgment, lack of candor, dishonesty, or 
+unwillingness to comply with rules and regulations can raise questions 
+about an individual's reliability, trustworthiness and ability to protect 
+classified information. Of special interest is any failure to provide truthful 
+and candid answers during the security clearance process or any other 
+failure to cooperate with the security clearance process.  
+ 
+The guideline notes a condition that could raise security concerns. Under AG ¶ 
+16(a), a “deliberate omission, concealment, or falsification of relevant facts from any 
+personnel security questionnaire, personal history statement, or similar form used to 
+conduct investigations, determine employment qualifications, award benefits or status, 
+ 
+15 
+                                      
+ 
+                                                          
+determine security clearance eligibility or trustworthiness, or award fiduciary 
+responsibilities,” is potentially disqualifying.  
+ 
+Applicant’s omission in his response to the one inquiry in the e-QIP of critical 
+information pertaining to financial delinquencies, provides sufficient evidence to 
+examine if his submission was a deliberate falsification, as alleged in the SOR, or was 
+the result of reliance on information appearing in a credit report, as he contends. As to 
+the question pertaining to 90 day delinquencies, Applicant answered “no.” As noted 
+above, a review of the July 2010 and December 2010 credit reports both reflect that the 
+accounts identified in SOR ¶¶ 1.b. and 1.c. were 90 days past due as of April 2009, not 
+March 2009. Under those circumstances, Applicant answered the question truthfully, 
+and did not deliberately falsify his response. I had ample opportunity to evaluate the 
+demeanor of Applicant, observe his manner and deportment, appraise the way in which 
+he responded to questions, assess his candor or evasiveness, read his statements, and 
+listen to his testimony. It is my impression that his reliance on the information appearing 
+in the credit reports was real and his explanations are consistent. Considering the 
+quality of the other evidence before me, they have the solid resonance of truth. I find 
+Applicant’s explanations are credible in his denial of deliberate falsification. AG ¶¶ 16(a) 
+has not been established. 
+ 
+Whole-Person Concept 
+ 
+ Under the whole-person concept, the administrative judge must evaluate an 
+applicant’s eligibility for a security clearance by considering the totality of the applicant’s 
+conduct and all the circumstances. The administrative judge should consider the nine 
+adjudicative process factors listed at AG ¶ 2(a):  
+ 
+(1) the nature, extent, and seriousness of the conduct; (2) the 
+circumstances surrounding the conduct, to include knowledgeable 
+participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to 
+which participation is voluntary; (6) the presence or absence of 
+rehabilitation and other permanent behavioral changes; (7) the motivation 
+for the conduct; (8) the potential for pressure, coercion, exploitation, or 
+duress; and (9) the likelihood of continuation or recurrence. 
+ 
+Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a security 
+clearance must be an overall commonsense judgment based upon careful consideration 
+of the guidelines and the whole-person concept. I have evaluated the various aspects of 
+this case in light of the totality of the record evidence and have not merely performed a 
+piecemeal analysis.89      
+There is some evidence against mitigating Applicant’s conduct. Applicant has a 
+history of financial delinquencies commencing in 2008, when he permitted accounts to 
+89 See U.S. v. Bottone, 365 F.2d 389, 392 (2d Cir. 1966); See also ISCR Case No. 03-22861 at 2-3 (App. 
+Bd. Jun. 2, 2006). 
+ 
+ 
+16 
+                                      
+ 
+                                                          
+become delinquent and placed for collection or charged off. He gambled and sustained 
+approximately $5,000 in losses over the years. One account - his home mortgage - was 
+moved into a foreclosure status. Two of his three accounts remain delinquent. 
+The mitigating evidence under the whole-person concept is more substantial. 
+Applicant’s initial financial delinquencies arose because of the downturn in the 
+economy. His employer eliminated overtime and he was put on furlough with mandatory 
+days off without pay. The absence of overtime continued through March 2009. Applicant 
+borrowed needed funds to enable him to pay his mortgage, and eventually repaid the 
+loan. He engaged the services of a debt management company to help him resolve two 
+delinquent credit card accounts, and hired an attorney to dispute and defend a 
+foreclosure action which he contends was filled with fraud. He settled one credit card 
+debt, and is now working on the other credit card debt. The foreclosure action is in the 
+state court, along with other such actions, and Applicant’s attorney believes Applicant 
+can establish that the mortgage lender violated HAMP, FIRREA, and RESPA, among 
+other laws. Applicant is current on all other accounts and has not incurred any new 
+debts. Applicant did not turn his back on his creditors. Instead, he followed legal and 
+financial advice. His substantial good-faith efforts are sufficient to mitigate continuing 
+security concerns. See AG ¶ 2(a)(1) through AG ¶ 2(a)(9). 
+The Appeal Board has addressed a key element in the whole-person analysis in 
+financial cases stating:90 
+In evaluating Guideline F cases, the Board has previously noted that the 
+concept of “‘meaningful track record’ necessarily includes evidence of 
+actual debt reduction through payment of debts.” However, an applicant is 
+not required, as a matter of law, to establish that he [or she] has paid off 
+each and every debt listed in the SOR. All that is required is that an 
+applicant demonstrate that he [or she] has “ . . . established a plan to 
+resolve his [or her] financial problems and taken significant actions to 
+implement that plan.” The Judge can reasonably consider the entirety of 
+an applicant’s financial situation and his [or her] actions in evaluating the 
+extent to which that applicant’s plan for the reduction of his outstanding 
+indebtedness is credible and realistic. See Directive ¶  E2.2(a) (“Available, 
+reliable information about the person, past and present, favorable and 
+unfavorable, should be considered in reaching a determination.”) There is 
+no requirement that a plan provide for payments on all outstanding debts 
+simultaneously. Rather, a reasonable plan (and concomitant conduct) may 
+provide for the payment of such debts one at a time. Likewise, there is no 
+requirement that the first debts actually paid in furtherance of a reasonable 
+debt plan be the ones listed in the SOR. 
+ 
+Overall, the record evidence leaves me with no questions or doubts as to 
+Applicant’s eligibility and suitability for a security clearance. For all of these reasons, I 
+90 ISCR Case No. 07-06482 at 2-3 (App. Bd. May 21, 2008) (internal citations omitted). 
+ 
+17 
+                                      
+ 
+conclude Applicant has mitigated the security concerns arising from his financial 
+considerations and personal conduct. 
+ 
+Formal Findings 
+ 
+ Formal findings for or against Applicant on the allegations set forth in the SOR, 
+as required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+ 
+ Paragraph 1, Guideline F:   FOR APPLICANT 
+ 
+  Subparagraph 1.a:    For Applicant 
+  Subparagraph 1.b:    For Applicant 
+  Subparagraph 1.c:    For Applicant 
+  Subparagraph 1.d:    For Applicant 
+   
+Paragraph 2, Guideline E:   FOR APPLICANT 
+ 
+  Subparagraph 2.a:    For Applicant 
+   
+Conclusion 
+ 
+ In light of all of the circumstances presented by the record in this case, it is 
+clearly consistent with the national interest to grant Applicant eligibility for a security 
+clearance.  Eligibility for access to classified information is granted. 
+ 
+ 
+                                                     
+________________________ 
+ROBERT ROBINSON GALES 
+Administrative Judge 

@@ -1,0 +1,926 @@
+ 
+1 
+                                      
+ 
+   DEPARTMENT OF DEFENSE 
+       DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+ 
+ 
+In the matter of: ) 
+ ) 
+ ------------------  )  ISCR Case No. 11-02344 
+  ) 
+Applicant for Security Clearance ) 
+  
+ 
+Appearances 
+ 
+For Government: Alison O’Connell, Esquire, Department Counsel 
+For Applicant: Bradley P. Moss, Esquire 
+ 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+GALES, Robert Robinson, Administrative Judge: 
+ 
+Applicant mitigated the security concerns regarding foreign influence and 
+personal conduct. Eligibility for a security clearance and access to classified information 
+is granted. 
+ 
+Statement of the Case 
+ 
+On May 21, 2009, Applicant applied for a security clearance and submitted an 
+Electronic Questionnaire for Investigations Processing (e-QIP) version of a Security 
+Clearance Application (SF 86).1 On an unspecified date, the Defense Office of Hearings 
+and Appeals (DOHA) issued her a set of interrogatories. She responded to the 
+interrogatories on August 12, 2011.2 DOHA issued a Statement of Reasons (SOR) to 
+her on January 5, 2012,3 pursuant to Executive Order 10865, Safeguarding Classified 
+                                                          
+1
+ Government Exhibit 1 (SF 86, dated May 21, 2009). 
+ 
+2
+ Government Exhibit 3 (Applicant’s Answers to Interrogatories, dated August 12, 2011). 
+ 
+3
+ The SOR was inadvertently dated January 5, 2011. The error was identified and rectified, and Department 
+Counsel’s motion to amend the SOR by deleting the year “2011” and substituting the year “2012”, was granted 
+without objection. See Transcript (Tr.) at 9. 
+ 
+2 
+                                      
+ 
+Information within Industry (February 20, 1960), as amended and modified; Department 
+of Defense Directive 5220.6, Defense Industrial Personnel Security Clearance Review 
+Program (January 2, 1992), as amended and modified (Directive); and the Adjudicative 
+Guidelines for Determining Eligibility For Access to Classified Information (December 
+29, 2005) (AG) applicable to all adjudications and other determinations made under the 
+Directive, effective September 1, 2006. The SOR alleged security concerns under 
+Guidelines B (Foreign Influence) and E (Personal Conduct), and detailed reasons why 
+DOHA was unable to find that it is clearly consistent with the national interest to grant or 
+continue a security clearance for Applicant. The SOR recommended referral to an 
+administrative judge to determine whether a clearance should be granted, continued, 
+denied, or revoked.  
+ 
+ Applicant acknowledged receipt of the SOR on January 14, 2012. In a sworn 
+statement, dated February 3, 2012, Applicant responded to the SOR allegations and 
+requested a hearing before an administrative judge. Department Counsel indicated the 
+Government was prepared to proceed on March 13, 2012, and the case was assigned 
+to me on March 16, 2012. A Notice of Hearing was issued on March 21, 2012, and I 
+convened the hearing, as scheduled, on April 17, 2012. 
+ 
+ During the hearing, five Government exhibits (GE 1 through 5) and five Applicant 
+exhibits (AE A through E) were admitted into evidence without objection. Applicant and 
+two witnesses testified. The Tr. was received on April 25, 2012. 
+ 
+Rulings on Procedure 
+ 
+Department Counsel requested that I take administrative notice of certain 
+enumerated facts pertaining to the Republic of Sudan (Sudan), appearing in 12 written 
+submissions. Facts are proper for administrative notice when they are verifiable by an 
+authorized source and relevant and material to the case. In this instance, the 
+Government relied on source information regarding Sudan in publications of the White 
+House,4 U.S. Department of State,5 and the Congressional Research Service.6 
+                                                                                                                                                                                           
+  
+4
+ The White House, Office of the Press Secretary, Press Release, Statement by the President on the Intent 
+to Recognize Southern Sudan, dated February 7, 2011; Exec. Or. 13412, Blocking Property of and Prohibiting 
+Transactions With the Government of Sudan, dated October 13, 2006; Exec. Or. 13067, Blocking Sudanese 
+Government Property and Prohibiting Transactions With Sudan, dated November 3, 1997.  
+ 
+5
+ U.S. Department of State, Country Specific Information: Sudan, dated November 10, 2011; Bureau of 
+African Affairs, Background Note: Sudan, dated January 10, 2012; U.S. Department of State, Office of the 
+Coordinator for Counterterrorism, State Sponsors of Terrorism, dated August 18, 2011; U.S. Department of State, 
+Bureau of Democracy, Human Rights, and Labor, 2010 Human Rights Report: Sudan, dated April 8, 2011; U.S. 
+Department of State, Bureau of Consular Affairs, Travel Warning: Sudan, dated January 11, 2012; U.S. Department 
+of State, Press Release, Congratulating Sudan on the Results of the Southern Sudan Referendum, dated February 7, 
+2011; U.S. Department of State, Fact Sheet – African Affairs, U.S. Sanctions on Sudan, dated April 23, 2008; U.S. 
+Department of State, Fact Sheet – African Affairs, Overview of Treasury and Commerce Regulations Affecting U.S. 
+Exports to Sudan, dated March 23, 2007.  
+ 
+6
+ Congressional Research Service, Report for Congress, Sudan: The Crisis in Darfur and Status of the 
+North-South Peace Agreement, dated June 15, 2011. 
+ 
+ 
+3 
+                                      
+ 
+After weighing the reliability of the source documentation and assessing the 
+relevancy and materiality of the facts proposed by the Government, pursuant to Rule 
+201, Federal Rules of Evidence, I take administrative notice of certain facts,7 as set 
+forth below under the Sudan subsection.  
+ 
+During the hearing, Department Counsel moved to amend the SOR to conform to 
+the evidence. He sought to amend SOR ¶ 1.c. by deleting the word “China” and 
+substituting the word “Taiwan.” There being no objection, the motion was granted. 
+ 
+Findings of Fact 
+ 
+ In her Answer to the SOR, Applicant admitted, with explanations, nearly all of the 
+factual allegations pertaining to foreign influence (¶¶ 1.a. through 1.i.) of the SOR, as 
+well as the factual allegation pertaining to personal conduct (¶ 2.a.) of the SOR. 
+Applicant’s admissions are incorporated herein as findings of fact. She denied the 
+remaining allegation (¶ 1.j.) or portions of other allegations (portions of ¶ 1.a. and 1.d.)  
+of the SOR. After a complete and thorough review of the evidence in the record, and 
+upon due consideration of same, I make the following additional findings of fact: 
+ 
+Applicant is a 38-year-old employee of a defense contractor who, since 
+December 2008, has served as a deputy recruiting manager, logistic processing 
+manager, and office manager.8 She has never served with the U.S. military.9 She was 
+granted a U.S. secret security clearance in 2004.10  
+ 
+Foreign Influence 
+ 
+Applicant was born in Sudan to Sudanese-born citizen-residents.11 Applicant’s 
+father, an officer of the Sudanese military who was forced to retire,12 sought political 
+asylum in the United States,13 and immigrated here in 1990.14 Applicant completed her 
+                                                          
+7
+ Administrative or official notice is the appropriate type of notice used for administrative proceedings. See 
+McLeod v. Immigration and Naturalization Service, 802 F.2d 89, 93 n.4 (3d Cir. 1986); ISCR Case No. 05-11292 at 4 
+n.1 (App. Bd. Apr. 12, 2007); ISCR Case No. 02-24875 at 2 (App. Bd. Oct. 12, 2006) (citing ISCR Case No. 02-18668 
+at 3 (App. Bd. Feb. 10, 2004)). The most common basis for administrative notice at ISCR proceedings, is to notice 
+facts that are either well known or from government reports. See Stein, Administrative Law, Section 25.01 (Bender & 
+Co. 2006) (listing fifteen types of facts for administrative notice). Requests for administrative notice may utilize 
+authoritative information or sources from the internet. See, e.g. Hamdan v. Rumsfeld, 548 U.S. 557 (2006) (citing 
+internet sources for numerous documents).  
+ 
+ 
+8
+ Government Exhibit 1, supra note 1, at 19; Tr. at 60. 
+ 
+9
+ Government Exhibit 1, supra note 1, at 35. 
+ 
+10
+ Government Exhibit 1, supra note 1, at 75-76. 
+ 
+11
+ Government Exhibit 1, supra note 1, at 40-41; Tr. at 58. 
+ 
+12
+ Government Exhibit 2 (Affidavit, dated December 14, 2010), at 4. 
+ 
+13
+ Government Exhibit 2, supra note 12, at 4. 
+ 
+14
+ Applicant’s Answer to the SOR, dated February 3, 2012, at 2. 
+ 
+4 
+                                      
+ 
+primary schooling in Sudan, and immigrated to the United States with her mother as 
+refugees in 1994.15 She was 20 years of age.16 Applicant enrolled in a community 
+college in September 1996, and received her associate’s degree in cardiovascular 
+technology in May 2005.17 Applicant became a naturalized U.S. citizen in July 2002.18 
+When Applicant became a naturalized U.S. citizen, she took an oath of allegiance to the 
+United States. That oath included the words:19 
+ 
+I hereby declare, on oath, that I absolutely and entirely renounce and 
+abjure all allegiance and fidelity to any foreign prince, potentate, state, or 
+sovereignty, of whom or which I have heretofore been a subject or citizen.  
+ 
+Applicant has worked for a variety of employers, both part-time and full-time 
+since the time she was in college. She was a part-time sales associate from September 
+1998 until December 1999 (when her employer went out of business); a part-time sales 
+associate from December 1999 until June 2000; a cardiovascular technician from July 
+2000 until April 2003; a linguist in Iraq from May 2003 until April 2004; a part-time 
+limousine driver from December 2004 until February 2005; a linguist from February 
+2005 until March 2005; a part-time limousine driver from March 2005 until June 2005; a 
+linguist in Iraq from June 2005 until December 2005; a recruiter, deputy director of 
+recruiting, director of recruiting, and project administrator from December 2005 until 
+December 2008.20 She joined her current employer in December 2008.21 
+ 
+Applicant was married in August 2000.22 She and her husband, a naturalized 
+U.S. citizen who was also born in Sudan,23 have two children, born in the United States 
+in September 2004, and May 2008.24 The family resides together in the United States.25  
+ 
+Both of Applicant’s parents are naturalized U.S. citizens residing in the United 
+States.26 Applicant has two brothers and one sister, all of whom reside in the United 
+                                                                                                                                                                                           
+ 
+15
+ Tr. at 59. 
+ 
+16
+ Tr. at 59. 
+ 
+17
+ Government Exhibit 1, supra note 1, at 17-18; Tr. at 59. 
+ 
+18
+ Government Exhibit 1, supra note 1, at 7-8. 
+ 
+19
+ 8 C.F.R. § 337.1(a) (1995). 
+ 
+20
+ Government Exhibit 1, supra note 1, at 20-33. 
+ 
+21
+ Government Exhibit 1, supra note 1, at 19-20; Tr. at 59-60. 
+ 
+22
+ Government Exhibit 1, supra note 1, at 38. 
+ 
+23
+ Government Exhibit 1, supra note 1, at 38. 
+ 
+24
+ Government Exhibit 1, supra note 1, at 41-42. 
+ 
+25
+ Government Exhibit 1, supra note 1, at 38, 41-42. 
+ 
+26
+ Government Exhibit 1, supra note 1, at 40-41; Applicant’s Answer to the SOR, supra note 12, at 2. 
+ 
+5 
+                                      
+ 
+States.27 A third brother, a student, was murdered in the United States.28 Her sister and 
+one brother are naturalized U.S. citizens, and her other surviving brother is still a 
+Sudanese citizen.29 In addition to her immediate family, Applicant also has several 
+aunts and an uncle. One aunt and uncle are citizens of Sudan, but are legal permanent 
+residents of the United States.30 Three aunts are Sudanese citizens who still reside in 
+Sudan.31 One is a retired professor, and the other two are homemakers.32  
+ 
+Other members of Applicant’s more extended family are: her father-in-law, a 
+retired social worker,33 and her stepmother-in-law, also a retired social worker,34 are 
+both Sudanese citizens who still reside in Sudan;35 her mother-in-law is a naturalized 
+U.S. citizen who works and resides in the United Arab Emirates (UAE);36 her three 
+sisters-in-law are Sudanese citizens who still reside in Sudan, where one is a 
+homemaker, one is a student, and one is unemployed;37 and her three brothers-in-law 
+are Sudanese citizens, with two working in banking and residing in UAE, and one is a 
+businessman residing in the United States with Applicant’s sister.38 One of her brothers-
+in-law in the UAE was recently granted legal permanent U.S. residency status, and 
+expects to relocate here in the near future.39 Other than the military service of 
+Applicant’s father, none of her immediate family or extended family members have ever 
+been affiliated with the Sudanese or any other foreign government or intelligence 
+service.40 
+ 
+Applicant’s method and frequency of contact with her family members and 
+extended family members, especially those still residing outside of the United States, is 
+varied. Applicant has not seen those family members or extended family members still 
+residing in Sudan since August 2007, and generally speaks with them by telephone on 
+                                                                                                                                                                                           
+ 
+27
+ Government Exhibit 1, supra note 1, at 43-46; Government Exhibit 2, supra note 12, at 4-5. 
+ 
+28
+ Government Exhibit 2, supra note 12, at 5. 
+ 
+29
+ Government Exhibit 1, supra note 1, at 43-46; Applicant’s Answer to the SOR, supra note 12, at 2. 
+ 
+30
+ Applicant’s Answer to the SOR, supra note 12, at 5; Government Exhibit 2, supra note 12, at 6. 
+ 
+31
+ Applicant’s Answer to the SOR, supra note 12, at 5-6; Government Exhibit 2, supra note 12, at 7-9. 
+ 
+32
+ Government Exhibit 2, supra note 12, at 7-9. 
+ 
+33
+ Government Exhibit 2, supra note 12, at 5. 
+ 
+34
+ Applicant’s Answer to the SOR, supra note 12, at 3. 
+ 
+35
+ Applicant’s Answer to the SOR, supra note 12, at 3. 
+ 
+36
+ Applicant’s Answer to the SOR, supra note 12, at 4. 
+ 
+37
+ Government Exhibit 2, supra note 12, at 7-8. 
+ 
+38
+ Government Exhibit 2, supra note 12, at 7-9. 
+ 
+39
+ Applicant’s Answer to the SOR, supra note 12, at 7. 
+ 
+40
+ Government Exhibit 2, supra note 12, at 3-9; Applicant’s Answer to the SOR, supra note 12, at 2-7. 
+ 
+6 
+                                      
+ 
+one or two, or as many as four, occasions each year.41 As for those family members 
+residing in UAE, she has not seen her mother-in-law since July or November 2010 
+when her mother-in-law visited Applicant and her husband in the United States, and 
+generally speaks with her by telephone on a weekly basis and has e-mail exchanges on 
+two to three occasions per month.42 One of her brothers-in-law, who will relocate to the 
+United States, visits the family in the United States on a quarterly basis.43 Applicant has 
+not seen her other brother-in-law since August 2007.44 Applicant speaks with each of 
+those brothers-in-law maybe once every three months.45  
+ 
+Applicant’s father has a friend in the United States who is naturalized U.S. citizen 
+(formerly a citizen of Sudan) who is also affiliated with the Sudanese Government.46 
+Applicant first met the individual in 1994 and has seen that individual on infrequent 
+social occasions over the ensuing years.47 Applicant’s most recent contacts with the 
+individual were in 2009 and 2011, at social functions.48 Applicant knows several 
+individuals from her childhood who have remained in Sudan. While they were friends at 
+that time, she no longer maintains close contact with them, and has not seen her friends 
+since August 2007.49 She may, on an annual holiday occasion, speak with them and 
+wish them well.50 
+ 
+Sudan 
+ 
+Sudan has been designated by the U.S. Department of State as a state sponsor 
+of terrorism since 1993. While Sudan continues to pursue counterterrorism operations 
+directly involving threats to U.S. interests and personnel in Sudan, the Sudanese 
+Government openly supports Hamas, considering its members freedom fighters. 
+Nevertheless, in January 2011, the United States announced that the process of 
+withdrawing the “state sponsor of terrorism designation” once Sudan complied with the 
+previously agreed-upon Comprehensive Peace Agreement of 2005 (CPA), as well as 
+current U.S. policy. That policy, announced in 2009, was essentially: 1) achieve a 
+definitive end to conflict, gross human rights abuses, and genocide in Darfur; 2) 
+                                                          
+ 
+41
+ Government Exhibit 2, supra note 12, at 5-9; Applicant’s Answer to the SOR, supra note 12, at 3-6. 
+ 
+42
+ Government Exhibit 2, supra note 12, at 5; Applicant’s Answer to the SOR, supra note 12, at 4. 
+ 
+43
+ Government Exhibit 2, supra note 12, at 7. 
+ 
+44
+ Government Exhibit 2, supra note 12, at 8. 
+ 
+45
+ Applicant’s Answer to the SOR, supra note 12, at 7. 
+ 
+46
+ Government Exhibit 3, supra note 2, at 4-6; Applicant’s Answer to the SOR, supra note 12, at 8. 
+ 
+47
+ Government Exhibit 3, supra note 2, at 4-6; Applicant’s Answer to the SOR, supra note 12, at 8. 
+ 
+48
+ Government Exhibit 3, supra note 2, at 4-6; Applicant’s Answer to the SOR, supra note 12, at 8. 
+ 
+49
+ Applicant’s Answer to the SOR, supra note 12, at 8. 
+ 
+50
+ Applicant’s Answer to the SOR, supra note 12, at 8. 
+ 
+ 
+7 
+                                      
+ 
+implementation of the CPA, resulting in a peaceful post-2011 Sudan, or an orderly path 
+toward two separate and viable states at peace with each other; and 3) ensure that 
+Sudan does not provide a safe haven for international terrorism.  
+ 
+The Sudanese Government has engaged in significant human rights abuses, 
+including extrajudicial and other unlawful killings by government forces; torture, 
+beatings, rape, and other cruel and inhumane treatment by security forces; arbitrary 
+arrest and detention; executive interference with the judiciary and denial of due process; 
+restrictions on citizens’ privacy; restrictions on the freedoms of speech, press, 
+assembly, association, religion, and movement; trafficking in persons; violence and 
+discrimination against women and ethnic minorities; and forced labor. The government 
+monitors Internet communications and the security service reads e-mail messages 
+between private citizens. U.S. citizens are at risk when traveling in Sudan. Terrorists are 
+known to operate in Sudan and continue to seek opportunities to carry out attacks 
+against U.S. interests. A wide network of government informants conducts surveillance 
+in schools, universities, markets, workplaces, and neighborhoods.  
+ 
+Personal Conduct 
+  
+ When Applicant was employed as a recruiter, deputy director of recruiting, 
+director of recruiting, and project administrator from December 2005 until December 
+2008, she was initially permitted to use her personal home computer for work, but she 
+was subsequently provided with a company laptop to work at home. Company 
+proprietary information was stored in her home computer and later uploaded to the 
+laptop to facilitate her work.51 Applicant objected to her “unhealthy and uncomfortable” 
+work environment at the office that was “demeaning and intolerable,” and experienced 
+work-related stress.52 Largely because of her frustrations with the job, on December 15, 
+2008, she submitted her resignation, without advanced notice, to be effective 
+immediately.53 However, before she did so, because of anger towards her management, 
+and because she thought they could be useful at her new job, she sent herself some e-
+mails to her home computer which included three proprietary documents: a hire right 
+consent form, a new personnel hire data form, and a candidate check list, all of which 
+she considered to be harmless blank templates.54 The materials were never 
+subsequently accessed by Applicant and simply remained in her inbox, unopened.55 As 
+part of being out processed, Applicant signed an employee release stating she had 
+returned all employer property, equipment, and documents.56  
+                                                          
+51
+ Applicant’s Answer to the SOR, supra note 12, at 9; Government Exhibit 4 (Affidavit, dated March 26, 
+2010), at 2. 
+ 
+52
+ Applicant’s Answer to the SOR, supra note 12, at 10. 
+ 
+53
+ Government Exhibit 4, supra note 51, at 2. 
+ 
+54
+ Applicant’s Answer to the SOR, supra note 12, at 10; Government Exhibit 4, supra note 51, at 2; Applicant 
+Exhibit B (Affidavit, dated February 27, 2009), at 2. 
+ 
+55
+ Applicant’s Answer to the SOR, supra note 12, at 10; Government Exhibit 4, supra note 51, at 2. 
+ 
+56
+ Government Exhibit 4, supra note 51, at 2. 
+ 
+ 
+8 
+                                      
+ 
+ Applicant commenced her new job with her current employer the following day. 
+During her second week on the job, she created a list of 85 possible candidates who 
+were linguists. The names were taken from proprietary information that was still in her 
+home computer.57 In early January 2009, Applicant was sued by her former employer, 
+seeking monetary and injunctive relief, accusing her of breach of contract, breach of 
+duty of loyalty, breach of duty to maintain confidentiality of employer information, 
+misappropriation of trade secrets, and injunctive relief.58 When she learned of the 
+lawsuit, Applicant deleted all the employer propriety information from her home 
+computer.59 The matter was settled out of court with no money changing hands, and an 
+Order of Nonsuit was issued in June 2009.60 The list of possible linguist candidates she 
+had created was destroyed.61 Applicant acknowledged that her actions were a major 
+mistake and were wrong. She intends to never take similar actions in the future.62 
+ 
+Character References 
+ 
+ Applicant’s former immediate supervisors, a colleague, her facility security 
+officer, and her husband, all support the restoration of her security clearance. They 
+have characterized her in highly favorable terms, and attest to her trustworthiness, 
+professionalism, dedication to her job, very high work ethics, and honesty. They also 
+agree that her actions pertaining to the propriety information was a mistake and out of 
+character for her.63 
+ 
+Policies 
+ 
+The U.S. Supreme Court has recognized the substantial discretion of the 
+Executive Branch in regulating access to information pertaining to national security 
+emphasizing, “no one has a ‘right’ to a security clearance.”64 As Commander in Chief, 
+the President has the authority to control access to information bearing on national 
+security and to determine whether an individual is sufficiently trustworthy to have access 
+to such information. The President has authorized the Secretary of Defense or his 
+                                                          
+57
+ Government Exhibit 4, supra note 51, at 2. 
+ 
+58
+ Government Exhibit 4, supra note 51, at 3. 
+ 
+59
+ Government Exhibit 4, supra note 51, at 3. 
+ 
+60
+ Government Exhibit 4, supra note 51, at 3; Applicant Exhibit A (Order of Nonsuit, dated June 2, 2009); 
+Applicant’s Answer to the SOR, supra note 12, at 12. 
+ 
+61
+ Government Exhibit 4, supra note 51, at 3. 
+ 
+62
+ Applicant’s Answer to the SOR, supra note 12, at 12; Government Exhibit 4, supra note 51, at 3-4. 
+ 
+63
+ Applicant Exhibit D (Character reference, dated April 9, 2012); Applicant Exhibit C (Character reference, 
+dated April 9, 2012); Applicant Exhibit E (Character reference, dated April 12, 2012); Tr. at 34-35, 55-56. 
+ 
+64
+ Department of the Navy v. Egan, 484 U.S. 518, 528 (1988). 
+ 
+ 
+9 
+                                      
+ 
+designee to grant an applicant eligibility for access to classified information “only upon a 
+finding that it is clearly consistent with the national interest to do so.”65   
+ 
+When evaluating an applicant’s suitability for a security clearance, the 
+administrative judge must consider the AG. In addition to brief introductory explanations 
+for each guideline, the AG list potentially disqualifying conditions and mitigating 
+conditions, which are used in evaluating an applicant’s eligibility for access to classified 
+information. 
+ 
+An administrative judge need not view the guidelines as inflexible, ironclad rules 
+of law. Instead, acknowledging the complexities of human behavior, these guidelines 
+are applied in conjunction with the factors listed in the adjudicative process. The 
+administrative judge’s overarching adjudicative goal is a fair, impartial, and 
+commonsense decision. The entire process is a conscientious scrutiny of a number of 
+variables known as the “whole-person concept.” The administrative judge must consider 
+all available, reliable information about the person, past and present, favorable and 
+unfavorable, in making a meaningful decision. 
+ 
+In the decision-making process, facts must be established by “substantial 
+evidence.”66 The Government initially has the burden of producing evidence to establish 
+a potentially disqualifying condition under the Directive, and has the burden of 
+establishing controverted facts alleged in the SOR. Once the Government has produced 
+substantial evidence of a disqualifying condition, under Directive ¶ E3.1.15, the 
+applicant has the burden of persuasion to present evidence in refutation, explanation, 
+extenuation or mitigation, sufficient to overcome the doubts raised by the Government’s 
+case. The burden of disproving a mitigating condition never shifts to the Government.67  
+ 
+A person who seeks access to classified information enters into a fiduciary 
+relationship with the Government predicated upon trust and confidence. This 
+relationship transcends normal duty hours and endures throughout off-duty hours as 
+well. It is because of this special relationship that the Government must be able to 
+repose a high degree of trust and confidence in those individuals to whom it grants 
+access to classified information. Decisions include, by necessity, consideration of the 
+possible risk the applicant may deliberately or inadvertently fail to safeguard classified 
+information. Such decisions entail a certain degree of legally permissible extrapolation 
+as to potential, rather than actual, risk of compromise of classified information.  
+Furthermore, “security clearance determinations should err, if they must, on the side of 
+denials.”68 
+                                                          
+65
+ Exec. Or. 10865, Safeguarding Classified Information within Industry § 2 (Feb. 20, 1960), as amended 
+and modified.    
+ 
+66
+ “Substantial evidence [is] such relevant evidence as a reasonable mind might accept as adequate to 
+support a conclusion in light of all contrary evidence in the record.”  ISCR Case No. 04-11463 at 2 (App. Bd. Aug. 4, 
+2006) (citing Directive ¶ E3.1.32.1).  “Substantial evidence” is “more than a scintilla but less than a preponderance.”  
+See v. Washington Metro. Area Transit Auth., 36 F.3d 375, 380 (4
+th
+ Cir. 1994). 
+ 
+67
+ See ISCR Case No. 02-31154 at 5 (App. Bd. Sep. 22, 2005). 
+ 
+68
+ Egan, 484 U.S. at 531 
+ 
+10 
+                                      
+ 
+ 
+Clearance decisions must be “in terms of the national interest and shall in no 
+sense be a determination as to the loyalty of the applicant concerned.”69 Thus, nothing 
+in this decision should be construed to suggest that I have based this decision, in whole 
+or in part, on any express or implied determination as to Applicant’s allegiance, loyalty, 
+or patriotism. It is merely an indication the Applicant has or has not met the strict 
+guidelines the President and the Secretary of Defense have established for issuing a 
+clearance.  In reaching this decision, I have drawn only those conclusions that are 
+reasonable, logical, and based on the evidence contained in the record. Likewise, I 
+have avoided drawing inferences grounded on mere speculation or conjecture. 
+ 
+Analysis 
+ 
+Guideline B, Foreign Influence 
+ 
+The security concern relating to the guideline for Foreign Influence is set out in 
+AG ¶ 6:       
+Foreign contacts and interests may be a security concern if the individual 
+has divided loyalties or foreign financial interests, may be manipulated or 
+induced to help a foreign person, group, organization, or government in a 
+way that is not in U.S. interests, or is vulnerable to pressure or coercion by 
+any foreign interest. Adjudication under this Guideline can and should 
+consider the identity of the foreign country in which the foreign contact or 
+financial interest is located, including, but not limited to, such 
+considerations as whether the foreign country is known to target United 
+States citizens to obtain protected information and/or is associated with a 
+risk of terrorism. 
+The mere possession of close family ties with a person in a foreign country is not, 
+as a matter of law, disqualifying under Guideline B.  However, if only one relative lives in 
+a foreign country, and an applicant has contacts with that relative, this factor alone is 
+sufficient to create the potential for foreign influence and could potentially result in the 
+compromise of classified information.70 Applicant’s varied relationships with her three 
+aunts, her father-in-law, her stepmother-in-law, and her three sisters-in-law, all of whom 
+are Sudanese citizens who still reside in Sudan; as well as her varied relationships with 
+her two brothers-in-law who are Sudanese citizens residing in the UAE, and her mother-
+in-law who is a U.S. citizen residing in the UAE, are current security concerns for the 
+Government. In addition, the Government remains concerned about family members 
+who are Sudanese citizens who reside in the United States. 
+                                                                                                                                                                                           
+ 
+69
+ See Exec. Or. 10865 § 7. 
+ 
+70
+ See ISCR Case No. 03-02382 at 5 (App. Bd. Feb. 15, 2006); ISCR Case No. 99-0424 at 12 (App. Bd. 
+Feb. 8, 2001). 
+ 
+11 
+                                      
+ 
+The guideline notes several conditions that could raise security concerns. Under 
+AG ¶ 7(a), “contact with a foreign family member, business or professional associate, 
+friend, or other person who is a citizen of or resident in a foreign country if that contact 
+creates a heightened risk of foreign exploitation, inducement, manipulation, pressure, or 
+coercion” is potentially disqualifying. Similarly, under AG ¶ 7(b), “connections to a 
+foreign person, group, government, or country that create a potential conflict of interest 
+between the individual's obligation to protect sensitive information or technology and the 
+individual's desire to help a foreign person, group, or country by providing that 
+information” may raise security concerns. Also, under AG ¶ 7(d), “sharing living quarters 
+with a person or persons, regardless of citizenship status, if that relationship creates a 
+heightened risk of foreign inducement, manipulation, pressure, or coercion,” is 
+potentially disqualifying. I find AG ¶¶ 7(a), 7(b), and 7(d) apply in this case. However, 
+the security significance of these identified conditions requires further examination of 
+Applicant’s respective relationships with her family members and other acquaintances 
+who are Sudanese citizen-residents, as well as U.S. citizens who reside elsewhere, to 
+determine the degree of “heightened risk” or potential conflict of interest.  
+The guideline also includes examples of conditions that could mitigate security 
+concerns arising from foreign influence. Under AG ¶ 8(a), the disqualifying condition 
+may be mitigated where “the nature of the relationships with foreign persons, the 
+country in which these persons are located, or the positions or activities of those 
+persons in that country are such that it is unlikely the individual will be placed in a 
+position of having to choose between the interests of a foreign individual, group, 
+organization, or government and the interests of the U.S.” Similarly, AG ¶ 8(b) may 
+apply where the evidence shows:  
+there is no conflict of interest, either because the individual's sense of 
+loyalty or obligation to the foreign person, group, government, or country is 
+so minimal, or the individual has such deep and longstanding relationships 
+and loyalties in the U.S., that the individual can be expected to resolve any 
+conflict of interest in favor of the U.S. interest. 
+In addition, AG ¶ 8(c) may apply where “contact or communication with foreign citizens 
+is so casual and infrequent that there is little likelihood that it could create a risk for 
+foreign influence or exploitation.”  
+In this instance, Applicant’s relationships with her immediate family members, all 
+of whom reside in the United States, either as U.S. citizens or as Sudanese citizens and 
+permanent U.S. residents, are of minimal security significance. Her other family 
+members, including her mother-in-law who is a U.S. citizen working in the UAE, and two 
+brothers-in-law who work in the UAE, with one soon to relocate to the United States, are 
+of little security significance as the Government has not presented evidence that their 
+residence in the UAE creates a heightened risk of foreign exploitation, inducement, 
+manipulation, pressure, or coercion. This leaves the focus on Applicant’s other 
+extended family members: the father-in-law, the stepmother-in-law, the three aunts, and 
+the three sisters-in-law, and on her acquaintances both in Sudan and in the United 
+States. 
+ 
+12 
+                                      
+ 
+In assessing whether there is a heightened risk because of an applicant’s 
+relatives or associates in a foreign country, it is necessary to consider all relevant 
+factors, including the totality of an applicant’s conduct and circumstances. One such 
+factor is the potential for pressure, coercion, exploitation, or duress. In that regard, it is 
+important to consider the character of the foreign power in question, including the 
+government and entities controlled by the government within the relevant foreign 
+country.  Nothing in Guideline B suggests it is limited to countries that are hostile to the 
+United States.71 In fact, the Appeal Board has cautioned against “reliance on overly 
+simplistic distinctions between ‘friendly’ nations and ‘hostile’ nations when adjudicating 
+cases under Guideline B.”72 
+ 
+Nevertheless, the relationship between a foreign government and the United 
+States may be relevant in determining whether a foreign government or an entity it 
+controls is likely to attempt to exploit a resident or citizen to take action against the 
+United States. It is reasonable to presume that the nature of the government in Sudan 
+and the relationship it has with the United States, may make it more likely that Sudan 
+would attempt to exploit a U.S. citizen through relatives or associates in Sudan. 
+ 
+As noted above, the absence of Sudanese government contacts or attempted 
+contacts with Applicant or her family members and acquaintances, or the apparent 
+absence, so far, of coercive means to obtain sensitive information, does not eliminate 
+the possibility that Sudan would employ some coercive or non-coercive measures in an 
+attempt to exploit a relative.  There is no evidence that Applicant’s family members are, 
+or have been, political activists, challenging the policies of the Sudanese government; 
+that terrorists have approached or threatened Applicant or her family members; that the 
+Sudanese government has approached Applicant; or that her family members currently 
+engage in activities that would bring attention to themselves.  
+ 
+Nevertheless, considering the Sudanese government and its position with 
+respect to human rights, its aggressive intelligence operations against its own citizens, 
+and its relationship with the United States, it is foreseeable that Applicant’s family 
+members could be a means through which Applicant could come to the attention of the 
+regime. They could also be the vehicle through which Sudan might attempt to coerce 
+Applicant. The obscurity of Applicant’s family members is not a meaningful basis for 
+concluding that they are beyond the reach of the regime. The Appeal Board has 
+consistently held that factors such as an applicant’s relatives’ obscurity or the failure of 
+foreign authorities to contact those relatives in the past do not provide a meaningful 
+measure of whether an applicant’s circumstances pose a security risk, when, for 
+example, the relatives are subject to the authority of a regime that is hostile to the 
+United States and has a dismal human rights record.73  
+ 
+                                                          
+71
+ See ISCR Case No. 00-0317 at 6 (App. Bd. Mar. 29, 2002); ISCR Case No. 00-0489 at 12 (App. Bd. Jan. 
+10, 2002). 
+72
+ ISCR Case No. 00-0317 at 6 (App. Bd. Mar. 29, 2002). 
+ 
+73
+ See ISCR Case No. 07-18283 at 5 (App. Bd. Apr. 24, 2009); ISCR Case No. 07-13696 at 5 (App. Bd. Feb. 
+9, 2009). 
+ 
+13 
+                                      
+ 
+However, the significance of the heightened risk is minimized by several factors. 
+On two separate occasions, Applicant was willing to risk her life as part of her duties on 
+behalf of the U.S. combat forces in Iraq. She was fully aware of those risks. These 
+circumstances demonstrate that Applicant will recognize, resist, and report any attempts 
+by a foreign power, terrorist group, or insurgent group to coerce or exploit her.74 
+Applicant has deep and longstanding relationships and loyalties in the U.S. Her 
+husband and children, as well as to Applicant’s parents and surviving siblings, and other 
+family members are U.S. citizens or residents of the United States. She can be 
+expected to resolve any conflict of interest in favor of the U.S. interest. AG ¶¶ 8(a) and 
+8(b) apply, and AG ¶ 8(c) partially applies, especially to the friend of Applicant’s father, 
+and Applicant’s friends from her childhood who have remained in Sudan. Even if AG ¶ 
+8(b) does not fully apply, the security concerns are mitigated under the whole-person 
+analysis below.  
+Guideline E, Personal Conduct 
+ 
+The security concern relating to the guideline for Personal Conduct is set out in 
+AG & 15:       
+ 
+Conduct involving questionable judgment, lack of candor, dishonesty, or 
+unwillingness to comply with rules and regulations can raise questions 
+about an individual's reliability, trustworthiness and ability to protect 
+classified information. Of special interest is any failure to provide truthful 
+and candid answers during the security clearance process or any other 
+failure to cooperate with the security clearance process.  
+The guideline notes several conditions that could raise security concerns. If there 
+is: 
+credible adverse information that is not explicitly covered under any other 
+guideline and may not be sufficient by itself for an adverse determination, 
+but which, when combined with all available information supports a whole-
+person assessment of questionable judgment, untrustworthiness, 
+unreliability, lack of candor, unwillingness to comply with rules and 
+regulations, or other characteristics indicating that the person may not 
+properly safeguard protected information. This includes but is not limited 
+to consideration of:  
+(1) untrustworthy or unreliable behavior to include breach of client 
+confidentiality, release of proprietary information, unauthorized release of 
+sensitive corporate or other government protected information; (2) 
+disruptive, violent, or other inappropriate behavior in the workplace; (3) a 
+pattern of dishonesty or rule violations; (4) evidence of significant misuse 
+of Government or other employer's time or resources, 
+                                                          
+ 
+74
+ See ISCR Case No. 07-00034 at 2 (App. Bd. Feb. 5, 2008). 
+ 
+14 
+                                      
+ 
+security concerns may be raised under AG ¶ 16(d). 
+Under AG ¶ 16(e), “personal conduct, or concealment of information about one’s 
+conduct, that creates a vulnerability to exploitation, manipulation, or duress, such as (1) 
+engaging in activities which, if known, may affect the person’s personal, professional, or 
+community standing . . . . ,” may raise security concerns. Similarly, under AG ¶ 16(f), a 
+“violation of a written or recorded commitment made by the individual to the employer 
+as a condition of employment,” is potentially disqualifying.  
+ 
+As to AG ¶¶ 16(d), 16(e), and 16(f), the sole focus of those potentially 
+disqualifying conditions is the incident pertaining to Applicant’s December 2008 actions 
+in sending herself some e-mails to her home computer which included three proprietary 
+documents, all of which she considered to be harmless blank templates. As part of 
+being out processed, Applicant signed an employee release stating she had returned all 
+employer property, equipment, and documents, but she had not. During her second 
+week on her new job, she created a list of 85 possible linguist-candidates taken from 
+proprietary information that was still in her home computer. In early January 2009, 
+Applicant was sued by her former employer, seeking monetary and injunctive relief, 
+accusing her of breach of contract, breach of duty of loyalty, breach of duty to maintain 
+confidentiality of employer information, misappropriation of trade secrets, and injunctive 
+relief. AG ¶¶ 16(d), 16(e), and 16(f), have been established. 
+ 
+The guidelines also include examples of conditions that could mitigate security 
+concerns arising from personal conduct. If “the offense is so minor, or so much time has 
+passed, or the behavior is so infrequent, or it happened under such unique 
+circumstances that it is unlikely to recur and does not cast doubt on the individual’s 
+reliability, trustworthiness, or good judgment,” AG ¶ 17(c) may apply. Also, AG ¶ 17(d) 
+may apply if “the individual has acknowledged the behavior and obtained counseling to 
+change the behavior or taken other positive steps to alleviate the stressors, 
+circumstances, or factors that caused untrustworthy, unreliable, or other inappropriate 
+behavior, and such behavior is unlikely to recur.” Similarly, if “the individual has taken 
+positive steps to reduce or eliminate vulnerability to exploitation, manipulation, or 
+duress,” AG ¶ 17(e) may apply. 
+ 
+When she learned of the lawsuit, Applicant deleted all the employer proprietary 
+information from her home computer. The matter was settled out of court with no money 
+changing hands, and an Order of Nonsuit was issued in June 2009. The list of possible 
+linguist candidates she had created was destroyed. Applicant acknowledged that her 
+actions were a major mistake and were wrong. She intends to never repeat such 
+actions in the future. The incident in question occurred only once – while she was in a 
+stressful situation in December 2008 – three and one-half years ago. There has been 
+no recurrence of similar conduct, and it is unlikely to recur, as she has relocated to a 
+much more favorable work environment. Except for that one incident of aberrant 
+behavior, there is little doubt cast on Applicant’s reliability, trustworthiness, or good 
+judgment. Several character references, including those who knew Applicant before, 
+during, and after the incident, concur in an assessment that Applicant is trustworthy and 
+ 
+15 
+                                      
+ 
+exhibits the highest standards of ethical conduct and moral character. AG ¶¶ 17(c), 
+17(d), and 17(e) all apply. 
+ 
+Whole-Person Concept 
+ 
+ Under the whole-person concept, the administrative judge must evaluate an 
+applicant’s eligibility for a security clearance by considering the totality of the applicant’s 
+conduct and all the circumstances. The administrative judge should consider the nine 
+adjudicative process factors listed at AG ¶ 2(a):  
+ 
+(1) the nature, extent, and seriousness of the conduct; (2) the 
+circumstances surrounding the conduct, to include knowledgeable 
+participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to 
+which participation is voluntary; (6) the presence or absence of 
+rehabilitation and other permanent behavioral changes; (7) the motivation 
+for the conduct; (8) the potential for pressure, coercion, exploitation, or 
+duress; and (9) the likelihood of continuation or recurrence. 
+ 
+Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a security 
+clearance must be an overall commonsense judgment based upon careful consideration 
+of the guidelines and the whole-person concept. Moreover, I have evaluated the various 
+aspects of this case in light of the totality of the record evidence and have not merely 
+performed a piecemeal analysis.75       
+There is some evidence against mitigating Applicant’s situation. Sudan is a state 
+sponsor of terrorism that is widely known for significant human rights abuses. With three 
+aunts, a father-in-law, stepmother-in-law, three sisters-in-law, and an acquaintance, all 
+of whom are Sudanese citizens who still reside in Sudan, there is a potential risk that 
+Sudan would forcefully attempt to coerce Applicant through those individuals. In 
+addition, there was Applicant’s December 2008 action related to the proprietary 
+information she had wrongfully retained and used. (See AG & 2(a)(8).)  
+The mitigating evidence under the whole-person concept is more substantial. 
+While Sudan is a state sponsor of terrorism, it is not believed to be an active collector of 
+U.S. economic intelligence and proprietary information, and there is no evidence that 
+Sudan uses coercive measures to gain access to such information. It is apparent that 
+Sudan’s self-interest is simply remaining in power. It is very unlikely Sudan would 
+forcefully attempt to coerce Applicant through her extended family members and her 
+acquaintance still residing in Sudan. The presence of those extended family members 
+and the acquaintance in Sudan without any affiliation or relationship to the Government 
+of Sudan does not generate a realistic potential for exploitation. As for those family 
+members residing in the UAE or the United States, the likelihood of Sudanese efforts 
+against them is even more remote.  
+                                                          
+75
+ See U.S. v. Bottone, 365 F.2d 389, 392 (2d Cir. 1966); See also ISCR Case No. 03-22861 at 2-3 (App. 
+Bd. Jun. 2, 2006). 
+ 
+ 
+16 
+                                      
+ 
+ 
+Since Applicant first received a security clearance in 2004, the foreign influence 
+issues have largely improved in her favor, with more family members moving out of 
+Sudan and becoming U.S. citizens or residents. There is decreased evidence of a 
+“heightened risk” of foreign exploitation, inducement, manipulation, pressure, or 
+coercion. As for the personal conduct issue, that one incident of aberrant behavior took 
+place three and one-half years ago, and there has been no recurrence of similar 
+conduct.  It is unlikely to recur. Under the evidence presented, I have no questions 
+about Applicant’s reliability, trustworthiness, and ability to protect classified information. 
+See AG ¶ 2(a)(1) through AG ¶ 2(a)(9).76 
+ 
+Formal Findings 
+ 
+ Formal findings for or against Applicant on the allegations set forth in the SOR, 
+as required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+ 
+ Paragraph 1, Guideline B:   FOR APPLICANT 
+ 
+  Subparagraph 1.a:    For Applicant 
+  Subparagraph 1.b:    For Applicant 
+  Subparagraph 1.c:    For Applicant  
+Subparagraph 1.d:    For Applicant 
+  Subparagraph 1.e:    For Applicant 
+  Subparagraph 1.f:    For Applicant  
+Subparagraph 1.g:    For Applicant 
+  Subparagraph 1.h:    For Applicant 
+  Subparagraph 1.i:    For Applicant  
+Subparagraph 1.j:    For Applicant 
+ 
+ Paragraph 2, Guideline E:   FOR APPLICANT 
+ 
+  Subparagraph 2.a:    For Applicant  
+   
+  
+                                                          
+76
+ Although I had previously requested briefs pertaining to the applicability of Department of Defense Manual 
+5220.22-M, National Industrial Security Program Operating Manual (NISPOM), (February 2006) §2-204, under the 
+circumstances herein, a decision on its applicability is not being made. 
+ 
+17 
+                                      
+ 
+Conclusion 
+ 
+ In light of all of the circumstances presented by the record in this case, it is 
+clearly consistent with the national interest to grant Applicant eligibility for a security 
+clearance.  Eligibility for access to classified information is granted. 
+ 
+                                          
+            
+________________________ 
+ROBERT ROBINSON GALES 
+Administrative Judge 

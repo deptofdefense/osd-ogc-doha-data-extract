@@ -1,0 +1,435 @@
+ 
+1 
+ 
+                                                              
+DEPARTMENT OF DEFENSE 
+DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+ 
+In the matter of: ) 
+ ) 
+ REDACTED )  ISCR Case No. 16-03495 
+ ) 
+Applicant for Security Clearance ) 
+ 
+ 
+Appearances 
+ 
+For Government: Mary Margaret Foreman, Esq., Department Counsel 
+For Applicant: Mark S. Zaid, Esq. 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+MENDEZ, Francisco, Administrative Judge: 
+ 
+Applicant did not present sufficient evidence to mitigate security concerns raised 
+by his repeated failure to follow security rules and regulations for the handling of classified 
+and other sensitive information. His misuse of information technology systems also 
+remains a security concern. Clearance is denied. 
+ 
+Statement of the Case 
+ 
+On December 12, 2014, due to security concerns raised by a history of security 
+infractions and violations, the Department of Defense (DoD) Consolidated Adjudications 
+Facility (CAF) revoked Applicant’s eligibility for access to sensitive compartmented 
+information (SCI). He did not appeal the revocation. 
+ 
+On February 2, 2017, the CAF sent Applicant a Statement of Reasons (SOR) 
+alleging security concerns under Guideline K (handling protected information) and 
+Guideline M (use of information technology).1 On March 3, 2017, Applicant answered the 
+SOR and requested a hearing (Answer). 
+                                                          
+1 The CAF’s December 2014 action did not directly impact Applicant’s security clearance eligibility. It is 
+unclear from the record whether his submission of a new security clearance application in February 2015 
+was triggered by the adverse SCI decision or part of the periodic reinvestigation of his background.  
+ 
+2 
+ 
+ On June 22, 2017, a date mutually agreed to by the parties, the hearing was held. 
+Applicant testified and called a longtime reference as a witness. The exhibits offered by 
+the parties were admitted into the administrative record without objection.2 The hearing 
+transcript (Tr.) was received on July 6, 2017, and the record closed on July 24, 2017. 
+ 
+Findings of Fact 
+ 
+Applicant has been working for his employer since shortly after earning his 
+undergraduate degree in 1982. He has held a security clearance for over 30 years. He 
+has contributed greatly to the national defense, and is highly regarded by his employer, 
+colleagues, and government client.  
+ 
+From 2003 to 2012, Applicant was involved in a series of security infractions and 
+violations, culminating in the revocation of his SCI access in 2014. He was involved in a 
+subsequent violation of corporate policy in 2015, when he attempted to send proprietary 
+information to his personal email account. The incidents are further described below:  
+ 
+Failure to properly secure and account for classified information (SOR 1.a, 1.d, and 1.e).3 
+ 
+Between 2003 and 2012, Applicant committed multiple security infractions 
+involving his failure to properly secure classified safes or work areas and his failure to 
+properly account for classified documents. He was counseled after each incident.  
+ 
+In late September 2009, Applicant was issued a security violation after an internal 
+audit by the company’s security office uncovered a number of improperly stored classified 
+documents in a container for which he was the custodian. The documents were classified 
+at a higher level than the container was authorized to store. Internal company 
+documentation reflects that Applicant was given refresher security training, but Applicant 
+does not recall receiving such remedial training.  
+ 
+At hearing, Applicant explained that a former colleague, after working late one day, 
+asked to place the classified documents in his (Applicant’s) container. Applicant did not 
+review the documents before they were placed in the container. He testified that the 
+documents had a cover sheet on them indicating that they were at the appropriate 
+classification level for storage in the container. After his colleague placed the documents 
+in the container, Applicant forgot about them until about a year later when the container 
+was audited by corporate security. The container had last been audited by Applicant in 
+January 2009, and he did not report any issues.  
+ 
+                                                          
+2 Government Exhibits 1 – 7; Applicant’s Exhibits A and B. The Government also had no objection to the 
+exhibits Applicant forwarded with his Answer. These exhibits were also admitted into the record. 
+Correspondence, the notice of hearing, and case management order are attached to the record as 
+Appellate Exhibits (App. Exh.) I – III. 
+ 
+3 Tr. 79-85, 95, 99-102, 112-114; Exhibit 7. The SOR also alleges an incident from 1983, when Applicant 
+failed to properly lock a classified safe. This incident from over 30 years ago is not probative of Applicant’s 
+present suitability, even when it is considered together with his more recent conduct. Accordingly, SOR 1.a 
+is amended to delete reference to this 1983 incident.  
+ 
+3 
+ 
+Under questioning by Department Counsel, Applicant admitted that, as the 
+custodian of the container, he was responsible for reviewing all documents before they 
+were put in the container. He acknowledged failing to do so on this occasion.4  
+ 
+2008 Security Incident – Inserting removable media containing classified information on 
+an unclassified computer system (SOR 1.b and 1.c).5   
+ 
+In about 2008, Applicant was working on a time-sensitive classified project. He 
+inserted a computer disk marked “secret" into an unclassified computer system at work 
+and copied its classified contents. He did so because the software tool he needed to fix 
+an issue was only available on the unclassified system. He explained that going through 
+the proper channels to get the software tool put on the classified system would have likely 
+delayed the project by several months. Applicant admits that, at the time, he understood 
+his actions constituted a security violation. He did not report the violation.6 This security 
+violation was uncovered in 2012, when the Air Force Office of Special Investigations 
+(AFOSI) interviewed Applicant following a separate security incident. 
+ 
+The classified information remained on Applicant’s work computer for some time, 
+including during and after a suspected security breach (hack) of his employer’s computer 
+systems by a third party in 2009. By the time of the hack, Applicant had been issued a 
+new computer by his employer. However, Applicant’s old computer, which contained the 
+classified information, remained operable and was likely still connected to his employer’s 
+unclassified information systems. The file containing the classified information was not 
+compromised during the hack. 
+ 
+2009 Security Incident – copying classified information onto removable device 
+(SOR 1.c).7  In approximately 2009, Applicant copied some information from his work 
+computer onto a thumb drive. He then transferred the information to an internet-enabled 
+laptop that his company had provided him to allow him to telework. Sometime later, when 
+reviewing the material, Applicant discovered that one of the copied documents was 
+marked “secret.” Applicant reviewed the document and did not believe that it contained 
+any classified material. He suspected that a junior engineer on his team improperly placed 
+the secret markings on the document. Applicant knew from his annual security briefings 
+that he was not authorized to remove classified markings from a document. Nevertheless, 
+he removed the classified markings. He looked for the thumb drive that he had used to 
+copy the files, including the secret document, but was unable to find it.  
+ 
+Three years later, in about May 2012, when Applicant was leaving a secure 
+environment, a security guard found the thumb drive in his (Applicant’s) brief case. The 
+device was confiscated and turned over to AFOSI. The ensuing AFOSI investigation 
+determined that the thumb drive contained about 25 classified documents. One of the 
+                                                          
+4 Tr. 101. 
+ 
+5 Tr. 34-51, 95-99; Exhibit 3. 
+ 
+6 Tr. 97. 
+ 
+7 Tr. 51-70, 102-112; Exhibit 3.  
+ 
+4 
+ 
+documents, which was determined to contain classified information, was the one that 
+Applicant thought had been improperly marked “secret.” At hearing, Applicant maintained 
+his belief that the document was improperly marked classified by the junior engineer. 
+ 
+Applicant consented to an AFOSI search of his office, home, vehicles, and 
+computers. He admitted during AFOSI interviews that he was not authorized to have the 
+thumb drive in the secure environment. He also admitted to removing the classified 
+markings from the document marked “secret,” which the AFOSI found on his computer.  
+ 
+Applicant also consented to AFOSI administered polygraphs, which found “no 
+deception indicated” to relevant questions, including regarding whether he had given 
+classified information to unauthorized persons. Federal prosecutors declined to bring 
+criminal charges against Applicant.   
+ 
+2012 Security Violation – unauthorized disclosure (SOR 1.f).8  
+ 
+In approximately February 2012, Applicant was giving a classified briefing. He was 
+asked a question by one of the participants at the briefing and, in responding to the 
+question, Applicant revealed information that was at a higher classification level than the 
+clearance level of the briefing. An internal security investigation determined that classified 
+information was compromised, and Applicant was issued a security violation. He was 
+provided remedial security training. (It is unclear from the record whether this remedial 
+training occurred before or after the security incident in May 2012, when the unauthorized 
+thumb drive was discovered in Applicant’s brief case as he exited a secure environment.)  
+ 
+2015 Attempted Mishandling of Sensitive (corporate) Information.9  
+ 
+In approximately July 2015, Applicant tried to send a document containing 
+corporate proprietary information, marked “ITAR (International Traffic and Arms 
+Regulation) controlled, non-exportable,” from his work email to his personal email 
+account. He did so in order to work on the material at home. The email was not delivered 
+because of its size. Applicant was counseled for violating company policy.  
+ 
+Applicant regrets his past mistakes in mishandling classified and sensitive 
+information. He promises not to engage in similar conduct in the future. He has not had 
+access to classified information since approximately 2013 or 2014.10 
+ 
+Law, Policies, and Regulations 
+ 
+This case is decided under Executive Order (E.O.) 10865, Safeguarding Classified 
+Information within Industry (February 20, 1960), as amended; DoD Directive 5220.6, 
+Defense Industrial Personnel Security Clearance Review Program (January 2, 1992), as 
+                                                          
+8 Tr. 85-88, 104; Exhibit 6. 
+ 
+9 Tr. 106-112, 115; Answer. 
+ 
+10 Tr. 78, 92-94, 107. 
+ 
+5 
+ 
+amended (Directive); and the adjudicative guidelines (AG) implemented on June 8, 2017, 
+through Security Executive Agent Directive 4 (SEAD-4).11  
+ 
+“[N]o one has a ‘right’ to a security clearance.” Department of the Navy v. Egan, 
+484 U.S. 518, 528 (1988). Instead, persons are only eligible for access to classified 
+information “upon a finding that it is clearly consistent with the national interest” to 
+authorize such access. E.O. 10865 § 2. 
+ 
+When evaluating an applicant’s eligibility for a security clearance, an administrative 
+judge must consider the adjudicative guidelines. In addition to brief introductory 
+explanations, the guidelines list potentially disqualifying and mitigating conditions. The 
+guidelines are not inflexible rules of law. Instead, recognizing the complexities of human 
+behavior, an administrative judge applies the guidelines in a  commonsense manner, 
+considering all available and reliable information, in arriving at a fair and impartial 
+decision. AG ¶ 2. 
+ 
+Department Counsel must present evidence to establish controverted facts alleged 
+in the SOR. Directive ¶ E3.1.14.12 Applicants are responsible for presenting “witnesses 
+and other evidence to rebut, explain, extenuate, or mitigate facts admitted by the applicant 
+or proven . . . and has the ultimate burden of persuasion as to obtaining a favorable 
+clearance decision.” Directive ¶ E3.1.15.  
+ 
+Administrative Judges must remain fair and impartial, and conduct all hearings in 
+a timely and orderly manner. Judges must carefully balance the needs for the expedient 
+resolution of a case with the demands of due process. Therefore, an administrative judge 
+will ensure that an applicant: (a) receives fair notice of the issues, (b) has a reasonable 
+opportunity to address those issues, and (c) is not subjected to unfair surprise. Directive, 
+¶ E3.1.10; ISCR Case No. 12-01266 at 3 (App. Bd. Apr. 4, 2014).  
+ 
+In evaluating the evidence, a judge applies a “substantial evidence” standard, 
+which is something less than a preponderance of the evidence. Specifically, substantial 
+evidence is defined as “such relevant evidence as a reasonable mind might accept as 
+adequate to support a conclusion in light of all the contrary evidence in the same record.” 
+Directive, ¶ E3.1.32.1. 
+ 
+Any doubt raised by the evidence must be resolved in favor of the national security. 
+AG ¶ 2(b). See also SEAD-4, ¶ E.4. Additionally, the Supreme Court has held that 
+responsible officials making “security clearance determinations should err, if they must, 
+on the side of denials.” Egan, 484 U.S. at 531. 
+ 
+                                                          
+11 ISCR Case No. 02-00305 at 3 (App. Bd. Feb. 12, 2003) (security clearance decisions must be based on 
+current DoD policy and standards). See also App. Exh. I (May 2017 emails from the parties noting their 
+positions that the new guidelines apply in this case). 
+ 
+12 See also ISCR Case No. 15-05565 (App. Bd. Aug. 2, 2017) (favorable decision reversed because 
+Department Counsel failed to present evidence to substantiate allegation that was denied by applicant); 
+ISCR Case No. 14-05986 (App. Bd. May 26, 2017) (rejecting Department Counsel’s argument that an 
+adverse decision can be based solely on non-alleged conduct). 
+ 
+6 
+ 
+ A person who seeks access to classified information enters into a fiduciary 
+relationship with the Government predicated upon trust and confidence. This relationship 
+transcends normal duty hours. The Government reposes a high degree of trust and 
+confidence in individuals to whom it grants access to classified information. Decisions 
+include, by necessity, consideration of the possible risk an applicant may deliberately or 
+inadvertently fail to safeguard classified information. Such decisions entail a certain 
+degree of legally permissible extrapolation of potential, rather than actual, risk of 
+compromise of classified information. 
+ 
+Analysis 
+ 
+Guideline K, Handling Protected Information 
+ 
+ The heightened security concern raised in a case involving a security violation(s) 
+is explained at AG ¶ 33: 
+ 
+Deliberate or negligent failure to comply with rules and regulations for 
+handling protected information-which includes classified and other sensitive 
+government information,  and proprietary  information-raises doubt about 
+an individual's trustworthiness, judgment, reliability, or willingness and 
+ability to safeguard such information, and is a serious security concern.13 
+ 
+ In assessing Applicant’s case, I considered all applicable disqualifying and 
+mitigating conditions, including the following: 
+ 
+AG ¶ 34(a): deliberate or negligent disclosure of protected information to 
+unauthorized persons, including, but not limited . . . persons present at 
+seminars, meetings, or conferences; 
+ 
+AG ¶ 34(b): collecting or storing protected information in any unauthorized 
+location;  
+ 
+AG ¶ 34(c): loading, . . . storing, transmitting, or otherwise handling 
+protected information . . . on any unauthorized equipment or medium; 
+ 
+AG ¶ 34(e): copying or modifying protected information in an unauthorized 
+manner designed to conceal or remove classification or other document 
+control markings; 
+ 
+AG ¶ 34(g): any failure to comply with rules for the protection of classified 
+or sensitive information; 
+ 
+AG ¶ 34(h): negligence or lax security practices that persist despite 
+counseling by management; 
+                                                          
+13 See also ISCR Case No. 10-04911 at 5 (App. Bd. Dec. 19, 2011) (“Once it is established that an applicant 
+has committed security violations, he or she has a ‘very heavy burden’ of persuasion that he or she should 
+have a clearance. Security violations ‘strike at the heart of the industrial security program.’”) 
+ 
+7 
+ 
+AG ¶ 35(a): so much time has elapsed since the behavior, or it has 
+happened so infrequently or under such unusual circumstances, that it is 
+unlikely to recur and does not cast doubt on the individual's current 
+reliability, trustworthiness, or good judgment; and 
+ 
+AG ¶ 35(b): the individual responded favorably to counseling or remedial 
+security training and now demonstrates a positive attitude toward the 
+discharge of security responsibilities. 
+ 
+ Applicant has repeatedly failed to comply with rules and regulations for the proper 
+handling and safeguarding of classified information. Although some of his security-
+significant conduct can be ascribed to good intentions gone wrong, he was keenly aware 
+at times that his actions were in direct contravention of security rules and regulations. He 
+not only failed to report his misconduct, but took calculated steps to hide it. He left 
+classified and other sensitive information out in the open susceptible to compromise, and 
+for years was not even aware where he had left a thumb drive containing classified 
+information. He continued to engage in serious misconduct even after receiving 
+counseling, security violations, and remedial training. Applicant’s failure to reform his 
+behavior led to the actual compromise of classified information. Even after being the 
+subject of a criminal investigation, Applicant continued to engage in conduct that could 
+have led to the compromise of sensitive information.  
+ 
+As for the passage of time since the last reported security incident in 2012, 
+Applicant failed to demonstrate that such was the result of permanent and positive 
+behavioral changes. Instead, the lack of additional security incidents appears more likely 
+attributable to the proactive steps Applicant’s employer took to remove his access to 
+classified information. Applicant’s recent attempt to send sensitive corporate information 
+to his personal email also diminishes the mitigating value of the passage of time. This 
+incident strongly suggests that Applicant still does not appreciate the need to follow rules 
+and regulations for the proper handling of sensitive information.  
+ 
+In short, Applicant failed to meet his heavy burden of proof and persuasion. His 
+repeated failure to abide by rules and regulations regarding the handling and 
+safeguarding of classified information remains a security concern.14 
+ 
+Guideline M, Use of Information Technology 
+ 
+An applicant’s failure to comply with rules, procedures, guidelines, or regulations 
+pertaining to information technology systems may raise similar security concerns that are 
+present in a Guideline K case. The misuse of information technology systems on the part 
+of an applicant calls into question their reliability, trustworthiness, and willingness and 
+ability to protect sensitive systems, networks, and information. See generally AG ¶ 39.  
+ 
+Here, for similar reasons discussed above, I find that Applicant’s misuse of 
+information technology systems, which left classified information vulnerable to 
+                                                          
+14 Specifically, I find that AG ¶¶ 34 (a) through 34(c), 34(e), 34(g), and 34(h) apply. None of the mitigating 
+conditions apply. 
+ 
+8 
+ 
+compromise, also raises the Guideline M security concern. Of note, Applicant deliberately 
+downloaded and stored on a removable device, a thumb drive, classified information and 
+then lost the thumb drive. He never reported the security violation, nor his loss of the 
+thumb drive containing the classified information, until confronted years later by criminal 
+investigators after he was caught leaving a secure site with the unauthorized device. 
+When the thumb drive was searched, it contained many more classified documents than 
+even Applicant realized he had improperly copied onto the device.  
+ 
+Furthermore, Applicant’s recent attempt to send sensitive corporate information to 
+his personal email account, without regard to the fact that such information would be 
+transmitted through unsecure means and potentially through servers located in another 
+country(-ies), evidences a lack of true reform. He did so in contravention of his company’s 
+internal policies. The disqualifying conditions listed at AG ¶¶ 40(d), 40(f), and 40(g) apply.  
+ 
+Although Applicant’s conduct was not done with malicious intent and, in one 
+instance, he sidestepped rules because he felt pressure to complete a time-sensitive 
+Government project, I find that security concerns remain. Applicant failed to show that 
+similar conduct is unlikely to reoccur and, if it did, he would report it.  
+ 
+Whole-Person Concept 
+ 
+ Under the whole-person concept, an administrative judge must evaluate an 
+applicant’s eligibility for a security clearance by considering the totality of an applicant’s 
+conduct and all the relevant circumstances. An administrative judge should consider the 
+whole-person factors listed at AG ¶ 2(d) and 2(f). I hereby incorporate my above analysis 
+and highlight some additional whole-person factors.  
+ 
+ Applicant has held a security clearance for a long time and his work has contributed 
+to the national defense. Furthermore, he is clearly a good, hardworking individual and 
+some of his past poor decisions were likely attributable to difficult personal circumstances 
+(i.e., his former wife’s death, which left him a single father raising and caring for three 
+teenage children). Also, I do not question his sincerity when he expressed remorse for 
+his past actions. However, the favorable record evidence is insufficient to fully mitigate 
+the serious security concerns raised by Applicant’s repeated failure to comply with rules 
+and regulations regarding the proper handling of classified information. Overall, the record 
+evidence leaves me with doubts as to his eligibility for access to classified information.15 
+ 
+  
+                                                          
+15 In light of Applicant’s unique expertise and contributions, I considered the exceptions in SEAD-4, 
+Appendix C. However, I agree with Department Counsel’s position that none of the exceptions are 
+warranted in this case. Applicant has been provided multiple opportunities over the years to conform his 
+behavior to that expected of all clearance holders and has failed to do so. See SEAD-4, ¶ E.3 and Appendix 
+A, ¶ 2(h); contrast with ISCR Case No. 10-03646 at 2 (App. Bd. Dec. 28, 2011) (under previous version of 
+the guidelines, judges had “no authority to grant an interim, conditional or probationary clearance.”)  
+ 
+9 
+ 
+Formal Findings 
+ 
+ Formal findings for or against Applicant on the allegations set forth in the SOR, as 
+required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+ 
+ Paragraph 1, Guideline K:      AGAINST APPLICANT 
+ 
+  Subparagraphs 1.a – 1.g:    Against Applicant 
+ 
+Paragraph 2, Guideline M:     AGAINST APPLICANT 
+ 
+ Subparagraph 2.a:     Against Applicant 
+ 
+Conclusion 
+ 
+ In light of the record evidence, it is not clearly consistent with the interest of national 
+security to grant Applicant continued eligibility for access to classified information. 
+Applicant’s request for a security clearance is denied. 
+ 
+ 
+ 
+____________________ 
+Francisco Mendez 
+Administrative Judge 

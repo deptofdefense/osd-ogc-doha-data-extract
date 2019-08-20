@@ -1,0 +1,246 @@
+  This case is adjudicated under Executive Order 10865, Safeguarding Classified Information within Industry,1
+dated February 20, 1960, as amended, and DoD Directive 5220.6, Defense Industrial Personnel Security
+Clearance Review Program , dated January 2, 1992, as amended (Directive). In addition to the Executive
+Order and Directive, this case is adjudicated under the revised Adjudicative Guidelines for Determining
+Eligibility for Access to Classified Information (Revised Guidelines) approved by the President on December
+29, 2005. The Revised Guidelines were then modified by the Defense Department, effective September 1,
+2006. They supersede or replace the guidelines published in Enclosure 2 to the Directive. They apply to all
+adjudications and other determinations where an SOR has been issued on September 1, 2006, or thereafter.
+The Directive is pending revision or amendment. 
+1
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+------------------------------  ) ISCR Case No. 08-06407
+SSN: ---------------------- )
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Robert E. Coacher, Esquire, Department Counsel
+For Applicant: Pro Se
+                                
+______________
+Decision
+______________
+LEONARD, Michael H., Administrative Judge:
+Applicant contests the Defense Department’s intent to deny his eligibility for an
+industrial security clearance. Acting under the relevant Executive Order and DoD
+Directive,  the Defense Office of Hearings and Appeals (DOHA) issued a statement of1
+reasons (SOR) to Applicant on January 28, 2009. The SOR is equivalent to an
+administrative complaint and it details the factual basis for the action. The issues here
+fall under Guideline F for financial considerations. 
+2
+Applicant replied to the SOR on February 4, 2009, and he requested a hearing.
+The case was assigned to me on May 1, 2009. The hearing took place on June 2, 2009,
+during which testimony was taken and Exhibits 1–6 and A were admitted. The transcript
+(Tr.) was received on June 10, 2009. The record was kept open until June 16, 2009, to
+allow Applicant an opportunity to submit additional documentary evidence. He did so in
+a timely manner and that document is marked and admitted, without objections, as
+Applicant’s Exhibit B. For the reasons discussed below, this case is decided for
+Applicant.
+Findings of Fact
+Applicant replied to the SOR by admitting all the allegations of indebtedness
+(nine delinquent debts ranging in amounts from $171 to $16,726 for a total of about
+$46,817). Based on the record evidence as a whole, the following facts are established
+by substantial evidence.
+Applicant is a 25-year-old employee of a federal contractor. He is a high-school
+graduate who has worked as an electronics engineer technician since November 2007.
+He is seeking to obtain a security clearance for the first time. 
+Applicant finished high school in 2002. Since then, his employment history has
+included jobs as an apprentice electrician, delivery driver, deck hand, and waiter,
+although his main occupation was as an apprentice electrician. He was employed as an
+apprentice electrician in August 2006 when he had a skateboarding accident that
+knocked him unconsciousness. Rescue personnel were called to the scene, and
+Applicant was transported by ambulance to an airfield where he was flown by helicopter
+to a hospital. He had regained consciousness, but was subject to tests at the hospital.
+He suffered no serious head injury and all tests were normal. He was released the
+same day. He had just started a new job a few months before the accident, and so he
+did not yet have medical insurance, but he did not miss any work due to the accident. 
+Applicant was unable to pay the uninsured medical bills stemming from his
+medical transportation and treatment. He also fell behind on his other debts. In about
+February 2007, he consulted a law firm to assist him in paying off the medical debts. He
+paid $189 monthly for about 12 months, but he quit because he did not think this plan
+was showing sufficient progress.  
+Applicant retained the services of a bankruptcy lawyer in September 2008
+(Exhibit 2). A Chapter 7 bankruptcy petition was filed in February 2009, and the
+bankruptcy court granted Applicant a discharge in May 2009 (Exhibits 6 and B). The
+schedules to the Chapter 7 petition list $21,976 in total assets and $93,728 in total debt.
+The Schedule F lists $59,578 in unsecured creditors, to include approximately $24,000
+owed to seven medical creditors. 
+It appears all the debts at issue in the SOR were included in the Chapter 7
+bankruptcy case. Five of the nine debts in the SOR were medical accounts stemming
+ Department of Navy v. Egan, 484 U.S. 518, 528 (1988) (“it should be obvious that no one has a ‘right’ to a2
+security clearance”); Duane v. Department of Defense, 275 F.3d 988, 994 (10  Cir. 2002) (“It is likewise plainth
+that there is no ‘right’ to a security clearance, so that full-scale due process standards do not apply to cases
+such as Duane’s.”).
+ Directive, ¶ 3.2. 3
+ Directive, ¶ 3.2. 4
+3
+from his skateboarding accident. Those five debts totaled about $16,086, of which more
+than $13,000 was based on the cost of the helicopter flight. Of the remaining four debts
+in the SOR, the largest is a $16,726 debt owed to a bank for a deficiency on a 2003
+Dodge Ram truck. Applicant bought the truck in 2006 (before the accident) for a friend
+who made the payments on the loan. The friend served three months in jail in 2007 and
+made no payments during that time. Applicant made no payments, and the truck was
+repossessed in about January 2008. The other large debt is a $11,677 credit card
+account that went into default and then collection after Applicant incurred the medical
+bills. 
+Applicant’s group manager believes that Applicant has “performed very well not
+only technically but in how he handled himself” (Tr. at 33). The group manager has
+taken an active interest in Applicant, and, in turn, Applicant sought out his assistance for
+this proceeding. The group manager has counseled Applicant on financial matters,
+explaining concepts such as debt, interest accruals, income, assets, savings, and payoff
+expectations (Exhibit A). The group manager analyzed Applicant’s indebtedness and
+concluded that it spiked with the uninsured medical bills.   
+His gross income for 2008 was about $48,000. He earns an hourly wage and
+usually earns a gross monthly income of about $2,800, but that does not include
+overtime. He currently has no credit card debt, he has some savings, he participates in
+his company’s 401(k) plan, and he is sharing living expenses with roommates. He now
+understands that it was foolish of him to sign loan paperwork for a friend, and he also
+understands the dangers of becoming financially overextended (Tr. at 68–69).   
+Policies
+This section sets forth the general principles of law and policies that apply to an
+industrial security clearance case. To start, the only purpose of a security clearance
+decision is to decide if an applicant is suitable for access to classified information, and it
+is well established that no one has a right to a security clearance.  2
+A favorable decision establishes eligibility of an applicant to be granted a security
+clearance for access to confidential, secret, or top-secret information.  An unfavorable3
+decision: (1) denies any application; (2) revokes any existing security clearance; and (3)
+prevents access to classified information at any level.  4
+ Egan, 484 U.S. at 531.5
+ ISCR Case No. 02-18663 (App. Bd. Mar. 23, 2004).6
+ Directive, Enclosure 3, ¶ E3.1.14.7
+ Directive, Enclosure 3, ¶ E3.1.15.8
+ Directive, Enclosure 3, ¶ E3.1.15.9
+ Egan, 484 U.S. at 531. 10
+ ISCR Case No. 01-20700 (App. Bd. Dec. 19, 2002) (citations omitted).11
+ Executive Order 10865, § 7.12
+4
+As noted by the Supreme Court in the case of Department of Navy v. Egan, “the
+clearly consistent standard indicates that security clearance determinations should err, if
+they must, on the side of denials.”  Under Egan, Executive Order 10865, and the5
+Directive, any doubt about whether an applicant should be allowed access to classified
+information will be resolved in favor of protecting national security.
+There is no presumption in favor of granting, renewing, or continuing eligibility for
+access to classified information.  The government has the burden of presenting6
+evidence to establish facts alleged in the SOR that have been controverted.  An7
+applicant is responsible for presenting evidence to refute, explain, extenuate, or mitigate
+facts that have been admitted or proven.  In addition, an applicant has the ultimate8
+burden of persuasion to obtain a favorable clearance decision.  In Egan, the Supreme9
+Court stated that the burden of proof is less than a preponderance of the evidence.10
+The agency appellate authority has followed the Court’s reasoning, and a judge’s
+findings of fact are reviewed under the substantial-evidence standard.11
+The Revised Guidelines set forth adjudicative guidelines to consider when
+evaluating a person’s security clearance eligibility, including disqualifying conditions
+(DC) and mitigating conditions (MC) for each guideline. In addition, each clearance
+decision must be a fair and impartial commonsense decision based upon consideration
+of all the relevant and material information, the pertinent criteria and adjudication
+factors, and the whole-person concept. A person granted access to classified
+information enters into a special relationship with the government. The government
+must be able to have a high degree of trust and confidence in those persons to whom it
+grants access to classified information. The decision to deny a person a security
+clearance is not a determination of an applicant’s loyalty.  Instead, it is a determination12
+that the applicant has not met the strict guidelines the President has established for
+granting eligibility for a security clearance.
+ Revised Guidelines at pp. 13–14 (setting forth the security concern and the disqualifying and mitigating13
+conditions). 
+ Revised Guidelines at p. 13. 14
+ DC 1 is “inability or unwillingness to satisfy debts.” 15
+ DC 3 is “a history of not meeting financial obligations.” 16
+5
+Analysis
+Under Guideline F for financial considerations,  a security concern typically13
+exists due to significant unpaid debts. “Failure or inability to live within one’s means,
+satisfy debts, and meet financial obligations may indicate poor self-control, lack of
+judgment, or unwillingness to abide by rules and regulations, all of which can raise
+questions about an individual’s reliability, trustworthiness, and ability to protect classified
+information.”  Similarly, an individual who is financially irresponsible may also be14
+irresponsible, unconcerned, negligent, or careless in properly handling and
+safeguarding classified information.   
+The record evidence supports a conclusion that Applicant has a history of
+financial problems. His history of financial problems raises security concerns because it
+indicates inability or unwillingness to satisfy debts  and a history of not meeting15
+financial obligations  within the meaning of Guideline F. The record evidence shows16
+Applicant incurred more than $45,000 of delinquent debt, which is a particularly large
+amount given his youthful age. Even setting aside the medical debts, there is still about
+$30,000 in delinquent debt. And the Chapter 7 bankruptcy paperwork reveals still more
+debt. These facts and circumstances are more than sufficient to establish these two
+disqualifying conditions. And the same facts and circumstances suggest financial
+irresponsibility. 
+The guideline also provides that certain conditions may mitigate security
+concerns:
+MC 1–the behavior happened so long ago, was so infrequent, or occurred
+under such circumstances that it is unlikely to recur and does not cast
+doubt on the individual’s current reliability, trustworthiness, or good
+judgment;
+MC 2–the conditions that resulted in the financial problem were largely
+beyond the person’s control (e.g., loss of employment, a business
+downturn, unexpected medical emergency, or a death, divorce or
+separation), and the individual acted responsibly under the circumstances;
+ Revised Guidelines at pp. 1–2. 17
+6
+MC 3–the person has received or is receiving counseling for the problem
+and/or there are clear indications that the problem is being resolved or is
+under control;
+MC 4–the individual initiated a good-faith effort to repay overdue creditors
+or otherwise resolve debts;
+MC 5–the individual has a reasonable basis to dispute the legitimacy of
+the past-due debt which is the cause of the problem and provides
+documented proof to substantiate the basis of the dispute or provides
+evidence of actions to resolve the issue; or 
+MC 6–the affluence resulted from a legal source of income. 
+All of the mitigating conditions have been considered and three apply in
+Applicant’s favor. First, MC 2 applies because the uninsured medical debts were due to
+an unexpected medical emergency that was largely beyond Applicant’s control. He
+acted responsibly under the circumstances by attempting to pay the debts through a
+payment plan. Second, MC 3 applies because Applicant, via the Chapter 7 bankruptcy
+proceeding, went through mandated financial counseling, and he obtained a discharge
+from legal liability for any debts included in the bankruptcy. Given these circumstances,
+there are clear indications that Applicant’s financial problems are now resolved or are
+under control. Third, MC 4 applies because Applicant made a good-faith effort, albeit
+unsuccessful, to address his indebtedness via the repayment plan. His termination of
+the plan due to lack of progress does not negate his good faith by initiating the effort.  
+I also considered this case in light of the whole-person concept, which requires
+an administrative judge to evaluate a person’s eligibility by considering the totality of the
+person’s conduct and all the circumstances. An administrative judge should consider
+the nine adjudicative process factors listed in the Revised Guidelines as follows: (1) the
+nature, extent, and seriousness of the conduct; (2) the circumstances surrounding the
+conduct, to include knowledgeable participation; (3) the frequency and recency of the
+conduct; (4) the individual’s age and maturity at the time of the conduct; (5) the extent to
+which participation is voluntary; (6) the presence or absence of rehabilitation and other
+permanent behavioral changes; (7) the motivation for the conduct; (8) the potential for
+pressure, coercion, exploitation, or duress; and (9) the likelihood of continuation or
+recurrence.  17
+Several of these factors apply in Applicant’s favor. Factor 2 applies because the
+circumstances surrounding Applicant’s financial problems show that the uninsured
+medical debts were the tipping point that caused his financial condition to deteriorate to
+the point where it overwhelmed him. Factor 4 applies because Applicant was young and
+inexperienced when he incurred the indebtedness. He is now more savvy and mature
+and better equipped to handle his financial responsibilities. And factors 8 and 9 apply
+because—with the Chapter 7 bankruptcy case completed—both the potential for
+7
+pressure, coercion, exploitation, or duress as well as the likelihood of continuation or
+recurrence of financial problems are low. At this time, Applicant’s financial problems are
+no longer overwhelming, and he is not in the middle of financial turmoil. He is on the
+way to putting his financial house in good order. On balance, I am persuaded that
+Applicant’s history of financial problems is a thing of the past and will not be an item of
+concern in the future. 
+To conclude, Applicant presented sufficient evidence to rebut, explain, extenuate,
+or mitigate the security concerns under Guideline F. Applicant met his ultimate burden
+of persuasion to obtain a favorable clearance decision. This case is decided for
+Applicant. 
+Formal Findings
+The formal findings on the SOR allegations, as required by ¶ E3.1.25 of
+Enclosure 3 of the Directive, are:
+Paragraph 1, Guideline F: For Applicant 
+Subparagraphs 1.a–1.i:  For Applicant
+Conclusion
+In light of all of the circumstances, it is clearly consistent with the national interest
+to grant Applicant eligibility for a security clearance. Eligibility for access to classified
+information is granted.   
+Michael H. Leonard
+Administrative Judge 

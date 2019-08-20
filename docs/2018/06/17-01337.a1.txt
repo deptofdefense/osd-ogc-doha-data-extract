@@ -1,0 +1,173 @@
+KEYWORD: Guideline F
+DIGEST: Given the facts in this case, the Judge’s conclusion that Applicant knew there was
+stock trading activity taking place on his son’s account and such activity could have tax
+consequences was a reasonable inference that could be drawn from the evidence. Applicant has
+failed to show the Judge erred in either her findings or conclusions regarding the tax lien.
+Adverse decision affirmed.
+CASENO: 17-01337.a1
+DATE: 06/13/2018
+DATE: June 13, 2018
+In Re:
+----------------------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-01337
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro Se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On May
+15, 2017, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On March 14, 2018, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Elizabeth M. Matchinski denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following discussion, we affirm the
+Judge’s decision.
+The Judge’s Findings of Fact
+Applicant is a 60-year-old employee of a defense contractor. The SOR alleged four
+delinquent debts. The Judge found in favor of Applicant on three of those allegations and against
+him on the allegation that he was indebted on a Federal tax lien for about $355,000. Regarding the
+tax lien, the Judge found,
+When Applicant answered the SOR, he contested the alleged $355,000 tax
+lien on the basis that the tax lien filed against him in 2009 had been released. At his
+hearing, Applicant challenged the IRS Notice of Federal Tax lien . . . because the
+taxpayer identification number did not match his social security number, although
+the lien bore his name and current address.  (Tr. 20.)  Applicant subsequently
+testified that the tax lien may relate to a family member.  (Tr. 33-35.)  When pressed
+on the issue, Applicant admitted that when his 23-year-old son was a minor (around
+age eight), he had an investment account, and that the tax identification number
+associated with the . . . tax lien was his son’s social security number.  (Tr. 35.) 
+Applicant then blamed his financial advisor, who had generated significant gross
+proceeds on the account from short-term trading allegedly without Applicant’s
+consent. Applicant acknowledged, however, that he had not expressed any concerns
+to his financial advisor because, at least initially, he believed that the financial
+advisor was [...] making all of those trades on his son’s behalf, but he also admitted
+that he “lost track of the account for a while.”  (Tr. 35-36, 38.)  Applicant admitted
+that he was responsible for the tax issues on his then minor son’s account, and that
+he had not filed tax returns for his son for the tax years 2003, 2004, or 2005.  It was
+a matter of getting the documents together.  (Tr. 36, 38.)  Applicant expressed his
+belief that the tax lien could be cleared up with the IRS and that he owed no taxes
+because of the net losses on the stock trades.  (Tr. 36, 49.)  Applicant denied
+receiving any notice from the IRS about the tax lien.  He claimed not to have known
+about the tax lien before his OPM interview in January 2017.  As of December 2017,
+2
+he had made no payments to the IRS because he disputes the assessed tax liabilities. 
+(Tr. 47, 53-54.)1
+In a post-hearing submission, Applicant presented his son’s undated and unsigned Federal
+income tax returns for 2002, 2003, and 2004. Those tax returns reflected a total tax liability of about
+$300.  At the close of the record, the alleged tax lien had not been released.
+ 
+The Judge’s Analysis
+The recently completed tax returns, which were not shown to have been filed, may reduce
+the tax liability and release the tax lien.  However, this security clearance decision must be based
+on the evidence, which includes an outstanding tax lien for which Applicant is primarily responsible
+because his minor son could not have authorized the trades.  He knew there was significant stock
+trading on his son’s account that could have tax reporting consequences.  His losing track of the
+account for a while does not constitute a condition beyond his control.  As of the close of the record,
+the tax lien was unresolved.  It was premature to conclude the tax returns will mitigate the financial
+concerns arising from the tax lien.
+In her whole-person analysis, the Judge stated,
+Applicant exercised poor judgment in handling his responsibilities with regard to
+reporting the gains and losses on his then minor son’s investment account to the IRS
+for multiple years.  Applicant was less than fully forthcoming about the tax lien at
+his security clearance hearing.  He initially expressed doubts about the tax lien,
+which was addressed to him at his current address, because the taxpayer
+identification number did not belong to him.  He claimed he was “trying to get it
+cleared up and figure out what [the lien] is all about.”  When asked whether he knew
+anything about the lien or the circumstances that led to the lien, he responded that he
+needed more information.  He later admitted that one of the agents thought it
+pertained to a member of his family and that it could be associated with an
+investment account of the older of his two sons.  When asked who handled the
+investments for his then underage son, Applicant responded, “It changed brokerages
+a couple of times.”  As to who would have been the responsible party to deal with
+the IRS, Applicant answered, “If he was a minor, I guess that would have fallen on
+me.”  Applicant had a good idea that the lien was generated because of the gross
+proceeds in stock trades on his son’s investment account.  He knew he had not filed
+tax returns for those three years for his son.2
+Applicant failed to exercise the good judgment that must be expected of
+persons with security clearance eligibility by not fulfilling his tax obligations with
+1 Decision at 4.
+2 Decision at 9.
+3
+regard to reporting the investment activity and not paying the taxes owed in a timely
+fashion. By initially withholding significant facts known to him about the tax matter
+during his hearing testimony, he raised doubts about whether he can be counted on
+to act without regard to his self-interest. After considering all the facts and
+circumstances, I conclude that it is not clearly consistent with the national interest
+to continue Applicant’s security clearance eligibility.3
+Discussion
+  In his appeal brief, Applicant states that his son’s tax returns for the years in question were
+filed after the hearing, provides a copy of a canceled check payable to the U.S. Treasury, and
+indicates that he expects the tax lien to be resolved shortly.  These statements and the cancelled
+check constitute new evidence that the Appeal board cannot consider.  Similarly, while the case was
+before the Board, Applicant submitted more new evidence regarding IRS actions to eliminate
+Applicant’s debt for 2004 and all but $879 of his debt for 2003.  The Board cannot consider those
+documents either.  Directive ¶ E3.1.29.
+Applicant challenges that Judge’s conclusion that “Applicant knew there had been significant
+stock-trading activity on his son’s account and that it had tax reporting implications.”  Appeal Brief
+at 1.  He contends that he did not know of that stock trading activity at the time, only learned of it
+recently while investigating the tax lien, and, upon learning about it, proceeded to gather documents
+and complete the tax returns.  As reflected in the above-quoted findings, the Judge referenced
+specific pages of the transcript that supported her findings regarding Applicant’s handling of the tax
+lien.  Based on our review of the record, the Judge’s material findings regarding the tax lien are
+based on substantial evidence.  See, e.g., ISCR Case No. 16-04094 at 2 (App. Bd. Apr. 20, 2018).4
+We note the Judge did not find that Applicant did not know of specific stock trades involving his
+son’s investment account. Given the facts in this case, however, the Judge’s conclusion that
+Applicant knew there was stock trading activity taking place on his son’s account and such activity
+could have tax consequences was a reasonable inference that could be drawn from the evidence.
+Applicant has failed to show the Judge erred in either her findings or conclusions regarding the tax
+lien.5
+Applicant also contends that the Judge mis-weighed the evidence.  In this regard, he cites
+to his resolution of three of the alleged debts and his dealings with the IRS, which he states can be
+difficult and time consuming.  He also noted that, because the lien was not listed under his social
+3 Id.
+4 Substantial evidence is “such relevant evidence as a reasonable mind might accept as adequate to support a
+conclusion in light of all the contrary evidence in the same record.”  Directive ¶ E3.1.32.1.
+5 Even if the Judge had concluded that Applicant did not know of the trading on his minor child’s account, such
+a conclusion would not get Applicant very far in this context.  A parent has an obligation to be aware of and make
+decisions for a child’s account of that nature.  Applicant’s alleged failure to fulfill that obligation would have been
+inconsistent with the conduct and character required for a security clearance.  
+4
+security number, the IRS would not discuss the matter with him.  He argues the record shows he has
+taken good-faith efforts to resolve his financial problems.  It is well established that the presence of
+some mitigating evidence does not alone compel the Judge to make a favorable security clearance
+decision.  As the trier of fact, the Judge has to weigh the evidence as a whole and decide whether
+the favorable evidence outweighs the unfavorable evidence, or vice versa.  A party’s disagreement
+with the Judge’s weighing of the evidence, or an ability to argue for a different interpretation of the
+evidence, is not sufficient to demonstrate the Judge weighed the evidence or reached conclusions
+in a manner that was arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 15-08684
+at 2 (App. Bd. Nov. 22, 2017).
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on the record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988). See also, Directive, Encl. 2, App A ¶ 2(b): “Any
+doubt concerning personnel being considered for national security eligibility will be resolved in
+favor of the national security.”
+5
+Order
+The Decision is AFFIRMED.    
+Signed: Michael Ra’anan              
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                  
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+6

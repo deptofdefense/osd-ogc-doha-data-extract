@@ -1,0 +1,132 @@
+KEYWORD: Guideline F; Guideline E
+DIGEST: The Judge properly examined the entire record in making his finding that Applicant’s
+omissions to the SCA were deliberate.  Applicant failed to rebut the presumption that the Judge
+considered all of the record evidence in rendering his unfavorable decision.  Adverse decision
+affirmed.  
+CASE NO: 08-05637.a1
+DATE: 09/09/2010
+DATE: September 9, 2010
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 08-05637
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Daniel F. Crowley, Esq., Department Counsel
+FOR APPLICANT
+Javier N. Maldonado, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On July 30, 2009, DOHA issued a statement of reasons (SOR) advising Applicant of the
+basis for that decision–security concerns raised under Guideline F (Financial Considerations) and
+Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as
+amended) (Directive).  Applicant requested a decision on the written record.  On May 10, 2010, after
+considering the record, Administrative Judge David M. White denied Applicant’s request for a
+security clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+1The Judge made favorable findings for all of the Guideline F allegations.  Therefore, they are not at issue in
+this appeal. 
+Applicant raised the following issue on appeal: whether the Judge erred in concluding that
+Applicant’s omissions on his security clearance application (SCA) were deliberate; whether the
+Judge failed to consider all of the record evidence; whether the Judge’s application of the pertinent
+mitigating conditions was erroneous; and whether the Judge’s whole-person analysis was erroneous.1
+Consistent with the following discussion, we affirm the Judge’s decision.
+The Judge made the following pertinent findings of fact: Applicant is an employee of a
+small-business Defense contractor.  This is his first application for a security clearance.
+In the late 1990s and early 2000s, Applicant worked with his wife in certain private business
+ventures.  One of them was the marketing of a beverage that, while popular in Mexico, did not sell
+well in the U.S.  Additionally, in 2004, Applicant’s daughter was diagnosed with a serious illness
+which took her life four years later.  Applicant paid for his daughter’s extensive medical treatment.
+Because of his business difficulties and expenses associated with his daughter’s illness, Applicant
+accumulated significant debts, owed to three companies.
+Applicant attempted to resolve his financial problems by seeking to negotiate with his
+creditors.  However, they were not responsive.  He therefore entered into an agreement with a debt
+arbitration company (DAC) to act on his behalf.  His agreement with DAC required him to stop
+making payments to his creditors and, instead, make monthly payments to DAC for use in
+negotiating settlements.  Applicant was aware that, by stopping his payments, his creditors would
+consider his debts to be delinquent.  Thanks in part to the efforts of DAC, Applicant’s delinquent
+debts have all been settled.  
+In completing his SCA, Applicant answered “no” to two questions.  These questions inquired
+if he had had delinquent debts during the previous seven years and if he were currently over 90 days
+delinquent on any debt.  His answers were not true, because at the time he completed the SCA he
+had knowingly ceased paying his creditors over a year prior.  The Judge found that Applicant’s
+answers to these questions were deliberately untrue.
+Judge’s Finding of Deliberate Falsification
+Applicant contends that the Judge erred in his finding that he had deliberately provided false
+answers to the questions at issue here.  He contends that the record does not support such a
+conclusion.  He argues that, in evaluating the SCA omissions in light of the Guideline E mitigating
+factors, the Judge, in effect, improperly shifted the burden of production from the Government to
+Applicant.  
+When an applicant denies an allegation contained in a SOR, the Government must produce
+substantial evidence of the truth of the allegation.  Substantial evidence means “such relevant
+evidence as a reasonable mind might accept as adequate to support a conclusion in light of all the
+contrary evidence in the same record.”  Directive  ¶ E3.1.32.1.  In the case of an omission in a SCA
+2See Item 2, Answer to SOR, which includes a copy of Applicant’s agreement with DAC.  This document states
+in part: “Money will accumulate in your account while we work with your creditors, and therefore your monthly payment
+to them will fall behind.  This will show up on your creditor report as missed payments.”  See also Item 8, Answer to
+Interrogatories, which contains a summary of Applicant’s personal subject interview.  In addressing his arrangement with
+DAC, he stated that “prior to the initiation of these payments [to DAC], he was advised by [DAC] to wait one month
+so that his accounts would reflect a status of delinquency.  [DAC] could then step in as the negotiating team.”   
+3See Directive ¶ E3.1.15.  “The applicant is responsible for presenting witnesses and other evidence to rebut,
+explain, extenuate, or mitigate facts admitted by the applicant or proven by Department Counsel, and has the ultimate
+burden of persuasion as to obtaining a favorable clearance decision.”  
+4Applicant states in his appeal brief the following: “Importantly, no oral testimony was taken to determine
+whether Applicant demonstrated the demeanor or character of someone who cannot be believed.”  Applicant Brief at
+6.  Because Applicant had requested a decision on the written record, however, he gave up the opportunity to testify
+personally.  To the extent that Applicant is raising an issue of denial of due process, we conclude that the record does
+not support such a claim.  
+or some other document, the Government’s burden of production requires more than merely showing
+that the omission occurred.  Rather, the Government must present substantial evidence that the
+omission was deliberate.  In evaluating whether the Government has met its burden of production
+concerning an omission, the Judge must examine the omission in light of the record as a whole.  See
+ISCR Case No. 07-16511 at 4 (App. Bd. Dec. 4, 2009).  
+In the case under consideration here, Applicant’s answer to the SOR contained a denial of
+deliberate falsification.  Accordingly, the Judge was required to examine the entirety of the record
+evidence in evaluating whether the Government had met its burden of production.  In this case, the
+Judge discussed Applicant’s high level of education (two years of graduate work), his business and
+financial experience, and record evidence that Applicant was aware at the time he entered into the
+agreement with DAC that his debts would become delinquent.2  The Judge also considered
+Applicant’s exculpatory explanations for the omissions, contained in his answers to the SOR and
+to DOHA interrogatories, and concluded that they lacked credibility.  The Judge’s conclusion that
+Applicant had deliberately omitted his delinquent debts from his SCA is sustainable.  Insofar as he
+reasonably concluded that these omissions constituted Guideline E security concerns, the Judge did
+not err in evaluating the evidence in light of Applicant’s burden of persuasion as to mitigation.3 
+Remaining Issues
+Applicant contends that the Judge failed to consider all of the record evidence, for example
+Applicant’s efforts to resolve his outstanding debts, his cooperation with the security clearance
+investigation, and what he views as the relatively minor nature of the misconduct at issue in this
+appeal.  However, a Judge is presumed to have considered all of the record evidence.  See, e.g.,
+ISCR Case No. 09-05830 at 2 (App. Bd. Jun. 25, 2010).  Applicant’s presentation on appeal is not
+sufficient to rebut the presumption that the Judge considered all of the record evidence.  Neither is
+it sufficient to demonstrate that the Judge exaggerated the significance of Applicant’s SCA
+omissions or otherwise mis-weighed the evidence.4  
+After reviewing the record, we conclude that the Judge examined the relevant data and
+articulated a satisfactory explanation for the decision, “including a ‘rational connection between the
+facts found and the choice made,’” both as to the mitigating conditions and the whole-person factors.
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  The
+Judge’s adverse decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988). 
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.
+Signed: Jeffrey D. Billett             
+Jeffrey D. Billett
+Administrative Judge
+Chairperson, Appeal Board
+Signed: William S. Fields           
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody            
+James E. Moody
+Administrative Judge
+Member, Appeal Board

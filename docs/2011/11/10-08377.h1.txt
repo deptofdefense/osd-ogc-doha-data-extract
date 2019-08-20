@@ -1,0 +1,655 @@
+ 
+1 
+ 
+ 
+                                                              
+    DEPARTMENT OF DEFENSE 
+            DEFENSE OFFICE OF HEARINGS AND APPEALS 
+          
+             
+ 
+In the matter of: ) 
+ ) 
+ -------------------  )  ISCR Case No. 10-08377 
+ ) 
+Applicant for Security Clearance ) 
+ 
+ 
+Appearances 
+ 
+For Government: Carolyn H. Jeffreys, Esquire, Department Counsel 
+For Applicant: Pro se 
+ 
+ 
+ 
+__________ 
+ 
+Decision 
+__________ 
+ 
+ 
+HARVEY, Mark, Administrative Judge: 
+ 
+Applicant’s marijuana use between January 2002 and January 2008 showed 
+poor judgment and raised security concerns. In regard to the whole-person concept, he 
+permitted friends and colleagues to use marijuana on his property as recently as two 
+days before his hearing. Drug involvement concerns are not fully mitigated; however, 
+personal conduct concerns are mitigated. Eligibility for access to classified information 
+is denied. 
+ 
+Statement of the Case 
+ 
+On October 6, 2009, Applicant submitted an Electronic Questionnaires for 
+Investigations Processing (e-QIP) version of a security clearance application (SF-86). 
+(GE 1) On April 8, 2011, the Defense Office of Hearings and Appeals (DOHA) issued a 
+statement of reasons (SOR) to Applicant, pursuant to Executive Order 10865, 
+Safeguarding Classified Information Within Industry, dated February 20, 1960, as 
+amended; Department of Defense Directive 5220.6, Defense Industrial Personnel 
+Security Clearance Review Program (Directive), dated January 2, 1992, as amended; 
+and the adjudicative guidelines (AG) promulgated by the President on December 29, 
+2005. 
+ 
+2 
+ 
+                                                                                                                                                                                                                                     
+The SOR alleged security concerns under Guidelines H (drug involvement) and 
+E (personal conduct). (Hearing Exhibit (HE) 2) The SOR detailed reasons why DOHA 
+could not make the preliminary affirmative finding under the Directive that it is clearly 
+consistent with the national interest to continue a security clearance for Applicant. The 
+SOR recommended referral to an administrative judge to determine whether Applicant’s 
+clearance should be continued or revoked. (HE 2) 
+ 
+On May 6, 2011, Applicant responded to the SOR. (HE 3) On July 22, 2011, 
+Department Counsel indicated she was ready to proceed on Applicant’s case. On 
+August 1, 2011, DOHA assigned Applicant’s case to me. On September 7, 2011, DOHA 
+issued a hearing notice, setting the hearing for September 28, 2011. (HE 1) Applicant’s 
+hearing was held as scheduled. At the hearing, Department Counsel offered two 
+exhibits (GE 1-2) (Tr. 16), and Applicant offered three exhibits. (Tr. 20; AE A1
+ 
+-C) There 
+were no objections, and I admitted GE 1-2 and AE A-C. (Tr. 17, 22) Additionally, I 
+admitted the hearing notice, SOR, and Applicant’s response to the SOR. (HE 1-3) I held 
+the record open until October 7, 2011 to permit Applicant to submit a transcript from a 
+radio discussion about Applicant’s contributions to information technology and a copy of 
+AE A. (Tr. 13) On October 12, 2011, I received the transcript. I also admitted a brief 
+summary of the law on mere presence to establish an offense. (HE 4; Federal Criminal 
+Practice: A Second Circuit Handbook § 46-5, Sufficiency of the Evidence, Mere 
+Presence, 2 pages) On November 1, 2011, Department Counsel informed me that 
+Applicant had not submitted any post-hearing documentation. (HE 5)  
+Motion to Amend the SOR 
+ 
+ SOR ¶ 1.a alleges that Applicant used marijuana with varying frequency from 
+January 2002 to January 2008. At the hearing, Applicant disclosed that he had used 
+marijuana once in fourth grade, and with varying frequency from 1984 to 2008. 
+Department Counsel moved to amend the SOR to reflect the full-scope of Applicant’s 
+marijuana use. (Tr. 54) Applicant objected to the amendment. (Tr. 54) I sustained 
+Applicant’s objection; however, I indicated I would consider all of his marijuana use for 
+purposes of Applicant’s rehabilitation under Guideline H and under the whole-person 
+concept. (Tr. 55-57) See n. 7, infra. 
+ 
+Findings of Fact2
+ 
+ 
+Applicant’s SOR response admitted all of the SOR allegations: (1) he “used 
+marijuana, with varying frequency, between Jan[uary] 2002 and January 2008” (SOR ¶ 
+1.a); (2) he “operated a marijuana quality testing company” (SOR ¶ 1.b); and (3) his 
+                                            
+1 Applicant presented his business licenses at the hearing (AE A), and he said he would provide 
+copies of his business licenses after the hearing. (Tr. 20-22; AE A) However, he did not provide copies of 
+his licenses after the hearing. I find that he had business licenses issued by the State, and copies of the 
+licenses are unnecessary for the record. Applicant has not been prejudiced by the absence of this exhibit 
+from the record. I substituted a memorandum for record (MFR) for Exhibit A.  
+ 
+2Some details have been excluded in order to protect Applicant’s right to privacy. Specific 
+information is available in the cited exhibits. 
+ 
+3 
+ 
+                                                                                                                                                                                                                                     
+drug involvement as specified in (1) and (2) raised judgment concerns under the 
+personal conduct guideline (SOR ¶ 2.a). (HE 3) He disagreed that his conduct raised 
+reliability or trustworthiness concerns, and he emphasized his candor in disclosing his 
+history of drug involvement. (HE 3) His admissions are accepted as factual findings.   
+ 
+Applicant is a 43-year-old employee of a defense contractor. (Tr. 5, 23) In 1988, 
+he graduated from high school. (Tr. 5) In 1991, he was awarded a bachelor’s of science 
+degree in management information systems. (Tr. 5) He intends to marry on October 15, 
+2011. (Tr. 5) He does not have any children. (Tr. 6) He has never served in the military. 
+(GE 1) 
+ 
+Applicant has specialized in cyber security issues and had an important role in 
+mitigating a global worm that was targeting corporate America. (Tr. 21-22) His role is 
+documented in two books. Id. He is very science oriented, and he started two 
+companies at the same time. (Tr. 35) One company was established to analyze the 
+potency of various marijuana samples, and the other was established to infiltrate robotic 
+networks (botnets). (Tr. 34-35, 42-44) The latter company’s goal is to enhance cyber 
+security and to mitigate the damage from malicious botnets by taking over those 
+botnets. Id. His company also conducts analysis of penetrations of systems by botnets. 
+Id.  
+ 
+Drug Involvement 
+ 
+Applicant first used marijuana when he was in the fourth grade. (Tr. 24) The next 
+time he used marijuana was when he was in the 9th grade. (Tr. 25) He used marijuana 
+about twice a year while he was in high school, which was from 1985 to 1988. (Tr. 25) 
+He used marijuana a few times each year of college; however, his total marijuana use 
+was less than ten times each year. (Tr. 25) From 1991 until 2002, he used marijuana 
+infrequently, perhaps every couple of months. (Tr. 27) From 2002 to 2005, he used 
+marijuana a few times each year. (Tr. 30) He is able to moderate his marijuana use. (Tr. 
+29) He is not addicted to marijuana. He said he was not ashamed of his history of 
+marijuana use. (Tr. 29) 
+ 
+Applicant obtained a prescription to use marijuana for treatment of his insomnia. 
+(Tr. 33) He purchased marijuana at pot clubs. (Tr. 33)  
+ 
+Applicant’s fiancé has used marijuana; however, he did not know details about 
+the extent of her marijuana use. (Tr. 41) The most recent use of marijuana at 
+Applicant’s residence was when a former employee came over to Applicant’s residence 
+and used marijuana two days before his hearing. (Tr. 41) Applicant gave her permission 
+to use the marijuana on his property.3
+                                            
+3 The question arises whether Applicant has committed the criminal offense of aiding or abetting 
+or conspiracy to possess marijuana when he authorized a former employee’s marijuana possession when 
+he expressly permitted her to use marijuana on his premises. In United States v. Sarabia, No. 10-4015, 
+2011 U.S. App. Lexis 21240 (2011) at *11-12 the Fifth Circuit explained that “conspiracy under the law is 
+an agreement between two or more persons to  join together to accomplish some unlawful purpose.” The 
+court continued: 
+ (Tr. 41) Applicant’s next door neighbors use 
+ 
+4 
+ 
+                                                                                                                                                                                                                                     
+marijuana. (Tr. 28) Applicant owns a farm, and he does not grow marijuana on his farm. 
+(Tr. 28) He has smelled marijuana smoke at parties at his farm in the last year. (Tr. 62) 
+However, when he detects someone smoking marijuana at his farm he tells them that 
+they “can’t get high here.” (Tr. 62) He has been offered marijuana in the last year. (Tr. 
+64) He summarized, “Having somebody come over to my house and smoke pot, I don’t 
+really care. I’ve certainly seen so much of this [marijuana] industry, it doesn’t phase 
+me.” (Tr. 66) He said he was unwilling to exclude marijuana users from his life, even if 
+that meant he could not hold a security clearance. (Tr. 69, 71)   
+ 
+Applicant wanted to operate a marijuana testing laboratory, and he intended to 
+operate this laboratory in compliance with the laws of his state. (Tr. 32) He obtained 
+state business licenses. (Tr. 32; AE A and B) He taught himself organic chemistry, 
+rebuilt a gas chromatograph, and taught himself how to use it. (Tr. 48) He purchased 
+marijuana test samples when he was starting his marijuana testing laboratory. (Tr. 30) 
+He spent about $2,500 on cannabinoid standards, which he used to evaluate his testing 
+methods so he could determine the amount of THC in a marijuana sample. (Tr. 31) He 
+was purchasing marijuana for testing and not for personal use. (Tr. 31) He did not want 
+to use marijuana at the pot clubs, and his reluctance to use marijuana had a chilling 
+effect on his business. (Tr. 34) Applicant’s attempt to capitalize on the medical 
+marijuana industry was an unpleasant experience for Applicant. (Tr. 28) His marijuana 
+analysis company was unprofitable, and he closed it down around the end of 2007. (Tr. 
+36)  
+ 
+Applicant’s idea to test marijuana potency was a sound business idea. Three 
+businesses are now testing marijuana potency, and Applicant’s business venture was 
+too early in the state legalization process. He noted that the need for testing was only 
+recently and widely recognized as a economically valuable service. (Tr. 50) He 
+emphasized that his marijuana testing business complied with state law. (Tr. 60)   
+ 
+Applicant admitted his marijuana involvement in his October 6, 2009 SF-86, 
+during his January 6, 2010 Office of Personnel Management (OPM) personal subject 
+interview (PSI), and in his responses to DOHA interrogatories. (GE 1, 2) His statements 
+about his drug history are consistent. Aside from his own admissions of marijuana 
+involvement, there is no other evidence of drug involvement such as witness 
+statements, arrests, charges, convictions, or police reports. 
+ 
+                                                                                                                                            
+ 
+Mere presence at the scene of an event, even with knowledge that a crime is being 
+committed, or the mere fact that certain persons may have associated with each other 
+and may have assembled together and discussed common names and interest does not 
+necessarily establish proof of the existence of a conspiracy. Also, a person who has no 
+knowledge of the conspiracy, but who happens to act in a way which advances some 
+purpose of a conspiracy, does not thereby become a conspirator. 
+ 
+See also HE 4. The issue here is not whether Applicant has engaged in criminal conduct but on whether 
+he showed poor judgment by permitting drug use on his premises.    
+ 
+ 
+5 
+ 
+                                                                                                                                                                                                                                     
+Applicant applied for a security clearance because he wanted to contribute to his 
+country, and security-clearance holders told him he had a duty to help the United 
+States. (Tr. 40-41, 72) He could be more effective in the arena of cyber security if he 
+held a security clearance. Id. He enjoyed working with security-clearance holders, and 
+he wanted to work to protect national security and enhance cyber security for 
+Government agencies and corporations. Id.   
+      
+Policies 
+ 
+ The U.S. Supreme Court has recognized the substantial discretion of the 
+Executive Branch in regulating access to information pertaining to national security, 
+emphasizing that, “no one has a ‘right’ to a security clearance.” Department of the Navy 
+v. Egan, 484 U.S. 518, 528 (1988). As Commander in Chief, the President has the 
+authority to control access to information bearing on national security and to determine 
+whether an individual is sufficiently trustworthy to have access to such information.” Id. 
+at 527. The President has authorized the Secretary of Defense or his designee to grant 
+eligibility for access to classified information “only upon a finding that it is clearly 
+consistent with the national interest to do so.”  Exec. Or. 10865, Safeguarding Classified 
+Information within Industry § 2 (Feb. 20, 1960), as amended and modified.    
+ 
+Eligibility for a security clearance is predicated upon meeting the criteria 
+contained in the adjudicative guidelines (AG). These guidelines are not inflexible rules 
+of law. Instead, recognizing the complexities of human behavior, these guidelines are 
+applied in conjunction with an evaluation of the whole person. An administrative judge’s 
+overarching adjudicative goal is a fair, impartial, and commonsense decision. An 
+administrative judge must consider all available, reliable information about the person, 
+past and present, favorable and unfavorable.  
+ 
+ The Government reposes a high degree of trust and confidence in persons with 
+access to classified information. This relationship transcends normal duty hours and 
+endures throughout off-duty hours. Decisions include, by necessity, consideration of the 
+possible risk the applicant may deliberately or inadvertently fail to protect or safeguard 
+classified information. Such decisions entail a certain degree of legally permissible 
+extrapolation as to potential, rather than actual, risk of compromise of classified 
+information. Adverse clearance decisions are made “in terms of the national interest and 
+shall in no sense be a determination as to the loyalty of the [a]pplicant concerned.” See 
+Exec. Or. 10865 § 7. See also Executive Order 12968 (Aug. 2, 1995), Section 3. Thus, 
+nothing in this decision should be construed to suggest that I have based this decision, 
+in whole or in part, on any express or implied determination as to applicant’s allegiance, 
+loyalty, or patriotism. It is merely an indication the applicant has not met the strict 
+guidelines the President and the Secretary of Defense have established for issuing a 
+clearance. 
+ 
+Initially, the Government must establish, by substantial evidence, conditions in 
+the personal or professional history of the applicant that may disqualify the applicant 
+from being eligible for access to classified information. The Government has the burden 
+of establishing controverted facts alleged in the SOR. See Egan, 484 U.S. at 531.  
+ 
+6 
+ 
+                                                                                                                                                                                                                                     
+“Substantial evidence” is “more than a scintilla but less than a preponderance.”  See v. 
+Washington Metro. Area Transit Auth., 36 F.3d 375, 380 (4th Cir. 1994). The guidelines 
+presume a nexus or rational connection between proven conduct under any of the 
+criteria listed therein and an applicant’s security suitability. See ISCR Case No. 95-0611 
+at 2 (App. Bd. May 2, 1996).      
+ 
+Once the Government establishes a disqualifying condition by substantial 
+evidence, the burden shifts to the applicant to rebut, explain, extenuate, or mitigate the 
+facts. Directive ¶ E3.1.15. An applicant “has the ultimate burden of demonstrating that it 
+is clearly consistent with the national interest to grant or continue [his or her] security 
+clearance.” ISCR Case No. 01-20700 at 3 (App. Bd. Dec. 19, 2002). The burden of 
+disproving a mitigating condition never shifts to the Government. See ISCR Case No. 
+02-31154 at 5 (App. Bd. Sep. 22, 2005). “[S]ecurity clearance determinations should err, 
+if they must, on the side of denials.” Egan, 484 U.S. at 531; see AG ¶ 2(b).   
+ 
+Analysis 
+ 
+  Upon consideration of all the facts in evidence, and after application of all 
+appropriate legal precepts, factors, and conditions, I conclude the relevant security 
+concerns are under Guidelines H (drug involvement) and E (personal conduct) with 
+respect to the allegations set forth in the SOR. 
+ 
+Drug Involvement 
+ 
+AG ¶ 24 articulates the security concern concerning drug involvement: 
+ 
+[u]se of an illegal drug or misuse of a prescription drug can raise questions 
+about an individual’s reliability and trustworthiness, both because it may 
+impair judgment and because it raises questions about a person’s ability 
+or willingness to comply with laws, rules, and regulations. 
+ 
+Two drug involvement disqualifying conditions in AG ¶¶ 25(a) and 25(c) could 
+raise a security concern and may be disqualifying in this case: “any drug abuse,”4 and 
+“illegal drug possession . . . [or] processing.” These two disqualifying conditions apply 
+because Applicant used and possessed marijuana between January 2002 and January 
+2008.5
+                                            
+4AG ¶ 24(b) defines “drug abuse” as “the illegal use of a drug or use of a legal drug in a manner 
+that deviates from approved medical direction.” 
+ He admitted his marijuana use on his SF-86, to an OPM investigator, in his 
+ 
+5AG ¶ 24(a) defines “drugs” as substances that alter mood and behavior, including: 
+ 
+(1) Drugs, materials, and other chemical compounds identified and listed in the 
+Controlled Substances Act of 1970, as amended (e.g., marijuana or cannabis, 
+depressants, narcotics, stimulants, and hallucinogens), and (2) inhalants and other 
+similar substances. 
+ 
+Schedules I, II, III, IV, and V, as referred to in the Controlled Substances Act are contained in 21 U.S.C. § 
+812(c). Marijuana is a Schedule (Sch.) I controlled substance. See Drug Enforcement Administration 
+ 
+7 
+ 
+                                                                                                                                                                                                                                     
+response to DOHA interrogatories, in his SOR response, and at his hearing. He 
+possessed marijuana before he used it. He established a business that tested the 
+potency of medical marijuana and sought business at “pot” clubs. He commercially 
+tested a small amount of marijuana for a marijuana distributor. His possession and use 
+of marijuana before January 2002 and his involvement with marijuana after January 
+2008 are not considered as part of the analysis of whether any disqualifying conditions 
+are applicable. 
+   
+  AG ¶ 26 provides for potentially applicable drug involvement mitigating 
+conditions:  
+ 
+(a) the behavior happened so long ago, was so infrequent, or happened 
+under such circumstances that it is unlikely to recur or does not cast doubt 
+on the individual’s current reliability, trustworthiness, or good judgment; 
+ 
+(b) a demonstrated intent not to abuse any drugs in the future, such as:  
+ 
+(1) disassociation from drug-using associates and contacts; 
+ 
+(2) changing or avoiding the environment where drugs were used;  
+ 
+(3) an appropriate period of abstinence; and  
+ 
+(4) a signed statement of intent with automatic revocation of clearance 
+for any violation; 
+ 
+(c) abuse of prescription drugs was after a severe or prolonged illness 
+during which these drugs were prescribed, and abuse has since ended; 
+and 
+ 
+(d) satisfactory completion of a prescribed drug treatment program, 
+including but not limited to rehabilitation and aftercare requirements, 
+without recurrence of abuse, and a favorable prognosis by a duly qualified 
+medical professional. 
+  
+AG ¶ 26(a) can mitigate security concerns when drug offenses are not recent. 
+There are no “bright line” rules for determining when such conduct is “recent.” The 
+determination must be based “on a careful evaluation of the totality of the record within 
+the parameters set by the directive.” ISCR Case No. 02-24452 at 6 (App. Bd. Aug. 4, 
+2004). For example, the Appeal Board determined in ISCR Case No. 98-0608 (App. Bd. 
+Aug. 28, 1997), that an applicant’s last use of marijuana occurring approximately 17 
+months before the hearing was not recent. If the evidence shows “a significant period of 
+time has passed without any evidence of misconduct,” then an administrative judge 
+                                                                                                                                            
+listing at http://www.deadiversion.usdoj.gov/21cfr/cfr/1308/1308 11.htm. See also Gonzales v. Raish, 545 
+U.S. 1 (2005) (discussing placement of marijuana on Schedule I). 
+ 
+8 
+ 
+                                                                                                                                                                                                                                     
+must determine whether that period of time demonstrates “changed circumstances or 
+conduct sufficient to warrant a finding of reform or rehabilitation.”6
+ 
+ 
+Applicant’s marijuana use in this case lasted for approximately 23 years from 
+1985 to 2008, and he permitted friends and colleagues to possess and use marijuana at 
+his residence as recently as two days before his hearing. He did not clearly express his 
+intention of preventing friends and colleagues from possessing and using marijuana at 
+his residence in the future.7
+                                            
+6 ISCR Case No. 02-24452 at 6 (App. Bd. Aug. 4, 2004). In ISCR Case No. 04-09239 at 5 (App. 
+Bd. Dec. 20, 2006), the Appeal Board reversed the judge’s decision denying a clearance, focusing on the 
+absence of drug use for five years prior to the hearing. The Appeal Board determined that the judge 
+excessively emphasized the drug use while holding a security clearance, and the 20 plus years of drug 
+use, and gave too little weight to lifestyle changes and therapy. For the recency analysis the Appeal 
+Board stated:  
+ He recognizes the adverse impact on his life of drug abuse 
+in connection with access to classified information. He also understands that 
+possession of marijuana violates federal law. However, he continues to associate with 
+known drug users. I accept Applicant’s statement as credible that his career goals have 
+ 
+Compare ISCR Case No. 98-0394 at 4 (App. Bd. June 10, 1999) (although the passage 
+of three years since the applicant's last act of misconduct did not, standing alone, compel 
+the administrative judge to apply Criminal Conduct Mitigating Condition 1 as a matter of 
+law, the Judge erred by failing to give an explanation why the Judge decided not to apply 
+that mitigating condition in light of the particular record evidence in the case) with ISCR 
+Case No. 01-02860 at 3 (App. Bd. May 7, 2002) (“The administrative judge articulated a 
+rational basis for why she had doubts about the sufficiency of Applicant's efforts at 
+alcohol rehabilitation.”) (citation format corrections added). 
+ 
+In ISCR Case No. 05-11392 at 1-3 (App. Bd. Dec. 11, 2006) the Appeal Board, affirmed the 
+administrative judge’s decision to revoke an applicant’s security clearance after considering the recency 
+analysis of an administrative judge stating:  
+ 
+The administrative judge made sustainable findings as to a lengthy and serious history of 
+improper or illegal drug use by a 57-year-old Applicant who was familiar with the security 
+clearance process. That history included illegal marijuana use two to three times a year 
+from 1974 to 2002 [drug use ended four years before hearing].  It also included the illegal 
+purchase of marijuana and the use of marijuana while holding a security clearance. 
+ 
+7The SOR did not allege that Applicant possessed and used marijuana prior to January 2002. 
+The SOR did not allege that Applicant knowingly permitted friends and colleagues to possess and use 
+marijuana at his residence. In ISCR Case No. 03-20327 at 4 (App. Bd. Oct. 26, 2006) the Appeal Board 
+listed five circumstances in which conduct not alleged in an SOR may be considered stating:  
+ 
+(a) to assess an applicant’s credibility; (b) to evaluate an applicant’s evidence of 
+extenuation, mitigation, or changed circumstances; (c) to consider whether an applicant 
+has demonstrated successful rehabilitation; (d) to decide whether a particular provision of 
+the Adjudicative Guidelines is applicable; or (e) to provide evidence for whole person 
+analysis under Directive Section 6.3.  
+ 
+(citing ISCR Case No. 02-07218 at 3 (App. Bd. Mar. 15, 2004); ISCR Case No. 00-0633 at 3 (App. Bd. 
+Oct. 24, 2003)). I have considered the non-SOR misconduct for the five above purposes, and not for any 
+other purpose. 
+ 
+ 
+9 
+ 
+                                                                                                                                                                                                                                     
+changed sufficiently to create some certitude that he will continue to abstain from 
+personal drug possession and use. AG ¶ 26(a) partially applies to his marijuana-related 
+offenses.8
+ 
+    
+Applicant demonstrated his intent not to abuse illegal drugs in the future. He has 
+not used marijuana since early 2008. He has broken his patterns of drug abuse, and he 
+has changed his life with respect to illegal drug use. He has abstained from drug abuse 
+for about 45 months. AG ¶ 26(b) partially applies.  
+ 
+AG ¶¶ 26(c) and 26(d) are not applicable because Applicant did not abuse drugs 
+after being issued a prescription that is lawful under federal law. Marijuana was never 
+lawfully prescribed for him under federal law. He did not receive a medical prognosis of 
+low probability of recurrence of drug abuse.   
+ 
+In conclusion, Applicant ended his drug abuse in early 2008, about 45 months 
+ago after more than two decades of sporadic marijuana abuse. The motivations to stop 
+using illegal drugs are evident. He understands the adverse results from marijuana use.9
+ 
+ 
+However, he has not shown or demonstrated a sufficient track record of no drug abuse, 
+and he has consented to marijuana use on his property. Applicant’s drug involvement 
+continues to be a security concern.  
+Personal Conduct 
+ 
+AG ¶ 15 expresses the security concern pertaining to personal conduct: 
+ 
+Conduct involving questionable judgment, lack of candor, dishonesty, or 
+unwillingness to comply with rules and regulations can raise questions 
+about an individual's reliability, trustworthiness and ability to protect 
+classified information. Of special interest is any failure to provide truthful 
+and candid answers during the security clearance process or any other 
+failure to cooperate with the security clearance process. 
+ 
+AG ¶ 16 describes three conditions that could raise a security concern and may 
+be disqualifying in this case: 
+ 
+(c) credible adverse information in several adjudicative issue areas that is 
+not sufficient for an adverse determination under any other single 
+guideline, but which, when considered as a whole, supports a whole-
+person assessment of questionable judgment, untrustworthiness, 
+                                            
+8In ISCR Case No. 02-08032 at 8 (App. Bd. May 14, 2004), the Appeal Board reversed an 
+unfavorable security clearance decision because the administrative judge failed to explain why drug use 
+was not mitigated after the passage of more than six years from the previous drug abuse. 
+ 
+9Approval of a security clearance, potential criminal liability for possession of drugs and adverse 
+health, employment, and personal effects resulting from drug use are among the strong motivations for 
+remaining drug free. 
+ 
+ 
+10 
+ 
+                                                                                                                                                                                                                                     
+unreliability, lack of candor, unwillingness to comply with rules and 
+regulations, or other characteristics indicating that the person may not 
+properly safeguard protected information;  
+ 
+(d) credible adverse information that is not explicitly covered under any 
+other guideline and may not be sufficient by itself for an adverse 
+determination, but which, when combined with all available information 
+supports a whole-person assessment of questionable judgment, 
+untrustworthiness, unreliability, lack of candor, unwillingness to comply 
+with rules and regulations, or other characteristics indicating that the 
+person may not properly safeguard protected information. This includes 
+but is not limited to consideration of: (1) untrustworthy or unreliable 
+behavior . . . ; and (3) a pattern of dishonesty or rule violations . . . ; and 
+ 
+(e) personal conduct, or concealment of information about one's conduct, 
+that creates a vulnerability to exploitation, manipulation, or duress, such 
+as (1) engaging in activities which, if known, may affect the person's 
+personal, professional, or community standing, or (2) while in another 
+country, engaging in any activity that is illegal in that country or that is 
+legal in that country but illegal in the United States and may serve as a 
+basis for exploitation or pressure by the foreign security or intelligence 
+service or other group. 
+ 
+AG ¶¶ 16(c) and 16(d) do not apply. As indicated under the drug involvement 
+guideline, there is credible adverse information that is sufficient for an adverse 
+determination under Guideline H. However, AG ¶ 16(e)(1) applies because marijuana 
+possession and use creates a vulnerability to exploitation, manipulation, or duress, and 
+such conduct adversely affects Applicant’s professional standing as an employee of a 
+Department of Defense contractor. There is substantial evidence of this disqualifying 
+condition, and further inquiry about the applicability of mitigating conditions is required.   
+ 
+AG ¶ 17 provides seven conditions that could mitigate security concerns in this 
+case: 
+ 
+(a) the individual made prompt, good-faith efforts to correct the omission, 
+concealment, or falsification before being confronted with the facts; 
+ 
+(b) the refusal or failure to cooperate, omission, or concealment was 
+caused or significantly contributed to by improper or inadequate advice of 
+authorized personnel or legal counsel advising or instructing the individual 
+specifically concerning the security clearance process. Upon being made 
+aware of the requirement to cooperate or provide the information, the 
+individual cooperated fully and truthfully; 
+ 
+(c) the offense is so minor, or so much time has passed, or the behavior is 
+so infrequent, or it happened under such unique circumstances that it is 
+ 
+11 
+ 
+                                                                                                                                                                                                                                     
+unlikely to recur and does not cast doubt on the individual's reliability, 
+trustworthiness, or good judgment; 
+ 
+(d) the individual has acknowledged the behavior and obtained counseling 
+to change the behavior or taken other positive steps to alleviate the 
+stressors, circumstances, or factors that caused untrustworthy, unreliable, 
+or other inappropriate behavior, and such behavior is unlikely to recur; 
+(e) the individual has taken positive steps to reduce or eliminate 
+vulnerability to exploitation, manipulation, or duress;  
+ 
+(f) the information was unsubstantiated or from a source of questionable 
+reliability; and 
+ 
+(g) association with persons involved in criminal activity has ceased or 
+occurs under circumstances that do not cast doubt upon the individual's 
+reliability, trustworthiness, judgment, or willingness to comply with rules 
+and regulations. 
+  
+AG ¶¶ 17(a) and 17(b) do not apply because Applicant has been candid about 
+his drug involvement, and 17(f) does not apply because Applicant admitted his 
+marijuana possession and use. However, Applicant has met his burden of establishing 
+AG ¶ 17(e) and the SOR allegations under Guideline E are mitigated. His most recent 
+marijuana possession and use was in around January 2008, about 45 months ago. He 
+fully disclosed his marijuana possession and use on multiple occasions. His decision to 
+end his marijuana use is a positive step that tends to reduce or eliminate his 
+vulnerability to exploitation, or duress. I do not believe that anyone could use Applicant’s 
+history of marijuana possession or use to coerce him into compromising classified 
+information.   
+ 
+AG ¶ 15 indicates that poor judgment can cause reliability and trustworthiness 
+concerns, resulting in disqualification under the personal conduct guideline. Judgment 
+issues under the personal conduct guideline are more specifically addressed in this 
+case under the drug involvement guideline. I find for Applicant under Guideline E 
+because those judgment issues are a duplication of the judgment concerns previously 
+discussed under Guideline H.  
+ 
+Whole-Person Concept 
+ 
+ Under the whole-person concept, the administrative judge must evaluate an 
+Applicant’s eligibility for a security clearance by considering the totality of the Applicant’s 
+conduct and all the circumstances. The administrative judge should consider the nine 
+adjudicative process factors listed at AG ¶ 2(a):  
+(1) the nature, extent, and seriousness of the conduct; (2) the 
+circumstances surrounding the conduct, to include knowledgeable 
+participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to 
+ 
+12 
+ 
+                                                                                                                                                                                                                                     
+which participation is voluntary; (6) the presence or absence of 
+rehabilitation and other permanent behavioral changes; (7) the motivation 
+for the conduct; (8) the potential for pressure, coercion, exploitation, or 
+duress; and (9) the likelihood of continuation or recurrence. 
+Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a 
+security clearance must be an overall commonsense judgment based upon careful 
+consideration of the guidelines and the whole-person concept. I have incorporated my 
+comments under Guidelines H and E in my whole-person analysis. Some of the factors 
+in AG ¶ 2(a) were addressed under those guidelines, but some warrant additional 
+comment. 
+ 
+There is some evidence supporting approval of Applicant’s clearance. Applicant 
+was a child in fourth grade when he was introduced to using marijuana. He served his 
+country in the battle against malicious botnets, and he has volunteered to continue to 
+help in the field of cyber security against those who would damage our country using 
+information technology. He stopped using marijuana in 2008. I am confident that he has 
+the ability to abstain from marijuana use. He has consistently described his history of 
+marijuana use in his SF-86, OPM PSI, response to DOHA interrogatories, SOR 
+response, and at his hearing. He knows the consequences of marijuana use. Applicant 
+has contributed to the Department of Defense. There is no evidence of disloyalty or that 
+he would intentionally violate national security. From my review of his book, I am 
+convinced that Applicant is exceptionally intelligent, and he has the potential to be a 
+significant asset to national security. His character and good work performance show 
+some responsibility, rehabilitation and mitigation. I am satisfied that if he continues to 
+abstain from marijuana use, and avoids future offenses he will eventually have future 
+potential for access to classified information.  
+ 
+The evidence against approval of Applicant’s clearance is more substantial at 
+this time. Applicant has sporadically used marijuana for about 25 years from 1985 until 
+early 2008. As recently as two days before his hearing he told a former employer that 
+she could smoke marijuana on his property. He is sufficiently mature to be fully 
+responsible for his conduct. His many years of marijuana use show lack of judgment. 
+He allowed marijuana on his property just two days before his hearing, which “raise[s] 
+questions about [his] reliability, trustworthiness and ability to protect classified 
+information.” See AG ¶¶ 15 and 24. His marijuana involvement under such 
+circumstances raises a serious security concern, and a security clearance is not 
+warranted at this time.  
+ 
+I have carefully applied the law, as set forth in Department of Navy v. Egan, 484 
+U.S. 518 (1988), Exec. Or. 10865, the Directive, and the AGs, to the facts and 
+circumstances in the context of the whole person. I conclude drug involvement concerns 
+are not fully mitigated at this time; however, personal conduct concerns are mitigated. 
+For the reasons stated, I conclude he is not currently eligible for access to classified 
+information.  
+ 
+ 
+13 
+ 
+                                                                                                                                                                                                                                     
+Formal Findings 
+ 
+Formal findings For or Against Applicant on the allegations set forth in the SOR, 
+as required by Section E3.1.25 of Enclosure 3 of the Directive, are:          
+ 
+Paragraph 1, Guideline H:     AGAINST APPLICANT 
+ 
+Subparagraph 1.a:    Against Applicant 
+Subparagraph 1.b:    For Applicant 
+ 
+Paragraph 2, Guideline E:     FOR APPLICANT 
+ 
+Subparagraph 2.a:    For Applicant 
+ 
+Conclusion 
+ 
+In light of all of the circumstances presented by the record in this case, it is not 
+clearly consistent with national interest to grant Applicant eligibility for a security 
+clearance. Eligibility for access to classified information is denied. 
+ 
+ 
+ 
+_________________________ 
+Mark Harvey 
+Administrative Judge 

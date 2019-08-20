@@ -1,0 +1,115 @@
+KEYWORD: Guideline K; Guideline E
+DIGEST: Applicant has not met his heavy burden of persuasion that the Judge was biased against
+him.  The Judge did not err in holding against Applicant under Guideline E misconduct which
+was resolved in Applicant’s favor under Guideline K.  Adverse decision affirmed.
+CASENO: 03-08257.a2
+DATE: 05/16/2008
+DATE: May 16, 2008
+In Re:
+--------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 03-08257
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Emilio Jaksetic, Esq., Department Counsel
+FOR APPLICANT
+William F. Savarino, Esq.
+The Judge’s favorable decision as to SOR ¶¶ 1(a) through (e) and 2(b) is not at issue in this appeal.  1
+2
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On March 23, 2005, DOHA issued a statement of reasons (SOR) advising Applicant of
+the basis for that decision–security concerns raised under Guideline K (Security Violations) and
+Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992), as
+amended (Directive).  Applicant requested a hearing.  On June 12, 2006, after the hearing,
+Administrative Judge Joan Caton Anthony denied Applicant’s request for a security clearance.
+Applicant submitted a timely appeal pursuant to the Directive ¶¶ E3.1.28 and E3.1.30.  On February
+8, 2007, the Board remanded the case to the Judge for a new hearing.  On January 31, 2008, the
+Judge issued her remand decision, again denying Applicant a security clearance.  Applicant
+submitted a timely appeal pursuant to the Directive.
+Applicant raises the following issues on appeal: whether the Judge’s conclusions under
+Guidelines K and E are inconsistent; whether the Judge erred in concluding that Applicant’s case
+raised Guideline K security concerns; whether the Judge erred in concluding that certain of the
+Guideline E allegations constitute security concerns; and whether the Judge’s whole-person analysis
+is arbitrary and capricious.  We also construe Applicant’s appeal as alleging that the Judge was
+biased against him.   Finding no error, we affirm.1
+The Judge made the following pertinent findings of fact: Applicant worked for a government
+contractor from July 1986 to March 1987.  He was counseled and/or issued “deficiency notices” for
+such infractions as poor work performance, failure to follow procedures, failure to meet production
+deadlines, and unprofessional demeanor.  His employer fired him in March 1987 for having violated
+its business practices and ethics.  Specifically, Applicant had signed the names of fellow employees
+to a volleyball roster without their knowledge or consent.  Applicant then went to work for a second
+employer but left his job “under threat of termination.”  Decision at 5.  
+From 1996 until 2005 Applicant worked for a government contractor as an electrical
+engineer.  He was responsible for protecting classified information, although he did not have
+classification authority.  Therefore, he had to rely upon agency guidance in determining what was
+and was not classified.
+In 1999 Applicant received a spreadsheet.  Pursuant to his official duties, he put information
+on it and then passed it to another individual, who put the spreadsheet on an unclassified website.
+Later that year, after Applicant had updated the spreadsheet, he sent it by e-mail to officials in
+another office.  These officials stated that the spreadsheet contained classified information.
+Although Applicant’s supervisors did not agree, “they eventually acceded to the designation
+proposed by the other office.”  Id.  In 2000, Applicant, on three occasions, committed security
+See Government Exhibit 2-10, E-Mail Communication Concerning Security Issues, Nov. 7, 2000.  “I have2
+continuing concerns over the way [Applicant] handles classified information.  Today, during the . . . meeting, he started
+to copy an unclassified file from a classified laptop to move it to the unclassified projection computer–without using
+secure copy.  Had he continued, the projection computer would have become classified.  Second, he had an unmarked
+disk he was using to store the files for the briefing.”  
+Department Counsel also interprets Applicant’s appeal as alleging that certain of the Judge’s findings of fact3
+are erroneous.  The Board concludes that the Judge’s material findings of security concern are supported by substantial
+record evidence.  See  Directive  ¶ E3.1.32.1. 
+3
+infractions by failing to initial a security checklist prior to closing the office and twice failing to
+secure combination locks and take other measures to secure his work facility.  
+In May 2000 Applicant was observed at a meeting attempting to copy an unclassified file
+from a classified laptop without using appropriate security procedures.  He also used unmarked disks
+to store briefing files and left the briefing room without securing the classified laptop.    Finally, in2
+July 2000 Applicant attended a briefing, some of which was classified.  He prepared a summary of
+the matters discussed and sent it to two military officers who had conducted the meeting.  Not
+hearing back from the officers except upon a collateral matter, Applicant sent the summary by e-mail
+on an unclassified network to several people in his office.  It was later determined that the summary
+contained classified information.  Applicant was reassigned to another office.  
+We have examined Applicant’s allegations of error in light of the record as a whole.
+Applicant has not met his heavy burden of persuasion that the Judge was biased against him.  The
+record would not lead a reasonable person to question the fairness or impartiality of the Judge.  See
+ISCR Case No. 05-04923 at 2 (App. Bd. Apr. 24, 2007).  We conclude that the Judge did not err in
+holding against Applicant under Guideline E for misconduct she has resolved in his favor under
+Guideline K.  “An Applicant’s security related conduct can be alleged under more than one
+Guideline and, in an appropriate case, can be given independent weight  by an administrative judge
+under different Guidelines.”  ISCR Case No. 04-09251 at 3 (App. Bd. Mar. 27, 2007).  In the case
+under consideration, the Judge has articulated a rational basis for her conclusions under Guideline
+E, and her adverse decision on those matters is sustainable.     3
+  
+The Judge properly concluded that Applicant’s case raised security concerns under
+Guidelines K and E.  Furthermore, she has drawn a “rational connection between the facts found”
+and her conclusion that neither the various mitigating conditions nor the whole-person factors
+support a decision favorable to Applicant.  See Motor Vehicle Mfrs. Ass’n of the United States v.
+State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v.
+United States, 371 U.S. 156, 168 (1962)). The presence of some mitigating evidence does not alone
+compel a favorable overall security clearance decision.  See, e. g., ISCR Case No. 05-03452 at 3
+(App. Bd. Jul. 3, 2007).  The record supports the Judge’s conclusion that Applicant has failed to
+meet his burden of persuasion that it is “clearly consistent with the national interest” for him to have
+a clearance.  See Department of the Navy v. Egan, 484 U.S. 518, 528 (1988). 
+4
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.
+Signed: Michael Y. Ra’anan     
+Michael Y. Ra’anan
+Administrative Judge
+Chairman, Appeal Board
+Signed: William S. Fields           
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board

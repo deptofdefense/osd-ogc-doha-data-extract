@@ -1,0 +1,141 @@
+KEYWORD: Guideline D; Guideline E; Guideline J
+DIGEST: If the Judge takes official notice of a statute, he or she should identify it with sufficient
+specificity so that the Board can examine its contents and determine its relevance.  A police
+booking report was an official record for purposes of the Directive and, therefore, admissible. 
+Adverse decision affirmed.  
+CASENO: 08-09480.a1
+DATE: 03/17/2010
+DATE: March 17, 2010
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 08-09480
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Richard A. Stevens, Esq., Department Counsel
+FOR APPLICANT
+J. Alexander Atwood, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On April 9, 2009, DOHA issued a statement of reasons (SOR) advising Applicant of the
+basis for that decision–security concerns raised under Guideline D (Sexual Behavior), Guideline E
+(Personal Conduct), and Guideline J (Criminal Conduct) of Department of Defense Directive 5220.6
+(Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On November 9, 2009, after
+the hearing, Administrative Judge Paul J. Mason denied Applicant’s request for a security clearance.
+Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether Applicant was denied due process;
+Government Exhibit (GE) 4, Response to Interrogatories, dated December 3, 2008, includes a letter to DOHA1
+by the therapist.  This letter states, “[Applicant] discontinued his participation with group therapy . . . We disagreed with
+[Applicant’s] decision, as he broke the initial agreement of participating in treatment until we felt he had completed
+treatment. [Applicant’s] ability to participate in power struggles and be oppositional to authority is definitely an issue
+he will have to work on.  We see this as a significant deficiency.  Due to [his] decision to discontinue group therapy, he
+is not considered to have successfully completed the treatment initially outlined for him through his psychosexual
+assessment and individual treatment with [therapy provider].”   
+whether the Judge erred in admitting a document describing Applicant’s conduct; whether the Judge
+mis-weighed the record evidence; whether the Judge failed to consider all the record evidence; and
+whether the Judge’s adverse security clearance decision is arbitrary, capricious, or contrary to law.
+Finding no harmful error, we affirm.
+The Judge made the following pertinent findings of fact: Applicant is a fleet mechanic for
+a Government contractor.  He has held a security clearance since 2004.  He is married, with three
+children, ages 19, 15, and 13.
+In the mid-2000s, Applicant’s nephew (N) moved into Applicant’s home.  N’s father was
+imprisoned for murdering his wife, N’s mother.  Applicant’s wife believed that their home would
+be a good place for N to live.  
+In April 2007, N, then 16 years of age, was watching a sexually explicit video in Applicant’s
+living room.  The video depicted young women.  Applicant sat down beside N and asked him more
+than once if Applicant could sodomize or have oral sex with N.  Applicant locked the doors to the
+home and repeated his request to sodomize N while N watched the video.  N did not consent to this
+proposed sexual behavior.  Applicant and N did not engage in sexual contact.
+Applicant was arrested and charged with enticing a child for indecent purposes.  However,
+the charge was subsequently dismissed, because Applicant’s conduct did not meet all the elements
+of the charged offense.  Specifically, the law required that a child be under the age of 16, and, as
+stated above, N was past his 16th birthday at the time of the misconduct.  
+Although not convicted of an offense, Applicant received individual treatment from a
+licensed clinical social worker from May 2007 to the following December.  He also participated in
+group sessions for nine months.  The therapist advised that Applicant did not successfully complete
+the treatment due to his difficulties with authority.   Testing conducted during Applicant’s treatment1
+indicated that he does not have a “persistent sexual attraction” to children or adolescents.  Decision
+at 4.  As a child, Applicant was sexually molested by his older brother.  At age 15 one or two women
+in their thirties had sexual relations with him.  His therapist “intimated that these earlier incidents
+of molestation were misinterpreted by Applicant to be conventional, sexual encounters during his
+teenage years.”  Id.
+Applicant enjoys a good reputation at his place of employment for the quality of his
+workmanship.
+Due Process Violation
+Applicant contends that he was denied due process.  Specifically, he argues that the Judge
+erred in taking administrative notice of a state statute other than the one with which he was charged
+and which was referenced in the SOR.  We find this argument persuasive.
+The SOR contained one Guideline J allegation, a repeat of the first allegation under Guideline
+D.  This allegation is as follows: “You were arrested in about May 2007 in [City, State] and charged
+with Enticing a Child for Indecent Purposes.  The charges were dropped in about December 2007.”
+As stated above, this charge was dropped because of the age of the victim.  However, the Judge took
+official notice of another state statute which, he concluded, could have been charged and which
+justified an adverse finding under Guideline J.  He stated, “I have taken administrative notice of the
+existence of another state statute that applies to victims under the age of 18.  This statute, which was
+enacted in 1992, was in effect in April 2007, when Applicant enticed his nephew for indecent
+purposes.  For unknown reasons, the state did not indict Applicant under the correct statute.”  Id. at
+2.   The Judge relied upon this statute in concluding that Applicant’s conduct with N constituted a
+Guideline J security concern.  
+The Judge’s treatment of this statute does not quote it verbatim or otherwise identify it with
+sufficient specificity that we can determine its content.  It is well settled that a DOHA Judge may
+take official notice of facts pertinent to a case.  See, e.g., ISCR Case No. 02-06478 at 3-5 (App. Bd.
+Dec. 15, 2003); ISCR Case No. 05-11292 at 4 (App. Bd. Apr. 12, 2007).  See also Federal Rule of
+Evidence 201 and Directive ¶ E3.1.19 (“The Federal Rules of Evidence . . . shall serve as a guide”
+in DOHA proceedings).  This includes any pertinent provision of state law.  ISCR Case No. 01-
+08565 at 3 (App. Bd. Mar. 7, 2003).  However, the Board must be able to examine such provisions
+in order to determine their relevance.  Id. at n. 2.  In the case under consideration here, we are unable
+to verify the Judge’s statement that there is an alternative provision of state law that would have
+applied to Applicant and that would support a conclusion that his case set forth a Guideline J security
+concern.  Accordingly, we conclude that the Judge’s lack of specificity is an error.
+Remaining Errors 
+Applicant contends that the Judge erred in admitting an affidavit by an official of the local
+Sheriff’s Department.  This affidavit summarizes an interview with N, in which N describes the
+events which led to Applicant’s arrest.  Applicant contends that this document constitutes
+inadmissible hearsay.  However, we have examined this document, which is part of a Booking
+Report prepared by the Sheriff’s Department.  It is an official record compiled or created in the
+regular course of business and otherwise complies with the requirements of Directive ¶ E3.1.20.
+Accordingly, we conclude that the Judge’s ruling was not arbitrary, capricious, or contrary to law.
+See ISCR Case No. 03-08813 at 5 (App. Bd. Nov. 15, 2005) (The Board will examine a Judge’s
+evidentiary rulings to determine if they are consistent with Executive Order 10865 and with the
+Directive and to determine if they are arbitrary, capricious, or contrary to law).  
+A Judge is presumed to have considered all the evidence in the record.  See, e.g., ISCR Case
+No. 07-00196 at 3 (App. Bd. Feb. 20, 2009); ISCR Case No. 07-00553 at 2 (App. Bd. May 23,
+2008).  Applicant’s presentation on appeal is not sufficient to rebut that presumption.  Furthermore,
+the record provides no basis to conclude that Applicant has weighed the evidence in a manner that
+is arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 06-21819 at 2 (App. Bd. Aug.
+13, 2009); ISCR Case No. 06-17409 at 3 (App. Bd. Oct. 12, 2007). 
+Although we have found error in the Judge’s analysis of the Guideline J security concern, we
+conclude that his decision is sustainable under the remaining two guidelines.  Therefore, the error
+described above is harmless.  See ISCR Case No. 08-07528 at 2 (App. Bd. Dec. 29, 2009); ISCR
+Case No. 01-23362 (App. Bd. Jun. 5, 2006); ISCR Case No. 03-09915 (App. Bd. Dec. 16, 2004);
+ISCR Case No. 01-11192 (App. Bd. Aug. 26, 2002).  After reviewing the record, the Board
+concludes that, other than the error described above, the Judge examined the relevant data and
+articulated a satisfactory explanation for the decision, “including a ‘rational connection between the
+facts found and the choice made.’”  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm
+Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States,
+371 U.S. 156, 168 (1962)).  The Judge’s adverse decision is sustainable on this record.  “The general
+standard is that a clearance may be granted only when ‘clearly consistent with the interests of the
+national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.  
+Signed; Michael Y. Ra’anan         
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett              
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody             
+James E. Moody
+Administrative Judge
+Member, Appeal Board

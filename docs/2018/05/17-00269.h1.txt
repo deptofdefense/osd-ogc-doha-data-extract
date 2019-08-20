@@ -1,0 +1,414 @@
+ 
+1 
+ 
+                                                              
+DEPARTMENT OF DEFENSE 
+DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+ 
+In the matter of: ) 
+ ) 
+ [Redacted] )  ISCR Case No. 17-00269 
+ ) 
+Applicant for Security Clearance ) 
+ 
+ 
+Appearances 
+ 
+For Government: Michelle Tilford, Esq., Department Counsel 
+For Applicant: Richard L. Morris, Esq. 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+FOREMAN, LeRoy F., Administrative Judge: 
+ 
+Applicant has mitigated the security concerns raised under Guideline E (Personal 
+Conduct) by his record of counseling for substandard performance of duty and 
+punishment for dereliction of duty. Eligibility for access to classified information is granted. 
+ 
+Statement of the Case 
+ 
+On September 8, 2017, the Department of Defense Consolidated Adjudications 
+Facility (DOD CAF) sent Applicant a Statement of Reasons (SOR) alleging security 
+concerns under Guideline E. The DOD CAF acted under Executive Order (Exec. Or.) 
+10865, Safeguarding Classified Information within Industry (February 20, 1960), as 
+amended; DOD Directive 5220.6, Defense Industrial Personnel Security Clearance 
+Review Program (January 2, 1992), as amended (Directive); and the adjudicative 
+guidelines (AG) promulgated in Security Executive Agent Directive 4, National Security 
+Adjudicative Guidelines (December 10, 2016), for all adjudicative decisions on or after 
+June 8, 2017. 
+ 
+ Applicant answered the SOR on September 27, 2017, and requested a hearing 
+before an administrative judge. Department Counsel was ready to proceed on October 
+ 
+2 
+ 
+31, 2017, and the case was assigned to me on January 16, 2018. On February 6, 2018, 
+the Defense Office of Hearings and Appeals (DOHA) notified Applicant that the hearing 
+was scheduled for February 26, 2018. I convened the hearing as scheduled. Government 
+Exhibits (GX) 1 through 4 were admitted in evidence without objection. Applicant testified, 
+presented the testimony of three witnesses, and submitted Applicant’s Exhibits (AX) A 
+through J, which were admitted without objection. DOHA received the transcript (Tr.) on 
+March 5, 2018. 
+ 
+Findings of Fact1 
+ 
+ In Applicant’s answer to the SOR, he denied the allegation in SOR ¶ 1.a and 
+admitted the allegations in SOR ¶¶ 1.b and 1.c. His admissions in his answer and at the 
+hearing are incorporated in my findings of fact.  
+ 
+ Applicant is a 42-year-old help-desk technician employed by a defense contractor 
+since February 2016. He served on active duty in the U.S. Navy from 1998 to 2001, 
+completed college and received a bachelor’s degree, and then reenlisted in 2004. (Tr. 
+50.) In November 2015, he was honorably discharged as an information system 
+technician second class (IT2). (AX A.) While on active duty, he was awarded the Navy 
+and Marine Corps Achievement Medal four times, along with numerous service medals, 
+ribbons, and qualification badges. He held a security clearance while on active duty. 
+ 
+ Applicant served in several shore-based assignments, including one overseas 
+deployment as an information system technician first class (IT1) before being assigned 
+to sea duty in July 2014 as a work center supervisor. His early performance evaluations 
+as an IT1 rated him as a top performer. (AX B at 11-16.) His evaluation report for 
+November 2012 to November 2013 rated him as “above standards” in all traits except 
+one, for which he was rated as “greatly exceeds standards.” This report rated him as 
+“must promote” and includes the comment: “strongly recommended for advancement to 
+chief petty officer, promote immediately.” (AX B at 9-10.) In September 2013, he applied 
+for a commission as a limited duty officer. His application was strongly supported by his 
+commanding officer. (AX D.) The record does not reflect the status of his application. 
+ 
+ Applicant’s evaluation report for November 2013 to July 2014, before reporting to 
+his ship, rated him as “meets standards” in one performance trait, “above standards” in 
+two traits, and “greatly exceeds standards” in two traits. This report rated him as an “early 
+promote.” (AX B at 7-8.) His evaluation report for July to November 2014, his first report 
+aboard his ship, rated him as “meets standards” in all performance traits and rated his 
+promotion potential as “promotable.” This report commented that he “hit the deck plates 
+running” and his value to the command was limited only by his time aboard. (AX B at 5-
+6.) 
+ 
+                                                          
+1 Applicant’s personal information is extracted from his security clearance application (GX 1) unless 
+otherwise indicated by a parenthetical citation to the record. 
+ 
+3 
+ 
+ Applicant testified that he found that his new ship was severely undermanned, with 
+the radio shack at half-manning. Although the leading petty officer (LPO) position called 
+for a chief petty officer (E-7), the LPO was another IT1. (Tr. 58.) Applicant was assigned 
+as the information assurance manager from November 2014 to July 2015. He was 
+formally counseled on six occasions in April, May, and June 2015 for the following 
+instances of substandard performance of duty:   
+ 
+ April 17, 2015: failed a spot check because he failed to complete a maintenance 
+requirement card (MRC)2 as required and failed to take appropriate action as work center 
+supervisor when subordinates reported maintenance issues. (GX 4 at 1.) 
+ 
+ May 12, 2015: failed to perform a spot check during his watch as directed by his 
+work center supervisor. (GX 4 at 2.) 
+ 
+ May 17, 2015: sent inaccurate access information to shore-based units, causing 
+the ship to lose connectivity. (GX 4 at 3.) 
+ 
+ June 16, 2015: failed to perform a maintenance check properly. (GX 4 at 4.) 
+ 
+ June 19, 2015: failed to inform chain of command about reconfiguration of 
+classified offsite backup, causing the backup system to be erased. (GX 4 at 5.) 
+ 
+ June 26, 2015: failure to notify chain of command and obtain permission to conduct 
+maintenance affecting ship-wide operations, causing a two-day delay in troubleshooting 
+during an operationally demanding underway. 
+ 
+ Applicant testified that the counseling was from a first class petty officer, a second 
+class petty officer, and his division officer. (Tr. 58-59.) The counselors’ names on the 
+counseling sheets are illegible, and the position of the counselor is not listed. 
+ 
+On July 15, 2015, Applicant received non-judicial punishment (NJP) for dereliction 
+of duty when he “negligently failed to follow procedural compliance to wit: Did not utilize 
+an MRC while conducting 3M preventative maintenance IAW NAVSEAINST 4790.8C 
+SEC 2-4.6.” There were two aspects to this allegation: (1) that he failed to obtain 
+permission from the work center supervisor before rebooting an unclassified server; and 
+(2) that he did not use the MRC in the work center, but instead relied on his personal copy 
+of the MRC. His actions caused the server to be out of service for several hours. He was 
+reduced in rate to IT2. (GX 3.) He appealed his punishment, and his appeal was denied. 
+His reduction required that he be discharged under the Navy high-tenure rules. His 
+security clearance was suspended while he was aboard the ship, but it was not revoked. 
+ 
+ At the hearing, Applicant testified that he had asked for and received permission 
+from the work center supervisor to reboot. (Tr. 55.) When the work center supervisor was 
+                                                          
+2 An MRC lists the steps and tools need for various kinds of preventive maintenance. Classification of the 
+MRC depends on the equipment to which it applies. (Tr. 57.) 
+ 
+4 
+ 
+interviewed by Applicant’s LPO, he denied giving Applicant permission to reboot. The 
+investigative file on which the NJP was based included written statements from Applicant 
+and the LPO, but none from the work center supervisor. The investigation into the incident 
+revealed that Applicant made a personal copy of the MRC for systems in the work center. 
+(GX 3.) His division officer regarded his unauthorized copy of the MRC to be a breach of 
+cyber security. Applicant testified at the hearing that his personal copy of the MRC was 
+identical to the original and was always kept in the work center, a secure area cleared for 
+open use of classified material. He denied writing down passwords on his copy of the 
+MRC, but admitted that he kept a personal list of passwords. (Tr. 77.)  
+ 
+ Applicant’s last evaluation report before his discharge from the Navy, for July to 
+December 2015, rated him as “meets standards” in all performance traits and rated him 
+as “promotable,” with favorable comments about his drive, persistence, ingenuity, and 
+attitude. (AX B at 1-2.)  
+ 
+ When Applicant reported for duty in his first job as a civilian, he made an 
+appointment with his security manager to discuss the status of his security clearance. He 
+knew that his security clearance was suspended after his NJP. He was not aware of the 
+incident report regarding the events leading up to his NJP until he applied for a job as a 
+civilian and learned that the incident report had not been closed out. According to the 
+summary of an interview with a security investigator in September 2016, he admitted that 
+he did not provide the security manager with the full details about his nonjudicial 
+punishment and did not disclose his record of counseling, because he did not believe he 
+was required to provide more details than necessary, did not want to be viewed 
+negatively, and was concerned about keeping his job. (GX 2 at 7.)  
+ 
+At the hearing, Applicant testified that the summary of his security interview was 
+accurate. He testified that he gave his security manager a copy of the record of NJP and 
+copies of his performance evaluations about two weeks after he was hired. He did not 
+mention the counseling chits because he did not believe that they were related to the 
+suspension of his security clearance and were not mentioned in the incident report. 
+Counseling chits are filed in local command files, do not become part of the official 
+personnel record, and do not follow an individual from command to command. Applicant 
+testified that when he received the SOR, which alleged the counseling chits, he provided 
+the security manager with the information about them. According to Applicant, the security 
+manager commented that she was not surprised that he had been counseled for earlier 
+incidents before he received NJP. (Tr. 81-85.)   
+ 
+The security manager submitted a statement in which she stated that Applicant 
+never withheld information or attempted to mislead her about his NJP and counseling. 
+She noted that Applicant’s NJP recited that he was occupying two positions, information 
+assurance manager and network systems administrator, which are usually separate 
+positions, and that he was given a very short time to assume those roles before being 
+given NJP. In her statement, she commented, “As the Chief Security Officer for [her 
+organization] for the past 15 years and a retired Navy Intelligence Chief, it feels like 
+something is not right with this picture.” She has worked with Applicant for two years, with 
+ 
+5 
+ 
+almost daily contact, and she strongly supports continuation of his security clearance. 
+(AX E.) 
+ 
+ A long-term friend of Applicant, who served as an enlisted sailor and an officer in 
+the U.S. Navy for about 17 years, has known him since 1995 and considers his honesty, 
+integrity, and reliability “impeccable” and his judgment “irreproachable.” (Tr. 20-21.) A co-
+worker who has worked with Applicant since December 2016 considers him honest and 
+trustworthy. He regards Applicant as “very to-the-T,” making sure that everything is done 
+correctly. (Tr. 38-39.) Applicant’s direct supervisor, who served in the U.S. Air Force for 
+23 years, regards Applicant as truthful and honest, and his integrity “beyond reproach.” 
+(Tr. 41-47.) Two former co-workers from Applicant’s overseas assignments, a senior 
+member of the staff currently supported by Applicant, and two former fellow college 
+students (one a retired U.S. Air Force officer) submitted letters attesting to Applicant’s 
+skill, worth ethic, integrity, dedication, and positive attitude. (AX F-J.) 
+ 
+Policies 
+ 
+ “[N]o one has a ‘right’ to a security clearance.” Department of the Navy v. Egan, 
+484 U.S. 518, 528 (1988). As Commander in Chief, the President has the authority to 
+“control access to information bearing on national security and to determine whether an 
+individual is sufficiently trustworthy to have access to such information.” Id. at 527. The 
+President has authorized the Secretary of Defense or his designee to grant applicants 
+eligibility for access to classified information “only upon a finding that it is clearly 
+consistent with the national interest to do so.” Exec. Or. 10865 § 2.  
+ 
+Eligibility for a security clearance is predicated upon the applicant meeting the 
+criteria contained in the adjudicative guidelines. These guidelines are not inflexible rules 
+of law. Instead, recognizing the complexities of human behavior, an administrative judge 
+applies these guidelines in conjunction with an evaluation of the whole person. An 
+administrative judge’s overarching adjudicative goal is a fair, impartial, and commonsense 
+decision. An administrative judge must consider all available and reliable information 
+about the person, past and present, favorable and unfavorable. 
+ 
+ The Government reposes a high degree of trust and confidence in persons with 
+access to classified information. This relationship transcends normal duty hours and 
+endures throughout off-duty hours. Decisions include, by necessity, consideration of the 
+possible risk that the applicant may deliberately or inadvertently fail to safeguard 
+classified information. Such decisions entail a certain degree of legally permissible 
+extrapolation about potential, rather than actual, risk of compromise of classified 
+information. 
+ 
+Clearance decisions must be made “in terms of the national interest and shall in 
+no sense be a determination as to the loyalty of the applicant concerned.” Exec. Or. 10865 
+§ 7. Thus, a decision to deny a security clearance is merely an indication the applicant 
+has not met the strict guidelines the President and the Secretary of Defense have 
+established for issuing a clearance. 
+ 
+6 
+ 
+ Initially, the Government must establish, by substantial evidence, conditions in the 
+personal or professional history of the applicant that may disqualify the applicant from 
+being eligible for access to classified information. The Government has the burden of 
+establishing controverted facts alleged in the SOR. See Egan, 484 U.S. at 531. 
+“Substantial evidence” is “more than a scintilla but less than a preponderance.” See v. 
+Washington Metro. Area Transit Auth., 36 F.3d 375, 380 (4th Cir. 1994). The guidelines 
+presume a nexus or rational connection between proven conduct under any of the criteria 
+listed therein and an applicant’s security suitability. See ISCR Case No. 15-01253 at 3 
+(App. Bd. Apr.20, 2016).   
+ 
+ Once the Government establishes a disqualifying condition by substantial 
+evidence, the burden shifts to the applicant to rebut, explain, extenuate, or mitigate the 
+facts. Directive ¶ E3.1.15. An applicant has the burden of proving a mitigating condition, 
+and the burden of disproving it never shifts to the Government. See ISCR Case No. 02-
+31154 at 5 (App. Bd. Sep. 22, 2005).  
+ 
+An applicant “has the ultimate burden of demonstrating that it is clearly consistent 
+with the national interest to grant or continue his security clearance.” ISCR Case No. 01-
+20700 at 3 (App. Bd. Dec. 19, 2002). “[S]ecurity clearance determinations should err, if 
+they must, on the side of denials.” Egan, 484 U.S. at 531.  
+ 
+Analysis 
+ 
+Guideline E, Personal Conduct 
+ 
+ The SOR alleges that Applicant admitted to a security investigator in September 
+2016 that he failed to disclose the complete details of his NJP and his prior counseling 
+sessions for poor work performance (SOR 1.a); that he had approximately five counseling 
+sessions for poor work performance (SOR ¶ 1.b); and that he received NJP in July 2015 
+for dereliction of duty by failing to follow procedural guidance (SOR ¶ 1.c). The concern 
+under this guideline is set out in AG ¶ 15:  
+ 
+Conduct involving questionable judgment, lack of candor, dishonesty, or 
+unwillingness to comply with rules and regulations can raise questions 
+about an individual's reliability, trustworthiness, and ability to protect 
+classified or sensitive information. Of special interest is any failure to 
+cooperate or provide truthful and candid answers during national security 
+investigative or adjudicative processes. . . .  
+ 
+ The following potentially disqualifying conditions are relevant:  
+ 
+AG ¶ 16(b): deliberately providing false or misleading information; or 
+concealing or omitting information, concerning relevant facts to an 
+employer, investigator, security official, competent medical or mental health 
+professional involved in making a recommendation relevant to a national 
+security eligibility determination, or other official government representative; 
+ 
+7 
+ 
+AG ¶ 16(c): credible adverse information in several adjudicative issue areas 
+that is not sufficient for an adverse determination under any other single 
+guideline, but which, when considered as a whole, supports a whole-person 
+assessment of questionable judgment, untrustworthiness, unreliability, lack 
+of candor, unwillingness to comply with rules and regulations, or other 
+characteristics indicating that the individual may not properly safeguard 
+classified or sensitive information; and 
+ 
+AG ¶ 16(d): credible adverse information that is not explicitly covered under 
+any other guideline and may not be sufficient by itself for an adverse 
+determination, but which, when combined with all available information, 
+supports a whole-person assessment of questionable judgment, 
+untrustworthiness, unreliability, lack of candor, unwillingness to comply with 
+rules and regulations, or other characteristics indicating that the individual 
+may not properly safeguard classified or sensitive information. This 
+includes, but is not limited to, consideration of: . . (3) a pattern of dishonesty 
+or rule violations.  
+ 
+The SOR does not allege what “complete details” Applicant omitted when he 
+disclosed his NJP to his current security manager. The document he provided alleged 
+that he failed to comply with U.S. Navy instructions. If he had provided additional details, 
+he likely would have disclosed that his violation was an omission rather than a deliberate 
+act and that he believed that he complied with the required procedure. He did not mention 
+the allegation of creating a copy of the MRC, because he was not counseled about it, and 
+it was not included in the NJP. 
+ 
+The SOR also alleges that he failed to disclose his counseling sessions. He 
+credibly testified that he believed the suspension of his clearance was due to the NJP 
+and that the counseling sessions were not relevant. There is no evidence that the security 
+manager asked him any questions about his performance of duty, although the security 
+manager surmised that there probably were prior incidents that led up to NJP and a 
+career-ending reduction in rate. When Applicant received the SOR and saw that his 
+counseling sessions were alleged, he promptly and voluntarily provided the additional 
+information to his security manager. It is notable that the security manager submitted a 
+letter supporting continuation of Applicant’s clearance and asserted that Applicant had 
+not withheld any information or attempted to mislead her. 
+ 
+Based on the foregoing discussion, I conclude that SOR ¶ 1.a is not established 
+by substantial evidence. However, Applicant admitted SOR ¶¶ 1.b and 1.c, and his 
+admissions are corroborated by the documentary evidence in the record. 
+ 
+The following mitigating conditions are potentially relevant: 
+ 
+AG ¶ 17(a): the individual made prompt, good-faith efforts to correct the 
+omission, concealment, or falsification before being confronted with the 
+facts; and 
+ 
+8 
+ 
+AG ¶ 17(c): the offense is so minor, or so much time has passed, or the 
+behavior is so infrequent, or it happened under such unique circumstances 
+that it is unlikely to recur and does not cast doubt on the individual's 
+reliability, trustworthiness, or good judgment. 
+ 
+ Even if there were substantial evidence that Applicant withheld information during 
+his initial meeting with his security manager, AG ¶ 17(a) would be applicable, because 
+Applicant provided additional information when he learned that the SOR alleged his 
+counseling sessions. 
+ 
+ Applicant’s derelictions were not “minor,” because they seriously disrupted the 
+operations of a ship underway. They were not infrequent. However, they occurred almost 
+three years ago and were the product of Applicant’s inexperience in simultaneously 
+holding two demanding positions with an undermanned crew. His LPO was another IT1, 
+and he did not have an experienced mentor to help him learn how to do a demanding job. 
+During his past two years as a civilian, he has gained a reputation as a dependable, 
+responsible, trustworthy employee. I conclude that AG ¶ 17(c) is established. 
+ 
+Whole-Person Concept 
+ 
+ Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a 
+security clearance must be an overall commonsense judgment based upon careful 
+consideration of the guidelines and the whole-person concept. In applying the whole-
+person concept, an administrative judge must evaluate an applicant’s eligibility for a 
+security clearance by considering the totality of the applicant’s conduct and all relevant 
+circumstances and applying the adjudicative factors in AG ¶ 2(d).3  
+ 
+ I have incorporated my comments under Guideline E in my whole-person analysis. 
+Some of the factors in AG ¶ 2(d) were addressed under that guideline, but some warrant 
+additional comment. Applicant had a stellar performance record before April 2015, when 
+his performance apparently fell short of what his command expected. Within three 
+months, his career abruptly ended. His current security manager concluded that 
+“something is not right with this picture.” Since December 2015, he has established 
+himself as a talented, dedicated, responsible, and trustworthy employee. After weighing 
+the disqualifying and mitigating conditions under Guideline E, and evaluating all the 
+evidence in the context of the whole person, I conclude Applicant has mitigated the 
+security concerns raised by his personal conduct. 
+ 
+  
+                                                          
+3 The factors are: (1) the nature, extent, and seriousness of the conduct; (2) the circumstances surrounding 
+the conduct, to include knowledgeable participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to which participation is voluntary; (6) 
+the presence or absence of rehabilitation and other permanent behavioral changes; (7) the motivation for 
+the conduct; (8) the potential for pressure, coercion, exploitation, or duress; and (9) the likelihood of 
+continuation or recurrence.  
+ 
+ 
+9 
+ 
+Formal Findings 
+ 
+ I make the following formal findings on the allegations in the SOR: 
+ 
+ Paragraph 1, Guideline E (Personal Conduct):   FOR APPLICANT 
+ 
+  Subparagraphs 1.a-1.c:    For Applicant 
+ 
+Conclusion 
+ 
+ I conclude that it is clearly consistent with the national security interests of the 
+United States to continue Applicant’s eligibility for access to classified information. 
+Clearance is granted. 
+ 
+ 
+ 
+ 
+LeRoy F. Foreman 
+Administrative Judge 

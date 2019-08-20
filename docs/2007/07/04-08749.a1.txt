@@ -1,0 +1,208 @@
+KEYWORD: Guideline M; Guideline K; Guideline E
+DIGEST: Although Department Counsel has established error in the Judge’s decision, the
+Judge’s decision is sustainable.  The Board need not agree withe Judge’s to conclude that is
+rationally based on the Judge’s findings.  Favorable decision affirmed.
+CASENO: 04-08749.a1
+DATE: 07/23/2007
+DATE: July 23, 2007
+In Re:
+---------
+SSN: -------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 04-08749
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Eric Borgstrom, Esq.,  Department Counsel
+FOR APPLICANT
+Thomas Albin, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On July 5, 2005, DOHA issued a statement of reasons (SOR) advising Applicant of the
+basis for that decision–security concerns raised under Guideline M (Misuse of Information
+Technology Systems), Guideline K (Security Violations), and Guideline E (Personal Conduct) of
+See, e.g., ISCR Case No. 04-04264 at 3-4 (App. Bd. Sept. 8, 2006).1
+2
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)(Directive).  Applicant requested
+a hearing.  On December 11, 2006, after the hearing, Administrative Judge Carol G. Ricciardello
+granted Applicant’s request for a security clearance.  Department Counsel timely appealed pursuant
+to the Directive ¶¶ E3.1.28 and E3.1.30. 
+Applicant has worked for the same defense contractor for 30 years.  While working in a space
+with classified computers, he misused company equipment on numerous occasions by making copies
+of music CDs and by viewing and editing personal photographs on a classified computer.  The
+viewing and the editing of the personal photographs also constituted security violations under the
+National Industrial Security Program Operating Manual (NISPOM).  Applicant’s record is otherwise
+unblemished.  After a period of suspension without pay, Applicant returned to his job and retained
+his security clearance.
+Department Counsel raises the following issues on appeal: whether the Judge’s overall
+analysis of the case is flawed because she failed to address or employ the “very heavy burden”
+standard when evaluating Applicant’s evidence in mitigation; whether the Judge’s application of
+Personal Conduct Mitigating Condition 5 was arbitrary, capricious and contrary to law; whether the
+Judge’s application of Security Violations Mitigating Condition 4 was arbitrary, capricious and
+contrary to law; whether the Judge’s application of Misuse of information Technology Systems
+Mitigating Condition 5 was arbitrary, capricious and contrary to law; and whether the Judge’s whole-
+person analysis is sustainable.  Department Counsel’s arguments have mixed merit, but overall they
+fall short of establishing harmful error on the part of the Judge.  Therefore, the Board affirms the
+Judge’s decision. 
+Department Counsel asserts that whether evaluating security violations under Guideline K,
+Guideline E or Guideline M, or the whole person factors, the Judge was required to utilize a “very
+heavy burden” standard when evaluating Applicant’s claims of reform and rehabilitation.  The Board
+concludes Department Counsel’s argument fails to establish error on the part of the Judge. 
+There is no presumption of error below.  See, e.g., ISCR Case No. 00-0339 at 3 (App. Bd.
+Mar. 22, 2001).  In her decision, the Judge indicated that she considered the appropriate legal
+standards.  Citing applicable Directive provisions, the Judge properly explained Applicant’s burden
+with respect to extenuation and mitigation, as well as stating the clearly consistent with the national
+security standard as the basis for granting a security clearance. Decision at 5.   While the Judge did
+not specifically mention the “very heavy burden” that Applicant has to demonstrate in terms of
+establishing extenuation or mitigation where security violations are involved,  there is no language1
+in the decision to suggest that she employed a lesser standard.  While a specific enunciation of a
+“very heavy burden” would have been appropriate, its omission does not constitute error.  Decisions
+of DOHA administrative judges are not measured against a standard of perfection.  See, e.g.,  ISCR
+Case No. 95-0319 at 3 (App. Bd. Mar. 18, 1996).  Department Counsel’s argument appears to be that
+because Applicant’s security violations were multiple and deliberate, the fact that the Judge
+concluded that they were not ultimately security clearance disqualifying is proof that she did not
+employ the correct standard.  In other words, Department Counsel appears to be arguing that,
+because the security violations are disqualifying as a matter of law, the Judge must have employed
+the wrong standard of review.  This argument is not persuasive.  The record evidence in this case
+“The individual has taken positive steps to significantly reduce or eliminate vulnerability to coercion,2
+exploitation, or duress.”
+“Personal conduct or concealment of information that increases an individual’s vulnerability to coercion,3
+exploitation or pressure.”
+“Violations were due to improper or inadequate training.”4
+3
+included matters in extenuation and mitigation, and the Judge was not required as a matter of law
+to conclude the security violations were disqualifying on this record.  The Judge’s ultimate weighing
+of the record evidence, and her ultimate conclusions, standing alone, do not provide sufficient proof
+that the Judge employed the wrong legal standard.  Absent more specific indicators in the Judge’s
+decision that provide evidence of the Judge’s use of an inappropriate standard, Department Counsel
+has not met its burden of establishing error.      
+The Judge applied Personal Conduct Mitigating Condition 5  to the case.  As pointed out by2
+Department Counsel, vulnerability to coercion or duress as a result of misuse of technology or
+security violations was not an issue raised by the government in the SOR.  By its plain meaning,
+Personal Conduct Mitigating Condition 5 addresses the concerns covered by Personal Conduct
+Disqualifying Condition 4.   See, e.g., ADP Case No. 30-1130 at 5-6 (App. Bd. January 4, 2001).3
+Personal Conduct Disqualifying Condition 4 was not discussed by or relied upon by the Judge and,
+given its absence, she did not articulate an adequate basis for the inclusion of Personal Conduct
+Mitigating Condition 5.  In this instance, Department Counsel has met its burden of establishing
+error. 
+Department Counsel asserts that the Judge erred by applying Security Violations Mitigating
+Condition 3  to the case.  In support of this argument Department Counsel states that the Judge’s4
+conclusion that the “lax” security training by Applicant’s employer was a matter in mitigation is
+unsupported by the record evidence.  Department Counsel notes that, at the hearing, Applicant
+provided evidence that his employer had not strictly enforced the security procedures and NISPOM
+provisions he had violated for a number of years.  Department Counsel goes on to state that the
+Judge erred by conflating the concept of relaxed enforcement of security rules with the concept of
+security training, and that relaxed enforcement does not rise to the level of mitigation.  The Board
+does not agree.  Even if the concept of lax enforcement of rules is not included within the purview
+of Security Violations Mitigating Condition 3, the Judge could still evaluate it as a matter in
+mitigation when doing a “whole person” analysis of the totality of the record evidence.  Moreover,
+on this record, there is substantial record evidence of the fact that, prior to an investigation of
+Applicant and his subsequent disciplining,  Applicant’s employer’s security training program was
+perfunctory at best.  The evidence supports the Judge’s conclusion that this resulted in a situation
+where, when coupled with lack of rule enforcement, Applicant and his fellow employees were
+largely unfamiliar with security rules that related to the specific practice of loading and editing
+personal photographs onto classified computers.  Thus, the Judge’s conclusion that the employer’s
+inadequate training program was a contributing factor to the violations, and was therefore mitigating,
+is sustainable.
+“[actions that] Demonstrate a positive attitude towards the discharge of security responsibilities.” 5
+“The misuse was followed by a prompt, good-faith effort to correct the situation.”6
+4
+Department Counsel complains that the Judge inappropriately applied Security Violations
+Mitigating Condition 4.   Department Counsel asserts that the Judge’s application of the mitigating5
+condition was based solely on her conclusion that there was no evidence that Applicant violated any
+of the provisions of the NISPOM and/or his employer’s rules since his reinstatement in 2003.  The
+Board concludes that Department Counsel is reading the Judge’s decision too narrowly.  In her
+decision, the Judge went beyond the basic finding that Applicant has committed no security
+violations since 2003 and also found that Applicant had demonstrated a renewed sense of
+commitment to security rules and regulations and has been diligent in ensuring that he abides by all
+the rules and procedures since 2003.  A review of the record evidence convinces the Board that these
+findings of the Judge are sustainable.  Department Counsel also argues that when applying Security
+Violations Mitigating Condition 4, the Judge did not take into consideration the frequency,
+seriousness and deliberateness of Applicant’s security violations and Applicant’s initial false and
+evasive responses to inquiries during a March 2003 investigation into possible compromises of
+classified information.  There is a rebuttable presumption that an administrative judge has considered
+all the record evidence unless he or she states otherwise.  Department Counsel does not overcome
+that presumption here.  The record indicates that the Judge did consider the frequency and
+deliberateness of Applicant’s actions and did not mitigate the government’s concerns on those bases.
+The frequency and deliberateness of Applicant’s security violations and his evasiveness during the
+initial phase of the investigation do not make the mitigating factor inapplicable as a matter of law.
+At most, they go to the weight that the Judge could reasonably assign to the mitigating factor.  After
+reviewing the entire record, which includes substantial evidence of Applicant’s improved attitude
+and conscientious security practices since his suspension, the Board is not persuaded that the Judge
+applied Security Violations Mitigating Condition 4 in a manner that is arbitrary, capricious or
+contrary to law.
+Department Counsel next argues that the Judge erred by applying Misuse of Information
+Technology Mitigating Factor 5.   Department Counsel’s assertion is persuasive.  While there is6
+ample record evidence to support the Judge’s conclusion that Applicant demonstrated a positive
+attitude toward security responsibilities after 2003, there is no record evidence to support a
+conclusion that Applicant took affirmative, noteworthy steps to correct the misuse of his company’s
+computer equipment either before or immediately after his company found out about it.  In this
+instance, the fact that Applicant engaged in the misuse of computers briefly after he learned that his
+employer was becoming concerned about it and the fact that Applicant was initially uncooperative
+during the company’s investigation into the matter necessarily preclude the application of Misuse
+of Technology Mitigating Factor 5, which contemplates prompt, affirmative corrective measures
+undertaken in good faith.           
+ 
+Department Counsel asserts that the Judge’s whole person analysis is unsustainable and
+undercuts an analysis of the Government’s concerns under the specific Guidelines.  The Board does
+not agree.
+Department Counsel states that the Judge’s whole person analysis consists of a short list of
+favorable facts which erroneously rely on the same unsupported conclusions that were inadequate
+5
+under the specific mitigating conditions of Guidelines K, E, and M.  Inasmuch as the Board has
+sustained several of the Judge’s conclusions regarding the applicability of specific mitigating
+conditions, this argument is significantly undercut.  Additionally, contrary to Department Counsel’s
+argument that the Judge’s whole person analysis consists only of collective consideration of the same
+individual components that relate to each mitigating condition, the Board concludes that the Judge’s
+whole person analysis is appropriately broader than her analysis of the case under the individual
+disqualifying and mitigating conditions.  The Judge’s whole person considerations include: (a)
+Applicant’s successful 30-year history with his employer; (b) the practice of copying CD music tapes
+(not involving classified systems)and loading personal photographs onto classified computer systems
+was widespread among members of Applicant’s shop; (c) because of his unusual facility with
+computers, Applicant often copied for others at their request as well as himself; (d) Applicant’s
+activities were conducted in the open during work hours with the full knowledge of the workforce;
+and (e) importantly, much of Applicant’s activity was requested by his immediate supervisor, who
+gave him at least tacit and constructive approval of the activity, and even encouraged Applicant to
+do copying for him after it was apparent that the company was looking into the unauthorized
+practices.
+In his reply brief, Applicant insists that the Judge’s decision was rationally based on all the
+evidence presented.  The Board need not agree with the Judge’s ultimate disposition of the case to
+conclude that Applicant’s assertion is correct.  Notwithstanding the Judge’s errors identified herein,
+remand would serve no useful purpose as the decision as a whole is sustainable.   
+ 
+          Order
+The decision of the Judge granting Applicant a security clearance is  AFFIRMED.
+Signed: Jeffrey D. Billett        
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: Michael D. Hipple          
+Michael D. Hipple
+Administrative Judge
+Member, Appeal Board
+SEPARATE OPINION OF ADMINISTRATIVE JUDGE MICHAEL Y. RA’ANAN
+This case is disturbing.  There is ample record evidence that Applicant was dishonest and
+deceptive immediately after he was caught.  There is one piece of evidence that reports that
+Applicant remained so for at least two months after he was caught.  A May 26, 2003 Security
+Violation —Report of Findings says Applicant “has been uncooperative and deceptive regarding
+6
+what equipment and processes he used to copy his personal items.”  The same report found that the
+risk of compromise to classified information from Applicant’s was “HIGH.”
+Applicant’s dishonesty and failure to cooperate were not alleged in the SOR.  Neither the
+Administrative Judge nor the Department Counsel moved to amend the SOR to conform with the
+evidence, although either one could have done so (Directive, ¶E3.1.17).  The failure to amend the
+SOR has produced an anomaly where Applicant is eligible for a favorable decision in light of what
+was alleged but would have been ineligible if all the pertinent record evidence of his conduct were
+properly at issue.  Such an outcome does not make sense in light of the “clearly consistent with the
+national interest” standard. 
+Signed: Michael Y. Ra’anan        
+Michael Y. Ra’anan
+Administrative Judge
+Chairman, Appeal Board

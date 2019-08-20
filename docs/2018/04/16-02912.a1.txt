@@ -1,0 +1,175 @@
+KEYWORD: Guideline F
+DIGEST: From our review of the record, we conclude that Applicant’s bankruptcy along with
+his ongoing IRS tax debt, state tax liens, and post-bankruptcy delinquent consumer debts are
+sufficient to support the Judge’s adverse clearance determination. Adverse decision affirmed.
+CASENO: 16-02912.a1
+DATE: 04/06/2018
+DATE: April 6, 2018
+In Re:
+--------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 16-02912
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+November 19, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline F (Financial Considerations) of Department
+of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On December 22, 2017, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Roger C. Wesley denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact  
+Applicant is a 42-year-old employee of a defense contractor.  In 2000, he earned a bachelor’s
+degree that was funded by federally-guaranteed student loans.  
+The SOR alleged that Applicant received a Chapter 7 bankruptcy discharge in 2014, had  tax
+liens from State A for about $15,000 and State B for about $1,400; was indebted to the IRS for 2011,
+2012, and 2014 in the amount of about $10,000; was indebted to the U.S. Department of Education
+(U.S. DOE) for about $137,000; was indebted to a student loan servicing agent for about $16,500;
+and had five delinquent consumer debts exceeding $38,000.  Applicant attributed his financial
+problems to periods of unemployment and his parents’ major medical issues.  
+It is unclear whether Applicant’s IRS indebtedness qualifies for a bankruptcy discharge.  He
+provided no proof that he filed his Federal tax returns for the years in question “to meet the ‘within
+two-year filing of returns’ requirement before he petitioned for bankruptcy in 2014.”  Decision at
+3-4.  Applicant claimed the State B lien was released because of his bankruptcy discharge and
+provided an email from a bankruptcy attorney indicating the State A lien “as one of the scheduled
+debts that should be discharged in his 2014 bankruptcy.”  Decision at 4.  The bankruptcy discharge
+does not address the state tax liens in the discharge.  “Neither lien release claim is adequately
+supported and is not entitled to acceptance without corroboration.”  Id at 4.  His state tax liens likely
+survived his bankruptcy discharge.  
+Applicant listed $107,000 of federally-funded student loans in his bankruptcy petition. 
+However, it is unlikely that his student loans were discharged in the bankruptcy.  He provided no
+documentary proof that those student loans were discharged as claimed.  “As a general rule, federal
+student loan debt cannot be discharged in bankruptcy without a showing of extreme hardship.”  Id.
+at 5.1  His post-bankruptcy efforts to make payment arrangements on his student loans over a two-
+year period were unsuccessful.   
+1  A footnote following this quoted sentence reflected, “See Sallie Mae website: https://salliemae.com/student-
+loans/manage-your-private-st[.]”
+2
+In 2015, Applicant had an installment agreement with the IRS under which he ceased making
+monthly payments because he could not afford them.  In 2017, he entered into another IRS
+installment agreement, but it is unclear whether he has made the monthly payments under that
+agreement.  He was offered an opportunity to supplement the record with proof of payments, but
+provided no additional information.    
+Applicant’s five consumer debts were not opened until 2015 and became delinquent in 2016. 
+He provided no documentation of either paying or otherwise resolving these debts, and they were
+not included in his bankruptcy.  Applicant failed to provide proof of payments towards these debts
+after being given an opportunity to supplement the record with such documentation. 
+The Judge’s Analysis
+Each alleged delinquent debt is documented in either Applicant’s admissions or credit
+reports.  Applicant failed to provide evidence that his state tax liens were discharged in his
+bankruptcy, which precludes him from getting credit under the “acted responsibly under the
+circumstances” prong of mitigating condition 20(b).2  No proof was provided that Applicant’s IRS
+tax claims were discharged in bankruptcy.  In the absence of evidence that the IRS tax claims are
+being addressed through an installment agreement, credit cannot be extended to him under
+mitigating condition 20(g).3  While his bankruptcy petition listed $107,000 of student loans, he
+provided no confirmation that those loans were discharged due to hardship.  The student loans
+remain unaddressed.  The consumer debts are also unresolved.  Applicant’s mixed efforts in
+addressing his delinquent debts are not sufficient to support favorable findings and conclusions.
+Discussion
+Applicant contends he is making consistent on-time monthly payments to the IRS.  The 
+Judge, however, found that Applicant provided no proof of those monthly payments.  The Appeal
+Board has previously noted that it is reasonable for a Judge to expect applicants to present
+documentation about the resolution of specific debts.  See, e.g., ISCR Case No. 15-03363 at 2 (App.
+Bd. Oct. 19, 2016).  The Judge’s finding that Applicant failed to provide proof of those payments
+is supported by substantial evidence.  See, e.g., ISCR Case No. 12-03420 at 3 (App. Bd. Jul. 25,
+2014).  This allegation of error is resolved adversely to Applicant.
+Applicant also contends the two state tax liens were filed in error and have been removed
+from his record.  As best we can discern, he is claiming he provided proof of their removal from his
+2 Directive Encl. 2, App. A ¶ 20(b) states, “the conditions that resulted in the financial problem were largely
+beyond the person's control (e.g., loss of employment, a business downturn, unexpected medical emergency, a death,
+divorce or separation, clear victimization by predatory lending practices, or identity theft), and the individual acted
+responsibly under the circumstances[.]”
+3 Directive Encl. 2, App. A ¶ 20(g) states, “the individual has made arrangements with the appropriate tax
+authority to file or pay the amount owed and is in compliance with those arrangements.”
+3
+“records” at the hearing.4  The evidentiary record contains two complete credit reports with entries
+listing the state tax liens.  One of those credit reports was obtained a year and a half after Applicant
+received his bankruptcy discharge and does not reflect the state tax liens were released, removed,
+or otherwise resolved.  The evidentiary record also contains a letter that Applicant presumably sent
+to State B requesting dismissal of the tax lien due to his bankruptcy discharge, but there is no
+document in the evidentiary record showing State B acted on that request.  This  allegation of error
+is resolved adversely to Applicant.
+Citing to a credit report, Applicant further contends that he provided proof that his student
+loans were discharged in his bankruptcy.  The record contains contradictory evidence on this issue. 
+First, in his security clearance application submitted in September 2015 (i.e., about nine months after
+his bankruptcy discharge), Applicant disclosed that he was working with the U.S. DOE to arrange
+an affordable repayment plan for a delinquent student loan totaling about $137,000 and was also
+working with another creditor on a delinquent student loan totaling about $16,500.  Government
+Exhibit (GE) 1.  Second, in his background interview in October 2015, he  reportedly indicated his
+U.S. DOE student loan was in a deferment status until February 2016, and he was still working on
+a repayment plan for that loan.  During that interview, he also indicated that he was working with
+the other student loan creditor on a repayment plan, but had not yet heard back from the creditor. 
+GE 2.  On the other hand, the record also contains a post-bankruptcy credit report that listed four
+entries for U.S. DOE student loans that each indicated “Status:  Included in Bankruptcy[,]
+Comments: Bankruptcy chapter 7[,] Bankruptcy discharged” and each account’s entries for  Balance,
+Credit Limit, Actual Payment, Scheduled Payment, and Past Due were zero.5  GE 6.  At the hearing,
+Applicant testified that his student loans were forgiven and pointed to the zero balances reflected
+in that credit report as proof.  He also testified that he spoke to the creditors who told him the student
+loans were “forgiven due to the bankruptcy.”  Tr. at 55.  In response to that testimony, the Judge
+stated that student loans are not typically discharged in bankruptcy.  Applicant then indicated that
+he would provided correspondence from the creditors showing the loans were forgiven.  Tr. at 55-
+56.  In his post-hearing submission, Applicant did not provide any documents to establish that his
+student loans were forgiven or discharged. 
+       
+The Judge’s decision did not address the entries in post-bankruptcy credit report that
+reflected the U.S. DOE student loans were included in the bankruptcy and had zero balances.  While
+a Judge is not required to discuss every piece of evidence in the record, he or she is expected to
+examine relevant evidence that may have an impact on a material matter in the case.  Compare, e.g.,
+ISCR Case No. 12-01500 at 3 (App. Bd. Aug. 25, 2015)(a Judge is not required to discuss each and
+every piece of evidence) with ISCR Case No. 14-02563 at 3 (App. Bd. Aug. 28, 2015)(the Appeal
+Board will consider whether a Judge’s decision examined relevant evidence in determining if his
+4 Appeal Brief at 1-2.  Applicant’s use of the term “records” presumably refers to his credit reports. 
+5 The post-bankruptcy credit report also contains entries for the U.S. DOE loans that were reported before the
+bankruptcy was filed and reflected zero balances.  Additionally, it reflected student loan accounts from the other creditor
+that have zero balances and one student loan account from a third creditor that was opened before the bankruptcy,
+reported after the bankruptcy, reflected a balance of $7,268, and indicated the status is “Pays as agreed.”  GE 6.   
+4
+or her rulings or conclusions are arbitrary or capricious).  See also, ISCR Case No. 14-00281 at 4
+(App. Bd. Dec. 30, 2014) (a Judge’s task is to resolve apparent conflicts in the evidence).  In this
+case, even if the Judge erred in not discussing the post-bankruptcy credit report entries involving
+the U.S. DOE student loans, we conclude such an error was harmless because it likely had no affect
+on the outcome of the case.  See, e.g., ISCR Case No. 11-15184 at 3 (App. Bd. Jul. 25, 2013).  From
+our review of the record, we conclude that Applicant’s bankruptcy along with his ongoing IRS tax
+debt, state tax liens, and post-bankruptcy delinquent consumer debts are sufficient to support the
+Judge’s adverse clearance determination.        
+The balance of Applicant’s arguments amount to a disagreement with the Judge’s weighing
+of the evidence.  Those arguments, however, are not enough to show that the Judge weighed the
+evidence in a manner that is arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 14-
+06440 at 4 (App. Bd. Jan. 8, 2016).
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A ¶ 2(b):  “Any
+doubt concerning personnel being considered for national security eligibility will be resolved in
+favor  of the national security.”
+Order
+The Decision is AFFIRMED.  
+5
+Signed: Michael Ra’anan            
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody            
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy               
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+6

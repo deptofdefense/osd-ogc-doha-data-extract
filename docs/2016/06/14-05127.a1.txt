@@ -1,0 +1,379 @@
+KEYWORD: Guideline K; Guideline M; Guideline E
+DIGEST:   An SOR is an example of notice pleading.  It is not held to the same standards as a
+criminal indictment.  So long as an SOR places an applicant on notice of the matters to be
+addressed in the DOHA proceeding, it satisfies the requirements of the Directive.  We examine a
+Judge’s decision regarding amending an SOR for an abuse of discretion..  A variance between
+pleading and proof constitutes harmful error only if the variance is material. Variances are
+material only in those cases in which the extent of the variance is so great that the SOR
+allegation fails to serve as reasonable notice to the applicant of the concerns against him, thereby
+subjecting him to unfair surprise when confronted with the Government’s evidence. Adverse
+decision affirmed
+CASENO: 14-05127.a1
+DATE: 06/24/2016
+DATE: June 24, 2016
+In Re:
+----------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-05127
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Chris Morin, Esq., Department Counsel
+FOR APPLICANT
+Sheldon I. Cohen, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+October 31, 2014, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline K (Handling Protected Information), Guideline
+M (Use of Information Technology Systems), and Guideline E (Personal Conduct) of Department
+of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On February 18, 2016, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Edward W. Loughran denied Applicant’s request for a security clearance. 
+Applicant appealed, and Department Counsel cross-appealed, pursuant to Directive ¶¶ E3.1.28 and
+E3.1.30. 
+Applicant raised the following issues on appeal: whether there is a material variance between
+the Judge’s formal findings and the SOR allegations; whether the Judge’s findings of fact contained
+errors; and whether the Judge’s adverse decision was arbitrary, capricious, or contrary to law. 
+Department Counsel raised the following issue on cross-appeal: whether the Judge’s favorable
+findings under Guidelines K and M were unsupported by the evidence.  Consistent with the
+following, we affirm the Judge’s ultimate adverse decision.
+The Judge’s Findings of Fact
+Applicant is a retired official from the U.S. military.  The Judge described his contributions
+to national security as “groundbreaking” and his character evidence as “the most impressive . . . I
+have seen.”  Decision at 3.  
+In his last position with the military, Applicant served as the head of an agency.  He oversaw
+the work of thousands of persons and was responsible for numerous “concepts and programs.”  Id. 
+One of the programs involved an innovative technological concept that the Judge called AB2. 
+Applicant drew this concept to the attention of senior leadership and recommended that AB2 be
+developed and implemented.  While Applicant was still serving the military, though on terminal
+leave, a contractor, whom the Judge designated as Company A, was awarded a contract for research
+and development of AB2.  The award was accomplished by a different service branch from
+Applicant’s.  Applicant entered terminal leave a few days before this contract was awarded.  He
+retired in late 2010.  
+ 
+A DoD Inspector General (IG) investigation found problems and irregularities in the manner
+in which the persons in Applicant’s agency had handled the AB2 contract, including “off-loading”
+the contract to the other service.  In late 2010, responsibility for AB2 was transferred back to the
+service in which Applicant had served and from which he had retired.  
+Three months later, Applicant was hired by Company A to serve as CEO.  He submitted a
+request for post-Government employment advice from his service’s General Counsel (OGC).  Soon
+2
+after, Company A was again awarded the AB2 contract.  After corresponding with Applicant, OGC
+issued its opinion, which included the following advice:
+[18 U.S.C. § 207] prohibits you for life from acting as agent or otherwise
+representing, formally or informally, anyone except the United States before any
+department, agency or office of the United States in connection with any particular
+matter involving specific parties and in which you participated personally and
+substantially for the government while you were a government employee.
+The guidance went on to state that Applicant’s activities concerning AB2 while he was serving in
+the military constituted personal and substantial participation and that he therefore was subject to
+the representation ban for the lifetime of the AB2 program.  “This limitation does not preclude
+‘behind-the-scenes’ participation in the program on behalf of [Company A].”  The memorandum
+stated that the opinions contained therein were advisory only.  Id. at 6-7.
+The in-house counsel for Company A, as well as an outside counsel with expertise in conflict
+of interest laws, were of the opinion that Applicant was not subject to a lifetime ban.  Company A’s
+counsel sent OGC a letter explaining why he believed that the ban did not apply to Applicant and
+requesting reconsideration.  Among other things, the letter stated that Applicant had not made the
+decision to implement AB2, or had not otherwise sponsored the program while serving in the
+military.  The counsel sent follow-up emails to the OGC attorney who was handling the matter. 
+Applicant himself requested a meeting with OGC and explained in a letter why he was uncertain
+about the ban.  Among other things, he stated that AB2 was only a concept, rather than a program,
+during his service in the military.  
+OGC sent Applicant a second memorandum.  In this memo, the attorney referenced
+a number of emails that . . . show you were significantly involved in bringing the
+program to [the service] and that this involvement occurred at a time when
+[Company A] . . . was a named bidder.  Some of the emails may show a knowledge
+that [Company A] was a bidder in the contract, and that you, by direct action and by
+order to a subordinate, took actions that appear to be significant i[n] getting funding
+for the program.  Id. at 10.
+Later, OGC responded to Applicant by email, stating that there was nothing new in recent
+correspondence from or on behalf of Applicant and that the OGC opinion that Applicant was under
+a lifetime ban was not changed.  The letter stated that the opinions therein were advisory only,
+although failure to abide by the advice “is at your peril.”  Id.  
+In response to additional queries from Applicant, OGC sent him a third memorandum.  This
+was done in August 2011.  The memorandum discussed in greater detail the meaning of the various
+terms contained in the statute.  It also stated that the “particular matter” at issue was the AB2
+contract.  The memorandum reiterated that OGC advice on this matter was advisory.  
+3
+In the meantime, the AB2 program ran into difficulties, specifically technical setbacks that
+were projected to cause it to exceed it costs and schedule.  Contracting officials sent Company A
+a partial stop-work order in early 2012.  A few weeks later, Applicant approached a senior official
+about moving AB2 to another branch of the service.  A couple of months after that, a contracting
+officer sent Company A a cure notice that identified numerous problems with AB2 development. 
+This notice advised that the Government had no plan to provide additional funding or to schedule
+any relief.
+Following this cure notice, Applicant approached a military official requesting a telephone
+conversation about AB2.  He also requested that contracting personnel rescind the cure notice,
+warning that Company A was considering legal action against the U.S.  Subsequently, the partial
+stop-work order was extended.  Applicant sent an email to an Under Secretary of Defense.  Among
+other things, he requested additional funds for AB2 and an extension of the contract to enable
+successful development and testing.  
+He also sent an email to an Under Secretary of a military service, suggesting that this official
+call another service Under Secretary and  request a delay in terminating the contract and consider
+the merits of transferring AB2 to another service.  In May 2012, a contracting officer sent a letter
+to Company A directing it to “immediately stop all work [on AB2], cease and/or freeze all
+subcontracts, and place no further order except to the extent necessary to perform disassembly,
+packing, and shipping [the platform and equipment].”  Id. at 14.  
+After all of this, OGC sent Applicant a fourth memorandum stating that it
+has come to my attention that you have approached the Undersecretary of [service]
+on behalf of [Company A], asking [for] an extension of the [AB2] program.  This is
+in direct contravention of the advice given to you by [OGC] . . . Please refrain from
+continuing such communications with . . . leadership.  Failure to comply will be at
+your own peril.  Id.  
+Applicant later sent an email to the chief of another military service, stating that the service might
+want to acquire AB2 before the opportunity was gone.  
+The Department of Justice (DOJ) opened an investigation of Applicant’s conduct.  The FBI
+executed a search warrant and seized his computer.  It appears that Applicant had been assigned
+unclassified laptop computers during his service as a senior official of the military.  When he retired,
+information technology (IT) personnel transferred all data from Applicant’s assigned laptop to one
+personally owned by him.  IT personnel for Company A subsequently transferred all the data on his
+personally owned laptop to one assigned to Applicant by the Company for his use as CEO.  This
+laptop, which was not classified, was found to contain classified documents. 
+Applicant eventually entered into an agreement with DOJ attorneys, whereby he would pay
+$125,000 to the U.S. in consideration of which the DOJ would drop any possible criminal or civil
+action.  The Judge quoted the settlement agreement in pertinent part:
+4
+The United States contends that . . .  while he was [CEO of Company A], [Applicant]
+engaged in a prohibited conflict of interest in that he had improper communications
+or appearances on behalf of [Company A] before United States’ officers regarding
+a U.S. military . . . program known as [AB2], a program in which the United States
+contends [Applicant] participated personally and substantially while he was with the
+[U.S. military].  Id. at 19.  
+The agreement stated that Applicant did not admit wrongdoing and the U.S. did not concede that its
+claims were not well founded.  
+In November 2014, the military service debarred Applicant from contracting for a period of
+18 months.  Among other things, the debarment memorandum, prepared by a Deputy GC, stated the
+following:
+The manner in which [Applicant] conducted himself is particularly egregious. [He]
+was told not once, but five times by OGC . . . that 18 U.S.C. § 207 restricted him
+from representing Company A on the [AB2] program back to United States
+Government representatives with an intent to influence . . . [T]he senior ethics
+official in the [service], the [service] General Counsel, concurred with the opinions
+provided by [his or her] office to [Applicant].  Id . at 17-18.  
+The Judge’s Analysis
+The Judge concluded that Applicant’s conduct as CEO of Company A raised concerns under
+Guideline E.  He did not accept the views expressed by Applicant that, insofar as the various
+memoranda from OGC were advisory only, that he had violated no duty.  The Judge stated that,
+while Applicant was not bound to follow the advice of OGC per se, he was bound to follow the law
+as set forth in 18 U.S.C. § 207.  The Judge concluded that Applicant had indeed violated this statute,
+adopting the above referenced DOJ settlement agreement as a concise statement of Applicant’s
+misconduct.  
+The Judge found that Applicant had “participated personally and substantially” in the
+concept that became the AB2 program, citing to the memoranda from OGC and the debarment
+officials as credible and persuasive evidence.  He also rejected Applicant’s argument that his
+communications with various senior officials were without an intent to influence them.  He noted
+evidence that the AB2 program was faltering and concluded that Applicant was attempting to save
+the contract before it was cancelled.  The Judge stated that Applicant’s conduct showed “dishonesty,
+poor judgment, and an unwillingness to comply with the law,” thereby raising concerns about his
+ability to protect classified information.  Id. at 23.  
+In evaluating Applicant’s case for mitigation, the Judge stated that Applicant continues to
+deny that he did anything wrong.  Applicant had numerous chances to conform his behavior to the
+requirements of the law but failed to do so, resulting in the settlement agreement with the DOJ and
+debarment from contracting.  The Judge stated that, without an acceptance of responsibility by
+5
+Applicant, he could not find that similar incidents were unlikely to occur.  Id. He resolved the
+Guideline E allegations adversely to Applicant.
+Under Guideline K, the Judge stated that there “were numerous classified documents stored
+on Applicant’s personal computer,” thereby raising security concerns.  Id. at 24.  The Judge
+concluded that one mitigating condition, 35(a), was potentially applicable: “so much time has
+elapsed since the behavior, or it has happened so infrequently or under such unusual circumstances,
+that it is unlikely to recur and does not cast doubt on the individual’s current reliability,
+trustworthiness, or good judgment[.]”  The Judge noted evidence that over 30 people had access to
+Applicant’s computer and that Applicant had vehemently denied intentionally placing classified
+information there.  The Judge stated, “There is insufficient evidence to overcome those assertions. 
+Handling protected information security concerns are mitigated.”1  Id. 
+Discussion
+Applicant’s Appeal:  
+Applicant argues that the Judge entered adverse formal findings that were not consistent with
+the language of the SOR.  His argument can be summarized as follows: the SOR alleged that
+Applicant failed to follow the advice of the OGC regarding the post-government conduct.  However,
+the Judge did not limit his analysis to whether Applicant had a duty to follow this advice but,
+instead, considered the entirety of Applicant’s conduct.  In finding against him, the Judge “went
+beyond the clear statement of the SOR.”  He argues that the Judge should have amended the SOR
+in order to make it conform to the evidence.
+An SOR is an example of notice pleading.  It is not held to the same standards as a criminal
+indictment.  So long as an SOR places an applicant on notice of the matters to be addressed in the
+DOHA proceeding, it satisfies the requirements of the Directive.  See, e.g., ISCR Case No. 14-06440
+at 3-4 (App. Bd. Jan. 8, 2016).  We examine a Judge’s decision regarding amending an SOR for an
+abuse of discretion.  See, e.g., ISCR Case No. 14-00019 at 4 (App. Bd. Sep. 18, 2014).  A variance
+between pleading and proof constitutes harmful error only if the variance is material. Variances are
+material only in those cases in which the extent of the variance is so great that the SOR allegation
+fails to serve as reasonable notice to the applicant of the concerns against him, thereby subjecting
+him to unfair surprise when confronted with the Government’s evidence.  See, e.g., ISCR Case No.
+12-01266 at 3 (App. Bd. Apr. 4, 2014).     
+SOR ¶ 3(b) alleged the following:  
+[Y]ou acted repeatedly in a manner contrary to post-government employment advice
+provided to you by the Office of General Counsel, by engaging in conversations and
+1The Judge also found that security concerns had been raised under Guideline M (Directive, Enclosure 2 ¶
+40(d)) and mitigated by the same rationale as under Guideline K.  Id. at 25.  
+6
+correspondence with senior Government officials in an effort to promote and
+preserve the [AB2] program.”  
+At the hearing, Applicant contended that the issue raised by this allegation was simply whether or
+not he had an obligation to follow OGC advice concerning 18 U.S.C. § 207, rather than the broader
+question of whether his post-government actions as CEO of Company A raised concerns about his
+judgment and reliability.  The Judge disagreed, stating that Applicant’s view of the allegation was
+unreasonably narrow.  He advised that Applicant’s entire “post-retirement conduct . . . [was] what
+we’re looking at.”  Tr. at 51.    Applicant claimed that he was not prepared to meet the allegation as
+the Judge interpreted it.  Though expressing scepticism about Applicant’s argument,2 the Judge gave
+him a continuance in order to ensure that Applicant had not been subjected to unfair surprise.  Tr.
+at 54.  The record shows that two months elapsed between the beginning of the hearing and its
+resumption after the continuance.  
+We are not persuaded by Applicant’s argument on appeal.  We conclude that the allegation
+as written was sufficient to have placed a reasonable person on notice that his post-government
+conduct was at issue.  As the record shows and Department Counsel argues in his Reply Brief,
+Applicant was advised not once but five times–four by memorandum and another time by e-mail–to
+refrain from contacting Government officials, advice he repeatedly ignored.  As a consequence, he
+came under investigation by the FBI, entered into a settlement agreement with the DOJ, and was
+debarred from contracting with the Government.  All of this is fairly embraced by the allegation as
+contained in the SOR, and it is not reasonable to limit the allegation in the manner that Applicant
+urges.  The Judge’s adverse decision under this allegation did not constitute a material variance
+between his findings and the SOR pleading, and he did not abuse his discretion by declining to
+amend the SOR.  In any event, even if he erred, such error did not cause Applicant to suffer
+prejudice, in view of the substantial continuance that the Judge granted him.  We resolve this
+allegation adversely to Applicant.
+Applicant challenges the Judge’s finding that he had violated 18 U.S.C. § 207.  He states that
+this finding was erroneous as a matter of law.  Among other things, he argues that he did not violate
+the “particular matter” element of the statute, nor did he participate “personally and substantially”
+in AB2 while he worked for the military.  He also contends that his contacts with Government
+officials were not made with the intent to influence their conduct but, rather, were merely in
+response to requests for information.  We examine a Judge’s findings to see if they are supported
+by “such relevant evidence as a reasonable mind might accept as adequate to support a conclusion
+in light of all the contrary evidence in the same record.”  Directive ¶ E3.1.32.1. 
+We do not find these arguments to be persuasive.  Applicant’s contention that, as CEO of
+Company A, he had not acted in regard to any particular matter with which he had been involved
+while in the military relies in large measure upon evidence that there were two contracts awarded
+for AB2 development.  He contends that, insofar as the first contract was replaced by a second,
+which was approved after he left the military, his post-government conduct did not involve the same
+2“Frankly, I’m shocked that you don’t see that that’s part of what we’re handling here[.]” Tr. at 51.
+7
+particular matter as that upon which he had worked before retiring.  Admittedly, as the Judge found,
+in one memorandum OGC told Applicant that the particular matter was the AB2 contract.  It is clear,
+however, that OGC ethics officials viewed the particular matter to be AB2 itself, rather than the
+specific contracts through which this technological innovation was expected to be realized.3  This
+view is both implicit and explicit in the various communications that OGC conveyed to Applicant
+and is consistent with the language of the statute.  Applicant’s arguments are not sufficient to
+undermine this aspect of the Judge’s findings.    
+Neither are we persuaded by Applicant’s contention that he had not been involved personally
+and substantially in the implementation of AB2 while in the military.  One of the Judge’s findings 
+consists of an extended quotation from AE LLL, a letter from a former official in Applicant’s service
+branch.  This exhibit states that Applicant recommended that the official support the concept
+underlying AB2 and consider a partnership with Company A in bringing it to fruition.  The
+Debarment Memorandum, included in Government Exhibit (GE) 2 at 7 of 16, is in accord:
+“Although [Applicant] did not have the ultimate decision making authority, he made the
+recommendation to his supervisor . . . to sponsor the [AB2] program.”  In addition, we note the
+following colloquy between Applicant and the Judge: 
+[Y]ou were advising that the [service] adopt the program?  [Applicant]: Turn this
+concept into a deployable system, yes sir . . . [Judge]: [I]t appears that you were
+involved, the basis is that you advocated for this program . . .  [Applicant]: Yes, sir. 
+There’s no law against advoca[cy].  Tr. at 689, 712.  
+Advocacy is an attempt to persuade, and the record shows that Applicant was instrumental in
+persuading his service to implement AB2, despite the initial reservations of the former official who
+wrote AE LLL. The evidence as a whole provides no reason to reject the OGC opinion that
+Applicant had been personally and substantially involved in AB2 development prior to his
+retirement, even if he had not actually made the decision to fund the program.  Finally, we find no
+merit in Applicant’s argument that his communications with Government officials while serving as
+CEO of Company A had been mere responses to the officials’ requests for information.     
+Obviously, in making the challenged findings, the Judge extended considerable weight to
+the OGC advice, the Debarment Memorandum, the DoD IG report, and the DOJ settlement
+agreement, all of which support a conclusion that Applicant engaged in conduct that entailed a
+conflict of interest.  Applicant’s case relied, in large measure, upon legal opinions expressed by the
+3Applicant’s own evidence shows that the reason for the second contract was not to initiate a new matter but,
+rather, to resolve material errors in the first contract.  The first contract, awarded to Company A while Applicant was
+on terminal leave, was found to have been “legally insufficient.”  When responsibility for AB2 was returned to
+Applicant’s service branch, contracting officials did not transfer the first contract but initiated a new one in order to
+correct identified errors.  Completed work under the first contract was treated as Government-furnished equipment. 
+Applicant Exhibit (AE)  HH, DoD IG Report, at pp. 13-15.   
+8
+attorney who advised him regarding the debarment and during his interactions with the FBI.4  These
+opinions are contained in the attorney’s hearing testimony as well as in a detailed memorandum and
+in briefing slides, both prepared in response to the proposed debarment.  See AE I, Response to
+Notice of Proposed Debarment, September 16, 2014; AE J, Briefing Slides In the Matter of
+[Applicant].  We have given Applicant’s evidence due consideration.  Applicant’s argument is, in
+essence, a disagreement with the Judge’s weighing of the evidence, which is not enough to show that
+the Judge weighed the evidence in a manner that was erroneous as a matter of law.  See, e.g., ISCR
+Case No. 14-06686 at 2 (App. Bd. Apr. 27, 2016).  The Judge’s material findings, including the
+specific ones raised in this appeal issue, are supported by substantial evidence or constitute
+reasonable inferences that could be drawn from the evidence.5  Applicant has not cited to any
+harmful error in the Judge’s findings of fact.  See, e.g., ISCR Case No. 12-03420 at 3 (App. Bd. Jul.
+25, 2014).  
+Applicant also argues that he should be credited with having sought out the advice of OGC
+and by having acted in accordance with legal advice he received from his own attorney.  He also
+argues that the Judge’s decision runs contrary to the weight of the record evidence, in light of his
+outstanding record of service to the DoD.  We do not find these arguments to be persuasive.  On the
+second point, the Judge acknowledged Applicant’s achievements but concluded that they did not
+outweigh concerns that arose from his repeated violation of OGC ethics advice.  The Judge’s
+adverse decision under Guideline E is sustainable on this record.  “The general standard is that a
+clearance may be granted only when ‘clearly consistent with the interests of the national security.’” 
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b): 
+“Any doubt concerning personnel being considered for access to classified information will be
+resolved in favor of the national security.”
+The Government’s Cross-Appeal
+Department Counsel argues that the Judge’s favorable findings under Guidelines K and M
+are not supported by the weight of the record evidence.  He agrees with the Judge’s conclusion that 
+Applicant’s possession of an unclassified computer containing classified information raised concerns
+about Applicant’s ability to protect classified information.  However, he argues that this concern is
+4This attorney has considerable experience advising clients on conflict of interest laws, including the statute
+at issue here.  He testified that, in his opinion, the OGC advice was mistaken, as was the Debarment Memorandum.  Tr.
+at 623, 626.  However, he also testified that the DOJ attorneys, in his opinion, arrived at their conclusions about
+Applicant’s conduct independently of those in OGC.  “They were looking at it completely independently . . . I’m
+confident  . . . that they had no interaction with [OGC] or any of the ancillary proceedings[.]” Tr. at 630.
+5 We note Department Counsel’s argument that the specific origin of the duty that Applicant breached is not
+essential in evaluating his conduct.  He asserts that all we need to consider is that Applicant repeatedly acted contrary
+to the OGC advice that he had received, as a consequence of which he suffered significant legal consequences. 
+However, unless Applicant had a duty to avoid a conflict of interest, and unless his conduct breached that duty, it is not
+likely that his conduct would have been alleged in the SOR ab initio.  Hypothetically, it is unlikely that security concerns
+would arise from an applicant’s failure to follow ethics advice that was patently erroneous.  Such is not the case here,
+and the Judge’s findings about 18 U.S.C. § 207 were germane to the issues that were before him.   
+9
+not logically mitigated by Applicant’s claims that he did not know how the documents got there in
+the first place or by evidence that others had access to his computer or by anything else in the record.
+We find this argument persuasive.  Security violations “strike at the heart of the industrial
+security program.”  Once it is shown that an applicant has committed such violations, he or she has
+a “very heavy burden” in demonstrating mitigation.  A Judge must give any claims of reform or
+rehabilitation “strict scrutiny.”  ISCR Case No. 14-04441 at 4 (App. Bd. Apr. 8, 2016).  The Judge
+did not evaluate Applicant’s conduct in light of this standard or cite to the standard in any way. 
+Moreover, under the facts of this case, we are persuaded by Department Counsel’s argument that
+Applicant’s claims of ignorance do not mitigate concerns arising from his conduct.6  The Judge’s
+analysis of Guidelines K and M is not sustainable.  However,  even if the Judge had not made these
+errors he would have decided the case in the same way.  Therefore, we conclude that there is no
+reason to remand the case for further processing. 
+  
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Y. Ra’anan          
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+6The record demonstrates that Applicant’s laptop computer improperly contained classified information.  DOJ
+officials confronted Applicant about this at a proffer meeting.  An investigator who was present at this meeting testified
+that Applicant told DOJ officials that “at times he would type up a classified briefing on his unclassified laptop and then
+at a later date would add the classified markings to it.”  Tr. at 162-163.  This official summarized Applicant’s statements
+during the proffer in a document that was admitted as AE MM.  Regarding the improper storage of classified
+information, the summary stated: “[Applicant] stated that at times he would build briefings on his unclassified
+government laptop and then go in after the fact and apply classification markings . . . Therefore, it could be possible that
+the now classified briefing was not removed from his laptop after his trip/briefing.”  An Applicant witness, who was also
+present at the proffer meeting, testified that AE MM was “generally accurate in terms of its description of both the
+questions that were asked of [Applicant] and the answers that he gave during that proffer session.”  Tr. at 616. 
+Accordingly, the record contains substantial evidence that at least some classified information came to be on Applicant’s
+unclassified laptop due to Applicant’s own actions.  Despite evidence that various IT personnel, rather than Applicant,
+transferred files from one computer to another, the record does not support a finding that Applicant did not know how
+classified information came to be present on his unclassified computer in the first place or that someone else put it there. 
+10
+Member, Appeal Board
+Signed: William S. Fields             
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+11

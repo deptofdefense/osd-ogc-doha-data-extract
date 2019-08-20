@@ -1,0 +1,577 @@
+ 
+1 
+ 
+ 
+                                                              
+    DEPARTMENT OF DEFENSE 
+            DEFENSE OFFICE OF HEARINGS AND APPEALS 
+          
+             
+ 
+ 
+In the matter of: ) 
+ ) 
+  )  ISCR Case No. 09-00266 
+  ) 
+Applicant for Security Clearance ) 
+ 
+ 
+Appearances 
+ 
+For Government: Ray T. Blank, Jr., Esq., Department Counsel 
+For Applicant: Roderic G. Steakley, Esq. 
+ 
+ 
+ 
+ 
+__________ 
+ 
+Decision 
+__________ 
+ 
+ 
+DUFFY, James F., Administrative Judge: 
+ 
+Applicant failed to mitigate security concerns under Guideline E (Personal 
+Conduct). Clearance is denied. 
+ 
+Statement of the Case 
+ 
+Applicant submitted an Electronic Questionnaire for Investigations Processing (e-
+QIP) on March 6, 2008. On July 7, 2010, the Defense Office of Hearings and Appeals 
+(DOHA) issued a Statement of Reasons (SOR) detailing security concerns under 
+Guideline E. DOHA acted under Executive Order 10865, Safeguarding Classified 
+Information Within Industry, dated February 20, 1960, as amended; Department of 
+Defense Directive 5220.6, Defense Industrial Personnel Security Clearance Review 
+Program, dated January 2, 1992, as amended (Directive); and the adjudicative 
+guidelines (AG) implemented on September 1, 2006. 
+ 
+ 
+ 
+2 
+ 
+ 
+The SOR detailed reasons why DOHA could not make the preliminary affirmative 
+finding under the Directive that it is clearly consistent with the national interest to grant 
+or continue Applicant’s security clearance. On August 23, 2010, Applicant answered the 
+SOR and requested a hearing. The case was assigned to me on August 9, 2011. DOHA 
+issued a notice of hearing on August 24, 2011, and the hearing was convened as 
+scheduled on September 14, 2011. At the hearing, the Government offered exhibits 
+(GE) 1 through 7. GE 1, 2, and 3 were admitted into evidence without objection. GE 5 
+was admitted into evidence over Applicant’s objection. I deferred ruling on Applicant’s 
+objections to GE 4, 6, and 7 until issuance of this Decision. Applicant testified and 
+offered exhibit (AE) A. Department Counsel objected to AE A and I deferred ruling on 
+that objection until issuance of this Decision. DOHA received the hearing transcript (Tr.) 
+on September 21, 2011.  
+ 
+Evidentiary Ruling 
+ 
+As noted above, rulings on certain evidentiary objections were deferred until 
+issuance of this Decision. Those rulings are as follows: 
+ 
+GE 4. This is an email string that Applicant initiated. The names of the senders 
+and recipients of the subsequent emails as well as other information have been 
+redacted. In general, the subsequent emails address Applicant’s work performance at 
+Company B. Applicant’s Counsel objected to this exhibit essentially claiming it was 
+hearsay and not relevant. He also indicated that its admission would be inappropriate 
+because he did not have an opportunity to cross-examine the senders of the emails. 
+The objection to GE 4 is sustained. GE 4 is excluded from evidence based on lack of 
+relevance, hearsay, and ¶ E3.1.22 of the Directive.1 
+ 
+ GE 6. This is an email string from employees of Company A discussing whether 
+Applicant was resigning from his job. Applicant’s Counsel objected to this document for 
+the same reasons he objected to GE 4. Department Counsel also indicated that it was 
+being offered to show that Applicant was not candid during his resignation and for the 
+                                                          
+1 Tr. 18-24. Applicant’s email at the bottom of the email string is admissible as an admission, but 
+it is not relevant to the issues in this case. The Appeal Board has held that ¶ E3.1.22 does not require 
+exclusion of statements that are admissible under ¶ E3.1.20 or as exceptions to the hearsay rules under 
+the Federal Rules of Evidence. See ISCR Case No. 06-06496 at 3-4 (App. Bd. Jun 25, 2009) and ISCR 
+Case No. 08-06997 (App. Bd. Mar 1, 2011). Emails between employees are not per se business records. 
+See Keneally, White Collar Crime: E-mails Sent During The Business Day May Not Be Admissible As 
+Business Records, 28 Champion 42 (2004). “The business record exception to the proscription against 
+hearsay set out in Rule 803(6) requires a showing that ‘it was the regular practice of that business activity 
+to make’ the document proposed for admission into evidence, and that the document was ‘kept in the 
+course of a regularly conducted business activity.’ Several courts have found that e-mails often do not 
+meet these tests.” Id. at 42. See also Westfed Holdings, Inc. v. United States, 55 Fed. Cl. 544, 566, U.S. 
+Claims LEXIS at *48 (Ct. of Fed. Claims 2003); New York v. Microsoft Corp, 2002 U.S. Dist. LEXIS, at *9 
+(D.D.C. April 12, 2002). In this case, it is unknown whether the emails in question were generated as a 
+regular practice of the business. 
+ 
+3 
+ 
+ 
+whole-person concept. The objection to GE 5 is sustained. GE 5 is excluded from 
+evidence based on lack of relevance, hearsay, and ¶ E3.1.22 of the Directive.2 
+ 
+ GE 7. This is an email string from employees of Company A discussing 
+Applicant’s resignation from that company. It also indicated that an investigation was 
+initiated into ZIP files found that apparently belonged to Applicant. Applicant’s Counsel 
+objected to this exhibit for the same reasons he objected to GE 4. The objection to GE 7 
+is sustained. GE 7 is excluded from evidence based on hearsay and ¶ E3.1.22 of the 
+Directive.3 
+ 
+AE A. This exhibit is two pages of the Office of Personnel Management (OPM) 
+report of investigation (ROI) into Applicant’s security clearance eligibility. It reflects that 
+Applicant was involuntarily terminated from Company B due to no billable work 
+matching his skills and also indicates that no other documents pertaining to Applicant’s 
+termination were located. Department Counsel objected to this exhibit based on ¶ 
+E3.1.20 of the Directive. Under ¶ E3.1.20, an ROI may be received into evidence with 
+an authenticating witness provided it is otherwise admissible under the Federal Rules of 
+Evidence. Nothing on the face of the ROI or in its contents suggest that it was not an 
+official OPM investigative report or that it was prepared and maintained other than in the 
+regular course of OPM business. In making his objection, Department Counsel basically 
+conceded that this document was a ROI. Its authenticity is not an issue. Department 
+Counsel’s objection is overruled. AE A is admitted into evidence.4 
+ 
+Administrative Notice 
+ 
+ During the hearing, Department Counsel requested that I take administrative 
+notice of which day of the week was September 12, 2005. The request was granted. 
+September 12, 2005, was a Monday.5 
+ 
+Findings of Fact 
+ 
+Applicant is a 50-year-old employee of a defense contractor. He has a bachelor’s 
+and a master’s degree in electrical engineering from a major university and, except for 
+the dissertation, has completed the requirements for a doctorate degree. He has never 
+been married and has no children. He has worked in the defense industry for about 20 
+years and, for most of that employment, he has held a security clearance without 
+committing any security violations. He testified that he was familiar with the security 
+                                                          
+2 Tr. 26-32. See also note 1 above. 
+3 Tr. 33-37. See also note 1 above. 
+4 Tr. 37-40. 
+5 Tr. 73-74. See http//www.timeanddate.com/calendar/?year=2005. 
+ 
+4 
+ 
+ 
+clearance application process and was aware that prior employers are contacted during 
+security clearance investigations.6 
+ 
+The SOR alleged that Applicant falsified material facts in responding to Section 
+22 of his e-QIP. In his Answer, Applicant denied that allegation. 
+ 
+Applicant worked for Company A from June 2003 to June 2005. In that job, he 
+worked in a Special Access Program. After resigning from that job, he began working 
+for Company B in September 2005. While working for Company B, he became the 
+subject of a Federal Bureau of Investigation (FBI) investigation. In his Answer, he 
+stated: 
+ 
+In February 2006 I had been employed by [Company B] for only a number 
+of months. I received a visit at my home by representatives from the FBI 
+who were investigating claims made by a former employer [Company A] 
+that I had taken certain confidential, proprietary and trade secret 
+information with me upon my resignation from that former employer. The 
+same work day after the visit from the FBI, I advised my manager at 
+[Company B] that I had been visited by the FBI regarding allegations 
+made by a previous employer. I remember being placed on administrative 
+leave at that time, and believe that I received a letter indicating that 
+[Company B] and I should “go our separate ways” shortly thereafter. I 
+received this letter while the FBI investigation was ongoing. I was 
+eventually exonerated of any wrongdoing related to that investigation.7 
+ 
+At the hearing, Applicant testified that Company B immediately placed him on 
+administrative leave for a couple of days after he notified that company of the FBI 
+investigation. He indicated his supervisor consulted with corporate counsel before he 
+was placed on administrative leave. Immediately following the administrative leave, he 
+was presented with an employment termination letter. He never returned to his job at 
+Company B after he notified that employer of the FBI investigation.8 
+ 
+ The termination letter from Company B is dated February 3, 2006. The first 
+paragraph of the letter states: 
+ 
+We appreciate your contributions and service during the time you have 
+spent with [Company B]. Confirming your discussion with [your 
+supervisor], your employment with the firm is being terminated due to lack 
+                                                          
+6 Tr. 42; 44-47, 49, 51, 55-56, 60-63; GE 1, 2. 
+7 Tr. 47-54, 73-86; Applicant’s Answer to the SOR; GE 2, 5. 
+8 Tr. 76-87, 100-102; GE 2, 3. 
+ 
+5 
+ 
+ 
+of appropriate work matching your skills and abilities. We regret that we 
+are unable to avoid this result.9 
+ 
+In that letter, Applicant was informed that his last day of employment was February 17, 
+2006. He was paid until the last day of his employment, but did not work during that two-
+week period. He was required to surrender his building badge and allowed to obtain 
+personal items from his office. He did not recall if he was escorted to and from his office 
+when he went to pick up his personal items. The OPM ROI indicates that Applicant’s 
+employment with Company B was terminated because there was no billable work and 
+was not the result of any problems or issues related to Applicant.10  
+ 
+Before receiving the termination letter, Applicant testified that his supervisor 
+advised him the reason for his termination was the same as that stated in the 
+termination letter, i.e., a lack of appropriate work matching his skills and ability. 
+Applicant specifically stated that he was never informed that he was being terminated 
+because of the ongoing FBI investigation. From April 2006 to March 2008, he was self-
+employed doing part-time consulting work, but primarily lived off of his savings and 
+investments.11 
+ 
+In his e-QIP signed on March 6, 2008, Applicant listed his employment with 
+Company B in Section 11: Your Employment Activities and submitted the following 
+“Additional Comments:” 
+ 
+I joined [Company B] in summer of 2005 to work on the GMD [ground 
+missile defense] program. I left this position by Apr 2006 for personal 
+reasons. My departure was by mutual agreement with the company.12 
+ 
+In Section 22: Your Employment Record of the e-QIP, he was asked the following 
+question: 
+ 
+Has any of the following happened to you in the last 7 years? 
+ 
+1. Fired from a job. 
+2. Quit a job after being told you’d be fired. 
+3. Left a job by mutual agreement following allegations of misconduct. 
+4. Left a job by mutual agreement following allegations of unsatisfactory 
+performance. 
+5. Left a job for other reasons under unfavorable circumstances.13 
+                                                          
+9 Tr. 51-54; GE 3. 
+10 Tr. 112-113; GE 3; AE A. 
+11 Tr. 52-54, 67, 78, 90-91, 101-104; GE 1, 3. 
+12 Tr. 57-60, 67, 85-87; GE 1. 
+ 
+6 
+ 
+ 
+Applicant answered “No” to that question and submitted the following “Additional 
+Comments:” 
+ 
+I left (resigned) [Company A] in 2005 to start work with [Company B]. I left 
+[Company B] in 2006 (by mutual agreement) for personal reasons. None 
+of the above apply.14  
+ 
+In signing the e-QIP, Applicant attested,  
+ 
+My statements on this form, and any attachments to it, are true, complete, 
+and correct to the best of my knowledge and belief and are made in good 
+faith. I understand that a knowing and willful statement on this form can be 
+punished by fine or imprisonment or both (See section 1001 of title 18, 
+United States Code).15 
+ 
+At the hearing, Applicant testified that he responded “No” to Section 22 because 
+none of the five situations in that question applied to him. Specifically, he interpreted the 
+word “fired” to have a negative connotation. He indicated that he thought an employee 
+had to do something wrong or inappropriate to be fired. He did not believe he was fired. 
+He also testified that, in retrospect, he should have indicated that he was fired because 
+he was terminated from his job. He also stated that he did not leave his job with 
+Company B for personal reasons or as a result of a mutual agreement. He indicated his 
+“additional comments” in Section 11 were not stated well. He also indicated that his 
+“additional comments” in Section 22 about leaving Company B by mutual agreement for 
+personal reason was a misstatement.16 
+ 
+Overall, I found that Applicant was not a credible witness. During his testimony, 
+he was asked if he thought the termination of his employment with Company B was 
+because the FBI was investigating him. In asking that question, it was first pointed out to 
+him that he was placed on administrative leave for a couple of days immediately 
+following his report of the investigation and was terminated immediately following the 
+administrative leave. Nonetheless, he testified that he did not believe these events were 
+connected. I did not find his testimony on that issue to be believable. Furthermore, 
+Applicant’s claim that he did not believe there was a connection between these events 
+is also contradicted by statements he made in responding to interrogatories and in his 
+Answer to the SOR. In responding to the interrogatories, he stated: 
+                                                                                                                                                                                           
+13 Tr. 57-60, 85-90; GE 1. 
+14 GE 1. 
+15 Id. 
+16 Tr. 52-53, 58-60, 85-90, 99-100; GE 3. In Webster’s New World Dictionary 3rd College Edition 
+(1988), the word “fire” is defined as “to dismiss from a position; discharge.” 
+ 
+7 
+ 
+ 
+I still believe (now 2010) that it was fundamentally unfair to terminate my 
+employment while I volunteered all information and no one had any 
+information at that time regarding the FBI investigation. 
+ 
+*  *  * 
+[Company B] should have let me continue to work normally pending the 
+outcome of the FBI inspecting my computer system/media.17 
+ 
+In his Answer, he stated, “It is my understanding that [Company B] and I were simply 
+going our separate ways based on allegations which I believed to be at the time and 
+which were ultimately proved to be baseless.” Such statements show that he believed 
+there was a connection between the FBI investigation and his termination.18 
+ 
+Applicant testified that, in the summer of 2009, the FBI returned the property it 
+seized from his house. At that time, the FBI also informed him there was no indication 
+that he engaged in any impropriety.19 
+ 
+ Applicant’s performance appraisal from Company A in 2005 reflected that he 
+received the grade of “far exceeds expectation” in the category of “Act with integrity in 
+all we do.” The comments provided in that section stated, “His integrity is a fundamental 
+characteristic that is important in his life.” In 2009, he received a performance evaluation 
+from his current company that indicated he was performing at the “exceptional” or 
+“exceeds expectations” levels.20  
+ 
+Policies 
+ 
+The President of the United States has the authority to control access to 
+information bearing on national security and to determine whether an individual is 
+sufficiently trustworthy to have access to such information. Department of the Navy v. 
+Egan, 484 U.S. 518, 527 (1988). The President has authorized the Secretary of 
+Defense to grant eligibility for access to classified information “only upon a finding that it 
+is clearly consistent with the national interest to do so.” Exec. Or. 10865, Safeguarding 
+Classified Information within Industry § 2 (Feb. 20, 1960), as amended. The U.S. 
+Supreme Court has recognized the substantial discretion of the Executive Branch in 
+regulating access to information pertaining to national security, emphasizing that “no 
+                                                          
+17 GE 2 at I-13. 
+18 Tr. 81-95, 101-104; GE 2, 3. Additionally, Applicant indicated in the interrogatories that “. . . I 
+would not resign, therefore, I was terminated.” When questioned about that comment at the hearing, he 
+stated that Company B never asked him to resign. However, it does not make sense why he would make 
+that comment if he was never asked to resign. This is another inconsistency that raises questions about 
+his credibility. See Tr. 78-88, 100-101. 
+19 Tr. 95-96; GE 2, 3. 
+20 Tr. 63-66; GE 2. 
+ 
+8 
+ 
+ 
+one has a ‘right’ to a security clearance.” Department of the Navy v. Egan, 484 U.S. 
+518, 528 (1988). 
+ 
+Eligibility for a security clearance is predicated upon the applicant meeting the 
+criteria contained in the adjudicative guidelines. These AGs are not inflexible rules of 
+law. Instead, recognizing the complexities of human behavior, these guidelines are 
+applied in conjunction with an evaluation of the whole person. An administrative judge’s 
+adjudicative goal is a fair, impartial, and commonsense decision. An administrative 
+judge must consider all available, reliable information about the person, past and 
+present, favorable and unfavourable, to reach his decision.  
+ 
+The Government reposes a high degree of trust and confidence in persons with 
+access to classified information. This relationship transcends normal duty hours and 
+endures throughout off-duty hours. Decisions include, by necessity, consideration of the 
+possible risk that the applicant may deliberately or inadvertently fail to safeguard 
+classified information. Such decisions entail a certain degree of legally permissible 
+extrapolation of potential, rather than actual, risk of compromise of classified 
+information. Clearance decisions must be “in terms of the national interest and shall in 
+no sense be a determination as to the loyalty of the applicant concerned.”  See Exec. 
+Or. 10865 § 7. See also Executive Order 12968 (Aug. 2, 1995), Section 3. Thus, a 
+clearance decision is merely an indication that the Applicant has or has not met the 
+strict guidelines the President and the Secretary of Defense have established for issuing 
+a clearance. 
+ 
+Initially, the Government must establish, by substantial evidence, conditions in 
+the personal or professional history of the applicant that may disqualify the applicant 
+from being eligible for access to classified information. The Government has the burden 
+of establishing controverted facts alleged in the SOR. See Egan, 484 U.S. at 531.  
+“Substantial evidence” is “more than a scintilla but less than a preponderance.” See v. 
+Washington Metro. Area Transit Auth., 36 F.3d 375, 380 (4th Cir. 1994). The guidelines 
+presume a nexus or rational connection between proven conduct under any of the 
+criteria listed and an applicant’s security suitability. See ISCR Case No. 95-0611 at 2 
+(App. Bd. May 2, 1996).      
+ 
+Once the Government establishes a disqualifying condition by substantial 
+evidence, the burden shifts to the applicant to rebut, explain, extenuate, or mitigate the 
+facts. Directive ¶ E3.1.15. An applicant “has the ultimate burden of demonstrating that it 
+is clearly consistent with the national interest to grant or continue [his or her] security 
+clearance.” ISCR Case No. 01-20700 at 3 (App. Bd. Dec. 19, 2002). The burden of 
+disproving a mitigating condition never shifts to the Government. See ISCR Case No. 
+02-31154 at 5 (App. Bd. Sep. 22, 2005). “[S]ecurity clearance determinations should err, 
+if they must, on the side of denials.” Egan, 484 U.S. at 531; see AG ¶ 2(b).   
+ 
+ 
+ 
+ 
+ 
+9 
+ 
+ 
+Analysis 
+ 
+Personal Conduct 
+ 
+Under Guideline E, the concern is that conduct involving questionable judgment, 
+lack of candor, dishonesty, or unwillingness to comply with rules and regulations can 
+raise questions about an individual's reliability, trustworthiness and ability to protect 
+classified information. Of special interest is any failure to provide truthful and candid 
+answers during the security clearance process or any other failure to cooperate with the 
+security clearance process. (AG ¶ 15.) 
+ 
+AG ¶ 16 describes a condition that could raise security concerns and may be 
+disqualifying in this case: 
+ 
+(a) deliberate omission, concealment, or falsification of relevant facts from 
+any personnel security questionnaire, personal history statement, or 
+similar form used to conduct investigations, determine employment 
+qualifications, award benefits or status, determine security clearance 
+eligibility or trustworthiness, or award fiduciary responsibilities. 
+ 
+The Government has the burden of proving a controverted falsification allegation. 
+Evidence that incorrect information was submitted on a security clearance application, 
+standing alone, does not prove a falsification. For a finding of falsification to be 
+sustainable, an applicant must have had a culpable state of mind at the time the 
+information was submitted. A falsification must be made deliberately -- knowingly and 
+willfully. An administrative judge must consider the record evidence as a whole to 
+determine whether there is direct or circumstantial evidence that an applicant had a 
+culpable state of mind at the time of the submission.21  
+ 
+In February 2006, Company B informed Applicant that he was being terminated 
+due to lack of appropriate work matching his skills and abilities. There is no evidence in 
+the record that he was provided any other reason for that termination.  
+ 
+                                                          
+21 The Appeal Board has cogently explained the process for analyzing falsification cases, stating:
+ 
+(a) when a falsification allegation is controverted, Department Counsel has the burden of 
+proving falsification; (b) proof of an omission, standing alone, does not establish or prove 
+an applicant’s intent or state of mind when the omission occurred; and (c) a Judge must 
+consider the record evidence as a whole to determine whether there is direct or 
+circumstantial evidence concerning the applicant’s intent or state of mind at the time the 
+omission occurred.  
+ 
+ISCR Case No. 03-10380 at 5 (App. Bd. Jan. 6, 2006) (citing ISCR Case No. 02-23133 (App. Bd. 
+June 9, 2004)). See also ISCR Case No. 05-03472 at 5 (App. Bd. Mar. 12, 2007), ISCR Case No. 03-
+09483 at 4 (App. Bd. Nov 17, 2004). 
+ 
+ 
+10 
+ 
+ 
+ Applicant indicated that, when he was completing Section 22 of the e-QIP, he did 
+not believe any of the five situations set forth in that question applied to him. 
+Specifically, he believed he was not “fired” because his termination was not based on 
+any wrongdoing or misconduct on his part. Essentially, Company B informed him that 
+he was being laid off. Based on the circumstances surrounding his termination, 
+Applicant’s interpretation of the question in Section 22 and its subparts was not 
+unreasonable. Given the expressed reason provided by Company B for his termination, 
+he could have answered “No” to the question in Section 22 without falsifying that 
+application. He did not need to speculate about the employer’s motive for terminating 
+his employment. I find that Applicant did not deliberately falsify his e-QIP by checking 
+the “No” block in Section 22. 
+ 
+ However, in responding to Section 22, Applicant did more than check the “No” 
+block. He provided “additional comments” that he “left [Company B] in 2006 (by mutual 
+agreement) for personal reasons.” Those additional comments were false and 
+misleading. He did not leave his employment with Company B by mutual agreement or 
+for personal reasons. When he made those “additional comments,” he knew that 
+Company B terminated his employment and that he had no input in that decision. He 
+provided those false statements in both Section 22 and Section 11. I find that he 
+deliberately made those false statements. 
+ 
+ Sufficient circumstantial evidence exists to establish that Applicant believed 
+Company B terminated his employment, in whole or in part, because the FBI was 
+investigating whether he took proprietary and trade secret information from a former 
+employer. Immediately following his report to Company B of the FBI investigation, he 
+was placed on administrative leave for a couple of days and immediately thereafter was 
+terminated. He never returned to work at Company B after informing it of the FBI 
+investigation. I did not find credible Applicant’s statements that he did not believe there 
+was a connection between his reporting of the FBI investigation and his termination. 
+ 
+When Applicant submitted his e-QIP in March 2008, the FBI investigation against 
+him was still ongoing. At that time, he knew that his previous employment was 
+terminated almost immediately after reporting that he was being investigated by the FBI 
+for allegedly taking proprietary information and trade secret from a former employer. To 
+avoid a similar recurrence, he provided false and misleading statements in the e-QIP 
+about the circumstances surrounding his departure from Company B. These false 
+statements were “material” because they were intended to mislead and had the 
+potential effect of influencing decision-makers to which they were addressed.22 I find 
+                                                          
+ 
+22 Deliberate and materially false answers on a security clearance application violate 18 U.S.C. § 
+1001. The Supreme Court defined “materiality” in United States v. Gaudin, 515 U.S. 506, 512 (1995): as a 
+statement having a “natural tendency to influence, or [be] capable of influencing, the decision making 
+body to which it is addressed.” See also United States v. McLaughlin, 386 F.3d 547, 553 (3d Cir. 2004). 
+Making a false statement under 18 U.S.C. § 1001 is a serious crime, a felony (the maximum sentence 
+includes confinement for five years and a $10,000 fine).  
+ 
+11 
+ 
+ 
+that AG ¶ 16(a) applies to Applicant’s deliberate false statements in the “additional 
+comments” to Section 22 of his e-QIP. 
+ 
+Six personal conduct mitigation conditions under AG ¶ 17 are potentially 
+applicable: 
+ 
+(a) the individual made prompt, good-faith efforts to correct the omission, 
+concealment, or falsification before being confronted with the facts; 
+ 
+(b) the refusal or failure to cooperate, omission, or concealment was 
+caused or significantly contributed to by improper or inadequate advice of 
+authorized personnel or legal counsel advising or instructing the individual 
+specifically concerning the security clearance process. Upon being made 
+aware of the requirement to cooperate or provide the information, the 
+individual cooperated fully and truthfully; 
+ 
+(c) the offense is so minor, or so much time has passed, or the behavior is 
+so infrequent, or it happened under such unique circumstances that it is 
+unlikely to recur and does not cast doubt on the individual's reliability, 
+trustworthiness, or good judgment; 
+ 
+(d) the individual has acknowledged the behavior and obtained counseling 
+to change the behavior or taken other positive steps to alleviate the 
+stressors, circumstances, or factors that caused untrustworthy, unreliable, 
+or other inappropriate behavior, and such behavior is unlikely to recur; 
+ 
+(e) the individual has taken positive steps to reduce or eliminate 
+vulnerability to exploitation, manipulation, or duress; and 
+ 
+(f) the information was unsubstantiated or from a source of questionable 
+reliability. 
+ 
+In his e-QIP, Applicant deliberately provided false information about the 
+circumstances surrounding his departure from Company B’s employment. When 
+applicants intentionally provide false information on their e-QIPs, they seriously 
+undermine the entire security clearance investigation process. Throughout the security 
+clearance adjudicative process, Applicant denied that he falsified his e-QIP. He has not 
+accepted responsibility for his misconduct. I find that none of the mitigating conditions 
+apply to the security concerns arising under AG ¶ 16(a).  
+ 
+Whole-Person Concept 
+Under the whole-person concept, the administrative judge must evaluate an 
+applicant’s eligibility for a security clearance by considering the totality of the applicant’s 
+conduct and all relevant circumstances. The administrative judge should consider the 
+nine adjudicative process factors listed at AG ¶ 2(a):  
+ 
+12 
+ 
+ 
+(1) the nature, extent, and seriousness of the conduct; (2) the 
+circumstances surrounding the conduct, to include knowledgeable 
+participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to 
+which participation is voluntary; (6) the presence or absence of 
+rehabilitation and other permanent behavioral changes; (7) the motivation 
+for the conduct; (8) the potential for pressure, coercion, exploitation, or 
+duress; and (9) the likelihood of continuation or recurrence.  
+The ultimate determination of whether to grant eligibility for a security clearance must be 
+an overall commonsense judgment based upon careful consideration of the guidelines 
+and the whole-person concept. AG ¶ 2(c).  
+The comments in the Analysis section of this decision are incorporated in the 
+whole-person concept analysis. Applicant has worked in the defense industry for about 
+20 years and held a security clearance for most of that time. Neverthess, his deliberate 
+false statements on his e-QIP are serious, recent, and not mitigated. As such, I have 
+concerns about his current ability or willingness to comply with laws, rules, and 
+regulations. After weighing the disqualifying and mitigating conditions, and all the facts 
+and circumstances, in the context of the whole-person concept, I conclude he has not 
+mitigated personal conduct security concerns. 
+ 
+Formal Findings 
+ 
+Formal findings on the allegations set forth in the SOR, as required by Section 
+E3.1.25 of Enclosure 3 of the Directive, are:          
+ 
+Paragraph 1, Guideline E:    AGAINST APPLICANT 
+ 
+Subparagraph 1.a:   Against Applicant 
+ 
+Decision 
+ 
+In light of all the circumstances presented by the record in this case, it is not 
+clearly consistent with the national interest to continue Applicant’s eligibility for a security 
+clearance. Eligibility for access to classified information is denied. 
+ 
+ 
+ 
+________________ 
+James F. Duffy 
+Administrative Judge 
+ 

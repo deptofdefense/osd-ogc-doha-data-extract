@@ -1,0 +1,180 @@
+KEYWORD: Guideline F; Guideline E
+DIGEST: Guideline F concerns include failure to file tax returns.  Each such instance is a
+separate act.  Adverse decision affirmed.
+CASENO: 11-06622.a1
+DATE: 07/02/2012
+DATE: July 2, 2012
+In Re:
+-------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-06622
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On October 6, 2011, DOHA issued a statement of reasons (SOR) advising Applicant of
+1Directive, Enclosure 2 ¶ 19(g): “failure to file annual Federal, state, or local income tax returns as required or
+the fraudulent filing of the same[.]”
+2
+the basis for that decision–security concerns raised under Guideline F (Financial Considerations)
+and Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as
+amended) (Directive).  Applicant requested a decision on the written record.  On April 12, 2012,
+after considering the record, Administrative Judge Matthew E. Malone denied Applicant’s request
+for a security clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Government had presented
+substantial evidence of security concerns; whether the Judge failed to consider all of the record
+evidence; whether the Judge’s whole-person analysis was erroneous; and whether the Judge’s
+adverse decision was arbitrary, capricious, or contrary to law.  Consistent with the following, we
+affirm the decision of the Judge.
+The Judge made the following pertinent findings of fact: Applicant is an employee of a
+Defense contractor and requires a clearance for the purposes of his job.  He graduated from a U.S.
+service academy in 1984, leaving active duty in 1988.  He received a Master’s degree in computer
+science.  Applicant held a security clearance while in the military.  He has held one for most of the
+past 20 years as a civilian.  
+Applicant did not file federal or state income tax returns for the years 2005 through 2010.
+His stated reason for not having done so was his dislike of paperwork.  He discussed his reason in
+his security clearance application, in a clearance interview, and in answers to DOHA interrogatories.
+He also stated that he would hire an accountant and file his returns by September 2011.  However,
+by the close of the record, he had not done so.  Intentional failure to file a federal tax return is a
+misdemeanor, punishable by fines and/or imprisonment.  Applicant’s state of residence also requires
+the filing of income tax returns.
+In 2004, Applicant was terminated from a job with a Defense contractor for improperly
+charging his time to a government contract when he was actually using the internet for purposes
+unrelated to work.  Applicant claimed that other employees did the same, but his supervisor was
+looking for an excuse to fire him because of several instances of narcolepsy-induced tardiness.  
+In the Analysis, the Judge concluded that Applicant’s failure to file income tax returns met
+the criteria for Financial Considerations Disqualifying Condition (FCDC) 19(g).1  He stated that the
+filing of tax returns is a basic financial obligation of most income-earning citizens.  Noting that
+Applicant had not submitted any of the delinquent returns by the close of the record, the Judge
+concluded that he had failed to mitigate the security concerns arising from this conduct.  The Judge
+found in Applicant’s favor regarding a Guideline E allegation concerning his having been fired from
+a previous job.  However, the Judge concluded that Applicant’s failure to file tax returns raised
+2Directive, Enclosure 2 ¶ 16(c): “credible adverse information in several adjudicative issue areas that is not
+sufficient for an adverse determination under any single guideline, but which, when considered as a whole, supports a
+whole-person assessment of questionable judgment, untrustworthiness, unreliability lack of candor, unwillingness to
+comply with rules and regulations, or other characteristics indicating that the person may not properly safeguard
+protected information[.]”  
+3
+Personal Conduct Disqualifying Condition (PCDC) 16(c).2  He stated that Applicant’s disdain for
+paperwork, an attitude probably common among taxpayers, was not a sufficient excuse to decline
+to perform duties imposed by law.  In the whole-person analysis, he stated that Applicant’s
+intentional failure to perform acts required by law impugns his judgment and willingness to follow
+rules and regulations.  This, in turn, raises a reasonable concern that Applicant could fail to observe
+those rules governing the protection of classified information.  Accordingly, the Judge denied
+Applicant a clearance.
+Applicant contends that the Judge erred in concluding that his conduct raised security
+concerns under Guidelines F and E.  When, as here, an applicant requests a decision on the written
+record, the Government must provide to the applicant “a copy of all relevant and material
+information that could be adduced at a hearing.”  Directive ¶ E3.1.17.  At a hearing, the
+Government’s burden is to present substantial evidence regarding any controverted allegation.
+Substantial evidence is “such relevant evidence as a reasonable mind might accept as adequate to
+support a conclusion in light of all the contrary evidence in the same record.”  See, e.g., ISCR Case
+No. 11-03500 at 3 (App. Bd. Feb. 28, 2012).  Applicant admitted that he failed to file his tax returns,
+as alleged.  Even though the allegations pertaining to his filing delinquencies were not controverted,
+the Government presented evidence in the form of Applicant’s answers to questions on the security
+clearance application, a summary of his interview, and his answers to DOHA interrogatories.
+Accordingly, the underlying facts are not in doubt; the only issue to be resolved is Applicant’s
+contention that these facts do not constitute security concerns.  
+Applicant contends that the evidence does not show that he has failed to satisfy debts, as set
+forth in the security concern under Guideline F.  He points to evidence that he had actually been
+entitled to refunds each year in question.  Directive, Enclosure 2 ¶ 18 provides, in part, that 
+[f]ailure or inability to . . . meet financial obligations may indicate poor self-control,
+lack of judgment, or unwillingness to abide by rules and regulations, all of which can
+raise questions about an individual’s reliability, trustworthiness and ability to protect
+classified information.
+  That the financial obligations addressed by this concern include the filing of tax returns is
+evidenced by the plain language of FCDC 19(g), the disqualifying condition that the Judge found
+applicable in this case.  Applicant’s argument that the concern is limited to failure to pay monetary
+debts is without merit.  Applicant also argues that the Judge unreasonably multiplied the significance
+of his conduct, treating a single act, his failure to file tax returns, as a pattern or series of failures.
+However, the SOR alleged, Applicant admitted, and the Judge found that the security significant
+conduct in this case occurred over several successive years.  Each instance constitutes a separate act.
+3The Judge noted that Applicant’s filing delinquencies could have been alleged under Guideline J, Criminal
+Conduct.  Reading his decision as a whole, we do not conclude that the Judge was raising security concerns not alleged
+in the SOR.  Rather, he was addressing the extent to which Applicant’s conduct applied to more than one adjudicative
+area, an explicit concern of PCDC 16(c).    
+4
+Although this failure may be viewed as a continuing course of conduct, ongoing as of the close of
+the record, the evidence demonstrates that this conduct consists of multiple failures.  Again,
+Applicant’s argument is without merit.  The Government has presented substantial evidence of
+Guideline F security concerns.
+ 
+Applicant contends that the Judge erred in finding security concerns under Guideline E.  He
+argues that his circumstances do not meet the criteria set forth in PCDC 16(c), which references
+conduct from several adjudicative areas.  He also argues that favorable application of this
+disqualifying condition is inconsistent with the Judge’s conclusions under Guideline F.  
+Security related conduct can be alleged under more than one Guideline and, in an appropriate
+case, given independent weight under each.  See, e.g., ISCR Case No. 04-09251 at 3 (App. Bd. Mar.
+27, 2007).   In this case, the Judge’s Guideline E analysis focused on Applicant’s disdain for
+complex paperwork.  The Judge concluded that Applicant manifested his disdain through conduct
+touching on more than one Guideline3 and which evidenced a knowing and willful failure to comply
+with rules or regulations.  These conclusions are supported by the record and are consistent with the
+Judge’s adverse formal findings under Guideline E.  Moreover, these conclusions are sufficiently
+distinct from those the Judge made under Guideline F, which focus on Applicant failure to discharge
+financial obligations, so as to support an adverse decision under both Guidelines.  Neither a SOR,
+nor the Guidelines themselves, are to be measured against the requirements of criminal pleadings
+or statutes.  See, e.g., ISCR Case No. 02-15383 at 2-3 (App. Bd. Jul. 20, 2003).  The disqualifying
+conditions listed in the Directive under each Guideline are not exhaustive and exclusive; rather, they
+are illustrative.  Even if an applicant’s circumstances do not meet the specific language of any of the
+disqualifying conditions presented under a given Guideline, a Judge may still conclude that the
+conduct falls within the scope of the Guideline’s security concern.  See, e.g., ISCR Case No. 07-
+02485 at 4 (App. Bd. May 9, 2008).  A clearance decision must be a commonsense determination
+made in the interests of national security.  See Directive, Enclosure 2 ¶ 2(c). The Judge’s ultimate
+conclusions in this case do not unreasonably magnify the security significance of Applicant’s
+conduct or otherwise present his case so as to make it appear more egregious than his circumstances
+warrant.
+Applicant contends that the Judge failed to consider favorable record evidence, such as his
+having held a clearance for many years without incident or concern.  A Judge is presumed to have
+considered all of the evidence in the record.  See, e.g., ISCR Case No. 10-06975 at 2 (App. Bd. Apr.
+19, 2012).  The Judge made findings concerning Applicant’s history of holding a clearance.
+However, his findings and analysis support his conclusion that Applicant had failed to mitigate the
+security concerns arising form his delinquent tax filings.  Applicant has not rebutted the presumption
+that the Judge considered all of the evidence, nor has he demonstrated that the Judge mis-weighed
+the evidence.  Applicant cites to other persons who, he contends, have been permitted to serve the
+5
+U.S. in various capacities despite tax problems.  This is evidence from outside the record, which we
+cannot consider.  Directive ¶ E3.1.29. (“No new evidence shall be received or considered by the
+Appeal Board”).  In any event, each case must be decided on its own merits.  See Directive,
+Enclosure 2 ¶ 2(b).  See also ISCR Case No. 09-04216 at 3 (App. Bd. Jan. 31, 2011). 
+Applicant contends that the Judge’s whole-person analysis was not adequate.  He states that
+the service academy he attended evaluated him under such a standard and found him worthy of a
+commission.  He contends the Judge should have found him worthy of a clearance.  However, the
+Judge’s decision took into account the entirety of the record evidence that was before him.
+Applicant was given an opportunity to respond to the File of Relevant Material but did not do so.
+Given the record, which includes Applicant’s admitted conduct of security significance, we find no
+error in the Judge’s whole-person analysis.  The record supports a conclusion that the Judge
+examined the relevant data and articulated a satisfactory explanation for the decision, “including a
+‘rational connection between the facts found and the choice made.’”  Motor Vehicle Mfrs. Ass’n of
+the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)(quoting Burlington
+Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  The Judge’s adverse decision is
+sustainable on this record.  “The general standard is that a clearance may be granted only when
+‘clearly consistent with the interests of the national security.’”  Department of the Navy v. Egan, 484
+U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt concerning personnel
+being considered for access to classified information will be resolved in favor of the national
+security.”
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.    
+Signed: Michael Y. Ra’anan        
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett               
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                   
+James E. Moody
+6
+Administrative Judge
+Member, Appeal Board

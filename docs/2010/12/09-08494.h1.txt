@@ -1,0 +1,198 @@
+1
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+--------------------- )       ISCR Case No. 09-08494
+SSN: ----------- )
+)
+Applicant for Security Clearance )
+Appearances
+For Government: John B. Glendon, Esquire, Department Counsel
+For Applicant: Pro se
+______________
+Decision
+______________
+CURRY, Marc E., Administrative Judge:
+Applicant failed to pay income taxes from money he inherited in 1986, leading to
+a 1997 tax lien that he did not pay. Moreover, he failed to disclose it, as required, on a
+2009 security clearance application.  Clearance is denied.
+Statement of the Case
+On March 26, 2010, the Defense Office of Hearings and Appeals (DOHA) issued
+a Statement of Reasons (SOR) to Applicant detailing security concerns under Guideline
+F, financial considerations and Guideline E, personal conduct. The action was taken
+under Executive Order 10865, Safeguarding Classified Information within Industry
+(February 20, 1960), as amended; Department of Defense Directive 5220.6, Defense
+Industrial Personnel Security Clearance Review Program (January 2, 1992), as
+amended (Directive); and the  adjudicative guidelines (AG) implemented by the
+Department of Defense on December 1, 2006.
+Unlike most income that heirs receive through probate, money from IRAs is subject to taxation. It is unclear1
+from the record who advised Applicant that he could have rolled the inherited IRA income into another IRA
+to avoid taxation. Under the tax law when his mother passed, the government taxed inherited IRA income
+regardless of whether the heir rolled it into another IRA. (See 26 U.S.C.A. § 408(d)(iii)(C) (1990))
+2
+Applicant answered the SOR on June 9, 2010, admitting the allegations. He
+requested a hearing, and the case was assigned to me on July 6, 2010. On July 21,
+2010, a notice of hearing was issued scheduling the case for August 13, 2010. The
+hearing was conducted as scheduled. I received five government exhibits, six Applicant
+exhibits, and Applicant’s testimony. DOHA received the transcript (Tr.) on August 23,
+2010.
+Findings of Fact
+Applicant is a 51-year-old single man with two adult children. He has been
+married twice. Both marriages ended in divorce. His children are from his first marriage.
+(Tr. 14)
+Applicant earned an associate’s degree in 1984. He served in the United States
+Air Force from 1979 to 1984. (Tr. 16)
+Since at least 1998, Applicant has worked in either the information technology or
+engineering fields. (GE 1 at 16-21) Currently, he works for a DoD contractor as a
+systems and design engineer. (Tr. 15) He is the lead field engineer. (AE D) 
+Applicant is highly respected on the job. According to the operational manager of
+the program Applicant serves, he is “without a doubt, the hardest working individual on
+[the] team, and there is no task too monumental for him to tackle.” (AE B) According to
+Applicant’s supervisor, “he has a unique combination of systems engineering skills that
+allow him to design and plan his work, and convey this plan very clearly to the
+developers and customers.” (AE D)
+In 1986, Applicant’s mother passed away. (Tr. 28) Applicant inherited $70,000.
+(Tr. 28) This money stemmed from an individual retirement account (IRA) that his
+mother owned. (Tr. 29) Unbeknownst to Applicant, after he received the account
+through probate, he had to “roll it into another IRA” to avoid taxation and penalties.  (Tr.1
+17, 29) He did not do this. Consequently, after a 1992 audit, the Internal Revenue
+Service (IRS) concluded Applicant owed tax on the income in addition to a ten percent
+penalty for terminating the IRA. (Tr. 29) The initial tax bill was $12,000. (Tr. 17) 
+Applicant failed to pay the income tax deficiency, prompting the IRS in 1997 to
+obtain a lien against his property. (Tr. 17) By then, the deficiency had accrued to
+approximately $18,000. Applicant did not satisfy the lien. He contends he decided not to
+pay the tax lien after consulting with an IRS agent who told him that the lien would
+expire after ten years so long as the IRS made no efforts to collect it. (Tr. 18)
+3
+Currently, Applicant earns $125,000 annually. (Tr. 41) He has $20,000 in his
+checking account. (Tr. 41)
+In 1995, the state where Applicant was residing entered a tax lien against his
+property in the approximate amount of $1,121. (GE 2 at 1) By 2006, the debt had
+accrued to $2,767. (AE A) Applicant testified that he knew of this delinquency, but was
+unaware the state had entered a tax lien against his property until his interview with a
+security clearance investigator in 2010. (Tr. 19) By November 2006, Applicant had
+satisfied this delinquency. (AE A)
+Applicant completed a security clearance application in 2009. He failed to
+disclose either the federal or the state tax lien as required by Section 26 of the
+application. (Have you had a lien placed against your property for failing to pay taxes or
+other debts?) In his Answer to the SOR, Applicant explained the omission, as follows:
+Since I did not own physical or tangible property for a lien to be placed
+against and my credit report did not show any judgments or liens, I
+answered the question ‘No.’ I never deliberately tried to hide any facts . . . 
+Applicant’s discharge status from the Air Force was general under honorable
+conditions. (Tr. 16) Applicant testified that the fact his discharge was not honorable was
+not conduct based. Instead, it was because he “requested to get out early.” (Tr. 16)
+During cross-examination, Applicant admitted his discharge occurred as part of a non-
+judicial punishment for failing a drug test. As part of the punishment, Applicant was also
+demoted from sergeant to airman first class. (Tr. 22) 
+     
+Policies
+When evaluating an applicant’s suitability for a security clearance, the
+administrative judge must consider the revised adjudicative guidelines (AG). In addition
+to introductory explanations for each guideline, the adjudicative guidelines list potentially
+disqualifying conditions and mitigating conditions.
+These guidelines are not inflexible rules of law. Instead, recognizing the
+complexities of human behavior, these guidelines are applied in conjunction with the
+factors listed in the adjudicative process. According to AG ¶ 2(c), the entire process is a
+conscientious scrutiny of a number of variables known as the “whole-person concept.”
+The administrative judge must consider all available, reliable information about the
+person, past and present, favorable and unfavorable, in making a decision.
+The protection of the national security is the paramount consideration. AG ¶ 2(b)
+requires that “[a]ny doubt concerning personnel being considered for access to
+classified information will be resolved in favor of national security.” 
+Under Directive ¶ E3.1.14, the Government must present evidence to establish
+controverted facts alleged in the SOR. Under Directive ¶ E3.1.15, the applicant is
+4
+responsible for presenting “witnesses and other evidence to rebut, explain, extenuate,
+or mitigate facts admitted by applicant or proven by department counsel . . .”. The
+applicant has the ultimate burden of persuasion for obtaining a favorable security
+decision.
+Analysis
+Guideline F, Financial Considerations
+Under this guideline, “failure or inability to live within one’s means, satisfy debts,
+and meet financial obligations may indicate poor self-control, lack of judgment, or
+unwillingness to abide by rules and regulations, all of which can raise questions about
+an individual’s reliability, trustworthiness and ability to protect classified information (AG
+¶ 18). 
+SOR subparagraph 1.a reads, as follows:
+You are indebted to the Internal Revenue Service for a tax lien entered
+against you in August 1997 in the approximate amount of $18,060. As of
+the date of this Statement of Reasons, it remains unpaid.
+Applicant did not satisfy the federal tax lien and contends he no longer is responsible to
+pay the debt because the statute of limitations expired. For assessments of taxes made
+after November 1990, the IRS cannot collect or levy any tax more than ten years after
+the date of the assessment or levy. (U.S. Internal Revenue Code (IRC) § 6323(g)(3))
+The IRS has one year after the expiration of the ten-year statute of limitations to refile a
+tax lien. (IRC § 6323(g)(3)(A)) Here, the IRS entered the federal tax lien against
+Applicant’s property in 1997. Therefore, it was only valid through 2007. The
+Government produced no evidence that the IRS refiled the lien. I conclude the tax lien is
+no longer outstanding.
+The expiration of the federal tax lien, however, does not alter the negative
+security ramifications of Applicant’s decision not to satisfy it while it was enforceable.
+Consequently, AG ¶¶ 19(a), “inability or unwillingness to satisfy debts,” and 19(c), “a
+history of not meeting financial obligations,” apply.
+Applicant satisfied the state tax lien, listed in SOR subparagraph 1.b, in 2006. I
+conclude he has mitigated this subparagraph. 
+Upon considering the mitigating conditions, I conclude AG ¶ 20(d) partially
+applies because Applicant satisfied the state tax lien. None of the other mitigating
+conditions apply. Avoiding the responsibility to pay one’s debts, as Applicant did when
+he chose to let the statute of limitations for collecting the federal income tax lien expire,
+rather than pay it, is not demonstrative of fiscal responsibility. Instead, it compounds the
+financial considerations security concern. 
+5
+Guideline E, Personal Conduct
+The security concern under this guideline is as follows:
+[c]onduct involving questionable judgment, lack of candor, dishonesty, or
+unwillingness to comply with rules and regulations can raise questions
+about an individual’s reliability, trustworthiness, and ability to protect
+classified information. Of special interest is any failure to provide truthful
+and candid answers during the security clearance process or any other
+failure to cooperate with the security clearance process (AG ¶ 15). 
+Applicant’s failure to list his tax liens, as required on his 2009 security clearance
+application raises the issue of whether AG ¶ 16(a), “deliberate omission, concealment,
+or falsification of relevant facts from any personnel security questionnaire, personal
+history statement, or similar form used to conduct investigations, determine employment
+qualifications, award benefits or status, determine security clearance eligibility or
+trustworthiness, or award fiduciary responsibilities,” applies. The credibility of Applicant’s
+explanation for omitting the tax liens is undermined by his untruthful testimony regarding
+his discharge status from the Air Force. Under these circumstances, I conclude
+Applicant falsified the security clearance application and none of the mitigating
+conditions apply.
+Whole-Person Concept
+Under the whole-person concept, the administrative judge should consider the
+nine adjudicative process factors listed at AG ¶ 2(a): 
+(1) the nature, extent, and seriousness of the conduct; (2) the
+circumstances surrounding the conduct, to include knowledgeable
+participation; (3) the frequency and recency of the conduct; (4) the
+individual’s age and maturity at the time of the conduct; (5) the extent to
+which participation is voluntary; (6) the presence or absence of
+rehabilitation and other permanent behavioral changes; (7) the motivation
+for the conduct; (8) the potential for pressure, coercion, exploitation, or
+duress; and (9) the likelihood of continuation or recurrence.
+Applicant earns a good salary and has $20,000 in his checking account.
+Typically, such facts serve to minimize financial consideration security concerns. In this
+case, however, the security concerns are compounded because Applicant chose to
+avoid his responsibility to pay his federal income tax debt by waiting for the statute of
+limitations to expire, despite having the means to satisfy the delinquency. Applicant also
+did not testify truthfully. Upon considering this case in the context of the whole-person
+concept, I conclude Applicant has failed to mitigate the security concerns. 
+6
+Formal Findings
+Formal findings for or against Applicant on the allegations set forth in the SOR,
+as required by section E3.1.25 of Enclosure 3 of the Directive, are:
+Paragraph 1, Guideline F: AGAINST APPLICANT
+Subparagraph 1.a: Against Applicant
+Subparagraph 1.b: For Applicant
+Paragraph 2, Guideline E: AGAINST APPLICANT
+Subparagraph 2.a.: Against Applicant
+Conclusion
+In light of all of the circumstances presented by the record in this case, it is not
+clearly consistent with the national interest to grant Applicant eligibility for a security
+clearance. Eligibility for access to classified information is denied.
+                                             
+MARC E. CURRY
+Administrative Judge

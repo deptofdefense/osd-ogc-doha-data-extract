@@ -1,0 +1,141 @@
+KEYWORD: Guideline F
+DIGEST: An applicant is entitled to receive an SOR that places him or her on reasonable notice
+of the allegations being adjudicated.  In this case, the Board concludes, after considering the
+record as a whole, that the SOR issued to Applicant placed him on adequate notice of the
+allegations against him.  In his opening statement at the hearing, Applicant acknowledged that
+the basis for DoD declining to grant his security clearance was “due to my failure to file Federal
+and state income taxes for years 2010 through ‘16.” Adverse decision affirmed.
+CASENO: 17-01842.a1
+DATE: 06/29/2018
+DATE: June 29, 2018
+In Re:
+----------------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-01842
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On June
+6, 2017, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On March 23, 2018, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Mark Harvey denied Applicant’s request for a security clearance.  Applicant
+appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issue in his appeal: whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm. 
+The Judge’s Findings of Fact
+Applicant is a 47-year-old college graduate.  In late December 2017, he filed his Federal and
+state income tax returns for 2008 through 2016.  He admitted the two SOR allegations that pertain
+to those tax filing delinquencies.  He attributed the delinquencies to misplaced documentation and
+procrastination.  A week before the hearing, he prepared the delinquent tax returns and confirmed
+his belief that he did not owe any additional Federal or state taxes for those years.  He has paid off
+his mortgage, and his finances are in excellent condition.  
+The Judge’s Analysis
+Applicant did not provide a good reason for his failure to file his Federal and state tax returns
+in a timely manner.  He primarily attributed the delays to procrastination.  Although he did not fully
+appreciate the importance of filing his tax returns on time, his corrective action is “too little, too late
+to fully mitigate the security concerns arising from his failure to timely file ten years of tax returns.” 
+Decision at 10
+Discussion
+In his appeal brief, Applicant states:
+Upon receiving the negative decision from the Administrative Judge, I was
+admittedly surprised and very saddened.  I felt that I had more than satisfied the
+burden of proof that Guideline F was not applicable in this case, and that I am in fact
+very responsible with my finances and in general.  Reading that full response from
+the Administrative Judge, I realized that his decision was not based on evaluating
+against Guideline F, which was the initial reason given for not granting me the
+security clearance in the first place.  Instead, he stated his decision was based on not
+“abiding by well-established governmental rules and regulations.”
+2
+. . . [A]fter sufficiently providing evidence that Guideline F was not applicable in this
+case, the Judge’s decision was based on different criteria than was the basis of the
+appeal.1  
+To the extent that Applicant is arguing that he was misled by the SOR, that he was not given
+adequate notice of the Government’s security concerns before the hearing, or that tax filing
+deficiencies do not fall under Guideline F, we do not find his arguments persuasive.  It is well
+established that an individual’s failure to file income tax returns in a timely manner raises security
+concerns under Guideline F.  In this case, the SOR was in the standard format used by the DoD
+Consolidated Adjudications Facility (CAF).  The first numbered paragraph quoted verbatim The
+Concern under Guideline F,2 and it also contained two subparagraphs that stated:
+   
+a.  You failed to file your Federal income tax returns for tax years 2010 through
+2016, as required.  As of the date of this Statement of Reasons, the tax returns remain
+unfiled.
+b.  You failed to file your [state] tax returns for tax years 2010 through 2016, as
+required.  As of the date of this Statement of Reasons, the tax returns remain unfiled.3
+While The Concern paragraph specifically addresses such matters as an individual’s failure to satisfy
+debts or live within his or her means, it also states that, “Failure to . . . meet financial obligations
+may indicate poor self-control, lack of  judgment, or unwillingness to abide by rules and
+regulations, all of which can raise questions about an individual’s reliability, trustworthiness, and
+ability to protect classified or sensitive information.”4 [Emphasis added.]  The failure to file income
+tax returns in a responsible manner is encompassed in The Concern paragraph and is specifically
+listed as a disqualifying condition under Guideline F.5 
+ 
+An applicant is entitled to receive an SOR that places him or her on reasonable notice of the
+allegations being adjudicated.  Directive ¶ E3.1.3.  In this case, the Board concludes, after
+considering the record as a whole, that the SOR issued to Applicant placed him on adequate notice
+of the allegations against him.  In his opening statement at the hearing, Applicant acknowledged that
+the basis for DoD declining to grant his security clearance was “due to my failure to file Federal and
+1 Appeal Brief at 1-2. 
+2 Directive, Encl. 2, App. A ¶ 18.  In this case, the SOR was issued two days before the revised adjudicative
+guideline became effective on June 8, 2017, but the quoted concern paragraph is from the then-pending revision. 
+Understandably, DoD CAF used the language from the pending provision because they knew the security eligibility
+determination in this case would apply the revised guidelines. 
+3 SOR ¶¶ 1.a and 1.b
+4 Id. 
+5 Directive, Encl. 2, App. A ¶ 19(f) states, “failure to file or fraudulently filing annual Federal, state, or local
+income tax returns or failure to pay annual Federal, state, or local income tax as required[.]”
+3
+state income taxes for years 2010 through ‘16.”  Tr. at 15.  The transcript further reflects the focus
+of the hearing was on Applicant’s tax filing deficiencies.  Based on our review of the record, we
+have no reason to conclude that the SOR was misleading or prejudiced in any identifiable way
+Applicant’s ability to prepare for the hearing, his ability to participate in the hearing, his ability to
+raise objections or make arguments on his behalf, or his ability to present evidence for the Judge to
+consider in his case.  Given the SOR allegations against Applicant and the manner in which the
+hearing was conducted, Applicant was placed on adequate notice as to the issue of security concern. 
+See, e.g., ISCR Case No. 03-20538 at 2 (App. Bd. Jul. 5, 2006).  
+The balance of Applicant’s arguments amounts to a disagreement with the Judge’s weighing
+of the evidence.  For example, Applicant challenges the Judge’s whole-person assessment by
+arguing that he has handled proprietary and sensitive customer information in a responsible manner
+for 23 years.  We note, however, that the presence of some mitigating evidence does not alone
+compel the Judge to make a favorable security clearance decision.  As the trier of fact, the Judge has
+to weigh the evidence as a whole and decide whether the favorable evidence outweighs the
+unfavorable evidence, or vice versa.  A party’s disagreement with the Judge’s weighing of the
+evidence, or an ability to argue for a different interpretation of the evidence, is not sufficient to
+demonstrate the Judge weighed the evidence or reached conclusions in a manner that is arbitrary,
+capricious, or contrary to law.  See, e.g., ISCR Case No. 15-00650 at 2 (App. Bd. Jun. 27, 2016).
+Applicant’s appeal brief fails to establish the Judge committed any harmful error.  The Judge
+examined the relevant evidence and articulated a satisfactory explanation for the decision.  The
+decision is sustainable on this record.  “The general standard is that a clearance may be granted only
+when ‘clearly consistent with the interests of the national security.’”  Department of the Navy v.
+Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A ¶ 2(b):  “Any doubt concerning
+personnel being considered for national security eligibility will be resolved in favor of the national
+security.”
+4
+Order
+The Decision AFFIRMED.    
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                 
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+5

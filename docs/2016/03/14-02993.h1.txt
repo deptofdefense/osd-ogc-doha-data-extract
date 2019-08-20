@@ -1,0 +1,217 @@
+1
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+)       ISCR Case No. 14-02993
+)
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Eric Borgstrom, Esq., Department Counsel
+For Applicant: Alan V. Edmunds, Esq.
+______________
+Decision
+______________
+CURRY, Marc E., Administrative Judge:
+The amount of time that has elapsed since Applicant’s last security violation, in
+tandem with his rehabilitation outweigh the nature and seriousness of the conduct.
+Applicant has mitigated the security concerns. Clearance is granted.  
+Statement of the Case
+On December 12, 2014, the Department of Defense (DOD) issued a  Statement
+of Reasons (SOR) to Applicant detailing security concerns under the guidelines
+covering the handling of protected information and personal conduct. The action was
+taken under Executive Order 10865, Safeguarding Classified Information within Industry
+(February 20, 1960), as amended; Department of Defense Directive 5220.6, Defense
+Industrial Personnel Security Clearance Review Program (January 2, 1992), as
+amended (Directive), and the adjudicative guidelines (AG) implemented by DoD on
+September 1, 2006. 
+2
+Applicant answered the SOR on December 22, 2014. He admitted the allegations
+and requested a hearing. The case was previously assigned twice to other
+administrative judges before I received it on October 23, 2015.  I scheduled the hearing
+for December 9, 2015, and held it, as scheduled. I received five Government exhibits
+(GE 1-GE 5), and six Applicant exhibits (AE A - AE F). Also, I considered the testimony
+of Applicant and two character witnesses.
+At the close of the hearing, I left the record open for two weeks for counsel to
+prepare briefs supplementing their respective closing arguments. Both counsel filed
+briefs within the time allotted. I have identified and incorporated them into the record as
+HE I (Brief of Department Counsel, dated December 15, 2015), and HE II (Brief of
+Applicant’s Counsel, dated December 15, 2015). The transcript was received on
+December 29, 2015.
+Findings of Fact
+Applicant is a 30-year-old married man. He earned a bachelor’s degree in 2009,
+and has nearly completed a master’s degree. He has been working for his current
+employer since 2010, as a test engineer. (GE 1 at 15)
+Applicant is highly respected on the job. Supervisors characterize him as a good,
+energetic, hard-working performer who is intensely dedicated to getting the job done. A
+coworker described him as forthcoming about any product problems, always disclosing
+them to customers and looking for solutions, rather than “sweeping [them] under the
+rug.” (AE E at 7) He is an industrious worker, sometimes working overnight on the
+weekends. (Tr. 32) On one occasion, Applicant worked 36 straight hours to ensure that
+product testing was complete. (AE E at 2-8) In April 2013, his employer awarded him
+the “can-do” award for his stellar performance. (Tr. 30)
+February 2013, Applicant left a secured work area without locking his computer.
+Subsequently, he received a written reprimand, verbal counseling, and retraining on the
+proper procedures for securing work areas. (Answer at 1)
+In March 2013, Applicant failed to turn the dial on the lock to secure a work area
+after leaving the area. He received another written reprimand, and more security
+retraining. In addition, he was advised that if a third offense occurred, he would be
+subject to a 24-hour suspension of his security access. (Answer at 1)
+In June 2013, Applicant violated his company’s protocol when he failed to
+properly complete an equipment transfer request form for two pieces of equipment. (Tr.
+29, 62; Answer at 2) These forms were used to track inventory. Employees are
+supposed to complete these forms and give them to the security officer, who was
+responsible for filing them. (Tr. 62) Applicant completed the form, but left the date blank.
+He could not find the security officer after completing the form. Therefore, he left the
+date blank when he delivered the form to the security officer’s office, anticipating that
+the security officer would date it when he reviewed and signed it. (Tr. 62)
+3
+In July 2013, Applicant failed to properly secure his work computer after leaving a
+secured area. Subsequently, he received a written reprimand and was retrained on the
+proper procedures. (Answer at 2)
+In September 2013, Applicant again failed to properly secure his work computer
+after leaving a secured area. Subsequently, he received a written reprimand, was
+retrained, and suspended from work for five days without pay. (Answer at 2)
+Applicant attributes his carelessness to being overextended. (Answer at 2) He
+was working hard at the expense of security awareness. (Tr. 73-74) Since his last
+security violation, he has talked with his supervisors about reducing his workload so that
+he can pay more attention to detail. (Tr. 65) Now, he is a more cautious, mature
+employee who works slower, but makes fewer mistakes. (Tr. 32, 64)
+Although Applicant has not had a security clearance in nearly three years, he still
+has had a responsibility not to leave his computer unlocked at his unsecured work
+space when he leaves his desk. (Tr. 59) He has not violated this protocol since being
+transferred to the unsecured work space. (Tr. 60)
+Applicant’s current and former supervisors testified. Both strongly endorsed the
+restoration of his security access. His former supervisor, who supervised him in 2013,
+attributed Applicant’s mistakes, in part, to a change in company protocol regarding
+handling protected information. These changes took everyone “some getting used to.”
+(Tr. 29) Specifically through 2011, every employee working in a secured workspace
+shared one group computer password. The only person who had a responsibility to lock
+the computer was the last one to leave the office for the day. (Tr. 43) (Tr. 28) At some
+time in 2011, their company was purchased by another company. It required all of the
+employees to have individual passwords. Under the new policy, each employee had to
+secure their respective computers each time they left the secured area. (Tr. 26)
+Everyone had trouble adjusting to this new procedure, and several employees, including
+some supervisors, made mistakes similar to Applicant’s. (Tr. 26, 69) Similarly, the new
+company implemented a more stringent procedure for transferring equipment after it
+purchased the business. (Tr. 29) Applicant received training on the new policy changes
+approximately two years before he committed the security violations. (Tr. 51)
+Policies
+When evaluating an applicant’s suitability for a security clearance, the
+administrative judge must consider the adjudicative guidelines (AG). In addition to brief
+introductory explanations for each guideline, the adjudicative guidelines list potentially
+disqualifying conditions and mitigating conditions.
+These guidelines are not inflexible rules of law. Instead, recognizing the
+complexities of human behavior, these guidelines are applied in conjunction with the
+factors listed in the adjudicative process. According to AG ¶ 2(c), the entire process is a
+conscientious scrutiny of a number of variables known as the “whole-person concept.”
+4
+The administrative judge must consider all available, reliable information about the
+person, past and present, favorable and unfavorable, in making a decision.
+The protection of the national security is the paramount consideration. AG ¶ 2(b)
+requires that “[a]ny doubt concerning personnel being considered for access to
+classified information will be resolved in favor of national security.” 
+Under Directive ¶ E3.1.14, the government must present evidence to establish
+controverted facts alleged in the SOR. Under Directive ¶ E3.1.15, Applicant is
+responsible for presenting “witnesses and other evidence to rebut, explain, extenuate,
+or mitigate facts admitted by applicant or proven by Department Counsel. . . .” Applicant
+has the ultimate burden of persuasion as to obtaining a favorable security decision.
+Analysis
+Guideline K, Handling Protected Information
+Under this guideline, “[d]eliberate or negligent failure to comply with rules and
+regulations for protecting classified or other sensitive information raises doubt about an
+individual’s trustworthiness, judgment, reliability, or willingness and ability to safeguard
+such information, and is a serious security concern” (AG ¶ 33). Applicant’s failure to
+properly lock a secured area after leaving, and his repeated failure, despite retraining, to
+lock his computer after leaving his desk trigger the application of AG ¶¶ 34(a), “. . . any
+failure to comply with rules for the protection of classified or other sensitive information,”
+and 34(h), “negligence or lax security habits that persists despite counseling by
+management.”
+It is unclear from the record whether the equipment that Applicant sought to
+transfer when he failed to obtain the required transfer signature was either classified or
+sensitive. Consequently, although this oversight raises personal conduct security
+concerns, as discussed infra, it does not trigger a security concern under Guideline K. I
+resolve SOR subparagraph 1.c in Applicant’s favor.
+Applicant received security training before his security lapses and retraining after
+each security lapse. The mitigating condition set forth in AG ¶ 34(c), “the security
+violations were due to improper or inadequate training,” does not apply.
+Applicant has not committed a security violation in nearly three years. Although
+he has not worked in a secured environment in this time, this fact is still significant, as
+he has matured, focusing less on speed and more on efficiency. Consequently, his work
+product has improved. Applicant has also identified the main problem contributing to his
+security lapses (overwork), and with the input of his supervisors, reduced his workload
+so that he can better balance his work responsibilities with his security maintenance
+responsibilities. Consequently, AG ¶ 34(b), “the individual responded favorably to
+counseling or remedial security training and now demonstrates a positive attitude
+toward the discharge of security responsibilities,” applies.
+5
+Applicant’s counsel, in his post-hearing brief, characterizes Applicant’s security
+violations as minor. There are no minor security violations, as such conduct strikes at
+the heart of the industrial security process. (ISCR Case No. 11-09219 at 3 (App. Bd.
+Mar. 31, 2014)) Nevertheless, the fact that Applicant’s lapses occurred while
+overzealously trying to manage an extremely large workload does weigh in his favor.
+Given Applicant’s supervisors’ enthusiastic character references, I am persuaded that
+his security violations were a product of failing to pay sufficient attention to security
+matters, rather than bad judgment or character. Under these circumstances, the time
+that has elapsed since the last violation outweighs the nature and seriousness of the
+conduct.
+Guideline E, Personal Conduct
+Under this guideline, “conduct involving questionable judgment, lack of candor,
+dishonesty, or unwillingness to comply with rules and regulations can raise questions
+about an individual’s reliability, trustworthiness, and ability to protect classified
+information” (AG ¶ 15). 
+Applicant’s conduct triggers the application of AG ¶ 16(d)(1) “. . . unreliable
+behavior,” and AG ¶ 16(d)(3), “a pattern of rule violations.” Applicant’s repeated security
+violations generate a security concern under this guideline for the same reasons, as
+discussed above, in the guidelines governing the handling of protected information.
+Moreover, the improper completion of the equipment transfer form triggers a personal
+conduct security concern, as set forth in the aforementioned disqualifying conditions. 
+Applicant’s misconduct occurred nearly three years ago. Also, he has
+acknowledged the behavior and, upon consulting his supervisor, altered his workload,
+focusing more on detail. AG ¶ 17(c), “ . . . so much time has passed . . . that it is unlikely
+to recur and does not cast doubt on the individual’s reliability, trustworthiness, or good
+judgment,” and AG ¶17(d), “the individual has acknowledged the behavior and obtained
+counseling to change the behavior or taken other positive steps to alleviate the
+stressors, circumstances, or factors that caused the untrustworthy, unreliable, or other
+inappropriate behavior,” apply.
+Whole-Person Concept
+Under the whole-person concept, the administrative judge must evaluate an
+applicant’s eligibility for a security clearance by considering the totality of the applicant’s
+conduct and all the circumstances. The administrative judge should consider the nine
+adjudicative process factors listed at AG ¶ 2(a): 
+(1) the nature, extent, and seriousness of the conduct; (2) the
+circumstances surrounding the conduct, to include knowledgeable
+participation; (3) the frequency and recency of the conduct; (4) the
+individual’s age and maturity at the time of the conduct; (5) the extent to
+6
+which participation is voluntary; (6) the presence or absence of
+rehabilitation and other permanent behavioral changes; (7) the motivation
+for the conduct; (8) the potential for pressure, coercion, exploitation, or
+duress; and (9) the likelihood of continuation or recurrence.
+Both Applicant’s current and former supervisors attest to Applicant’s maturation
+since beginning the job, and strongly recommend that he be granted a clearance. In the
+nearly three years since Applicant’s last security violation, he has thoroughly
+contemplated his problems with adhering to protocol involving protected information,
+and has identified the problem - taking on too many work assignments - and has
+addressed this problem with his supervisor. Applicant’s stellar work performance,
+maturation, his efforts at rehabilitation, and the amount of time that has elapsed since
+the last security violation have persuaded me that he has mitigated the security
+concern.
+Formal Findings
+Formal findings for or against Applicant on the allegations set forth in the SOR,
+as required by section E3.1.25 of Enclosure 3 of the Directive, are:
+Paragraph 1, Guideline K: FOR APPLICANT
+Subparagraphs 1.a - 1.e: For Applicant
+Paragraph 2, Guideline E: FOR APPLICANT
+Subparagraphs 2.a - 2.b: For Applicant
+Conclusion
+In light of all of the circumstances presented by the record in this case, it is
+clearly consistent with the national interest to grant Applicant eligibility for a security
+clearance. Eligibility for access to classified information is granted.
+                                             
+MARC E. CURRY
+Administrative Judge

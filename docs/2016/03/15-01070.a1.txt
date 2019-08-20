@@ -1,0 +1,159 @@
+KEYWORD: Guideline F; Guideline E
+DIGEST: When evaluating the deliberate nature of an applicant’s omissions a Judge consider the
+applicant’s mens rea in light of the entirety of the record evidence.  Adverse decision affirmed.
+CASENO: 15-01070..a1
+DATE: 03/09/2016
+DATE: March 9, 2016
+In Re:
+-------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-01070
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Ryan C. Nerney, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On   
+August 1, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) and Guideline E
+(Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+(Directive).  Applicant requested a decision on the written record.  On December 23, 2015, after
+considering the record, Defense Office of Hearings and Appeals (DOHA) Administrative Judge
+David M. White denied Applicant’s request for a security clearance.  Applicant appealed pursuant
+to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge’s findings of fact
+contained errors and whether the Judge’s adverse decisions was arbitrary, capricious, or contrary
+to law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact
+Applicant retired from the U.S. military in 2012 and has worked for his current employer
+ever since.  Applicant’s SOR alleged one delinquent mortgage account, which the Judge resolved
+in his favor based upon evidence that Applicant had cured the delinquency.  The SOR also alleged
+other debts that had been opened between 1998 and 2007 and that became delinquent between 2008
+and 2012.  Applicant contends that these debts were the result of identity theft.  He did not provide
+corroboration for his claim to have contacted the companies involved after his clearance interview
+in 2012.  He did nothing further until he received the SOR, at which point he hired an attorney to
+challenge the debts.  He signed an Identity Theft Victim’s Complaint and Affidavit, in which he
+stated that he had not filed a complaint with law enforcement officials regarding the matter.  One
+credit reporting agency deleted some debts from Applicant’s report, and a creditor sent Applicant
+a letter certifying that one credit card account had been used fraudulently.  The Judge entered
+favorable findings regarding this credit card.  However, he found that Applicant’s affidavit does not
+explain his delay in reporting the theft nor does it provide details to establish that the theft actually
+occurred.  
+In completing his security clearance application (SCA), Applicant failed to disclose his
+delinquent debts.  He claimed that he did not know that he had any delinquent debts at the time he
+completed the SCA.  He explained his ignorance of the mortgage delinquency by attributing it to
+a frequent transfer of the loan between lending institutions, which prevented his automatic payments
+from going through.  The Judge found, however, that at the time he completed the SCA the
+particular lender had held the loan for four years and that Applicant’s payments had been delinquent
+for 15 months.  “It would strain credulity to conclude that Applicant neither received notice from
+the lender nor realized that more than $10,000 in extra funds remained in his bank account due to
+missed payments.”  Decision at 4.   He found that Applicant’s own evidence, a credit report included
+in Applicant Exhibit A, showed that at the time he signed his SCA Applicant had been more than
+120 days delinquent on his mortgage.  
+The Judge also found that Applicant’s claims of ignorance regarding his other delinquent
+debts were not persuasive.  He noted the length of time over which the accounts were opened and
+over which they became delinquent.  “All of the accounts reflect lengthy periods during which the
+purported identity thief made timely payments toward the balances due, before failing to pay as
+2
+required.”  Id.  He stated that Applicant did not provide enough information to lend credibility to
+his claim not to have known about his debts at the time he completed his SCA.  
+There is no evidence of financial counseling, a budget, the quality of Applicant’s duty
+performance, or track record regarding handling sensitive information.  He stated that Applicant had
+submitted no character evidence concerning his judgment, trustworthiness, or reliability.  The Judge
+also noted that, insofar as Applicant had elected a decision on the written record, he did have an
+opportunity to evaluate Applicant’s demeanor.
+The Judge’s Analysis
+As stated above, the Judge resolved the mortgage debt and one credit card debt in
+Applicant’s favor.  However, he reached unfavorable findings for the other debts, concluding that
+Applicant’s claims of identity theft were not credible.   He also found that Applicant was not
+credible in claiming to have been ignorant of the debts alleged in the SOR.  The Judge stated that
+Applicant is a person with extensive experience in applying for security clearances and that he
+offered “no believable rationale for ignorance of substantial delinquent mortgage and consumer
+debts.”  Id. at 7.  The Judge found that Applicant’s omissions from the SCA were deliberate.  
+Discussion
+Applicant challenges the Judge’s finding that his omissions from the SCA were deliberate.
+We examine a Judge’s findings to see if they are supported by “such relevant evidence as a
+reasonable mind might accept as adequate to support a conclusion in light of all the contrary
+evidence in the same record.”  Directive ¶ E3.1.32.1.  When evaluating the deliberate nature of an
+applicant’s omissions or false statements, a Judge should consider the applicant’s mens rea in light
+of the entirety of the record evidence.  See, e.g., ISCR Case No. 14-04226 at 3 (App. Bd. Aug. 18,
+2015).  
+In the case before us, the Judge cited to evidence that at the time Applicant completed the
+SCA the same mortgage lender had held his account for several years.  A credit report supports this
+finding.  Applicant’s Credit Report dated August 2012, at 5.  The Judge’s conclusion that it is
+implausible that Applicant had no notice of his delinquency in making his mortgage payments, either
+from the lender or from examining his bank account, is sustainable, given the record that was before
+him.  Concerning the other debts, we note Applicant’s own evidence, the letter from his attorney,
+which states that these accounts were not merely stolen, but were actually opened, by an identity
+thief.  Letter from Attorney, dated October 26, 2015.  Applicant’s credit reports show that many of
+these debts became delinquent after several years had elapsed from the date they were opened.  One,
+in fact, was opened in 1998.  See, e.g., Credit Report, supra, at 6.  It is reasonable to conclude from
+this document that, prior to its becoming delinquent, the accounts were paid satisfactorily. A
+reasonable person could conclude, as did the Judge, that it is unlikely that a thief would open an
+account and apparently make payments on it on Applicant’s behalf for years before letting it become
+3
+delinquent.1  Accordingly, the Judge’s conclusion that Applicant likely knew about his delinquencies
+at the time he submitted his SCA is consistent with the record that was before him.  His finding
+about the deliberate nature of these delinquencies is sustainable.  
+Applicant challenges the Judge’s conclusion that his claims of identity theft were not
+believable.  We give deference to a Judge’s credibility determinations.  Directive ¶ E3.1.29.  For
+similar reasons to those addressed above, we find no basis to disturb the Judge’s conclusion that
+Applicant’s presentation lacked credibility.  We also note the Judge’s finding that Applicant claimed
+to have become aware of the purported identity theft during his clearance interview, which took
+place in 2012 (see Applicant’s written statement, dated October 27, 2015, included in Applicant
+Exhibit A) yet undertook no substantive actions to address this matter until he received the SOR in
+August 2015.  We have often noted that the timing of debt payments is relevant in evaluating an
+applicant’s case for mitigation, in that an applicant who waits until his clearance is in jeopardy
+before resolving debts might be lacking in the judgment expected of those with access to classified
+information.  See, e.g., ISCR Case No. 14-01243 at 3 (App. Bd. Jun. 18, 2015).  Similarly, timing
+is also relevant in evaluating the credibility of Applicant’s contention that some person or persons
+fraudulently used his credit card accounts to acquire a substantial amount of debt in Applicant’s
+name.  Applicant’s failure to act for three years raises a reasonable suspicion that his challenge to
+the legitimacy of his debts was merely an effort to protect his clearance.  The record supports the
+Judge’s conclusion that Applicant’s contentions, without more, were not worthy of belief.  
+Applicant has cited to a Hearing Office case that, he contends, supports his case for a
+clearance.  We have given this case due consideration as persuasive authority.  However, Hearing
+Office cases are not binding on other Hearing Office Judges or on the Appeal Board.  See, e.g., ISCR
+Case No. 14-03747 at 3 (App. Bd. Nov. 13, 2015).  Applicant cites to evidence that, he believes,
+the Judge failed to consider, such as his contention that he had been a victim of identity theft, that
+he had hired an attorney to assist him in challenging the debts, that he served for many years in the
+military, etc.  Applicant’s brief is not enough to rebut the presumption that the Judge considered all
+of the evidence in the record.  See, e.g., ISCR Case No. 14-06093 at 3 (App. Bd. Dec. 4, 2015). 
+Applicant challenges the Judge’s weighing of the evidence, particularly regarding his claims to have
+been a victim of identity theft.  However, an ability to argue for an alternative interpretation of the
+evidence is not sufficient to show that the Judge’s weighing of the evidence was arbitrary,
+capricious, or contrary to law.  See, e.g., ISCR Case No. 14-06440 at 4 (App. Bd. Jan. 8, 2016).
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”
+1A credit report is generally sufficient to establish a prima facie case that an applicant owes the debts listed
+therein, thereby raising concerns under Guideline F.  See, e.g., ISCR Case No. 14-03612 at 3 (App. Bd. Aug. 25, 2015). 
+4
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Y. Ra’anan        
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett           
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody             
+James E. Moody
+Administrative Judge
+Member, Appeal Board 
+5

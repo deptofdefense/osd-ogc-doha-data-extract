@@ -1,0 +1,257 @@
+KEYWORD: Guideline F
+DIGEST: Department Counsel emphasized the lack of supporting documentation for the
+payments reflected in the spreadsheet and stated that FRE 1006 “requires” the proponent to make
+the original writings/documents available to the opposing party for examination.  As reflected
+above, FRE 1006 is clear that “[t]he originals . . . shall be made available for examination . . . .”
+[Emphasis added.] Contrary to the Judge’s conclusion, we interpret Department Counsel’s
+emails as a demand to examine the original documentation if the spreadsheet was to be used as a
+substitute form of proof of payments.  Based on the foregoing, we conclude the Judge erred by
+failing to reopen the record to provide Department Counsel the opportunity to examine the
+original documentation and, thereafter, make appropriate objections and submissions. Favorable
+decision remanded.
+CASENO: 17-03462.a1
+DATE: 12/18/2018
+DATE: December 18, 2018
+In Re:
+----------------------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-03462
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Julie R. Mendez, Esq., Deputy Chief Department Counsel
+FOR APPLICANT
+David B. Hanley, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+November 2, 2017, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On September 26, 2018, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Philip J. Katauskas granted Applicant’s request for a security clearance. 
+Department Counsel appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Department Counsel raised the following issues on appeal: whether the Judge’s findings of
+fact are not supported by record evidence and whether the Judge’s decision was arbitrary, capricious,
+or contrary to law.  Consistent with the following, we remand.
+The Judge’s Findings of Fact  
+Applicant and his wife own and operate a company that performs defense contracts.  The
+SOR alleges that Applicant has two Federal tax liens totaling about $118,000 and a state tax lien for
+about $5,500.  He admitted the SOR allegations.  His wife was initially responsible for the
+company’s administrative matters, including payment of its taxes.  They operated the company
+successfully for over five years before his wife experienced health issues.  She fell behind on her
+responsibilities, including the payment of taxes.  Some of the company’s prime contractors were also
+late in paying invoices.  When he did not receive payments on time, Applicant was forced to decide
+between paying back taxes or paying his employees.  Applicant and his wife chose the latter course
+of action.  These circumstances caused the tax liens.
+Applicant testified that he paid about $155,000 towards the back Federal taxes but still owes
+over $100,000.  At the time of the hearing, he was waiting for a revised installment plan to address
+his Federal taxes that would be based on revenue projections.  The IRS told him to stop paying under
+the old installment agreement and to keep his taxes current until a new plan was approved.  He has
+also been making payments on a state installment plan.  From 2014 through 2016, he and his wife
+have remained current in paying their quarterly taxes. 
+ As of about five months before the hearing, Applicant’s wife no longer performed the
+administrative duties for the company.  In mid-2017, Applicant hired an executive assistant and put
+his customers under 30-day payment terms.  While the company has been paying its bills and taxes
+on time for the last couple of years, the state filed a $13,000 lien weeks ago for back unemployment
+compensation taxes because he and his wife missed a quarterly payment.  He has an installment
+agreement to pay that non-alleged lien.  
+Applicant has been under a payment plan for the alleged state tax lien since 2014, has paid
+$2,550 towards it, and has a balance remaining of about $3,600.  His Federal tax liens are under a
+payment plan from December 2017, and he documented payments from January through September
+2
+2018.  This plan supplemented an earlier installment plan under which he paid over $151,000 from
+2010 to 2015.
+Applicant submitted numerous character reference letters that attest to his honesty, integrity,
+professionalism, and loyalty.         
+The Judge’s Analysis
+Applicant is current on his state installment agreement that he entered into well before the
+SOR was issued.  He experienced conditions beyond his control that caused the tax deficiencies, and
+he gradually became aware that his wife was not fulfilling her administrative duties.  From 2010 to
+2015, he adhered to a repayment plan under which he paid over $151,000.  Due to revised revenue
+projections, the IRS told him to stop payments under the initial plan, keep up with his current taxes,
+and await approval of a new plan.1  In December 2017, the IRS approved a new plan to which he
+has adhered.  He has also taken other steps to avoid recurrence of the tax delinquency.  He has
+mitigated the state tax lien under Mitigating Condition 20(g)2 and the Federal tax liens under
+Mitigating Condition 20(b).3  
+Discussion
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371, U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’”   Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt 
+concerning personnel being considered for national security eligibility will be resolved in favor of
+the national security.”  Directive, Encl. 2, App. A ¶ 2(b).  The Appeal Board may reverse the Judge’s
+decision to grant, deny, or revoke a security clearance if it is arbitrary, capricious, or contrary to law. 
+Directive ¶¶ E3.1.32.3 and E3.1.33.3.
+There is a strong presumption against the grant or maintenance of a security clearance.  See
+Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After
+1 In her appeal brief, Department Counsel does not challenge the Judge’s conclusion that the IRS told Applicant
+to stop making payments on the initial installment plan.  
+2 Directive, Encl. 2, App. A ¶ 20(g) states, “the individual has made arrangements with the appropriate tax
+authority to file or pay the amount owed and is in compliance with those arrangements.” 
+3 Directive, Encl. 2, App. A ¶ 20(b) states, “the conditions that resulted in the financial problem were largely
+beyond the person's control (e.g., loss of employment, a business downturn, unexpected medical emergency, a death,
+divorce or separation, clear victimization by predatory lending practices, or identity theft), and the individual acted
+responsibly under the circumstances[.]”
+3
+the Government presents evidence raising security concerns, the burden shifts to the applicant to
+rebut or mitigate those concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and
+mitigating conditions and whole person factors does not turn simply on a finding that one or more
+of them apply to the particular facts of a case.  Rather, their application requires the exercise of
+sound discretion in light of the record evidence as a whole.”  See, e.g., ISCR Case No. 16-02322 at
+3 (App. Bd. Mar. 14, 2018).
+In deciding whether the Judge’s rulings or conclusions are erroneous, we will review the
+Judge’s decision to determine whether:  it does not examine relevant evidence; it fails to articulate
+a satisfactory explanation for its conclusions, including a rational connection between the facts
+found and the choice made; it does not consider relevant factors; it reflects a clear error of judgment;
+it fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  Id.
+Department Counsel contends that some of the Judge’s findings of fact are not supported by
+record evidence.  First, Department Counsel argues the Judge erred in finding that Applicant has
+been in a repayment plan for the alleged state tax lien since 2014.  We agree the Judge erred in that
+finding.  The alleged state tax lien was not filed until September 2017, which was more than three
+years after the Judge found that payments on that lien began.  Government Exhibit (GE) 2. 
+Applicant testified that he only began that installment agreement “about a year ago” (Tr. at 54),
+which would have been about June 2017.  That said, we do not disagree with the Judge’s conclusion
+that this debt was mitigated under Mitigating Condition 20(g).  In her brief, Department Counsel
+notes that documentary evidence confirms Applicant’s consistent payments on this lien from
+December 2017 (about two months after it was filed) to September 2018 (when the record closed). 
+Appeal Brief at 12.  There is not much more Applicant could have done to resolve this debt short
+of paying it in full. 
+While the Judge’s error regarding the state tax lien appears harmless, the same cannot be said
+about his erroneous findings pertaining to the Federal tax liens.4  Department Counsel challenges
+the Judge’s finding that Applicant and his wife remained current on their quarterly Federal business
+taxes from 2014 through 2016.  Department Counsel argues this finding is based solely on
+Applicant’s testimony and implies that he and his wife changed their behavior after the first Federal
+tax lien was filed.  Department Counsel also asserts that this finding is contradicted by record
+evidence.  This argument has merit.  Department Counsel correctly points out that Applicant’s
+Federal installment agreement of December 2017 lists past-due business taxes for one quarter in
+2015 and each of the four quarters of 2016.  Applicant’s Exhibit (AE) D, Item 2, page 3.5  As a
+4 An error is harmless if it does not likely affect the outcome of the case.  See, e.g., ISCR Case No. 11-15184
+at 3 (App. Bd. Jul. 25, 2013).  
+5 The Federal installment agreement reflected that Applicant owed $109,230 as of December 2017 and that he
+agreed to make monthly payments of $1,000 until the full amount was paid.  The agreement states that taxes were owed
+on the following forms: IRS Form 941 (Employer’s Quarterly Federal Tax Return), IRS Form 940 (Employer’s Annual
+Federal Unemployment (FUTA) Tax Return),  and possibly either IRS Form 1120 (U.S. Corporate Income Tax Return)
+4
+related matter, the Judge’s conclusion in the Analysis section that Applicant complied with the IRS’s
+guidance to “keep up with current taxes” between when he contacted the IRS for a new payment
+plan after 2015 and the institution of a new plan in December 2017 is also flawed.  Besides the
+delinquent business taxes for each quarter in 2016, Applicant’s installment agreement also reflects
+he was twice delinquent on his quarterly business taxes in 2017. 
+       
+ Department Counsel next challenges the Judge’s finding that Applicant paid over $151,000
+in back Federal taxes under an installment agreement between March 2010 and December 2015.6 
+The Judge based that finding on Applicant’s testimony and an Excel spreadsheet (AE H) covering
+the period from 2010 to 2015 that Applicant indicated was prepared by a certified public accountant
+(CPA).  Department Counsel persuasively argues that the spreadsheet is not a summary of the
+payments on the initial IRS installment agreement, but instead a summary of the payments on
+quarterly business taxes from 2010 through 2015.  She points out that Applicant testified that he
+became aware of his tax problem in 2010 and did not appreciate the gravity of the situation until
+2013 when he reached out to the IRS.  Tr. at 26-27 and 37-38.  Applicant, his wife, and the IRS
+established an installment agreement in January 2014.  Tr. at 28.  Applicant, of course, could not
+have been making payments under the agreement before it came into existence.  Additionally, he
+testified that he made $7,000 in payments under the agreement until he stopped in late 2014.  Tr. at
+28 and 39.  The spreadsheet contains no entries reflecting payments of $7,000 for 2014 and no other
+documentary proof of those payments is contained in the record.  The Judge erred in concluding that
+Applicant paid $151,000 under an installment agreement between 2010 and 2015. 
+Department Counsel further challenges the Judge’s determination that the spreadsheet was
+proof of back tax payments and notes that no documentation (e.g., cancelled checks, IRS transcripts,
+etc.) was provided to corroborate the payments reflected in the spreadsheet.7  In a footnote, the Judge
+indicated that Department Counsel did not object to admission of the spreadsheet into evidence,
+cited Federal Rule of Evidence (FRE) 1006 for authority to admit “summaries in place of
+voluminous documentation (such as six years of tax payments)[,]” and stated the Government did
+not request back-up documentation.  Decision at 7, n. 25.  FRE 1006 provides:
+The contents of voluminous writings, recordings, or photographs which cannot
+conveniently be examined in court may be presented in the form of a chart, summary,
+or calculation.  The originals, or duplicates, shall be made available for examination
+or IRS Form 1120S (U.S. Income Tax Return for an S Corporation), and lists the dates associated with each of those
+delinquencies. 
+6 Decision at 4.
+7 We have said in the past, it is reasonable for a Judge to expect applicants to present documentation about the
+satisfaction of their debts.  See, e.g., ISCR Case No. 07-10310 at 2 (App. Bd. Jul. 30, 2008).  This implies something
+that independently substantiates the resolution of debts.  See also ISCR Case No. 15-03363 at 2 (App. Bd. Oct. 19, 2016). 
+Applicant testified that the information in the spreadsheet was based on IRS transcripts (Tr. at 40-41), but did not
+corroborate that statement.  
+5
+or copying, or both, by other parties at a reasonable time and place.  The court may
+order that they be produced in court.  
+In her appeal brief, Department Counsel provided email exchanges between herself and the Judge
+(cc: Applicant) regarding the spreadsheet and other matters that were submitted as post-hearing
+exhibits.8  In those emails, Department Counsel emphasized the lack of supporting documentation
+for the payments reflected in the spreadsheet and stated that FRE 1006 “requires” the proponent to
+make the original writings/documents available to the opposing party for examination.  Department
+Counsel’s email of September 21, 2018.  As reflected above, FRE 1006 is clear that “[t]he originals
+. . . shall be made available for examination . . . .” [Emphasis added.]  Contrary to the Judge’s
+conclusion, we interpret Department Counsel’s emails as a demand to examine the original
+documentation if the spreadsheet was to be used as a substitute form of proof of payments.9  Based
+on the foregoing, we conclude the Judge erred by failing to reopen the record to provide Department
+Counsel the opportunity to examine the original documentation and, thereafter, make appropriate
+objections and submissions. 
+Finally, we note that AE H contains information that we do not understand.  It includes a
+forwarding email from the CPA to Applicant that states:
+I am attaching a spreadsheet that I prepared from the data you gave me.  Based on
+that data I came up with an amount for unpaid taxes of $145,987.  The penalties and
+interest totaled $74,560.55.  I also determined that as of this report you have paid
+$151,755.66 which is still more than the original monies owed.  As of the date of the
+report you appear to not have filed 941s for 6/30 and 9/30 2015.  That is why the
+negatives.  With the negatives I show that you still owe $51,288.96.  However,
+without them you owe $92,871.09.  
+We do not understand the last two sentences of that email.  Specifically, how does including the
+missed tax payments for June and September 2015 in the calculations on the spreadsheet reduce the
+amount owed and, conversely, excluding those missed payments increase the amount owed?  The
+spreadsheet also includes columns for Initial Amount, Tax Deposit, Unpaid Balances, Payment,
+Credit Transfer In, Penalty for Late Filing, Tax Deposit Penalty, Late Payment Penalty, Interest, and
+8 In an email, Department Counsel requested their email exchanges be included in the record and the Judge
+responded that they would be included.  However, they were not included.  Based on that exchange, we do not consider
+the emails new evidence (see Directive ¶ E3.1.29), but material that was mistakenly omitted from the record.  
+9 We recognize the Directive provides that the Federal Rules of Evidence shall be used as a guide.  Directive
+¶ E3.1.19.  In this case, the record does not reflect the amount of original documents (e.g., tax transcripts, quarterly tax
+returns, etc) that pertain to the six tax years in question.  Consequently, it is unknown whether those documents were
+so voluminous to warrant substitution of the summary for the originals.   Nonetheless, we conclude that it is not
+appropriate for a Judge to rely on FRE 1006 as a basis for using a summary to prove debt payments while at the same
+time not providing the opposing party the opportunity to examine the original documents as provided in that rule to
+corroborate the actual payments, especially, given the line of cases cited in note 7 above.  Furthermore, the email
+forwarding the summary from the CPA to Applicant says “I am attaching a spreadsheet that I prepared from the data you
+gave me.”  That statement alone would be sufficient to question the reliability of the summary.  AE H.
+6
+Amount Due.  In context, we do not understand what the figures in each of those columns represent
+or the calculations based on them.  Considering the CPA’s representations in the forwarding email
+and Applicant’s testimony, we recognize the spreadsheet may reflect that payments were made
+toward the back Federal business taxes between 2010 and 2015, but we are unable to determine the
+amount and frequency of those payments.  In other words, Applicant may have provided evidence
+of significant payments, but we are unable to decipher it.10  Given the Judge’s errors identified above
+and the lack of clarity of the information in the spreadsheet, we believe that best course of action
+is to remand the case to the Judge (1) to correct the identified errors, (2) to reopen the record to
+provide the parties the opportunity to present additional evidence and arguments regarding the
+payments that Applicant made towards the back taxes (we draw the Judge’s attention to the fact that
+Applicant is now represented by an attorney in the DOHA proceeding),11 and (3) to issue a new
+decision in accordance with the Directive.
+10 On occasion summaries may be a useful tool.  Certainly not all summaries are flawed.  Still, this case
+highlights the potential for confusion or limitations which may be a function of summaries.  
+11 Applicant’s Counsel appears to be the same individual who was cited in the record as the CPA.  
+7
+Order
+The Decision is REMANDED.  
+Signed: Michael Ra’anan        
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody         
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy           
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+8

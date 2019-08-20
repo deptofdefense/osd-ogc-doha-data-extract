@@ -1,0 +1,172 @@
+KEYWORD: Guideline F
+DIGEST: The mere filing of delinquent tax returns or the existence of a payment arrangement
+with an appropriate tax authority does not compel a Judge to issue a favorable decision.  As with
+the application of any mitigating condition, the Judge must examine the record evidence and
+decide whether the favorable evidence outweighs the unfavorable evidence, or vice versa.  The
+timing of corrective action is an appropriate factor for the Judge to consider in the application of
+mitigating conditions. Adverse decision affirmed.
+CASENO: 17-01807.a1
+DATE: 03/07/2018
+DATE: March 07, 2018
+In Re:
+--------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-01807
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Ryan C. Nerney, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On June
+17, 2017, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On December 1, 2017, after considering the record, Defense Office of
+Hearings and Appeals (DOHA) Administrative Judge Noreen A. Lynch denied Applicant’s request
+for a security clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issue  on appeal:  whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact  
+Applicant is a 53-year-old employee of a Federal contractor.  She began working for her
+current employer in late 2015.  She failed to file tax returns as required.  She filed her Federal
+income tax returns for 2011-2013 in February and April 2015 and those for 2014-2016 in June 
+2017.  Her reasons for those tax filing deficiencies included unemployment, an employer’s failure
+to withhold taxes, and paperwork problems. 
+The IRS withheld Applicant’s 2016 tax refund to resolve her 2010 tax deficiency.  She has
+an installment agreement with the IRS for a 2011 tax deficiency for which she makes payments of
+$500 monthly.  She also submitted details for an online payment agreement for 2014.  The balance
+for both years was about $11,700.  Although not clear from the record, it appears Applicant also
+owes taxes for 2012 and 2013.
+ Applicant has two judgments against her that are not satisfied, but she is working with a debt
+relief program to settle them.   She is current on her student loans and settled parking tickets.  She
+spoke to the creditor about an unresolved collection account, but the creditor could not find the
+account.
+In 2010, Applicant became self-employed and had little to no income from 2010 to 2012. 
+Her home was foreclosed in 2012.  Her salary, however, has increased to $130,000 and she can pay
+her bill.  Her total outstanding debt is about $24,500.  She received financial counseling through the
+debt relief program.  She was aware of her debts since her background interview in 2016 and only
+recently settled some of them.  
+ 
+The Judge’s Analysis
+Applicant did not file some of her delinquent tax returns until after issuance of the SOR,
+which reduces the mitigative value of such remedial action.  She did not submit evidence showing
+her tax filing deficiencies are unlikely to recur.  She took corrective action after her job was placed
+in jeopardy.  She partially established mitigating condition 20(g),1 but did not establish any of the
+other mitigating conditions.  She failed to meet her burden of persuasion.    
+Discussion
+Applicant notes the Judge cited Appeal Board decisions that applied the previous version of
+the adjudicative guidelines and do not address mitigating condition 20(g), which appears for the first
+1 Directive, Encl., App. A. ¶ 20(g) states, “the individual has made arrangements with the appropriate tax
+authority to file or pay the amount owed and is in compliance with those arrangements.” 
+2
+time in the guidelines that became effective on June 8, 2017.  She argues that the Judge’s reliance
+on those decisions “makes her analysis [of the] tax allegations erroneous.”  Appeal Brief at 4.  In
+principle, Applicant’s argument raises an important concern.  The Board has previously noted that
+the “precedential value of Board decisions is affected to the extent those decisions involve
+interpretation of a provision of the Directive that is later revised or changed.”2  However, in this
+case, Applicant has failed to identify any particular quote or proposition in the cited cases that no
+longer has any precedential value due to changes in the guidelines.  We are unaware of what
+concepts in those prior decisions that Applicant is now challenging.  Accordingly, this particular
+assignment of error fails for lack of specificity.  See, e.g., ISCR Case No. 09-06691 at 3 (App. Bd.
+May 16, 2011).  To the extent that Applicant is arguing that all prior Appeal Board decisions
+involving tax cases are no longer of any precedential value solely due to the recent addition of
+mitigating condition 20(g), we do not find such an overbroad argument persuasive. 
+Applicant contends that the Judge erred in her analysis of mitigating condition 20(g).  In her
+argument, Applicant notes that she filed her delinquent tax returns and entered into a payment
+agreement with the IRS.  She also points out that mitigating condition 20(g) “has no reference to
+when or how long an [applicant] needs to establish an arrangement with the appropriate tax
+authority.”  Appeal Brief at 5.  The mere filing of delinquent tax returns or the existence of a
+payment arrangement with an appropriate tax authority does not compel a Judge to issue a favorable
+2 See, ISCR Case No. 06-23453 at 3-4 (App. Bd. Nov 14, 2007).  The complete paragraph reads as follows:
+The validity of Appeal Board precedent issued under earlier editions of the Adjudicative
+Guidelines is an issue in this case.  The Board has previously held “. . . a Judge cannot rely on
+language from an earlier version of the Directive to justify the Judge’s decision and that an applicant’s
+security eligibility must be adjudicated under current DoD policies and standards, not past ones.
+Similarly, the precedential value of Board decisions is affected to the extent those decisions involve
+the interpretation of a provision of the Directive that is later revised or changed. Statements made by
+the Board in earlier decisions that are predicated on then-existing language in the Directive cannot be
+simply assumed—by a Judge or a party— to be applicable in later cases after the pertinent provision(s)
+of the Directive have been revised or changed.” See ISCR Case No. 02-17369 at 3-4 (App. Bd. May
+23, 2006); and ISCR Case No. 02-24254 at 7-8 (App. Bd. Jun 29, 2004) (footnotes omitted).  Of
+course, some precedent remains completely valid in the face of changes to the guidelines, because it
+is not dependent on the language of any specific guideline.  Other precedent remains valid where the
+applicable language of the guideline is unchanged or the changes are not of sufficient magnitude to
+vitiate or overrule the substance of the precedent.  However, Board decisions cannot be relied on or
+followed to the extent they involve precedent predicated on law or DoD policy that changed after the
+issuance of those decisions.  Quasi-judicial adjudications must be made within the bounds of
+applicable law and agency policy, not without regard to them. See, e.g., Croplife America v.
+Environmental Protection Agency, 329 F.3d 876, 882 (D.C. Cir. 2003) (administrative law judges
+cannot ignore agency policy in making rulings); Nash v. Bowen, 869 F.2d 675, 680 (2d Cir.
+1989)(administrative law judge is subordinate to head of agency or department in matters of policy);
+Mullen v. Bowen, 800 F.2d 535, 540 n. 5 (6th Cir. 1986) (decisional independence does not relieve
+administrative law judge of the obligation to apply agency policy).  See  ISCR Case No. 02-00305 at 
+3 (App. Bd. Feb. 12, 2003)(security clearance decisions must be based on current DoD policy and
+standards).  Accordingly, no Board decision should be construed or interpreted without regard to the
+law and DoD policy applicable at the time the Board decision was issued.
+3
+decision.  As with the application of any mitigating condition, the Judge must examine the record
+evidence and decide whether the favorable evidence outweighs the unfavorable evidence, or vice
+versa.  The timing of corrective action is an appropriate factor for the Judge to consider in the
+application of mitigating condition 20(g) as well as in considering aspects of other overlapping
+mitigating conditions, such as, in determining whether an applicant acted responsibly under the
+circumstances, whether an applicant’s past financial deficiencies are unlikely to recur,3 or whether
+an applicant initiated good-faith efforts to resolve financial problems.4  See, e.g., ISCR Case No. 15-
+06440 at 4 (App. Bd. Dec. 26, 2017) for a case decided under the new adjudicative guidelines that
+addresses the significance of timing in the resolution of tax problems.5  In the present case, the Judge
+concluded that Applicant filed some delinquent tax returns after the SOR was issued, which reduced
+the mitigative value of such remedial action.  From our review of the record, we conclude that
+Applicant failed to establish that the Judge’s weighing of the evidence in general or, more
+specifically, her analysis under mitigating condition 20(g) was arbitrary, capricious, or contrary to
+law.  See, e.g., ISCR Case No. 16-00276 at 5 (App. Bd. Oct 30, 2017).  
+Applicant also argues that the Judge did not consider all relevant evidence.  She cites to such
+matters as her unemployment, her payment arrangement with the IRS, and her efforts to resolve
+other debts, which included obtaining assistance from a debt relief company.  The Judge, however,
+made findings about those matters.  Applicant’s arguments are not sufficient to rebut the
+presumption that the Judge considered all of the record evidence.  See, e.g., ISCR Case No. 17-
+00257 at 3 (App. Bd. Dec. 7, 2017).  We gave due consideration to the Hearing Office case that
+Applicant cited, but it is neither binding precedent on the Appeal Board nor sufficient to undermine
+the Judge’s decision.  Id. 
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  A person who fails repeatedly to fulfill his or her legal obligations, such as filing tax
+returns and paying taxes when due, does not demonstrate the high degree of good judgment and
+reliability required of those granted access to classified information.  See, e.g., ISCR Case No. 15-
+08782 at 3 (App. Bd. Apr. 5, 2017).  The decision is sustainable on this record.  “The general
+standard is that a clearance may be granted only when ‘clearly consistent with the interests of the
+national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive,
+Encl. 2, App A ¶ 2(b):  “Any doubt concerning personnel being considered for national security
+eligibility will be resolved in favor of the national security.”
+3 In this case, the Judge also noted that Applicant had  yet to file a Federal income tax return in a timely manner
+since 2010, which supported her conclusion that Applicant has not established that her tax filing deficiencies are unlikely
+to recur.    
+4  We note that mitigating condition 20(d) (the individual initiated and is adhering to a good-faith effort to repay
+overdue creditor or otherwise resolve debts) also has no specified time element.  Yet, the Appeal Board has long held
+that the timing of the resolution of debts is an important factor for the Judge to consider.  See, e.g., ISCR Case No. 03-
+12862 at 4 (App. Bd. Apr. 5, 2005) and ISCR Case No. 11-13949 at 3 (App. Bd. Sep. 5, 2013).  
+5 See, ISCR Case No. 14-01894 at 4-5 (App. Bd. Apr. 18, 2015) for a general discussion of the significance
+of timing in resolving tax problems. 
+4
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan            
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: William S. Fields            
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+5

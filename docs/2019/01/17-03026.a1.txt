@@ -1,0 +1,253 @@
+KEYWORD: Guideline B; Guideline C
+DIGEST: While it is important for the Judge to consider the foreign country in which the foreign
+contact is located in Guideline B cases, the “heightened risk” language in Disqualifying
+Condition 7(a) addresses an applicant’s foreign contacts, not necessarily the foreign country
+involved.  Depending upon the particular circumstances presented in a case, one or more foreign
+contacts located in even a foreign country that is friendly to the United States may create a
+“heightened risk” of foreign exploitation, inducement, manipulation, pressure, or coercion.  In
+the past, we noted with approval a Judge’s analysis that concluded “heightened risk” is not a
+high standard to meet.  In the present case, Applicant graduated from a British military academy,
+held a British security clearance, and retired as a British military officer. Favorable decision
+remanded.
+CASENO: 17-03026.a1
+DATE: 01/16/2019
+DATE: January 16, 2019
+In Re:
+---------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-03026
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Anthony J. Kuhn, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+December 20, 2017, DOD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision—security concerns raised under Guideline B (Foreign Influence) and Guideline C
+(Foreign Preference) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+(Directive).  Applicant requested a hearing.  On October 12, 2018, after the hearing, Defense Office
+of Hearings and Appeals (DOHA) Administrative Judge LeRoy F. Foreman granted Applicant’s
+request for a security clearance.  Department Counsel timely appealed pursuant to Directive ¶¶
+E3.1.28 and E3.1.30.
+Department Counsel raises the following issues on appeal: whether the Judge erred by
+concluding that the Government failed to establish a case of heightened risk under Disqualifying
+Condition 7(a)1 and whether the Judge’s decision was arbitrary, capricious, or contrary to law.  The
+Judge’s favorable findings under Guideline C have not been raised as an issue on appeal.  For the
+following reasons, the Board remands the Judge’s favorable security clearance determination.
+The Judge’s Pertinent Findings of Fact
+Applicant, who is in mid-50s, was born in the United Kingdom (U.K.), graduated from a
+military academy, held a British security clearance, and retired as a British military officer after
+more than 20 years of service.  While in the British military, he served as an exchange officer with
+the U.S. military for about two years and had a limited DoD security clearance.  After retiring from
+the military, Applicant and his family came to the United States.  Since then, he has been
+consistently employed by Federal contractors.  He, his wife, and his children became U.S. citizens
+in 2013 and 2014, and all of them reside in the United States.
+Under Guideline B, “[t]he SOR alleges that Applicant served as an officer in the British
+[military] . . . ; that he expected to inherit a share of his mother’s property . . . ; that he maintained
+contact with ‘many foreign nationals’ due to his U.K. citizenship and [British military service]; that
+he has friends . . . who are serving in the British Military; and that he possessed a security clearance
+from the U.K. . . .”  Decision at 6-7.      
+Applicant’s father is deceased.  His mother, who suffers from dementia, and his two brothers
+are citizens and residents of the U.K.  His mother’s home was sold to help pay her assisted-living
+expenses.  Applicant anticipates that he and his two brothers will split some cash when their mother
+passes away.  One of his brothers works at an educational institution and the other is self-employed
+as a used car salesman.  Applicant and his wife have about $220,000 equity in their home in the
+United States.  
+Applicant has infrequent contact with about nine retired British military officers and one
+high-ranking officer who is still on active duty.  He maintains close contact with a retired British
+1 Directive, Encl. 2, App. A ¶ 7(a) states “contact, regardless of method, with a foreign family member, business
+or professional associate, friend, or other person who is a citizen of or resident in a foreign country if that contact creates
+a heightened risk of foreign exploitation, inducement, manipulation, pressure, or coercion[.]”
+2
+brigadier general who was his classmate.  He maintains contact with a few former U.K. friends and
+neighbors.  He maintains occasional contact with a retired officer who had served as his second in
+command.  
+The Judge’s Analysis
+Department Counsel declined to submit a request for administrative notice of facts pertaining
+to the U.K.  While an administrative judge may sua sponte take administrative notice after providing
+the parties notice, a judge is neither obligated to gather information nor authorized to act as an
+investigator for either party.  The Judge concluded it would be inappropriate from him to assume
+the role as assistant department counsel to obtain evidence to contradict Applicant’s SOR answer
+or testimony.  The Judge further stated:
+AG ¶¶ 7(a) and 7(f)2 require a finding of a “heightened risk.”  Department Counsel
+declined to concede that “heightened risk” was not in issue.  (Tr. 14.)  However,
+notwithstanding the admonition in AG ¶ 6 that “[a]ssessment of foreign contacts and
+interests should consider the country in which the foreign contact or interest is
+located,” Department Counsel submitted no evidence, by way of administrative
+notice, stipulation of fact, or otherwise, to show that Applicant’s family members,
+friends, former colleagues, or financial interests in the United Kingdom subject him
+to a “heightened risk” of foreign inducement, exploitation, manipulation, pressure,
+or coercion.  I have considered whether Applicant’s status as a retired British
+[military] officer and his continued association with active and retired members of
+his [unit], standing alone, is sufficient to show the required “heightened risk.” 
+However, Department Counsel presented no evidence that the government of the
+United Kingdom, the U.K. intelligence services, or U.K.-based industries use retired
+military officers to obtain classified, sensitive, or proprietary information.  He
+presented no evidence of attempts by the United Kingdom or U.S.-based industries
+to circumvent U.S. restrictions on export of military or dual-use technology.  Hence,
+I conclude that these disqualifying conditions are not established.  To conclude
+otherwise would amount to speculation not supported by evidence.3  
+The Judge also stated that mitigating conditions applied even if a potential disqualifying condition
+were established.  Applicant’s family members in the U.K. are not in positions likely to cause a
+conflict of interest.  Moreover, Applicant has developed deep and longstanding relationships and
+loyalties to the United States.  Whatever inheritance he may receive is outweighed by his financial
+interests in the United States.  
+2 Directive, Encl. 2, App. A ¶ 7(f) states “substantial business, financial, or property interests in a foreign
+country, or in any foreign owned or foreign-operated business that could subject the individual to a heightened risk of
+foreign influence or exploitation or personal conflict of interest[.]”
+3 Decision at 8-9.
+3
+Discussion
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto Ins. Co., 463 U.S. 29, 43
+(1983) (quoting Burlington Truck Lines Inc. v. United States, 371 U.S. 156, 168 (1962)).  
+ “[N]o one has a right to a security clearance. . . The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of national security.’” Department of the
+Navy v. Egan, 484 U.S. 581, 528 (1988).  The Appeal Board may remand or reverse a Judge’s
+decision to grant, deny, or revoke a security clearance if it is arbitrary, capricious, or contrary to law. 
+Directive ¶¶ E3.1.32.2 and  E3.1.32.3.
+Department Counsel contends the Judge erred by concluding the Government failed to
+establish a “heightened risk” under Disqualifying Condition 7(a).  Department Counsel’s arguments
+center around the Judge’s analysis in the paragraph quoted above.   Department Counsel
+persuasively argues that the Judge overemphasized the lack of a request for an administrative notice
+of facts pertaining to the U.K.,4 failed to consider appropriately the nature of the foreign contacts
+4 Department Counsel takes exception to the Judge’s comments that noted the absence of a request for
+administrative notice of facts pertaining to the U.K.  Specially, Department Counsel stated, “the Administrative Judge
+asserted that it was incumbent upon the Government to seek administrative notice of country conditions in all Guideline
+B cases, regardless of the country involved.”  Appeal Brief at 6.  The Judge, however, did not make that specific
+assertion.  We view the Judge’s comments as an expression of frustration about the lack of evidence on an issue he was
+obliged to consider.  Guideline B provides that a Judge should consider the country in which the foreign contacts or
+interests are located.  Directive, Encl. 2, App. A ¶ 6.  The Judge noted the absence of evidence about the country
+concerned created a “vacuum.”  Decision at 8.  Without evidence submitted by either party that sets forth facts about
+the country concerned -- regardless of whether it is hostile, neutral, or friendly to the United States -- the Judge is left
+in a quandary about what facts he should consider about that country.  While the Judge acknowledged that he could sua
+sponte take administrative notice of facts about the country, he also noted the Directive does not authorize him to act
+as an investigator for either party and concluded it would be inappropriate for him to assume the role of assistant
+department counsel.  This is error.
+The Board has previously noted that an accurate and current assessment of the geopolitical situation and
+intelligence/security profile of the country vis-a-vis the United States is “crucial” in Guideline B cases.  See, e.g., ISCR
+Case No. 07-14508 at 4 (App. Bd. Oct. 22, 2008).   This requirement holds true even if one supposes that the ultimate
+conclusion regarding the country’s conduct and circumstances would not likely exacerbate the risks and vulnerabilities
+inherent in an applicant’s foreign contacts.  (Remember, also, that the risks attendant to the contacts may be heightened
+regardless of the country’s identity.)  The parties could have introduced pertinent evidence for official notice or through
+the ordinary course of the hearing.  Failing that, the Judge could have notified the parties of official documents he
+planned to notice regarding the country.  He could have given the parties an opportunity to respond, which, of course,
+would have delayed the processing of the case.  The Judge cannot, however, fail to do part of the required analysis
+because he is frustrated by the choices made by the litigants.  Furthermore, a Judge may not summarily consider the
+country concerned, conclude it does not have a profile of any security significance (e.g., it is a friendly nation to the
+United States, close ally, strategic partner, etc.), and decide not to make an assessment of it in the decision.  Such a
+situation is further exacerbated when the Judge is aware that the pertinent evidence is not in the record.  As we have
+previously stated, the Judge’s decision must be written in a manner that allows the parties and the Board to discern what
+findings the Judge is making and what conclusions he or she is reaching.  See, e.g., ISCR Case No. 16-02536 at 5 (App.
+Bd. Aug. 23, 2018).
+4
+involved in the case, and improperly placed the burden on the Government to prove matters not
+required under Guideline B.
+While it is important for the Judge to consider the foreign country in which the foreign
+contact is located in Guideline B cases, the “heightened risk” language in Disqualifying Condition
+7(a) addresses an applicant’s foreign contacts, not necessarily the foreign country involved.  See,
+e.g., ISCR Case No. 08-0448 at 4 (App. Bd. Apr. 23, 2009) and ISCR Case No. 08-09211 at 3-4
+(App. Bd. Jan. 21, 2010).  Depending upon the particular circumstances presented in a case, one or
+more foreign contacts located in even a foreign country that is friendly to the United States may
+create a “heightened risk” of foreign exploitation, inducement, manipulation, pressure, or coercion. 
+   
+In the past, we noted with approval a Judge’s analysis that concluded “heightened risk” is
+not a high standard to meet.  See, e.g., ISCR Case No. 12-05839 at 4 (App. Bd. Jul. 11, 2013)
+(“Heightened risk” is a “risk [that] is greater than the normal risk inherent in having a family
+member living under a foreign government.”).5  In the present case, Applicant graduated from a
+British military academy, held a British security clearance, and retired as a British military officer. 
+He testified:
+I have 20 years-odd service in the British [military] which, again, is close-knit, like
+any military organization, a close-knit community.
+And so, I retain friendship with probably about ten, if that, people.  Not that
+regularly.6
+He noted that most of those friends are now retired from the British military because of their age. 
+Tr. at 44.  One of his retired friends went to work for the British government.  Tr. at 57.  He was not
+sure whether some of them are still working in the defense industry or had left such jobs.  Id.  The
+In this regard, it also merits noting that we have previously cautioned Judges against reliance on overly
+simplistic distinctions between “friendly” and “hostile” nations when adjudicating cases under Guideline B.  We have
+recognized that an assumption that a foreign nation does not pose a serious security risk under Guideline B because it
+is friendly to the United States ignores the historical reality that (a) relations between nations can shift, sometimes
+dramatically and unexpectedly; (b) even friendly nations can have profound disagreements with the United States over
+matters that they view as important to their vital interests or national security; and (c) not all cases of espionage against
+the United States have involved nations that were hostile to the United States.  Any analysis that seeks to rely in part on
+distinctions between “friendly” and “hostile” nations must articulate a rational explanation for why the distinction is
+relevant when Guideline B fails to articulate such a distinction.  See, e.g., ISCR Case No. 00-0317 at 6 ( App. Bd. Mar.
+29, 2002). 
+5 The Judge in present case has used a similar “heightened risk” analysis standard in the past.  See, e.g.,  ISCR
+Case No. 17-03623 at 7 (A.J. Jul. 27, 2018) (“AG ¶¶ 7(a), (e), and (f) all require substantial evidence of a ‘heightened
+risk.’  The ‘heightened risk’ required to raise one of these disqualifying conditions is a relatively low standard. 
+‘Heightened risk’ denotes a risk greater than the normal risk inherent in living under a foreign government.”)  
+6 Tr. at 43.
+5
+Judge also found Applicant maintains occasional contact with a retired officer who had served as
+his second in command and maintains close contact with a classmate who is a retired British
+brigadier general.  Most importantly, however, one of Applicant’s friends, a high-ranking British
+officer, remains on active duty.  While Applicant and the high-ranking officer do not keep in regular
+contact, they served together in the same regiment and were neighbors at one point.  Furthermore,
+Applicant testified that, in the recent past, he attended a three-day meeting in which he was
+“representing the U.S. government and my program management office” and the high-ranking
+officer was also in attendance.  He and the high-ranking officer talked on that occasion, but the
+substance of their discussions are not reflected in the record.  Tr. at 44-45 and 57-58.  In the
+decision, the Judge did not make findings of fact that Applicant and his high-ranking British friend
+were both involved in defense matters of mutual interest to the United States and the U.K. and they
+had interacted with each other at an event involving such matters.7  When viewed in its entirety, the
+record supports a determination that the Judge erred in concluding that Applicant’s foreign contacts
+do not create a “heightened risk” of foreign exploitation, inducement, manipulation, pressure, or
+coercion. 
+Department Counsel also challenges the Judge’s apparent conclusion that disqualifying
+conditions were not established because the Government presented no evidence that the U.K., its
+intelligence services, or its industries use retired military officers to obtain U.S. classified, sensitive,
+or proprietary information.  Department Counsel’s challenge has merit.  The Judge’s conclusion in
+this case has the practical effect of requiring Department Counsel prove affirmatively that the U.K.
+specifically target U.S. citizens to gather protected information.  The Directive does not require the
+Government to prove affirmatively that a country specifically targets U.S. citizens in order to raise
+Guideline B security concerns.  See, e.g., ISCR Case No. 08-09211 at 3.  See also, our discussion
+in Footnote 4 of this Decision. 
+Although the Judge concluded that none of the Guideline B disqualifying conditions were
+established, he conducted an “even-if-they-were-established” mitigation analysis and concluded 
+certain mitigating conditions applied.  His mitigation analysis, however, is flawed because it does
+not address Applicant’s contacts with retired and active duty British military officers.  From our
+review of the record, the Judge’s errors identified above are harmful and warrant corrective action. 
+Accordingly, we conclude the best resolution of this case is to remand the case to the Judge for
+7  In this  case, the Judge also concluded that Disqualifying Condition 7(b) was not established.  Decision at
+9.  However, Applicant’s testimony about his high-ranking British friend presents a classic conflict of interest situation
+under Disqualifying Condition 7(b), which states, “connections to a foreign person, group, government, or country that
+create a potential conflict of interest between the individual's obligation to protect classified or sensitive information
+or technology and the individual's desire to help a foreign person, group, or country by providing that information or
+technology[.]” [Emphasis added.]  As a general proposition, individuals must avoid situations in which their personal
+interests may conflict with their responsibilities to protect U.S. classified or sensitive information.  When a U.S. security
+clearance holder and his or her foreign friend represent their respective countries in a matter of interest to both countries,
+there exists, at the very least, a potential conflict of interest under Disqualifying Condition 7(b).  In this case, the record
+is silent about what, if any, action Applicant took to disclose this apparent conflict of interest to appropriate U.S.
+authorities and what, if any, other precautionary measures may have been taken.     
+6
+correction of the errors and for further processing consistent with the Directive.  On remand, the
+Judge is permitted to reopen the record on the motion of either party.
+7
+Order
+The Decision is REMANDED.  
+Signed: Michael Ra’anan            
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody             
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+8

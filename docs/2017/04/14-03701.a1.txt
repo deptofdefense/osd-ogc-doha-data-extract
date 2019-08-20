@@ -1,0 +1,137 @@
+KEYWORD:  Guideline E
+DIGEST:  The disqualifying conditions listed under each guideline are illustrative only, not
+exhaustive and exclusive.  They provide an analytical framework for decision-making but are not
+to be applied in the strict manner required of criminal statutes.  Indeed, it is not anomalous for a
+Judge to conclude that none of the listed disqualifying conditions strictly apply yet nevertheless
+conclude that an applicant’s conduct raises concerns under the guideline at issue.  A Judge must
+bring common sense to his decision making and must place national security over other
+competing considerations.  Adverse decision affirmed.
+CASE NO:  14-03701.a1
+DATE:  04/12/2017
+DATE:  April 12, 2017
+In Re:
+------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-03701
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+James D. DelSordo, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+April 6, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline E (Personal Conduct) of Department of Defense
+Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On January
+26, 2017, after the hearing, Defense Office of Hearings and Appeals (DOHA) Administrative Judge
+Juan J. Rivera denied Applicant’s request for a security clearance.  Applicant appealed pursuant to
+Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in concluding that
+his conduct raised Guideline E security concerns and whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact
+Applicant works for a Defense contractor.  He served in the U.S. military from 1997 until
+2012, rising to the grade of E-6.  In 2011, Applicant participated in a hazing incident with five other
+members, in which the victim was stripped naked, restrained, photographed, and assaulted, including
+an indecent assault in which one of the assailants placed his genitals on the victim’s forehead.  At
+the time of the incident, Applicant was 31 years old and had been in the military for 13 years.  He
+had received yearly training on the military’s policies forbidding hazing, sexual harassment, sexual
+misconduct, and the misuse of alcohol.  Applicant knew that hazing was illegal.
+As a consequence of his misconduct, Applicant was brought to a summary court-martial,
+where he pled guilty to violating a general order (hazing), indecent acts, and assault consummated
+by a battery.  After his conviction, the military administratively discharged Applicant under Other
+Than Honorable Conditions.  Between the time of the incident and his discharge in 2012, Applicant
+continued to perform his duties.  The military did not revoke his security clearance.
+Applicant had no other infractions or problems with the law after this incident.  His current
+supervisor commended his duty performance and characterized him as reliable and trustworthy.  His
+commanding officer at the time of his misconduct, who is now an 0-6, stated that Applicant was an
+outstanding military member.  He considers Applicant to be trustworthy and able properly to handle
+classified information.  He stated that Applicant has paid for his mistake.
+The Judge’s Analysis
+The Judge concluded that Applicant’s misconduct satisfies the statement of concern under
+Guideline E1 and disqualifying condition 16(d).2  In evaluating Applicant’s case for mitigation, the
+Judge noted his age and rank at the time of the offense as well as the circumstances underlying it. 
+He cited to evidence that Applicant engaged in his misconduct despite regular training regarding the
+military’s ban on hazing.  He also noted that at the time of the incident Applicant was in a position
+of leadership, responsible for the care of those serving under him and for the enforcement of rules
+and regulations.  Though acknowledging the positive evidence that Applicant submitted, the Judge
+concluded that abuse of a fellow military member that occurred over a 60 to 90 minute period and
+that constituted serious criminal misconduct precluded a favorable decision.
+1 Directive, Enclosure 2 ¶ 15 
+2Directive, Enclosure 2 ¶ 16(d).
+Discussion
+Applicant challenges the Judge’s application of disqualifying condition 16(d).   He contends
+that none of the criteria set forth in this subparagraph have been satisfied.
+We note first of all that the Directive presumes a nexus between admitted or proved conduct
+under any of the guidelines and an applicant’s eligibility for a clearance.  See, e.g., ISCR Case No.
+15-02903 at 2 (App. Bd. Mar. 9, 2017).  In this case, Applicant admitted each allegation set forth
+in the SOR, thereby giving rise to this presumption.  Moreover, the disqualifying conditions listed
+under each guideline are illustrative only, not exhaustive and exclusive.  See, e.g.,  ISCR Case No.
+12-01698 at 4 (App. Bd. Jun. 13, 2014).  They provide an analytical framework for decision-making
+but are not to be applied in the strict manner required of criminal statutes.  Indeed, it is not
+anomalous for a Judge to conclude that none of the listed disqualifying conditions strictly apply yet
+nevertheless conclude that an applicant’s conduct raises concerns under the guideline at issue.  A
+Judge must bring common sense to his decision making and must place national security over other
+competing considerations.  Id.
+Disqualifying condition 16(d) provides as follows:
+[C]redible adverse information that is not explicitly covered under any other
+guideline and may not be sufficient by itself for an adverse determination, but which,
+when combined with all available information supports a whole-person assessment
+of questionable judgment, untrustworthiness, unreliability, lack of candor,
+unwillingness to comply with rules and regulations, or other characteristics
+indicating that the person may not properly safeguard protected information.  This
+includes but is not limited to consideration of . . . disruptive, violent, or other
+inappropriate behavior in the workplace[.]  
+Applicant argues that this condition does not apply because, among other things, he was not
+on duty at the time of the offense, as a consequence of which his acts did not occur in the workplace. 
+However, Applicant was a member of the U.S. military in an area subject to military command and
+control.  Applicant and his fellow service members could have been required to perform military
+operations at a moment’s notice, and distinctions between on-duty and off-duty conduct have little
+purchase under the kind of circumstances that routinely confront members of the armed forces. 
+Moreover, Applicant was expected to enforce standards irrespective of duty status, a requirement
+of which he was aware, and failed to do so.  The seriousness of his infraction can be gauged by his
+receipt of an Other than Honorable Conditions discharge.  Given the totality of the evidence, we find
+no reason to disturb the Judge’s conclusion that Applicant’s violent conduct raised serious questions
+about his willingness to comply with rules and regulations.  In particular, we find no reason to
+disturb the Judge’s conclusion that 16(d) provides a suitable framework for addressing the essential
+nature of Applicant’s security-significant conduct.  We resolve this assignment of error adversely
+to Applicant.3
+3We also note, as stated above, that the Judge cited to the Guideline E statement of concern:  “Conduct
+involving questionable judgment . . . or unwillingness to comply with rules and regulations can raise questions about
+an individual’s reliability, trustworthiness and ability to protect classified information.”  This language captures
+In challenging the Judge’s mitigation analysis, Applicant cites to his otherwise clean
+disciplinary record and to the favorable opinions of his supervisor and his former commander.  The
+Judge made findings about these matters.  However, given the seriousness of his misconduct,
+Applicant has not demonstrated that the Judge weighed the record evidence in a manner that was
+arbitrary, capricious, or contrary to law.   See, e.g., ISCR Case No. 15-08842 at 3 (App. Bd. Feb. 14,
+2017).
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision, both as to the disqualifying conditions and the mitigating conditions.  The decision is
+sustainable on this record.  “The general standard is that a clearance may be granted only when
+‘clearly consistent with the interests of the national security.’”  Department of the Navy v. Egan, 484
+U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt concerning personnel
+being considered for access to classified information will be resolved in favor of the national
+security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan       
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody        
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: William S. Fields       
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Applicant’s misconduct in hazing a military member.  

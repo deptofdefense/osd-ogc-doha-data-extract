@@ -1,0 +1,145 @@
+KEYWORD: Guideline B
+DIGEST: A paucity of evidence concerning a security-significant matter may undermine an
+applicant’s ability to meet their burden of mitigation.  Adverse decision affirmed.
+CASENO: 12-00084.a1
+DATE: 05/22/2014
+DATE: May 22, 2014
+In Re:
+-------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 12-00084
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Elizabeth L. Newman, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+September 3, 2013, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline B (Foreign Influence) of Department of
+2
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.
+On February 28, 2014, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Jennifer I. Goldstein denied Applicant’s request for a security clearance.
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in concluding that
+Applicant’s circumstances raised security concerns and whether the Judge’s decision was arbitrary,
+capricious, or contrary to law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact
+Born and raised in the U.S., Applicant has worked for a Government contractor since 1990
+and has held a security clearance since the mid-1980s.  His wife was born and raised in Taiwan,
+becoming a naturalized U.S. citizen a few years ago.  She retains dual citizenship with Taiwan,
+although she uses a U.S. passport when she travels.  All members of Applicant’s own family are
+residents and citizens of the U.S.   However, Applicant’s parents-in-law are citizens and residents
+of Taiwan, as are his wife’s two siblings, her cousin, and her uncle.  Applicant’s wife speaks with
+her mother once a week by telephone, and she and Applicant visit her parents annually.  These visits
+are Applicant’s only contact with his parents-in-law.  One of Applicant’s wife’s siblings works for
+an agency of the government of Taiwan.  The Judge found that “[t]he record is void of detailed
+information about the structure and purpose of the specific investigative agency for which [the
+sibling] works.”  Decision at 3.  Applicant has in-person contact with this in-law every couple of
+years.  Due to a language barrier, there is no direct communication between Applicant and this
+person.  Applicant’s other sibling-in-law speaks English, and his wife communicates with this
+person frequently, as the two are very close.  Applicant and his wife go to Taiwan annually, staying
+at the home of the parents-in-law for approximately two-weeks.  Applicant reports all his foreign
+trips to the facility security officer (FSO).
+Applicant and his wife have assets in the U.S. valued at over $1,500,000.  They have no
+delinquent debt.  Applicant is “the foremost expert” in his profession, who enjoys an excellent
+reputation for honesty, integrity, and loyalty to the U.S.  He recently won a prestigious award from
+his employer.  His performance appraisals evidence superb duty performance.  He receives annual
+training on industrial espionage.
+The U.S. has recognized the People’s Republic of China (PRC) as the sole legal government
+in China.  However, the U.S. maintains unofficial relations with Taiwan and has provided it with
+some military technology.  Taiwan has been identified as an active collector of U.S. economic
+intelligence.  There have been several cases involving the illegal export of U.S. restricted technology
+to Taiwan, including a criminal conviction of a high-ranking official with the U.S. Department of
+State for illegally removing classified materials.  The PRC maintains intelligence operations in
+Taiwan through a bureau utilizing PRC nationals with Taiwanese connections.
+The Judge’s Analysis
+1Directive, Enclosure 2 ¶ 7(a): “contact with a foreign family member . . . who is a citizen of or resident in a
+foreign country if that contact creates a heightened risk of foreign exploitation, inducement, manipulation, pressure, or
+coercion[.]”  
+2Directive, Enclosure 2 ¶ 7(d): “sharing living quarters with a person or persons, regardless of citizenship status,
+if that relationship creates a heightened risk of foreign inducement, manipulation, pressure, or coercion[.]”  
+3
+The Judge concluded that Applicant’s circumstances raised concerns under Guideline B.  She
+cited to evidence that Applicant has numerous in-laws living in a country that actively collects
+industrial information and engages in industrial espionage.  She stated that Applicant’s connections
+with his in-law who works for the Taiwanese government could create a potential conflict of interest
+and that his wife’s close relationship with her family members in Taiwan also poses a heightened
+risk of coercion.
+In evaluating Applicant’s case for mitigation, the Judge acknowledged that he had lived his
+entire life in the U.S. and that all members of his own extended family reside here; that he is a major
+contributor to his employer’s success; and that he communicates with his wife’s relatives
+infrequently because of the language barrier.  She also noted that Applicant has reported his foreign
+travels and other pertinent information to his FSO.  However, the Judge stated that there was
+insufficient record evidence concerning the governmental job of Applicant’s Taiwanese sibling-in-
+law, and of the employing agency itself, to permit a conclusion that Applicant would not likely be
+placed in a conflict of interest or that he would not otherwise be subjected to a heightened risk for
+foreign exploitation.
+Discussion
+Applicant challenges the Judge’s conclusion that his circumstances raised Guideline B
+concerns.  He argues that the language barrier between himself and his in-laws precludes a
+reasonable possibility that they could become a means through which he might compromise
+classified information.  He cites to evidence of his long-standing ties within the U.S. and argues that
+the sibling-in-law who works for the government of Taiwan does not pose a heightened risk of
+coercion.  He also states that there is no evidence of terrorist activity in Taiwan.  While
+acknowledging evidence and the Judge’s findings about Applicant’s connections in the U.S., we
+note prior cases in which we stated that in-laws can present a security risk.  “[T]here is a rebuttable
+presumption that a person has ties of affection for, or obligation to, the immediate family members
+of the persons’ spouse.”  ISCR Case No.12-07647 at 3 (App. Bd. Nov. 7, 2013).  In this case,
+Applicant’s wife has extensive family connections in Taiwan, with at least some of whom she is
+close and with whom she communicates frequently.  This evidence, considered in light of the
+Judge’s findings about the in-law who works for the Taiwanese government and about Taiwan’s
+history of industrial espionage, are sufficient to raise the “heightened risk” element of DC 7(a)1 and
+(d).2  See, e.g., ISCR Case No. 08-04488 at 4 (App. Bd. Apr. 23, 2009).  As we have stated
+elsewhere, the Government is not required to prove a direct nexus between an applicant’s
+circumstances and the concern addressed by Guideline B.  See, e.g., ISCR Case No. 09-05812 at 3
+(App. Bd. Dec. 1, 2011).  Rather, a Judge is required to examine the nature and extent of foreign
+4
+contacts, taking into account evidence of the geopolitical situation of the foreign country involved.
+The Judge’s conclusion that the record raises security concerns is supportable.
+In evaluating Applicant’s case for mitigation, the Judge placed particular emphasis on the
+Taiwanese government employee.  While record evidence about this person is sparse, it was
+Applicant who bore the burden of persuasion as to mitigation of the concerns raised in the SOR.
+Directive ¶ E3.1.15.  A paucity of evidence concerning a security-significant matter may well
+undermine an applicant’s ability to meet this burden.  See, e.g., ISCR Case No. 11-03452 at 6 (App.
+Bd. Jun. 6, 2012).  Given the totality of evidence concerning Applicant’s family connections in a
+country that practices economic espionage against the U.S. and in which PRC intelligence operatives
+are at work, we cannot say that the Judge’s evaluation of the circumstances surrounding this in-law
+was erroneous.  It is a reasonable concern that a relative who works for a foreign government could
+be a means through which an applicant might be subjected to coercion.  The Judge’s adverse
+decision reflects a supportable conclusion that Applicant failed to provide sufficient evidence about
+this in-law to meet his burden of persuasion under the standard set forth in  Department of the Navy
+v. Egan, 484 U.S. 518, 528 (1988):  “The general standard is that a clearance may be granted only
+when ‘clearly consistent with the interests of the national security.’”  We have considered the
+entirety of Applicant’s brief and find therein no basis to overturn the Judge’s decision.  We note his
+argument that there is no evidence of terrorist activity in Taiwan.  However, terrorists are not the
+only ones who might be interested in acquiring U.S. protected information.   
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “Any doubt concerning personnel being
+considered for access to classified information will be resolved in favor of the national security.”
+Directive, Enclosure 2 ¶ 2(b).
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan               
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett                  
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+5
+Signed: James E. Moody                   
+James E. Moody
+Administrative Judge
+Member, Appeal Board

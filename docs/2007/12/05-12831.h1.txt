@@ -1,0 +1,352 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+               DATE: December 4, 2007     
+ 
+  
+  
+In re: ) 
+ ) 
+            ----------------------------                                          ) ISCR Case No. 05-12831 
+ SSN: ----------------                                              )
+ ) 
+Applicant for Security Clearance ) 
+ )
+                                                                                           ) 
+ 
+ 
+ 
+ 
+ 
+DECISION OF ADMINISTRATIVE JUDGE 
+JUAN J. RIVERA 
+ 
+ 
+ 
+APPEARANCES 
+ 
+FOR GOVERNMENT 
+Emilio Jaksetic, Esq., Department Counsel 
+ 
+FOR APPLICANT 
+Jon L. Roberts, Esq. 
+ 
+ 
+SYNOPSIS 
+ 
+Applicant is a 48-year-old senior network administrator. In 1994, he stole and sold 
+computer parts from his employer. Notwithstanding the passage of time and his otherwise good 
+behavior and employee record, his current lack of credibility creates doubts about his judgment, 
+reliability, and trustworthiness. His favorable information is not sufficient to mitigate the overall 
+personal conduct security concerns. Clearance is denied. 
+ 
+                                                                                                                                          
+ 
+2
+STATEMENT OF THE CASE 
+ 
+On October 25, 2004, Applicant submitted a security clearance application (GE 1).1 On 
+July 12, 2007, the Defense Office of Hearings and Appeals (DOHA) issued Applicant a 
+statement of reasons (SOR) alleging facts and security concerns under Guideline E (Personal 
+Conduct) and Guideline J (Criminal Conduct). The SOR informed Applicant that DOHA 
+adjudicators could not make a preliminary affirmative finding that it is clearly consistent with the 
+national interest to grant him access to classified information and submitted the case to an 
+administrative judge for a security determination.2 On July 23, 2007, Applicant answered the 
+SOR and requested a hearing.  
+ 
+The case was assigned to me on September 4, 2007. On September 7, 2007, I scheduled 
+the hearing for September 28, 2007. The hearing was convened as scheduled. The government 
+presented four exhibits, marked GE 1-4, to support the SOR. GEs 1 and 2 were admitted without 
+objection. GEs 3 and 4 were admitted over Applicant’s objection. Applicant testified on his own 
+behalf, and presented three witnesses and seven exhibits, marked AE 1-7. AE 1-6 were admitted 
+without objection. AE 7 was admitted over the Government’s objection. DOHA received the 
+transcript (Tr.) on October 9, 2007. 
+ 
+ 
+FINDINGS OF FACT 
+ 
+Applicant admitted the factual allegation in SOR ¶ 1.a. He denied SOR ¶¶ 1.b and 2.a. 
+His admission is incorporated herein as a finding of fact. After a thorough review of all evidence 
+of record, particularly his demeanor and testimony, I make the following additional findings of 
+fact.  
+   
+Applicant is a 48-year-old senior network administrator.3 He enlisted in the U.S. Navy in 
+May 1980, achieved the rank of petty officer first class (pay grade E-6), and was honorably 
+discharged in May 1986. After his discharge, Applicant continued working for the Department of 
+Defense (DOD) as a civilian employee until March 1990. He had access to classified information 
+at the secret level while serving in the Navy and as a DOD civilian employee. There is no 
+evidence of misconduct, questionable behavior, or that Applicant failed to comply with rules and 
+regulations concerning the protection of classified information while employed by the DOD. 
+ 
+                                                          
+1  Office of Personnel Management, Security Clearance Application, Standard Form (SF) 86. 
+ 
+2  See Executive Order 10865, Safeguarding Classified Information Within Industry (Feb. 20, 1960, as 
+amended, and Department of Defense Directive 5220.6, Defense Industrial Personnel Security Clearance Review 
+Program (Jan. 2, 1992) (Directive), as amended and revised. On August 30, 2006, the Under Secretary of Defense 
+(Intelligence) published a memorandum directing application of revised Adjudicative Guidelines (AG) to all 
+adjudications and other determinations made under the Directive and Department of Defense (DoD) Regulation 
+5200.2-R, Personnel Security Program (Regulation), dated January 1987, as amended, in which the SOR was issued 
+on or after September 1, 2006.  
+ 
+3  GE 1, unless otherwise indicated, is the source for the facts in this paragraph. 
+ 
+                                                                                                                                          
+ 
+3
+Applicant married his wife in October 1987, and apparently they have no children. He 
+attended college from September 1996 to June 1995; however, it is not clear whether he 
+completed a degree. 
+ 
+In March 1990, Applicant was hired by a computer/information technology company as a 
+sustaining engineer. He worked at the company’s “final test department” where he and others he 
+supervised tested single in-line memory module (SIMM) chips (computer memory chips) for 
+quality control. He kept and accumulated in his desk drawer SIMM chips that failed the quality 
+control tests. The company had no recycle system, and the faulty chips were thrown in the 
+garbage. Although the SIMM chips did not meet the quality required for the company’s 
+equipment and applications, the chips worked for DOS system computers. 
+ 
+In 1993, Applicant advertised for sale on the Internet some of the SIMM chips he had 
+accumulated. He sold to an Internet buyer around 20 SIMM chips for approximately $500-
+$1,000. Applicant had sold other personally-owned computer parts to this same buyer in the past. 
+In October-November 1994, Applicant sold to the same buyer approximately 60 SIMM chips for 
+$5,000. He mailed the chips to the buyer through UPS. The mailing required delivery 
+confirmation and $5,000 cash on delivery. Applicant insured the package for $5,000. After two 
+weeks, Applicant received a $5,000 check from the buyer. He claimed the check at the UPS 
+office and was required the signature of the UPS office manager to cash the check at a bank. 
+After cashing the check, Applicant spent around $1,300 and kept the remainder of the money in 
+his car. He testified that once he cashed the check, he “realized that it was not a good thing, and 
+[he] I was embarrassed or scared” about going home to his wife with $5,000 cash (Tr. 217). 
+ 
+Approximately one month after receipt of the check, Applicant was confronted by an 
+agent of the Federal Bureau of Investigations (FBI), a local law enforcement officer, and one of 
+his company supervisors about the sale of the SIMM chips. The FBI had been called to assist the 
+company to investigate industrial espionage concerning other proprietary custom hardware sold 
+by Applicant’s employer. Applicant was aware of the industrial espionage threat against his 
+company because the concern was discussed in company meetings.  
+ 
+During the law enforcement interview, Applicant provided a statement in which he 
+admitted knowing that the SIMM chips he sold were the property of his company, and that he 
+had no authority to sell them (GE 2). Applicant sold the SIMM chips because he believed the 
+company owed him money. His job status had been changed to a supervisor position and he was 
+earning $10,000 less a year because he was no longer entitled to overtime pay. After he was 
+questioned by the FBI, Applicant reimbursed the $5,000 he received from the sale of the SIMM 
+chips to his company. He was not arrested or charged as a result of his sale of the SIMM chips. 
+After the investigation, he was fired from his job and required to cooperate with law 
+enforcement. 
+ 
+At his hearing, Applicant disputed parts of the December 1994 statement he provided to 
+the FBI agent. He claimed he sold SIMM chips only one time in the October-November 1994 
+period. He claimed at the time of the sale he believed the company had no interest in the SIMM 
+chips because they were being thrown away into the garbage (Tr. 160-161); that he did not know 
+the value of the SIMM chips; that he only asked the buyer to pay him what he thought was fair 
+ 
+                                                                                                                                          
+ 
+4
+(Tr. 151); that he did not negotiate the price of the chips and was surprised he received $5,000 in 
+payment; that he was not upset with the company changing his job status (Tr. 158); and that he 
+did not lose earnings as a result of his change in status in the company.  
+ 
+After he was fired from his job in 1994, Applicant worked for two different companies as 
+an administrator of information technology projects, and then as a senior administrator. In 2000, 
+Applicant began working for another company as a senior consultant. During the summer of 
+2003, he took scheduled leave with his family. When Applicant returned to work from his 
+scheduled leave, he was fired from his job. He was fired because it had been too difficult for 
+clients and company personnel to reach him over the telephone/e-mail while he was on vacation. 
+Applicant’s evidence shows that before he was fired from his job, he was considered a valued 
+employee and respected for his knowledge and work ethic by his co-workers and supervisors. At 
+the time, the company was downsizing due to economic problems and had let go most of its 
+employees. Applicant believed the real reason he was fired was because the company was 
+reducing its employees. Considering the evidence as a whole, I find that the circumstances under 
+which Applicant was fired from his job in 2003 fail to raise security clearance concerns. 
+ 
+In October 2003, Applicant was hired by his current employer, a DOD contractor. He is 
+the senior network administrator and the information security systems manager for his company. 
+He has had access to classified information at the secret level since January 2004 (Tr. 133). 
+Applicant has not been involved in any misconduct or questionable behaviour since the sale of 
+the SIMM chips in 1994. There is no evidence, and the Government did not allege that Applicant 
+was involved in any misconduct or questionable behavior prior to or after the 1993-1994 sale of 
+SIMM chips. Moreover, there is also no evidence to suggest Applicant did not follow rules and 
+regulations pertaining to the handling of classified information when he had access to classified 
+information while working for DOD, or since 2004 while working for his current employer.  
+ 
+Applicant’s character witnesses consider him to be a top level performer, dependable, 
+professional, diligent, conscientious, detail oriented, and very security conscious. In their 
+opinion, Applicant displays good judgment and is extremely careful with classified information. 
+He has proven himself to be a reliable employee with exemplary work habits. 
+ 
+ 
+POLICIES 
+ 
+The Revised Adjudicative Guidelines sets forth adjudicative guidelines which must be 
+considered in evaluating an Applicant’s eligibility for access to classified information. Foremost 
+are the disqualifying and mitigating conditions under each adjudicative guideline applicable to 
+the facts and circumstances of the case. However, the guidelines are not viewed as inflexible 
+ironclad rules of law. The presence or absence of a disqualifying or mitigating condition is not 
+determinative of a conclusion for or against an Applicant. Each decision must also reflect a fair 
+and impartial common sense consideration of the factors listed in Section 6.3 of the Directive, 
+and the whole person concept.4 Having considered the record evidence as a whole, I conclude 
+                                                          
+4  AG ¶ 2(a) provides, “. . . The adjudication process is the careful weighing of a number of variables 
+known as the whole person concept. Available, reliable information about the person, past and present, favorable 
+and unfavorable, should be considered in reaching a determination. . . .”  
+ 
+                                                                                                                                          
+ 
+5
+Guideline E (Personal Conduct) and Guideline J (Criminal Conduct) are the applicable, relevant 
+adjudicative guidelines. 
+ 
+ 
+BURDEN OF PROOF 
+ 
+  The purpose of a security clearance decision is to resolve whether it is clearly consistent 
+with the national interest to grant or continue an applicant’s eligibility for access to classified 
+information.5 The government has the initial burden of proving controverted facts alleged in the 
+SOR. To meet its burden, the government must establish a prima facie case by substantial 
+evidence.6 The responsibility then shifts to the applicant to refute, extenuate or mitigate the 
+government’s case. Because no one has a right to a security clearance, the applicant carries the 
+ultimate burden of persuasion.7  
+ 
+  A person who has access to classified information enters into a fiduciary relationship 
+with the government based on trust and confidence. The government, therefore, has a compelling 
+interest to ensure each applicant possesses the requisite judgment, reliability and trustworthiness 
+of one who will protect the national interests as his or her own. The “clearly consistent with the 
+national interest” standard compels resolution of any reasonable doubt about an applicant’s 
+suitability for access to classified information in favor of protecting national security.8 
+ 
+ 
+CONCLUSIONS 
+  
+  Under Guideline E (Personal Conduct), conduct involving questionable judgment, lack of 
+candor, dishonesty, or unwillingness to comply with rules and regulations can raise questions 
+about an individual=s reliability, trustworthiness and ability to protect classified information. Of 
+special interest is any failure to provide truthful and candid answers during the security clearance 
+process or any other failure to cooperate with the security clearance process. AG & 15. 
+ 
+  In 1993-1994, Applicant, without authority, took approximately 80 SIMM chips from his 
+employer and sold them for personal profit. His actions show poor judgment, unreliability, and 
+dishonesty. In 1994, he provided a statement to law enforcement officers describing the 
+circumstances of his actions. In his May 2007 response to DOHA interrogatories (GE 3), 
+Applicant recanted his 1994 statement to the FBI agent. His testimony at the hearing was 
+consistent with his answers to the DOHA interrogatories. I find Applicant’s recantation and 
+                                                                                                                                                                                           
+ 
+5  See Department of the Navy v. Egan, 484 U.S. 518, 531 (1988). 
+ 
+6  Directive, ¶ E3.1.32.1; ISCR Case No. 02-12199 at 3 (App. Bd. Apr. 3, 2006) (Substantial evidence is 
+such relevant evidence as a reasonable mind might accept as adequate to support a conclusion in light of all the 
+contrary evidence in the record); ISCR Case No. 98-0761 at 2 (App. Bd. Dec. 27, 1999) (Substantial evidence is 
+more than a scintilla, but less than a preponderance of the evidence). 
+ 
+7  Egan, supra n. 5, at 528, 531. 
+ 
+8  See id; AG ¶ 2(b). 
+ 
+ 
+                                                                                                                                          
+ 
+6
+testimony not credible in light of his 1994 statement, and the SIMM chips’ mailing receipt. He 
+was not forthcoming with his answers, and was evasive when explaining his 1993-1994 
+misconduct.  
+ 
+  Disqualifying Conditions (DC) ¶ 16(d): credible adverse information that is not explicitly 
+covered under any other guideline and may not be sufficient by itself for an adverse 
+determination, but which, when combined with all available information supports a whole-
+person assessment of questionable judgment, untrustworthiness, unreliability, lack of candor, 
+unwillingness to comply with rules and regulations, or other characteristics indicating that the 
+person may not properly safeguard protected information. This includes but is not limited to 
+consideration of: (1) untrustworthy or unreliable behavior, and (DC) ¶ 16(e): personal conduct, 
+or concealment of information about one's conduct, that creates a vulnerability to exploitation, 
+manipulation, or duress, such as (1) engaging in activities which, if known, may affect the 
+person's personal, professional, or community standing . . . , apply. 
+ 
+It has been 13 years since Applicant’s misconduct, and there is no evidence that he 
+engaged in any misconduct or questionable behavior prior to, or after the 1993-1994 incidents. 
+Based on the available evidence, except for the larceny of the SIMM chips, Applicant has been 
+an upstanding husband, employee, and citizen. Moreover, there is also no evidence to suggest 
+Applicant does not follow rules and regulations pertaining to the handling of classified 
+information. Under normal circumstances, Personal Conduct Mitigating Condition AG ¶ 17(c): 
+the offense is so minor, or so much time has passed, or the behavior is so infrequent, or it 
+happened under such unique circumstances that it is unlikely to recur and does not cast doubt on 
+the individual's reliability, trustworthiness, or good judgment, would apply and would have 
+mitigated the Guideline E concern. 
+ 
+Considering the totality of the circumstances in his case, however, Applicant’s failure to 
+provide truthful and candid answers at his hearing (and in his answers to the DOHA 
+interrogatories) create doubts as to his judgment, reliability, and trustworthiness. I find that 
+Applicant’s recent lack of honesty and credibility undercut his claims of successful 
+rehabilitation. Moreover, it shows Applicant is still potentially susceptible to pressure or 
+coercion resulting from his 1993-1994 behavior. Some of his character references were not 
+aware of his past questionable behavior. He could be susceptible to manipulation or coercion in 
+order to cover his past questionable judgment and his embarrassing behavior.  
+ 
+Under Guideline J (Criminal Conduct), criminal activity creates doubt about a person=s 
+judgment, reliability, and trustworthiness. By its very nature, it calls into question a person=s 
+ability or willingness to comply with laws, rules, and regulations. AG ¶ 30. In 1993-1994, 
+Applicant, without authority, took from his employer SIMM chips and sold them for personal 
+profit. He knew or should have known that his actions were illegal, and the taking was with the 
+intent to permanently deprive his employer of the use of the chips. Disqualifying Condition (DC) 
+¶ 31(a): a single serious crime or multiple lesser offenses and DC ¶ 31(c): allegation or 
+admission of criminal conduct regardless of whether the person was formally charged, formally 
+prosecuted or convicted, apply. 
+ 
+It has been 13 years since Applicant’s misconduct, and there is no evidence that he 
+engaged in similar questionable behavior prior to, or after 1994. Criminal Conduct Mitigating 
+Conditions AG ¶ 32(a): so much time has elapsed since the criminal behavior happened, or it 
+ 
+                                                                                                                                          
+ 
+7
+happened under such unusual circumstances that it is unlikely to recur and does not cast doubt 
+on the individual's reliability, trustworthiness, or good judgment; applies. I considered AG ¶ 
+32(d): there is evidence of successful rehabilitation; including but not limited to the passage of 
+time without recurrence of criminal activity, remorse or restitution, job training or higher 
+education, good employment record, or constructive community involvement, and determined it 
+does not apply. As discussed under Guideline E, Applicant’s lack of credibility and 
+trustworthiness undercut his evidence of successful rehabilitation. On balance, however, I find 
+Applicant has mitigated the Guideline J concerns. 
+ 
+  I have carefully weighed all evidence, and I applied the disqualifying and mitigating 
+conditions as listed under the applicable adjudicative guidelines. I applied the whole person 
+concept. I specifically considered Applicant’s age (both at the time he committed the offense and 
+currently), education, maturity, his years working for DOD and a defense contractor, his job 
+performance, qualifications, and his demeanor and testimony. Considering the totality of 
+Applicant’s circumstances, his favorable information fails to convince me that it is clearly 
+consistent with national security to grant him access to classified information. He has failed to 
+mitigate the security concerns raised by his overall behavior.  
+ 
+ 
+FORMAL FINDINGS 
+ 
+Formal findings For or Against Applicant on the allegations set forth in the SOR, as 
+required by Section E3.1.25 of Enclosure 3 of the Directive, are: 
+ 
+   Paragraph 1, Guideline E:     AGAINST APPLICANT 
+ 
+    Subparagraph 1.a:     For Applicant 
+ 
+    Subparagraph 1.b:     Against Applicant 
+ 
+   Paragraph 2, Guideline J:     FOR APPLICANT 
+ 
+    Subparagraphs 2.a     For Applicant 
+ 
+ 
+DECISION 
+ 
+In light of all the circumstances presented by the record in this case, it is not clearly 
+consistent with the national interest to grant or continue eligibility for a security clearance for 
+Applicant. Clearance is denied. 
+ 
+ 
+ 
+ 
+Juan J. Rivera 
+Administrative Judge 

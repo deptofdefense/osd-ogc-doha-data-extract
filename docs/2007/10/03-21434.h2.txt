@@ -1,0 +1,1053 @@
+DATE:  October 26, 2007
+In re:
+-------------------           
+SSN: -----------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 03-21434
+REMAND DECISION OF ADMINISTRATIVE JUDGE
+MICHAEL J. BRESLIN
+APPEARANCES
+FOR GOVERNMENT
+Robert Coacher, Esq., Department Counsel
+FOR APPLICANT
+Pro Se
+SYNOPSIS
+Applicant is a retired naval officer, who successfully held a security clearance during his
+military career.  His wife is a naturalized citizen and resident of the U.S.  Her parents are citizens
+of the People’s Republic of China and have permanent resident status in the United States.  She also
+has a sister who is a citizen and resident of China.  Applicant mitigated the security concerns arising
+from possible foreign influence.  Clearance is granted.
+STATEMENT OF THE CASE
+Applicant submitted an SF 86, Security Clearance Application, on June 6, 2001.  The
+Defense Office of Hearings and Appeals (DOHA) declined to grant or continue a security clearance
+2
+for Applicant under Executive Order 10865, Safeguarding Classified Information Within Industry
+(Feb. 20, 1960), as amended, and Department of Defense Directive 5220.6, Defense Industrial
+Personnel Security Clearance Review Program (Jan. 2, 1992), as amended (the “Directive”).  On
+July 7, 2004, DOHA issued a Statement of Reasons (SOR) detailing the basis for its decision.  The
+SOR alleges security concerns raised under the Directive, specifically, Guideline B, Foreign
+Influence.
+Applicant answered the SOR in writing on July 15, 2004.  He elected to have a hearing
+before an administrative judge.
+The case was originally assigned to other administrative judges, but was re-assigned to me
+on November 28, 2005, because of workload considerations.  With the concurrence of Applicant and
+Department Counsel, I convened the hearing on April 10, 2006.  DOHA received the final transcript
+of the hearing (Tr.) on May 3, 2006.  
+I issued a decision on May 24, 2006, granting Appellant a security clearance.  The
+government appealed on several grounds, including my refusal to consider certain documents for the
+purpose of administrative notice.
+On February 27, 2007, the Appeal Board found error in my refusal to take administrative
+notice of Exhibit 7, and ordered that it be considered for this purpose.  The Appeal Board remanded
+the case, and ordered that I re-convene the hearing and allow Department Counsel the opportunity
+to attempt to offer certain previously rejected documents as ordinary evidence, even though
+Department Counsel had made no such request in the first hearing.  (ISCR Case No. 03-21434 at 5
+(App. Bd. February 20, 2007).  
+With the concurrence of both parties, I reconvened the hearing on April 3, 2007.  At the
+hearing on remand, I advised the parties that Exhibit 7 would be considered for the purposes of
+administrative notice.  (Tr. at 3.)  As suggested by the Appeal Board, Department Counsel offered
+Exhibit 9 as ordinary evidence.  For the reasons discussed below, I denied the request.  Appellant
+offered no additional evidence.  DOHA received the transcript of the hearing on remand on April
+11, 2007.
+EVIDENTIARY RULINGS
+The Appeal Board found error in my refusal to admit Exhibit 7 for the purposes of
+administrative notice.  It is helpful to review the concept of administrative notice, and the Appeal
+Board’s handling of this issues relating to administrative notice.
+3
+Administrative Notice 
+Administrative notice is a legal concept similar to judicial notice, which allows an
+administrative judge to consider certain facts without requiring the formal presentation of evidence.
+The law recognizes two categories of facts that may be the subject of administrative notice:
+“legislative facts” and “adjudicative facts.”  The kinds of facts that may be administratively noticed
+depends upon the function performed by the administrative judge.  (Kenneth Culp Davis, 1
+Administrative Law Text, 3d Ed., § 15.03, West Publ. (1972).) 
+If the administrative judge is performing an essentially legislative or regulatory function, such
+as establishing soybean subsidies, setting highway tariffs for truckers, or allocating service areas for
+television stations, he or she may consider “legislative facts,” a broad concept encompassing matters
+relevant to the regulatory function.  (Id.)  These may include evidence of industry practices,
+economic impact, scientific data, and agency expertise.  (Jacob Stein, et al, 1 Administrative Law,
+§ 1.02[3], fn. 57, LexisNexis (2006).)  Also, appellate courts frequently go beyond the record for
+legislative facts to guide the making of law and policy.  (Davis, 1 Administrative Law Text, 3d Ed.,
+supra, at  § 15.03.)  The ability to find and rely on legislative facts is limited to administrative judges
+making similar public-policy decisions.  
+If the administrative judge is performing an adjudicative function (i.e., determining individual
+rights or benefits), he or she may take administrative notice only of “adjudicative facts.”  Examples
+of adjudicative functions include settling FEMA claims, or deciding appeals from the denial of a
+security clearance.  Because the adjudicative function directly affects the rights of a specific
+individual, due process requires that the party be given notice of the proposed adjudicative fact and
+an opportunity to dispute it. 
+I note some cases, such as hearing an immigrant’s request for asylum, involve taking
+administrative notice of public policy (i.e. “legislative facts”), as well as specific facts about an
+individual (i.e. “adjudicative facts”).  In such cases, practitioners must be especially careful to
+consider whether it is deciding a public policy (i.e., legislative) function or determining specific
+relevant facts.  In Kowalczyk v. INS, 245 F.3d 11431147 (10th Cir. 2001), the court noted:
+However, “simply because we have approved of [taking administrative notice] in one
+context does not mean that it is appropriate in all.  An agency’s discretion to take
+administrative notice depends on the particular case before it.”  Llana-Castellon, 16
+F.3d at 1097; see also Castillo-Villagra v. INS, 16 F.32d 1017, 1027 (9th Cir. 1992)
+(“The administrative desirability of notice as a substitute for evidence cannot be
+allowed to outweigh fairness to individual litigants.”
+The purpose for taking administrative notice is convenience–it avoids the difficulty and
+expense of adducing testimony or evidence.  (Davis, 1 Administrative Law Text, 3d Ed., supra, at
+§ 15.09.)  However, the desire for this convenience must be tempered by respect for the due process
+rights of the parties.  It would be unfair to notice contested facts subject to reasonable dispute, and
+require the opposing party to produce evidence in rebuttal or refutation at an administrative hearing
+where there is no subpoena power.  As Professor Davis wrote, “convenience should always yield to
+the requirement of procedural fairness that parties should have the opportunity to meet in the
+appropriate fashion all facts that influence the disposition of the case.”  (Id.)  
+4
+In an adjudicative hearing, the nature of the matters that may be administratively noticed is
+limited.  Only easily verifiable, indisputable facts are appropriate for administrative notice in an
+adjudicative hearing.  (ISCR Case No. 99-0511 (App. Bd. December 19, 2000).)  Facts to be
+administratively noticed must be not subject to reasonable dispute and must be either generally
+known within the area or capable of accurate and ready determination by resort to sources whose
+accuracy cannot be questioned.  For these reasons, an administrative judge normally may take
+administrative notice only of general facts, not specific facts.  (Stein, et al, Administrative Law,
+supra, at § 25.02.)
+This is especially true of adjudicative facts.  The Supreme Court has held that the
+types of adjudicative facts subject to official notice include the fact that there is an
+economic depression, but not how a particular industry has been affected by the
+depression; the fact that Confederate money had depreciated during the course of the
+Civil War, but not the extent of depreciation.  The specifics, the Court has held, are
+the subject of differences of opinion, even among experts, and must be proven by
+presentation of evidence, not official notice.
+(Id., citing Ohio Bell Tel. Co. v. Public Utils. Comm’n, 301 U.S. 292, 300-02 (1937).) 
+a.  Scope of Administrative Notice
+DoD Directive 5220.6, ¶ E3.1.19, provides that the Federal Rules of Evidence shall serve as
+a guide for administrative hearings.  Fed. R. of Evid. 201, Judicial Notice of Adjudicative Facts,
+provides useful guidance, especially because an administrative judge for DOHA is performing an
+adjudicative function.  The Advisory Committee’s Note makes it clear the rule applies only to
+adjudicative facts, not legislative facts.  
+The Appeal Board has not properly handled matters relating to administrative notice, to the
+prejudice of applicants.  This includes considering matters beyond the permissible scope of
+administrative notice in adjudicative hearings, and engaging in improper fact-finding beyond the
+Board’s power of review.
+The Appeal Board routinely allows government counsel to supplement the record with
+material that is not a proper subject for administrative notice in an adjudicative hearing.  (ISCR Case
+No. 03-08813 (App. Bd. November 15, 2005) (admitting any fact in any official “pronouncement”
+of the United States or an “unofficial publication” prepared by a private contractor for the U.S.);
+ISCR Case No. 99-0452 (App. Bd. March 21, 2000) (admitting the content of official documents
+posted by federal departments or agencies on their website); ISCR Case 99-0511 (App. Bd.
+December 19, 2000) (admitting records that the U.S. sanctioned a project in a foreign country
+through foreign military aid and official U.S. cooperation); ISCR Case No. 02-29739 (App. Bd.
+October 13, 2005) (noticing specific properties of a drug from a medical text).  By allowing the
+government to introduce and rely on matters exceeding the proper scope administrative notice, the
+Appeal Board is denying appellants the administrative due process granted by Executive Order
+12968, Sec. 5.2, and DoD Directive 5220.6, ¶ 4 and ¶ E3.1.29. 
+In this case, the Appeal Board found error in declining to consider for the purpose of
+administrative notice Exhibit 7, the February 2004 testimony of the Director, Defense Intelligence
+5
+Agency, before a Senate subcommittee.  The Board stated that “courts can and do take ‘judicial
+notice of the content of hearings and testimony before . . . congressional committees and
+subcommittees . . . ,’” and cited two cases in support of the proposition.  However, a review of these
+authorities reveals that both cases involve appellate courts noticing legislative facts; neither involves
+a court considering adjudicative facts.  
+In the first case, Adarand Constructors v. Slater, 228 F.3d 1147, 1168 at n.12 (10th Cir.
+2000), the appellate court considered the government’s race- and gender-conscious contract program
+under a “compelling interest” test newly promulgated by the Supreme Court.  As the court explained,
+“Our ‘benchmark for judging the adequacy of the government's factual predicate for affirmative
+action legislation is whether there exists a ‘strong basis in evidence for [the government’s]
+conclusion that remedial action was necessary.’”  (Id. at 1166 (internal citations omitted).)  Although
+the appellate court used the phrase “judicial notice,” clearly the matters it noticed were legislative
+facts, not adjudicative facts.  Indeed, in footnote 12 of the opinion, cited by the Appeal Board, the
+court commented, “Furthermore, we note in passing that there is an even more substantial body of
+legislative history supporting the compelling interest in the present case than that cited by the
+government.”  (Emphasis added.) 
+The Appeal Board also cited United States v. Darby, 312 U.S. 100 (1941), in which the
+Supreme Court considered the constitutionality of the Fair Labor Standards Act.  The Court
+specifically took notice of the purpose of the Act, which was set out in the declaration of policy in
+§ 2(a) of the Act, and in Senate and House of Representatives Committee reports.  Darby, 312 U.S.
+at 109.  This is a classic example of an appellate court taking notice of legislative facts for the
+purpose of determining policy.  It does not provide a legal basis for an administrative judge to notice
+legislative facts to perform an adjudicative function.  
+b.  Unauthorized Fact-Finding.
+The Appeal Board uses the guise of administrative notice to consider entire documents as
+evidence, instead of limiting itself to the notice of adjudicative facts.  This enables the Board to
+engage in improper de novo fact-finding, denying appellants the right to a fair hearing on appeal
+under the Regulation.  
+The normal process for taking judicial notice is for a party to request the judge to take notice
+of certain adjudicative facts, and to supply the court with the necessary information to support the
+request.  (Fed. R. Evid. 201(d).)  “The usual method of establishing adjudicative facts is through the
+introduction of evidence, ordinarily consisting of the testimony of witnesses.”  (Rule 201, Advisory
+Committee’s Note.)  Parties may also support requests for administrative notice by providing
+documents, such as official government publications relating to the subject at issue.  The opposing
+party has the opportunity to object and to submit matters in opposition to the request.
+The administrative judge takes administrative notice of adjudicative facts, not documents.
+The facts administratively noticed become part of the administrative judge’s findings of fact.  The
+materials supplied in support of a party’s request become part of the record, but are not admitted as
+evidence.  
+6
+The Appeal Board has adopted an entirely different procedure for administrative notice.
+Where a party (almost always the government) offers a document to support a request for
+administrative notice, the Board holds that the entire document is admitted into evidence.  The Board
+then concludes that every fact asserted in the document is also evidence at the hearing and considers
+those facts as conclusively established in conducting a de novo review of the case.  (See ISCR Case
+No. 04-11463 at 4 (App. Bd. Aug. 4, 2006) (the Appeal Board properly found error where the AJ
+failed to consider a foreign country’s record of hostility toward the U.S., but then the Board went on
+the consider this fact in reversing the decision, stating “Exhibits introduced by Department Counsel
+clearly established this factual element . . . ”); ISCR Case No. 04-07766 at 2 (App. Bd. Sept. 26,
+2006) (Appeal Board specifically relied on “other record evidence not made the basis of a finding
+of fact by the Administrative Judge” in reversing the decision); ISCR Case No. 04-08560 at 2 (App.
+Bd. Oct.10, 2006) (explicitly relying on evidence “not made the basis for a finding of fact by the
+Administrative Judge”).
+Of course, the Appeal Board’s authority is limited to issues of law; it has no authority to
+engage in fact-finding.  (DoD Directive 5220.6, ¶ E3.1.29,  ¶ E3. 1.32.)  The Appeal Board has
+repeatedly acknowledged this limitation on its authority.  (ISCR Case No. 03-19925 at 1 (App. Bd.
+Aug 18, 2006) (the Board may not consider new evidence on appeal).)  
+c.  Notice requirement 
+The Appeal Board has made contradictory rulings about whether the parties must be informed
+of matters administratively noticed and provided an opportunity to challenge or respond to the
+proposed notice.  The Board has held that an administrative judge taking administrative notice is not
+required to inform the parties in advance or provide an opportunity to respond.  (See ISCR Case No.
+99-0452, 2000 DOHA LEXIS 108 (App. Bd. Mar. 21, 2000) (“As a general rule, the parties are
+entitled to know what information an Administrative Judge is relying on in making a decision. There
+are some narrow exceptions to this general rule: official or administrative notice, and matters known
+to an agency through its cumulative expertise.”); ISCR Case No. 02-29739 (App. Bd. Oct. 13, 2005)
+(“This basic definition [from a medical dictionary] is not subject to reasonable dispute and as such
+is a proper subject for the taking of administrative notice.  Therefore the Judge’s introduction of the
+definition into his factual findings did not require prior notice to the parties.”).)
+At other times the Board has recognized that when an administrative judge takes
+administrative notice of an adjudicative fact, the parties must be given notice and an opportunity to
+respond.  (See ISCR Case No. 01-26893 (App. Bd. Oct. 16, 2002) (“official or administrative notice
+can be taken . . . .  Of course, such action should be undertaken with reasonable notice to applicants
+to avoid undue surprise or unfairness in these proceedings”).
+2.  Admissibility Under the Federal Rules of Evidence
+As noted above, the Appeal Board remanded the case with instructions that I take
+administrative notice of Exhibit 7, and that I reconvene the hearing to allow Department Counsel the
+opportunity to attempt to admit the other excluded documents as ordinary evidence.  Department
+Counsel asked that I admit into evidence Exhibit 9, the annual report to Congress on foreign
+7
+economic collection and industrial espionage prepared by the National Counterintelligence Center
+for the year 2000.  (Tr. at 4.)  He offered several arguments in an attempt to demonstrate that Exhibit
+9 was both authentic and relevant.  (Tr. at 4-5.)  
+a.  Federal Rule of Evidence 901(b)(4)
+Department Counsel argued that the authenticity of the document was established under
+Federal Rule of Evidence 901(b)(4).  Generally, Rule 901(a) provides, “The requirement of
+authentication or identification as a condition precedent to admissibility is satisfied by evidence
+sufficient to support a finding that the matter in question is what its proponent claims.”
+Subparagraph (b) of the rule offers illustrations of the types of evidence which could prove
+authenticity of a document, such as: (1) testimony of a witness with knowledge, (2) opinion of a non-
+expert witness concerning the genuineness of handwriting, or (3) the in-court comparison of writing
+samples by the trier of fact or an expert witness.  
+In this case, Department Counsel argued that I should find the document to be authentic
+under Rule 901(b)(4), “Appearance, contents, substance, internal patterns, or other distinctive
+characteristics, taken in conjunction with the circumstances.”  Courts often admit documents under
+this rule, where other evidence demonstrates that the distinctive characteristics of the document
+establish its authenticity.  (See United States v. Firischak, 468 F.3d 1015, 1022 (7th Cir. 2006)
+(expert’s testimony about contents, location, and appearance of documents sufficient for
+authentication); United States v. Thompson, 449 F.3d 267, 274 (1  Cir. 2006) (anonymous letter metst
+authentication requirement through circumstantial indicia of authorship); U.S. v. Gordon, 634 F.2d
+639, 643 (1st Cir. 1980) (documents authenticated by evidence corroborating distinctive content and
+characteristics).) However, Department Counsel did not indicate what specific characteristics of the
+document proved its authenticity.  He argued only that it was (1) a document, and (2) contained
+information prepared by several federal agencies.  (Tr. at 5.)  Department Counsel did not indicate
+what specific information within Exhibit 9 for Identification was so unique or distinctive that it
+proved its genuineness.  I considered the document offered as Exhibit 9 and find none of the unique
+characteristics probative of authenticity under Rule 901(b)(4).  
+b.  Federal Rule of Evidence 901(b)(7)
+Department Counsel argued that Exhibit 9 was admissible under Federal Rule of Evidence
+901(b)(7).  The rule, in pertinent part, provides that a proponent may establish authenticity of a
+public record or report by presenting “Evidence that a . . . purported public record, report, statement,
+or data compilation, in any form is from the office where items of this nature are kept.”  The
+Advisory Committee’s Note to the Rule indicates “Public records are regularly authenticated by
+proof of custody, without more.”  Finally, I note that Rule 1005 specifically provides that the
+contents of public records “may be proved by copy, certified as correct in accordance with Rule 902
+or testified to be correct by a witness who has compared it with the original.”  In practice, public
+records are authenticated by having the custodian of the record submit a certificate attesting to the
+authority of the custodian and that the documents are public records.  No such evidence was
+presented in this case. 
+c.  Federal Rule of Evidence 902(5)
+8
+Department Counsel also maintained that Exhibit 9 for Identification was self-authenticating
+as an official publication under Rule 902(5).  Federal Rule of Evidence 905(5) provides, “Extrinsic
+evidence of authenticity as a condition precedent to admissibility is not required with respect to the
+following: . . .  (5) Official publications.  Books, pamphlets, or other publications purporting to be
+issued by public authority.”  Under this rule, official publications of the U.S. government are self-
+proving, making it relatively simple to establish the authenticity of such a document.  As the court
+observed in Lorraine v. Markel Am. Ins. Co., 241 F.R.D. 534 (D. Md. 2007), “When combined with
+the public records exception to the hearsay rule, Rule 803(8), these official publications posted on
+government agency websites should be admitted into evidence easily.” 
+The concern in this case is that the document offered as Exhibit 9 was not from an official
+government website.  The Appeal Board specifically commented, “We also note that Exhibit 9
+appears to have been obtained from a non-governmental web site, which impairs its status as an
+official publication of the United States.”  (ISCR Case No. 03-21434 at n.5 (App. Bd. Feb. 20,
+2007).)  Absent some other evidence from the government, I hesitate to conclude that Exhibit 9 is
+an official government publication where the Appeal Board previously ruled in the same case that
+its status was questionable. 
+Assuming arguendo that Exhibit 9 is self-proving under Rule 902(5), that does not mean it
+is admissible.  The rule “[dispenses] with preliminary proof of the genuineness of purportedly
+official publications . . . . [but] does not confer admissibility upon all official publications; it merely
+provides a means whereby their authenticity may be taken as established for purposes of
+admissibility.”  (Fed. R. Evid. 902(5), Advisory Committee’s Note.) 
+It is axiomatic that evidence must be relevant to be admissible.  (Fed. R. Evid. 402.)  At the
+initial hearing on this case, I did not admit Exhibit 9 largely because it was not relevant.  First, it was
+rather old, and I admitted Exhibit 10, a more recent version of the same report.  Secondly, it was not
+relevant because it repeated information already presented in Exhibit 10 and other documents.
+Department Counsel maintained the 2000 report was necessary because it listed the countries thought
+to be the most active collectors of foreign economic information.  I noted the list was the result of
+a survey of “nearly a dozen selected Fortune 500 companies.”  However, the report does not indicate
+what companies were selected, how they were selected, who selected them, or who provided the
+responses.  Moreover, the survey focused on the collection, by legal and illegal means, of foreign
+economic information generally, rather than espionage having security significance.  Therefore, I
+found the proffered exhibit incompetent, irrelevant, and immaterial to the issues in this case.  
+The Appeal Board considered these rulings carefully, and noted that I found “the appendix
+appeared to be based upon insufficient data to be relevant.”  ISCR Case No. 03-21434 at 4 (App. Bd.
+Feb. 20, 2007.)  The Appeal Board specifically held “we find no basis to conclude that he abused
+his discretion” in this ruling.  In the absence of some additional evidence, I find Exhibit 9 is still not
+relevant.  I also find it is not material, especially in light of the other documents properly considered
+in this case.
+In the opinion remanding this case, the Appeal Board noted that the Federal Rules of
+Evidence serve only as a guide, and may be relaxed by the administrative judge.  (ISCR Case No.
+03-21434 at 5 (App. Bd. Feb 20, 2007).)  DoD Directive 5220.6, ¶ E3.1.19, provides:
+9
+The Federal Rules of Evidence (28 U.S.C. 101 et seq.) shall serve as a guide.
+Relevant and material evidence may be received subject to rebuttal, and technical
+rules of evidence may be relaxed, except as otherwise provided herein, to permit the
+development of a full and complete record.
+Under the terms of the Directive, only “technical” rules of evidence may be relaxed.  More
+significantly, the rule makes it clear that only relevant and material evidence may be received.  Even
+if one relaxed the technical rules concerning authentication, Exhibit 9 is still not relevant or material.
+Therefore it will not be considered in this case.
+Finally, I note that we do not take administrative notice of documents; rather, we take
+administrative notice of adjudicative facts.  The documents submitted by the parties serve only to
+support requests for administrative notice, and do not constitute independent evidence.  I considered
+carefully the relevant and material documents, including Exhibit 7, as ordered by the Appeal Board.
+The adjudicative facts I administratively noticed are set out in my factual findings, below. 
+FINDINGS OF FACT
+Applicant admitted, in whole or in part, the factual allegations in ¶¶ 1.b, 1.c, 1.d, 1.e, and 1.f
+of the SOR.  (Applicant’s Answer to SOR, dated July 15, 2004.)  Those admissions are incorporated
+herein as findings of fact.  He denied the allegations in ¶ 1.a of the SOR.  (Id.)  After a complete and
+thorough review of the evidence in the record, I make the following additional findings of fact.
+Applicant was born in December 1949.  (Ex. 1 at 1.)  He enlisted in the U.S. Navy in
+September 1969.  (Ex. 1 at 6; Ex. 3 at 2.)  Applicant was rated as an Electrician’s Mate and served
+aboard nuclear submarines, where he held a security clearance.  For his exceptional performance,
+Applicant was selected as the best sailor in the submarine force in 1978.  (Tr. at 60; Ex. A at 10.)
+In September 1984, he received a Navy Commendation Medal for his exemplary service.  (Ex. A at
+5.)  Applicant rose to the rank of Senior Chief Petty Officer (E-8).  (Ex. 3 at 6.)
+In 1984, Applicant applied for the Navy’s limited duty officer program.  His commander
+strongly endorsed the application, and praised Applicant’s record of dedicated performance of duty.
+(Ex. A at 6-7.)  Previous commanders added their emphatic endorsements.  (Ex. A at 8, 9, 14, 15.)
+The Navy accepted him into the program and awarded him a commission.  (Tr. at 60; Ex. A at 12.)
+In June 1987, he qualified as a Surface Warfare Officer.  (Ex. A at 11.)  Applicant worked in the
+nuclear engineering field and held a high-level security clearance from about 1984 until he retired
+from the U.S. Navy in 1991.  (Ex. 1 at 6; Ex. 3 at 2.)  
+Applicant was married in November 1971.  (Ex. 3 at 3.)  By the early 1990s, Applicant and
+his wife developed marital difficulties.  He filed for divorce, but allowed it to lapse.  (Tr. at 64.)
+They continued to reside in the same house, but not as husband and wife.  (Id.)  His wife moved from
+the marital home in March 1997.  (Ex. 4.)  Applicant was divorced from his wife in December 1998.
+(Ex. 3 at 3.) 
+In 1991, shortly after his retirement from the Navy, he purchased a travel agency and
+operated the business for about six years.  (Id.)  In 1996, he was asked to provide travel assistance
+10
+to a group of businessmen from the People’s Republic of China (P.R.C.) who were having troubles
+with airline tickets and hotel reservations.  (Tr. at 65, 70.)  Applicant helped the group with their
+arrangements and met the Chinese travel agent accompanying them, along with his female assistant
+who served as a translator.  (Tr. at 65.)  As travel agents, each was interested in making contact with
+an agency in the other country in an attempt to facilitate each other’s tours.  (Tr. at 68.)  The Chinese
+travel agent arranged for Applicant to take a tour of China for about two weeks in March 1996.  (Tr.
+at 69.)  The Chinese travel agent’s female assistant served as his tour guide and translator.  (Tr. at
+71-72.)  
+Applicant believed the tour package he was shown would be highly profitable and
+competitive with larger companies.  (Tr. at 74.)  He later arranged a group tour of China for clients,
+and visited the P.R.C. in June 1996 to arrange for visas and tickets.  (Ex. 3 at 3.)  The travel
+assistant/translator again served as his guide.  (Id.)  During this trip, they became romantically
+involved.  (Tr. at 78; Ex. 3 at 3.)  
+Over the ensuing months, Applicant returned to China several times to pursue his relationship
+with her, to meet her parents, to arrange trips for clients, and for his personal travel in the region.
+(Ex. 1 at 7; Ex. 3 at 3; Tr. at 86.)  After a significant set-back in the travel industry, Applicant sold
+his travel agency in about April 1997.  (Tr. at 100.)  He began working as an independent contractor
+doing small home repair.  (Tr. at 100; Ex. 1 at 2.)  
+He continued to travel to China to further the relationship.  In January 1999, Applicant
+brought her to the U.S. and they were married in February 1999.  (Ex. 3 at 3.)
+Applicant then worked for about one year as the comptroller for a sports company.  (Ex. 1
+at 2.)  In May 2001, he assumed his present position with a defense contractor serving as a senior
+nuclear test engineer.  (Ex. 1 at 1; Ex. 2 at 2.)  
+Applicant currently lives with his second wife, their daughter, and his wife’s parents.  (Tr.
+at 62.)  His wife’s parents care for their child.  (Tr. at 89.)  
+Applicant is active in the local community; he has worked with the boy scouts for 20 years,
+taught hunting safety courses, instructed grade school students in archery and wilderness survival
+courses, and worked with the 4-H Club.  (Tr. at 59.)  He was nominated as the Military Citizen of
+the Year for 1990 for his support to the community.  (Ex. A at 2.)  
+He obtained a bachelor of arts degree, cum laude, in 1994.  (Ex. A at 3.)  At the time of the
+hearing, he was pursuing a master’s degree in business administration specializing in criminal justice
+administration and expecting to graduate in June 2006, magna cum laude.  (Ex. A at 4; Tr. at 59,
+104.)  
+Applicant’s wife was born in 1973.  (Tr. at 79.)  She received an academic scholarship and
+attended college in China where she studied tourism.  (Tr. at 79, 96.)  She was not a member of the
+Communist Party.  (Tr. at 96.)  She became a U.S. citizen in February 2004.  (Ex. C.)  She is
+currently a student at a U.S. law school.
+11
+Applicant’s wife has one sister, who is a citizen and resident of the P.R.C.  (Tr. at 81.)  The
+sister works in real estate with her husband.  (Tr. at 82.)  They have one child.  (Tr. at 93.)  Applicant
+and his wife are not close to her sister.  (Tr. at 82.)  
+His wife’s parents are citizens of the P.R.C.  Her father was a professional soccer player for
+a city team and her mother worked in a factory.  (Tr. at 97.)  They came from affluent families and
+were anti-communist.  (Tr. at 95.)  During the Cultural Revolution in China, they were required to
+work on a labor farm.  (Tr. at 88.)  Both parents are now over 60 years old and are retired.  (Tr. at
+94.)  They receive a small pension from the government that goes into a bank account in China.  (Tr.
+at 97.)  They came to the U.S. in 2003.  (Tr. at 89) They have permanent resident status in the United
+States.  (Ex. D.)  In about 2005, her parents went back to China for her mother’s medical treatment
+in order to take advantage of lower costs, but later returned to the U.S.  (Tr. at 88, 93.)  Applicant
+now provides medical insurance coverage for them.
+I take administrative notice of the following facts.  According to the U.S. State Department,
+the People’s Republic of China is controlled by the Communist Party.  (Ex. 5 at 1.)  The Consular
+Information Sheet indicates Chinese security personnel may place under surveillance business people
+with access to advanced proprietary information.  (Id. at 2.)  The People’s Republic of China is a
+collector of foreign intelligence.  (Ex. 7 at 10-11.)  The U.S. State Department reports that terrorism
+is rare in China and that there “is no indication that acts of public violence have been directed against
+foreigners or that foreign elements in China have carried out terrorist attacks.”  (Ex. 5 at 2-3.)  The
+State Department also reports that China’s record on human rights is poor.  (Ex. 11.) 
+POLICIES
+The President has “the authority to . . . control access to information bearing on national
+security and to determine whether an individual is sufficiently trustworthy to occupy a position …
+that will give that person access to such information.”  (Department of the Navy v. Egan, 484 U.S.
+518, 527 (1988).)  In Executive Order 10865, Safeguarding Classified Information Within Industry
+(Feb. 20, 1960), the President set out guidelines and procedures for safeguarding classified
+information within the executive branch. 
+To be eligible for a security clearance, an applicant must meet the security guidelines
+contained in the Directive.  Enclosure 2 of the Directive sets forth personnel security guidelines, as
+well as the disqualifying conditions and mitigating conditions under each guideline.   Under the
+Directive, ¶ E2.A2.1.1, the adjudicative guideline at issue in this case is: 
+Guideline B, Foreign Influence:  A security risk may exist when an individual’s
+immediate family, including cohabitants, or other persons to whom he may be bound
+by affection, influence, or obligation, are not citizens of the United States or may be
+subject to duress.  These situations could create the potential for foreign influence
+that could result in the compromise of classified information.  Contacts with citizens
+of other countries or financial interests in other countries are also relevant to security
+determinations if they make an individual potentially vulnerable to coercion,
+exploitation, or pressure. 
+12
+Conditions that could raise a security concern and may be disqualifying, as well as those which could
+mitigate security concerns pertaining to this adjudicative guideline, are set forth and discussed in the
+conclusions below.
+“The adjudicative process is an examination of a sufficient period of a person’s life to make
+an affirmative determination that the person is eligible for a security clearance.”  (Directive, ¶
+E2.2.1.)  An administrative judge must apply the “whole person concept,” and consider and carefully
+weigh the available, reliable information about the person.  (Id.)  An administrative judge should
+consider the following factors: (1) the nature, extent, and seriousness of the conduct; (2) the
+circumstances surrounding the conduct, to include knowledgeable participation; (3) the frequency
+and recency of the conduct; (4) the individual’s age and maturity at the time of the conduct; (5) the
+voluntariness of participation; (6) the presence or absence of rehabilitation and other pertinent
+behavioral changes; (7) the motivation for the conduct; (8) the potential for pressure, coercion,
+exploitation, or duress; and (9) the likelihood of continuation or recurrence.  (Id.) 
+Initially, the Government must present evidence to establish controverted facts in the SOR
+that may disqualify the applicant from being eligible for access to classified information.  (Directive,
+¶ E3.1.14.)  Thereafter, the applicant is responsible for presenting evidence to rebut, explain,
+extenuate, or mitigate the facts.  (Directive, ¶ E3.1.15.)  An applicant “has the ultimate burden of
+demonstrating that it is clearly consistent with the national interest to grant or continue his security
+clearance.”  (ISCR Case No. 01-20700 at 3 (App. Bd. Dec. 19, 2002).)  “Any doubt as to whether
+access to classified information is clearly consistent with national security will be resolved in favor
+of the national security.”  (Directive, ¶ E2.2.2.) 
+A person granted access to classified information enters into a special relationship with the
+government.  The government must be able to repose a high degree of trust and confidence in those
+individuals to whom it grants access to classified information.  The decision to deny an individual
+a security clearance is not a determination as to the loyalty of the applicant.  (Exec. Ord. 10865, §
+7.)  It is merely an indication that the applicant has not met the strict guidelines the President has
+established for issuing a clearance.
+LEGAL PRECEDENT
+It is helpful to review the legal precedents relevant to Guideline B cases established by the
+DOHA Appeal Board.  As noted above, Guideline B of the Directive addresses potential security
+concerns arising when applicants may be subject to foreign influence. 
+Guideline B, Foreign Influence:  A security risk may exist when an individual’s
+immediate family, including cohabitants, or other persons to whom he may be bound
+by affection, influence, or obligation, are not citizens of the United States or may be
+subject to duress.  These situations could create the potential for foreign influence
+that could result in the compromise of classified information.  Contacts with citizens
+of other countries or financial interests in other countries are also relevant to security
+determinations if they make an individual potentially vulnerable to coercion,
+exploitation, or pressure. 
+13
+(Directive, ¶ E2.A2.1.1, emphasis added.)  It is important to note that the Directive does not establish
+a per se rule for the guideline; for example, the mere fact that family members or friends are citizens
+or residents of a foreign country is not automatically disqualifying.  The Appeal Board has
+acknowledged many times that the: 
+mere possession of family ties with persons in a foreign country is not, as a matter
+of law, automatically disqualifying . . . .  [It] does raise a prima facie security concern
+sufficient to require an applicant to present evidence of rebuttal, extenuation or
+mitigation sufficient to meet the applicant’s burden of persuasion that it is clearly
+consistent with the national interest to grant or continue a security clearance for the
+applicant.  
+(ISCR Case No. 99-0424, 2001 DOHA LEXIS 59 at **33-34 (App. Bd. Feb. 8, 2001).)
+In order for many diverse adjudicators, counsel, and administrative judges to apply this
+guideline uniformly and consistently, the Directive sets out various conditions illustrating the sort
+of matters that may raise security concerns and those that might alleviate such concerns.  The
+Directive refers to these as potentially “disqualifying” or “mitigating” conditions.  An administrative
+judge must consider these conditions as part of a “whole person” concept in determining whether
+a security concern exists and whether an applicant has mitigated or extenuated those concerns.
+Mitigating Condition 1
+Under Guideline B, Mitigating Condition 1 (Directive, ¶ E2.A2.1.3.1) provides that it is
+potentially mitigating where the “associate(s) in question are not agents of a foreign power or in a
+position to be exploited by a foreign power in a way that could force the individual to choose
+between loyalty to the person involved and the United States.”  Notwithstanding the facially
+disjunctive language, applicants must establish both: (1) that the individuals in question are not
+“agents of a foreign power,” and (2) that they are not in a position to be exploited by a foreign power
+in a way that could force the applicant to chose between the person(s) involved and the United
+States.  (ISCR Case No. 02-14995 at 5 (App. Bd. Jul. 26, 2004).)  
+“Agent of a Foreign Power”
+The Appeal Board has greatly reduced the applicability of this potentially mitigating
+condition by adopting an expansive definition of the phrase “agent of a foreign power.”  The federal
+statute dealing with national security and access to classified information, 50 U.S.C. § 438(6),
+includes a definition for the term “agent of a foreign power.”  For the purposes of the statute,
+Congress adopted the definitions of the phrases “foreign power” and “agent of a foreign power” from
+50 U.S.C. § 1801(a) and (b), respectively.  50 U.S.C. § 1801(b) defines “agent of a foreign power”
+to include anyone who acts as an officer or employee of a foreign power in the United States,
+engages in international terrorism, or engages in clandestine intelligence activities in the U.S.
+contrary to the interests of the U.S. or involving a violation of the criminal statutes of the United
+States.  The definition was added to 50 U.S.C. § 438 by the Intelligence Authorization Act for Fiscal
+Year 1995, Public Law 103-359, October 14, 1994.  The term was subsequently included in the
+Directive through Change 4, dated April 20, 1999. 
+14
+The Appeal Board, however, does not apply the statutory definition of “agent of a foreign
+power.”  Instead, it adopted a much broader definition of its own invention.  The Appeal Board
+seems to have taken the definition of “foreign power” from 50 U.S.C. § 1801(a), but then uses a
+general definition for the term “agent,” so that the phrase has the widest possible scope, to include
+anyone who has any connection to any government within a foreign country.  
+Following this expansive construction, the Appeal Board has held that, “An employee of a
+foreign government need not be employed at a high level or in a position involving intelligence,
+military, or other national security duties to be an agent of a foreign power for purposes of Foreign
+Influence Mitigating Condition 1.”  (ISCR Case No. 02-24254, 2004 WL 2152747 (App. Bd. Jun.
+29, 2004).)  The Appeal Board applies its definition very broadly.  (See ISCR Case No. 03-10954
+at 3 (App. Bd. Mar. 8, 2006) (attorney/consultant to an entity controlled by a foreign ministry is an
+“agent of a foreign power”); ISCR Case No. 03-19101 at 6 (App. Bd. Jan. 21, 2006) (part-time
+secretary for the Ministry of Religion is an “agent of a foreign power”); ISCR Case No. 02-2454 at
+4-5 (App. Bd. June 29, 2004) (employee of a city government was an “agent of a foreign power”);
+ISCR Case No. 03-04090 at 5 (App. Bd. Mar. 3, 2005) (employee of the Israeli government is an
+“agent of a foreign power”); ISCR Case No.02-29143 at 3 (App. Bd. Jan. 12, 2005) (a member of
+a foreign military is an “agent of a foreign power”).)  The effect of the Appeal Board’s broad
+application of this term is to greatly increase the numbers of applicants who are automatically
+excluded from the provisions of Mitigating Condition 1.
+Very recently, the Appeal Board explained its refusal to use the statutory definition of the
+term.  In ISCR Case No. 03-10954 at 4 (App. Bd. Mar. 8, 2006), the Board opined that the definition
+of “agent of a foreign power” in 50 U.S.C. § 1801(b) did not apply because it is part of the Foreign
+Intelligence Surveillance Act (FISA) and that statute had a narrower scope than the security concerns
+in the Directive.  However, the Appeal Board did not explain why the definition would not apply
+where it was specifically incorporated by reference  in 50 U.S.C. § 438, the federal statute directly
+concerning the grant of access to classified information.
+The Appeal Board’s position is inconsistent with a reasonable interpretation of the Directive.
+Had the drafters intended to exclude all relatives and associates who were “connected to a foreign
+government,” they would have employed such terminology; indeed, that very language was used in
+Disqualifying Condition 3 of Guideline B.  Moreover, for the drafters to use that language as the
+basis for Disqualifying Condition 3 and then repeat it as an exception to Mitigating Condition 1 is
+not logical.  The only reasonable and rational interpretation is that the phrase “agent of a foreign
+power” is a term of art defined by 50 U.S.C. § 438(6), the statute dealing with access to classified
+information.  The Appeal Board’s decision not to use the statutory definition of the term greatly
+restricts the applicability of Mitigating Condition 1 for applicants. 
+“In a Position to be Exploited”
+As noted above, the second prong of Mitigating Condition 1 (Directive, ¶ E2.A2.1.3.1)
+provides that it is potentially mitigating where the “associate(s) in question are not . . . in a position
+to be exploited by a foreign power in a way that could force the individual to choose between loyalty
+to the person involved and the United States.”  The language “in a position to be exploited” is
+subject to interpretation.  As discussed below, the reasonable and rational interpretation consistent
+with the intent of the Directive is that the language requires a judge to consider all the circumstances,
+15
+assess the likelihood of improper exploitation, and determine whether it presents an unreasonable
+security concern.  
+The Appeal Board applies Mitigating Condition 1 very narrowly, however.  The Appeal
+Board interprets the language as establishing an absolute standard; i.e., an applicant must
+affirmatively prove that there is no possibility that anyone might attempt to exploit or influence a
+foreign relative or acquaintance in the future.  (See ISCR Case No. 03-17620 at 4 (App. Bd. Apr. 17,
+2006) (“MC1 does not apply because, as is well settled, it requires that Applicant demonstrate that
+his relatives are not in a position which could force Applicant to choose between his loyalty to them
+and his loyalty to the United States.”).)  The Appeal Board does not permit an administrative judge
+to engage in a balancing test to assess the extent of any security risk in a case.  Rather, the Appeal
+Board requires an applicant to prove that the presence of family members in a foreign country does
+not create even the possibility of pressure or coercion in the future.  (ISCR Case No. 03-02382 at 5
+(App. Bd. Feb 15, 2005).)  In determining the applicability of this potentially mitigating condition,
+the Appeal Board does not consider whether an applicant is likely to be improperly influenced by
+a foreign relative, holding that “Foreign Influence Mitigating Condition 1 hinges not on what choice
+Applicant might make if he is forced to choose between his loyalty to his family and the United
+States, but rather hinges on the concept that Applicant should not be placed in a position where he
+is forced to make such a choice.”  (ISCR Case No. 03-15205 at 3-4 (App. Bd. Jan. 21, 2005); see
+also ISCR Case No. 03-24933 at 8 (App. Bd. Jul. 28, 2005).) 
+Because the Appeal Board has set an absolute standard, it refuses to allow an administrative
+judge to consider any evidence that does not conclusively establish the impossibility of a future
+attempt at influence.  Even though ¶¶ E2.2.1, E2.2.2, and E2.2.3 of the Directive specifically require
+an administrative judge to consider all the facts and circumstances when evaluating each individual
+case, the Appeal Board nonetheless holds it is error for a judge to do so when considering the
+applicability of Mitigating Condition 1.  For example, the Appeal Board finds it legal error to
+consider any of the following facts because they are not “dispositive”: a foreign relative’s fragile
+health (ISCR Case No. 02-29403 at 4 (App. Bd. Dec. 14, 2004)); a foreign relative’s advanced age
+(ISCR Case No. 02-00305 at 7 (App. Bd. Feb. 12, 2003)); a foreign relative’s financial independence
+(ISCR Case No. 02-31154 at 6 (App. Bd. Sep. 22, 2005)); the number of family members in a
+foreign country  (ISCR Case No. 03-02382 at 5 (App. Bd. Feb. 15, 2005)); the fact that foreign
+relatives spend part of each year in the U.S. (ISCR Case No. 02-31154 at 6 (App. Bd. Sep. 22,
+2005)); the lack of any connection between the foreign relative and the foreign government in
+question (ISCR Case No. 02-31154 at 6 (App. Bd. Sep. 22, 2005)); the absence of any attempt at
+exploitation in the past (ISCR Case No. 03-15205 at 4 (App. Bd. Jan. 21, 2005)); the lack of a
+relative’s financial dependency upon an applicant (ISCR Case No. 03-15205 at 4 (App. Bd. Jan 21,
+2005)); a foreign country’s friendly relationship with the U.S., its stable, democratic government,
+or its extensive foreign military agreements with the U.S. (ISCR Case No. 02-22461 at 5-6 (App.
+Bd. Oct. 27, 2005)).
+While the Appeal Board refuses to consider any facts tending to mitigate security concerns
+under Mitigating Condition 1, it absolutely requires judges to consider factors that might increase
+security concerns.  For example, while the Appeal Board holds it is error for an administrative judge
+to consider a foreign country’s friendly relationship with the U.S., it also holds that it is error for a
+judge to fail to consider a hostile relationship between the U.S. and a foreign country.  (ISCR Case
+No. 02-13595 at 4 (App. Bd. May 10, 2005).)  Similarly, the Appeal Board holds that a foreign
+16
+state’s favorable human rights record is irrelevant, but that “a country’s poor human rights record
+and its differences with the United States on important security issues such as terrorism are factors”
+that a judge must consider.  (ISCR Case No. 04-05317 at 5 (App. Bd. June 3, 2005).)  
+The general rules of statutory construction apply to administrative regulations.  (M. Kraus
+& Bros. v. U.S., 327 U.S. 614, 621 (1946); 2 Am. Jur. 2d Administrative Law § 245 (2006).)
+However, ordinary rules of regulatory construction do not support the Appeal Board’s interpretation
+of the language in question.  
+The primary rule of regulatory construction is to determine the intent of the drafters and to
+give it effect.  To that end, judges must interpret a regulation consistent with the purpose and policy
+within the overall regulatory plan.  (Public Citizen v. United States Dep’t of Justice, 491 U.S. 440,
+454-55 (1989); Cabell v. Markham, 148 F.2d 737, 739 (2d Cir.), aff’d, 326 U.S. 404 (1945).)  The
+Directive does not establish per se rules prohibiting the issuance of security clearances in specific
+situations. To the contrary, it requires administrative judges to balance various factors–some
+potentially disqualifying, and some potentially mitigating–to determine whether an individual is a
+security concern.  To that end, ¶ 6.3 of the Directive provides general guidance:
+6.3.  Each clearance decision must be a fair and impartial common sense
+determination based upon consideration of all the relevant and material information
+and the pertinent criteria and adjudication policy in enclosure 2, including as
+appropriate:
+6.3.1.  Nature a seriousness of the conduct and surrounding circumstances.
+6.3.2.  Frequency and recency of the conduct.
+6.3.3.  Age of the applicant.
+6.3.4.  Motivation of the applicant, and the extent to which the conduct was
+negligent, willful, voluntary, or undertaken with knowledge of the
+consequences involved.
+6.3.5.  Absence or presence of rehabilitation.
+6.3.6.  Probability that the circumstances or conduct will continue or recur in
+the future.
+The Appeal Board’s narrow interpretation creates a requirement of proof impossible to achieve and
+effectively eliminates the possibility that Mitigating Condition 1 could ever apply.  Also, the Appeal
+Board’s rulings exclude from consideration all evidence that could tend to mitigate or extenuate the
+potential security concern.  Clearly, the Appeal Board’s inflexible interpretation of the language
+would “compel an odd result.”  (Green v. Bock Laundry Machine Co., 490 U.S. 504, 509 (1989).)
+This is inconsistent with the regulatory policy established in the Directive, and effectively denies due
+process to applicants.
+Another rule of regulatory construction is that judges should not interpret language in such
+a way that renders it meaningless or leads to an absurd result.  (United States v. Turkette, 452 U.S.
+576, 580 (1981).)  Of course, the issue of the applicability of Mitigating Condition 1 only arises
+when an applicant has immediate family members or close acquaintances who are citizens or
+residents of a foreign country.  The Appeal Board presumes that the fact of such foreign citizenship
+or residency creates a vulnerability to possible influence.  Under such circumstances, it is impossible
+17
+for an applicant to affirmatively prove that no attempt at exploitation or influence could ever occur
+in the future.  It is not logical that the drafters of the Directive would implement a mitigating
+condition that could never apply.
+It is helpful to consider the historical antecedents for this provision to shed light on the
+drafter’s intent.  The version of Mitigating Condition 1 set out in DoD Directive 5220.6 promulgated
+in January 1992, couched this mitigating condition in these terms.  “Conditions that could mitigate
+security concerns include: (1) a determination that the immediate family member(s) , cohabitant, or
+associate(s) in question would not constitute an unacceptable security risk.”  Clearly, the earlier
+version of MC1 did not establish a per se rule–rather it required the administrative judge to weigh
+all factors and determine whether the risk was “unacceptable.”  
+Significantly, this earlier version of Mitigating Condition 1 is still in effect for security
+clearance cases for military members and civilian employees of DoD that are processed under DoD
+Regulation 5200.2-R.  It is anomalous to apply a per se rule in some cases and a rule of
+reasonableness in others, where the implementing regulations require a uniform process.
+It is also helpful to review a later-enacted version of the same guideline to determine the
+drafter’s original intent.  (Branch v. Smith, 538 U.S. 254, 281 (2003) (citing United States v.
+Freeman, 44 U.S. 556 (1845).)  On December 29, 2005, the President approved the following new
+language to replace Mitigating Condition 1:
+8.  Conditions that could mitigate security concerns include: (a) the nature of the
+relationships with foreign persons, the country in which the persons are located, or
+the positions or activities of those persons in that country are such that it is unlikely
+the individual will be placed in a position of having to choose between the interests
+of a foreign individual, group, organization, or government and the interests of the
+U.S.
+Notably, the new language requires an administrative judge to weigh numerous factors and assess
+the likelihood that an individual will be placed in a position of conflict.  Unlike the Appeal Board’s
+present interpretation, the new language does not require an applicant to affirmatively prove that an
+attempt at influence is impossible, nor does it bar consideration of evidence that might mitigate or
+extenuate security concerns.  Most importantly, when one consider’s the previous version of this
+rule, the general policy of the Directive, and this recent language, it is apparent that the drafters did
+not intend the present language to be interpreted as a per se rule as the Appeal Board now applies
+it.
+Terrorism
+The Appeal Board also construes Mitigating Condition 1 to make it inapplicable any time
+there is a history of terrorist acts within the foreign country in question.  Obviously, this greatly
+decreases the chance that any applicant could obtain the benefit of Mitigating Condition 1.
+As noted above, Mitigating Condition 1 applies where a judge determines the applicant’s
+relatives and associates in a foreign country are not “in a position to be exploited by a foreign power
+in a way that could force the individual to choose between loyalty to the person(s) involved and the
+18
+United States.”  While the definition of “foreign power” from 50 U.S.C. § 438(6) (incorporating the
+definition from 50 U.S.C. § 1801(a)) includes terrorist groups, it also includes foreign governments,
+foreign-based political organizations, and foreign non-governmental organizations.  
+Mitigating Condition 1 does not, by its express terms, exclude from consideration applicants
+with relatives or associates in countries where terrorism has occurred, any more than it excludes
+person from countries where there are foreign governments, foreign political organizations, or
+foreign non-governmental organizations.  Rather, it focuses on a very specific type of threat–the risk
+of a foreign power exploiting an applicant’s foreign relatives in such a way as to cause an applicant
+to act adversely to the interests of the United States.  
+The Appeal Board holds Mitigating Condition 1 does not apply where there is a history of
+terrorist activity–of any kind–in the foreign country in question.  (ISCR Case No. 03-22643, 2005
+DOHA Lexis 159 (App. Bd. Jun. 24, 2005); ISCR Case No. 02-22461 at 5 (App. Bd. Oct. 22,
+2005).)  The Appeal Board justifies this as “a matter of common sense” arising from “the war on
+terrorism.”  (ISCR Case No. 01-26893, 2002 DOHA LEXIS 505, 22-23 n.2 (App. Bd. Oct. 16,
+2002).)  To appreciate the extent to which the Appeal Board will consider the risk of terrorist acts,
+it is helpful to review the opinion in ISCR Case No. 02-29403 at 5 (App. Bd. Dec. 14, 2004).  There
+the Appeal Board declared “it is possible to envision several ways in which terrorists could pose a
+threat to classified information,” and then went on to theorize extensively about what unspecified
+terrorists might do in hypothetical situations.  While such things are possible, they do not fall within
+the limited language contained in Mitigating Condition 1 of the Directive.  The fact that the U.S. is
+presently engaged in a war on terrorism is a matter to be considered along with all relevant facts;
+however, it does not amend Mitigating Condition 1 in the Directive.
+“Heavy Reliance”
+Under the Directive, ¶ E3.1.32.3, the Appeal Board’s authority is limited to issues of law–it
+does not have the authority to conduct a de novo review of the case.  To reverse the decision of an
+administrative judge, the Appeal Board must find a “legal” error.  Frequently in cases under
+Guideline B, the Appeal Board finds legal error by concluding an administrative judge relied too
+heavily on a particular factor.
+As noted above, the Appeal Board decided that evidence that a foreign country is hostile to
+the U.S. is so significant that it is legal error for an administrative judge to fail to consider it.  At the
+same time, however, the Appeal Board holds that the fact that a foreign country has friendly relations
+with the U.S., or that it has long been a U.S. ally, is irrelevant.  Moreover, when an administrative
+judge notes the history of friendly relations as part of the required discussion of all the facts, the
+Appeal Board infers “heavy reliance” by the administrative judge upon that fact and holds it was
+legal error.  
+For example, in ISCR Case No. 02-22461, 2005 WL 1381919 (Jan. 2, 2005), the
+administrative judge considered the security risk arising from an applicant’s relatives in Taiwan.  The
+judge wrote that “The following information about Taiwan . . . is significant,” and discussed the
+evidence the government counsel submitted for administrative notice.  Later, while discussing the
+applicability of potentially mitigating conditions, the judge noted Taiwan’s friendly relationship with
+the U.S.  The judge went on to discuss at length specific facts unique to Applicant’s situation making
+19
+him a good candidate for a clearance, and eventually found in his favor.  On appeal, the Appeal
+Board reasoned that the judge erred in relying too heavily on the finding that Taiwan was friendly.
+(ISCR Case No. 02-22461 at 6 (App. Bd. Oct. 27, 2005).)  
+The Appeal Board often employs this analysis to reverse decisions granting clearances under
+Guideline B.  In ISCR Case No. 02-21927 at 7 (Jan. 18, 2005), the administrative judge noted it was
+“helpful to consider several factors, including the character of the foreign country,” and discussed
+various aspects of Saudi Arabia’s government.  The Appeal Board concluded this demonstrated
+inappropriate “heavy reliance” on the fact that Saudi Arabia is an ally of the U.S.  (ISCR Case No.
+02-21927 at 5 (App. Bd. Dec. 30, 2005).)  (See also ISCR Case No. 02-31154 at 6 (App. Bd. Sep.
+22, 2005); ISCR Case No. 02-23860, 2005 DOHA LEXIS 43 (App. Bd. Jun. 30, 2005); ISCR Case
+No. 03-23806, 2005 DOHA LEXIS 162 (App. Bd. Apr. 28, 2005); ISCR Case No. 02-02892, 2004
+DOHA LEXIS 621 (App. Bd. Jun. 28, 2004); ISCR Case No. 02-11570, 2004 DOHA LEXIS 653
+(App. Bd. May 19, 2004); ISCR Case No. 00-0317, 2002 DOHA LEXIS 83 (App. Bd. Mar. 29,
+2002).) 
+Shifting Burden of Proof/Persuasion
+The Appeal Board frequently finds “legal error” by deciding that an administrative judge
+improperly shifted the burden of proof/persuasion to the government to disprove the application of
+Mitigating Condition 1.  (The Appeal Board uses the terms “burden of proof” and “burden of
+persuasion” interchangeably; a discussion of the merits of that practice is beyond the scope of this
+discussion.)  A careful examination of the cases in question reveals the Appeal Board’s rationale for
+finding error is insufficient to justify reversing the decision of an administrative judge.
+According to the Directive, ¶ E3.1.14, the department counsel is responsible for presenting
+evidence to establish controverted facts alleged in the Statement of Reasons.  The Appeal Board
+interprets this as imposing on department counsel the burden of proving by substantial evidence that
+a disqualifying condition applies.  (ISCR Case No. 02-30587, 2005 DOHA LEXIS 73 (App. Bd. Jun.
+15, 2005).)  Thereafter, an Applicant has the burden of persuasion as to obtaining a favorable
+security clearance.  (Directive, ¶ E3.1.15.)  
+In cases arising under Guideline B, Foreign Influence, the Appeal Board holds an applicant
+must affirmatively prove that no one would in the future attempt to exploit them through their
+foreign relatives or associates.  (As discussed above, this imposes the impossible burden of
+affirmatively proving that an event will not occur in the future.)  In order for an applicant to persuade
+an administrative judge that he or she is not “in a position to be exploited by a foreign power,” he
+or she often must rely on evidence that a foreign country has not engaged in exploitive behavior in
+the past, including the absence of any evidence of improper conduct.  However, any time an
+administrative judge comments on the absence of evidence, the Appeal Board concludes the
+administrative judge improperly shifted the burden of proof to the government to disprove a
+mitigating condition.  (ISCR Case No. 03-15485 (App. Bd. Jun. 2, 2005); ISCR Case No. 03-02382
+(App. Bd. Feb. 15, 2005); ISCR Case No. 01-20908 (App. Bd. Nov. 26, 2003).)  
+The Appeal Board’s rulings appear to be based upon the premise that “when a party has the
+burden of proof on a particular point, the absence of any evidence on that point requires a Judge to
+find or conclude that point against the party that has the burden of proof.”  (ISCR Case No. 99-0597,
+20
+2000 DOHA LEXIS 229 (App. Bd. Dec. 13, 2000).)  However, the concept that the “absence of
+evidence” must always be deemed a failure of proof by the proponent is contrary to prevailing federal
+practice.  Indeed, the concept that the absence of evidence can be used to prove a negative
+proposition is so well ingrained in the law that it is included among the statutory exceptions to the
+hearsay rule in Federal Rule of Evidence 803(7) (absence of entry in records of a regularly conducted
+activity) and Rule 803(10) (absence of public record or entry).
+An applicant attempting to prove the applicability of Mitigating Condition 1 has the burden
+of proving a negative, i.e., that a foreign power is not likely to engage in exploitive conduct in the
+future, or has not done so in the past.  Proving a negative can be difficult, of course.  The law
+recognizes that the burden of proving a negative can be satisfied by proof which renders probable
+the existence of the negative fact.  (See Majestic Sec. Corp. v. Commissioner, 120 F.2d 12, 14 (8th
+Cir. 1941) (“A negative proposition may appropriately be established by proof of an affirmative
+opposite.”); CareFirst of Md., Inc. v. First Care, P.C., 434 F.3d 263, 269 (4th Cir. 2006) (“the
+absence of any evidence of actual confusion over a substantial period of time - here, approximately
+nine years - creates a strong inference that there is no likelihood of confusion.”); Aetna Casualty &
+Surety Co. v. General Electric Co., 758 F.2d 319, 325 (8th Cir. 1985) (citing 22 C. J. Evidence § 15
+(1940) “Whenever the establishment of an affirmative case requires proof of a material negative
+allegation, the party who makes such allegation has the burden of proving it, especially where the
+most appropriate mode of proof is by establishing the affirmative opposite of the allegation.”);
+Leonard v. St. Joseph Lead Co., 75 F.2d 390, 397 (8th Cir. 1935) (“A negative in its very nature
+usually is susceptible of no more than approximate proof, and generally is sufficiently proved by
+proving some affirmative fact or state of facts inconsistent with the affirmative of the proposition
+to be negatived.”); Ake v. GMC, 942 F. Supp. 869, 874 (D.N.Y. 1996) (“A lack of evidence of prior
+accidents is never conclusive proof that the defendant exercised due care, but it is a factor that the
+fact-finder could consider.”).) 
+Normally in cases presented under Guideline B, numerous documents are introduced as
+evidence of the nature of any security risk posed by the foreign country.  Typically these discuss in
+some detail any history of a friendly or hostile relationship between the foreign power and the United
+States, the foreign country’s human rights practices, and any reports of the history of intelligence-
+gathering activities by the foreign power. These documents constitute evidence of an “affirmative
+opposite” tending to establish the negative proposition.  For example, evidence that the U.S. and a
+foreign government have security alliances is some evidence suggesting the foreign government
+would not act adversely to U.S. security interests  Similarly, where a document reflects the extent
+of any intelligence collecting activity, but does not include any indication that the foreign power has
+engaged in the kind of exploitive behavior which forms the basis for concern in Mitigating Condition
+1, the absence of evidence is some proof, though not conclusive, that such exploitive behavior has
+not occurred.
+Of course, the important point is that this “absence of evidence” is competent evidence upon
+which an applicant may rely in attempting to prove his or her case, and which an administrative
+judge is required to consider when weighing all the evidence.  The simple fact that an administrative
+judge does so does not constitute an improper “shifting of the burden of proof.” 
+A close examination of the cases where the Appeal Board has found “burden shifting” is
+revealing.  For example, in ISCR Case No. 02-22461 (App. Bd. January 5, 2005), the administrative
+21
+judge carefully set out the proper burdens of proof for the government and the applicant, and found
+the government had presented evidence raising security concerns under the applicable guideline.  The
+administrative judge then specifically reiterated that, “Once the government meets its burden of
+proving controverted facts, the burden shifts to an applicant . . . .”  (Id. at 6.)  While discussing all
+the evidence bearing on the relationship between the foreign country in question and the United
+States, the administrative judge noted, “further, there is no indication that Taiwan has ever attempted
+to exploit any resident of Taiwan for the purpose of compromising a security clearance holder within
+the United States.”  (Id. at 7.)  The administrative judge issued a favorable clearance decision and
+the government appealed.  The Appeal Board concluded the administrative judge improperly shifted
+the burden of proof to the government to disprove the existence of a mitigating condition.  (ISCR
+Case No. 02-22461 at 4 (App. Bd. Oct. 27, 2005).)  However, a review of the original opinion
+reveals the administrative judge did not improperly shift the burden of proof; rather, he was
+commenting on the state of all the evidence, and making a permissible comment on what the
+evidence did or did not show.  (Compare ISCR Case No. 02-31154 at 5-6) (App. Bd. January 27,
+2005) with ISCR Case No. 02-31154 at 5 (App. Bd. September 22, 2005) (finding “burden
+shifting”); and ISCR Case No. 03-16848 at 3-5 (January 24, 2005) with ISCR Case No. 03-16848
+at 8 (App. Bd. August 30, 2005) (finding burden shifting).)  The Appeal Board’s rulings on this issue
+effectively deny applicants the opportunity to present favorable evidence under Mitigating Condition
+1, thereby denying the due process afforded under Executive Order 10865 and Department of
+Defense Directive 5220.6.
+Rebuttable Presumption
+The Appeal Board has also made it more difficult for an applicant to obtain a favorable
+decision in cases brought under Guideline B through its application of a “rebuttable presumption,”
+long recognized by the courts as a “troublesome evidentiary device.”  (Ulster County Court v. Allen,
+442 U.S. 140, 157 (1979).)  The Appeal Board created “a rebuttable presumption that an applicant
+has ties of affection for, or obligation to, his spouse’s immediate family members.”  (ISCR Case No.
+01-03120 at 4 (App. Bd. Feb. 20, 2002).)  As applied to these administrative cases, the Appeal
+Board’s presumption is not rationally based and exceeds the scope of its authority.
+A rebuttable presumption requires the fact-finder to find the presumed element unless the
+applicant persuades him or her that such a finding is unwarranted.  (Francis v. Franklin, 471 U.S.
+307, 314 (1985).)  Under Rule 301 of the Federal Rules of Evidence (which serve as a guide for
+administrative hearings under the Directive, ¶ E3.1.19) “a presumption imposes on the party against
+whom it is directed the burden of going forward with evidence to rebut or meet the presumption.”
+In other words, a presumption places upon the opposing party the burden of establishing the non-
+existence of the presumed fact.
+In order for a presumption to meet basic requirements of due process, there must be a
+“rational connection between the fact proved and the ultimate fact presumed.”  (Tot v. United States,
+319 U.S. 463, 467 (1943).)  A presumption is “‘irrational’ or ‘arbitrary,’ and hence, unconstitutional,
+unless it can be said with substantial assurance that the presumed fact is more likely than not to flow
+from the proved fact on which it is made to depend.”  (Leary v. United States, 395 U.S. 6, 36 (1969);
+Barnes v. United States, 412 U.S. 837, 841-43 (1973).)
+  
+22
+It is important to keep in mind that the presumption only arises in the narrow circumstance
+where an Applicant, a U.S. citizen, is married and his or her spouse has immediate family members
+who are citizens or residents of a foreign country.  In such cases, the immediate family members
+normally reside in a foreign country; often the applicant has never met them or has only met them
+a few times, and cannot speak their language.  Comparing the proved fact (the applicant’s spouse’s
+immediate family members are citizens or residents of a foreign country) and the presumed fact (the
+applicant has close ties of affection or obligation to them), it is readily apparent they do not coincide.
+Considering the normal circumstances for cases under Guideline B, there is no rational basis for the
+presumption that an applicant has ties of affection or obligation to his spouse’s immediate family
+members. 
+The presumption fashioned by the Appeal Board also has the effect of re-writing and
+expanding the scope of Disqualifying Condition 1 under Guideline B.  As currently written, the
+Directive, ¶ E2.A2.1.2.1, lists as a condition that could raise a security concern: “An immediate
+family member, or a person to whom the individual has close ties of affection or obligation, is a
+citizen of, or resident or present in, a foreign country.”  Paragraph E2.A2.1.3.1 of the Directive
+defines immediate family members” as “spouse, father, mother, sons, daughters, brothers, sisters.”
+As written, Disqualifying Condition 1 is raised–essentially automatically–where there is evidence
+that immediate family members are citizens or residents of a foreign country.  For Disqualifying
+Condition 1 to apply to anyone else, it must be also shown that the applicant has close ties of
+affection or obligation to them.  By applying the presumption, the Appeal Board has effectively re-
+written Disqualifying Condition 1, expanding it to automatically apply where an applicant’s spouse
+has immediate family members who are foreign citizens or residents.  Of course, had the drafters of
+the Directive intended that application, they could have written DC 1 that way.  However, the
+drafters did not do so, and it is beyond the authority of the Appeal Board to expand the scope of DC
+1 through a rebuttable presumption.
+Result
+Comparing the balanced provisions of the Executive Order and the Directive against the
+absolute standards applied by the Appeal Board in Guideline B cases, it appears the Appeal Board’s
+rulings are not consistent with the Directive.  Where the Appeal Board’s rulings are inconsistent with
+the policy and terms of the Directive, it creates enormous difficulties for administrative judges, who
+are torn between their responsibility to properly apply the Directive and the requirement in remand
+cases to correct the errors identified by the Appeal Board.  (Directive, ¶ E3.1.35.)  In such
+circumstances, the recommended practice is to follow the decision of the higher body, leaving to
+superior courts the prerogative of overruling incorrect decisions.  (Rodriguez de Quijas v.
+Shearson/American Express Inc., 490 U.S. 477, 484 (1989).)  Of course, federal courts have the
+authority to compel agencies to follow their own regulations.  (Cafeteria & Restaurant Workers
+Union, Local 473 v. McElroy, 367 U.S. 886, 892-93 (1960); Hill v. Department of the Air Force, 844
+F.2d 1407, 1412 (10th Cir. 1988).)  Until a higher court intervenes, we are bound by the Appeal
+Board’s holdings.
+CONCLUSIONS
+23
+I considered carefully all the facts in evidence and the legal standards discussed above.  I
+reach the following conclusions regarding the allegations in the SOR. 
+Paragraph E2.A2.1.2.1 of the Directive provides that it may be a disqualifying condition if
+“an immediate family member, or a person to whom the individual has close ties of affection or
+obligation, is a citizen of, or resident or present in, a foreign country.”  Paragraph E2.A2.1.3.1
+defines “immediate family members” to include a spouse, father, mother, sons, daughters, brothers,
+and sisters.  None of Applicant’s immediate family members fall within the terms of this paragraph.
+His wife’s parents are citizens of the P.R.C., although they reside permanently in the U.S.  They live
+with Applicant and his family, care for his young child, and rely on him for support.  I conclude
+Applicant has close ties of affection or obligation for his wife’s parents.  These circumstances are
+sufficient to raise possible security concerns.  
+Applicant’s wife also has a sister who is a citizen and resident of the P.R.C.  As discussed
+above, the Appeal Board holds that there is a rebuttable presumption that Applicant has close ties
+of affection or obligation to his wife’s sister.  It appears Applicant has little or no contact with his
+sister-in-law, and what relationship exists is not favorable.  Considering all the evidence, I find
+Applicant has rebutted any presumption that he has close ties of affection or obligation to his wife’s
+sister in the P.R.C.
+Under ¶ E2.A2.1.2.2 of the Directive, it may be disqualifying where an applicant is
+“[s]haring living quarters with a person or persons, regardless of their citizenship status, if the
+potential for adverse foreign influence or duress exists.”  Applicant shares his living quarters with
+his wife’s parents, who are citizens of the P.R.C.  They have several ties to the P.R.C., including
+their citizenship and a daughter, son-in-law, and grandchild living in China.  I find the evidence
+raises this potential security concern.
+The Directive, ¶ E2.A2.1.2.7, provides that it may be a security concern where there are
+“[i]ndications that representatives or nationals from a foreign country are acting to increase the
+vulnerability of the individual to possible future exploitation, coercion or pressure.”  Department
+Counsel argued this concern was raised because Applicant’s second wife was a citizen of the P.R.C.
+when she met and married Applicant, and because a Chinese travel agency provided tours of China
+to Applicant.  However, the available evidence is insufficient to establish that Applicant’s second
+wife or the Chinese travel agent were representatives of the P.R.C. or that they were motivated, in
+whole or in part, by a desire to increase Applicant’s vulnerability to future exploitation, coercion,
+or pressure.  I note Applicant was a travel agent at that time–he had not assumed his present
+position–and thus had no access to classified material.  I find the evidence insufficient to raise this
+potentially disqualifying condition. 
+Under the Directive, potentially disqualifying conditions may be mitigated through the
+application the “whole person” concept and specific mitigating conditions.  When the Government
+produces evidence raising potentially disqualifying conditions, an Applicant has the burden to
+produce evidence to rebut, explain, extenuate, or mitigate the conditions.  (Directive, ¶ E3.1.15.)
+The government never has the burden of disproving a mitigating condition.  (ISCR Case No. 02-
+31154 at 5 (App. Bd. Sep. 22, 2005).)
+24
+Paragraph E2.A2.1.3.1 of the Directive provides that it is potentially mitigating where the
+“associate(s) in question are not agents of a foreign power or in a position to be exploited by a
+foreign power in a way that could force the individual to choose between loyalty to the person
+involved and the United States.”  As noted above, applicants must establish: (1) that the individuals
+in question are not “agents of a foreign power,” and (2) that they are not in a position to be exploited
+by a foreign power in a way that could force the applicant to chose between the person(s) involved
+and the United States.  (ISCR Case No. 02-14995 at 5 (App. Bd. Jul. 26, 2004).)  
+None of Applicant’s in-laws meet the definition of “agent of a foreign power” under 50
+U.S.C. § 438(6) and 50 U.S.C. § 1801(b).  Similarly, none of them would be considered as an “agent
+of a foreign power” under the more expansive definition adopted by the Appeal Board.  The
+available evidence indicates his wife’s parents are both retired from non-governmental employment
+and her sister works in the private sector.
+The second prong of the test is whether the relatives in question are “in a position to be
+exploited by a foreign power in a way that could force the individual to choose between loyalty to
+the person(s) involved and the United States.”  (Directive, ¶ E2.A2.1.3.1.)  The federal statute, 50
+U.S.C. § 1801(a), defines “foreign power” to include: a foreign government; a faction of a foreign
+nation; an entity openly acknowledged by a foreign government to be controlled by that foreign
+government; a group engaged in international terrorism; a foreign-based political organization; or
+an entity directed and controlled by a foreign government. 
+To determine whether Applicant was “in a position to be exploited by a foreign power,” I
+would ordinarily weigh Applicant’s connection to his wife’s family against his strong ties to the
+United States.  I would note that Applicant’s wife and child are citizens and residents of the United
+States, and therefore entitled to the liberties and protection afforded U.S. citizens.  His wife’s
+parents, while citizens of the P.R.C., reside permanently in the U.S. and thus are removed from the
+physical control of foreign powers in the P.R.C.  Moreover, they have no connection to or
+dependence upon a foreign power in the P.R.C.  His wife’s sister presents a somewhat greater
+vulnerability; although she has no connection to or dependence upon a foreign power, she is still
+under the physical control of the P.R.C.  Applicant’s record of successfully holding a security
+clearance for many years, and his career of distinguished service to the U.S. Navy, make it extremely
+unlikely that he would be vulnerable to improper influence through his wife’s relatives.  
+However, as discussed above, in order to apply the second prong of Mitigating Condition 1,
+the Appeal Board requires that applicants affirmatively prove that there is no possibility that anyone
+would attempt to exploit a foreign relative in the future.  Also, the Appeal Board prohibits any
+consideration of evidence that is not dispositive of the issue.  Finally, the Appeal Board finds it
+irrelevant to this issue whether an applicant is likely to be improperly influenced by a foreign relative
+or associate.  Applying that standard, Mitigating Condition 1 does not apply.
+Under the Directive, ¶ E2.A2.1.3.3, it may be mitigating where “[c]ontact and
+correspondence with foreign citizens are casual and infrequent.”  Applicant’s contact with his wife’s
+sister has been isolated and infrequent, but he has regular and frequent contact with his wife’s
+parents.  This potentially mitigating condition applies only in part.
+The “Whole Person” Concept.
+25
+The “whole person” concept–not the potentially disqualifying or mitigating conditions–is the
+heart of the analysis of whether an applicant is eligible for a security clearance.  (Directive, ¶ E2.2.3.)
+Indeed, the Appeal Board has repeatedly held that an administrative judge may find in favor of an
+applicant where no specific mitigating conditions apply.  (ISCR Case No. 03-11448 at 3-4 (App. Bd.
+Aug. 10, 2004); ISCR Case No. 02-09389 at 4 (App. Bd. Dec. 29, 2004).)
+In assessing whether an applicant is a security risk because of his or her relatives or associates
+in a foreign country, it is necessary to consider all relevant factors.  As noted above, ¶¶ E2.2.1,
+E2.2.2, and E2.2.3 of the Directive specifically require each administrative judge to consider all the
+facts and circumstances, including the “whole person” concept, when evaluating each individual
+case.  To ignore such evidence would establish a virtual per se rule against granting clearances to any
+person with ties to persons in a foreign country, contrary to the clear terms of the Directive.
+“Although the position of an applicant’s foreign family members is significant and may preclude the
+favorable application of Foreign Influence Mitigating Condition 1, the totality of an applicant’s
+conduct and circumstances (including the realistic potential for exploitation) may still warrant a
+favorable application of the relevant general factors.”  (ISCR Case No. 03-17620 at 4 (App. Bd. Apr.
+17, 2006) (footnotes omitted); accord ISCR Case No. 03-23259 at 3 (App. Bd. May 10, 2006).)
+One of the “whole person” factors which must be considered is “the potential for pressure,
+coercion, exploitation, or duress.”  (Directive, ¶ E2.2.1.8.)  In that regard, an important factor for
+consideration is the character of any foreign power in question, including the government and entities
+controlled by the government, within the relevant foreign country.  This factor is not determinative;
+it is merely one of many factors which must be considered.  Of course, nothing in Guideline B
+suggests it is limited to countries that are hostile to the United States.  (See ISCR Case No. 00-0317
+at 6 (App. Bd. Mar. 29, 2002); ISCR Case No. 00-0489 at 12 (App. Bd. Jan. 10, 2002).)  The Appeal
+Board repeatedly warns against “reliance on overly simplistic distinctions between ‘friendly’ nations
+and ‘hostile’ nations when adjudicating cases under Guideline B.”  (ISCR Case No. 00-0317 at 6
+(App. Bd. Mar. 29, 2002)).  It is well understood that “[t]he United States has a compelling interest
+in protecting and safeguarding classified information from any person, organization, or country that
+is not authorized to have access to it, regardless of whether that person, organization, or country has
+interests inimical to those of the United States.”  (ISCR Case No. 02-11570 at 5 (App. Bd. May 19,
+2004).)  Distinctions between friendly and unfriendly governments must be made with extreme
+caution.  Relations between nations can shift, sometimes dramatically and unexpectedly.  Moreover,
+even friendly nations can have profound disagreements with the United States over matters they view
+as important to their vital interests or national security.  Finally, friendly nations have engaged in
+espionage against the United States, especially in economic, scientific, military, and technical fields.
+(ISCR Case No. 00-0317, 2002 DOHA LEXIS 83 at **15-16 (App. Bd. Mar. 29, 2002).)
+Nevertheless, the relationship between a foreign government and the U.S. may be relevant in
+determining whether a foreign government or an entity it controls is likely to attempt to exploit a
+resident or citizen to against the U.S. through the applicant.  The nature of the foreign government
+might also relate to the question of whether the foreign government or an entity it controls would risk
+jeopardizing its relationship with the U.S. by exploiting or threatening its private citizens in order
+to force a U.S. citizen to betray this country.  A friendly relationship is not determinative, but it may
+make it less likely that a foreign government would attempt to exploit a U.S. citizen through relatives
+or associates in that foreign country.
+26
+The government of the People’s Republic of China is controlled by the Communist Party.
+The State Department reports it has a poor record of protecting human rights.  The P.R.C. has a
+history of poor relations with the U.S.  These factors are not determinative, but suggest it is more
+likely that China would attempt to exploit its residents or citizens to act adversely to the interests of
+the United States in the future. 
+It is also helpful to consider Applicant’s relatives’ vulnerability to exploitation by foreign
+powers in the P.R.C.  Applicant’s parents-in-law reside permanently in the U.S. and are thus out of
+the physical control of the P.R.C.  They are not attached to or economically dependent upon the
+P.R.C. government.  His sister-in-law lives in China and is therefore more vulnerable to the foreign
+powers there.
+Most importantly, it is necessary to consider Applicant’s vulnerability to exploitation through
+his relatives.  Applicant is a mature individual with an impressive history of service to this country.
+He is a U.S. citizen by birth.  He provided many years of exceptional service to the U.S. Navy, as
+an enlisted member and an officer, and successfully held a high-level security clearance during his
+military career.  Applicant has strong ties to the United States.  Because of Applicant’s deep and
+long-standing relationships and loyalties in the U.S., he can be expected to resolve any conflict of
+interest in favor of the United States.  I find the potential for pressure, coercion, exploitation, or
+duress does not constitute a security risk.  (Directive, ¶ E2.2.1.8.) 
+I considered carefully the “whole person” concept, keeping in mind that any doubt as to
+whether access to classified information is clearly consistent with national security must be resolved
+in favor of the national security.  I conclude Applicant has mitigated any potential security concerns
+arising from Applicant’s family ties to the P.R.C.
+FORMAL FINDINGS
+My conclusions as to each allegation in the SOR are:
+Paragraph 1, Guideline B: FOR APPLICANT
+Subparagraph 1.a: For Applicant
+Subparagraph 1.b: For Applicant
+Subparagraph 1.c: For Applicant
+Subparagraph 1.d: For Applicant
+Subparagraph 1.e: For Applicant
+Subparagraph 1.f: For Applicant
+DECISION
+In light of all of the circumstances presented by the record in this case, it is clearly consistent
+with the national interest to grant or continue a security clearance for Applicant.  Clearance is
+granted.
+27
+Michael J. Breslin
+Administrative Judge

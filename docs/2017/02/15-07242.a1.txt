@@ -1,0 +1,148 @@
+KEYWORD:  Guideline B
+DIGEST:  We find the Judge committed harmful error by making a whole-person assessment
+that runs contrary to the record evidence.  Adverse decision remanded.
+CASE NO:  15-07242.a1
+DATE:  02/09/2017
+DATE:  February 9, 2017
+In Re:
+------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-07242
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Alan K. Hahn, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On May
+12, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline B (Foreign Influence) of Department of Defense
+Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On
+November 8, 2016, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Darlene D. Lokey Anderson denied Applicant’s request for a security
+clearance.   Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal:  whether the Judge erred in her whole-
+person assessment; whether the Judge failed to consider a mitigating condition; and whether the
+Judge’s adverse decision was arbitrary, capricious, or contrary to law.  Consistent with the
+following, we remand the decision.   
+The Judge’s Findings of Fact
+Applicant is a 34-year-old employee of a defense contractor.  He became a U.S. citizen in
+1994 and earned a bachelor’s degree and master’s degree in the United States.  
+Applicant’s wife was born in China and grew up there.  She came to the United States in
+2008 to pursue a master’s degree.  They married in early 20161 and reside together in the United
+States.  She works for a U.S. corporation and frequently travels to China to perform work there.  As
+part of her job, she deals with Chinese governmental and non-governmental entities.  She recently
+applied for a green card to become a permanent resident alien, but has no plans to become a U.S.
+citizen.  They recently purchased a home in the United States and plan to raise a family here. 
+Applicant’s father-in-law and mother-in-law are citizens and residents of China.  They own
+property in China.  As their only children, Applicant’s wife stands to inherit the property in China. 
+Applicant’s father-in-law is a general contractor for a U.S. company.2  At one point, he was a
+member of the Communist Party, but no longer considers himself a part of it because he has not paid
+dues in 20 years.  Applicant’s mother-in-law is a homemaker.  Applicant’s wife communicates with
+her parents a few times a week.  
+The Judge’s Analysis
+Applicant’s wife is a Chinese citizen, travels to China on a frequent basis, works directly
+with the Chinese government, and has no plans to become a U.S. citizen.  She maintains regular
+contact with her parents, and her father was at one time a member of the Communist Party.  These
+circumstances pose a potential threat to the United States.  Under Guideline B, disqualifying
+1 The SOR alleged that Applicant’s girlfriend is a citizen of China and her parents are citizens and residents
+of that country.  At the time the SOR was issued, the Personnel Security Specialist who signed that document was
+apparently unaware of Applicant’s  marriage. 
+2  The evidence reflects that Applicant’s father-in-law is not a general contractor, but a general manager of a
+U.S. company’s facility in China.
+conditions 7(a),3 7(b),4 and 7(d)5 apply.
+The Judge concluded that mitigating condition 8(b)6 applied, but was not controlling because
+Applicant’s wife could be a potential target for foreign influence.  The Judge also stated:
+I have also considered the “whole-person concept” in evaluating the Applicant’s
+eligibility for access to classified information.  Under the particular facts of this case,
+the totality of the conduct set forth above, when viewed under all of the guidelines
+as a whole supports a whole-person assessment of poor judgment, untrustworthiness,
+unreliability, a lack of candor, and unwillingness to comply with rules and
+regulations, and/or other characteristics indicating that the person may not properly
+safeguard classified information.7
+Discussion
+ A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”  Directive, Enclosure 2 ¶ 2(b).  The Appeal Board may reverse the Judge’s
+decision to grant, deny, or revoke a security clearance if it is arbitrary, capricious, or contrary to law. 
+Directive ¶¶ E3.1.32.3 and E3.1.33.3.  
+There is a strong presumption against the grant or maintenance of a security clearance.  See
+Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After
+the Government presents evidence raising security concerns, the burden shifts to the applicant to
+3 Directive, Enclosure 2 ¶ 7(a) states, “contact with a foreign family member, business or professional associate,
+friend, or other person who is a citizen of or resident in a foreign country if that contact creates a heightened risk of
+foreign exploitation, inducement, manipulation, pressure, or coercion[.]” 
+4 Directive, Enclosure 2 ¶ 7(b) states, “connections to a foreign person, group, government, or country that
+create a potential conflict of interest between the individual’s obligations to protect sensitive information or technology
+and the individual’s desire to help a foreign person, group, or country by providing that information[.]” 
+5 Directive, Enclosure 2 ¶ 7(d) states, “sharing living quarters with a person or persons, regardless of citizenship
+status, if that relationship creates a heightened risk of foreign inducement, manipulation, pressure, or coercion[.]”
+6 Directive, Enclosure 2 ¶ 8(b) states, “there is no conflict of interest, either because the individual’s sense of
+loyalty or obligation to the foreign person, group, government, or country is so minimal, or the individual has such deep 
+and longstanding relationships and loyalties in the U.S., that the individual can be expected to resolve any conflict of
+interest in favor of the U.S. interest[.]”
+7 Decision at 7.
+rebut or mitigate those concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and
+mitigating conditions and whole-person factors does not turn simply on a finding that one or more
+of them apply to the particular facts of a case.  Rather, their application requires the exercise of
+sound discretion in light of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at
+3 (App. Bd. Dec. 20, 2006).
+In deciding whether the Judge’s rulings or conclusions are erroneous, we will review the
+Judge’s decision to determine whether:  it does not examine relevant evidence; it fails to articulate
+a satisfactory explanation for its conclusions, including a rational connection between the facts
+found and the choice made; it does not consider relevant factors; it reflects a clear error of judgment;
+it fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  See, e.g., ISCR Case No. 14-02563 at 3 (App. Bd. Aug. 28, 2015).
+Applicant contends the Judge committed harmful error in her whole-person analysis. 
+Specifically, he argues that there is no evidence in the record supporting the Judge’s “whole-person
+assessment of poor judgment, untrustworthiness, unreliability, a lack of candor, and unwillingness
+to comply with rules and regulations, and/or other characteristics indicating that the person may not
+properly safeguard classified information.”  In the appeal brief, Applicant points to numerous
+reference letters offered into evidence as well as the testimony of a supervisor that attest to his good
+character and professionalism.  The substance of the reference letters and the supervisor’s testimony
+was not addressed in the Judge’s decision.  Based on our review of the record, we found no evidence
+supporting the negative comments in the Judge’s whole-person assessment.8  Accordingly,  we find
+the Judge committed harmful error by making a whole-person assessment that runs  contrary to the
+record evidence.9      
+Applicant also contends that the Judge did not address mitigating condition 8(a)10 in her
+decision.  Based on the record evidence, we agree with Applicant’s contention mitigating condition
+8(a) should have been analyzed in this case.  Applicant raised other appeal issues, but it would be
+premature to address those other issues at this time.
+Applicant has demonstrated error that warrants remand.  Pursuant to Directive ¶ E3.1.33.2.,
+the Board remands the case to the Administrative Judge for the issuance of a new decision that
+corrects the errors identified above. 
+8 In his closing statement, Department Counsel referred to Applicant as “a young man of integrity.” 
+9 We note that the Judge has used the same language in another case (ISCR Case No. 15-04340 at 2-3 (App.
+Bd. Jan. 30, 2017)) where there was no evidence to support an adverse conclusion regarding Applicant’s candor. 
+10 Directive, Enclosure 2 ¶ 8(a) states, “ the nature of the relationship with foreign persons, the country in which
+these persons are located, or the positions or activities of those persons in that country are such that it is unlikely the
+individual will be placed in a position of having to choose between the interests of a foreign individual, group,
+organization, or government and the interests of the U.S.[.]”
+Order
+The Decision is REMANDED.  
+Signed:  Michael Ra’anan         
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody          
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy            
+James F. Duffy
+Administrative Judge
+Member, Appeal Board

@@ -1,0 +1,117 @@
+KEYWORD: Guideline B; Guideline E
+DIGEST: The Judge’s analysis misstates the period of time Applicant has worked at his current
+job as nine months.  The Board cannot conclude the error is harmless.  Adverse decision
+remanded.
+CASENO: 11-15184.a1
+DATE: 07/25/2013
+DATE: July 25, 2013
+In Re:
+----------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-15184
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+John Bayard Glendon, Esq., Deputy Chief Department Counsel
+FOR APPLICANT
+Leslie McAdoo Gordon, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+September 4, 2012, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+2
+that decision–security concerns raised under Guideline B (Foreign Influence) and Guideline E
+(Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+(Directive).  Applicant requested a hearing.  On May 31, 2013, after the hearing, Defense Office of
+Hearings and Appeals (DOHA) Administrative Judge LeRoy F. Foreman denied Applicant’s request
+for a security clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge made factual errors that
+impaired his application of Mitigating Condition 17(c)  and whether the Judge’s adverse decision
+was arbitrary, capricious, or contrary to law.  The Judge’s favorable findings under Guideline B and
+his favorable findings under two of the three Guideline E allegations are not at issue in this appeal.
+Consistent with the following, we remand the case to the Judge.
+The Judge’s Findings of Fact
+The Judge found that Applicant has worked for a Defense contractor since August 2011.  He
+previously worked for another Defense contractor from May 1983 to July 2011.  
+In late 2010 or early 2011, Applicant gained access to a proxy server.  This enabled him to
+bypass his employer’s restriction on accessing personal e-mail accounts while using his employer’s
+unclassified computer.  The purpose of this restriction was to reduce the risk of introducing malware
+into the employer’s information technology systems.  
+Applicant used the proxy server for his personal e-mail account, communicating with family
+and friends.  At some point he began using it in connection with a personal business.  This activity
+was uncovered by cyber-intelligence analysts conducting an investigation unrelated to Applicant.
+The investigation discovered that several employees, including Applicant, were using proxy servers
+to gain access to unauthorized internet sites.  The analysts monitored Applicant’s computer for two
+weeks and discovered thirty-six hours of suspected non-work activity on his computer.  Upon
+discovery that Applicant was “multi-tasking” during this two week period, they concluded that he
+had billed 16.9 hours of personal use, worth about $1,076, to the Government.     
+Applicant admitted to having used the proxy server to access his person e-mail account, to
+running an outside business during the workday, and to having charged Government contracts for
+time spent on personal business.  Applicant elected to resign in lieu of termination.  
+According to a forensic examiner, Applicant’s use of the proxy server did not alter or
+damage his employer’s network in any way.  He did not compromise or increase the vulnerability
+of the employer’s IT system.
+Applicant’s new job entails the same duties as the one from which he resigned.  Although
+he continues to operate his personal business, he is not seeking new business.  He is the sole
+employee and sole member of his personal company.  
+1These other Guideline E allegations pertained to two security violations.  The Judge concluded that these
+violations were isolated, inadvertent, and unlikely to recur.  
+2Directive, Enclosure 2 ¶ 17(c): “the offense is so minor, or so much time has passed, or the behavior is so
+infrequent, or it happened under such unique circumstances that it is unlikely to recur and does not cast doubt on the
+individual’s reliability, trustworthiness, or good judgment[.]”
+3
+Applicant enjoys an excellent reputation for his work performance, reliability, commitment
+to national security, and compliance with security policy.  His current supervisor has known him for
+20 years.  He views Applicant’s circumvention of his employer’s internet restrictions as a one-time
+incident.
+The Judge’s Analysis
+As stated above, the Judge resolved the Guideline B allegations in Applicant’s favor, as he
+did with two of the allegations under Guideline E.1  Concerning the Guideline E allegation
+pertaining to Applicant’s having used the proxy server, however, the Judge concluded that Applicant
+had failed to demonstrate mitigation.  In considering the possible effect of Mitigating Condition
+17(c),2 the Judge stated as follows:  
+Applicant’s use of the proxy server was recent.  Although it ended about two years
+ago, it ended because he was caught in the act, not because he chose to stop.  He has
+worked for his new employer for only about nine months, during which he has been
+under pressure to prove himself and keep his security clearance.  Under the
+circumstances, I conclude that his misconduct has not been mitigated by the passage
+of time without recurrence.  Decision at 12.
+Discussion
+Applicant challenges the Judge’s treatment of Mitigating Condition 17(c), particularly the
+statement he had worked at his current job for only nine months.  He notes record evidence that he
+had worked at this job since August 2011, nearly two years by the close of the record.  He states that
+the error impaired the Judge’s analysis of the recency of Applicant’s security-significant conduct.
+We find this argument persuasive.  In addition to the evidence cited by Applicant, we note
+the Judge’s own finding, referenced above, that Applicant had worked in his new job since August
+2011, which was about twenty-one months, more than twice the amount of time upon which the
+Judge relied in his analysis.  Accordingly, the Judge’s treatment of Mitigating Condition 17(c) was
+erroneous, and, reading the Decision in light of the record, we are not able to conclude that this error
+3Applicant also challenges the Judge’s statement that he had been under pressure at his new job to keep his
+security clearance.  This statement constitutes a reasonable inference from the record before the Judge.  We find no error
+in it.
+4In his reply brief, Department Counsel states that he does not object to a remand of the case.  
+4
+was harmless.3 See, e.g., ISCR Case No. 10-01021 at 3 (App. Bd. Nov. 18, 2011) (An error is
+harmless if it did not likely affect the outcome of the case).  Accordingly, we remand the case to the
+Judge for a new Decision consistent with the above.4 
+Order
+The Decision is REMANDED.  
+Signed: Jeffery D. Billett               
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: William S. Fields              
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                  
+James E. Moody
+Administrative Judge
+Member, Appeal Board

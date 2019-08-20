@@ -1,0 +1,170 @@
+KEYWORD: Guideline E
+DIGEST: Directive ¶ E3.1.20 permits the admission  at a DOHA proceeding of official records
+or evidence compiled in the regular course of business, without an authenticating witness. 
+Directive ¶ E3.1.19 provides that the Federal Rules of Evidence (FRE) serve as a guide in
+DOHA proceedings.  FRE 803(6) permits the admission of records of regularly conducted
+business activity.  A report that an employer is legally required to make is part of the employer’s
+regular course of business.  Accordingly, under the facts of this case, a document that
+Applicant’s former employer was required to submit by the provisions of the NISPOM relevant
+to Applicant’s eligibility for access to national security information is an official record under ¶
+E3.1.20.  It is also a business record under FRE 803(6).  Such evidence is admissible despite a
+hearsay objection because it is considered inherently trustworthy.  Adverse decision affirmed.
+CASENO: 17-03446.a1
+DATE: 03/05/2019
+DATE: March 5, 2019
+In Re:
+---------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-03446
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Erin P. Thompson, Esq., Department Counsel
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Michael J. Harris, Esq.
+Department of Defense (DoD) declined to grant Applicant a security clearance.  On October
+17, 2017, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline E (Personal Conduct) of Department of Defense
+Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On
+November 1, 2018, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Robert E. Coacher denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred by admitting
+hearsay; whether the Judge’s credibility determination was in error;  and whether the Judge’s overall
+adverse decision was arbitrary, capricious, or contrary to law.  Consistent with the following, we
+affirm.  
+The Judge’s Findings of Fact
+Applicant has worked for a Government contractor since 2016.  Before that, he worked for
+another contractor, resigning from that employment in April 2016.  While in the previous
+contractor’s employ, Applicant was advised that he would be laid off.  He found other work within
+the same company, which he performed until his resignation.  
+In late March 2016, Applicant was called to a meeting with the company’s Human Resources
+(HR) officer and with a representative of the corporate office.  He was questioned by the corporate
+representative about nearly 500 hours that Applicant allegedly worked at night.  Applicant claimed
+that he was given authority to work outside core hours, but he did not provide corroboration. 
+Believing that he had no future with the company, Applicant resigned.
+A letter from the company’s security manager stated that Applicant resigned in lieu of
+termination as result of an internal investigation.  This investigation concluded that he had
+mischarged his time during 2015 and 2016 for a total of nearly 500 hours.  This conclusion was
+based upon a review of Applicant’s badge access records, witness interviews, and Applicant’s 2015
+performance review.  
+Applicant’s former supervisor stated that Applicant never attempted to manipulate the system
+for personal gain.  His current supervisor described him as reliable, and performance appraisals from
+his prior job show that he met expectations.
+The Judge’s Analysis
+Applicant did not corroborate his claim that he had authority to work outside core hours. 
+“His action of resigning from a position he held for 16 years immediately after being confronted by
+HR about his time mischarging creates a reasonable inference that he did so to avoid termination for
+cause.”  Decision at 5.   The Judge found Applicant’s denial of wrongdoing to be lacking credibility. 
+2
+Discussion
+Applicant contends that the Judge erred by admitting Government Exhibit (GE) 2, the letter
+referenced above that summarized the findings and conclusions of the company inquiry into his
+alleged mischarging of hours.  He argues that admission of this document denied him the right to
+confront witnesses against him, as set forth in Directive ¶ E3.1.22, which forbids admission of oral
+or written statements adverse to an applicant unless there is an opportunity for cross examination. 
+He also argues that the admission of this document was contrary to the Supreme Court’s holding in 
+Greene v. McElroy, 360 U.S. 474 (1959).  We evaluate a Judge’s rulings on the admissibility of
+evidence to see if they are arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 15-
+05047 at 4 (App. Bd. Nov. 8, 2017).
+As the Judge found, GE 2 is a letter from the facility security officer (FSO) of Applicant’s
+previous employer.  It states that, in compliance with paragraph 1-302a of the National Industrial
+Security Program Operating Manual (NISPOM),1 it constitutes notice to the Defense Security
+Service of Applicant’s resignation in lieu of termination for the reasons described by the Judge in
+his findings.  This letter is unquestionably hearsay, and Applicant did not have an opportunity to
+cross examination the FSO.  However, despite the broad language of ¶ E3.1.22 when read by itself,
+hearsay is generally admissible in DOHA hearings.  The Directive does not grant a right of
+confrontation greater than, or even coextensive with, that enjoyed by criminal defendants, in whose
+cases out of court statements are often admitted under exceptions to the hearsay rule.  See, e.g.,
+ISCR Case No. 11-12461 at 4 (App. Bd. Mar. 14, 2013).  Paragraph  E3.1.22 must be read in light
+of the Directive as a whole and not in such a way that it would render other provisions therein a
+nullity.  Id.  Therefore, ¶ E3.1.22 does not forbid the admission of hearsay evidence that is
+admissible under other paragraphs of the Directive.  See, e g., ISCR Case No. 06-06496 at 4 (App.
+Bd. Jun. 25, 2009). 
+ 
+As Department Counsel argues in her Reply Brief, Directive ¶ E3.1.20 permits the admission 
+at a DOHA proceeding of official records or evidence compiled in the regular course of business,
+without an authenticating witness.  Additionally, Directive ¶ E3.1.19 provides that the Federal Rules
+of Evidence (FRE) serve as a guide in DOHA proceedings.  FRE 803(6) permits the admission of
+records of regularly conducted business activity.  A report that an employer is legally required to
+make is part of the employer’s regular course of business.  See, e.g., Lewis v. Baker, 526 F.2d 470,
+473-4 (2d Cir. 1975).  
+Accordingly, under the facts of this case, a document that Applicant’s former employer was
+required to submit by the provisions of the NISPOM relevant to Applicant’s eligibility for access
+1DoD 5220.22-M, dated February 2006, ¶ 1-302a: “Adverse Information.  Contractors shall report adverse
+information coming to their attention concerning any of their cleared employees.”  See also ¶ 1-300: “Contractors are
+required to report certain events that . . . impact the status of an employees personnel security clearance[.]”
+3
+to national security information is an official record under ¶ E3.1.20.2  It is also a business record
+under FRE 803(6).  Such evidence is admissible despite a hearsay objection because it is considered
+inherently trustworthy.  The trustworthiness of GE 2 is enhanced by the extent to which it is
+corroborated by Applicant’s admissions in GE 1, security clearance application (SCA), at 12.  In this
+exhibit, Applicant stated that his employer questioned the time that he charged for work done and
+that he decided it was in his best interest to resign.  
+Concerning Greene v. McElroy, we concur with Department Counsel’s argument that in this
+case the Supreme Court did not establish an absolute right to confrontation in a security clearance
+adjudication.  Rather, it held that the procedures employed by the DoD in denying a clearance
+without granting the applicant a right of confrontation had not been properly authorized either by
+the President or by Congress.  Executive Order 10865, Safeguarding Classified Information Within
+Industry, upon which the Directive is founded, corrects this legal infirmity.  All in all, we conclude
+that the Judge’s decision to admit GE 2 was not arbitrary, capricious, or contrary to law.  
+Applicant challenges the Judge’s conclusion that his denials of wrongdoing were not
+credible.  We are required to give deference to a Judge’s credibility determinations unless they are
+contradicted by other evidence.  Directive ¶ E3.1.32.1; ISCR Case No. 14-01894 at 6 (App. Bd.
+Aug. 18, 2015).  In this case, the challenged conclusion is a reasonable interpretation of the record. 
+GE 2 states that an inquiry conducted by his employer established that Applicant had overcharged
+his hours.  An employer’s description or characterization of events underlying an adverse action are
+entitled to at least some degree of deference.  See, e.g., ISCR Case No. 14-00114 at 3 (App. Bd. Sep.
+30, 2014).  As stated above, this document is corroborated by other evidence.  In addition to GE 1,
+Applicant’s testimony at the hearing supports its credibility.  See Tr. at 31-34, in which he
+acknowledged that company representatives accused him of overstating his hours, after which he
+resigned from the company because he decided that he “didn’t see any future there afterwards.”  We
+also note the Judge’s finding that Applicant did not corroborate his claim to have been authorized
+to work outside his normal duty hours.  We find no reason to disturb the Judge’s credibility
+determination.  
+We are persuaded by Department Counsel’s argument that Applicant’s brief constitutes, in
+large measure, a disagreement with the Judge’s weighing of the evidence.  Such a disagreement, or
+an ability to argue for an alternative interpretation of the evidence, is not sufficient to show that the
+Judge weighed the evidence in a manner that is arbitrary, capricious, or contrary to law.  See, e.g.,
+ISCR Case No. 17-02463 at 2 (App. Bd. Sep. 10, 2018).    
+2The term “official records” in E3.1.20 is not defined.  Official records are not listed as an exception to the
+hearsay rule in the FRE; however, public records are listed.  The term “public records” is defined, in part, as “[a] record
+or statement of a public office if . . . it sets out . . . a matter observed while under a legal duty to report . . . .”  FRE
+803(8).  We interpret “official records” to include writings authorized by law or regulation to be recorded or filed in a
+public office, such as adverse information reports.  Compare, FRE 901(b)(7) and 902(4).  We also note the FRE shall
+serve as a guide and the technical rules of evidence may be relaxed in security clearance proceedings.  Directive E3.1.19. 
+Furthermore, the criminal penalty under 18 U.S.C. § 1001 for knowingly and willfully providing false documents to the
+U.S. Government provides an indicia of reliability and trustworthiness to documents recorded or filed as required by law
+or regulation.   See also, FRE 807.
+4
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A ¶ 2(b):  “Any
+doubt concerning personnel being considered for national security eligibility will be resolved in
+favor of the national security.”
+Order
+The Decision is AFFIRMED. 
+Signed: Michael Y. Ra’anan        
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                 
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+5

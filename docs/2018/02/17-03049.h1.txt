@@ -1,0 +1,339 @@
+ 
+ 1
+                                                              
+DEPARTMENT OF DEFENSE 
+DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+ 
+In the matter of: ) 
+ ) 
+ REDACTED )  ISCR Case No. 17-03049 
+ ) 
+Applicant for Security Clearance ) 
+ 
+ 
+Appearances 
+ 
+For Government: Tovah Minster, Esq., Department Counsel 
+For Applicant: Pro se 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+HEINTZELMAN, Caroline E., Administrative Judge: 
+ 
+This case involves security concerns raised under Guideline F (Financial 
+Considerations). Eligibility for access to classified information is denied. 
+ 
+History of the Case 
+ 
+Applicant submitted a security clearance application on October 13, 2016. On 
+September 13, 2017, the Department of Defense (DOD) sent him a Statement of Reasons 
+(SOR) alleging security concerns under Guideline F. The DOD acted under Executive 
+Order (EO) 10865, Safeguarding Classified Information within Industry (February 20, 
+1960), as amended; Department of Defense Directive 5220.6, Defense Industrial 
+Personnel Security Clearance Review Program (January 2, 1992), as amended 
+(Directive); and the adjudicative guidelines (AG) promulgated in Security Executive Agent 
+Directive 4, National Security Adjudicative Guidelines (December 10, 2016), for all 
+decisions on or after June 8, 2017. 
+  
+ Applicant answered the SOR on October 4, 2017, and requested a decision on the 
+record without a hearing. Department Counsel submitted the Government’s written case 
+on October 23, 2017. On October 24, 2017, a complete copy of the file of relevant material 
+ 
+ 2
+(FORM) was sent to Applicant, who was given an opportunity to file objections and submit 
+material to refute, extenuate, or mitigate the Government’s evidence. He received the 
+FORM on October 23, 2017, and submitted additional evidence, which was admitted 
+without objection as Applicant’s Exhibit (AX) A. The case was assigned to me on February 
+12, 2018.  
+ 
+ The FORM included Item 4, a summary of an enhanced subject interview (ESI) 
+conducted on April 27, 2017. The ESI was not authenticated as required by Directive 
+¶E3.1.20. Department Counsel informed Applicant that he was entitled to comment on 
+the accuracy of the ESI summary; make any corrections, additions, deletions or updates; 
+or object to consideration of the ESI on the ground that it was not authenticated. Applicant 
+submitted a response to the FORM but did not comment on the accuracy or completeness 
+of the ESI summary, nor did he object to it. I conclude that he waived any objections to 
+the ESI summary. Although pro se applicants are not expected to act like lawyers, they 
+are expected to take timely and reasonable steps to protect their rights under the 
+Directive.1   
+ 
+Findings of Fact2 
+ 
+ In Applicant’s answer to the SOR, he admitted the allegations in SOR ¶¶ 1.a. 
+through 1.e. His admissions are incorporated into my findings of fact. 
+ 
+Applicant is a 41-year-old systems administrator employed by a defense contractor 
+since September 2016, and he requires a security clearance for this employment.3 He 
+was previously granted a DoD clearance in June 2002. Since July 2014, Applicant has 
+been self-employed as a computer technician for approximately ten hours a week (Item 
+4 at 1). He was unemployed from a primary employer between June 2014 and September 
+2014.4 Applicant and his ex-wife were married between 2000 and 2007, and he has two 
+sons. Applicant earned a bachelor’s degree in 1999 and a Microsoft Certified Systems 
+Administrator Certification. 
+ 
+SOR ¶¶ 1.a. and 1.b., allege failure to file state and federal tax returns for tax years 
+2007, 2012, 2013, and 2014. SOR ¶¶ 1.c., 1.d., and 1.e. are delinquent medical bills. 
+ 
+In his October 2016, security clearance application, Applicant disclosed he failed 
+to file his 2007 returns due to his divorce; he failed to file his 2012 returns due to 
+incomplete paperwork, including his W-2; and he failed to file his 2013 and 2014 returns 
+                                                          
+1 ISCR Case No. 12-10810 at 2 (App. Bd. Jul. 12, 2016).  
+ 
+2 Applicant’s personal information is extracted from his security application (Item 3) unless otherwise 
+indicated by a parenthetical citation to the record. 
+ 
+3 Applicant was also employed as a defense contractor by other employers in May 2000 to March 2007 and 
+September 2014 to September 2016. 
+ 
+4 During his unemployment, Applicant was support by his self-employment income, his parents, and state 
+unemployment compensation (Item 4 at 2). 
+ 
+ 3
+due to a lack of income and time. Applicant indicated that he was preparing to file all prior 
+and current taxes before the end of 2016 (Item 3 at 31-33).  
+ 
+In April 2017, Applicant told the Government investigator he received notifications 
+from the IRS for tax years 2012 through 2014, but had taken no action to file or pay his 
+returns due to a lack of sufficient funds. He also disclosed that he had not filed state or 
+federal returns for tax year 2007, and he owed approximately $800 (Item 4 at 2-3). Finally, 
+he told the investigator that he intends to file and pay his back taxes by December 2017. 
+ 
+ In his response to the Government’s FORM, Applicant provided documentation 
+that he filed his 2007 tax returns in October 2008, and he filed his 2012, 2013, and 2014 
+state and federal tax returns on November 25, 2017 (AX A). His documentation indicates 
+he is due a $4 refund from the IRS for 2012, and he owes state taxes for 2012 in the 
+amount of $161. Applicant owes the IRS $203 and his state $223 for tax year 2013. He 
+is due a refund of $454 from the IRS and he owes his state $217 for tax year 2014. 
+Applicant claims that his credit reports no longer demonstrate an outstanding balance for 
+SOR ¶¶ 1.c. and 1.d. He provided documentation that he resolved SOR ¶ 1.e. on 
+November 24, 2017.  
+ 
+Policies 
+ 
+“[N]o one has a ‘right’ to a security clearance.”5 As Commander in Chief, the 
+President has the authority to “control access to information bearing on national security 
+and to determine whether an individual is sufficiently trustworthy to have access to such 
+information.”6 The President has authorized the Secretary of Defense or his designee to 
+grant applicants eligibility for access to classified information “only upon a finding that it 
+is clearly consistent with the national interest to do so.”7 
+ 
+Eligibility for a security clearance is predicated upon the applicant meeting the 
+criteria contained in the AG. These guidelines are not inflexible rules of law. Instead, 
+recognizing the complexities of human behavior, an administrative judge applies these 
+guidelines in conjunction with an evaluation of the whole person. An administrative 
+judge’s overarching adjudicative goal is a fair, impartial, and commonsense decision. An 
+administrative judge must consider all available and reliable information about the person, 
+past and present, favorable and unfavorable. 
+ 
+ The Government reposes a high degree of trust and confidence in persons with 
+access to classified information. This relationship transcends normal duty hours and 
+endures throughout off-duty hours. Decisions include, by necessity, consideration of the 
+possible risk that the applicant may deliberately or inadvertently fail to safeguard 
+classified information. Such decisions entail a certain degree of legally permissible 
+                                                          
+5 Department of the Navy v. Egan, 484 U.S. 518, 528 (1988). 
+ 
+6 Egan at 527.S 
+ 
+7 EO 10865 § 2. 
+ 
+ 
+ 4
+extrapolation about potential, rather than actual, risk of compromise of classified 
+information. 
+ 
+Clearance decisions must be made “in terms of the national interest and shall in 
+no sense be a determination as to the loyalty of the applicant concerned.”8 Thus, a 
+decision to deny a security clearance is merely an indication the applicant has not met 
+the strict guidelines the President and the Secretary of Defense have established for 
+issuing a clearance. 
+ 
+ Initially, the Government must establish, by substantial evidence, conditions in the 
+personal or professional history of the applicant that may disqualify the applicant from 
+being eligible for access to classified information. The Government has the burden of 
+establishing controverted facts alleged in the SOR.9 “Substantial evidence” is “more than 
+a scintilla but less than a preponderance.”10 The guidelines presume a nexus or rational 
+connection between proven conduct under any of the criteria listed therein and an 
+applicant’s security suitability.11 Once the Government establishes a disqualifying 
+condition by substantial evidence, the burden shifts to the applicant to rebut, explain, 
+extenuate, or mitigate the facts.12 An applicant has the burden of proving a mitigating 
+condition, and the burden of disproving it never shifts to the Government.13 
+ 
+  An applicant “has the ultimate burden of demonstrating that it is clearly consistent 
+with the national interest to grant or continue his security clearance.”14 “[S]ecurity 
+clearance determinations should err, if they must, on the side of denials.”15 
+ 
+Analysis 
+ 
+ The concern under Guideline F (Financial Considerations) is set out in AG ¶ 18: 
+ 
+Failure to live within one's means, satisfy debts, and meet financial 
+obligations may indicate poor self-control, lack of judgment, or 
+unwillingness to abide by rules and regulations, all of which can raise 
+questions about an individual's reliability, trustworthiness, and ability to 
+                                                          
+8 EO 10865 § 7. 
+ 
+9 See Egan, 484 U.S. at 531. 
+ 
+10 See v. Washington Metro. Area Transit Auth., 36 F.3d 375, 380 (4th Cir. 1994). 
+ 
+11 ISCR Case No. 92-1106 at 3, 1993 WL 545051 at *3 (App. Bd. Oct. 7, 1993). 
+ 
+12 Directive ¶ E3.1.15. 
+ 
+13 ISCR Case No. 02-31154 at 5 (App. Bd. Sep. 22, 2005). 
+ 
+14 ISCR Case No. 01-20700 at 3 (App. Bd. Dec. 19, 2002). 
+ 
+15 Egan, 484 U.S. at 531; See also AG ¶ 2(b). 
+ 
+ 
+ 5
+protect classified or sensitive information. Financial distress can also be 
+caused or exacerbated by, and thus can be a possible indicator of, other 
+issues of personnel security concern such as excessive gambling, mental 
+health conditions, substance misuse, or alcohol abuse or dependence. An 
+individual who is financially overextended is at greater risk of having to 
+engage in illegal or otherwise questionable acts to generate funds . . . .  
+ 
+ This concern is broader than the possibility that a person might knowingly 
+compromise classified information to raise money. It encompasses concerns about a 
+person’s self-control, judgment, and other qualities essential to protecting classified 
+information. A person who is financially irresponsible may also be irresponsible, 
+unconcerned, or negligent in handling and safeguarding classified information.16  
+ 
+ Applicant’s admissions and his credit reports establish three disqualifying 
+conditions under this guideline: AG ¶ 19(a) (“inability to satisfy debts”), AG ¶ 19(c) (“a 
+history of not meeting financial obligations”), and AG ¶ 19(f) (“failure to file or fraudulently 
+filing annual Federal, state, or local income tax returns or failure to pay annual Federal, 
+state, or local income tax as required”). 
+ 
+ The security concerns raised in the SOR may be mitigated by any of the following 
+potentially applicable factors: 
+ 
+AG ¶ 20(a): the behavior happened so long ago, was so infrequent, or 
+occurred under such circumstances that it is unlikely to recur and does not 
+cast doubt on the individual's current reliability, trustworthiness, or good 
+judgment; 
+ 
+AG ¶ 20(b): the conditions that resulted in the financial problem were largely 
+beyond the person's control (e.g., loss of employment, a business 
+downturn, unexpected medical emergency, a death, divorce or separation, 
+clear victimization by predatory lending practices, or identity theft), and the 
+individual acted responsibly under the circumstances; 
+ 
+AG ¶ 20(d): the individual initiated and is adhering to a good-faith effort to 
+repay overdue creditors or otherwise resolve debts; 
+ 
+AG ¶ 20(e): the individual has a reasonable basis to dispute the legitimacy 
+of the past-due debt which is the cause of the problem and provides 
+documented proof to substantiate the basis of the dispute or provides 
+evidence of actions to resolve the issue; and  
+  
+AG ¶ 20(g): the individual has made arrangements with the appropriate tax 
+authority to file or pay the amount owed and is in compliance with those 
+arrangements. 
+                                                          
+16 ISCR Case No. 11-05365 at 3 (App. Bd. May 1, 2012). 
+ 
+ 
+ 6
+ 
+AG ¶ 20(a) is not fully established. The debts alleged in SOR ¶¶ 1.c. through 1.e. 
+were assigned for collection in 2016 and 2017. Thus, his financial problems are recent 
+and recurrent. Additionally, Applicant still has outstanding balances for his 2013 federal 
+taxes, and for his 2012, 2013, and 2014 state taxes. 
+AG ¶ 20(b) is not fully established. Despite the lack of details in the record, I find 
+that Applicant’s period of unemployment in 2014 and his 2007 divorce were 
+circumstances beyond his control. However, Applicant did not meet his burden to 
+establish that he acted responsibly to address his unfiled state and federal tax returns 
+and unpaid debts in a timely manner.  
+ 
+AG ¶ 20(d) is not fully established. Applicant failed to provide documentation 
+showing that he has paid his outstanding tax debts or the debts alleged in SOR ¶¶ 1.c. 
+and 1.d.  
+ 
+AG ¶ 20(e) is not established. While Applicant articulated a basis to dispute SOR 
+¶¶ 1.c. and 1.d, he did not provide any documentary proof to substantiate his dispute or 
+sufficient evidence of actions taken to resolve the issue. 
+ 
+ AG ¶ 20(g) is not fully established. I credit Applicant with filing his 2007, 2012, 
+2013, and 2014 state and federal tax returns. However, he did not provide any 
+corroborating documentation to show that he established a payment plan or made any 
+payments to the IRS and his state. Additionally, he failed to file his 2012, 2013, and 2014 
+returns for several years and filed only after the Government sent him the FORM, despite 
+previous claims that he would file in 2016. 
+ 
+I considered that Applicant has experienced financial setbacks, and the fact that 
+he is not required to be debt-free in order to qualify for a security clearance.17 However, 
+Applicant failed to file his state and federal tax returns for tax years 2012, 2013, and 2014 
+until November 2017, years after he was legally required to file. Additionally, he has not 
+paid the outstanding balances for his state taxes or his 2013 federal tax bill. Nor has he 
+submitted proof of payment or resolution for his two remaining delinquent debts. 
+Moreover, he failed to provide sufficient evidence to establish that he acted responsibly 
+to address his debt, especially during the periods when he was gainfully employed. Thus, 
+I cannot conclude that Applicant has mitigated the Guideline F concerns at this time.  
+ 
+Whole-Person Concept 
+ 
+ Under AG ¶ 2(c), the ultimate determination of whether the granting or continuing 
+of national security eligibility is clearly consistent with the interests of national security 
+must be an overall common sense judgment based upon careful consideration of the 
+following guidelines, each of which is to be evaluated in the context of the whole person. 
+                                                          
+17 ISCR Case No. 15-02903 at 3 (App. Bd. Mar. 9, 2017) (An applicant does not have to be debt-free in 
+order to qualify for a security clearance. Rather, all that is required is that an applicant act responsibly given 
+his circumstances and develop a reasonable plan for repayment, accompanied by “concomitant conduct” 
+that is, actions which evidence a serious intent to effectuate the plan). 
+ 
+ 7
+An administrative judge should consider the nine adjudicative process factors listed at AG 
+¶ 2(d): 
+ 
+(1) the nature, extent, and seriousness of the conduct; (2) the 
+circumstances surrounding the conduct, to include knowledgeable 
+participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to 
+which participation is voluntary; (6) the presence or absence of rehabilitation 
+and other permanent behavioral changes; (7) the motivation for the conduct; 
+(8) the potential for pressure, coercion, exploitation, or duress; and (9) the 
+likelihood of continuation or recurrence. 
+ 
+ I have incorporated my comments under Guideline F in my whole-person analysis, 
+and I have considered the factors in AG ¶ 2(d). After weighing the disqualifying and 
+mitigating conditions under Guideline F, and evaluating all the evidence in the context of 
+the whole person, I conclude that Applicant has not mitigated the security concerns raised 
+by his failure to pay his delinquent debts. Accordingly, Applicant has not carried his 
+burden of showing that it is clearly consistent with the national security interest of the 
+United States to grant him eligibility for access to classified information. 
+ 
+Formal Findings 
+ 
+I make the following formal findings on the allegations in the SOR: 
+ 
+Paragraph 1, Guideline F (Financial Considerations):   AGAINST APPLICANT 
+ 
+Subparagraphs 1.a. – 1.d.:   Against Applicant 
+ 
+  Subparagraph 1.e.:  For Applicant 
+ 
+Conclusion 
+ 
+ I conclude that it is not clearly consistent with the national security interests of the 
+United States to continue Applicant’s eligibility for access to classified information. 
+Clearance is denied. 
+ 
+ 
+ 
+Caroline E. Heintzelman 
+Administrative Judge 

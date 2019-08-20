@@ -1,0 +1,202 @@
+KEYWORD: Guideline F
+DIGEST: The Judge’s material findings about Applicant’s resolution of some alleged debts after
+his receipt of the SOR are based upon substantial evidence or constitute reasonable inferences or
+conclusions that could be drawn from the evidence.  Adverse decision affirmed.
+CASENO: 17-01181.a1
+DATE: 04/30/2018
+DATE: April 30, 2018
+In Re:
+-----------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-01181
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On May
+3, 2017, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On February 27, 2018, after the hearing, Administrative Judge Elizabeth M. Matchinski denied
+Applicant’s request for a security clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28
+and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in her findings of
+fact and whether the Judge’s adverse decision was arbitrary, capricious, or contrary to law. 
+Consistent with the following discussion, we affirm the Judge’s decision.
+The Judge’s Findings of Fact
+Applicant, who is 46 years old, retired as a law enforcement officer in 2006 and receives a
+monthly pension of $3,000.  From about 2010 to 2016, he experienced periods of unemployment,
+married and divorced, and underwent back surgery.  He began his current job with a defense
+contractor in 2016.  He has three children – ages 22, 21, and 16 – from his first marriage.  In 2002,
+he was ordered to pay $830 per month in child support.  He also has a 12-year-old child with a
+former girlfriend. 
+The SOR alleged that Applicant had nine delinquent debts, including a defaulted mortgage
+loan in foreclosure that was past-due about $69,000 with a balance of about $243,000 and a charged-
+off timeshare account with a balance of about $14,000.  Applicant fully satisfied or settled most of
+the debts after he received the SOR.  The Judge only found against Applicant on the defaulted
+mortgage loan and charged-off timeshare account.  
+In 2006, Applicant purchased a home with a conventional mortgage that was modified in
+2009.  He was 90-days delinquent on that loan about 15 times.  During a background interview in
+2016, he stated that he made payments on the mortgage loan after it was approved for modification
+and before it was assigned an account number, and those payments were returned to him.  He
+believed he had about $150,000 of equity in the home and, if it sold, he would use that equity to
+satisfy debts.  He also stated the current mortgage loan holder wanted an unaffordable lump-sum
+payment of the past-due amount.  In early 2017, a judgment of foreclosure was entered against him
+for about $312,000.  The property value was assessed at about $325,000.  He was given the
+opportunity to retain legal title to the property by satisfying the conditions of the mortgage.  He
+testified that he had a purchase offer equal to the mortgage debt.  However, he let the bank foreclose
+on the property when his attempt to lease the property in the hopes of regaining the equity was
+unsuccessful.  
+2
+In 2013, Applicant purchased a timeshare financed through a loan of about $14,000.  He
+made timely payments on the loan until about April 2015, and the loan was charged off later that
+year.  He testified that he contacted the creditor to make a payment to have the timeshare account
+removed from his credit report but was informed that was not possible.  In mid-2017, he received
+a letter informing him the account was canceled due to nonpayment.  Based on the terms of the
+agreement, all of his payments on that account were forfeited.  
+“In 2015, [Applicant’s] child support payment (not alleged) was routinely delinquent 30
+days, although he brought his child support current in 2016.”  Decision at 3.  A coworker provided
+a character letter attesting to his punctuality, work ethic, and leadership skills.   
+The Judge’s Analysis
+In 2017, Applicant lost a home to foreclosure because he stopped making the mortgage
+payments around March 2013.  He had other debts that were charged-off or placed for collection. 
+He had a judgment entered against him for a dental debt.  He had contracts with several different
+telecommunications providers that he canceled and ignored because he did not consider them
+legitimate debts.  
+While Applicant’s unemployment and surgery were significant factors in his failure to make
+his mortgage payments, he did not exercise prudence in some aspects.  He knew before his
+background interview of the delinquent timeshare account and ignored it.  He did not address the
+dental care judgment until it became as issue for his security clearance eligibility.  “Applicant was
+gainfully employed during the summer of 2015, and yet he was behind on his child support despite
+not making any mortgage payments.” Decision at 9.
+Applicant receives credit for payments, albeit belated, in full settlement or satisfaction of
+most of the alleged debts.  He attempted to modify his mortgage loan, but those efforts were
+unsuccessful in light of the judgment in foreclosure.  He had about $12,000 in equity on his home,
+which is sufficient to cover the fees for foreclosure.  He made no payments towards the charged-off
+timeshare account.  While this debt remains legally enforceable, it is unlikely the creditor will
+pursue further collection efforts.  “Neither debt is likely to be a source of future financial stress for
+Applicant.”  Decision at 9.  Although his child support delinquency was not alleged and cannot be
+considered as a basis for disqualification, it could be considered for other purposes, including in
+evaluating Applicant’s case in mitigation.
+In her whole-person analysis, the Judge, in pertinent part, stated:
+[Applicant] has a troubling history of not paying or stopping payments on legitimate
+obligations when he is either dissatisfied with the service or simply changes his
+mind.  There is no clear indication that he would have resolved the collection and
+judgment debts had they not become an issue for his security clearance eligibility. 
+Applicant cast some doubt on his judgment by not candidly disclosing his home
+mortgage delinquency or defaulted timeshare loan when he completed his SF 86. 
+3
+Applicant’s financial irresponsibility is too recent for me to conclude that it is clearly
+consistent with the national interest to grant him security clearance eligibility.1
+Discussion
+Applicant claims the Judge erred in her findings of fact and conclusions.  His first two
+assignments of error are related.  First, he contends the Judge erred in finding he brought his child
+support payments current in 2016.  Second, he challenges the Judge’s conclusion that he was behind
+on his child support payments while he was gainfully employed in the summer of 2015 and was not
+making his mortgage payments.  In his arguments, he points to entries in a credit report from June
+2016 and argues he brought the child support payments current in August 2015.  We note the
+difficulties inherent in interpreting credit reports spelled out in the Concurring Opinion.  For
+purposes of disposing of the issue raised on appeal, we conclude that, even if the Judge erred in her
+findings and conclusions about when Applicant’s child support payments became current, such
+errors were harmless because they did not likely affect the outcome of the case.  See, e.g., ISCR
+Case No. 11-15184 at 3 (App. Bd. Jul. 25, 2013).  As the Judge noted, Applicant’s child support
+delinquency was not alleged in the SOR and was not used in applying the disqualifying conditions,
+but could be used for other limited purposes such as in evaluating Applicant’s case in mitigation.2 
+Additionally, the time period that Applicant disputes amount to a difference of less than six months. 
+The exact month that Applicant became current on his child support payments was not an important
+factor in assessing his national security eligibility. 
+Applicant also contends that the Judge erred in her conclusion that “there is no clear
+indication that he would have resolved the collection and judgment debts had they not become an
+issue for his security clearance.”  Appeal Brief at 1, citing to Decision at 10.   In support of his
+argument, he cites to his resolution of the child support debt in August 2015, which was before he
+submitted his security clearance application.  However, from our reading of the decision, the Judge
+was not referring to the child support debt when she used the terms “collection and judgment debts”
+but instead was referring to the debts alleged in the SOR that he resolved after Applicant received
+that document.  The Judge’s material findings about Applicant’s resolution of some alleged debts
+after his receipt of the SOR are based upon substantial evidence or constitute reasonable inferences
+or conclusions that could be drawn from the evidence.  See, e.g., ISCR Case No. 12-03420 at 3
+(App. Bd. Jul. 25, 2014).  
+Applicant further argues that he mitigated the alleged security concerns.  He highlights such
+matters as his efforts to resolve the defaulted mortgage and charged-off time share account before
+the SOR was issued, his back surgery being a significant contributing factor in his late payments on
+1 Decision at 10.  
+2 See ISCR Case No. 15-07369 at 3 (App. Bd. Aug. 16, 2017) for the proposition that a Judge may consider
+non-alleged debts (a) in assessing an applicant’s credibility; (b) in evaluating an applicant’s evidence of extenuation,
+mitigation, or changed circumstances; (c) in considering whether the applicant has demonstrated successful
+rehabilitation; and (d) in applying the whole-person concept.  
+4
+the mortgage, and the Judge conclusion that neither of the two remaining unresolved debts should
+be a source of future financial stress for him.  These arguments, however,  amount to a disagreement
+with the Judge’s weighing of the evidence.  The Appeal Board has long held that the presence of
+some mitigating evidence does not alone compel the Judge to make a favorable security clearance
+decision.  As the trier of fact, the Judge has to weigh the evidence as a whole and decide whether
+the favorable evidence outweighs the unfavorable evidence, or vice versa.  A party’s disagreement
+with the Judge’s weighing of the evidence, or an ability to argue for a different interpretation of the
+evidence, is not sufficient to demonstrate the Judge weighed the evidence or reached conclusions
+in a manner that is arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 15-00650 at
+2 (App. Bd. Jun. 27, 2016).
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of national security.”
+Order
+The Decision is AFFIRMED.
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Charles C. Hale                
+Charles C. Hale
+Administrative Judge
+Member, Appeal Board
+SEPARATE OPINION OF ADMINISTRATIVE JUDGE JAMES F. DUFFY
+I concur with the majority’s decision, but write separately to address an evidentiary concern. 
+The Judge found that Applicant brought his child support account current in 2016.   Applicant
+challenges that finding by claiming he brought that account current in August 2015.  From my
+review of the credit reports in the record, I am unable to determine when exactly that account
+became current.
+5
+In his appeal brief, Applicant highlights the payment pattern on his child support account in
+a credit report.  The payment pattern for that debt contains single digit numerals, either “1s” or “2s,”
+that represent the payment status of that debt for certain months.  In proffering this credit report,
+which is a combined report from the three credit reporting agencies, the Government did not provide
+a guide that explains the meaning of the codes used in it.  Recognizing that we are prohibited from
+considering new evidence on appeal (Directive ¶ E.3.1.29), I nevertheless note that the credit
+reporting agencies appear to apply different meanings for the numerals used in reporting payment
+patterns.  For example, TransUnion uses the numeral “1” to mean “Pays as agreed,” while Experian
+uses that numeral to mean “30 days past the due date.”3  
+Credit reports generally contain information that is not self-evident.  In this regard, I first
+note that a party who relies on ambiguous or uncertain information in a credit report to prove a
+certain fact does so at the risk that such information will not be sufficient to meet the substantial
+evidence standard (Directive ¶ E3.1.32.1) because the trier of fact will be unable to decipher it. 
+Second, it is questionable that the codes for interpreting a credit report are easily, verifiable,
+indisputable facts that would be appropriate for either the Judge or Appeal Board to independently
+take administrative notice.  See, e.g., ISCR Case No. 99-0511 at 5 (App. Bd. Dec. 19, 2000) and
+Federal Rule of Evidence 201(b).  Given these circumstances, it is incumbent on a party who is
+relying on ambiguous codes in a credit report to offer into the evidence a guide for interpreting those
+codes so that they may be understood.
+While it is unclear when Applicant’s child support account was brought current, GE 3 does
+establish that, as of June 2016, the account was in a “pays as agreed” status and listed no past-due
+amount.  I agree with the majority that any error in the Judge’s findings about when this non-alleged
+debt was brought current likely had no affect on the outcome of the case.   
+Signed: James F. Duffy                
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+3 Compare,  https://www.transunion.com/resources/transunion/ doc/compliance-and-legislative-updates/HowTo
+ReadCreditReport.pdf with https://www.experian.com/assets/consumer-information/product-sheets/credit-profile-
+report.pdf. 
+6

@@ -1,0 +1,649 @@
+GE 1; GE 3; AE E.1
+GE 2.2
+1
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+)       ISCR Case No. 08-06969
+SSN: )
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Kathryn D. MacKinnon, Esquire, Department Counsel
+For Applicant: Pro se
+______________
+Decision
+______________
+HENRY, Mary E., Administrative Judge:
+Based upon a review of the case file, pleadings, exhibits, and testimony, I  deny
+Applicant’s eligibility for access to classified information.
+Applicant prepared and signed Security Clearance Applications (SF 86) on June
+10, 2004 and August 10, 2007.  He also prepared and signed an Electronic1
+Questionnaire for Investigations Processing (e-QIP) on May 31, 2005.  The Defense2
+Office of Hearings and Appeals (DOHA) issued Applicant a Statement of Reasons
+(SOR) detailing security concerns under Guideline E on October 10, 2008. The action
+was taken under Executive Order 10865, Safeguarding Classified Information within
+Industry (February 20, 1960), as amended; Department of Defense Directive 5220.6,
+Defense Industrial Personnel Security Clearance Review Program (January 2, 1992), as
+Department Counsel identified AE D as Applicant’s Post Hearing Exhibit 1 in its response to Applicant’s3
+submission.
+2
+amended (Directive); and the adjudicative guidelines (AG) effective within the
+Department of Defense for SORs issued after September 1, 2006. 
+ 
+Applicant received the SOR and submitted an answer in writing on November 6,
+2008. He requested a hearing before an administrative judge. On June 19, 2009,
+Department Counsel submitted an Amended Statement of Reasons, which Applicant
+answered on July 23, 2009. DOHA received his answer on July 24, 2009. Department
+Counsel was prepared to proceed on August 31, 2009, and I received the case
+assignment on October 23, 2009. DOHA issued a notice of hearing on October 28,
+2009, and I convened the hearing as scheduled on November 17, 2009. The
+Government offered twelve exhibits (GE) 1 through 12, which were received and
+admitted into evidence without objection. Applicant testified on his own behalf. He
+submitted three exhibits (AE) A through C, which were received and admitted into
+evidence without objection. DOHA received the transcript of the hearing (Tr.) on
+November 25, 2009. I held the record open until December 2, 2009, for Applicant and
+Department Counsel to submit additional matters.  On December 1, 2009, Applicant
+submitted seven exhibits, AE D through AE J. Department Counsel submitted a written
+response to Applicant’s new evidence and one additional exhibit, GE 13, on December
+8, 2009. Department Counsel objected to AE D as irrelevant. Department Counsel did
+not object to Applicant’s remaining submissions. The record closed on December 8,
+2009.
+Procedural and Evidentiary Rulings
+Notice
+Applicant received the hearing notice on November 9, 2009. (Tr. 10.) At the
+hearing, I advised Applicant of his right under ¶ E3.1.8 of the Directive to 15 days notice
+before the hearing. Applicant affirmatively waived his right to 15 days notice. (Id.) 
+Evidence
+Applicant submitted a copy of the Supreme Court docket sheet (AE D ) on a case3
+submitted into evidence at the hearing by the Government (GE 9 - GE 11). The
+Government objected to the admission of AE D, arguing that this evidence is not
+relevant to the decision in this case. Because the Government submitted the initial trial
+court decision and partial transcript, I will admit AE D and assign it what weight, if any,
+is appropriate.
+W hen SOR allegations are controverted, the government bears the burden of producing evidence4
+sufficient to prove controverted allegations. Directive, ¶ E3.1.14. “That burden has two components. First,
+the government must establish by substantial evidence that the facts and events alleged in the SOR
+indeed took place. Second, the government must establish a nexus between the existence of the
+established facts and events and a legitimate security concern.” See ISCR Case No. 07-18525 at 4 (App.
+Bd. Feb. 18, 2009), (concurring and dissenting, in part) (citations omitted).
+GE 1; AE E; AE J; Tr. 34-35.5
+GE 3; AE E; Tr. 36, 49, 64-65.6
+3
+Findings of Fact
+In his Answer to the SOR, Applicant admitted the factual allegations in ¶¶ 1.a,
+and 1.b, of the SOR, with explanations. His admissions are incorporated herein as
+findings of fact. He denied the factual allegation in ¶ 1.c. 
+The Government revised the SOR with new allegations 1.a through 1.f. The new
+allegations 1.e and 1.f are the same as allegations 1.b and 1.c in the original SOR. In
+his response to the Amended SOR, Applicant admitted the factual allegations in ¶¶ 1.a,
+1.b and 1.e. He denied the remaining Amended SOR allegations.  He also provided4
+additional information to support his request for eligibility for a security clearance. After
+a complete and thorough review of the evidence of record, I make the following
+additional findings of fact. 
+Applicant, who is 34 years old, works as a network architect for a Department of
+Justice contractor. He began his employment in September 2007, after being recruited
+by his employer. Applicant has a high school diploma and many certificates for
+computer networking skills, including network technology and information security. He
+operated his own consulting business before accepting his current position. Besides his
+job, he continues to be active in “the open source, an[d] information security
+communities” and operates a free open source security project that is used around the
+world.  5
+In April 2002, Applicant purchased a residence for his parents and himself. In
+that same year, Applicant met his future wife through an on-line chat room. They began
+dating and became engaged in 2004. After becoming engaged, he did not move into her
+house and she did not move into his house. They, however, spent significant time with
+each other at each other’s homes. They married in January 2006, now reside together
+in a house in another location, and have a daughter, born in December 2006. His wife is
+a stay-at-home mother.6
+Applicant’s wife listed her business as web designer. She developed websites for
+herself, her business, see discussion infra. and websites for others. She received $323
+from her web designer business in 2006. Tax returns for the years 2007 and 2008
+reflected that she has not received income from her web design business or any other
+business. Neither Applicant nor his wife has been accused, arrested, charged, or
+GE 1; GE 2; GE 3; GE 5; GE 7; AE F; AE G; AE H; AE I. 7
+GE 5; GE 11; Tr. 51-608
+GE 5; GE 6; GE 7; Tr. 94-95.9
+Tr. 59, 65.10
+4
+convicted of any criminal activity under federal or state law. Applicant does not have
+financial issues.7
+In the middle 1990's, Applicant’s wife became involved in alternative sexual
+lifestyles. In 1997, she began a voluntary bondage, discipline or dominant submissive,
+sado masochistic (BDSM) relationship with a vile and brutally dominant man. In 1998, a
+second woman moved in with her at the request of this man and was involved in a
+similar relationship with the man. During this relationship and at the direction of her
+dominant man, Applicant’s wife developed a pornography website. She and her
+roommate regularly placed pictures and written descriptions of their sexual relationship
+with this man on this website. Applicant’s wife terminated this relationship in 1999, but
+the other woman continued the relationship until 2003 at another location. Applicant
+denies the dominant man threatened his wife; but, according to the other woman in a
+later court proceeding, the man threatened harm to Applicant’s wife’s godson and to
+expose his wife’s activities to her elderly father, when his wife was terminating the
+relationship.8
+When she ended her relationship with her dominant man, Applicant’s wife
+shutdown the pornography website. Within two years, she opened a new adult website
+(website 1), using materials from this relationship, including pictures, videos, diaries,
+and written commentary. Applicant’s wife described her website as a chronicle of her
+journey into BDSM, without mentioning her own name. Website 1 contained a link to her
+hardcore pornography website, which she created using a pseudonym. She opened
+another pornography website (website 2), which is not specifically identified as a
+chronicle of her journey into BDSM, but contained information of a similar vein. Again,
+her actual identify is not mentioned. Websites 1 and 2 continue to exist on a web server
+and can be accessed by those who seek it. She registered the domain name for these
+websites and continued to hold the domain name and registration.9
+Applicant’s wife told him about her BDSM relationships and her website shortly
+after they began dating in 2002. He knows about her websites, which he described as
+her stories about alternative sexual lifestyles. He supports her right to continue these
+websites, arguing that the websites are protected free speech under the First
+Amendment because the websites are her stories, which have literary value.10
+Applicant’s wife also developed a personal, social website (website 3) under her
+own name. Through this website, she discussed her personal life, marriage, and birth of
+her daughter. She posted pictures of her wedding, which show Applicant. A computer
+search under his wife’s maiden name revealed many references to her with some using
+GE 5; GE 7; Tr. 77-80.11
+Tr. 52-53.12
+GE 5.13
+5
+her married name. Applicant acknowledged that anyone with competent computer skills
+could follow her website 3 to website 1 and website 2, making the connection between
+his wife’s name and her pseudonym. His wife developed another website (website 4),
+which offers web design for small businesses. The domain registration for website 4
+referenced a technical contact, which shows a possible connection to the pornography
+websites 1 and 2.  11
+Websites 1 and 2
+Applicant’s wife developed website 1 in 2001. The website had copyright
+protection in the same year. Applicant described this website as his wife’s fictionalized
+stories based on her own experiences and second-hand information obtained from
+others. After meeting people at a benefit for sex workers (date is unknown), his wife
+decided to write about alternative sexual lifestyles through her website. She is currently
+writing a novel on this subject12
+Website 1 provides access from page one to additional written information and
+some pictures about its contents by a “click here” direction. Website 1 includes a
+“Members, Please Click Here to Enter” point of access to specific details of her
+alternative sexual lifestyle, which, by her description, involves hardcore pornography.
+The contents of the hardcore pornography site are not of record. Page 1 of website 1
+includes advertisements for access to other BDSM pornography sites, including
+hardcore pornography.13
+Applicant’s wife is not actively working website 1 and has not done so for three
+years. However, individuals can access this website by searching the web. When an
+individual accesses the website, written material which is a lengthy discussion prepared
+and published by Applicant’s wife on her personal views on BDSM and nude pictures
+with some bondage pictures of Applicant’s wife can be viewed simply by clicking on the
+“click here” point. To view her hardcore pornography materials, membership is required.
+How an individual obtains the necessary membership is not explained. Likewise,
+membership costs, income earned from these memberships, and costs for the website
+operations are not explained or shown, nor does the record contain evidence showing
+that Applicant’s wife has sent her pornography materials to a member of the public. If
+someone clicks on one of the ads for other BDSM pornography sites, the link transfers
+the individual to that pornography website. While she provides access, his wife has no
+control over the content of these websites, does not actually provide the pornography
+materials requested, and has not provided information, including her website materials,
+for these websites. The other pornography websites have an open enrollment for
+advertising their sites. By posting their advertisements and giving an individual access
+GE 5; AE F; AE G; AE H; Tr. 52-56.14
+GE 5.15
+Id.; GE 6; GE 8; Tr. 53.16
+Under the laws of this State, a civil Protective Order will be issued in a domestic relationship. All other17
+relationships seeking protection file for a peace order. GE 12. 
+GE 12.18
+6
+to these sites by way of a click, Applicant’s wife may receive a small amount of money,
+although Applicant’s tax returns do not show any income from this. The record lacks any
+evidence that Applicant’s wife is distributing materials from these websites.14
+The website 2 access page shows two suggestive pictures of Applicant’s wife
+and two pages of written materials. If someone is interested in more information or
+materials, website 2 provides a link to website 1. One page of this website contains
+advertisements providing linkage to other BDSM pornography sites.  15
+In SOR ¶ 1.b, the government alleges that Applicant’s wife solicits clients and
+maintains an escort posting that advertises her availability for adult entertainment.
+Applicant strongly denied that his wife is or was available for adult entertainment. GE 5
+contains a page which lists sources for escorts for adult entertainment in cities all over
+the United States and several cities in Canada and one European city. This particular
+document lacks any specific reference to Applicant’s wife. No other information in the
+record specifically identifies his wife as being available as an escort for adult
+entertainment. However, a summary of a federal investigation, see infra, indicates that
+as of May 2007, if one enters the escort website, one can find a profile for his wife under
+her pseudonym, indicating her availability for “in Call - - Out Call” “Escort” services.     16
+Court case
+Applicant’s wife terminated the BDSM relationship with her dominant man in
+1999. She also ceased contacts with the other woman living with her and involved in a
+BDSM relationship with the same dominant man. In November 1999, Applicant’s wife
+filed a complaint in a state court requesting a peace order, which is a civil order, against
+the other woman.  The State court issued a temporary peace order the same day. The17
+record contains no other evidence that Applicant’s wife maintained any further contact
+with the other woman after the fall of 1999.  18
+The other woman continued her BDSM relationship with the dominant man in
+another location several hundred miles from where Applicant’s wife lived. This woman
+severed her BDSM relationship with the dominant man in 2003. At some point, the other
+woman’s BDSM relationship changed from a voluntary relationship to an involuntary
+relationship because of the threats of harm made if she did not stay with him. She filed
+a criminal complaint in another state against the dominant man. The federal grand jury
+GE 9; GE 10; GE 13; AE D. The legal basis for the criminal conviction of the dominant man, for the19
+reversal by the appellate court, and before the United States Supreme Court is not relevant to this case.
+GE 8.20
+7
+indicted the dominant man on three counts under 18 U.S.C. §§ 1589 (1), 1589 (2),
+1590, 1591(a)(1), 1591(a)(2), 1594(a), 2 and 3551 et seq,  and one count under 18
+U.S.C. §1462(a). Federal authorities arrested him on May 12, 2005 on this indictment.
+The jury in his trial found him guilty of sex trafficking and forced labor under 18  U.S.C.
+§§ 1589 and 1591 (Trafficking Victims Protection Act), and not guilty under 18 U.S.C. §
+1462(a) of dissemination through an interactive computer device of obscene materials,
+which included images of bound and tortured women engaged in sexually explicit
+conduct. The dominant man appealed his case to the federal appellate court, which
+overturned the conviction on Ex Post Facto constitutional grounds. The Government
+appealed the reversal to the United States Supreme Court, which granted the
+Government’s Petition for Certiorari on October 13, 2009. The case is currently pending
+before the United States Supreme Court.    19
+Federal law enforcement authorities interviewed Applicant’s wife in May 2004
+and conducted a brief telephone interview in May 2005 as part of their investigation into
+the criminal conduct of the dominant man. They conducted a personal interview in
+January 2007 in preparation for her possibly testifying at trial. The federal investigators
+indicated that they had knowledge of the BDSM relationship between Applicant’s wife
+and the dominant man, of website 1, and of website 2. Their report indicated that
+websites 1 and 2 were active as of the May 11, 2007, as well as the profile on the escort
+website. Finally, the report noted that Applicant’s wife was not charged in the dominant
+man matter and did not testify. It also indicated that Applicant’s wife was not charged
+with a crime related to her images on her website.20
+Security Clearance Applications
+Applicant completed his first SF-86 on June 10, 2004. He listed his personal
+residence as the property purchased on April 2002. In response to Question 7, he listed
+his wife as a person who knew him well and two other individuals. He completed an e-
+QIP on May 31, 2005 and again listed as his personal residence the property he
+purchased in April 2002. He did not list his wife as a person who knew him well under
+Section 12 or her home address as his. He listed the same two individuals listed in 2004
+plus one other. He also did not list his wife as an adult currently living with him under
+Section 14/15. Applicant submitted his second SF-86 on August 10, 2007, where he
+indicated that he had married. He identified his wife and listed her address as his
+residence from January 2006. In 2005, under Section 12, he named two of the
+individuals previously named as knowing him, one of whom he also named in 2004, and
+a third person. His listed his personal property as his address from April 2002 until
+January 2006. He explained that he did not list his wife’s address as his prior to their
+marriage because his legal address and where he received his mail was the property he
+Response to SOR; GE 1; GE 2; GE 3; AE E; Tr. 66-67.21
+AE J; Tr. 89.22
+GE 3; Tr. 119.23
+GE 11; Tr. 86-90.24
+8
+owned and because he lived at both his house and hers. He did not provide an
+explanation for the omission of his wife’s name in 2005.21
+Applicant’s project manager describes Applicant as a very experienced network
+and security engineer who holds difficult-to-obtain certifications related to the work done
+in their office. He works with Applicant on a daily basis and has spent time with
+Applicant in social settings. Applicant behaves in a totally professional and trustworthy
+manner at all times. Applicant complies with all security processes and procedures, and
+does not take shortcuts. Applicant is highly regarded by his co-workers and
+management for his skills and work ethic. The principal systems engineer holds a
+similar opinion of Applicant. Applicant acknowledged that he does not discuss sexual
+lifestyle issues or his wife’s websites at work. He believes such discussions are
+inappropriate in the workplace. His employer is not aware of his wife’s websites.22
+Applicant does not discuss his sex life with his parents nor has he discussed his
+wife’s website with them as conversations about his personal sex life are not
+conversations he has with his parents. If necessary, he would tell his parents about the
+website. He indicated his brother knows about her website. Her parents are deceased.23
+Applicant denied that his wife’s past relationship with the dominant man poses a
+current threat to him or his family although the dominant man threatened to send
+pictures to Applicant’s wife’s father or harm her godson in 1999. Applicant strongly
+disagreed with Department Counsel’s position that the BDSM community is more
+dangerous than the general population or community-at-large. The Government
+provided no evidence to support this view and Applicant provided no evidence to
+contradict the Government’s argument. Applicant strongly denied that his wife’s past
+relationship with the dominant man, her pornography websites, and contacts with the
+BDSM community create a security risk for him.24
+At the hearing, Applicant strongly supported his wife’s right to publish “her
+stories” about her BDSM lifestyle. He does not believe her work meets the legal test for
+obscenity and he does not believe her websites violate the law. There is no evidence
+that Applicant and his wife are embarrassed or ashamed of her website or her past
+lifestyle. Applicant’s demeanor at the hearing did not reflect any sense of
+embarrassment or humiliation about his wife’s website or past lifestyle. 
+In its pre-hearing brief, the Government cites to United States v. Ragsdale, 426 F.3d 765 (5  Cir. 2005)25 th
+and United States v. Thomas, 74 F.3d 701 (6  Cir. 1996) to show that individuals distributing sexuallyth
+explicit materials can be prosecuted in any jurisdiction. In both cases, the defendants placed sexually
+explicit materials on personal computers. The defendants then solicited sales, transferred the sexually
+explicit materials to tapes, and distributed the tapes through the mail or common carrier. W hile the
+Government is correct that Applicant’s wife could be prosecuted for selling her sexually explicit materials
+in a jurisdiction where the materials are delivered, there is no evidence in the record that materials from
+her websites have been sold and then delivered through the mails or by common carrier to the
+purchasers, nor does the record contain evidence of any distribution of her materials in any manner.
+9
+Legal issues
+Applicant argues that his wife’s work is protected by the first amendment
+because it does not meet the obscenity test articulated by the Supreme Court in Miller v
+California, 413 U.S. 15 (1973). He contends that it is inappropriate to bypass the
+criminal justice system and find his wife guilty of criminal conduct without being charged
+with a crime and having a trial.
+Department Counsel argues that Applicant’s wife is engaged in criminal activity
+because her internet websites meet the obscenity definition and thus, violate federal
+and state law because she is distributing hardcore pornography.  Department Counsel25
+contends that Applicant’s long-standing relationship with his wife, who is engaged in an
+activity which is criminal in nature, raises questions about his judgment. Finally,
+Department Counsel  argues that Applicant didn’t list his wife on his 2005 e-QIP in order
+to hide her activities. 
+Policies
+When evaluating an applicant’s suitability for a security clearance, the
+administrative judge must consider the revised adjudicative guidelines (AG). In addition
+to brief introductory explanations for each guideline, the adjudicative guidelines list
+potentially disqualifying conditions and mitigating conditions, which are used in
+evaluating an applicant’s eligibility for access to classified information.
+These guidelines are not inflexible rules of law. Instead, recognizing the
+complexities of human behavior, these guidelines are applied in conjunction with the
+factors listed in the adjudicative process. The administrative judge’s overarching
+adjudicative goal is a fair, impartial, and commonsense decision. According to AG ¶
+2(c), the entire process is a conscientious scrutiny of a number of variables known as
+the “whole-person concept.” The administrative judge must consider all available,
+reliable information about the person, past and present, favorable and unfavorable, in
+making a decision.
+The protection of the national security is the paramount consideration. AG ¶ 2(b)
+requires that “[a]ny doubt concerning personnel being considered for access to
+classified information will be resolved in favor of national security.” In reaching this
+decision, I have drawn only those conclusions that are reasonable, logical, and based
+10
+on the evidence contained in the record. Likewise, I have avoided drawing inferences
+grounded on mere speculation or conjecture.
+Under Directive ¶ E3.1.14, the government must present evidence to establish
+controverted facts alleged in the SOR. Under Directive ¶ E3.1.15, an applicant is
+responsible for presenting “witnesses and other evidence to rebut, explain, extenuate,
+or mitigate facts admitted by applicant or proven by Department Counsel. . . .” An
+applicant has the ultimate burden of persuasion as to obtaining a favorable security
+decision. 
+A person who seeks access to classified information enters into a fiduciary
+relationship with the government predicated upon trust and confidence. This relationship
+transcends normal duty hours and endures throughout off-duty hours. The government
+reposes a high degree of trust and confidence in individuals to whom it grants access to
+classified information. Decisions include, by necessity, consideration of the possible risk
+an applicant may deliberately or inadvertently fail to protect or safeguard classified
+information. Such decisions entail a certain degree of legally permissible extrapolation
+as to potential, rather than actual, risk of compromise of classified information.
+ 
+Section 7 of Executive Order 10865 provides that decisions shall be “in terms of
+the national interest and shall in no sense be a determination as to the loyalty of the
+applicant concerned.” See also EO 12968, Section 3.1(b) (listing multiple prerequisites
+for access to classified or sensitive information).  
+Analysis
+Guideline E, Personal Conduct
+AG ¶ 15 expresses the security concern pertaining to personal conduct:
+Conduct involving questionable judgment, lack of candor, dishonesty, or
+unwillingness to comply with rules and regulations can raise questions about an
+individual's reliability, trustworthiness and ability to protect classified information. Of
+special interest is any failure to provide truthful and candid answers during the security
+clearance process or any other failure to cooperate with the security clearance process.
+Under AG ¶ 16, the following conditions that could raise a security concern and
+may disqualify Applicant for a security clearance:
+(a) deliberate omission, concealment, or falsification of relevant facts from
+any personnel security questionnaire, personal history statement, or
+similar form used to conduct investigations, determine employment
+qualifications, award benefits or status, determine security clearance
+eligibility or trustworthiness, or award fiduciary responsibilities;
+See ISCR Case No. 03-09483 at 4 (App. Bd. Nov.17, 2004)(explaining holding in ISCR Case No. 02-26
+23133 at 5 (App. Bd. Jun. 9, 2004)).
+11
+(e) personal conduct, or concealment of information about one's conduct,
+that creates a vulnerability to exploitation, manipulation, or duress, such
+as (1) engaging in activities which, if known, may affect the person's
+personal, professional, or community standing, or (2) while in another
+country, engaging in any activity that is illegal in that country or that is
+legal in that country but illegal in the United States and may serve as a
+basis for exploitation or pressure by the foreign security or intelligence
+service or other group; and,
+(g) association with persons involved in criminal activity. 
+For AG ¶ 16(a) to apply, Applicant’s omission, concealment or falsification in his
+answer must be deliberate. The government established that Applicant omitted a
+material fact from his 2005 e-QIP when he failed to list his wife as a person who knew
+him well. This information is material to the evaluation of Applicant’s trustworthiness to
+hold a security clearance and to his honesty. In his response, he denies, however, that
+he had an intent to hide this information from the government. When a falsification
+allegation is controverted, the government has the burden of proving it. Proof of an
+omission, standing alone, does not establish or prove an applicant’s intent or state of
+mind when the omission occurred. An administrative judge must consider the record
+evidence as a whole to determine whether there is direct or circumstantial evidence
+concerning an applicant’s intent or state of mind at the time the omission occurred.26
+Applicant made the Government aware of a close personal friend on his SF-86 in
+2004. After he married this friend in 2006, he listed her in his 2007 SF-86. On his first
+two security clearance applications, he listed, as his residence, the property he
+purchased in 2002, and on his 2007 SF-86, as his residence from April 2002 until
+January 2006. He used this address for receipt of all personal matters, such as voting
+registration, car registration, bills, and other relevant materials because he did live at
+this address, but not all of the time. He considered this address as his home and legal
+address, although he spent significant time at his wife’s home when they were dating.
+She also spent time at his home. His list of individuals who knew him well changed with
+each application. Because the Government knew about his wife in 2004, his failure to
+list her in 2005 cannot be viewed as intent to hide information about her pornography
+websites. The Government has not established a security concern. Allegation 1.f of the
+amended SOR is found in favor of Applicant.
+The Government argues that Applicant ‘s wife is engaged in criminal conduct
+because through websites 1 and 2, she distributes obscene material in violation of
+federal laws, specifically 18 U.S.C. §§ 1462, 1465 and 47 U.S.C. § 231. 47 U.S.C §
+The United States Supreme Court held its predecessor law, 47 U.S.C. §§ 223(a)(1) and 223(d),27
+unconstitutional in Reno v. American Civil Liberties Union, et al, 521 U.S. 844 (1997).
+The United States Court of Appeals for the Ninth Circuit, in United States v. Kilbride, 584 F.3d 1240 (928 th
+Cir. 2009), discussed the Supreme Court‘s decision at length, then held that a national contemporary
+community standard applied in cases involving transmission of obscene images over the internet.  The
+United States District Court for the District of Columbia disagreed with the holding in Kilbride. See United
+States v. Stagliano,     F.Supp.2d    , 2010 W L 617364 (D.D.C.  Feb. 19, 2010). Stagliano involves a
+constitutional challenge to the statues at issue in this case. The decision of the trial court provides a
+discussion on the issues now being presented to the federal courts concerning internet distribution of
+pornography. Likewise, in United States v. Little, 2010 W L 357933 (11  Cir. 2010)(unpublished), theth
+United States Court of Appeals for the Fifth Circuit declined to apply the national standard articulated in
+Kilbride.
+12
+231, the Child Online Protection Act (COPA), has been the subject of litigation in the
+federal courts since its effective date in October 1998.  27
+In an early challenge to the constitutionality of 47 U.S.C. § 231, the United States
+District Court for the Eastern District of Pennsylvania granted a preliminary injunction in
+American Civil Liberties Union v. Reno, 31 F.2d 473 (E.D. Pa. 1999), on the grounds
+the ACLU would likely prevail on its First Amendment constitutional challenge that there
+were less restrictive alternatives to COPA for controlling a website dissemination of
+material “harmful to minors.” The United States Court of Appeals for the Third Circuit
+affirmed this finding on the contemporary community standards provision in the statute,
+reasoning that was not the basis for the issuance of a preliminary injunction. See
+American Civil Liberties Union v. Reno, 217 F.3d 162 (3d Cir. 2000). The United States
+Supreme Court vacated the Court of Appeals finding, holding that COPA’s reliance on
+community standards did not by itself render the statute substantially overbroad for First
+Amendment purposes, but declined to express a view as to whether COPA suffered
+from substantial overbreadth for reasons other than community standards. See Ashcroft
+v. American Civil liberties Union, 535 U.S. 564 (2002).  The Supreme Court ruled on28
+one constitutional issue only and made it clear that its decision was a narrow one. 
+The United States Supreme Court remanded the case to the United States Court
+of Appeals for the Third Circuit to reconsider the reasons given by the District Court for
+granting the preliminary injunction. Id. On remand, the appellate court affirmed the
+decision of the District Court, concluding that COPA was not the least restrictive means
+available for the Government to serve the interest of preventing minors from gaining
+access to harmful materials on the Internet and that the ACLU would most likely
+succeed on its constitutional challenge. See American Civil Liberties Union v. Ashcroft,
+322 F.3d 240 (3d Cir. 2003). Not only did the United States Supreme Court affirm the
+decision of the United States Court of Appeals in Ashcroft v. American Civil Liberties
+Union, 542 U.S. 656 (2004) on this narrow issue, Justice Stevens, in his concurring
+opinion, also raised concerns about several other constitutional defects in COPA,
+concerns expressed by other justices. Following remand from the United States
+Supreme Court, the District Court granted a permanent injunction, holding that the
+statute was not narrowly tailored to Congress’s compelling interest of protecting minors,
+that the statute was unconstitutionally vague, and that the statute was unconstitutionally
+United States of America v. Reilly, 2003 W L 1878308 (S.D.N.Y. 2003)(unreported) involves a29
+constitutional challenge under the First Amendment to 18 U.S.C. § 1462 by a federal employee who
+downloaded pornography onto his office computer. The court disagreed with the employee’s contention
+that he had a constitutional right to receive pornography under the First Amendment. W hile this case does
+not involve distribution of pornography to members of the public, it provides guidance into how the courts
+are viewing the use of interactive devices.
+13
+overbroad. See American Civil Liberities Union v. Gonzales, 478 F. Supp.2d 775 (E.D.
+Pa. 2007). The United States Court of Appeals for the Third Circuit affirmed the decision
+of the District Court that this statute was unconstitutional in American Civil Liberties
+Union v. Mukasey, 534 F.3d 181 (3d Cir. 2008), aff’d sub nom. Mukasey v. American
+Civil Liberties Union, 129 S. Ct. 1032 (2009). Given the decision of the United States
+Supreme Court, the allegations of criminal activity by Applicant’s wife under 47 U.S.C. §
+231 cannot be substantiated.
+The Government argues that pornography websites 1 and 2 of Applicant’s wife
+are obscene, and that through her website, she is distributing obscene materials in
+violation of 18 U.S.C. §§ 1462 and 1465 and the laws of one state. Applicant argues
+that her websites do not meet the obscenity test articulated in Miller, 413 U.S. at 24-25.
+The Government has not raised a security concern for Applicant under Adjudicative
+Guideline J, Criminal Conduct, because of his wife’s websites and her personal conduct.
+An allegation of criminal conduct is enough to raise a security concern under Guideline
+J, but would be insufficient under federal law for a criminal court prosecution. For a
+federal court to consider whether an individual committed a crime under any federal law,
+an indictment must be issued, charging her with an offense. Applicant’s wife has never
+been arrested or charged with a crime related to her website or any other crime. If she
+had been charged with a violation of 18 U.S.C. §§ 1462 and 1465, a federal court or jury
+would first evaluate, as a whole, all the materials on websites 1 and 2, and make a
+determination under the obscenity test enunciated in Miller as to whether the materials
+on websites 1 and 2, including the content of her members only site, are obscene.
+Should the materials provided in this record meet the Miller test, the federal court would
+look at the evidence and decide if it is sufficient to show that the materials have been
+distributed. The ultimate determination that websites 1 and 2 involve criminal activity
+would be based on the criminal standard of beyond a reasonable doubt, which is a
+much higher standard than the substantial evidence standard of proof used for security
+clearance determinations. The record evidence does not include a copy of the materials
+contained in the members only site, which is acknowledged to be hardcore pornography
+but argued as not obscene, for an independent assessment under the Miller test. In
+addition, the evidence of record fails to reflect any income earned by Applicant’s wife
+from her website. The record evidence is insufficient to establish that Applicant’s wife is
+involved in the distribution of obscenity.  The Government has not established a29
+security concern under AG ¶16(g). 
+In the instant case, the Government did not allege in the SOR that Applicant’s
+failure to inform his employer and the Government about his wife’s pornographic
+websites as a security concern. However, conduct not alleged in the SOR may be
+considered: 
+ISCR Case No. 05-01820 at 3 n.4 (App. Bd. Dec. 14, 2006)(citing ISCR Case No. 01-18860 at 8 (App. Bd.30
+Mar. 17, 2003) and ISCR Case No. 02-00305 at 4 (App. Bd. Feb. 12, 2003)).
+14
+(a) to assess an applicant’s credibility; (b) to evaluate an applicant’s
+evidence of extenuation, mitigation, or changed circumstances; (c) to
+consider whether an applicant has demonstrated successful rehabilitation;
+(d) to decide whether a particular provision of the Adjudicative Guidelines
+is applicable; or (e) to provide evidence for whole person analysis under
+Directive Section 6.3. ISCR Case No. 03-20327 at 4 (App. Bd. Oct 26,
+2006) (citations omitted). 
+I have considered the non-SOR misconduct for the above purposes. Additionally,
+the Appeal Board has determined that even though crucial security concerns are not
+alleged in the SOR, the Judge may consider those security concerns when they are
+relevant and factually related to a disqualifying condition that was alleged in the SOR.  30
+Applicant acknowledged that he has not discussed his wife’s pornography
+websites at work, saying the discussion of sexual issues in the work place is
+inappropriate. While true, his statement begs the issue of whether his employer has
+knowledge of her pornography websites. His supervisors gave no hint in their letters of
+recommendation that they are aware of his wife’s pornography websites or the reason
+for the problems with Applicant’s security clearance. Applicant agreed that individuals
+with competent computer skills could trace through his wife’s personal website, which
+contains pictures of him, her pornography websites. He is aware that others can easily
+find information on the Internet about his wife’s pornography websites. Individuals
+seeking access to classified information could try to exploit, manipulate, or subject him
+to duress because he has not told his employer about the websites. His failure to share
+this information about his wife’s pornography websites with his employer creates a
+concern that if this information is known, it may affect his personal, professional, or
+community standing. While Applicant denies his wife is involved in an escort service, he
+failed to provide information which shows she is no longer listed in the escort service
+website. The Government has established a security concern under AG ¶ 16(e).
+Once the Government establishes a disqualifying condition by substantial
+evidence, the burden shifts to the Applicant to rebut, explain, extenuate, or mitigate the
+facts. Directive § E3.1.15. An Applicant “has the ultimate burden of demonstrating that it
+is clearly consistent with the national interest to grant or continue his security clearance”
+ISCR Case No. 01-20700 at # (App. Bd. Dec. 19, 2002) The burden of disproving a
+mitigating condition never shifts to the Government. See ISCR Case No. 02-31154 at 5
+(App. Bd. Sep. 22, 2005). 
+Having concluded that the Government has raised a security concern under AG ¶
+16(e), AG ¶ 17 provides the following conditions by which the Applicant could mitigate
+security concerns:
+15
+(a) the individual made prompt, good-faith efforts to correct the omission,
+concealment, or falsification before being confronted with the facts;
+(b) the refusal or failure to cooperate, omission, or concealment was
+caused or significantly contributed to by improper or inadequate advice of
+authorized personnel or legal counsel advising or instructing the individual
+specifically concerning the security clearance process. Upon being made
+aware of the requirement to cooperate or provide the information, the
+individual cooperated fully and truthfully;
+(c) the offense is so minor, or so much time has passed, or the behavior is
+so infrequent, or it happened under such unique circumstances that it is
+unlikely to recur and does not cast doubt on the individual's reliability,
+trustworthiness, or good judgment;
+(d) the individual has acknowledged the behavior and obtained counseling
+to change the behavior or taken other positive steps to alleviate the
+stressors, circumstances, or factors that caused untrustworthy, unreliable,
+or other inappropriate behavior, and such behavior is unlikely to recur;
+(e) the individual has taken positive steps to reduce or eliminate
+vulnerability to exploitation, manipulation, or duress;
+(f) the information was unsubstantiated or from a source of questionable
+reliability; and 
+(g) association with persons involved in criminal activity has ceased or
+occurs under circumstances that do not cast doubt upon the individual's
+reliability, trustworthiness, judgment, or willingness to comply with rules
+and regulations.
+After reviewing the above mitigating conditions, I find that Applicant has not
+mitigated the Government’s security concerns because he has not provided information
+that indicates his employer is aware of his wife’s websites. Even though federal
+investigators know about his wife’s websites, he has not shown that this information has
+been shared with his immediate employer. He did not provide proof of his positive steps
+to reduce or eliminate vulnerability to exploitation, manipulation, or duress. Individuals
+interested in obtaining classified information could pressure him because his employer
+does not know about the websites. Thus, he remains vulnerable to exploitation,
+manipulation, or duress because of these websites. The other mitigating conditions are
+not applicable to this case.
+Whole-Person Concept
+Under the whole-person concept, the administrative judge must evaluate an
+applicant’s eligibility for a security clearance by considering the totality of an applicant’s
+16
+conduct and all relevant circumstances. The administrative judge should consider the
+nine adjudicative process factors listed at AG ¶ 2(a):
+(1) the nature, extent, and seriousness of the conduct; (2) the
+circumstances surrounding the conduct, to include knowledgeable
+participation; (3) the frequency and recency of the conduct; (4) the
+individual’s age and maturity at the time of the conduct; (5) the extent to
+which participation is voluntary; (6) the presence or absence of
+rehabilitation and other permanent behavioral changes; (7) the motivation
+for the conduct; (8) the potential for pressure, coercion, exploitation, or
+duress; and (9) the likelihood of continuation or recurrence. 
+Under AG § 2(c), the ultimate determination of whether to grant eligibility for a security
+clearance must be an overall commonsense judgment based upon careful consideration
+of the guidelines and the whole person concept. The decision to grant or deny a security
+clearance requires a careful weighing of all relevant factors, both favorable and
+unfavorable. In so doing, an administrative judge must review all the evidence of record,
+not a single item in isolation, to determine if a security concern is established and then
+whether it is mitigated. A determination of an applicant’s eligibility for a security
+clearance should not be made as punishment for specific past conduct, but on a
+reasonable and careful evaluation of all the evidence of record to decide if a nexus
+exists between established facts and a legitimate security concern. 
+The evidence in support of granting a security clearance to applicant under the
+whole person concept is less substantial than the evidence in support of denial. In
+reaching a conclusion, I considered the potentially disqualifying and mitigating
+conditions in light of all the facts and circumstances surrounding this case. Applicant is
+highly respected by his employer for his computer skills, particularly in cyber security.
+He does not have financial problems nor has he been arrested for any reason. He
+works hard and provides for his family.
+Applicant’s security issues arise from his wife’s decision to continue to maintain
+two pornography websites which she developed and which directly concern her. While
+she has never been arrested and charged with any criminal conduct related to her
+websites, Applicant made a decision not to tell his employer about these websites. His
+decision places his employer and the Government at risk because he has opened
+himself up to possible pressure or coercion from individuals seeking access to classified
+information. His failure to advise his employer about these websites causes concern
+that he is worried about his standing at work and in the community should people learn
+about these websites. Additionally, his failure to inform his employer of his wife’s
+pornographic websites suggests that he fears a negative reaction by his employer and
+the community should they be told about the websites, thus placing himself in a position
+to be exploited, coerced, or pressured to provide classified or sensitive information to
+those who are not allowed access to the information.
+Overall, the record evidence leaves me with questions or doubts as to Applicant’s
+17
+eligibility and suitability for a security clearance. For all these reasons, I conclude
+Applicant has not mitigated the security concerns arising from his personal conduct.
+Formal Findings
+Formal findings for or against Applicant on the allegations set forth in the SOR,
+as required by section E3.1.25 of Enclosure 3 of the Directive, are:
+Paragraph 1, Guideline E: AGAINST APPLICANT
+Subparagraph 1.a: Against Applicant
+Subparagraph 1.b: Against Applicant
+Subparagraph 1.c: For Applicant
+Subparagraph 1.d: For Applicant
+Subparagraph 1.e: Against Applicant
+Subparagraph 1.f: For Applicant
+Conclusion
+In light of all of the circumstances presented by the record in this case, it is not
+clearly consistent with the national interest to grant Applicant eligibility for a security
+clearance.  Eligibility for access to classified information is denied.
+                                                                          
+MARY E. HENRY
+Administrative Judge

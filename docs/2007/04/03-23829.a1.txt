@@ -1,0 +1,152 @@
+KEYWORD: Guideline K; Guideline M; Guideline E
+DIGEST: The challenged statements in the Judge’s decision constitute harmless error.  The
+Board has repeatedly declined to adopt a hard and fast definition of recency.  Nor is the Board
+persuaded that Applicant’s decision to give his son access to a government computer is mitigated
+because Applicant did not know what his son intended to do with that access.  Adverse decision
+affirmed.
+CASENO: 03-23829.a1
+DATE: 04/27/2007
+DATE: April 27, 2007
+In Re:
+--------------
+SSN: ------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 03-23829
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Rita C. O’Brien, Esq., Department Counsel
+FOR APPLICANT
+Keith L. Baker, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On August 2, 2005, DOHA issued a statement of reasons advising Applicant of the basis
+2
+for that decision–security concerns raised under Guideline K (Security Violations), Guideline M
+(Misuse of Information Technology Systems), and Guideline E (Personal Conduct) of Department
+of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On August 23, 2006, after the considering the record, Administrative Judge
+Darlene Lokey Anderson denied Applicant’s request for a security clearance.  Applicant submitted
+a timely appeal pursuant to Directive ¶¶  E3.1.28 and E3.1.30. 
+Applicant raised the following issues on appeal: whether the Judge’s statements that the
+Government had established its case as to all allegations in the SOR and that Applicant had a history
+of repeated security violations were based upon substantial record evidence; whether the Judge’s
+analysis of the applicable mitigating conditions was arbitrary, capricious, and contrary to law; and
+whether the Judge’s whole person analysis failed to consider relevant factors.  
+Whether the Record Supports the Judge’s Factual Findings
+A.  Facts
+The Judge made the following findings of fact:  Applicant received a Secret level security
+clearance in 1967, which was upgraded to Top Secret in 1985 and to SCI access in 1988.  His
+clearances were suspended during a Naval Criminal Investigative Service (NCIS) investigation
+beginning in August 2002.
+In 1986 or 1987, Applicant failed to follow proper security procedures when he allowed his
+secretary to hand-carry a classified NATO document to an adjacent building.  The secretary was not
+cleared for NATO access.  Applicant explained that he was not aware of the sensitivity of NATO
+access information.  He has had no further incidents involving NATO materials.
+Paragraph 1(b) of the SOR, alleged that Applicant knowingly transmitted classified e-mail
+from approximately April 2002 to approximately August 2002, instructing his team to sanitize the
+computer rather than notify the security officer of the breach.  After considering the record, the Judge
+concluded that this allegation was not based upon substantial evidence and held in favor of
+Applicant.
+Prior to 2002, Applicant purchased a laptop computer with government funds.  Applicant
+permitted his son to use the computer, stating that he asked his son to set it up.  Applicant made
+contradictory statements as to whether both he and his son used the computer or his son only.
+On July 5, 2002, Applicant permitted his son to have unescorted access to a workspace.
+Although signed in at the gate as an “escort required” visitor, Applicant’s son sat alone in an office
+adjacent to Applicant’s.  This was in disregard of company policies.  Additionally, Applicant
+permitted his son to have unsupervised access to a government network.  Although he stated that his
+son was to search for software to download onto the computer, the son hacked into the workplace
+server and downloaded pornography.  Applicant claims that this material was “adult” pornography,
+although the Security Officer’s Report (Exhibit 9) states that the NCIS investigation characterized
+it as child pornography.  Applicant’s dial-in account with the company has been deactivated and his
+key-card access limited to normal working hours.  The son has been barred from the company site.
+3
+Applicant’s supervisors and a government program manager attest to Applicant’s good
+character, reliability, trustworthiness, competence, and dedication to national security.  
+B.  Discussion
+The Appeal Board’s review of the Judge’s findings of fact is limited to determining if they
+are supported by substantial evidence–such relevant evidence as a reasonable mind might accept as
+adequate to support such a conclusion in light of all the contrary evidence in the record.”  Directive
+¶  E3.1.32.1.  “This is something less than the weight of the evidence, and the possibility of drawing
+two inconsistent conclusions from the evidence does not prevent an administrative agency’s findings
+from being supported by substantial evidence.”  Consolo v. Federal Maritime Comm’n, 383 U.S.
+607, 620-21 (1966).  In evaluating the Judge’s findings, we are required to give deference to the
+Judge’s credibility determinations.  Directive  ¶  E3.1.32.1. 
+Although the challenged statements occur in the Conclusions section of the Judge’s decision,
+we will treat them as findings of fact for purposes of this appeal.  See ISCR Case No. 02-20110 at
+n.2 (App. Bd. June 3, 2004) (“The Board will treat a finding of fact [as such] regardless of where it
+appears in the Judge’s decision”). 
+The Guideline K security concerns contain two allegations, of which the Judge concluded
+that only one was supported by substantial evidence, the 1987 incident in which Applicant permitted
+his secretary to have unauthorized access to a NATO document.  The Judge found in favor of
+Applicant on the other.  Nevertheless, she stated in her Conclusions section that the Government had
+“established its case as to all allegations in the SOR. . .” Decision at 7.  This clearly is an error.
+However, the Board does not read individual sentences in isolation.  The Judge analyzed Applicant’s
+case only in light of those matters which she found to have  been supported by substantial evidence.
+There is no reason to believe that she based her decision to any extent on the 2002 security incident
+concerning which she ruled in Applicant’s favor.  
+Regarding the second challenged statement, that Applicant has a “history of repeated security
+violations,” it is true that, under Guideline K, the Judge found only one incident to have been
+established.  Therefore, to the extent that the word “history” implies more than one event, it does not
+properly characterize the Judge’s findings under that Guideline.  However, given the fact that the
+challenged phrase occurs at the beginning of the Judge’s Conclusions section, prior to her specific
+discussion of Guideline K, we conclude that she intended the phrase to refer to the totality of the
+security concerns which she found the Government to have established and which form the basis of
+her adverse clearance decision.  We conclude, therefore, that even if these two challenged
+observations had not been included in the Judge’s decision, it is not reasonably likely that the
+outcome of the case would be different.  See ISCR Case No. 01-23362 at 2 (App. Bd. June 5, 2006);
+ISCR Case No. 03-09915 (App. Bd. Dec. 16, 2004); ISCR Case No. 01-11192 at 5 (App. Bd. Aug.
+26, 2002).   Accordingly, we conclude that these statements constitute harmless error. 
+Whether the Record Supports the Judge’s Ultimate Conclusions
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choices made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+4
+(1983)(quoting Burlington Truck Lines, Inc. V. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of national security.’”  Department of the Navy v. Egan, 484 U.S. 581, 528 (1988). The Appeal
+Board may reverse the Judge’s decision to grant, deny, or revoke a security clearance if it is arbitrary,
+capricious, or contrary to law.  Directive  ¶¶  E3.1.32.3 and E3.1.33.3.  
+“[T]here is a strong presumption against granting a security clearance.”   Dorfmont v. Brown,
+913 F. 2d 1399, 1401 (9  Cir. 1990), cert den 499 U.S. 905 (1991).  Once the government presentsth
+evidence raising security concerns, the burden shifts to the applicant to establish any appropriate
+mitigating conditions.  See Directive  ¶  E3.1.15.  “The application of disqualifying and mitigating
+conditions and whole person factors does not turn simply on a finding that one or more of them apply
+to the particular facts of a case.  Rather, their application requires the exercise of sound discretion
+in light of the record evidence as a whole.”  See ISCR Case No. 05-03635 at 3 (App. Bd. Dec. 20,
+2006). 
+Applicant relies on other cases, both from the Hearing Office and the Appeal Board, to build
+a claim that his conduct was mitigated because it was not recent.  That claim is not persuasive.  The
+Board has repeatedly declined to adopt a hard and fast definition of recency.  Neither do we find
+persuasive Applicant’s claim that his son’s conduct should be considered mitigated because
+Applicant did not know what his son intended to do when given access to a government computer
+system.  Indeed, we have examined the Judge’s treatment of the possible mitigating conditions in
+light of the record as a whole.  The Judge’s findings provide a rational basis for concluding that
+Applicant had not met his burden of persuasion as to the application of mitigating conditions.
+Furthermore, we conclude that her whole person analysis complies with the requirements of
+Directive  ¶  E2.2.1, in that the Judge considered the totality of Applicant’s conduct in reaching her
+decision.  See ISCR Case No. 04-09959 at 6 (App. Bd. May 19, 2006).  In light of the foregoing, we
+conclude that the Judge’s decision is neither arbitrary, capricious, nor contrary to law.  
+5
+ 
+Order
+The Judge’s decision denying Applicant a clearance is AFFIRMED. 
+Signed: Michael Y. Ra’anan      
+Michael Y. Ra’anan
+Administrative Judge
+Chairman, Appeal Board
+Signed: William S. Fields             
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                   
+James E. Moody
+Administrative Judge
+Member, Appeal Board

@@ -1,0 +1,190 @@
+KEYWORD: Guideline F
+DIGEST: A Judge should consider not only the extent to which an applicant may have resolved
+his or her debts but also the underlying circumstances for what they reveal about the applicant’s
+judgement and reliability. In addition to the combined total amount of Applicant’s mortgage
+debt, the Judge relied on a paucity of record evidence of financial reform by Applicant and on
+Applicant’s failure to explain why he continued to amass delinquent debt despite having stopped
+making mortgage payments. Adverse decision affirmed.
+CASENO: 15-03916.a1
+DATE: 07/18/2017
+DATE: July 18, 2017
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-03916
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Kelly B. McClanahan, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+December 16, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline F (Financial Considerations) of Department
+of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On March 23, 2017, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Francisco Mendez denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether Applicant was denied due process
+and whether the Judge’s adverse decision was arbitrary, capricious, or contrary to law.  Consistent
+with the following, we affirm.  
+The Judge’s Findings of Fact
+Applicant works as a contractor for a Federal agency, a job he has held for over 10 years. 
+He has held a security clearance since 2009.  Applicant has been married since 2014, and the couple
+recently purchased a house.  Because of Applicant’s poor credit history, the mortgage is in his wife’s
+name alone.
+Applicant developed financial problems in 2008.  He had bought a home a year earlier with
+his then-fiancee, financing the purchase with first and second mortgages.  Applicant subsequently
+called the wedding off, and his fiancee moved out of the house.  She did not contribute to the
+mortgage payments and eventually filed for bankruptcy, relieving her of responsibility for both
+mortgages.
+Applicant sought to modify the first mortgage loan, but the lender refused.  Applicant
+attempted to sell the property but was not successful.  He stopped making payments in late 2007 or
+early 2008, and the lender foreclosed on the property several years later.
+Applicant presented evidence that the first mortgage was sold to the lender’s subsidiary.  He
+attempted to contact the lender on the second mortgage to settle the debt.  He provided no
+documentation to show that either the first or second mortgage loans were canceled, forgiven, or
+otherwise resolved.
+In addition to the above, Applicant’s SOR alleges a debt arising from an automobile loan. 
+After the hearing, Applicant contacted the creditor and agreed to settle this debt with two payments
+of a little over $400.  He provided no proof that he made these payments.  Although the Judge
+resolved two credit card debts in Applicant’s favor, he noted that Applicant had earlier contended
+that these accounts were due to fraud but at the hearing acknowledged that they were legitimate.  
+Applicant’s yearly salary is about $75,000, and his wife earns about $55,000.  Applicant has
+about $250 in disposable income each month for debt payment.  He also has saved about $700 to
+be used for that purpose.  
+The Judge’s Analysis
+The Judge stated that Applicant’s problems were the result of financial mismanagement and
+of some circumstances that were outside his control.  He noted evidence that Applicant has made
+some effort to pay his debts over the years, concluding that he had resolved the two credit card debts
+and that he had a reasonable basis to dispute another.  However, regarding the two mortgage debts
+and the car loan, the Judge entered adverse findings.  He stated, for example, that Applicant did not
+demonstrate how it was that he continued to incur delinquent debt even after he stopped making
+payments on his mortgages.  He also stated that the total amount of mortgage debt established by
+the evidence entail significant security concerns.  He concluded that Applicant did not present
+sufficient evidence of financial reform to mitigate concerns that similar problems may arise in the
+future.
+In the whole-person analysis, the Judge noted that Applicant has held a clearance for several
+years without incident or concern.  He also noted evidence of Applicant’s excellent work
+performance.  However, he reiterated that Applicant’s remaining unresolved debt was large and that
+he had not presented sufficient evidence of financial reform.  Describing the case as “a close call,”
+the Judge ultimately concluded that Applicant had not met his burden of persuasion as to mitigation.
+Discussion
+Applicant raises a number of issues to the effect that he was denied due process.  He argues,
+for example, that he was not permitted to submit a document from the lender to the effect that he no
+longer owes anything on the first mortgage.  Some of the assertions in Applicant’s Appeal Brief and
+Department Counsel’s Reply Brief constitute new evidence.  Although we generally cannot consider
+new evidence on appeal, we will do so in regard to threshold issues such as jurisdiction or due
+process.  See, e.g., ISCR Case No.14-00812 at 2 (App. Bd. Jul. 8, 2015).
+We note that, after Applicant’s attorney stated that he had no further evidence with him on
+the day of the hearing, the Judge held the record open for three weeks following the hearing for
+Applicant to present additional evidence.  Tr. at 83.  Applicant presented several documents, which
+the Judge admitted as Applicant Exhibits (AE) G through X.  After receiving the adverse decision,
+Applicant filed a motion for reconsideration, which the Judge denied.  Later, several months after
+the record closed, Applicant received an additional document addressing the first mortgage
+discussed above.  Applicant  moved the Appeal Board to remand the case to the Judge for
+consideration of this document, which we denied.  
+On appeal, Applicant argues that this new evidence is sufficiently dispositive of the case that
+we should have granted the motion for remand.  Alternatively, Applicant argues that the Judge
+should have considered as substantive evidence the index that Applicant’s attorney provided when
+submitting Applicant’s post-hearing documents and which he contends would have supported a
+finding that the first mortgage has been resolved.
+Our examination of the record convinces us that Applicant was not denied a reasonable
+opportunity to present evidence in his behalf.  As stated above, the Judge held the record open after
+the hearing, a procedure that is discretionary with him and not required by the Directive.  There is
+nothing in the record or in our decisions interpreting it that would give an applicant an open-ended
+right to supplement the record indefinitely.  As Department Counsel argues, the doctrine of
+administrative finality requires that at some definable point a record be closed for adjudication. 
+Reply Brief at 7.  In the case before us, the Judge established a closure date that reasonably balanced
+Applicant’s interest in submitting evidence in mitigation with DOHA’s duty to issue a final decision
+in the case.  See, e.g., ISCR Case No. 08-07803 at 2, n.2 (App. Bd. Sep. 21, 2009) regarding the
+necessity of finality in DOHA adjudications.1   
+Concerning the index, there is nothing in the Directive that would require a Judge to consider
+as evidence the statements of an attorney representing one of the parties at the hearing.  The
+Directive does not establish such a duty, and it is a long-standing matter of DOHA procedure that
+arguments of counsel have no evidentiary force.  See, e.g., ISCR Case No. 14-02290 at 3 (App. Bd.
+Jan. 30, 2017).  We find no reason to conclude that the Judge abused his discretion by making the
+index an appellate exhibit rather than a substantive one.  
+Moreover, the motion for remand that Applicant has addressed in the course of making his
+argument on appeal merely asked us to remand the case for the purpose of taking in additional
+evidence, which we have no authority to do.  The Directive authorizes us to remand a case only for
+the purpose of correcting an identified error.  Directive ¶ E3.1.33.2.  See ISCR Case No. 15-02957
+at 3-4 (App. Bd. Feb. 17, 2017).  After considering Applicant’s arguments on appeal, we find no
+reason to conclude that he was denied the due process afforded by the Directive.2 
+Applicant also contends that the Judge did not properly interpret the evidence that he
+submitted after the hearing.  To be specific, he contends that the evidence supports a finding that
+Applicant no longer owes anything to the creditor holding the first mortgage.  Applicant cites to a
+statement from the creditor that the unpaid balance of the loan is $0.0.  AE G.  Applicant contends
+that, when read in conjunction with other evidence, such as a credit report that shows the loan as
+“[p]aid or paying as agreed” and that it is closed, the Judge should have found that indeed Applicant
+has no further liability for this debt.  AE A.  
+We agree that the evidence that Applicant has cited constitutes some support for the
+proposition that he no longer owes anything on the first mortgage.  However, AE X can reasonably
+be interpreted as showing that the creditor was not made whole by Applicant.  In any event, the fact
+that someone could interpret the evidence in a different manner is not sufficient in and of itself to
+undermine a Judge’s finding.  See, e.g.,  Consolo v. Federal Maritime Comm’n, 383 U.S. 607, 620
+(1966).  To the extent that the challenged finding meant that Applicant had presented absolutely no
+evidence that he no longer owed the debt, it was erroneous.  However, given the state of the record,
+the Judge had discretion to conclude that Applicant had not demonstrated resolution of the first
+mortgage debt in a way that would mitigate security concerns arising from it.  The Judge’s finding
+1See also ISCR Case No. 00-0250 at 3-4 (App. Bd. Feb. 13, 2001): “[A] party is not entitled to have the case
+reopened to allow the introduction of evidence that comes into existence after the close of the record.”  This case drew
+upon Vermont Yankee Nuclear Power Corp. v. Natural Resources Defense Council, Inc., 435 U.S. 519, 554-555 (1978),
+to the effect that if records could be reopened whenever some new fact is discovered, there would be little hope that
+administrative finality could ever be achieved. (Internal citation omitted)
+2Applicant also argues that the Appeal Board Judge who ruled on the motion to remand improperly engaged
+in ex parte discussions with Department Counsel.  Department Counsel addresses this in a footnote to the Reply Brief. 
+The Judge merely asked Department Counsel to sit in on a phone conversation that the Judge intended to have with
+Appellant’s attorney.  Department Counsel avers, and there is nothing in the record to suggest otherwise, that no
+substantive conversations occurred between the Judge and Department Counsel outside the presence of Applicant’s
+attorney.  Out of an abundance of caution, the Judge recused himself from further participation in this appeal.  However,
+we find that the impropriety alleged by Applicant is unfounded.  
+is a reasonable interpretation of the record that was before him and is sustainable. 
+Even if the Judge erred, however, we conclude that the error did not affect the overall
+outcome of the case.  A Judge should consider not only the extent to which an applicant may have
+resolved his or her debts but also the underlying circumstances for what they reveal about the
+applicant’s judgment and reliability.    See, e.g., ISCR Case No. 14-02394 at 3-4 (App. Bd. Aug. 17,
+2015).  In addition to the combined total amount of Applicant’s mortgage debt, the Judge relied on
+a paucity of record evidence of financial reform by Applicant and on Applicant’s failure to explain
+why he continued to amass delinquent debt despite having stopped making mortgage payments. 
+These matters support the adverse decision, despite any possible error regarding the first mortgage. 
+Indeed, Applicant concedes that he still has not resolved the second mortgage and “that he does not
+have a compelling counterargument to [the Judge’s] assertion that ‘Applicant did not present
+sufficient evidence . . . regarding the likelihood of recurrence of similar issues.’” Appeal Brief at 9. 
+Accordingly, we conclude that even if the Judge had found that Applicant no longer owes the first
+mortgage, circumstances set forth in the record and conceded by Applicant persuade us that the
+Judge would still have held that Applicant had not met his burden of persuasion.  Therefore, we
+conclude that any error in the Judge’s findings was harmless.
+Beyond the matters discussed above, Applicant’s brief consists of an alternative
+interpretation of the evidence.  However, an ability to argue for a different interpretation of the
+evidence is not enough to show that the Judge mis-weighed the evidence.  See, e.g., ISCR Case No.
+15-08842 at 3 (App. Bd. Feb. 14, 2017).  
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2 App. A ¶ 2(b):  “Any
+doubt concerning personnel being considered for national security eligibility will be resolved in
+favor of the national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan             
+Michael. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: William S. Fields            
+William S. Fields
+Administrative Judge
+Member, Appeal Board

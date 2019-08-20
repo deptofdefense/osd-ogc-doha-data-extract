@@ -1,0 +1,152 @@
+KEYWORD: Guideline B
+DIGEST: In the case before us, the Judge discusses why he concluded that the security concern
+arising from the presence of Applicant’s in-laws in Taiwan was mitigated. In that context, he
+spells out in some detail the specific circumstances of Applicant’s Taiwanese in-laws. Favorable
+decision affirmed.
+CASENO: 14-05986.a2
+DATE: 05/26/2017
+DATE: May 26, 2017
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-05986
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+John Bayard Glendon, Deputy Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On May
+21, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline B (Foreign Influence) of Department of Defense
+Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On June
+30, 2016, after the hearing, Defense Office of Hearings and Appeals (DOHA) Administrative Judge
+Roger C. Wesley granted Applicant’s request for a security clearance.  Department Counsel
+appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.  On October 14, 2016, the Appeal Board
+remanded the case to the Judge to correct certain identified errors.  On January 19, 2017, the Judge
+issued his Decision on Remand.  Department Counsel appealed this Decision pursuant to the
+Directive.
+Department Counsel raised the following issues on appeal: whether the Judge’s mitigation
+analysis was unsupported by the record evidence and whether the Judge’s whole-person analysis was
+erroneous.  Consistent with the following, we affirm. 
+ 
+The Judge’s Findings of Fact
+Applicant married his wife in Taiwan in the mid-1990s.  Applicant’s mother-in-law and two
+siblings-in-law are citizens and residents of Taiwan.  Both siblings performed mandatory service in
+the Taiwanese military.  Applicant has little contact with his Taiwanese in-laws.  His wife maintains
+bi-monthly contact with them, which is less frequent than in the past.  
+Between 2003 and 2009, Applicant worked on a Government-funded program that required
+him to travel to the People’s Republic of China (PRC).  This travel was fully authorized by his
+employer.  During one of these visits his laptop1 was stolen from his hotel room.  The laptop
+contained only open-source information and no classified information.
+Applicant committed two security violations in 2010.  He received a verbal warning for
+possessing “unmarked media or a DVD containing classified information.”  Remand Decision at 5. 
+A month later, he failed to secure a safe containing classified information.  The safe was in his
+supervisor’s office, and Applicant mistakenly believed that the supervisor was still in the building. 
+He received a “write-up” for this infraction and was required to receive remedial training.  Id.
+In 2013, another Government agency denied Applicant access to sensitive compartmented
+information and revoked his security clearance.  This action was based upon Applicant’s family
+connections in Taiwan and his travels in the PRC.  It is not clear if his security infractions were also
+cited as a basis for the revocation.  
+Taiwan is a multi-party democracy.  However, the PRC does not recognize Taiwan’s
+independence, insisting instead upon “one China.”  Id. at 9.  The PRC is Taiwan’s largest trading
+partner.  Taiwan is an active collector of U.S. economic and proprietary information, as is the PRC. 
+These activities on behalf of Taiwan have resulted in criminal and civil charges.  The PRC seeks to
+acquire intelligence through multiple sources, including through illegal means.  
+The Judge’s Analysis
+The Judge concluded that Applicant had effectively rebutted the presumption that he has ties
+of affection or obligation to his Taiwanese in-laws.  He found that Applicant had no opportunity to
+develop bonds of affection for them through his wife.  He stated that Applicant had “demonstrated
+convincingly that he has no emotional attachments, feelings of obligation, or regular or even casual
+1Applicant’s hearing testimony and his submissions upon remand state that this device was not a laptop
+computer, but a personal data assistant (PDA).  Tr. at 99; Applicant Response, dated November 8, 2016, at 6.  This is
+a hand-held computer.  
+contact with his wife’s relatives in Taiwan.”  Id. at 16.  He found that over the years Applicant has
+acquired no ties or obligations to any foreign person or entity “that could possibly compromise his
+loyalties or commitments to the United States.”  Id. at 17. He also noted that Applicant’s wife is now
+a naturalized U.S. citizen and that Applicant is considered highly reliable on the job.  The Judge
+stated that Applicant has no further security infractions since 2010 and that whoever took his
+computer has not tried to contact him in the years since the theft.  The Judge concluded that
+Applicant had effectively mitigated any security concerns arising from his relatives in Taiwan. 
+Discussion
+There is a strong presumption against the grant or maintenance of a security clearance.  See
+Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  The
+applicant is responsible for presenting evidence to rebut, explain, extenuate, or mitigate admitted
+or proven facts.  The applicant has the burden of persuasion as to obtaining a favorable decision. 
+Directive ¶ E3.1.15.  The standard applicable in security clearance decisions “is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’” Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt concerning personnel being considered
+for access to classified information will be resolved in favor of the national security.”  Directive,
+Enclosure 2 ¶ 2(b). 
+In deciding whether the Judge’s rulings or conclusions are erroneous, we will review the
+Judge’s decision to determine whether:  it does not examine relevant evidence; it fails to articulate
+a satisfactory explanation for its conclusions, including a rational connection between the facts
+found and the choice made; it does not consider relevant factors; it reflects a clear error of judgment;
+it fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  See, e.g., ISCR Case No. 14-02563 at 3 (App. Bd. Aug. 28, 2015).
+Department Counsel argues that the Judge’s decision does not address a fundamental
+difficulty sometimes posed by foreign in-laws.  That is, while an applicant may not be close to a
+spouse’s parents or siblings, a sense of obligation to them can arise from the spouse’s affections and
+familial loyalties–concern for one’s spouse may well result in a derivative concern for the spouse’s
+family.  We have long held that there is a rebuttable presumption that a person has obligations to the
+immediate family members of his or her spouse.  See, e.g., ISCR Case No. 14-03112 at 3, n.1 (App.
+Bd. Nov. 3, 2015).  Department Counsel further argues little is known about Applicant’s in-laws.
+In the case before us, the Judge discusses why he concluded that the security concern arising from
+the presence of Applicant’s in-laws in Taiwan was mitigated.  In that context , he spells out in some
+detail the specific circumstances of Applicant’s Taiwanese in-laws (e.g., they had served in the
+Taiwanese military but that service was thirty-five years ago and Applicant’s inability to
+communicate with in-laws due to language differences, etc.). 
+Department Counsel argues that the Judge’s whole-person analysis runs contrary to the
+weight of the record evidence.  He argues that the analysis is essentially conclusory and does not
+sufficiently address the evidence viewed as a whole.  However, we conclude that the Judge followed
+the remand instructions regarding the whole-person analysis.  The Judge considered non-alleged
+conduct for the permitted limited purposes.  To the extent any argument suggests that the Judge
+should have founded an adverse decision primarily on non-alleged conduct, the Board declines to
+contravene the Directive ¶ 4.3.1. or Executive Order 10865, SECTION 3 (1).  We find no harmful
+error in the Judge’s analysis or conclusions.
+Given the record before him, the Judge articulated a ration explanation for his favorable
+decision.  An appealing party’s disagreement with a Judge’s decision is not sufficient basis to
+establish that the Judge erred.  ISCR Case No.14-05013 at 4 (App. Bd. Sep. 27, 2016).  The Board
+concludes that the Judge’s favorable security clearance decision is not arbitrary, capricious, or
+contrary to law, given the record before him.  See Directive ¶ E3.1.32.3.
+Order
+The Decision is Affirmed  
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+See Dissenting Opinion                 
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                   
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+Dissenting Opinion of Administrative Judge James E. Moody
+I respectfully disagree with my colleagues’ resolution of this case.  The record, viewed as
+a whole, does not support a favorable whole-person analysis.  A proper whole-person analysis
+requires a Judge to consider an applicant’s circumstances in light of the evidence as a cumulative
+whole.  It can include consideration of conduct that is not alleged in the SOR.    
+The Judge’s comments about the paucity of evidence concerning Applicant’s foreign
+relatives draw attention to the insufficiency of Applicant’s case for mitigation.  When viewed in
+light of Applicant’s two security infractions and evidence that he was denied a clearance by another
+agency based on his foreign relatives and travels, the record does not support a whole-person
+assessment that all doubt about Applicant’s eligibility for a clearance has been resolved in favor of
+national security.  Directive, Enclosure 2 ¶ 2(b).  Department Counsel argues that the totality of the
+evidence weighs heavily against a favorable decision, and I find this to be persuasive.  I would
+reverse.     
+Signed: James E. Moody                   
+James E. Moody
+Administrative Judge
+Member, Appeal Board

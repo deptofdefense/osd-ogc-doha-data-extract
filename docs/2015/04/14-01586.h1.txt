@@ -1,0 +1,327 @@
+                                                              
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+--------------------------------- )       ISCR Case No. 14–01586
+)
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Jeff A. Nagel, Department Counsel
+For Applicant: Pro se
+April 10, 2015
+______________
+Decision
+______________
+LOKEY ANDERSON, Darlene D., Administrative Judge:
+Applicant submitted his Electronic Questionnaire for Investigations Processing
+dated November 13, 2013.  (Government Exhibit 1.)  On October 6, 2014, the Defense
+of Defense (DoD) issued a Statement of Reasons (SOR) detailing the security concerns
+under Guideline E for Applicant. The action was taken under Executive Order 10865,
+“Safeguarding Classified Information within Industry” (February 20, 1960), as amended;
+Department of Defense Directive 5220.6, “Defense Industrial Personnel Security
+Clearance Review Program” (January 2, 1992), as amended (Directive); and the
+adjudicative guidelines (AG) effective within the Department of Defense after
+September 1, 2006. 
+ 
+The Applicant responded to the SOR on November 7, 2014, and he requested a
+hearing before a DOHA Administrative Judge.  This case was assigned to the
+undersigned on January 26, 2015.  A notice of hearing was issued that same day,  and
+the hearing was scheduled for February 27, 2015.  At the hearing the Government
+presented two exhibits, referred to as Government Exhibits 1 and 2.  The Applicant
+presented one exhibit, referred to as Applicant’s Exhibit A.  He also testified on his own
+behalf.  The official transcript (Tr.) was received on March 30, 2015.  The record
+remained open until close of business on March 6, 2015, to allow the Applicant to
+2
+submit additional documentary evidence.  Applicant submitted three Post-Hearing
+Exhibits, referred to as Applicant’s Post-Hearing Exhibits A through C, that were
+admitted without objection. Based upon a review of the pleadings, exhibits, and
+testimony, eligibility for access to classified information is granted.
+   
+FINDINGS OF FACT
+The Applicant is 23 years old and is single.  He has a high school diploma and
+almost two years of college.  He is employed by a defense contractor as a Software
+Developer.  He is applying for a security clearance in connection with his employment.
+Paragraph 1 (Guideline E - Personal Conduct).  The Government alleges that the
+Applicant is ineligible for a security clearance because he has engaged in conduct
+involving questionable judgment, lack of candor, dishonesty, or an unwillingness to
+comply with rules and regulations.  
+The Applicant admitted allegations 1.a. and 1.b. and denied allegation 1.c. set
+forth under this guideline.  (See Applicant’s Answer to the SOR.)  During his senior year
+in high school, Applicant applied for and was commissioned into the United States Air
+Force Academy.  He spent approximately a year at the academy before he decided it
+was not right for him and left.  Applicant left the academy after finding out that his bad
+vision would disqualify him from being a pilot, and he did not get along well with his CO
+and several members of his squadron.  In June 2009, while attending the academy it
+was required that he apply for a security clearance in order to participate in a computer
+science conference.  Applicant was informed that the clearance did not come through in
+time to attend the conference.  (Tr. p. 20.)  Applicant claims that he was never informed
+whether or not his security clearance was ever activated.  After leaving the academy
+Applicant worked for two other employers, non-defense related,  before he was hired by
+his current employer in October 2011, where he was worked since then. 
+Applicant states that in March 2013, while attending a popular outdoor music
+festival, he used marijuana.  He explained that he was consuming alcohol at the time
+and does not remember how much marijuana he used.  (Tr. p. 23.)  He has never used
+marijuana again, nor has he ever used any other illegal drug, nor a prescription drug
+without a proper prescription.  At the time he used the marijuana he was unemployed.
+He believed that his security clearance had either never been activated or had lapsed
+due to inactivity.  Applicant testified that he understands the Department of Defense
+zero-tolerance policy on illegal drug use and he knows that it is against the law.  He
+states that he has no intentions of ever using any illegal drug in the future.  Applicant
+self-reported this marijuana use on his most recent security clearance application.     
+Applicant began working for a previous employer, in January 2013.  In April
+2013, Applicant was fired from his job after it was discovered that he had hacking tools
+and a software application, used specifically for hacking his workstation, which was
+against company policy.  The government also alleges that it was discovered that the
+ TOR is free software for enabling anonymous communication.  TOR directs internet traffic through a free,1
+worldwide, volunteer network consisting of more than six thousand relays to conceal a user’s location and usage
+from anyone conducting network surveillance or traffic analysis.  Using TOR makes it difficult for internet activity
+to be traced back to the user: this includes”visits to Web sites, online posts, instant messages, and other
+communication forms.  TOR’s use is intended to protect the personal privacy of users, as well as their freedom and
+ability to conduct confidential communication by keeping their internet activities from being monitored.   
+3
+Applicant was using TOR  and visiting other hacking web-sites at work on his work1
+computer.  
+Applicant strongly asserts that he had verbal permission from his project
+manager to download the programs in question.  He explained that he picked up several
+tools that can be used in the course of unethical hacking but that are also very useful in
+the pursuit of network security and system and network management.  He states that he
+used the programs for legitimate purposes in the course of completing tasks, including
+network inventory, diagnosis and repair of network interface cards, and network and
+computer security demonstrations and presentations.  Many of the tools were not
+configured in a way to be usable in a malicious manner.  Applicant states that he did not
+ever install TOR on his work computer for any reason.  He states that he never visited
+other hacking websites at work on his work computer.  Applicant further states that his
+company became aware that these tools were on his system while performing a routine
+network scan that picked up a Java Script Virus in the Chrome Browser.  Applicant
+found this ironic since he used Firefox religiously at the company.  They found a Java
+Script Virus in the Chrome Browser Cache and proceeded to conduct an investigation
+on his work system.  Applicant states that he would not have installed this on his
+computer if he did not have the approval or request from his supervisor.  (Tr.  p. 29.)  He
+downloaded it to perform a demonstration to the company on password security frame
+by hacking several simple passwords on his machine.  Applicant asked for a copy of the
+scan that they found the programs with, but they would not provide it.         
+Applicant completed a security clearance application dated November 13, 2013.
+(Government Exhibit 1.)  Section 13(c) regarding his Employment Record, asked if any
+of the following happened to him in the last seven years. “1 - Fired from a job, 2 - Quit a
+job after being told you would be fired,  3 - Have you left a job by mutual agreement
+following charges or allegations of misconduct, 4 - left a job by mutual agreement
+following notice of unsatisfactory performance, 5 - Received a written warning, been
+officially reprimanded, suspended, or disciplined for misconduct in the workplace, such
+as violation of a security policy?” The Applicant responded, “No.”  He failed to disclose
+that he had been fired from his job.  Applicant explained that he did not deliberately
+answer this question untruthfully.  His response was based on his misunderstanding of
+his termination of his previous employment since he had been hired at will and was still
+on probation.  He was unaware that voluntary termination of probationary employment
+from either party qualified under the terms set forth in the question.  In hindsight, he
+realizes that this was stupid and naive on his part.  He simply misunderstood the terms
+of termination with that employer.  He now understands how to correctly answer the
+question by admitting that he has been fired by a previous employer.         
+4
+Three letters of recommendation were submitted on behalf of the Applicant.  One
+from a Systems Administrator and two from a Lead Software Developer, who is the
+Applicant’s direct supervisor.  They collectively indicate that Applicant is a skilled
+developer who has kept his supervisor informed of the whole situation regarding the
+incident at his previous workplace.  Applicant has on multiple occasions used his
+knowledge of computer security to help his current company provide a more secure and
+safe product.  Applicant is said to consistently demonstrates a reasonably
+comprehensive knowledge of computer security techniques and theory, and
+accomplishes the tasks that are assigned to him.  He demonstrates leadership, strong
+morals and judicious reasoning.  He is always sociable, competent, professional and
+helpful.  He is recommended for a security clearance.  (Applicant’s Exhibit A and
+Applicant’s Post-Hearing Exhibits A and B.) 
+Applicant’s employee evaluation for the period from November 2013 to June 30,
+2014, reflects that he “consistently meets” his job requirements in every aspect that is
+applicable.  (Applicant’s Post-Hearing Exhibit C.)
+POLICIES
+Enclosure 2 and Section E.2.2. of the Directive sets forth adjudication policies
+divided into "Disqualifying Factors" and "Mitigating Factors."  The following Disqualifying
+Factors and Mitigating Factors are found to be applicable in this case:
+Guideline E (Personal Conduct)
+15.  The Concern.  Conduct involving questionable judgment, lack of candor,
+dishonesty, or unwillingness to comply with rules and regulations can raise questions
+about an individual’s reliability, trustworthiness and ability to protect classified
+information.  Of special interest is any failure to provide truthful and candid answers
+during the security clearance process or any other failure to cooperate with the security
+clearance process.
+Conditions that could raise a security concern:
+16.(a) deliberate omission, concealment, or falsification of relevant facts from any
+personnel security questionnaire, personal history statement, or similar form used to
+conduct investigations, determine employment qualifications, award benefits or status,
+determine security clearance eligibility or trustworthiness, or award fiduciary
+responsibilities; and
+16.(c) credible adverse information in several adjudicative issue areas that is not
+sufficient for an adverse determination under any other single guideline, but which,
+when considered as a whole, supports a whole-person assessment of questionable
+judgment, untrustworthiness, unreliability, lack of candor, unwillingness to comply with
+rules and regulations, or other characteristics indicating that the person may not
+properly safeguard protected information; 
+5
+16.(d) credible adverse information that is not explicitly covered under any other
+guideline and may not be sufficient by itself for an adverse determination, but which,
+when combined with all available information supports a whole-person assessment of
+questionable judgment, untrustworthiness, unreliability, lack of candor, unwillingness to
+comply with rules and regulations, or other characteristics indicating that the person
+may not properly safeguard protected information.
+16.(e) personal conduct, or concealment of information about one’s conduct, that
+creates a vulnerability to exploitation, manipulation, or duress, such as (1) engaging in
+activities which, if known, may affect the person’s personal, professional, or community
+standing, or (2) while in another country, engaging in any activity that is illegal in that
+country or that is legal in that country but illegal in the United States and may serve as a
+basis for exploitation or pressure by the foreign security or intelligence service or other
+group.  
+Conditions that could mitigate security concerns:
+17.(c) the offense is so minor, or so much time has passed, or the behavior is so
+infrequent, or it happened under such unique circumstances that it is unlikely to recur
+and does not cast doubt on the individual’s reliability, trustworthiness, or good judgment;
+and
+17.(e) the individual has taken positive steps to reduce or eliminate vulnerability
+to exploitation, manipulation, or duress.
+In addition, as set forth in Enclosure 2 of the Directive at pages 18-19, in
+evaluating the relevance of an individual’s conduct, the Administrative Judge should
+consider the following general factors:
+a.  The nature, extent, and seriousness of the conduct;
+b. The circumstances surrounding the conduct, to include knowledgeable
+participation;
+c.  The frequency and recency of the conduct;
+d.  The individual’s age and maturity at the time of the conduct;
+e.  The extent to which participation is voluntary;
+f.  The presence or absence of rehabilitation and other permanent behavioral
+changes;
+g.  The motivation for the conduct; 
+h. The potential for pressure, coercion, exploitation or duress; and 
+6
+i.  The likelihood of continuation or recurrence.
+The eligibility criteria established in the DoD Directive identify personal
+characteristics and conduct, which are reasonably related to the ultimate question,
+posed in Section 2 of Executive Order 10865, of whether it is “clearly consistent with the
+national interest” to grant an Applicant’s request for access to classified information.
+The DoD Directive states, “The adjudicative process is an examination of a
+sufficient period of a person’s life to make an affirmative determination that the person is
+an acceptable security risk.  Eligibility for access to classified information is predicated
+upon the individual meeting these personnel security guidelines.  The adjudicative
+process is the careful weighing of a number of variables known as the whole-person
+concept.  Available, reliable information about the person, past and present, favorable
+and unfavorable should be considered in reaching a determination.”  The Administrative
+Judge can draw only those inferences or conclusions that have reasonable and logical
+basis in the evidence of record.  The Judge cannot draw inferences or conclusions
+based on evidence, which is speculative or conjectural in nature.  Finally, as
+emphasized by President Eisenhower in Executive Order 10865, “Any determination
+under this order . . . shall be a determination in terms of the national interest and shall in
+no sense be a determination as to the loyalty of the Applicant concerned.”
+CONCLUSIONS
+In the defense industry, the security of classified industrial secrets is entrusted to
+civilian workers who must be counted upon to safeguard such sensitive information
+twenty-four hours per day, seven days per week.  The Government is therefore
+appropriately concerned when available information indicates that an Applicant for
+clearance may be involved in drug abuse and dishonesty that demonstrates poor
+judgment or unreliability.
+It is the Government’s responsibility to present substantial evidence to support
+the finding of a nexus, or rational connection, between the Applicant’s conduct and the
+continued holding of a security clearance.  If such a case has been established, the
+burden then shifts to the Applicant to go forward with evidence in rebuttal, explanation
+or mitigation, which is sufficient to overcome or outweigh the Government’s case.  The
+Applicant bears the ultimate burden of persuasion in proving that it is clearly consistent
+with the national interest to grant him a security clearance.
+In this case the Government has met its initial burden of proving that the
+Applicant has engaged in drug involvement, and been fired from employment, and did
+not report it on his security clearance application (Guideline E).  The totality of this
+evidence indicates poor judgment, unreliability and untrustworthiness on the part of the
+Applicant.  Because of the scope and nature of the Applicant's conduct, I conclude there
+is a nexus or connection with his security clearance eligibility.  Considering all of the
+evidence, the Applicant has introduced persuasive evidence in rebuttal, explanation or
+7
+mitigation that is sufficient to overcome the Government's case under Guideline E of the
+SOR.  
+The evidence shows that the Applicant self-reported his one-time use of
+marijuana in 2013.  He has not used marijuana since then.  At the time he used
+marijuana he was unemployed.  He did not realize at the time that his security clearance
+that was granted to him while he was a student at the United States Air Force Academy
+was active.  Although this is no excuse, Applicant has no intentions of ever using any
+illegal drug again.  He understands that holding a security clearance is a privilege and
+that he must adhere to the law and DoD policy that prohibits the use of illegal drugs if he
+is to hold a clearance.  Applicant has not used any illegal drug in almost two years.  He
+has demonstrated good judgment, reliability and trustworthiness.    
+Applicant is extremely intelligent and computer competent.  He understands the
+finer points of information technology and information security, probably much more
+than his previous employer.  Had he been trying to do something illegal or malicious, he
+could have hidden his activities from his employer.  Instead, his employer was aware of
+his use of these programs, which was open and obvious.  I believe that the Applicant
+had no ill intent and was, to the best of his knowledge, operating in accordance with his
+former employer’s guidelines and regulation.  On this basis, and because I find the
+Applicant to be most credible and convincing, this allegation is found for the Applicant. 
+       
+Finally, Applicant failed to disclose that he had been fired from previous
+employment on his security clearance application.  He erroneously convinced himself
+that since he was hired at will and was still on probation, as he had only worked for the
+company for less than three months, he did not have to say that he was fired.  He now
+realizes how stupid he was to omit it, and will always disclose it in the future.  
+Under Guideline E, Personal Conduct, Disqualifying Conditions 16.(a) deliberate
+omission, concealment, or falsification of relevant facts from any personnel security
+questionnaire, personal history statement, or similar form used to conduct
+investigations, determine employment qualifications, award benefits or status,
+determine security clearance eligibility or trustworthiness, or award fiduciary
+responsibilities; 16.(c) credible adverse information in several adjudicative issue areas
+that is not sufficient for an adverse determination under any other single guideline, but
+which, when considered as a whole, supports a whole-person assessment of
+questionable judgment, untrustworthiness, unreliability, lack of candor, unwillingness to
+comply with rules and regulations, or other characteristics indicating that the person
+may not properly safeguard protected information; 16.(d) credible adverse information
+that is not explicitly covered under any other guideline and may not be sufficient by itself
+for an adverse determination, but which, when combined with all available information
+supports a whole-person assessment of questionable judgment, untrustworthiness,
+unreliability, lack of candor, unwillingness to comply with rules and regulations, or other
+characteristics indicating that the person may not properly safeguard protected
+information, and 16.(e) personal conduct, or concealment of information about one’s
+conduct, that creates a vulnerability to exploitation, manipulation, or duress, such as (1)
+engaging in activities which, if known, may affect the person’s personal, professional, or
+8
+community standing, or (2) while in another country, engaging in any activity that is
+illegal in that country or that is legal in that country but illegal in the United States and
+may serve as a basis for exploitation or pressure by the foreign security or intelligence
+service or other group apply.  However, Mitigating Conditions 17.(c) the offense is so
+minor, or so much time has passed, or the behavior is so infrequent, or it happened
+under such unique circumstances that it is unlikely to recur and does not cast doubt on
+the individual’s reliability, trustworthiness, or good judgment, and 17.(e) the individual
+has taken positive steps to reduce or eliminate vulnerability to exploitation,
+manipulation, or duress also apply.  
+Given the fact that the Applicant has not used marijuana since 2013 and has no
+intentions of ever using it or any illegal drug again; and since he now realizes that he
+must admit on his security clearance application that he has been fired from his
+previous employment, whether or not he is or was on probation at the time of the firing.
+He has mitigated the security significance of his conduct.  Accordingly, I find for the
+Applicant under Guideline E, Personal Conduct.  
+I have also considered the “whole-person concept” in evaluating the Applicant’s
+eligibility for access to classified information.  I have considered all of the evidence,
+including his favorable letters of recommendation which, under the particular
+circumstances of this case, I find extremely compelling and convincing.    
+A security clearance is a privilege, not a right.  In order to meet the qualification
+for access to classified information, it must be determined that the Applicant is, and has
+been, sufficiently trustworthy on the job and in his everyday life to adequately protect
+the Government’s national interest.  According to the standards set forth in the
+Directive, based upon the conduct outlined here, this Applicant has demonstrated that
+he is trustworthy, and he does meet the eligibility requirements for access to classified
+information.  
+    
+On balance, it is concluded that the Applicant has overcome the Government's
+case opposing his request for a  security clearance.  Accordingly, the evidence supports
+a finding for the Applicant as to the factual and conclusionary allegations expressed in
+Paragraph 1 of the SOR.
+FORMAL FINDINGS
+Formal findings For or Against the Applicant on the allegations in the SOR, as
+required by Paragraph 25 of Enclosure 3 of the Directive are:
+Paragraph 1: Against the Applicant.
+    Subpara.  1.a.: For the Applicant.
+    Subpara.  1.b.: For the Applicant.
+                                    Subpara.  1.c.: For the Applicant.
+    
+9
+DECISION
+In light of all the circumstances presented by the record in this case, it is clearly
+consistent with the national interest to grant or continue a security clearance for the
+Applicant.
+Darlene Lokey Anderson
+Administrative Judge

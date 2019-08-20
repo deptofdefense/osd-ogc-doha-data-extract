@@ -1,0 +1,230 @@
+KEYWORD: Guideline J
+DIGEST: The Judge invited Applicant to provide the exculpatory evidence that formed the basis
+for the Judge concluding that Applicant had raised security concerns that cannot be mitigated. 
+Furthermore, the security concern relied upon was from a guideline not alleged in the SOR.  
+Adverse decision remanded.
+CASENO: 09-02752.a1
+DATE: 04/06/2010
+DATE: April 6, 2010
+In Re:
+-------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 09-02752
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Julie R. Mendez, Esq., Department Counsel
+FOR APPLICANT
+Mark S. Zaid, Esq., Barry M. Sax, Esq.
+2
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On August 20, 2009, DOHA issued a statement of reasons (SOR) advising Applicant of
+the basis for that decision–security concerns raised under Guideline J (Criminal Conduct) of
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On December 7, 2009, after the hearing, Administrative Judge Mark Harvey
+denied Applicant’s request for a security clearance.  Applicant appealed pursuant to Directive ¶¶
+E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal:  whether the Judge denied Applicant due
+process of law; whether the Judge mis-applied the doctrine of collateral estoppel; and whether the
+Judge’s adverse security clearance decision is arbitrary, capricious, or contrary to law.  Finding error,
+we remand.  
+Facts
+The Judge found that Applicant is seeking a security clearance as a condition of employment
+with a Government contractor.  He has prior federal law enforcement experience.  The Judge made
+the following additional findings:
+In December 2007 Applicant and two friends, A and B, left a bar and were walking home.
+C, “[a] large male,” began making anti-Semitic remarks to the three friends.  An argument ensued,
+after which Applicant, A, and B walked away.  However, A went back to the scene.  Applicant and
+B heard A scream and, returning to the vicinity, saw C body slam A into the street.
+Applicant told C that he, Applicant, was a former federal agent.  C immediately retreated.
+C asked to see Applicant’s badge, and Applicant replied that he was not a federal agent.  C asked
+about an apparent bulge at Applicant’s waistline, implying that it was a weapon.  Applicant denied
+to C that he was carrying a weapon.  C went into a nearby townhouse, which Applicant believed to
+be owned by a friend of C.  
+Applicant went to his own nearby home and, about 30 minutes later, police came to his door.
+He told the police that he had former law enforcement experience and that he had a gun at his
+residence.  Two days later, the police returned, questioned Applicant, and asked for consent to search
+his residence.  He provided consent, and the police discovered a Glock 9 mm handgun.  They seized
+the gun, holster, and ammunition.  Applicant was arrested and charged with carrying a concealed
+weapon and with impersonating an officer, both class one misdemeanors.
+Consistent with local law, Applicant was tried by a Judge without a jury.  The Judge
+convicted him of the concealed weapon charge and acquitted him of the impersonation charge.
+Applicant appealed the conviction to a higher trial court.  Although offered deferred adjudication
+with an expungement in exchange for a guilty plea, Applicant elected a trial de novo before a jury.
+The Jury also convicted Applicant of the concealed weapon charge.  
+3
+Applicant enjoys an excellent reputation for job performance, trustworthiness, leadership,
+honesty, and commitment to national security.
+Discussion
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  The Appeal
+Board may reverse the Judge’s decision to grant, deny, or revoke a security clearance if it is arbitrary,
+capricious, or contrary to law.  Directive ¶¶ E3.1.32.3 and E3.1.33.3.
+Once a concern arises regarding an Applicant’s security clearance eligibility, there is a strong
+presumption against the grant or maintenance of a security clearance.  See Dorfmont v. Brown, 913
+F. 2d 1399, 1401 (9  Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After the Government presentsth
+evidence raising security concerns, the burden shifts to the applicant to rebut or mitigate those
+concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and mitigating conditions and
+whole person factors does not turn simply on a finding that one or more of them apply to the
+particular facts of a case.  Rather, their application requires the exercise of sound discretion in light
+of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at 3 (App. Bd. Dec. 20,
+2006).
+In deciding whether the Judge's rulings or conclusions are arbitrary or capricious, the Board
+will review the Judge's decision to determine whether:  it does not examine relevant evidence; it fails
+to articulate a satisfactory explanation for its conclusions, including a rational connection between
+the facts found and the choice made; it does not consider relevant factors; it reflects a clear error of
+judgment; it fails to consider an important aspect of the case; it offers an explanation for the decision
+that runs contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere
+difference of opinion.  In deciding whether the Judge's rulings or conclusions are contrary to law,
+the Board will consider whether they are contrary to provisions of Executive Order 10865, the
+Directive, or other applicable federal law.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2,
+2006).
+Due Process Violation
+At the beginning of the hearing, Department Counsel noted that Applicant’s response to the
+SOR included a letter from the attorney who represented him in the jury trial.  The letter expressed
+the attorney’s opinion that Applicant was not guilty of the offense for which he was convicted.
+Department Counsel asked the Judge to disregard the letter’s “ultimate conclusions in that they
+invade the province of the trier of fact . . .”  Tr. at 17.  
+4
+At this point, the Judge raised the issue of collateral estoppel.  Although Department Counsel
+stated that he did not believe that the doctrine precluded Applicant from denying his guilt in this
+case, the Judge replied that his understanding was to the contrary.  He stated that he would “check
+it out” before he wrote the decision but that in the meantime the hearing would proceed “as though
+it does not apply.”  Tr. at 19.  
+Applicant then inquired, “Is it okay for me to ask what exactly you guys just discussed?” 
+The Judge explained the meaning of collateral estoppel.  He gave reasons for its application in
+DOHA hearings, principally the unavailability of witnesses and other evidence.  He also cited the
+principle of comity between states and the federal government as a justification (see note 1 below).
+Tr. at 21.  Applicant asked, “Does that mean that you will or will not let me . . .”  
+Judge: We will let you do it [deny guilt] because we haven’t thoroughly researched
+the issue . . . And if I decide that it does apply . . . 
+Applicant: Then whatever I present for that specific argument will just not be taken
+into . . .
+Judge: Right, then I won’t be allowed to contradict the fact that you were carrying a
+concealed weapon.  I mean we’re stuck with that as a fact then.  Tr. at 21-22.  
+The Judge returned to this point at the end of the proceeding, promising that he would do
+more research after the hearing before deciding whether collateral estoppel applied in Applicant’s
+case.   
+Applicant:  So you’re saying that everything that we testified about the incident itself
+will ultimately be . . .  
+Judge: It could be irrelevant.  
+Applicant: Irrelevant, exactly.  
+Judge: It could be irrelevant.  I have to research it.  I’m still going to summarize the
+facts, even if they are irrelevant, in my decision, what the testimony was.  However,
+I don’t know until I thoroughly look into it.  Tr. at 126-127.
+Based upon the foregoing, a reasonable person in Applicant’s position would likely have
+understood that the Judge was going to proceed at the hearing as if collateral estoppel did not apply
+and that Applicant would be permitted to present exculpatory evidence.  However, should later
+research demonstrate that collateral estoppel did apply, then Applicant’s exculpatory evidence would
+be irrelevant and the Judge simply would not consider it, producing his decision as if the evidence
+had not been presented.  
+The Appeal Board set forth the criteria to apply in determining the applicability of collateral estoppel in a1
+DOHA case.  These are “[F]irst, that the party against whom an earlier decision is asserted must have been afforded a
+“full and fair opportunity” to litigate that issue in the earlier case.  Second  the issues presented for collateral estoppel
+must be the same as those resolved against the opposing party in the first trial.  Third, the application of collateral
+estoppel in the second hearing must not result in unfairness.”  ISCR Case No. 04-05712 at 8 (App. Bd. Oct. 31, 2006),
+internal citations omitted.  Although the Judge referenced this case in his discussion, he also mentioned other cases.
+Among the policy reasons for applying collateral estoppel, the Judge listed that of “comity between the state courts and
+the federal government,” citing in support 28 U.S.C. § 1738.  This statute requires all courts in the U.S. to give full faith
+and credit to judicial proceedings of U.S. states, territories, or possessions.  However, as Applicant notes, ISCR Case
+No. 04-05712 explicitly rejected the comity provisions of this statute as a reason for applying collateral estoppel in
+DOHA cases.  Rather, the Board based its reasoning upon, inter alia, the Executive Branch’s special expertise in security
+clearance cases as recognized by Egan, supra, and the need for uniformity in DOHA proceedings.  Applicant raises an
+issue that the Board construes as asserting that the Judge was biased because he relied in part on reasoning he cited in
+a separate opinion he wrote in the 2006 Appeal Board decision.  Applicant notes that the Judge’s reasoning in that
+decision was rejected by the majority.  The Board need not address the bias issue since we are remanding the case to
+another Judge for other reasons.    
+5
+ When the Judge rendered his decision, he concluded that the doctrine of collateral estoppel
+applied to the facts of Applicant’s case.   However, rather than simply exclude that portion of1
+Applicant’s testimony which he believed barred by collateral estoppel, the Judge considered that
+evidence on the question of rehabilitation.  He stated, 
+I cannot conclude that [Applicant] was truthful at his hearing and in his SOR
+response because he has denied that he carried a concealed firearm when he
+confronted [C] . . . Applicant’s failure to provide truthful information at his security
+clearance hearing has created doubts about his “judgment, reliability, and
+trustworthiness.  By its very nature it calls into question a person’s ability or
+willingness to comply with laws, rules and regulations.”  Decision at 11, quoting
+Directive ¶ E2.30.
+ Later on, in his whole-person analysis, the Judge continued
+Having decided that the criminal court’s finding that he possessed a concealed
+firearm is binding, I logically must conclude Applicant’s denial was the presentation
+of false information at his security clearance hearing.  An Applicant who provides
+materially false information at his security clearance hearing raises security
+concerns that cannot be mitigated.  His decision to deny possession of the firearm
+when he confronted [C] in December 2007 was knowledgeable, voluntary, and
+intentional.  He was sufficiently mature to be fully responsible for his conduct.
+Decision at 12.  (emphasis added)   
+Therefore, rather than exclude the evidence as irrelevant, the Judge in fact considered it, and
+then used it to resolve the essential issue of the case.  He considered it as demonstrating that
+Applicant had not successfully mitigated the security concern arising from his conviction, and,
+indeed, he further considered it as evidence of an additional security concern, that of providing false
+information during the clearance process.  This is a security concern usually addressed under
+6
+Guideline E (Personal Conduct), which is not alleged in this case.  See Directive ¶ E2.15.
+Applicant’s alleged lack of forthrightness at the hearing is unrelated to his eligibility for access to
+classified information under the allegations cited in the SOR.  By advising Applicant that he could
+proceed as if there were no barrier to his denial of guilt, the Judge in effect invited him to present
+the very evidence which later formed the basis for concluding that Applicant had raised “security
+concerns that cannot be mitigated.”  Providing materially false information at the hearing not being
+alleged in the SOR, the Judge erred in relying on such a finding in concluding Applicant was
+ineligible for access to classified information.  See, e.g., DISCR OSD Case No. 93-0519 at 5 (App.
+Bd. Apr. 14, 1994); ISCR Case No. 02-12789 at 7 (App. Bd. May 13, 2005) (It was error for the
+Judge to conclude that Applicant’s having minimized the case against him raised additional security
+concerns not alleged in the SOR).  
+Of course, a Judge is free to amend the SOR, to include adding new allegations, in order to
+conform the SOR to the evidence adduced at the hearing.  However, if he does so, the Judge must
+give the parties an opportunity to request additional time to prepare, which was not done in this case.
+Directive ¶ E3.1.17.  
+The Directive requires that all DOHA proceedings “shall be conducted in a fair and impartial
+manner.”  Directive ¶ 4.1.  “Administrative Judges have broad latitude and discretion in how they
+write their decisions.  However, that latitude and discretion must be exercised within the legal
+constrains of the Directive and basic concepts of due process.”  ISCR Case No. 98-0809 at 2 (App.
+Bd. Aug. 19, 1999).  After examining the record, we conclude that a reasonable person, whether a
+pro se applicant or an attorney, would not have expected the Judge to make such use of Applicant’s
+exculpatory evidence, particularly that the Judge would find in the evidence an additional security
+concern, one which he believes to be categorically beyond mitigation.  Under the circumstances, we
+conclude that Applicant was denied a reasonable opportunity to prepare for the hearing and to
+present evidence, in that, had he understood what use the Judge would have made of his evidence,
+he would most likely have presented his case in a substantially different way.  See ISCR Case No.
+02-20403 at 4 (App. Bd. Apr. 7, 2003).  Under the facts of this case, the Judge’s error is clearly
+harmful.  See ISCR Case No. 08-07528 at 2 (App. Bd. Dec. 29, 2009); ISCR Case No. 01-23362 at
+2 (App. Bd. Jun. 5, 2006).
+Accordingly, we conclude that the best resolution of this case is to remand it for another
+hearing, one conducted consistent with the discussion above.  Because the Judge has expressed an
+unequivocal opinion concerning both Applicant’s credibility and the nature and extent of the
+pertinent security concerns, the case should be remanded to a different Judge.  To the extent that
+issues of collateral estoppel arise in the new hearing, they should be resolved in accordance with
+ISCR Case No. 04-05712, supra, n. 1. Any such ruling shall be administered in accordance with
+Directive ¶¶ E3.1.8 - E3.1.19, which specify the obligation to conduct proceedings in a fair, timely,
+and orderly manner and which repeatedly specify the need to provide notice to an applicant.  The
+prior proceeding shall not be considered.  In light of our resolution of this case, the remaining
+assignments of error are not ripe for consideration.
+7
+Order
+The Judge’s adverse security clearance decision is REMANDED.
+Signed: Michael Y. Ra’anan        
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett                
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                   
+James E. Moody
+Administrative Judge
+Member, Appeal Board

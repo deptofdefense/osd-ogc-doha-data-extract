@@ -1,0 +1,471 @@
+ 
+1 
+                                                              
+                         DEPARTMENT OF DEFENSE 
+         DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+In the matter of: ) 
+ ) 
+REDACTED )  CAC Case No. 15-07490 
+ ) 
+Applicant for CAC Eligibility ) 
+ 
+ 
+Appearances 
+ 
+For Government: Ross Hyams, Esq., Department Counsel 
+For Applicant: Pro se 
+ 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+MENDEZ, Francisco, Administrative Judge: 
+ 
+ Applicant did not mitigate Common Access Card (CAC) credentialing concerns 
+raised by her criminal history and falsification of a federal employment form. Of 
+particular concern is that Applicant was forced to resign her position with a former 
+employer after she was caught stealing from other employees and she then deliberately 
+failed to disclose this material information on a federal employment form. Applicant did 
+not present sufficient evidence of reform and an insufficient amount of time has passed 
+to safely conclude that granting her a CAC would not pose an unreasonable risk to U.S. 
+personnel, property, or information systems. CAC eligibility is denied. 
+ 
+History of the Case 
+ 
+On December 7, 2015, pursuant to Homeland Security Presidential Directive – 
+12 (HSPD-12), the Department of Defense (DoD) issued a Statement of Reasons 
+(SOR) to Applicant detailing concerns about her eligibility for a CAC. This action was 
+taken under DoD Instruction (DoDI) 5200.46, DoD Investigative and Adjudicative 
+Guidelines for Issuing the Common Access Card, dated September 9, 2014 
+(Instruction), and in accordance with the established administrative process set out in 
+DoD Directive (DoDD) 5220.6, Defense Industrial Personnel Security Clearance Review 
+Program (January 2, 1992) (Directive).  
+ 
+2 
+The CAC credentialing concerns cited in the SOR are Supplemental Adjudicative 
+Standards (SAS) ¶ 2.a (criminal or dishonest conduct) and SAS ¶ 3.a (deliberate 
+falsification, deception, or fraud). Applicant answered the SOR on December 21, 2015, 
+and requested a decision on the written (administrative) record.  
+ 
+ On April 7, 2016, Department Counsel prepared his written case, a file of 
+relevant material (FORM), and sent it to Applicant. The FORM contains:  the SOR (Item 
+1); Applicant’s Answer (Item 2);1 her application for a non-sensitive position (Item 3), her 
+declaration for federal employment (Item 4), her criminal record (Item 5), and responses 
+to pre-employment checks (Items 6 and 7). As further explained below, Items 1 – 7 
+were admitted into the administrative record without objection.  
+ 
+ On May 12, 2016, Applicant submitted her response to the FORM (Item 8) and, 
+without objection, it was admitted into the record.2 On February 13, 2017, I was 
+assigned Applicant’s case. 
+ 
+Procedural Issue 
+ 
+DOHA proceedings are designed to provide for a full, fair, and complete record of 
+an applicant’s eligibility, whether such eligibility is for a security clearance, a position of 
+trust or, as in this case, a CAC.3  In order to allow for the development of such a record, 
+the Directive states that the technical rules of evidence “shall serve as a guide.”4 
+Furthermore, the DOHA Appeal Board has stated that DOHA judges should liberally 
+apply the “technical rules of evidence” and err on the side of admitting relevant and 
+material evidence to ensure the development of a full and complete record.5  
+ 
+The Directive, however, does contain two major exceptions to this liberal policy of 
+admitting relevant evidence. Specifically, a DoD personnel background report of 
+investigation (“ROI”) and a third-party statement adverse to an applicant on a 
+controverted issue are potentially inadmissible in a DOHA proceeding.6  
+ 
+Here, Department Counsel offered Items 6 and 7, which are standard Office of 
+Personnel Management (OPM) forms that were sent to two of Applicant’s former 
+employers. They contain short, one-line handwritten notations from said employers 
+denoting the purported adverse circumstances surrounding Applicant’s employment 
+                                                          
+1 The two documents Applicant submitted with her Answer have been marked Exhibits A and B. 
+ 
+2 The reference letter Applicant submitted with her Response has been marked Exhibit C. 
+ 
+3 Directive, ¶ E3.1.19. See generally, CAC Case No. 15-06091 at 3 (App. Bd. Jan. 10, 2017) (Board’s 
+past decisions “interpreting and analyzing” procedural guidance in DoDD 5220.6 should be followed by 
+DOHA judges in CAC cases). See also, ISCR Case No. 94-0084 (App. Bd. Dec. 13, 1994).  
+ 
+4 Directive, ¶ E3.1.19. 
+ 
+5 ISCR Case No 03-21434 at 5 (App. Bd. Feb. 20, 2007). 
+ 
+6 Directive, ¶¶ E3.1.20, E3.1.22. 
+ 
+3 
+termination. These pre-employment checks were conducted by OPM as a part of the 
+Government’s background investigation into Applicant’s CAC eligibility.7 The Appeal 
+Board has held that similar documents are inadmissible in a DOHA proceeding, but only 
+if the opposing party timely raises an objection.8  
+ 
+Accordingly, although the Directive does not specifically state that a party can 
+waive an objection, the Board has in the past accepted the generally accepted legal 
+proposition that a party’s failure to timely raise an objection waives it.9 However, this 
+precedent has recently been called into question in cases where a pro se applicant 
+elects a determination on the written record and the Government offers a portion of an 
+ROI, namely, an unauthenticated summary of the person’s subject interview (“SI”).10  
+ 
+I have given due consideration to these recent decisions. I have also considered 
+that the danger of admitting potentially unreliable information is arguably far greater 
+when considering unverified information from a person’s former employer versus a 
+summary of an interview prepared by a government agent. However, in this case, 
+Applicant did not raise an objection to the admission of any of the exhibits offered by 
+Department Counsel with the FORM, including Items 6 and 7.11 Moreover, she did not 
+challenge the accuracy of the information contained in these exhibits. Therefore, I find 
+that Applicant waived any potential objection to these exhibits and FORM Items 1 – 7 
+are admitted into the administrative record. Additionally, in exercising my authority 
+                                                          
+7 See generally Instruction, Enclosure 3, CAC Investigative Procedures.  
+ 
+8 See, e.g., ISCR Case No. 95-0817 (App. Bd. Feb. 21, 1997) (Judge erred in sua sponte excluding 
+portion of an ROI that was submitted by Department Counsel as evidence with a FORM under E3.1.20, 
+because “[n]owhere in Applicant's energetic criticisms of various portions of the FORM does he challenge 
+the completeness, accuracy, or truthfulness of FORM Item 5 [SI] or any portion of it.”) See also ISCR 
+Case No. 02-12199 at 8 (App. Bd. Oct. 7, 2004) (exclusion of ROI prepared by another government 
+agency, containing SI, was upheld because applicant timely raised objection citing E3.1.20). See also 
+ISCR Case No. 15-05252 (App. Bd. Apr. 13, 2016) (judge erred in excluding SI submitted with a FORM). 
+ 
+9 ISCR Case No. 02-12199 at n. 6 (App. Bd. Oct. 7, 2004) (“An applicant can waive his or her objection to 
+the admissibility of evidence even though the Directive is silent on the matter of waiver.”). See also ISCR 
+Case No. 14-06781 at 3 (App. Bd. Dec. 16, 2016) (failure to raise an objection to an exhibit offered by the 
+Government with the FORM waives it). 
+ 
+10 See generally ISCR Case No. 12-10933 at 4-5 (App. Bd. Jun. 29, 2016) (AJ Ra’anan’s concurring 
+opinion regarding potential due process concerns raised by SIs submitted with FORMs). See also ISCR 
+Case No. 14-05232 at 2 (AJ Leonard Feb. 10, 2016) (notwithstanding explicit warning to applicant in 
+FORM that he or she could object to the SI, judge ruled that the SI was inadmissible because “a pro se 
+applicant’s failure to respond to the FORM does not equate to a waiver of the authentication 
+requirement.”); ISCR Case No. 15-01554 at 2 (CAJ Hogan Feb. 24, 2016) (Applicant’s failure to object to 
+the admission of unauthenticated SI in response to the FORM is not a knowing waiver of E3.1.20’s 
+authentication rule); ISCR Case No. 15-01554 at 2 (AJ Duffy Feb. 12, 2015) (same) (“failure to object 
+does not amount to authentication of the documents or a waiver of the rule [E3.1.20].”). 
+ 
+11 ISCR Case No. 02-12199 05-03307 at 2 (App. Bd. May 7, 2007) (“Although pro se applicants cannot be 
+expected to act like a lawyer, they are expected to take timely, reasonable steps to protect their rights 
+under the Directive. If they fail to take timely, reasonable steps to protect their rights, that failure to act 
+does not constitute a denial of their rights.”) (emphasis added) 
+ 
+4 
+under the Directive, I have given all the admitted exhibits the weight I deem appropriate 
+in light all the facts and circumstances raised by the evidence.12 
+ 
+Findings of Fact 
+ 
+ Applicant, 51, is a contract employee of a national guard unit. Her former 
+supervisor, a guard member, provided a favorable recommendation.13 
+ 
+In May 2010, Applicant was arrested and charged with domestic battery. She and 
+her former husband were in a heated argument. Her ex-husband, a police officer, 
+submitted a letter stating that during the argument, he “became loud” which led their 
+neighbors to call police. He unequivocally states that Applicant did not physically hit him 
+during the argument. Applicant entered a diversion program, she and her ex-husband 
+received counseling, and the criminal charge was later dismissed. Applicant and her ex-
+husband eventually divorced, but they remain friends.14  
+ 
+Applicant did not disclose the May 2010 arrest on her declaration for federal 
+employment form. But, the relevant question does not require an applicant to disclose 
+all arrests. Instead, it only requires an applicant to disclose those arrests resulting in 
+conviction, imprisonment, probation, or parole in the past seven years.15 It is unclear 
+from the limited record whether the diversion program was a term of probation.  
+ 
+ In October 2012 and August 2013, Applicant was arrested and charged with 
+shoplifting. She was placed in a first offender’s diversion program, which she 
+successfully completed, and the criminal charges were subsequently resolved without 
+an adjudication of guilt.16 Applicant disclosed the October 2012 shoplifting arrest on her 
+declaration for federal employment form, stating “Loss prevention felt I was guilty of 
+putting items in my shopping bag. I was arrested. . . . Incident happened.”17 In her 
+Answer, Applicant stated the following regarding the shoplifting incidents:  
+ 
+October 2012 Charged with Retail/Theft. . . . I did take an item from this 
+store. . . . I admit this happened, and it will appear I am minimalizing the 
+circumstances, but obviously I was not proud of my conduct and had 
+                                                          
+12 ISCR Case No 03-21434 at 5 (App. Bd. Feb. 20, 2007) (“the DOHA process encourages Judges to err 
+on the side of initially admitting evidence into the record, and then to consider . . . what, if any, weight to 
+give to that evidence.”). See also ISCR Case No. 14-06011 (App. Bd. Dec. 9, 2015) (“The weight that a 
+Judge assigns to evidence is a matter within his or her discretion.”).  
+ 
+13. Items 2, 3, 9; Exhibit C.  
+ 
+14 Items 2, 5; Exhibit A. The SOR alleges in ¶ 1.e a supposed arrest in 2008 for larceny. Applicant denied 
+this allegation and her criminal record (Item 5) do not reflect any arrest before the 2010 domestic incident. 
+No evidence was supplied to support the allegation. Accordingly, SOR 1.e is decided in Applicant’s favor. 
+ 
+15 Items 2, 5. 
+ 
+16 Items 2, 5; Exhibit B. 
+ 
+17 Item 4. 
+ 
+5 
+hoped to only disclose what was absolutely necessary as I realize it does 
+not portray a very good picture of my conduct. 
+ 
+August 2013 Retail Theft. I admit this happened and again, I minimized 
+this because I was given a [citation]. This was something that was rolled 
+into one court hearing in relation [to October 2012 charge]. I obtained an 
+attorney and it was settled with a withhold [of adjudication.]18  
+ 
+ Applicant worked for a county agency from 1995 to 2008, and then again from 
+2010 to 2013. She resigned in August 2013. Applicant claims that she resigned after a 
+coworker told her supervisor about the shoplifting incidents. She further notes several 
+matters that were going on in her personal life (bad marriage) and work (low morale) 
+that contributed to her decision to resign.19 A background check conducted by OPM 
+revealed that Applicant’s former employer, the county agency, let her resign after 
+Applicant “was caught stealing from other employees.”20  
+ 
+Applicant admits in her Answer she was forced to resign from the county agency 
+in 2013 under threat that she would otherwise be fired. She did not disclose this 
+adverse or derogatory employment information on her declaration for federal 
+employment.21 In response to the concerns raised about her criminal record and failure 
+to disclose the adverse employment information, Applicant states the following: 
+ 
+I can most definitely understand your concern, and I realize the 
+information doesn’t present me in the best light, but that particular time 
+period was an extremely difficult time and I most definitely made 
+significant changes since then. I have been working with a counselor for 
+[the] last two years and volunteer at my Church as the lead coordinator to 
+counsel others who struggle with addiction and behavior problems.22 
+ 
+Policies 
+ 
+As established in HSPD-12, CAC “credentialing adjudication considers whether 
+or not an individual is eligible for long-term access to federally controlled facilities and/or 
+                                                          
+18 Item 2 (emphasis in original). The SOR alleges that Applicant falsified her declaration for federal 
+employment by failing to disclose the 2013 shoplifting arrest. However, Applicant’s criminal record, Item 5, 
+notes the case was resolved by “adjudication withheld.” This evidence supports Applicant’s assertion that 
+she was placed in a diversion program and there was no adjudication of guilt. Again, based on the limited 
+record, I cannot find that such a program or adjudication amounts to a “conviction, imprisonment, 
+probation, or parole,” which applicant would have been required to disclose on her employment form. 
+ 
+19 Item 2, 3.  
+ 
+20 Item 6. Applicant was sent Item 6 with the FORM and did not raise an objection to its admission, nor 
+did she contest the accuracy or truthfulness of the information provided by her former employer.  
+ 
+21 Items 2, 4. 
+ 
+22 Item 2. No evidence was submitted to corroborate Applicant’s assertions of having received counseling, 
+documenting the type of counseling received, or indicating if a favorable prognosis was given. 
+ 
+6 
+information systems.” Instruction, Enclosure 4, ¶ 1.a. The Instruction recognizes that 
+each CAC case is unique and a fair and impartial overall commonsense decision should 
+examine all available evidence, both favorable and unfavorable.  
+ 
+The “overriding factor” or standard in all CAC adjudications is “unacceptable 
+risk.” Id. This term is specifically defined by the Instruction as follows: 
+ 
+A threat to the life, safety, or health of employees, contractors, vendors, or 
+visitors; to the U.S. Government physical assets or information systems; to 
+personal property; to records, including classified, privileged, proprietary, 
+financial, and medical records; or to the privacy rights established by The 
+Privacy Act of 1974, as amended, or other law that is deemed 
+unacceptable when making risk management determinations.23 
+ 
+Directive ¶ E3.1.14, requires Department Counsel to present evidence to 
+establish controverted facts alleged in the SOR, i.e., allegation(s) denied. On the other 
+hand, pursuant to Directive ¶ E3.1.15, an applicant is responsible for presenting 
+“witnesses and other evidence to rebut, explain, extenuate, or mitigate facts admitted by 
+applicant or proven by Department Counsel.” An applicant has the ultimate burden of 
+persuasion to establish his or her eligibility for a CAC.  
+ 
+Adjudicative factors to be applied consistently in all CAC cases include: (1) the 
+nature and seriousness of the conduct; (2) the circumstances surrounding the conduct; 
+(3) the recency and frequency of the conduct; (4) the individual’s age and maturity at the 
+time of the conduct; (5) contributing external conditions; and (6) the absence or 
+presence of efforts towards rehabilitation. Instruction, Enclosure 4, ¶ 1.b. Any 
+reasonable doubt concerning an applicant’s CAC eligibility should be resolved in favor 
+of protecting the Government’s vital interests in making certain that only persons that do 
+not pose an unacceptable risk are granted a CAC.  
+ 
+Analysis 
+ 
+Criminal or Dishonest Conduct 
+ 
+ SOR 1.a – 1.d allege Applicant’s domestic battery arrest and shoplifting arrests. 
+(SOR 1.e alleges a purported 2008 arrest for larceny, but no evidence was offered to 
+support this allegation.) These allegations of criminal conduct raise the CAC 
+credentialing concern set forth in SAS ¶ 2.a: 
+ 
+An individual’s conduct involving questionable judgment, lack of candor, 
+dishonesty, or unwillingness to comply with rules and regulations can raise 
+questions about his or her reliability or trustworthiness and may put 
+people, property, or information systems at risk. An individual’s past 
+criminal or dishonest conduct may put people, property, or information 
+systems at risk.  
+                                                          
+23 See Instruction, Glossary. See also CAC Case No. 15-00898 at 2-3 (App. Bd. Dec. 7, 2016) 
+ 
+7 
+ In assessing whether Applicant’s criminal history raises a reasonable basis to 
+believe there is an unacceptable risk to people, property, or information systems, I 
+considered the following disqualifying conditions and potentially mitigating 
+circumstances: 
+ 
+SAS ¶ 2.b(1):  A single serious crime or multiple lesser offenses which put 
+the safety of people at risk or threaten the protection of property or 
+information. A person’s convictions for burglary may indicate that granting 
+a CAC poses an unacceptable risk to the U.S. Government’s physical 
+assets and to employees’ personal property on a U.S. Government facility.  
+ 
+SAS ¶ 2.b(2):  Charges or admission of criminal conduct relating to the 
+safety of people and proper protection of property or information systems, 
+regardless of whether the person was formally charged, formally 
+prosecuted, or convicted. 
+ 
+SAS ¶ 2.b(3):  Dishonest acts (e.g., theft, accepting bribes, falsifying 
+claims, perjury, forgery, or attempting to obtain identity documentation 
+without proper authorization). 
+ 
+SAS ¶ 2.b(4):  Deceptive or illegal financial practices such as 
+embezzlement, employee theft, check fraud, income tax evasion, expense 
+account fraud, filing deceptive loan statements, or other intentional 
+financial breaches of trust. 
+ 
+SAS ¶ 2.c(1):  The behavior happened so long ago, was minor in nature, 
+or happened under such unusual circumstances that it is unlikely to recur. 
+SAS ¶ 2.c(2):  Charges were dismissed or evidence was provided that the 
+person did not commit the offense and details and reasons support his or 
+her innocence. 
+ 
+SAS ¶ 2.c(4):  Evidence has been supplied of successful rehabilitation, 
+including but not limited to remorse or restitution, job training or higher 
+education, good employment record, constructive community involvement, 
+or passage of time without recurrence. 
+ 
+ Applicant’s criminal history continues to call into question her present eligibility 
+for a CAC. Although the domestic incident involving her former spouse appears to have 
+been an isolated event that took place some seven years ago during a turbulent 
+marriage, her shoplifting is part of a much larger and serious credentialing concern. 
+Notably, the shoplifting was not a one-time occurrence, as Applicant committed the 
+same offense just a year after being arrested for the first offense. More disconcerting 
+from a CAC eligibility perspective is that Applicant’s criminal behavior did not end after 
+the second shoplifting incident. As reflected in Item 6, Applicant was forced to resign 
+from her former job after it was discovered that she was stealing from other employees. 
+This type of criminal behavior is directly tied to the credentialing concern at issue, in that 
+Applicant might pose a risk to other U.S. Government employees or property.  
+ 
+8 
+ Applicant’s criminal conduct continued after she was forced to resign. 
+Specifically, she deliberately omitted the information about the forced resignation on her 
+recent declaration for federal employment. Notwithstanding, Applicant’s claims of reform 
+and rehabilitation, as well as apparent recent good employment record, she failed to 
+provide sufficient evidence to mitigate the credentialing concerns raised by a pattern of 
+criminally deceptive conduct. 
+ 
+ Accordingly, I find that Applicant mitigated credentialing concerns raised by the 
+2010 domestic incident, but did not mitigate the credentialing concerns raised by her 
+shoplifting arrests in 2012 and 2013. The disqualifying conditions identified at SAS 
+2.b(1) – 2.b(4) apply. The potential mitigating circumstances do not fully apply and, for 
+all the above reasons, do not mitigate the credentialing concerns raised by Applicant’s 
+history of criminally deceptive behavior. 
+ 
+Falsification, Deception, or Fraud 
+ 
+ SOR 2.a alleges that Applicant falsified her declaration for federal employment 
+form by failing to disclose a number of her arrests, none of which resulted in conviction, 
+imprisonment, probation, or parole. Department Counsel failed to provide sufficient 
+evidence to establish this allegation and it is decided in Applicant’s favor.  
+ 
+ On the other hand, the evidence does establish SOR 2.b, which alleges that 
+Applicant falsified her declaration for federal employment by deliberately omitting the 
+adverse or derogatory information about her 2013 forced resignation from the county 
+agency.24 SAS ¶ 3 states, in pertinent part, the following:  
+ 
+A CAC will not be issued to a person if there is a reasonable basis to 
+believe, based on the individual’s material, intentional false statement, 
+deception, or fraud in connection with federal or contract employment, that 
+issuance of a CAC poses an unacceptable risk.  
+ 
+The individual’s conduct involving questionable judgment, lack of candor, 
+or unwillingness to comply with rules and regulations can raise questions 
+about an individual’s honesty, reliability, trustworthiness, and put people, 
+property, or information systems at risk 
+ 
+ The following disqualifying conditions and mitigating circumstances were 
+potentially raised by the evidence: 
+ 
+SAS ¶ 3.b: . . . material, intentional falsification, deception or fraud 
+related to answers or information provided during the employment process 
+for the current or a prior federal or contract employment (e.g., on the 
+employment application or other employment, appointment or investigative 
+documents, or during interviews.); 
+                                                          
+24 The specific question at issue asked Applicant to disclose whether “[d]uring the last 5 years, have you 
+been fired from any job for any reason, did you quit after being told you would be fired, did you leave any 
+job by mutual agreement because of specific problems . . . ?” 
+ 
+9 
+SAS ¶ 3.c(1): The misstated or omitted information was so long ago, was 
+minor, or happened under such unusual circumstances that it is unlikely to 
+recur; and 
+ 
+SAS ¶ 3.c(2): The misstatement or omission was unintentional or 
+inadvertent and was followed by a prompt, good-faith effort to correct the 
+situation. 
+ 
+ The crux of the Government’s credentialing concern is that Applicant deliberately 
+falsified her declaration for federal employment by failing to disclose the adverse or 
+derogatory circumstances that led her to resign from the county agency in 2013. The 
+omission of material, adverse information standing alone is not enough to establish that 
+an applicant intentionally falsified a federal form used for CAC credentialing purposes. 
+An omission is not deliberate if the person genuinely forgot the information requested, 
+inadvertently overlooked or misunderstood the question, or sincerely thought the 
+information did not need to be reported. An administrative judge must examine the facts 
+and circumstances surrounding the omission to determine an applicant’s true intent.25 
+ 
+ Applicant admits in her Answer that she was embarrassed about her past 
+misconduct and did not want to disclose more than was “absolutely necessary” on the 
+declaration for federal employment. She continues to provide misleading information 
+about the facts and circumstances leading to her forced resignation from the county 
+agency in 2013. She now readily admits that she was forced to resign, but does not 
+acknowledge it was because she was caught stealing from other employees. After 
+considering all the evidence and reasonable inferences to be drawn therefrom, I find 
+that Applicant deliberately falsified her declaration for federal employment. She did not 
+want the Government to know the true adverse reasons that led to her forced 
+resignation. Applicant’s deliberate falsification of the declaration of the federal 
+employment form raises serious questions about her honesty, reliability, and 
+trustworthiness. She failed to provide sufficient evidence to establish any of the 
+applicable mitigating conditions. She also failed to demonstrate that she has reformed 
+the past conduct that raised credentialing concerns.26 
+ 
+Formal Findings 
+ 
+ Formal findings for or against Applicant on the allegations set forth in the SOR, 
+as required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+ 
+Paragraph 1, Criminal or Dishonest Conduct:   AGAINST APPLICANT 
+Subparagraphs 1.a and 1.e:   For Applicant 
+Subparagraphs 1.b – 1.d:    Against Applicant 
+ 
+                                                          
+25 See generally ISCR Case No. 02-12586 (App. Bd. Jan. 25, 2005). 
+ 
+26 See ISCR Case No. 15-04856 (Mar. 9, 2017) (notwithstanding 15-year gap between applicant 
+deliberating omitting material information from a federal application form and adverse decision, the 
+decision was affirmed by Board because applicant failed to acknowledge his past misconduct ) 
+ 
+10 
+Paragraph 2, Falsification, Deception, or Fraud:  AGAINST APPLICANT 
+ Subparagraph 2.a:      For Applicant 
+Subparagraph 2.b:      Against Applicant 
+ 
+Conclusion 
+ 
+ In light of all of the circumstances presented by the record in this case, I find that 
+Applicant did not meet her burden of persuasion. CAC eligibility is denied. 
+ 
+ 
+ 
+__________________________ 
+Francisco Mendez 
+     Administrative Judge 

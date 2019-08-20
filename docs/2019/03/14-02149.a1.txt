@@ -1,0 +1,331 @@
+KEYWORD: Guideline B; Guideline F
+DIGEST: The Directive does not require the Government to prove such matters to raise
+Guideline B security concerns.  Department Counsel need only prove controverted facts in the
+SOR allegations.  Directive ¶ E3.1.14.  Once the SOR allegations are admitted or proven, the
+burden shifted to Applicant to mitigate the resulting security concerns.  Directive ¶ E3.1.15.  By
+asking those questions, the Judge erred in placing the burden on the Government to prove
+matters that the Directive does not require.  Furthermore, the Judge found “The PRC has a poor
+record with respect to human rights, suppresses political dissent, and its practices include
+arbitrary arrest and detention, forced confessions, torture, and mistreatment of prisoners.  The
+PRC engages in espionage against the United States and is one of the two most active collectors
+of U.S. economic intelligence and technology.” Favorable decision reversed.
+CASENO: 14-02149.a1
+DATE: 03/05/2019
+DATE: March 5, 2019
+In Re:
+---------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-02149
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Allison Marie, Esq., Department Counsel
+FOR APPLICANT
+Ryan C. Nerney, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On June
+23, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision—security concerns raised under Guideline F (Financial Considerations) and Guideline B
+(Foreign Influence) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+(Directive).  Applicant requested a hearing.  On September 26, 2018, after the hearing, Defense
+Office of Hearings and Appeals (DOHA) Administrative Judge John Grattan Metz, Jr., granted
+Applicant’s request for a security clearance.  Department Counsel appealed pursuant to Directive
+¶¶ E3.1.28 and E3.1.30.
+Department Counsel raised the following issue on appeal: whether the Judge’s favorable
+decision was arbitrary, capricious, or contrary to law.  Consistent with the following, we reverse.
+The Judge’s Findings of Fact
+Applicant is a 40-year-old employee of a defense contractor.  As amended, the SOR alleges
+that Applicant received a Chapter 7 bankruptcy discharge in 2014, that he had four delinquent
+medical debts totaling about $4,000, that he had delinquent tax debts totaling about $13,000, that
+his wife is a citizen of the People’s Republic of China (PRC) who resides in the United States, and
+that his parents-in-law are citizens and residents of the PRC.  
+Applicant received an honorable discharge from the U.S. military in 2000.  From 2001 to late
+2009, he worked for a U.S. Government agency.  In 2007, he also started a company and mistakenly
+believed his investments in the company could be declared as losses on his  income tax returns.  In
+2014, he learned that the IRS considered those investments as “hobby losses” that could  not be
+recouped until the company generated income.  Due to the disallowed losses, Applicant incurred an
+unpaid tax debt for 2011-2014.  With the economic decline in 2007 and 2008, he also sustained
+losses on rental properties he had purchased.  
+While undergoing surgery in a foreign country in 2009, he suffered a “medical
+misadventure” that left him physically unable to perform his duties.  Decision at 3.  He retained
+counsel to pursue a medical malpractice claim and, on the advice of counsel, remained in the foreign
+country to participate in the case.  He went into a leave-without-pay status after expending his
+accumulated leave.  Later that year, he resigned from his job when the U.S. Government agency
+proposed removing him from that employment.  He then used retirement funds to pay for living
+expenses and returned to school to pursue a new career.   
+Applicant’s medical malpractice case took longer than expected to resolve.  Despite having
+received disability payments for a portion of 2011, he started feeling financial pressure and used
+credit cards to fund living expenses.  His injury and unemployment caused him to fall behind on his
+2
+mortgages, educational loans, and credit cards.  In March 2011, he filed Chapter 7 bankruptcy.1  In
+mid-2011, he began working for a defense contractor.
+In early 2014, Applicant received a $380,000 medical malpractice settlement.2  In March
+2014, he received a bankruptcy discharge that did not absolve him of his tax debt or educational
+loans.  Regarding the malpractice settlement, “Applicant estimates he spent $62,000 paying off his
+educational loans, invested $70,000 in his business, and paid $15,000 for his continuing education. 
+With the $20,000 he gave to his father (for helping Applicant out in tough times), Applicant has
+fuzzily explained where the remaining $203,000 went.”  Decision at 4.  
+Applicant continued working for defense contractors until he was laid off in late 2014.  He
+remained unemployed until he obtained his current job in late 2015.  He and his wife earn about
+$134,000 annually.  He provided proof that he paid a $52 medical debt in 2016.  In that year, he also
+entered into a repayment agreement with the IRS for his 2011-2014 taxes.  He provided proof of the
+required $212 monthly IRS payments from April through August 2016.  He did not document
+payment of the three remaining medical debts that appear to have aged off his credit reports.    
+Applicant’s wife was born in the PRC, attended college in the United States, and then
+worked in the PRC before returning to the United States following her engagement to Applicant. 
+They married in 2016.  She became a permanent U.S. resident in late 2016.  Her parents as well as
+her extended family members are resident citizens of the PRC.  Her father works at the district level
+of the PRC Government.  Her mother is retired.  Applicant communicates regularly with her mother
+1 In his bankruptcy petition (i.e., the Statement of Financial Affairs), Applicant checked the “None” box
+pertaining to the following request: “List all suits and administrative proceedings to which the debtor is or was a party
+within one year immediately preceding the filing of this bankruptcy case.”  Government Exhibit (GE) 5.  “Section 541
+of the Bankruptcy Code provides that virtually all of a debtor’s assets, including causes of action belonging to the debtor
+at the commencement of the bankruptcy case, vest in the bankruptcy estate upon the filing of a bankruptcy petition.  11
+U.S.C. § 541(a)(1); In re Swift, 129 F.3d at 795; COLLIER ON BANKRUPTCY § 541.08.  Thus, a trustee as
+representative of the bankruptcy estate, is the real party in interest, and is the only party with standing to prosecute causes
+of action belonging to the estate once the bankruptcy petition has been filed.”  Kane v. National Union Fire Insurance
+Co. 535 F.3d 380, 385 (5th Cir. 2008). 
+2 The record does not reflect whether Applicant notified the bankruptcy court or trustee of his malpractice
+settlement before the bankruptcy discharge was issued.  The record, however, contains the following exchange:
+[Department Counsel]:  Okay. When you received it [the malpractice settlement], your bankruptcy
+wasn’t fully discharged yet.  Is that correct?
+[Applicant]:  Correct.
+[Department Counsel]:  Okay.  Did you consider using any of the monies from your settlement to
+repay the lenders you owed under that bankruptcy as opposed to continuing with the discharge?
+[Applicant]:  My trustee just wanted to close it out.  Her name is . . . . [ Tr. at 124.]  
+3
+and seldomly with her father.  She describes her extended family members as farmers and factory
+workers.  
+The PRC has an authoritarian government with a poor record for human rights.  It is an
+active collector of U.S. economic intelligence and technology and engages in espionage against the
+United States.   Its intelligence services and private industry frequently seek to exploit Chinese
+citizens or persons with family ties to the PRC to steal state secrets.  
+The Judge’s Analysis
+Applicant meets most of the mitigating conditions for financial considerations.  He
+experienced financial problems due to conditions beyond his control -- including a medical
+misadventure that cost him a well-established career and periods of unemployment from December
+2009 to June 2011 and from October 2014 to December 2015 -- and largely dealt with his finances
+responsibly.   His financial difficulties are not recent and are not likely to recur.  He promptly paid
+his education loans once he received the malpractice settlement and entered into a repayment plan
+with the IRS.  He was in contact with creditors well before the SOR (although the Judge noted there
+is no evidence of Applicant’s efforts to contact the creditors of the aged-off medical debts) and made
+a good-faith effort to resolve his debts.  Given his actions, the unpaid debts have little security
+significance.    
+Applicant’s wife and her parents create a potential heightened risk of foreign exploitation,
+inducement, manipulation, pressure, or coercion, but only because of the rebuttable presumption that
+he has ties of affection and obligation to his wife and to his in-law through his wife.  His wife is
+effectively beyond the reach of the PRC.  She is a permanent U.S. resident and has no apparent
+connection to the PRC Government.  These connections are too attenuated to raise any security risks. 
+Discussion
+Department Counsel argues that the record in this case does not support the Judge’s
+favorable mitigation analysis under Guidelines F and B.  More specifically, she contends that the
+Judge did not consider important aspects of the case and his analysis runs contrary to the weight of
+the record evidence.  Most of Department Counsel’s arguments have merit.3
+3 Department Counsel makes an argument that the Appeal Board has repeatedly rejected, i.e., “With respect
+to resolution of delinquent taxes, Mitigating Conditions 20(d) and 20(g) must be read in concert and harmony with the
+overall parameters of analysis set forth by the Appeal Board.”  Appeal Brief at 27.  This is not accurate.  As we have
+previously explained, “The Appeal Board and Hearing Office are creatures of the Directive.  While some analysis and
+precedents might survive amendments to the Directive or guidelines, it is mistaken to believe that the guidelines are
+somehow inferior to Appeal Board decisions.  More succinctly, the provision of the Directive, including the guidelines,
+are controlling.”  See, e.g., ISCR Case No. 17-01213 at 4, n.2 (App. Bd. Jun. 29, 2018), ISCR Case No. 16-03187 at 4.
+n.4 (App. Bd. Aug. 1, 2018), and, most recently, ISCR Case No. 17-00944 at 3 (App. Bd. Feb. 15, 2019).  The Reply
+Brief also notes that the Judge did not mention Mitigating Condition 20(g).  Reply Brief at 17.  Additionally, Department
+Counsel argues the Judge erred in finding Applicant “received disability payments for a portion of 2011" when he
+actually received such payments dating back to 2009.  While that finding may not reflect the full picture of the disability
+payments that Applicant received, that finding is not erroneous.   
+4
+ 
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371, U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’”   Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt 
+concerning personnel being considered for national security eligibility will be resolved in favor of
+the national security.”  Directive, Encl. 2, App. A ¶ 2(b).  The Appeal Board may reverse the Judge’s
+decision to grant, deny, or revoke a security clearance if it is arbitrary, capricious, or contrary to law. 
+Directive ¶¶ E3.1.32.3 and E3.1.33.3.
+There is a strong presumption against the grant or maintenance of a security clearance.  See
+Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After
+the Government presents evidence raising security concerns, the burden shifts to the applicant to
+rebut or mitigate those concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and
+mitigating conditions and whole-person factors does not turn simply on a finding that one or more
+of them apply to the particular facts of a case.  Rather, their application requires the exercise of
+sound discretion in light of the record evidence as a whole.”  See, e.g., ISCR Case No. 16-02322 at
+3 (App. Bd. Mar. 14, 2018).
+In deciding whether the Judge’s rulings or conclusions are erroneous, we will review the
+Judge’s decision to determine whether:  it does not examine relevant evidence; it fails to articulate
+a satisfactory explanation for its conclusions, including a rational connection between the facts
+found and the choice made; it does not consider relevant factors; it reflects a clear error of judgment;
+it fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  Id. at 4.
+Department Counsel challenges a number of the Judge’s Guideline F conclusions.  For
+example, she opposes the Judge’s determination that Applicant’s debts are not recent.  She argues
+that, while Applicant's tax and medical debts may have existed for years, those problems were still
+unresolved.  The ongoing nature of most of his alleged delinquent debts vitiates a conclusion that
+his financial problems are not recent and, thus, they continue to impugn his trustworthiness and
+reliability.  See, e.g., ISCR Case No. 07-10575 at 3(App. Bd. Jul. 3, 2008).  Department Counsel
+also notes that Applicant testified that he could have returned to work “much sooner” than he did
+following his medical misadventure,4 and she argues the Judge’s conclusion that Applicant “largely
+dealt with his finances responsibly” is flawed.  She highlights that Applicant received the
+malpractice settlement of $380,000 about one month before the bankruptcy court issued the debt
+4 Appeal Brief at 19, citing Tr. at 69.
+5
+discharge order in March 2014.5  Between receipt of the settlement payment and the hearing,
+Applicant fully expended the settlement funds without paying his past-due taxes or delinquent
+medical debts and can only account “fuzzily” for the expenditure of over $200,000 of those funds. 
+His expenditure of the funds on discretionary matters, such as expending about $70,000 on an
+endeavor that the IRS regards as a “hobby,” instead of expending them on his delinquent financial
+obligations calls into question whether he acted responsibly under the circumstances.  Additionally,
+while Applicant established that he had an IRS installment agreement, he did not enter into that
+agreement until more than a year and a half after he submitted his security clearance application and
+more than two years after he received the settlement payment.  The timing of an applicant’s efforts
+at debt resolution is relevant in evaluating an applicant’s case for mitigation.  See, e.g., ISCR Case
+No. 14-03358 at 4 (App. Bd. Oct. 9, 2015).  Furthermore, Department Counsel points out that
+Applicant did not provide proof he paid three of the alleged delinquent medical debts, which the
+Judge indicated had apparently aged off Applicant’s credit report.  As we have stated in the past, the
+aging off of debts from a credit report does not establish any meaningful, independent evidence as
+to the disposition of such debts.  See, e.g., ISCR Case No. 15-03907 at 2-3 (App. Bd. Aug. 2, 2018). 
+Department Counsel further observes that Applicant failed to filed his Federal income tax returns
+for 2009-2012 as required.  In his post-hearing submission, he provided his IRS tax transcripts that
+reveal his Federal tax returns for those years were not filed until May 2015.6  The Judge did not
+factor Applicant’s tax filing deficiencies into his mitigation analysis.  Viewed in its entirety, the
+record evidence significantly undercuts the Judge’s conclusion that Applicant mitigated the alleged
+financial security concerns and, more specifically, that he acted responsibly in handling his financial
+problems.
+Department Counsel also challenges a number of the Judge’s conclusions in his Guideline
+B analysis.  At the outset, it merits noting the Judge apparently reached inconsistent conclusions
+regarding the application of Disqualifying Condition 7(a).7  On the one hand, the Judge concluded: 
+5 The Chapter 7 bankruptcy trustee’s final report reflects that $235,972 of Applicant’s debts were discharged
+without payment.  Applicant’s Exhibit (AE) A.  
+6 AE W-Z.  In his security clearance application dated July, 28, 2014, Applicant responded “No” to the question
+that asked: “In the past seven (7) years have you failed to file or pay Federal, state, or other taxes when required by law
+or ordinance?”  GE 1.  Department Counsel calls into questions Applicant’s testimony that the IRS contacted him in
+October or November 2014 regarding the disallowance of his 2011-2013 business expenses.  Department Counsel argues
+that the IRS would have no basis to talk to him about those business expenses if he had not yet filed his income tax
+returns for those years.  Appeal Brief at 29, citing Tr. at 134-135.  We also note that Applicant testified, “I always filed
+my taxes within the due date for the following year” and “ . . . I have never not filed on time for any year that I actually
+had W-2 income.”  Tr. at 62 and 116, respectively.  On cross-examination, Applicant acknowledged that he did not file
+his 2012 and 2013 tax returns until 2015 and he thought those delays had to do with his bankruptcy filing.  Tr. at 117-
+118.
+7 Directive, Encl. 2, App. A ¶ 7(a) states, “contact, regardless of method, with a foreign family member,
+business or professional associate, friend, or other person who is a citizen of or resident in a foreign country if that
+contact creates a heightened risk of foreign exploitation, inducement, manipulation, pressure, or coercion[.]”
+6
+In this case, the Government established that Applicant’s wife is a citizen of the
+PRC, residing in the U.S., her parents are resident citizens of the PRC, and these
+circumstances create a potential heightened risk of exploitation, inducement,
+manipulation, pressure, or coercion—but only because of the rebuttable presumption
+that Applicant has ties of affection and obligation to his wife, and to his in-laws
+through his wife.8
+On the other hand, the Judge later concluded, “[t]here is nothing in the circumstances of [Applicant’s
+in-laws] being in the PRC or in [his wife’s] contacts with them, to heighten the risk that Applicant
+could be impelled or compelled to provide protected information to the PRC.”9  The Judge does not
+explain how the circumstances of the case can create a heightened risk of foreign exploitation when
+there is “nothing in the circumstances  . . . to heighten” such a risk.10  The Judge erred in making
+these contradictory conclusions.      
+Department Counsel persuasively challenges the Judge’s conclusions that Applicant’s wife’s
+contacts with her parents are “infrequent,” that Applicant “has no connections whatsoever to the
+PRC[,]” and Applicant’s “connections are too attenuated to raise any security risks.”  Decision at
+8.
+8 Decision at 8.  In his analysis, the Judge twice uses the term “potential heightened risk.”  As reflected in the
+previous footnote, Disqualifying Condition 7(a) does not contain the word “potential.”  By using the term “potential
+heightened risk,” it is unclear whether the Judge was attempting to conclude that Disqualifying Condition 7(a) applied
+in some limited fashion.  If that was his intention, he did not do so in a clear and understandable manner.  The word
+“risk” is defined as “the chance of injury, damage, or loss; dangerous chance; hazard[;] . . . to expose to the chance of
+injury, damage, or loss[.]”  Webster’s New World Dictionary (3rd College Ed.)(1988) at 1159.  “Risk” encompasses  a
+“potential” outcome.  Under Disqualifying Condition 7(a), “heightened risk” includes the “potential” of foreign
+exploitation, inducement, etc.  We are unable to discern a meaningful distinction between the creation of a “potential
+heightened risk” or a “heightened risk,” and are unsure what exactly the Judge meant by using that former term.  As we
+said in the past, the Judge’s decision must be written in a manner that allows the parties and the Board to discern what
+findings the Judge is making and what conclusions he or she is reaching.  See, e.g., ISCR Case No. 16-02536 at 5 (App.
+Bd. Aug. 23, 2018).  If the Judge did conclude that the evidence established something short of the “heightened risk”
+in Disqualifying Condition 7(a), then he erred.  As summarized in footnote 11 below, the evidence established a
+“heightened risk” under that disqualifying condition.  
+9 Decision at 9.  To understand this quote in its context, the full paragraph is set forth below:
+Although the U.S. and the PRC are global competitors, and the PRC is an active collector of
+protected U.S. information and commercial information, Applicant is not situated in a position where
+he is likely to be pressured.  Examining Applicant’s circumstances, the Government’s evidence that
+there was a potential heightened risk of foreign, exploitation, inducement, manipulation, pressure, or
+coercion because of Applicant’s marriage to his wife, now permanently resident in the U.S., is
+extremely thin.  He has never met his father-in-law; he met his mother-in-law for five days, with no
+conversation other than that brokered by his then fiancee.  Her contacts with her parents are routine
+and infrequent.  There is nothing in the circumstances of their being in the PRC or in her contacts with
+them, to heighten the risk that Applicant could be impelled or compelled to provide protected
+information to the PRC.  I find Guideline B for Applicant.
+10 A Judge is tasked with resolving apparent conflicts in the evidence.  See, e.g., ISCR Case No. 14-00281 at
+4 (App. Bd. Dec. 30, 2014). 
+7
+Of note, the Judge found that Applicant’s wife communicates with her mother about once or twice
+a week by text and about once a month by telephone.  This finding is at odds with his conclusion
+that Applicant’s wife’s contacts with her parents are “infrequent.”  Additionally, the record contains
+substantial evidence to establish the Guideline B allegations and the resultant security concerns
+under Disqualifying Condition 7(a).11  As we have stated elsewhere, the Directive presumes there
+is a nexus or rational connection between proven circumstances under any of the guidelines and an
+applicant’s security eligibility.  Direct or objective evidence of nexus in not required.  See, e.g.,
+ISCR Case No. 17-00507 at 2 (App. Bd. Jun. 13, 2018).  The Judge’s conclusion that Applicant’s
+contacts to the PRC through his wife and her parents are too attenuated to raise security concerns
+is not sustainable.   
+We also note the Judge asked the following questions in his analysis:
+How is the PRC to bring pressure on a retired accountant and a local government
+consultant, through their daughter, who has no professional background of interest
+to the PRC?  How is the PRC expected to pressure (or even find) the daughter to
+pressure her to pressure Applicant to provide protected information?12 
+The practical effect of those questions is to require Department Counsel to prove affirmatively the
+methods the PRC uses to exploit PRC citizens or persons with family ties to the PRC.  The Directive
+does not require the Government to prove such matters to raise Guideline B security concerns. 
+Department Counsel need only prove controverted facts in the SOR allegations.13 Directive ¶
+E3.1.14.  Once the SOR allegations are admitted or proven, the burden shifted to Applicant to
+mitigate the resulting security concerns.  Directive ¶ E3.1.15.  By asking those questions, the Judge
+erred in placing the burden on the Government to prove matters that the Directive does not require. 
+Furthermore, as it happens, the Judge need only have referred back to Page 5 of his decision to find
+the answers to his questions.  There he would read his own findings that: “The PRC has a poor
+record with respect to human rights, suppresses political dissent, and its practices include arbitrary
+arrest and detention, forced confessions, torture, and mistreatment of prisoners.  The PRC engages
+11 See, e.g., ISCR Case No. 16-04094 at 2 (App. Bd. Apr. 20, 2018) (Substantial evidence is “such relevant
+evidence as a reasonable mind might accept as adequate to support a conclusion in light of all the contrary evidence in
+the same record.”  Directive ¶ E3.1.32.1).  “Heightened risk” is not a high standard to meet.  See, e.g., ISCR Case No.
+17-03026 at 5 (App. Bd. Jan. 16, 2019).  The evidence that Applicant’s wife was a citizen of the PRC; that her parents
+were citizens and residents of the PRC; that she became a permanent U.S. resident about seven months before the
+hearing; that she maintains regular contact with her mother; that her father works for the PRC Government; and that the
+PRC Government is an active collector of U.S. protected information, engages in espionage against the United States,
+and frequently seeks to exploit PRC citizens or persons with family ties to the PRC to steal state secrets sufficiently
+established a heightened risk of foreign exploitation, inducement, etc. under Disqualifying Condition 7(a). 
+12 Decision at 8.
+13 The allegations under Guideline B were amended (SOR ¶ 2.a was modified and SOR ¶ 2.b was added)  just
+before closing arguments were made.   Applicant was not asked to admit or deny the amended SOR allegations. 
+However, Applicant’s Counsel stated, “Your Honor, I think that [the SOR amendments] accurately reflects what the
+evidence was in the record, so no objection.”  Tr. at 140-141.  
+8
+in espionage against the United States and is one of the two most active collectors of U.S. economic
+intelligence and technology.”  
+  
+Based on our review of the record, we conclude that the Judge’s decision failed to consider
+important aspects of the case and runs contrary to the weight of the record evidence.  Furthermore,
+we conclude that the record evidence, viewed as a whole, is not sufficient to mitigate the
+Government’s security concerns under the Egan standard. 
+9
+Order
+The Decision is REVERSED.  
+Signed: Michael Ra’anan            
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody             
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                 
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+10

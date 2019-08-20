@@ -1,0 +1,210 @@
+KEYWORD: Guideline F
+DIGEST: The Judge’s finding that Applicant’s delinquent tax debt covers only the period of the
+downturn of his business is not sustainable.  Applicant’s evidence in mitigation relies on
+speculation.  The Judge’s favorable application of the mitigating is not sustainable on this record. 
+Favorable decision reversed.
+CASENO: 10-00194.a1
+DATE: 02/01/2011
+DATE: February 1, 2011
+In Re:
+--------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 10-00194
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Ray T. Blank, Jr., Esq., Department Counsel
+FOR APPLICANT
+Christopher Graham, Esq.
+1The SOR alleges that these debts are owed to medical providers, a provider of TV services, an energy
+company, etc.  
+2The record contains evidence that these problems were significant.  “The plumbing and piping was illegal.
+The header beams in the kitchen were physically snapped in half . . . [T]he entire roof had to be replaced.  The entire
+electrical system had to be replaced.  The engineer came in and said that basically it would be cheaper for them to knock
+the facility down and start from scratch then to repair what was there.” Tr. at 28-29.  This testimony is corroborated by
+a report of an engineer’s inspection of the premises.  In addition to the problems described above, the report states that
+there was mold in the bathroom, toxic mold in the kitchen, rot and water leaks behind the freezer, and that sinkholes were
+developing around the building.  AE D, Engineer’s Report, dated May 17, 2010.   
+3The amount of damages had not been determined by the close of the record.
+2
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On March 18, 2010, DOHA issued a statement of reasons (SOR) advising Applicant of
+the basis for that decision–security concerns raised under Guideline F (Financial Considerations)
+of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On October 25, 2010, after the hearing, Administrative Judge Arthur E.
+Marshall, Jr., granted Applicant’s request for a security clearance.  Department Counsel appealed
+pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Department Counsel raised the following issues on appeal: whether certain of the Judge’s
+findings of fact were supported by substantial record evidence; whether the Judge erred in his
+application of the mitigating conditions; and whether the Judge’s whole-person analysis was
+erroneous.  Consistent with the following discussion, we reverse the decision of the Judge.
+Facts
+The Judge made the following pertinent findings of fact: Applicant is an engineer working
+for a Defense contractor.  Applicant has numerous debts, including two for tax liens in the amounts
+of $55,127 and $15,725.  He also has several other smaller debts.1  Applicant opened a restaurant
+in 2004, operating on a waterfront.  He rented the premises.  His business was profitable.  However,
+he began to discover substantial structural problems with the building.2  These problems resulted in
+the closing of Applicant’s business in November 2007.  
+Applicant and the landlord went to court, which found in favor of Applicant on the ground
+that the landlord had breached his contractual duty of repair.  However, the court rejected
+Applicant’s contention that he had been constructively evicted, because Applicant had not
+surrendered the keys to the premises when his business failed.  Accordingly, the court held that
+Applicant owed the landlord back rent and the landlord owed Applicant damages resulting from the
+loss of his business.3  
+Applicant became indebted to the state for back sales tax.  This was as a result of the loss of
+his business and the related costs.  Applicant has kept the state informed of his situation, and the
+state chose not to seize any of the business assets.  Once Applicant has recouped damages from his
+3
+landlord, he is to meet with state officials concerning his tax liability.  The precise amount of his
+liability is “undefined” by the state.  Decision at 4.  Applicant and the state are reviewing a
+repayment plan while the case against the landlord proceeds to closure.  Applicant’s restaurant
+collected sales tax in the course of its operations.  The tax monies were deposited in the general
+business account rather than a separate account.  Applicant disputes that he owes sales tax following
+his restaurant’s closure.  
+Of the remaining debts, Applicant has paid some and has disputed others.  Some of these
+debts are no longer reflected on Applicant’s credit report.
+We review the Judge’s findings of facts to determine if they are supported by substantial
+evidence–“such relevant evidence as a reasonable mind might accept as adequate to support a
+conclusion in light of all the contrary evidence in the same record.”  Directive  ¶ E3.1.32.1.  “This
+is something less than the weight of the evidence, and the possibility of drawing two inconsistent
+conclusions from the evidence does not prevent an administrative agency’s finding from being
+supported by substantial evidence.”  Consolo v. Federal Maritime Comm’n, 383 U.S. 607, 620
+(1966).
+Department Counsel notes that a reasonable inference can be drawn from the evidence that
+the underlying tax debts cover the period when the business was profitable.  Department Counsel’s
+point is well taken, in part for the following reasons: (1) the tax rate as cited in the transcript is
+“approximately” 8 percent; (2) the indebtedness for the tax judgment exceeds $70,000; and (3)
+income sufficient to yield $70,000 in sales tax at a rate of 8% would be $875,000, which exceeds
+the total income of the business from 2003 until it closed in November 2007 as described in
+Applicant Exhibit (AE) C.  Indeed, this is more than twice the income for the business for 2007, the
+year of the downturn.
+This calculation might be amended to the extent that the judgments include penalties and
+interest. However, the only evidence which might have shed light on that question is AE T, which
+has a white streak running down the page rendering key numbers illegible.  The Judge’s finding that
+the tax debt covers only the downturn in the business cannot be sustained.    
+Department Counsel also challenges the following statement in the Decision:
+Applicant has worked openly with the state regarding [his tax liens].  The state has
+not proceeded against Applicant further.  It refrained from seizing the restaurant’s
+possessions.  It appears to be willing to wait until Applicant’s lawsuit against his
+landlord is resolved and damages paid, to conduct a final audit as to the true extent
+of Applicant’s sales tax liability.  Decision at 8.  
+Department Counsel argues that this statement is not supported by the record evidence.  We find this
+argument persuasive regarding the purported willingness of the state to wait until the lawsuit is
+finished to determine the final amount of Applicant’s liability.  Under the facts of this case, there
+is no apparent connection between the two.  That is, there is no basis in the record to connect
+4
+Applicant’s tax liability to the damages owed by his landlord for failure to repair.  Applicant’s
+testimony that the state has not seized the business assets does not constitute substantial evidence
+that the state is unsure of the extent of Applicant’s tax liability.  Neither does Applicant’s testimony
+demonstrate that the state has decided to forbear collection of this debt.  AE T is a state court
+document authorizing garnishment of Applicant’s wages in payment of the larger of the two listed
+tax liens.  Accordingly, we conclude that the quoted statement is erroneous to the extent that it
+implies an agreement between Applicant and the state concerning the liens at issue.  
+Discussion
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  The Appeal
+Board may reverse the Judge’s decision to grant, deny, or revoke a security clearance if it is
+arbitrary, capricious, or contrary to law.  Directive ¶¶ E3.1.32.3 and E3.1.33.3.
+Once a concern arises regarding an applicant’s security clearance eligibility, there is a strong
+presumption against the grant or maintenance of a security clearance.  See Dorfmont v. Brown, 913
+F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After the Government presents
+evidence raising security concerns, the burden shifts to the applicant to rebut or mitigate those
+concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and mitigating conditions and
+whole person factors does not turn simply on a finding that one or more of them apply to the
+particular facts of a case.  Rather, their application requires the exercise of sound discretion in light
+of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at 3 (App. Bd. Dec. 20,
+2006).
+In deciding whether the Judge's rulings or conclusions are erroneous, the Board will review
+the Judge's decision to determine whether:  it does not examine relevant evidence; it fails to
+articulate a satisfactory explanation for its conclusions, including a rational connection between the
+facts found and the choice made; it does not consider relevant factors; it reflects a clear error of
+judgment; it fails to consider an important aspect of the case; it offers an explanation for the decision
+that runs contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere
+difference of opinion.  In deciding whether the Judge's rulings or conclusions are contrary to law,
+the Board will consider whether they are contrary to provisions of Executive Order 10865, the
+Directive, or other applicable federal law.  See, e.g., ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun.
+2, 2006).
+4Directive, Enclosure 2 ¶ 20(a): “the behavior happened so long ago, was so infrequent, or occurred under such
+circumstances that it is unlikely to recur and does not cast doubt on the individual’s current reliability, trustworthiness,
+or good judgment[.]”  
+5Directive, Enclosure 2 ¶ 20(b): “the conditions that resulted in the financial problem were largely beyond the
+person’s control . . . and the individual acted responsibly under the circumstances[.]”
+6Regarding the speculative nature of Applicant’s plan of repayment, see also Tr. at 85: “Right now any . . .
+excess funds that are being generated are being used to pay the attorneys to solve the lien issue first.  Once that issue
+is resolved we will then be trying to set up a payment plan and work with the state to figure out what exactly the issue
+is, how much it is, and we’ll work out a payment plan with them and try to use the funds that we would normally be
+5
+Department Counsel argues that the Judge erred in extending favorable application to
+Financial Considerations Mitigating Condition (FCMC) 20(a).4  He argues that the Judge erred in
+attributing the tax liens to the failure of Applicant’s business rather than to his business practices
+themselves.  Department Counsel’s argument has merit.  The Judge’s decision states that the tax
+liens arose during a time of business tumult.  The Judge concluded that the circumstances of the
+liens were unlikely to recur and did not cast doubt on Applicant’s reliability, trustworthiness, or
+good judgment.  However, the record does not demonstrate that the tax liens arose due to the
+business failure.  In addition to the calculations presented earlier in this decision, we note that  AE
+Y, District Court Decision, reflects that Applicant’s restaurant stopped operating on November 28,
+2007.  AE T states that the state filed for the larger tax lien on November 5, 2007, prior to the
+closure of the business.  While it is conceivable that these tax liabilities could have arisen only
+during 2007, when the business was in jeopardy, the record evidence as a whole does not support
+the Judge’s finding nor the conclusion based upon it.    
+Furthermore, the record demonstrates that Applicant failed to segregate tax monies from
+general business receipts, with the result that he spent on business expenses funds properly owed
+to the state.  Accordingly, his tax problems were, at least in part, caused by his own practices rather
+than the landlord’s breach of contract.  This undermines the Judge’s conclusion that Applicant’s tax
+debts do not reflect upon his reliability, trustworthiness, or good judgment.  
+Additionally, the record does not support the Judge’s favorable application of FCMC 20(b),5
+in light of record evidence concerning Applicant’s business practices discussed above.  Furthermore,
+Applicant’s evidence in mitigation reflects a plan to address his tax liens that is speculative, in that
+it is dependent on an award of damages from the landlord.  Because Applicant himself owes the
+landlord back rent, the final amount that Applicant will receive from the case is not contained in the
+record.  It is not clear from the record, therefore, that the award will be enough to pay off these liens
+or that such an award will actually be collectable from the landlord.  See ISCR Case No. 09-08142
+at 3 (App. Bd. Aug. 19, 2010) (The applicant presented no reasonable plan for resolving his debts,
+“beyond his hope for a substantial award of damages in his lawsuit”).  The speculative nature of
+Applicant’s repayment plan is further buttressed by AE X, a letter from his lawyer, which states in
+part that the lawyer will pay the tax debts “[i]f we are successful in the case and collect money upon
+a judgment[.]” (emphasis added) At the close of the record, therefore, success on the question of
+damages was not certain.6 
+using for our attorney . . .  to satisfy that until the judgement is paid.”  
+7Directive, Enclosure 2 ¶ 20(c): “the person has received or is receiving counseling for the problem and/or there
+are clear indications that the problem is being resolved or is under control[.]”
+8Directive, Enclosure 2 ¶ 20(d): “the individual initiated a good-faith effort to repay overdue creditors or
+otherwise resolve debts[.]”
+6
+For similar reasons, we conclude that the record will not support the Judge’s favorable
+application of FCMC 20(c)7 and (d),8 in that it does not provide “clear indications” that the tax liens
+are being resolved or that Applicant has initiated a good-faith effort to repay them.   See, e.g., ADP
+Case No. 07-13041 at 4 (App. Bd. Sep. 19, 2008) (Promises to pay off delinquent debts in the future
+are not a substitute for a track record of paying debts in a timely manner and otherwise acting in a
+financially responsible manner).  Finally, Department Counsel persuasively argues that the Judge’s
+whole-person analysis does not provide an additional reason to grant Applicant a clearance but,
+rather, essentially restates his analysis of the mitigating conditions.  The record, viewed as a whole,
+does not support the Judge’s favorable decision.  The Judge’s decision is not sustainable. 
+ 
+Order
+The Judge’s favorable security clearance decision is REVERSED.       
+Signed: Michael Y. Ra’anan          
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jean E. Smallin                  
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody             
+James E. Moody
+Administrative Judge
+Member, Appeal Board

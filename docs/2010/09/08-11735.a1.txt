@@ -1,0 +1,109 @@
+KEYWORD: Guideline F; Guideline E
+DIGEST: Error in the Judge’s findings of fact was not likely to have affected the outcome of the
+case.  Therefore, it was harmless.  Applicant failed to rebut the presumption that the Judge had
+considered all of the record evidence.  Adverse decision affirmed. 
+CASE NO: 08-11735.a1
+DATE: 09/21/2010
+DATE: September 21, 2010
+In Re:
+----------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 08-11735
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On September 14, 2009, DOHA issued a statement of reasons (SOR) advising Applicant
+of the basis for that decision–security concerns raised under Guideline F (Financial Considerations)
+and Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as
+amended) (Directive).  Applicant requested a decision on the written record.  On June 30, 2010, after
+considering the record, Administrative Judge Roger C. Wesley denied Applicant’s request for a
+security clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether certain of the Judge’s findings of
+fact were supported by substantial record evidence; whether the Judge failed to consider all of the
+record evidence; whether the Judge mis-weighed the record evidence; and whether the Judge’s
+1See Item 7, Interrogatories, which contains a summary of Applicant’s security clearance interview.
+“[Applicant] was going through a dark time in his life.  He did not have a job and was living with his parents at the time.
+He had been out of the Army . . . [Applicant] owned a check making software program which allows people to make
+their own checks rather than pay their bank to provide checks. [Applicant] opened multiple checking accounts at [Bank]
+using fictitious names and social security numbers from late 2001 to early 2002 . . . He had fake identifications (which
+he made himself) for each of the accounts.  He forged the signatures on each check from the various accounts . . . He
+did not recall how many checks from falsified checking accounts he wrote or what the total amount of the checks turned
+out to be before he got caught . . . ”  Item 7 contains a certification by Applicant that the summary is accurate.
+adverse security clearance decision is arbitrary, capricious, or contrary to law.  Consistent with the
+following discussion, we affirm the Judge’s decision.
+The Judge made the following pertinent findings of fact: Applicant is a systems administrator
+for a Defense contractor.  He served in the Army from 1998 to 2001.  Following his discharge, he
+experienced difficulties finding work.  While unemployed, he lived with his parents.  He opened
+different checking accounts using false identification for each.  He wrote checks on these accounts
+and cashed them to defray living expenses.  He was eventually arrested and charged with forgery.
+Applicant completed the probation which resulted from his forgery conviction in 2007.1  Due to his
+unemployment, Applicant acquired a substantial amount of delinquent debt.  Although he
+demonstrated that he paid off many of the debts alleged in the SOR, he did not corroborate his
+claims of payment for others, some large, for example, a $7,326 debt apparently related to medical
+treatment and a $3,135 collection account. 
+Applicant contends that the Judge’s findings of fact contain errors.  For example, he states
+that he was not actually convicted of forgery.  Rather, the case was dismissed after he completed the
+conditions of his deferred adjudication.  We note the interview summarized in Item 7 (see Note 1).
+Applicant stated that he pled guilty to forgery and was thereupon found guilty.  He also stated that
+the charges were later dismissed and, therefore, he did not have a conviction.  This is consistent with
+Item 8, FBI Identification Record.  However, even if the Judge’s characterization of this case is
+erroneous, in that Applicant does not currently have a conviction on his record, it is harmless error.
+The Judge relied on the underlying circumstances of the case rather than its ultimate legal
+disposition.  Applicant also challenges the Judge’s statement in the Analysis portion of the decision
+that he had written the fictitious checks over a two-year period.  He states that the misconduct
+occurred over a matter of months, not years, citing to Item 7 in support.  Applicant is correct, in that
+Item 7 indicates that the forgery scheme took place “from late 2001 to early 2002.”  Despite that,
+there is no reason to believe that, even if he had made a finding consistent with this document, the
+Judge would have decided the case differently.  Therefore, this error is harmless.  See ISCR Case
+No. 08-07528 at 2 (App. Bd. Dec. 29, 2009).
+Applicant contends that the Judge erred in concluding that he had not paid off all of his
+delinquent debts.  He states that the fact that these debts no longer appear on his credit report
+corroborates his claim of payment.  However, the Judge acknowledged that these debts were no
+longer reported, but he stated that they were not otherwise explained.  He stated that Applicant did
+not provide evidence that he had inquired about these debts or disputed their legitimacy.  Viewed
+in light of the evidence as a whole, and in the context of Applicant’s burden of persuasion as to
+mitigation, the Judge’s treatment of this aspect of the case is sustainable.  We conclude that the
+Judge’s material findings are based on substantial evidence, or constitute reasonable
+characterizations or inferences that could be drawn from the record.  Applicant has not identified
+any harmful error likely to change the outcome of the case.  Considering the record evidence as a
+whole, the Judge’s material findings of security concern are sustainable.  See ISCR Case No. 08-
+11564 at 2 (App. Bd. Jun. 21, 2010).  
+Applicant contends that the Judge did not consider record evidence of his current good
+financial condition, for example that he is in good standing on his credit cards and his automobile
+loan.  A Judge is presumed to have considered all the evidence in the record.  See ISCR Case 09-
+05830 at 2 (App. Bd. Jun. 25, 2010).  Applicant’s presentation on appeal is not sufficient to rebut
+that presumption, nor to demonstrate that the Judge weighed the evidence in an arbitrary or
+capricious manner.
+ 
+After reviewing the record, we conclude that the Judge has cogently explained his decision,
+both as to the mitigating conditions and the whole-person factors.  See Motor Vehicle Mfrs. Ass’n
+of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 49 (1983).  The Judge’s adverse
+decision is sustainable on this record.  “The general standard is that a clearance may be granted only
+when ‘clearly consistent with the interests of the national security.’”  Department of the Navy v.
+Egan, 484 U.S. 518, 528 (1988). 
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.  
+Signed: Michael Y. Ra’anan        
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jean E. Smallin              
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody            
+James E. Moody
+Administrative Judge
+Member, Appeal Board

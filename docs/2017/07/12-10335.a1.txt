@@ -1,0 +1,103 @@
+KEYWORD: Guideline B; Guideline L; Guideline F
+DIGEST: We conclude that the Judge erred in denying admission of the CPA letter. In light of
+the above, we remand the case for the Judge to consider the CPA letter and issue a new decision.
+If the case is remanded to a different Judge, he or she should inquire of the parties whether a new
+hearing is required or whether the Judge can rely on the transcript of the hearing contained in the
+case file. In light of this holding, the other issues that Applicant has raised are not ripe for
+consideration. Adverse decision remanded.
+CASENO: 12-10335.a1
+DATE: 07/21/2017
+DATE: July 21, 2017
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 12-10335
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Adam R. Webber, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+April 26, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline B (Foreign Influence), Guideline L (Outside
+Activities), and Guideline F (Financial Considerations) of Department of Defense Directive 5220.6
+(Jan. 2, 1992, as amended) (Directive).  On March 8, 2016, Department Counsel amended the SOR
+to add an additional allegations under Guideline F.  Applicant requested a hearing.  On April 21,
+2017, after the hearing, Defense Office of Hearings and Appeals (DOHA) Administrative Judge
+Philip S. Howe denied Applicant’s request for a security clearance.  Applicant appealed pursuant
+to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether Applicant was denied due process;
+whether the Judge failed to consider all of the record evidence; whether the Government presented
+substantial evidence of one of the Guideline F allegations, and whether the Judge’s whole-person
+analysis was erroneous.  The Judge’s favorable findings under Guidelines B and L are not at issue
+in this appeal.  Consistent with the following, we remand the case for a new decision.
+Applicant has raised an issue of due process.  In doing so, he asserts matters from outside
+the record, which we are generally not permitted to consider.  Directive ¶ E3.1.29.  However, we
+will consider new evidence insofar as it bears upon threshold issues such as jurisdiction or due
+process.  See, e.g., ISCR Case No. 14-00812 at 2 (App. Bd. Jul. 8, 2015).
+Applicant asserts, and Department Counsel does not deny, that Applicant’s attorney
+requested a continuance of the hearing, due to his having been retained only a few days prior.  The
+Judge denied the request.  At the end of the hearing, the Judge stated that he had denied the request
+because it did not state good cause.  Tr. at 193.  However, he advised that he would hold the record
+open for four weeks to enable Applicant to present additional matters: 
+[Y]ou can send me anything that’s relevant and probative . . . because you asked for
+the continuance and you were just hired last week, I’ll give you a month to . . .
+present to me anything that you think is relevant and probative.  Tr. at 195.  
+After the hearing, Applicant provided documents to the Judge.  These documents included
+a letter by a certified public accountant (CPA).  Department Counsel objected to this document on
+the ground that it was hearsay and that the CPA should have been made available at the hearing for
+cross-examination.  Government Objections, dated October 17, 2016.  The Judge sustained the
+objection due to the exhibit’s status as hearsay.  He stated that the letter’s author should have been
+presented at the hearing.1  Decision at 2.  
+ We examine a Judge’s rulings on admissibility of evidence to see if they are arbitrary,
+capricious, or contrary to law.  See, e.g., ISCR Case No. 12-02296 at 3 (App. Bd. Mar. 12, 2014). 
+Although the Federal Rules of Evidence serve as a guide in DOHA proceedings, the technical rules
+of evidence may be relaxed in the interest of a full and complete record.  Directive ¶ E3.1.19.  In
+administrative proceedings such as those conducted by DOHA, hearsay is admissible.  See, e.g.,
+ISCR Case No. 11-12461 at 4 (App. Bd. Mar. 14, 2013).
+1Applicant also included a credit report in his post-hearing submission, arguing that the absence of his SOR
+debts from the report showed that he had resolved them.  Department Counsel stated that she objected to this argument
+on the ground that a debt can fall off a credit report for reasons other than payment.  The Judge sustained this objection
+as well.  Decision at 2.  It appears that Department Counsel was not objecting to the admissibility of the report but,
+rather, was arguing that it did not demonstrate meaningful debt resolution.  The Judge’s discussion of the credit report
+suggests that he admitted the report but found it to be lacking in probative value.    
+In the case before us, we conclude that the Judge erred in declining to admit and consider
+the letter from the CPA.  It is not unusual in DOHA proceedings for Judges to admit letters and other
+such documents, especially when submitted by applicants.  Moreover, under the facts of this case,
+the Judge advised Applicant that he could submit after the hearing anything that he believed to be
+relevant and probative, which the CPA letter undoubtedly is.  Under the circumstances, we conclude
+that Applicant reasonably relied on the Judge’s instructions regarding the sort of information that
+he could present post-hearing, a procedure the Judge authorized to compensate for his having denied
+Applicant’s motion for a continuance.  Accordingly, it was anomalous for the Judge to have denied
+the CPA letter on simply hearsay grounds, insofar as that is the very sort of evidence that a post-
+hearing format would likely entail.  We conclude that the Judge erred in denying admission of the
+CPA letter.
+In light of the above, we remand the case for the Judge to consider the CPA letter and issue
+a new decision.  If the case is remanded to a different Judge, he or she should inquire of the parties
+whether a new hearing is required or whether the Judge can rely on the transcript of the hearing
+contained in the case file.  In light of this holding, the other issues that Applicant has raised are not
+ripe for consideration.
+Order
+The Decision is REMANDED.     
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody                
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                   
+James F. Duffy
+Administrative Judge
+Member, Appeal Board

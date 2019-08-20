@@ -1,0 +1,141 @@
+KEYWORD: Guideline F; Guideline E
+DIGEST: Legal judgements provided substantial evidence of Guideline F security concerns. 
+Evidence that Applicant committed an act of fraud provided substantial evidence of Guideline E
+security concern.  Applicant failed to mitigate these concerns.  Judge’s comments that suggested
+he found security concerns in Applicant’s choice of forum were harmless error.  Adverse
+decision affirmed.  
+CASE NO: 09-05963.a1
+DATE: 01/13/2011
+DATE: January 13, 2011
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 09-05963
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+John Bayard Glendon, Esq., Deputy Chief Department Counsel
+FOR APPLICANT
+Richard L. Moorhouse, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On January 25, 2010, DOHA issued a statement of reasons (SOR) advising Applicant
+of the basis for that decision–security concerns raised under Guideline F (Financial Considerations)
+and Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as
+amended) (Directive).  Applicant requested a hearing.  On September 30, 2010, after the hearing,
+Administrative Judge Arthur E. Marshall, Jr. denied Applicant’s request for a security clearance.
+Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+1As stated above, these representations concerned the legality of the tax shelter in question.  Government Exhibit
+(GE) 3 contains the complaint filed by plaintiffs in the state court.  The complaint alleges that Applicant and co-
+defendants represented to the plaintiffs that the tax shelter “was a legal and legitimate tax strategy that was fully
+supported by . . . an opinion of some prominent national law firm and . . . that there was no possibility of incurring IRS
+penalties . . .”  
+Applicant raised the following issues on appeal: whether the Judge erred in his application
+of the pertinent mitigating conditions and whether the Judge’s whole-person analysis was erroneous.
+Consistent with the following discussion, we affirm the decision of the Judge.
+Facts
+The Judge made the following pertinent findings of fact: Applicant is a 55-year-old
+managing director of a defense contractor.  He holds a bachelor’s degree, as well as a master’s
+degree in taxation from a nationally recognized business school.  
+The SOR alleges four debts.  One arose from a lawsuit filed against Applicant and others for
+fraud, breach of fiduciary duty, and violations of general business law.  Applicant had developed,
+promoted, sold, and implemented a tax shelter strategy, representing to the plaintiffs that it was a
+legitimate tax-saving tool.  The Internal Revenue Service (IRS) disallowed the plaintiffs’ deductions
+and imposed penalties on them.  Applicant’s agreement with the plaintiffs had included an
+arbitration clause.  Accordingly, the dispute was referred to an arbitration panel.  The panel
+concluded that representations made by the defendants in the case were false,1 that the defendants
+knew that they were false, and that the plaintiffs relied on these representations to their detriment.
+The arbitration panel awarded the plaintiffs some $5,000,000 including costs and expenses.
+Applicant negotiated a settlement of this debt, the plaintiffs agreeing to accept $4,000,000.
+Applicant is paying off this debt in quarterly increments.  As of the close of the record he was
+continuing to make payments.
+Two of the debts alleged in the SOR were based on loans Applicant had received from two
+organizations falling within an umbrella corporation of which Applicant is managing director.
+These loans resulted in adverse judgments against him, in the amounts of approximately $665,000
+and $885,000 respectively.  In taking these loans he had signed confessions of judgment, upon the
+recommendation of his tax advisor.  The debts were satisfied by the close of the record.
+ The final debt alleged in the SOR arose from a contract for a band to perform at an occasion
+for Applicant’s son.  The contract provided that Applicant would be responsible for the entire
+contract amount in the event he did not use the band.  Applicant’s son decided that he did not want
+the band after all.  Applicant offered to settle with the band for its lost profits.  However, the band
+insisted on payment of the full amount of liquidated damages, as set forth in the contract.  Applicant
+took the case to court and lost, the band being granted a judgement of $25,000.  This debt was paid
+before the close of the record.
+Discussion
+2Directive, Enclosure 2 ¶ 20(b): “the conditions that resulted in the financial problem were largely beyond the
+person’s control . . . and the individual acted responsibly under the circumstances[.]”  
+Applicant contends that the Judge’s decision contains language favorable to Applicant, for
+example that Applicant lives within his means and meets his financial obligations.  Decision at 8.
+Applicant also contends that the Judge erred in his treatment of the legal disputes in this case.  For
+example, he states that the Judge erred in finding “worrisome” Applicant’s having litigated the band
+contract rather than pay it and his having submitted the fraud case to arbitration rather than fight the
+fraud allegations in court.  The Judge stated that Applicant’s “legal approach to these cases . . . does
+little to spotlight those qualities the Government seeks in bestowing access to sensitive material.”
+Decision at 9.  Applicant argues that the Judge’s findings and the record evidence support a
+conclusion that he has mitigated any security concerns arising from his debts.
+We do not consider individual sentences in a decision in isolation.  Rather, we look at each
+aspect of a decision in light of the whole and interpret individual portions in their proper context.
+See, e.g., ISCR Case No. 08-06591 at 2 (App. Bd. Oct. 16, 2009).  To the extent that the Judge
+appeared to hold it against Applicant that he decided to litigate a contract or that he submitted the
+fraud to arbitration rather than litigate it in court, the Judge erred.  Mere recourse to the courts or to
+alternative dispute resolution (ADR), considered per se, may be of limited security significance.
+However, in this case, the extent to which Applicant’s initial refusal to perform his duties under the
+band contract impugns his judgement and reliability is a proper matter for a Judge to consider under
+Guidelines F and E.  We also note evidence that, even after the court held in favor of the band, the
+debt was not paid until Applicant’s bank account had been the subject of a judicial attachment.  Tr.
+at 87.  Under the facts of this case, we conclude that the Judge did not err in his treatment of the
+band contract.
+Concerning the fraud charge, the Judge appears to have examined Applicant’s use of ADR
+in the context of evaluating Financial Considerations Mitigating Condition (FCMC) 20(b).2  That
+is, the Judge appears to have concluded that Applicant’s decision not to avail himself of the more
+stringent protections of a trial resulted in a finding of fraud by the arbitration panel, which was
+affirmed by the state court.  The resulting judgement against him, therefore, was a consequence of
+his own decision rather than a circumstance outside of his control.  While we conclude that the
+Judge’s comments regarding Applicant’s litigation tactics were error, we note record evidence
+concerning the circumstances that gave rise to the fraud lawsuit.  Specifically, GE 3 includes the
+decision by the state court affirming the arbitration panel’s decision.  It reads in pertinent part: “The
+Panel found that Plaintiff’s had ‘proven by clear and convincing evidence that the claimed
+representations were made, that they were false, that [Applicant and his co-defendants] knew they
+were false, and that [Plaintiffs] reasonably relied on them . . .’”  This evidence is consistent with the
+Judge’s findings summarized above.  Accordingly, the record evidence, viewed as a whole, supports
+the Judge’s treatment of FCMC 20(b), in that the circumstances underlying the fraud charge were
+not outside Applicant’s control.  Thus, any error in the Judge’s analysis of the decision to utilize
+ADR is harmless.
+Applicant contends that the Judge ignored or mis-weighed evidence favorable to him, for
+example that the fraud case was not criminal in nature but civil, that a plaintiff in the fraud case had
+himself been arrested on fraud charges in another matter, and that Applicant had paid off three of
+the four debts alleged in the SOR.  A Judge is presumed to have considered all the evidence in the
+record. See, e.g., ISCR Case No. 09-01735 at 2 (App. Bd. Aug. 31, 2010).  Applicant’s brief is not
+sufficient to rebut the presumption that the Judge considered the entire record.  With the exception
+of the harmless error discussed above, neither is the brief sufficient to demonstrate that the Judge
+weighed the evidence in a manner that is arbitrary, capricious, or contrary to law.  
+The record supports a conclusion that the Judge examined the relevant data and articulated
+a satisfactory explanation for the decision, “including a ‘rational connection between the facts found
+and the choice made,’” both as to the mitigating conditions and the whole-person factors  Motor
+Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  The
+Judge’s adverse decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.
+Signed: Michael Y. Ra’anan         
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett               
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                
+James E. Moody
+Administrative Judge
+Member, Appeal Board

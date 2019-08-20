@@ -1,0 +1,122 @@
+KEYWORD: Guideline E
+DIGEST: Statements by counsel are not binding on the Judge, who must make an independent
+determination of an applicant’s eligibility for a clearance.  Applicant had previously been granted
+a clearance by another agency.  However, since that time he engaged in other security-significant
+conduct.  Therefore, he was not entitled to reciprocity.  Adverse decision affirmed.   
+CASENO: 08-10088.a1
+DATE: 07/19/2010
+DATE: July 19, 2010
+In Re:
+----------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 08-10088
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On October 29, 2009, DOHA issued a statement of reasons (SOR) advising Applicant
+of the basis for that decision–security concerns raised under Guideline E (Personal Conduct) of
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On April 27, 2010, after the hearing, Administrative Judge Erin C. Hogan
+denied Applicant’s request for a security clearance.  Applicant appealed pursuant to Directive ¶¶
+E3.1.28 and E3.1.30.
+10 U.S.C. § 815.  A commander may impose non-judicial punishment on a member subject to his command1
+for violations of the Uniform Code of Military Justice.  A member may refuse non-judicial punishment and demand trial
+by court-martial.  
+Government Exhibit (GE) 5, Court Memorandum, states that Applicant was offered non-judicial punishment2
+under Article 15, Uniform Code of Military Justice, for six specifications of failure to obey an order or regulation and
+one specification of assault.  This exhibit states that Applicant was notified of his right to decline non-judicial
+punishment.  He accepted non-judicial punishment after having consulted an attorney.  
+Applicant raised the following issues on appeal: whether Department Counsel improperly
+characterized the evidence; whether Applicant’s prior grant of a clearance by a Federal agency
+should be given reciprocity; and whether the Judge’s adverse security clearance decision is arbitrary,
+capricious, or contrary to law.  Finding no error, we affirm.
+The Judge made the following pertinent findings of fact: Applicant is a software engineer for
+a Defense contractor.  He served in the Navy from 1997 to 2005 and has held a security clearance
+since 1998.  
+While in the Navy, he received non-judicial punishment for failure to obey an order or
+regulation and for assault.   Applicant testified that he was investigated for sexual harassment and1
+fraternization.  He denied guilt.2
+After leaving the Navy, Applicant worked for a Defense contractor, Company A.  However,
+he lost his job when his employer lost its contract.  In searching for a new job, Applicant stated on
+his resume that he was a Certified Information System Security Professional (CISSP).  In fact, he
+was not so certified but was studying to take the exam.  After he was hired by a different company,
+Company B, he did not inform his new employer that he in fact was not a CISSP.  When asked to
+present a copy of his certification, Applicant obtained a false one from a web site that generated false
+diplomas and certificates.  He gave this document to the program manager but, realizing that he had
+done wrong, resigned the next day.
+He found other employment, but this company, Company C, also lost its contract.  He went
+back to work for Company A.  While employed there he took a second job with Company D.  In
+August 2009, Applicant was terminated from this second job for inaccurate time keeping.  He had
+taken time off to attend classes, but he had certified to Company D that he was at work.  
+Applicant enjoys a reputation for being hard-working, conscientious, and trustworthy.  While
+on active duty, his performance reports stated that he met or exceeded standards.  He also received
+several awards, including the Navy and Marine Corps Achievement Medal.  
+Applicant contends that Department Counsel characterized the record evidence in an
+impermissible manner, thereby resulting in the Judge rendering an unfavorable decision.  For
+example, he argues that Department Counsel wrongly stated that he had been discharged from the
+Navy for assault.  We have examined the record, noting that Applicant’s DD Form 214 merely states
+that he was discharged for having committed a “serious offense,” without going into detail.  GE 4.
+However, Applicant admitted on cross examination that he had been discharged as a result of his
+non-judicial punishment, which included assault as one of the alleged offenses.  Tr. at 78; GE 5.  He
+further argues that Department Counsel erred by making his false statement regarding CISSP appear
+to be more serious than it actually was.  He also contends that Department Counsel erred in arguing
+that his violation of Company D policy concerning second jobs was knowing and willful.   
+We have examined Applicant’s contentions in light of the record.  We see no reason to
+believe that Department Counsel impermissibly characterized the evidence, either while questioning
+Applicant or during her closing argument.  In any event, comments by Department Counsel are not
+binding on the Judge.  In this case, the Judge’s findings and analysis are consistent with the evidence
+and reflect her own independent interpretation of the record.  
+Applicant states that he was previously granted a clearance by another agency and that
+DOHA should extend reciprocity to that earlier adjudication.  This issue was raised at the hearing,
+and the Judge held the record open, providing both sides an opportunity to submit matters addressing
+reciprocity.  In her decision, the Judge properly concluded that Applicant was not entitled to
+reciprocity, because his most recent job termination for cause, in August 2009, had not been included
+in the prior adjudication.  See DoD 5220.22-M, National Industrial Security Program Operating
+Manual, February 28, 2006 ¶ 2-204. 
+Applicant contends that the Judge either ignored or mis-weighed record evidence, for
+example his having held a clearance without incident or concern and his evidence of good character
+and devotion to duty.    
+A Judge is presumed to have considered all the evidence in the record.  See, e.g., ISCR Case
+No. 07-00196 at 3 (App. Bd. Feb. 20, 2009).  In this case, the Decision demonstrates that the Judge
+considered the evidence cited by Applicant but that she reasonably explained why she concluded that
+he had failed to mitigate the Government’s security concerns.  Furthermore, Applicant has not
+provided a reason to believe that the Judge weighed the evidence in a manner that is arbitrary,
+capricious, or contrary to law.  See, e.g., ISCR Case No. 06-21819 at 2 (App. Bd. Aug. 13, 2009).
+After considering the record, we find no error in the Judge’s application of the mitigating conditions
+or whole-person factors.
+Applicant states that he is willing to undergo “any probationary periods the [B]oard may want
+to set in place.”  Applicant Brief at 2.  However, we have no authority to grant a conditional or
+probationary clearance.  See, e.g., ISCR Case No. 08-04889 at 2 (App. Bd. Apr. 23, 2009).  
+After reviewing the record, the Board concludes that the Judge examined the relevant data
+and articulated a satisfactory explanation for the decision, “including a ‘rational connection between
+the facts found and the choice made.’”  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm
+Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States,
+371 U.S. 156, 168 (1962)).  The Judge’s adverse decision is sustainable on this record.  “The general
+standard is that a clearance may be granted only when ‘clearly consistent with the interests of the
+national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528 (1988). 
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.  
+Signed: Jean E. Smallin                 
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: William S. Fields              
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board

@@ -1,0 +1,144 @@
+KEYWORD: Guideline M
+DIGEST: Applicant raises two issues related to Government Exhibit (GE) 3, a Joint Personnel
+Adjudication System (JPAS) Incident History.  First, Applicant contends the Judge erred in the
+Decision by stating that he did not object to GE 3.  The transcript supports his contention that he
+objected to the relevance of that exhibit at the hearing.  The Judge overruled his objection and
+admitted GE 3 into evidence.  Besides entries addressing Applicant’s alleged misconduct, GE 3
+also has entries indicating that his SCI access was suspended in 2009 and later revoked.  He
+argues the information about his 2009 SCI access suspension and revocation was irrelevant.  We
+do not find his argument persuasive.  The JPAS Incident History is a Federal Government record
+that contains relevant information about an applicant’s security clearance eligibility.  We
+conclude the Judge committed no error in admitting the JPAS Incident History into evidence.
+Adverse decision affirmed.
+CASENO: 12-01906.a1
+DATE: 01/10/2019
+DATE: January 10, 2019
+In Re:
+----------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 12-01906
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+January 26, 2018, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision—security concerns raised under Guideline M (Use of Information Technology) of
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On September 10, 2018, after the hearing, Defense Office of Hearings and
+Appeals (DOHA) Administrative Judge Darlene D. Lokey Anderson denied Applicant’s request for
+a security clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant  raised the following issues on appeal: whether the Judge was biased against him,
+whether the Judge erred in considering non-alleged matters, and whether the Judge’s decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact
+Applicant has been working in the defense industry since 2004.  He holds a master’s degree. 
+In 2016, he downloaded, without authorization and in contravention of a non-disclosure agreement,
+company proprietary information onto an encrypted thumb drive and took the thumb drive with him
+after leaving that company’s employment.1  Shortly thereafter, he began working for a competitor
+of his former company.  He wanted to take the information because knew he would be working on
+the same engineering technology in his new position and planned to use the information in question
+as a reference.  He stated the information was for his personal use, and he had no intention of sharing
+it with anyone else.  He indicated that he became aware of the severity of his actions when he
+received letters from the FBI and his former company.  An internal investigation concluded that he
+violated company rules and regulations and committed a security violation.    
+Applicant claimed “he made an honest, naive, and very foolish mistake” in taking the
+proprietary information and did not understand the ramifications of his actions.  Decision at 3.  A
+counselor who provided him psychotherapy after he lost his security clearance in 2009 indicated he
+would never knowingly damage an employer’s privileged information.  His previously revoked
+security clearance was reinstated in 2014.  He submitted letters from other individuals who attested
+to his good character.  
+The Judge’s Analysis
+Applicant committed a serious security violation.  His downloading of proprietary
+information was deliberate.  He knew or should have known such conduct violated company rules
+and regulations.  “Furthermore, he has a history of negligence and misconduct.  His security
+clearance was first revoked in 2009.  In 2014, Applicant, made some very improper decisions that
+have now negatively impacted his current clearance.”  Decision at 5.  None of the mitigating
+conditions are applicable. 
+1 Applicant also had a covenant not to compete that precluded him from taking technology from his former
+company.   Decision at 3.  
+2
+Discussion
+Applicant claims the Judge was biased against him.  Specifically, he stated that the Judge
+acted in a manner that made him “feel like she departed from her role as impartial arbitrator.” 
+Appeal Brief at 1.  He also stated that his wife who attended the hearing shared the same sentiment. 
+Except for the assignments of error addressed below, Applicant does not point to any specific
+comment or action by the Judge that caused him to believe she was biased against him.2  There is
+a rebuttable presumption that a Judge is impartial and unbiased, and a party seeking to overcome
+that presumption has a heavy burden of persuasion.  See, e.g., ISCR Case No. 10-02364 at 2 (App.
+Bd. Apr. 4, 2011).  From our review of the record, we find nothing to support Applicant’s contention
+that Judge lacked the requisite impartiality.  
+Applicant raises two issues related to Government Exhibit (GE) 3, a Joint Personnel
+Adjudication System (JPAS) Incident History.  First, Applicant contends the Judge erred in the
+Decision by stating that he did not object to GE 3.  The transcript supports his contention that he
+objected to the relevance of that exhibit at the hearing.  The Judge overruled his objection and
+admitted GE 3 into evidence.  Tr. 20-21.  Besides entries addressing Applicant’s alleged misconduct,
+GE 3 also has entries indicating that his SCI access was suspended in 2009 and later revoked.  He
+argues the information about his 2009 SCI access suspension and revocation was irrelevant.  We do
+not find his argument persuasive.  The JPAS Incident History is a Federal Government record that
+contains relevant information about an applicant’s security clearance eligibility.  We conclude the
+Judge committed no error in admitting the JPAS Incident History into evidence.3  
+Second, Applicant also contends the Judge erred in considering that his security clearance
+was revoked in 2009.  He argues that consideration of that prior suspension/revocation of his
+security clearance was unfair and prejudicial.  It is well established, however,  that a Judge may
+consider unfavorable non-alleged matters for certain limited purposes, such as (a) in assessing an
+applicant’s credibility; (b) in evaluating an applicant’s evidence of extenuation, mitigation, or
+changed circumstances; (c) in considering whether the applicant has demonstrated successful
+rehabilitation; and (d) in applying the whole-person concept.  See, e.g., ISCR Case No. 15-07369
+at 3 (App. Bd. Aug. 16, 2017).  We find no reason to conclude the Judge considered non-alleged
+matters for inappropriate purposes.  
+Applicant also challenges that Judge’s conclusion that he “made some very improper
+decisions” in 2014 that negatively impacts his current clearance eligibility.  He argues that nothing
+negative happened in 2014.  The record supports Applicant’s contention.  This error, however, is
+2 In his appeal brief, Applicant notifies us for the first time that he did not receive a copy of the transcript of
+the hearing.  More specifically, he did not notify us that he had not received the transcript in either his Notice of Appeal
+or subsequent requests for appeal brief filing extensions.  His appeal brief merely mentions that he did not receive the
+transcript and does not raise that matter as an issue for which he is seeking any relief.    
+3 We also note that, in addition to GE 3, Applicant’s testimony and other evidence reflected his security
+clearance was suspended in 2009, later revoked, and was reinstated in 2014.  Tr. 34, 45-53, 69, GE 1 and 2, and
+Applicant’s Exhibits A and D. 
+3
+harmless because it did not likely affect the outcome of case.  See, e.g., ISCR Case No. 11-15184
+at 3 (App. Bd. Jul. 25, 2013).4  Applicant’s conduct in wrongfully taking proprietary information
+when he departing a company’s employment to work for a competitor in 2016 was more than a
+sufficient basis for denying his security clearance eligibility.       
+Applicant’s remaining arguments amount to a disagreement with the Judge’s weighing of
+the evidence.  He argues, for example, that he is responsible and trustworthy.  However, a party’s
+disagreement with the Judge’s weighing of the evidence, or an ability to argue for a different
+interpretation of the evidence, is not sufficient to demonstrate the Judge weighed the evidence or
+reached conclusions in a manner that is arbitrary, capricious, or contrary to law.  See, e.g., ISCR
+Case No. 15-08684 at 2 (App. Bd. Nov. 22, 2017).
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”
+4 It appears the Judge committed a drafting error in stating 2014 instead of 2016.  
+4
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                 
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+5

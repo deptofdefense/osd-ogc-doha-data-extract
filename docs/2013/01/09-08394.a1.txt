@@ -1,0 +1,351 @@
+KEYWORD: Guideline E
+DIGEST: The Government presented substantial evidence of Guideline E security concerns
+arising from Applicant’s multiple job dismissals, false statements, and a threatening
+communication.  The deference the Board owes a Judge’s credibility determinations has limits. 
+In this case, the record did not support the Judge’s credibility determinations of the three
+principal witnesses.  Favorable decision reversed.
+CASE NO: 09-08394.a1
+DATE: 01/16/2013
+DATE: January 16, 2013
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 09-08394
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+John Bayard Glendon, Esq., Deputy Chief Department Counsel
+FOR APPLICANT
+Holly Emrick Svetz, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  DOHA issued an undated statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline E (Personal Conduct) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  On February 6, 2012, the
+Government amended the SOR, adding another allegation and modifying an existing one.  Applicant
+requested a hearing.  On September 24, 2012, after the hearing, Administrative Judge Robert
+Robinson Gales granted Applicant’s request for a security clearance.  Department Counsel appealed
+pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+2
+Department Counsel raised the following issues on appeal: whether the Judge erred in his
+application of the Disqualifying Conditions (DC) and whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we reverse the Judge’s
+decision.  
+Facts
+The Judge made the following pertinent findings of fact: Applicant is a president of a
+Defense contractor.  He has a doctoral degree in computer science and has held a Top Secret security
+clearance.
+In 2002, while serving as a sales engineer for a previous employer (C1), Applicant sold
+company property through the internet.  He met with an attorney for the company, who demanded
+several things, including that Applicant pay the company $1,500 and that he submit his resignation.
+Applicant resigned one week later.  
+In 2006, Applicant began working for another company (C2), which was certified as a small,
+disadvantaged company under the Small Business Act.  C2 had a facility security clearance and had
+four classified contracts with the Federal Government.  However, the clearance of the president,
+Witness 1 (W1), was withdrawn, with the result that C2's facility clearance was defective.  Attorneys
+acting on behalf of C2 submitted a mitigation plan to the Defense Security Service (DSS).  This plan
+required that W1 would give up his status as facility security officer and that a subsidiary company
+(C3) would be created that was wholly owned by C2 but which would otherwise be a separate
+business entity, with its own board of directors, officers, and management.  All of C2's contracts
+would be transferred to C3 by way of novation, and the new company would have its own facility
+security clearance.  The novations would have to be approved by the contracting officers for the
+various contracts.  Applicant was made president of C3. W1 was to have no role in the operations
+of C3.  
+Subsequently, DSS advised W1 that the mitigation plan was acceptable.  Applicant
+undertook certain actions in furtherance of the mitigation plan, such as leasing space for C3.  He and
+other C3 officials urged W1 to make the novation of the classified contracts a priority.  At some
+point, W1 and the attorneys decided that it was appropriate to focus attention on regaining C2's
+facility clearance, although W1 did not advise Applicant of this shift.  The Judge also stated that
+Applicant and W1 differed in their interpretations of the mitigation plan, such as the extent to which
+the two companies, C2 and C3, could share resources, have common procedures, etc.  W1 was also
+concerned that complying with the mitigation plan could imperil C2's status as a small,
+disadvantaged business.  Applicant suggested novating the classified contracts to another company
+(S), which Applicant had formed prior to beginning employment at C2.  
+W1 believed that the mitigation plan was proceeding adequately.  After speaking with a
+lawyer, who was also a secretary for C3, he concluded that Applicant’s proposal to novate the
+contracts to his own company was inconsistent with Applicant’s fiduciary duties to C3.
+Accordingly, he terminated Applicant’s employment.  As a result of this termination, C2 lost
+1Directive, Enclosure 2 ¶ 16(c): “credible adverse information in several adjudicative issue areas that is not
+sufficient for an adverse determination under any other single guideline, but which, when considered as a whole, supports
+a whole-person assessment of questionable judgment, untrustworthiness, unreliability, lack of candor, unwillingness to
+comply with rules and regulations, or other characteristics indicating that the person may not properly safeguard
+protected information[.]”   
+2Directive, Enclosure 2 ¶ 16(d): “credible adverse information that is not explicitly covered under any other
+guideline and may not be sufficient by itself for an adverse determination, but which, when combined with all available
+information supports a whole-person assessment of questionable judgment, untrustworthiness, unreliability, lack of
+candor, unwillingness to comply with rules and regulations, or other characteristics indicating that the person may not
+properly safeguard protected information.”  
+3Directive, Enclosure 2 ¶ 16(e): “personal conduct, or concealment of information about one’s conduct, that
+creates a vulnerability to exploitation, manipulation, or duress, such as . . . engaging in activities which, if known, may
+affect the person’s personal, professional, or community standing . . .”   
+3
+between 60 and 70 per cent of its business.  W1 also stated that, after the termination, he discovered
+other incidents of wrongdoing by Applicant, including his having submitted a DD Form 254, a
+request for a facility security clearance, which contained numerous false statements.  
+W1 sued Applicant, S, and other individuals, alleging that the defendants had attempted
+wrongfully to appropriate contracts and business opportunities, proprietary information, etc.  The
+defendant’s counterclaimed, alleging lack of compliance with labor laws and failure to provide
+consideration.  The parties settled the lawsuit, each side releasing the other from all claims.  W1 had
+to pay Applicant substantial reimbursement.  Additionally, the parties were required to refrain from
+disparaging each other.  
+In late 2008, W1's security clearance was restored following a DOHA hearing.  In the case
+presently before us, the Judge found that W1 and the attorneys had intentionally failed to implement
+the mitigation plan.  The Judge stated that the plan had “purportedly” been approved by DSS, that
+W1 had exercised control over both companies in contravention of the plan, that no contracts were
+novated from C2 to C3 as required by the plan, and that W1 made an inconsistent statement during
+the hearing concerning his activities in managing the companies in question.  Applicant presented
+character witnesses at the hearing who testified that he enjoyed an excellent reputation for honesty
+and trustworthiness.  One of these witnesses testified that Applicant did not believe that it was
+appropriate to take shortcuts in the performance of company activities.
+In the Analysis, the Judge summarized the evidence that the Government had presented in
+its case in chief, stating that Guideline E DC 16(c),1 16(d)2, and 16(e)3 “have seemingly been
+established by these situations and actions.”  Decision at 25.  However, he stated that the
+Government’s case rested upon the testimony of two witnesses, W1 and Witness 2 (W2), who was
+Applicant’s successor as CEO of C3.  The Judge stated that their interpretations of Applicant’s
+conduct were sometimes supported by documentation but sometimes not, that W1 made statements
+that were mutually inconsistent and/or that were contradicted by other evidence, and that W1 was
+motivated not by business judgment in his actions regarding Applicant but by ill will.  The Judge
+also stated that it “is of substantial significance that [W1] settled the lawsuit he filed against
+4
+Applicant and was required to pay Applicant; Applicant was not required to pay [W1] any sum of
+money.”  Decision at 26.  He stated that W1 lied during the course of the implementation of the
+mitigation plan in order to keep himself in control.  The Judge stated that Applicant did submit a DD
+254, and that he had received guidance from DSS in preparing the form.  The Judge stated that
+Applicant had acted in his capacity as facility security officer for C3 in doing so and that he had
+intended to use his own company to control classified contracts.  He stated that the evidence did not
+support a conclusion that this was an effort to steal a contract.  The Judge found that W2 was not
+credible, insofar as he had been a party to the lawsuit and had settled, as had W1.  He stated that W2
+ignored documentation that undercut his testimony that Applicant was not trustworthy.  He stated
+that he had given W2's testimony “reduced weight” because W2 was biased against Applicant.  The
+Judge concluded that Applicant had succeeded in demonstrating that the Government witnesses were
+not reliable and that Applicant had the personal characteristics worthy of a security clearance.  
+Discussion
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”  Directive, Enclosure 2 ¶ 2(b).  The Appeal Board may reverse the Judge’s
+decision to grant, deny, or revoke a security clearance if it is arbitrary, capricious, or contrary to law.
+Directive ¶¶ E3.1.32.3 and E3.1.33.3.  
+Once a concern arises regarding an Applicant’s security clearance eligibility, there is a strong
+presumption against the grant or maintenance of a security clearance.  See Dorfmont v. Brown, 913
+F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After the Government presents
+evidence raising security concerns, the burden shifts to the applicant to rebut or mitigate those
+concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and mitigating conditions and
+whole person factors does not turn simply on a finding that one or more of them apply to the
+particular facts of a case.  Rather, their application requires the exercise of sound discretion in light
+of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at 3 (App. Bd. Dec. 20,
+2006).
+In deciding whether the Judge's rulings or conclusions are arbitrary or capricious, the Board
+will review the Judge's decision to determine whether:  it does not examine relevant evidence; it fails
+to articulate a satisfactory explanation for its conclusions, including a rational connection between
+the facts found and the choice made; it does not consider relevant factors; it reflects a clear error of
+judgment; it fails to consider an important aspect of the case; it offers an explanation for the decision
+that runs contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere
+difference of opinion.  In deciding whether the Judge's rulings or conclusions are contrary to law,
+the Board will consider whether they are contrary to provisions of Executive Order 10865, the
+4This impression is bolstered by the Judge’s comments under the whole-person analysis.  He stated that “there
+is some evidence against mitigating Applicant’s conduct,” acknowledging that Applicant submitted the DD Form 254
+based on a “‘bona fide procurement requirement for access to classified information,’ and listed a particular contract
+number, when there apparently was no such ‘bona fide procurement requirement,’ and there was no contractual
+relationship between the two companies listed.”  Decision at 28-29.
+5
+Directive, or other applicable federal law.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2,
+2006).
+Department Counsel argues that the Judge erred in concluding that the Government had
+failed to meet its burden of production regarding SOR ¶¶ (a), as amended, and (b).  These two
+paragraphs alleged respectively that Applicant had been terminated for cause from the employ of
+C2 and that Applicant had completed a facility security clearance request which contained false
+statements.  In a DOHA proceeding, the Government’s task is to produce substantial evidence
+regarding allegations that have been controverted, as was the case with these two allegations.
+Directive ¶ E3.1.14.  See also ISCR Case No. 09-07219 at 4, n. 1 (App. Bd. Sep. 27, 2012).  It is not
+obvious that the Judge actually concluded that the Government had failed to meet its burden of
+production.  As noted above, he stated that the evidence “seemingly” established three DCs and then
+proceeded to list and address the Mitigating Conditions.  Accordingly, it would appear that he had
+found the evidence sufficient to support these two allegations.4  To the extent that Department
+Counsel’s reading of the Decision is accurate, however, we note that the Government submitted
+numerous documents, to include copies of e-mail transmissions concerning material issues in the
+case; Applicant’s request for a facility security clearance for his own company, which includes the
+DD 254, and which the record establishes contained statements that were not factually correct; the
+mitigation plan; the complaint in the lawsuit involving W1 and Applicant; and the settlement
+agreement that resolved the suit.  The Government also called two witnesses, W1 and W2, whose
+testimony was not materially impeached upon cross-examination.  Viewed in light of the entire
+record, the testimony and documents cited above constitute substantial evidence that Applicant had
+been fired from C2 and that he had made false statements in the facility clearance application.
+Under the facts of this case, these allegations set forth security concerns under Guideline E, insofar
+as a reasonable person could conclude that the evidence raises questions about Applicant’s
+judgment, candor, honesty, and/or willingness to comply with rules and regulations.  See Directive,
+Enclosure 2 ¶ 15.  The Government has met its burden of production regarding the two challenged
+SOR allegations.     
+Department Counsel has challenged the Judge’s treatment of the mitigating conditions and
+the whole-person factors.  We find Department Counsel’s arguments to be persuasive.  The Judge
+relied in large measure upon his credibility determinations regarding the two Government witnesses
+and the Applicant.  The deference that we owe to a Judge’s credibility determination is not without
+limits.  For example, the coherence of a witness’s testimony with other evidence; the internal
+consistency of such testimony, or the lack thereof; and extent to which testimony is plausible or
+implausible can significantly affect the extent to which we can defer to the Judge’s credibility
+determination.  See, e.g., ISCR Case No. 10-03886 at 3 (App. Bd. Apr. 26, 2012).  In this case, the
+Judge found W1 to be lacking credibility, based upon a number of factors.  He stated, for example,
+5The Judge stated that, at one point in the hearing, W1 testified “that the mitigation plan did not prohibit his
+management of [C3] through at least February 2008.  He essentially denied that comment later in the hearing.”  Decision
+at 18.  The Judge cited to testimony concerning a meeting W1 had called between Applicant and other parties regarding
+things that needed to be done by C3 to effectuate the mitigation plan.  W1 was then asked the following by Department
+Counsel: “Q: Did the mitigation plan prohibit your management of [C3], the subsidiary?  A: Not at that point, no.”  Tr.
+at 69.  Applicant’s counsel asked the following question on cross examination: “Q: Doesn’t that document [mitigation
+plan] say that you were to have no role in [C3] . . . ?  A: Yes.  Q: But then you just earlier testified that you didn’t have
+any limits on your role in managing [C3]?  A: I don’t believe that’s what I said.”  Tr. at 90-91.  Whether or not W1 was
+correctly interpreting the mitigation agreement, and given his qualified answers to the questions, these two answers are
+not inconsistent with one another, as the Judge found them to be.  
+6The Judge’s negative credibility determination of W1 was influenced by the Judge’s conclusion that W1 was
+out for revenge as evidenced by what the Judge termed W1's “campaign of constantly disparaging Applicant.”  Decision
+at 29.  While W1 did make negative comments about Applicant during the course of an official OPM investigation
+interview, there is no record evidence to support the Judge’s characterization of W1's actions as a campaign of constant
+disparagement.  
+7The record establishes that W1 fired Applicant on or about May 1, 2008.  W2 testified that Applicant had told
+him, one or two months prior to the job termination–that is, in March or April 2008–that Applicant intended to transfer
+C3's government contracts to Applicant’s own company and that W1 was aware of this.  W2 testified that he came to
+believe that Applicant had not been truthful in stating that he had discussed this matter with W1.  The Judge questioned
+W2, showing him an e-mail from Applicant to W1, sent on April 29, 2008, about two days prior to the firing.  In this
+e-mail Applicant advised W1 of his plans to transfer government contracts to Applicant’s company.  The Judge then
+asked: “Does that change your opinion of whether or not he was telling you the truth then or whether he was lying?  A:
+No, sir. [Judge]: So based on the fact that you read a document dated 2008, where he’s telling [W1] what he should be
+6
+that W1 had made inconsistent statements during the hearing.  However, after considering the
+transcript, we do not conclude that the statements in question were obviously inconsistent.5  The
+Judge also relied upon evidence that W1 had agreed to settle the lawsuit he had filed against
+Applicant, apparently concluding that the settlement in some way demonstrated that the lawsuit was
+frivolous, thereby evidencing W1's unfounded ill-will against Applicant.  However, a settlement
+does not, in and of itself, suggest that the underlying lawsuit was groundless.  See, e.g., Ford Motor
+Company v. Mustangs Unlimited, Inc., 487 F.3d. 465, 469-470 (6th Cir. 2007) for a discussion of the
+strong public policy in favor of settlement, in the interests of justice to the parties, economy of
+judicial resources, and the saving of tax dollars.  See also Ismert and Associates, Inc., v. New
+England Mutual Life Insurance Co., 801 F.2d 536 (1st Cir. 1986).  Moreover, the Judge’s apparent
+belief that W1 did not receive an economic benefit from Applicant in the settlement is belied by the
+settlement’s own terms, which provide that the parties will enter into a teaming agreement for
+purposes of mutual economic advantage, with significant profit sharing among them.  It is not
+reasonable to conclude that the fact of a settlement, or the terms of this particular agreement,
+demonstrate that W1 was motivated by unjustified ill-will toward Applicant.6
+The Judge also concluded that W2 was not credible.  One reason he gave was W2's having
+been a co-plaintiff in the above described lawsuit and having agreed to the settlement.  For reasons
+set forth above, we conclude that evidence of this lawsuit and settlement does not support the
+Judge’s credibility determination.  He also stated that W2 ignored documentation that impeached
+W2's testimony that Applicant had not been truthful.  However, after examining the transcript, we
+do not find that the record evidence supports this conclusion by the Judge.7  In addition to these
+doing, you still deny that he was telling you the truth?  The Witness: Because the conversations in which he told us that
+he was communicating with [W1] were a month or two prior to his termination.  This was two days prior to the
+termination   . . . [Judge]: Okay.  So you’re still of the opinion that [Applicant] was telling something other than the
+truth?  The Witness: At that time yes, yes sir.”  Tr. at 351-352.  Evidence that Applicant had announced his intention
+to W1 on April 29 does not undermine W2's opinion that Applicant’s statements made one to two months prior to that
+date were false.  The cited evidence does not support the Judge’s conclusion about W2's credibility.  
+8The argument in Applicant’s Reply Brief that it would not have been possible for Applicant surreptitiously to
+have novated C2 contracts to his own company rather than C3 without approval of all parties does not call into question
+record evidence that Applicant’s conduct was not consistent with the mitigation plan.  Neither does it undermine W1's
+testimony that he found this conduct to be inconsistent with Applicant’s fiduciary duties as CEO of C3. 
+9“Q: But you recognize that saying that you left voluntarily is quite a different explanation that you’ve given
+today . . . that an attorney flies out from California and . . . asks for your resignation? . . . He . . . confronted you about
+what you did, and asked for your resignation; correct?  A: That’s what I said.  That’s what I said.”  Tr. At 243.  
+7
+matters, the Judge also found that W1 was a person interested in maintaining control of his company
+and that he did not devote time and energy to implementing the mitigation plan.  Rather, W1 shifted
+his attention, at some point, to regaining his security clearance, and with it the facility clearance of
+C2.  Were that to have occurred (and the evidence demonstrates that it did in fact) it would have
+obviated the need for a mitigation plan.  The Judge’s view appears to be that Applicant’s desire to
+implement the plan was contrary to W1's desire to exercise control over his own company, thereby
+serving as a basis for W1 to feel unjust hostility toward Applicant.  Again, however, evidence that
+W1 shifted his attention to regaining his own clearance and that of his company would likely appear
+to a disinterested party to be a business decision, whether wise or not.    Evidence that W1 did not
+act expeditiously in executing the mitigation plan, even if true, does not necessarily impeach the
+testimony of W1 regarding the impropriety of Applicant’s attempt to transfer the contracts to his
+own company, conduct that was not consistent with the terms of the mitigation agreement and which
+formed the basis of Applicant’s dismissal.8  We note in this regard ISCR Case No. 10-03886, supra,
+at 3, which states that an employer’s decisions are entitled to some deference.  The Judge’s failure
+to extend the appropriate deference to the business judgments of W1 undercuts the Judge’s adverse
+credibility determination concerning him.  
+Department Counsel further argues that the Judge ignored record evidence that impugns
+Applicant’s credibility.  We find this argument to be persuasive.  A Judge is presumed to have
+considered all the evidence in the record.  See, e.g., ISCR Case No. 11-05512 at 2 (App. Bd. Oct.
+24, 2012).  However, he should be expected to discuss significant evidence that has a material
+bearing on the case.  Department Counsel contends that Applicant made unexplained inconsistent
+statements that the Judge failed to address.  Department Counsel notes record evidence, from
+Applicant himself, that he had resigned from C1 in 2002 after having been advised to do so by a
+company attorney, due to Applicant’s having improperly sold company property.  However, at the
+hearing Applicant stated that he had left that company because it had given him an unrealistic sales
+quota.  He also stated that no action had been taken against him due to the investigation regarding
+his disposition of company property, but that he had been advised that his future in the company,
+along with that of others, was limited.  Tr. at 190.  On cross-examination, Applicant did not provide
+a reasonable explanation for these inconsistencies.9  Department Counsel points to inconsistencies
+10Department Counsel cites to evidence that Applicant variously stated that he had paid the company for the
+value of the property, that the company had not cashed the check, and that the company had in fact returned the check,
+which are not totally consistent. 
+11“Q: I’m showing you your second answer to the Statement of Reasons, page six.  Bottom of page six, right
+before paragraph four . . . Did you write that? . . . A: Yes.  That’s it’s not accurate.  I do know that this is my document.
+I don’t remember writing that.”  Tr. at 268. 
+12Applicant testified that, in preparing the facility clearance application, he had the assistance of a DSS field
+representative.  “He came out, he showed me, he helped me fill out the form.  We went through our security binder.  We
+selected the appropriate DD-254.  We . . . sat down and did multiple versions of this until we got it correct . . . So he
+actually helped me fill this out . . .”  Tr. at 222.  After Applicant submitted the application, he received a letter from DSS
+advising that it could not approve the request.  The letter noted, among other things, a discrepancy concerning whether
+Applicant’s company would have a safeguarding requirement.  Applicant apparently sent an updated copy of the form
+to the field representative, who identified other errors.  The number and apparent significance of these errors are not
+consistent with Applicant’s claim to have had the advantage of expert help.  Moreover, there is nothing in the field
+representative’s e-mail to indicate that he believed himself to bear responsibility for these errors.  See Attachment G to
+Applicant Answer to Amended SOR.  
+8
+in Applicant’s various statements concerning the disposition of the check that he gave to C1 in
+response to a demand by the attorney.  The inconsistencies pertain to the amount of the
+check–whether it was valued at $1,500 or $2,500–as well as C1's subsequent actions in regard to the
+check.10  We also note that, at the hearing, Applicant acknowledged that a statement he had made
+in his Answer to the SOR concerning his activities after his second job termination was not true.11
+Department Counsel cites to evidence of the facility security clearance application that Applicant
+prepared on behalf of his own company.  Department Counsel notes that the application contained
+numerous statements that were factually untrue, and also contained certain errors in the attached DD
+Form 254.  Applicant claimed that he had been assisted by a security expert from DSS, who had
+visited Applicant at home and had guided him in the preparation of the application.  Department
+Counsel notes that the Judge did not discuss various aspects of these documents which undermine
+Applicant’s claim that he had expert assistance in preparing them.  For example, Department
+Counsel argues that, if an expert had actually provided line by line assistance as Applicant claimed,
+it is unlikely that Applicant would have made errors on the form that were later corrected by that
+same expert.12  This evidence,  on its face, undercuts the credibility of Applicant.  The Judge’s
+failure to address it undermines his credibility determination.  All in all, we conclude that the
+Judge’s credibility determinations regarding the Government witnesses and Applicant are not
+supported by the record and that they do not support the Judge’s favorable application of the
+mitigating conditions or the whole-person factors.
+In summary, the record contains substantial evidence that Applicant was twice terminated
+for cause from the employ of two different companies; that he submitted a facility security clearance
+application that contained false statements, the number of which could persuade a reasonable person
+to believe that they were deliberately false, given Applicant’s status and experience as a facility
+security officer; and that he had sent a threatening text message to W1, who had provided
+information to OPM in the course of Applicant’s clearance investigation.  We also note that, as
+stated above, the record contains evidence of inconsistent statements by Applicant that he did not
+9
+reasonably explain, that diminish his credibility, and that are pertinent in evaluating his state of mind
+regarding the false statements alleged in the SOR.  After considering all of the evidence and the
+briefs of both parties, we conclude that the Decision fails to consider important aspects of the case
+and runs contrary to the weight of the record evidence.  Viewed as a whole, the record does not
+support a favorable decision in light of the Egan standard. 
+Order
+The decision is REVERSED.   
+Signed: Michael Y. Ra’anan           
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett                 
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                  
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+ 

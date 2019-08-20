@@ -1,0 +1,378 @@
+ 
+ 
+                                                            
+                           DEPARTMENT OF DEFENSE 
+                             DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+ 
+In the matter of:            ) 
+            ) 
+    -------------        ) ISCR Case No. 12-03509 
+             ) 
+Applicant for Security Clearance            ) 
+ 
+ 
+Appearances 
+ 
+                For Government: Tovah Minster, Esq., Department Counsel 
+              For Applicant: Alan V. Edmunds, Esq. 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+MARSHALL, Arthur E., Administrative Judge: 
+ 
+Applicant mitigated the Government’s security concerns under Guideline E, 
+personal conduct. Applicant’s eligibility for a security clearance is granted. 
+ 
+                                     Statement of the Case 
+ 
+On February 21, 2013, the Department of Defense (DOD) issued a Statement of 
+Reasons (SOR) to Applicant detailing security concerns under Guideline E (Personal 
+Conduct). The action was taken under Executive Order 10865, Safeguarding Classified 
+Information within Industry (February 20, 1960), as amended; Department of Defense 
+Directive 5220.6, Defense Industrial Personnel Security Clearance Review Program 
+(January 2, 1992), as amended (Directive); and the adjudicative guidelines (AG) 
+effective within the DOD on September 1, 2006. 
+ 
+In a March 18, 2013, response to the SOR, Applicant denied the three 
+allegations raised under Guideline E and requested a hearing before an administrative 
+judge. The case was assigned to me on May 9, 2013. The Defense Office of Hearings 
+and Appeals (DOHA) issued a notice of hearing on May 23, 2013, setting the hearing 
+for June 13, 2013. It was rescheduled on June 20, 2013, for a July 15, 2013, hearing.  
+ 
+                    2 
+ 
+The hearing was convened as scheduled. The Government offered Exhibits (GX) 
+1-4. The exhibits were accepted without objection. Applicant offered testimony and four 
+documents, which were accepted without objection as Exhibits (AX) A-D. Applicant was 
+given until July 26, 2013, to submit any additional information. On July 23, 2013, the 
+transcript of the proceeding (Tr.) was received. On August 5, 2013, the Government 
+forwarded Applicant’s material without objection. That material was accepted as AX E-G 
+and the record was closed. After a thorough review of the testimony, exhibits, and the 
+case file as a whole, I find that Applicant mitigated personal conduct security concerns. 
+ 
+Findings of Fact 
+ 
+ Applicant is a 39-year-old senior network security engineer who has worked for 
+the same defense contractor for a decade. He attended college for four years and 
+graduated from a variety of DOD schools and programs, including those related to 
+signals intelligence and electronic warfare, cryptology, and foreign language. He was 
+honorably discharged from the U.S. Army in 2001 after six years of service, during 
+which time he maintained a security clearance. He has continued to maintain a security 
+clearance without incident until recently, when the underlying SOR was issued in 
+February 2013. At work he is regarded for his skills, diligence, and dedication. He is 
+divorced, has no children, and lives within his means.   
+ 
+ This case involves three personal conduct allegations, which Applicant denies. 
+The SOR alleges that Applicant intentionally falsified material facts during security 
+testing and an interview at Another Government Agency (AGA) in 2004 and 2005, 
+respectively. The SOR also alleges that, during a 2007 interview, Applicant admitted to 
+intentionally withholding the full extent of the activities discussed in 2004 and 2005. It is 
+noted that references to Applicant’s hacking or conducting computer-related misconduct 
+in the SOR were performed within the scope of his studies, employment, or in 
+furtherance of a government assignment. (Tr. 17) 
+ 
+ In January 2004, Applicant underwent security testing. His comments were 
+poorly summarized. (Tr. 52-58) He noted that as a teen in 1991-1992, he had an 
+intense interest in computers and their programming. He would reverse engineer web 
+sites and programs to see how they worked. (Tr. 19-21) In doing so, he would 
+sometimes inadvertently access other computer programs or systems. No websites 
+were harmed. (Ex. 3 at 3) Applicant derived no benefit from such exploration except 
+knowledge and what he earned as an employee. The technology was new; such 
+exploration was the best way for young computer enthusiasts to learn and test theories; 
+and controlling laws were evolving or ambiguous. (Tr. 31-32) At that time, it did not 
+occur to those in the engineering field that their work might be illegal. (Tr. 34) Nearly a 
+decade would pass before the laws were interpreted to make some such activity illegal. 
+(Tr. 35) The state of the law has since progressed further, particularly in the area of 
+engineering and scientific study. Under the law as it is today, none of Applicant’s acts 
+are questioned or prohibited: “Both with the downloading of this media and the reverse 
+engineering. . . the law has caught up with what engineers had been doing for five, ten, 
+15 years.” (Tr. 32)   
+ 
+                    3 
+ 
+During the 1991-1992 timeframe, Applicant helped an older peer with developing 
+or refining a computer program by pointing him to a public bulletin board service (BBS) 
+on the Internet. (Tr. 22) This was in the early days of the Internet, and it was not 
+uncommon for fellow computer aficionados to collegially aid others in dissecting, 
+examining, or building programs or software to learn and compare methods for creating 
+such programs. It was not uncommon for such research to be legitimate and purely 
+intellectual, but devoid of practical purpose or planned application. (Tr. 40-41) Applicant 
+stated: 
+ 
+In the early days of the Internet this was all very new to us and 
+collecting this information was almost a kind of badge of honor so to 
+speak. So we would write programs and exchange information and 
+ideas, it was a very collegiate [sic] you know research and 
+development type of environment among . . . young scientists I guess 
+you could say. These were hobbies of ours. . . . The having of the 
+information was more important to us than the impulse to act upon it, 
+for the vast majority of us anyway. (Tr. 41-42) 
+ 
+Unbeknownst to Applicant at that time, this elder peer had a “nefarious” motive 
+behind developing his project. (Tr. 42) He was not simply building a program as an 
+intellectual exercise involving the generation of numbers. Rather, he was developing a 
+program that he intended to actively use as an instrument for credit card scams. 
+Applicant’s own knowledge of what this older peer was doing “grew with time.” (Tr. 49) 
+When Applicant later learned of the peer’s intent and illegal purpose sometime between 
+1992 and 1993, he and others reported the peer to the authorities. (Tr. 42-43, 45) The 
+peer was subsequently charged with what Applicant guessed to be about 1,000 counts 
+of felony electronic trespassing. In disclosing these facts in 2004, Applicant considered 
+this dated information to be “very minor. It was something that happened when I was 
+young, 20 years ago. I certainly answered any question they asked me. I didn’t realize 
+I’d be held accountable for every detail.” (Tr. 46) 
+ 
+About a year-and-a-half later, in May 2005, Applicant was interviewed by security 
+representatives. During the interview, he reported that during his January 1991 to 
+January 2000 research, he had downloaded 50 movies and 2,000 mp3 files valued at 
+about $10,000 for work. (Tr. 24) These files were readily available and used for 
+sampling by Applicant’s employer.  
+ 
+A subsequent interview with Applicant from October 2007 was summarized in a 
+May 2008 denial letter. During the October 2007 interview, Applicant reported that, 
+during the time at issue above, he had downloaded thousands of songs, movies, 
+games, software, and other multimedia material valued at an estimated $380,000. In 
+arriving at this larger sum, Applicant’s disclosure included many more media forms than 
+just the movies and mp3s he noted in 2005. Indeed, he pointed out that a single 
+software package, alone, might be worth $50,000 or more. (See, e.g., Tr. 65-68)  
+ 
+The 2008 letter went on to state that “[Applicant] also admitted that [he] 
+intentionally withheld the full extent of [his] activities during previous security interviews.” 
+Applicant vigorously denies the veracity of this attribution. (Tr. 58) He notes, to the 
+                    4 
+ 
+contrary, he was complemented on his honesty and candor throughout the interview. 
+(Tr. 58) Applicant never considered that his estimates of the value of unspecified 
+materials were a great concern. (Tr. 68) He notes that the more recent and expansive 
+disclosure from 2007 does not demonstrate a prior attempt to conceal; rather, the more 
+recent disclosure endeavors to be more comprehensive and accurate in response to the 
+more expansive questions that were developed in response to his previous admissions 
+in 2004 and 2005. (See, e.g., Tr. 69)  Applicant did not contemporaneously receive a 
+copy of the letter, thus denying him of his ability to contest the letter’s conclusions or 
+note his objection to this attribution. Had he been afforded a copy, he would have 
+appealed its contents or noted its discrepancies contemporaneously. (Tr. 58-62) His 
+counsel, who was retained shortly thereafter on a related matter, confirmed that had 
+they known of the letter, objections would have been made as to its veracity at the time. 
+(Tr. 60-63) 
+ 
+At the end of the 2007 interview, Applicant stated that he did not want to continue 
+with the investigative process. He had already undergone three polygraph tests and 
+several interviews over multiple years and “was tired of taking them.” (Ex. 2 at 2 (back)) 
+When the purpose for another test was explained to him, he expressed his willingness 
+to take the test, but no further exam was offered. (Ex. 2 at 8 (front); Tr. 58-60)   
+ 
+  Policies 
+ 
+ When evaluating an applicant’s suitability for a security clearance, the 
+administrative judge must consider the adjudicative guidelines. In addition to brief 
+introductory explanations for each guideline, the adjudicative guidelines list potentially 
+disqualifying conditions and mitigating conditions, which are used in evaluating an 
+applicant’s eligibility for access to classified information. 
+ 
+These guidelines are not inflexible rules of law. Instead, recognizing the 
+complexities of human behavior, these guidelines are applied in conjunction with the 
+factors listed in the adjudicative process. The administrative judge’s overarching 
+adjudicative goal is a fair, impartial, and commonsense decision. According to AG ¶ 
+2(c), the entire process is a conscientious scrutiny of a number of variables known as 
+the “whole-person concept.” The administrative judge must consider all available, 
+reliable information about the person, past and present, favorable and unfavorable, in 
+making a decision. 
+ 
+The protection of the national security is the paramount consideration. AG ¶ 2(b) 
+requires that “[a]ny doubt concerning personnel being considered for access to 
+classified information will be resolved in favor of national security.” In reaching this 
+decision, I have drawn only those conclusions that are reasonable, logical, and based 
+on the evidence contained in the record. Likewise, I have not drawn inferences 
+grounded on mere speculation or conjecture. 
+ 
+Under Directive ¶ E3.1.14, the Government must present evidence to establish 
+controverted facts alleged in the SOR. Under Directive ¶ E3.1.15, an “applicant is 
+responsible for presenting witnesses and other evidence to rebut, explain, extenuate, or 
+                    5 
+ 
+mitigate facts admitted by applicant or proven by Department Counsel and has the 
+ultimate burden of persuasion to obtain a favorable security decision.”  
+ 
+A person who seeks access to classified information enters into a fiduciary 
+relationship with the Government predicated upon trust and confidence. This 
+relationship transcends normal duty hours and endures throughout off-duty hours. The 
+Government reposes a high degree of trust and confidence in those to whom it grants 
+access to classified information. Decisions include consideration of the possible risk the 
+applicant may deliberately or inadvertently fail to safeguard classified information.  
+ 
+Section 7 of Executive Order 10865 provides that decisions shall be “in terms of 
+the national interest and shall in no sense be a determination as to the loyalty of the 
+applicant concerned.” See also EO 12968, Section 3.1(b) (listing multiple prerequisites 
+for access to classified or sensitive information).  
+ 
+  Analysis 
+ 
+Guideline E, Personal Conduct  
+ 
+The security concern for personal conduct is set out in AG ¶ 15:  
+ 
+Conduct involving questionable judgment, lack of candor, dishonesty, or 
+unwillingness to comply with rules and regulations can raise questions 
+about an individual’s reliability, trustworthiness and ability to protect 
+classified information. Of special interest is any failure to provide truthful 
+and candid answers during the security clearance process or any other 
+failure to cooperate with the security clearance process.  
+ 
+Applicant’s answers to investigators became increasingly elaborate over time, 
+suggesting he had been less than forthcoming in previous interviews. In addition, one 
+2008 letter flatly states that he admitted to having been less than forthcoming in his 
+investigatory answers. If true, the following disqualifying conditions under AG ¶ 16 are 
+relevant:  
+ 
+AG ¶ 16 (a) deliberate omission, concealment, or falsification of relevant 
+facts from any personnel security questionnaire, personal history 
+statement, or similar form used to conduct investigations, determine 
+employment qualifications, award benefits or status, determine security 
+clearance eligibility or trustworthiness, or award fiduciary responsibilities; 
+and 
+ 
+AG ¶ (b) deliberately providing false or misleading information concerning 
+relevant facts to an employer, investigator, security official, competent 
+medical authority, or other official government representative. 
+ 
+For AG ¶¶ 16(a) and 16(b) to apply, Applicant’s omissions must be deliberate. 
+The Government established that Applicant’s disclosure of facts regarding his early 
+Internet and program systems work grew more complete as time passed, thus implying 
+                    6 
+ 
+that he was less than forthcoming during his earlier interviews. It also points to a 
+statement written in a 2008 letter summarizing his 2007 interview, in which it states 
+Applicant admitted that he intentionally withheld the full extent of his activities during 
+previous security interviews.   
+ 
+In his responses and at the hearing, Applicant demonstrated that he answers 
+questions directly and in a straightforward manner. He credibly denied the suggestion 
+that he intentionally gave less than forthcoming answers during any part of the 
+investigative process. He sensibly posited that his answers grew more elaborate at 
+each subsequent meeting because the questions, based as they were on his most 
+recently solicited interview answers, became more detailed and precise. This 
+explanation is highly plausible given the circumstances. As for the written 2008 
+attribution that he admitted that he previously had been less than forthcoming, the 
+circumstances suggest that he never received the 2008 letter, obviating his ability to 
+timely object or correct any inaccuracies. In turn, the argument that he did not receive 
+the letter is supported by his counsel’s assertion that, as his legal representative, he 
+personally would have seen that it was disputed as part of a related matter he 
+conducted on Applicant’s behalf shortly after the letter was apparently issued. When the 
+allegation of falsification is controverted, the Government has the burden of proving it. 
+Proof of an omission, standing alone, does not establish or prove an applicant’s intent 
+or state of mind when the omission occurred. An administrative judge must consider the 
+record evidence as a whole to determine whether there is direct or circumstantial 
+evidence concerning an applicant’s intent or state of mind at the time the omission 
+occurred. (See ISCR Case No. 03-09483 at 4 (App. Bd. Nov. 1, 2004)(explaining ISCR 
+Case No. 02-23133 at 5 (App. Bd. Jun. 9, 2004)). 
+ 
+As noted, Applicant’s explanations are credible and plausible, a factor fortified by 
+a record that indicates he has been forthright throughout this process. It is logical that 
+subsequent questions based on previous answers would naturally yield even more 
+detailed responses. As for the 2008 letter and its statement that he admitted being less 
+than forthcoming, this was his first opportunity to object to its contents. His objection 
+was credible and is consistent with the on-going relationship he has with his counsel to 
+keep the record in this and related matters straight.  
+ 
+There is no direct evidence that Applicant was intentionally untruthful during the 
+investigative process. The Government did not produce the author of the 2008 letter in 
+rebuttal, or provide contradictory evidence showing he received the letter. Given the 
+totality of the facts and circumstances, I find the Government has not established that 
+the Applicant intentionally withheld information during his investigation. AG ¶¶ 16(a) and 
+16(b) are not established and Personal Conduct concerns are mitigated. Had such 
+evidence been existent under these unique circumstances, however, Personal Conduct 
+Mitigating Conditions AG ¶ 17(c) (the offense is so minor, or so much time has passed, 
+or the behavior is so infrequent, or it happened under such unique circumstances that is 
+unlikely to recur and does not cast doubt on the individual's reliability, trustworthiness, 
+or good judgment) and AG ¶ 17(f) (the information was unsubstantiated or from a 
+source of questionable reliability) would apply. 
+ 
+ 
+  
+                    7 
+ 
+Whole-Person Concept 
+ 
+ Under the whole-person concept, the administrative judge must evaluate an 
+applicant’s eligibility for a security clearance by considering the totality of the applicant’s 
+conduct and all relevant circumstances. The administrative judge should consider the 
+nine adjudicative process factors listed at AG ¶ 2(a). Under AG ¶ 2(c), the ultimate 
+determination of whether to grant eligibility for a security clearance must be an overall 
+commonsense judgment based upon careful consideration of the guidelines and the 
+whole-person concept.        
+ 
+I considered the potentially disqualifying and mitigating conditions in light of all 
+the facts and circumstances in this case. I have incorporated my comments under 
+Guideline E in my whole-person analysis. Some of the factors in AG ¶ 2(a) were 
+addressed under that guideline, but some warrant additional comment.  
+ 
+Applicant is a 39-year-old senior network security engineer who has worked for 
+the same defense contractor for 10 years. He is well educated and has highly complex 
+and unique training related to his field. He was honorably discharged from the U.S. 
+Army in 2001 after six years of service, during which time he maintained a security 
+clearance. He has continued to maintain a security clearance without incident until the 
+underlying SOR was issued in February 2013. Applicant is highly regarded for his skills. 
+As a witness, he was highly straightforward, precise, credible, and informative. 
+ 
+Much of the difficulty of this case is based on the specialized engineering field 
+involved. Those familiar only with today’s Internet usage may be unaware as to how 
+early computer enthusiasts gained their experience and pushed the science’s 
+development. Despite Applicant’s best efforts to explain the more arcane aspects of his 
+field and practice, some degree of confusion was inevitable. Apparently, a similar 
+degree of confusion was shown by the investigators who met with Applicant between 
+2004 and 2007 in terms of terminology, the evolving law in the field, and other areas.  
+ 
+The fact that Applicant’s answers became more elaborate over time reflects how 
+the precision of his answers grew with the increasingly detailed questions investigators 
+asked, based on his previous answers. It does not provide evidence that Applicant was 
+initially less that forthcoming. Similarly, his strong objection to an unsubstantiated 
+comment that he admitted to having been less than forthcoming does not overcome 
+facts in his favor. Overall, the record evidence leaves me with no doubts about 
+Applicant’s eligibility and suitability for a security clearance given the unique facts 
+presented in this case. For all these reasons, I conclude Applicant mitigated the security 
+concerns arising under the personal conduct guideline. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    8 
+ 
+                                                    Formal Findings 
+ 
+            Formal findings for or against Applicant on the allegations set forth in the SOR, 
+as required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+ 
+                     Paragraph 1, Guideline E:                     FOR APPLICANT 
+ 
+                           Subparagraphs 1.a-1c:                         For Applicant 
+   
+                                                               Conclusion 
+ 
+            In light of all of the circumstances presented by the record in this case, it is 
+clearly consistent with the national interest to grant Applicant a security clearance. 
+Eligibility for access to classified information is granted. 
+ 
+ 
+                                                     
+                  _____________________________ 
+               Arthur E. Marshall 
+                 Administrative Judge 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

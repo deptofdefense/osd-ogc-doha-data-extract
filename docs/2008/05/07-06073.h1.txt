@@ -1,0 +1,257 @@
+  Executive Order 10865, Safeguarding Classified Information within Industry, dated February 20, 1960, as1
+amended, and DoD Directive 5220.6, Defense Industrial Personnel Security Clearance Review Program ,
+dated January 2, 1992, as amended (Directive).
+1
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+------------------------- )
+SSN: ----------------- ) ISCR Case No. 07-06073
+)
+Applicant for Security Clearance )
+Appearances
+For Government: D. Michael Lyles, Esquire, Department Counsel
+For Applicant: Gary L. Rigney, Esquire 
+                                
+______________
+Decision
+______________
+LEONARD, Michael H., Administrative Judge:
+Applicant contests the Defense Department’s intent to deny or revoke his
+eligibility for an industrial security clearance. Acting under the relevant Executive Order
+and DoD Directive,  the Defense Office of Hearings and Appeals (DOHA) issued a1
+statement of reasons (SOR) to Applicant on November 1, 2007. The SOR is equivalent
+to an administrative complaint and it details the factual basis for the action. The issues
+in this case fall under Guideline E for personal conduct and Guideline M for misuse of
+information technology systems. For the reasons discussed below, this case is decided
+against Applicant.
+In addition to the Executive Order and Directive, this case is brought under the
+revised Adjudicative Guidelines for Determining Eligibility for Access to Classified
+Information (Revised Guidelines) approved by the President on December 29, 2005.
+The Revised Guidelines were then modified by the Defense Department, effective
+  See Memorandum from the Under Secretary of Defense for Intelligence, dated August 30, 2006, Subject:2
+Implementation of Adjudicative Guidelines for Determining Eligibility for Access to Classified Information
+(December 29, 2005). 
+2
+September 1, 2006. They supersede or replace the guidelines published in Enclosure 2
+to the Directive. They apply to all adjudications and other determinations where an SOR
+has been issued on September 1, 2006, or thereafter.  The Directive is pending revision2
+or amendment. The Revised Guidelines apply here because the SOR is dated after the
+effective date.  
+Applicant’s Answer to the SOR was received on November 16, 2007, and he
+requested a hearing. The case was assigned to me on January 3, 2008. The hearing
+took place as scheduled on April 15, 2008. The transcript (Tr.) was received on April 23,
+2008.
+Findings of Fact
+Under Guideline E, the SOR alleges: (1) two incidents of workplace misconduct;
+(2) two incidents of termination from employment; and (3) two incidents of falsifying
+material facts on a security-clearance application by failing to disclose the complete
+reasons for his terminations. Under Guideline M, the SOR alleges he violated company
+policy by accessing and maintaining sexually explicit material on his workplace
+computer. Applicant’s Answer to the SOR was mixed. Based on the record evidence as
+a whole, the following facts are established by substantial evidence.
+Applicant is a 41-year-old employee of a federal contractor. He has worked for
+his current employer since September 2003. His current position or job title is
+communications engineer. He is seeking to retain an industrial security clearance that
+he has held for several years. 
+Applicant has been married and divorced three times. He served on active duty
+in the U.S. Marine Corps during the period 1987–1998, and he received an honorable
+discharge. He held a security clearance for some of time he was on active duty. His
+educational background includes a bachelor’s degree in computer networking awarded
+in 2000. In addition to his current job, his postgraduate employment history is as follows:
+• March 2000–April 2001: other employment as an engineer.
+• April 2001–July 2001: employment with a federal contractor as an engineer.
+• July 2001–August 2002: employment with a federal contractor as an engineer.
+• October 2002–February 2003: employment with a federal contractor (Employer
+A) as an information systems security manager (ISSM), which ended in his
+termination.
+• February 2003–August 2003: employment with a federal contractor (Employer B)
+as an engineer, which ended in his termination.
+3
+Applicant was terminated from his job as an ISSM with Employer A in February
+2003. His termination was based on a combination of unsatisfactory performance and
+violation of company policy by having material on his computer (e-mail) that could be
+considered obscene and offensive (Exhibits 2 and 4). Applicant was on the receiving
+end of e-mails that contained the material. The evidence does not establish that
+Applicant sought out such material by accessing Web sites. In addition, it appears
+Applicant had a personality conflict with his supervisor as his last day ended in a heated
+meeting when Applicant stated he quit and the supervisor stated Applicant was fired (Tr.
+42). 
+When he left this job, Applicant already had another job offer, which he accepted
+with Employer B. The job was located on a military installation at a remote site.
+Applicant was then dating his third wife and they decided to marry so she would be
+allowed to accompany him. They married in February 2003, Applicant arrived at the
+remote site on March 1, 2003, and his wife followed the next month. The marriage and
+relocation to the remote site proved to be a mistake, as the marriage was full of conflict.
+It reached the point where Applicant requested that Employer B send his wife and her
+son home. After her departure from the remote site, she harassed Applicant via e-mail,
+which included sending e-mails to his superiors. Her harassment extended to one of
+Applicant’s sisters who eventually took action by bringing criminal charges against his
+wife that resulted in a misdemeanor conviction (Tr. 137–162). 
+Applicant was terminated from his job as an engineer with Employer B in August
+2003. His termination was based on an investigation that concluded that Applicant had
+unauthorized government property in his government quarters (Exhibit 5). It appears the
+investigation was commenced based on an e-mail from his wife. In addition, it appears
+that a factor in the termination was that Applicant’s superiors at the remote location had
+tired of dealing with his ongoing domestic problem. 
+Applicant completed a security-clearance application in 2006 (Exhibit 1).
+Concerning his employment history, Question 22 asked him to answer the following
+question: 
+Has any of the following happened to you in the last 7 years?
+1. Fired from a job.
+2. Quit a job after being told you’d be fired.
+3. Left a job by mutual agreement following allegations on misconduct.
+4. Left a job by mutual agreement following allegations of unsatisfactory
+performance.
+5. Left a job for other reasons under unfavorable circumstances. 
+He reported that he quit his job with Employer A after being told he would be fired. He
+explained that he had accepted another job and that he and his supervisor were in a
+dispute over job responsibilities. He did not disclose that his termination was based on
+unsatisfactory performance or the e-mail issue. For Employer B, he reported that he had
+been fired from his job due to misbehavior of family members on a military installation.
+ Department of Navy v. Egan, 484 U.S. 518, 528 (1988) (“it should be obvious that no one has a ‘right’ to a3
+security clearance”); Duane v. Department of Defense, 275 F.3d 988, 994 (10  Cir. 2002) (“It is likewise plainth
+that there is no ‘right’ to a security clearance, so that full-scale due process standards do not apply to cases
+such as Duane’s.”).
+ Egan, 484 U.S. at 531.4
+ Directive, ¶ 3.2. 5
+ Directive, ¶ 3.2. 6
+ ISCR Case No. 02-18663 (App. Bd. Mar. 23, 2004).7
+ Directive, Enclosure 3, ¶ E3.1.14.8
+ Directive, Enclosure 3, ¶ E3.1.15.9
+ Directive, Enclosure 3, ¶ E3.1.15.10
+ Egan, 484 U.S. at 531. 11
+ ISCR Case No. 01-20700 (App. Bd. Dec. 19, 2002) (citations omitted).12
+4
+He did not disclose that his termination was based on the unauthorized government
+property issue.  
+Policies
+This section sets forth the general principles of law and policies that apply to an
+industrial security clearance case. To start, no one has a right to a security clearance.3
+As noted by the Supreme Court in 1988 in the case of Department of Navy v. Egan, “the
+clearly consistent standard indicates that security clearance determinations should err, if
+they must, on the side of denials.”  A favorable decision establishes eligibility of an4
+applicant to be granted a security clearance for access to confidential, secret, or top-
+secret information.  An unfavorable decision: (1) denies any application; (2)  revokes5
+any existing security clearance; and (3) prevents access to classified information at any
+level.  Under Egan, Executive Order 10865, and the Directive, any doubt about whether6
+an applicant should be allowed access to classified information will be resolved in favor
+of protecting national security.
+There is no presumption in favor of granting, renewing, or continuing eligibility for
+access to classified information.  The government has the burden of presenting7
+evidence to establish facts alleged in the SOR that have been controverted.  An8
+applicant is responsible for presenting evidence to refute, explain, extenuate, or mitigate
+facts that have been admitted or proven.  In addition, an applicant has the ultimate9
+burden of persuasion to obtain a favorable clearance decision.  In Egan, the Supreme10
+Court stated that the burden of proof is less than a preponderance of the evidence.11
+The agency appellate authority has followed the Court’s reasoning, and a judge’s
+findings of fact are reviewed under the substantial-evidence standard.12
+ Executive Order 10865, § 7.13
+ Revised Guidelines at 10–12 (setting forth the security concern and the disqualifying and m itigating14
+conditions).  
+ Revised Guidelines at 10.15
+5
+The Revised Guidelines set forth adjudicative guidelines to consider when
+evaluating a person’s security clearance eligibility, including disqualifying conditions
+(DC) and mitigating conditions (MC) for each guideline. In addition, each clearance
+decision must be a fair and impartial commonsense decision based upon consideration
+of all the relevant and material information, the pertinent criteria and adjudication
+factors, and the whole-person concept. A person granted access to classified
+information enters into a special relationship with the government. The government
+must be able to have a high degree of trust and confidence in those persons to whom it
+grants access to classified information. The decision to deny a person a security
+clearance is not a determination of an applicant’s loyalty.  Instead, it is a determination13
+that the applicant has not met the strict guidelines the President has established for
+granting eligibility for a security clearance.
+Analysis
+Personal conduct under Guideline E  includes issues of false statements and14
+credible adverse information that may not be enough to support action under any other
+guideline. In particular, a security concern may arise due to:
+Conduct involving questionable judgment, lack of candor, dishonesty, or
+unwillingness to comply with rules and regulations [that may] raise
+questions about an individual’s reliability, trustworthiness, and ability to
+protect classified information. Of special interest is any failure to provide
+truthful and candid answers during the security clearance process or any
+other failure to cooperate with the security clearance process.  15
+A statement is false when it is made deliberately (knowingly and willfully). An
+omission of relevant and material information is not deliberate if the person genuinely
+forgot about it, inadvertently overlooked it, misunderstood the question, or genuinely
+thought the information did not need to be reported. 
+The gravamen of the SOR is the truthfulness of Applicant’s answer to Question
+22 in his security-clearance application. He denies that his responses to Question 22
+were intentionally false. For Employer A, he contends that he resigned amid a clash of
+personalities with his supervisor. For Employer B, he contends that the real reason or
+motivation for his termination was his unacceptable ongoing domestic problem. 
+ DC 1 is the “deliberate omission, concealment, or falsification of relevant facts from any personnel security16
+questionnaire, personal history statement, or similar form used to conduct investigations, determine
+employment qualifications, award benefits or status, determine security clearance eligibility or trustworthiness,
+or award fiduciary responsibilities.”
+ See Directive, ¶ 6.2 (“An applicant is require to give, and to authorize others to give, full, frank, and truthful17
+answers to relevant and material questions needed by DOHA to reach a clearance decision and to otherwise
+comply with procedures authorized by this Directive.”). 
+ See DC 3 and DC 4. 18
+ DC 7 is the “violation of a written or recorded commitment made by the individual to the employer as a19
+condition of employment.”
+6
+His contentions and explanations are not credible. Although his job with
+Employer A ended in an “I quit – You’re fired” meeting, his listed reason on the security-
+clearance application was incomplete, misleading, and false because it omitted any
+mention of the unsatisfactory performance and for having material on his computer (e-
+mail) that could be considered obscene and offensive. Given the documentary evidence
+(Exhibits 2 and 4), it is misleading to characterize his departure from Employer A as
+resigning or quitting based on a dispute with a supervisor.  
+Likewise, for Employer B, his listed reason for the termination was incomplete,
+misleading, and false because it omitted any mention of the unauthorized government
+property issue. Whatever the company’s motivation, he knew the company’s official
+reason for the termination because he had received the termination letter (Exhibit 5) or
+had seen the letter before he departed the remote site or both (Tr. 20–26, 55, 58, 70).
+Despite that knowledge, he did not report that information about his termination.  
+Given his age, military experience, and experience as an employee in the
+defense industry, he had to know that two job terminations in the same year for these
+reasons might be a problem for his security clearance. An applicant for a security
+clearance is not allowed to pick and choose the details to disclose, but instead is
+obliged to give a complete accounting even if that means disclosing derogatory
+information. Applicant gave reasons for his terminations in the light most favorable to
+him. He did not give a complete accounting, and in doing so he deliberately omitted,
+concealed, or falsified material facts about the reasons for his terminations.  In other16
+words, his answer to Question 22 was at best a half-truth—it was not a full, frank, and
+truthful answer.  17
+In addition to the falsification issues, the evidence of Applicant’s workplace
+misconduct and terminations raise security concerns under Guideline E.  For example,18
+his termination for having inappropriate material on his e-mail violated written company
+policy.19
+All of the MC under Guideline E have been reviewed and none apply in
+Applicant’s favor. Making false statements to the federal government during the
+ Revised Guidelines at 26–27 (setting forth the security concern and the disqualifying and mitigating20
+conditions).  
+7
+security-clearance process is serious misconduct, and it is not easily explained away,
+extenuated, or mitigated. Accordingly, Guideline E is decided against Applicant. 
+The SOR allegation under Guideline M  is, in substance, redundant with and20
+repetitive of the facts alleged in SOR ¶¶ 1.a and 1.b. It is unnecessary to address the
+Guideline M matters because the security concerns are adequately addressed under
+Guideline E. In addition, it will make no difference in the ultimate outcome of the case
+and the law does not require a futile or pointless act.  
+To conclude, Applicant did not present sufficient evidence to rebut, explain,
+extenuate, or mitigate the security concerns. Applicant did not meet his ultimate burden
+of persuasion to obtain a favorable clearance decision. In reaching this conclusion, the
+falsification of the security-clearance application was given great weight, and the case
+would have been decided against Applicant on this basis alone. Likewise, the whole-
+person concept (including his honorable military service, his problems with his third wife,
+and his favorable character evidence) was given due consideration and that analysis
+does not support a favorable decision. This case is decided against Applicant. 
+Formal Findings
+Formal findings for or against Applicant on the allegations set forth in the SOR,
+as required by ¶ E3.1.25 of Enclosure 3 of the Directive, are:
+Paragraph 1, Guideline E: Against Applicant 
+Subparagraphs 1.a–1.f:  Against Applicant
+Conclusion
+In light of all of the circumstances, it is not clearly consistent with national interest
+to grant Applicant eligibility for a security clearance. Eligibility for access to classified
+information is denied.  
+Michael H. Leonard
+Administrative Judge 

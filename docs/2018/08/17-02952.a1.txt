@@ -1,0 +1,136 @@
+KEYWORD: Guideline F
+DIGEST: Besides not alleging that Applicant failed to file his Federal income taxes for 2008-
+2012, the SOR also did not allege that he owed Federal and state taxes and that he owed the large
+student loan, i.e., presumably the one for over $80,000.  When the weight of the decision is
+based on non-alleged issues, a question arises as to whether an applicant has been denied due
+process because he or she was not given adequate notice and an opportunity to respond. Adverse
+decision remanded.
+CASENO: 17-02952.a1
+DATE: 08/03/2018
+DATE: August 3, 2018
+In Re:
+--------------------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-02952
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+October 3, 2017, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On April 23, 2018, after considering the record, Defense Office of Hearings
+and Appeals (DOHA) Administrative Judge Paul J. Mason denied Applicant’s request for a security
+clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues in his appeal: whether Applicant was denied due
+process and whether the Judge’s adverse decision was arbitrary, capricious, or contrary to law. 
+Consistent with the following, we remand the Judge’s unfavorable clearance decision. 
+The Judge’s Findings of Fact
+The SOR set forth three allegations.  It alleged that Applicant did not file his Federal and
+state tax returns for 2013 through 2016 and had a delinquent student loan for about $13,200.  He
+filed his 2013-2015 Federal and state tax returns in October 2017 and his 2016 Federal and state tax
+returns in May 2017.1  He provided an undated payment plan for the delinquent student loan in
+which he was scheduled to make monthly payments of $5 from October 2017 to June 2018.  No
+documentation was provided of payments under that plan. 
+A number of non-alleged financial issues were discussed in the decision.  In 2015,
+Applicant’s wages were garnished for delinquent state taxes from 2013.  He intended to make a
+payment plan for delinquent Federal taxes of an unspecified amount.  He owes a university
+collection agency about $5,900 and a student loan agency about $82,700.  This latter loan became
+delinquent in 2010.  In late 2017, the IRS responded to Applicant’s request to establish a payment
+plan that would address his delinquent Federal taxes for 2008 through 2016.  Under that plan he
+would make monthly payments of $130, starting in early 2018.  In a footnote, the Judge cited to
+ISCR Case No. 08-09232 at 3 (App. Bd. Sep. 9, 2010), indicating that he considered evidence of
+non-alleged financial issues in assessing Applicant’s case in mitigation and in evaluating the overall
+record in the whole person concept. 
+ 
+The Judge’s Analysis
+“Based on Applicant’s failure to file his federal and state 2013 through 2015 tax returns until
+October 2017, and, except for the garnishment to satisfy his 2013 state taxes, the lack of evidence
+indicating that he paid federal and state taxes from 2008 through 2016, I infer that he did not file
+federal returns from 2008 through 2012.  Applicant still owes over $85,000 for the delinquent
+student loans.”  Decision at 6.  
+1 The Judge noted that Applicant initially filed his 2015 tax returns in May 2017, but refiled them in October
+2017 because his tax preparer did not inform him where to sign the returns.  
+2
+“There is no evidence that Applicant filed the unalleged federal and state tax returns for 2008
+through 2012.  He provided no evidence of paying his federal or state taxes for 2008 though 2016.” 
+Decision at 7.  In his whole-person analysis, the Judge also mentions that Applicant did not disclose
+his tax or student loan issues in his 2016 security clearance application (SCA) and, when later
+questioned by an investigator, he could not give a reason for the omission.
+Discussion
+In his appeal brief, Applicant raises a due process concern.  Specifically, he states:
+I provided copies of my 2013 though 2016 tax returns in my notarized SOR.  The
+SOR did not question or request information on my 2008 through 2012 tax returns. 
+. . .  It is erroneous to state the tax returns have not been file[d] when the tax returns
+were never questioned or copies requested.
+We conclude Applicant’s argument has merit.  The Judge erred in concluding that Applicant
+did not file his Federal tax returns from 2008 to 2012.  In the decision, the Judge notes that he
+inferred Applicant did not file his Federal tax returns for those years based on his failure to file
+Federal and state tax returns for 2013-2015 in a timely manner and the lack of evidence indicating
+he paid Federal and state taxes for 2008 through 2012.  The only evidence regarding Applicant’s
+Federal tax issues for 2008-2012 is an IRS installment agreement that indicates he owes an
+unspecified amount of taxes for each of those years.2  The fact that an individual owes the IRS back
+taxes for a particular year does not establish the individual failed to file his or her Federal income
+taxes for that year.  Moreover, proof that an individual failed to file tax returns in a timely manner
+for certain years does not establish he or she failed to file such returns for earlier years.  The Judge’s
+conclusion that Applicant failed to file his Federal income taxes for 2008-2012 is not based on
+substantial evidence,  i.e., “such relevant evidence as a reasonable mind might accept as adequate
+to support a conclusion in light of all the contrary evidence in the same record.”  Directive ¶
+E3.1.32.1 and ISCR Case No. 16-04094 at 2 (App. Bd. Apr. 20, 2018). 
+We note that the Judge mentioned three times in the decision that Applicant failed to file his
+Federal income tax returns for 2008-2012.  While the Judge stated that he would only consider non-
+alleged issues for limited purposes, a major portion of the decision is devoted to non-alleged issues. 
+For example, on the first page of the decision, the Judge summarized the case as follow:
+Applicant filed four federal and state tax returns for tax years 2013 though 2016, but
+has more returns from 2008 though 2012 that have not been filed.  He has delinquent
+federal and state taxes that he owes.  He also owes a large student loan debt that
+became delinquent over seven years ago.  His evidence in mitigation is insufficient
+to overcome the lingering security concerns arising from the guideline for financial
+considerations.  Eligibility for security clearance access is denied.
+2  The reference section of the IRS installment agreement not only lists the years involved, but also states:
+“Forms: 1040,” which possibly could mean those forms were filed for the years in question. 
+3
+Besides not alleging that Applicant failed to file his Federal income taxes for 2008-2012, the SOR
+also did not allege that he owed Federal and state taxes and that he owed the large student loan, i.e.,
+presumably the one for over $80,000.3  When the weight of the decision is based on non-alleged
+issues, a question arises as to whether an applicant has been denied due process because he or she
+was not given adequate notice and an opportunity to respond.  See, e.g., ISCR Case No. 12-11375
+at 5-6 (App. Bd. Jun. 17, 2016).  Such a question exists in this case.  In this regard, the Board has 
+held that an SOR should be easily amended.  See, e.g., ISCR Case No. 04-08547 at 4 (App. Bd. Aug.
+30, 2007).  As long as there is fair notice to the affected party and the affected party has a reasonable
+opportunity to respond, a case should be adjudicated on the merits of the relevant issues.  Id.  
+Accordingly, we remand this case for a new Decision in accordance with the Directive.  The
+Judge may reopen the record to amend the SOR provided that the parties have fair notice and a
+reasonable opportunity to respond.  If the record is reopened, Applicant should be entitled to another
+opportunity to elect a hearing.
+3 The SOR also did not allege that Applicant falsified his SCA.  However, the Judge discussed Applicant’s SCA
+omission in his findings of fact and analysis.  Furthermore, the Judge concluded that Applicant did not provide evidence
+of paying his state taxes for 2008 though 2016; however, there was  no evidence presented that he was delinquent for
+state taxes between 2008 through 2012.
+4
+Order
+The Decision is REMANDED.    
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+5

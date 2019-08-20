@@ -1,0 +1,171 @@
+Consisting of the transcript (Tr.), Government exhibits (GE) 1-5, hearing exhibit (HE) I, and Applicant exhibits1
+(AE) A-E.
+DoD acted under Executive Order 10865, Safeguarding Classified Information within Industry (February 20,2
+1960), as amended; DoD Directive 5220.6, Defense Industrial Personnel Security Clearance Review Program
+(January 2, 1992), as amended (Directive); and the adjudicative guidelines (AG) effective within the DoD on
+1 September 2006. 
+1
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+XXXXXXX, xxxx XxXxxxx )       ISCR Case No. 12-02661 
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Daniel F. Crowley, Esquire, Department Counsel
+For Applicant: Pro se
+              
+______________
+Decision
+______________
+METZ, John Grattan, Jr., Administrative Judge:
+Based on the record in this case,  I deny Applicant’s clearance.1
+On 25 February 2014, the Department of Defense (DoD) issued a Statement of
+Reasons (SOR) to Applicant detailing security concerns under Guideline F, Financial
+Considerations.  Applicant timely answered the SOR, requesting a hearing before the2
+Defense Office of Hearings and Appeals (DOHA). DOHA assigned the case to me 28
+August 2014, and I convened a hearing 25 September 2014. DOHA received the
+transcript (Tr.) 3 October 2014.
+The original creditor sold a debt of $2,042 to another lender in August 2009 (GE 2). That lender sold the3
+account to a third lender in May 2011. The third lender reported acquiring a $2,043 debt, that had grown to
+$2,766 in November 2011. The account numbers match exactly. The Government investigator asked Applicant
+about this debt—at the $2,766 figure—during his November 2011 subject interview (GE 4). The $28,749 figure
+first appears in a June 2013 credit report by Equifax (GE 3) as the total owed, with a past-due balance of
+$2,879. The $28,749 figure occurs nowhere else in any of the credit reports. However, in the May 2013 credit
+report that Applicant submitted with his answer to DOHA interrogatories in June 2013 (GE 4), TransUnion,
+Experian, and Equifax each report a past-due balance of $2,837. Both TransUnion and Equifax report that the
+original amount of the debt was $2,043. An August 2014 Equifax credit report (GE 5) reports a total balance
+and past-due balance of $3,355. Account notations reflect that Applicant was disputing the account.
+Applicant’s August 2014 Experian credit report (AE D) reflects both the original creditor’s sale of the account
+and the current creditor’s reported past-due balance of $3,355, updated from the creditor’s processing of his
+dispute in May 2013. Consequently, I conclude that the $28,749 figure is most likely a key-stroke error in
+reporting the total balance in June 2013, and that the correct balance is $3,355.
+2
+Findings of Fact
+Applicant admitted SOR allegations 1.a-1.b.. 1.d, and 1.g-1.h; he denied SOR
+allegations 1.c and 1.e-1.f. He denied SOR debt 1.c as a duplicate of debt 1.h.
+However, the two accounts have different account numbers, and I conclude that they
+are separate accounts. He denied SOR 1.e because he has no knowledge of the
+account. He denied SOR 1.f because the creditor reportedly could not find any record of
+the account.
+Applicant is a 52-year-old systems administrator employed by a defense
+contractor since July 2011. He has been employed on the same contract by two
+different contractors since July 2005. Applicant was employed by a different
+Government contractor in another state from February 2003 to July 2005. Applicant
+served in the U.S. military from December 1979 to February 2003, when he retired in
+paygrade E-6. He seeks to retain the security he has held as necessary since entering
+the military.                
+             
+The SOR alleges, and Government exhibits (GE 2-3, 5) establish, eight
+delinquent debts totaling over $47,000. However, after careful examination of the five
+credit reports in the record, I conclude that the correct amount of the debt at SOR 1.c is
+$3,355, not $28,749.  Consequently, the correct amount at issue is just over $22,000.3
+All these debts are the sole obligation of Applicant.
+Applicant admits five delinquent debts totaling $16,000. He denied three debts
+totaling $31,300, corrected to $5,900. Record evidence reflects that Applicant accepted
+a July 2014 offer from the creditor at SOR 1.a to settle the account for a fifty percent
+discount, by paying $64 monthly beginning July 2014 (AE E). Applicant documented the
+July and August 2014 payments, and testified that he had made the September 2014
+payment (Tr. 36). Applicant paid SOR debt 1.d in May 2014 (AE C). In April 2014, the
+creditor at SOR 1.h offered to settle the debt for a lump-sum payment of twenty-five
+percent of the amount due paid within the next month, or a payment plan of unspecified
+amount and duration (AE B). Applicant accepted a 12-month plan, and has made the
+However, during his November 2011 subject interview, Applicant told the Government investigator that he4
+filed for divorce.
+Applicant’s clearance application listed a “friend” and “roommate” to confirm his current address in November5
+2011. He later listed a  “cohabitant” who had a different name.
+3
+required monthly payments from May 2014 through September 2014. The payments run
+through April 2015.
+Applicant married in August 1982, and had twin sons with his wife in August
+1986. They separated in February 2003, so Applicant could be with his new partner.
+They remained separated without further action until sometime in 2011, when his wife
+filed for divorce (Tr. 34-35).  Their divorce was final in June 2013.4
+After Applicant and his wife separated in February 2003, he and his partner
+moved in together. Applicant and his partner separated sometime in 2009. Applicant
+attributes his financial problems largely to this separation (Tr. 32-34), although he also
+states his financial problems were exacerbated when his wife filed for divorce in 2011.
+Applicant acquired a new partner in December 2010 (GE 1).  They married in5
+November 2013 (Tr. 47).
+ Applicant provided no work or character references. His June 2013 personal
+financial statement (GE 4) reflected about $3,330 positive monthly cash flow. He
+estimated his current monthly cash flow at $2,500-3,000 (Tr 46). His personal financial
+statement (PFS) shows no payments to any of the creditors alleged in the SOR.
+Applicant has been continuously employed since his 2003 retirement. He has not
+received any credit or financial counseling.
+Policies
+The adjudicative guidelines (AG) list factors to evaluate a person’s suitability for
+access to classified information. Administrative judges must assess disqualifying and
+mitigating conditions under each issue fairly raised by the facts and situation presented.
+Each decision must also show a fair, impartial, and commonsense consideration of the
+factors listed in AG ¶ 2(a). The applicability of a disqualifying or mitigating condition is
+not, by itself, conclusive. However, specific guidelines should be followed when a case
+can be measured against them, as they are policy guidance governing the grant or
+denial of a clearance. Considering the SOR allegations and the evidence as a whole,
+the relevant adjudicative guideline is Guideline F (Financial Considerations).
+Security clearance decisions resolve whether it is clearly consistent with the
+national interest to grant or continue an applicant’s security clearance. The Government
+must prove, by substantial evidence, disputed facts alleged in the SOR. If it does, the
+burden shifts to applicant to refute, extenuate, or mitigate the Government’s case.
+Because no one has a right to a security clearance, the applicant bears a heavy burden
+of persuasion.
+See, Department of the Navy v. Egan, 484 U.S. 518 (1988).6
+¶19 (a) inability or unwillingness to satisfy debts; (c) a history of not meeting financial obligations;7
+¶ 20 (a) the behavior happened so long ago, was so infrequent, or occurred under such circumstances that8
+it is  unlikely to recur . . . ;
+¶ 20 (b) the conditions that resulted in the financial problem were largely beyond the person’s control . . . and9
+the individual acted responsibly under the circumstances;
+¶ 20 (d) the individual initiated a good-faith effort to repay overdue creditors or otherwise resolve debts;10
+4
+Persons with access to classified information enter into a fiduciary relationship
+with the Government based on trust and confidence. Therefore, the Government has a
+compelling interest in ensuring each applicant possesses the required judgement,
+reliability, and trustworthiness of those who must protect national interests as their own.
+The “clearly consistent with the national interest” standard compels deciding any
+reasonable doubt about an Applicant’s suitability for access in favor of the Government.6
+                                   
+Analysis
+The Government established a case for disqualification under Guideline F, and
+Applicant did not mitigate the security concerns. Applicant has $22,000 in delinquent
+debt that he voluntarily incurred and has yet to resolve.  Moreover, despite the fact that7
+a Government investigator discussed these debts with Applicant in November 2011,
+and DOHA queried Applicant about the status of these debts in June 2013, he took no
+documented action to address any of the debts until after he received the SOR in
+February 2014. He fully resolved only one $80 debt and made repayment plans on only
+two of the remaining seven debts.
+In addition, Applicant meets none of the mitigating conditions for financial
+considerations. His financial difficulties are recent, not infrequent, and ongoing.  While8
+the circumstances that caused and exacerbated his indebtedness were beyond his
+control, he has not demonstrated that his changed living circumstances prevented him
+from addressing his delinquent debts any sooner than he did. Six of the eight debts
+alleged are substantially below $1,000 each. He cannot be considered to have acted
+responsibly in addressing his debts under the circumstances, because the debts have
+lingered for many years without resolution or serious efforts toward resolution.  Further,9
+Applicant appears not to have undertaken any effort to address his debts until he
+received the SOR in February 2014. Moreover, the minimal efforts he has undertaken
+do not constitute a good-faith effort to resolve his debts.  10
+Although Applicant appears to have the means to address his delinquent
+debts—and has had since at least June 2013—he has established no meaningful
+timetable for their resolution. He has not received credit or financial counseling. His PFS
+showed no payments to any of his creditors. He certainly has not demonstrated that
+¶ 20 (c) the person has received or is receiving counseling for the problem and there are clear indications11
+that the problem is being resolved or is under control;
+5
+these delinquent debts are being resolved in an expeditious manner.  Further, he has11
+not provided any work or character references to establish a “whole-person” analysis
+supporting a favorable clearance action. I conclude Guideline F against Applicant.
+Formal Findings
+Paragraph 1. Guideline F: AGAINST APPLICANT
+Subparagraphs a-h: Against Applicant
+Conclusion
+Under the circumstances presented by the record in this case, it is not clearly
+consistent with the national interest to grant or continue a security clearance for
+Applicant. Clearance denied.
+                                              
+                                             
+JOHN GRATTAN METZ, JR
+Administrative Judge

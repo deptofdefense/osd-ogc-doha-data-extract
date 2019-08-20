@@ -1,0 +1,201 @@
+KEYWORD: Guideline K; Guideline E
+DIGEST: The Judge’s finding that Applicant’s security violations were not the result of honest
+mistakes is sustainable.  The Directive presumes a nexus between admitted or proven conduct
+under any of the Guidelines and an applicant’s security worthiness.  Applicant failed to rebut the
+presumption that the Judge considered all of the evidence in the record.  We give deference to a
+Judge’s credibility determination.  Hearing Office cases are binding neither on other Hearing
+Office Judges nor on the Appeal Board.  Adverse decision affirmed.
+CASE NO: 11-10255.a1
+DATE: 07/28/2014
+DATE: July 28, 2014
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-10255
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Corey Williams, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On June
+4, 2013, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline K (Handling Protected Information ) and
+Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as
+amended) (Directive). Applicant requested a hearing.  On March 25, 2014, after the hearing, Defense
+Office of Hearings and Appeals (DOHA) Administrative Judge Nichole L. Noel denied Applicant’s
+request for a security clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Department Counsel cross-appealed pursuant to Directive ¶ E3.1.28.
+1In Government Exhibit 2, Answers to Interrogatories, Applicant stated that his “only reason for possessing the
+boxes of files was to support future work in support of the U.S. Government defense interests.”  Compare, however, with
+his hearing testimony: “[A]: It wouldn’t be something that a commercial entity or I personally would benefit from, but
+2
+Applicant raised the following issues on appeal: whether the Judge erred in her findings of
+fact; whether Applicant’s circumstances raised security concerns; and whether the Judge’s decision
+was arbitrary, capricious, or contrary to law.  Department Counsel raised the following issues on
+cross-appeal: whether the Judge erred in failing to address Applicant’s security infractions under
+Guideline E as alleged and whether she erred in failing to address Applicant’s failure to report his
+security breaches under Guideline K as cross-alleged.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact
+Applicant is an employee of a Federal contractor who, in the past, has held sensitive
+compartmented information (SCI).  In 2008, another Government agency (AGA) conducted a
+periodic re-investigation of Applicant, revoking his access to SCI.
+The reason for the revocation was a series of security violations by Applicant extending back
+several years.  AGA discovered that, during a prior investigation, Applicant had admitted to having
+disclosed classified information to his ex-wife, to an office worker, and to his pastor.  None of these
+persons were cleared for access to the information.  Applicant also took home documents from
+which he had removed classified headers and used a classified floppy disk on his home computer,
+which was not classified.  He committed this latter infraction three to five times in the late 1980s.
+Applicant contends that his use of classified materials at home was justified because of the urgency
+and importance of his work.  He was attempting to balance the demands of his job with those of
+stresses that his job placed on his family.
+During a series of interviews in 2008, Applicant admitted to security violations that he had
+committed during the prior four years.  He admitted taking material from his former employer
+without permission.  These included 42 “banker boxes,” six CDs, and twelve videotapes, all
+containing proprietary information related to his employer’s national defense projects.  Although
+he assumed that the contents of the “banker boxes” were not classified, he did not review them
+before removing them from the premises.  
+Just before one of his 2008 interviews, Applicant discovered that at least one of the boxes
+contained classified information.  He turned the material over to his current employer’s facility
+security officer (FSO).  The FSO advised Applicant that he should not retain in his possession his
+former employer’s proprietary information.  Applicant contends that the FSO told him to either
+return the material to the employer, bring it into work for proper storage, or destroy the material,
+although he provided no corroboration for this assertion.  Applicant used his personal shredder to
+destroy the remaining classified information, along with other information that had not been publicly
+released.  He acknowledged that his reason for taking the material was to preserve his professional
+legacy and to benefit from being the only person in possession of the materials.  He also hoped that
+the information would help him in his future work.1  
+the use of the information would help in the next concept that would be proposed to the Government. [Q]: But this was
+all information you kept at your house? [A]: Yes. [Q]: So let’s say it all got destroyed.  You’d be the only person that
+had this information possibly because you made sure you saved copies? [A]: I was hoping to benefit from it in a way.”
+Tr. At 101-102.
+2  The Judge found that Applicant’s security breaches, cross-alleged under Guideline E, did not raise additional
+concerns under that Guideline.  She also found that his failure to self-report did not raise concerns under Guideline K.
+3
+After this interview, the FBI searched Applicant’s home, removing numerous items,
+including 34 trash bags.  Applicant had intended to dispose of the shredded documents along with
+his household garbage.  During subsequent interviews, he admitted to having disclosed classified
+information to another family member and to a friend.  He also stated that he had a binder of
+“random notes” pertaining to his work that he believed were not appropriate outside a classified
+setting, although he claimed that the notes were not classified and that it would have been “nearly
+impossible” for someone else to place them in context.  Decision at 4.
+Based on the results of the periodic re-investigation, AGA issued Applicant an SOR,
+revoking his access to SCI.  Applicant contended during his appeal that the incidents in 2004 and
+the years following were the result of factual errors.  AGA’s appeal board upheld the agency’s
+decision to revoke Applicant’s access to SCI.
+The Judge’s Analysis
+The Judge cited to Applicant’s admissions during his AGA interviews.  She stated that his
+efforts at mitigation did not undermine the overall tenor of these admissions, that he had “habitually
+mishandled classified or other protected information for may years.”  Id. At 5.  She stated that
+Applicant provided no evidence of remedial training and that the number of violations to which
+Applicant had admitted impaired the credibility of his promise to be more cautious in the future.
+She also noted evidence that Applicant did not self-report these incidents until his interviews, which
+raises concerns under Guideline E.2  She concluded that Applicant had failed to mitigate the security
+concerns raised by his conduct.  In the whole-person analysis, she stated that Applicant had
+“repeatedly demonstrated a lack of respect and understanding of the rules that apply to the handling
+and safeguarding of classified information . . .”  Id. At 6.  She stated that he had placed his own
+interests over his obligation to protect classified information and that there is nothing in the record
+to suggest that he will change.
+Discussion
+Applicant has challenged some of the Judge’s findings of fact.  He notes that one of the
+allegations in the SOR was amended at the hearing to conform to the evidence.  He claims that, as
+originally written, it was factually erroneous.  However, we find no error here, in view of the fact
+that the Judge made findings and conclusions consistent with the amended language of the allegation
+3See Letter from AGA Senior Adjudications Officer, included in GE 2: “During a polygraph examination on
+. . .  you admitted to having 42 boxes of documents from your previous employment . . . You stated 30 of the boxes were
+taken by you at the time of your departure from [prior employment] in 2004.  You obtained the remaining 12 boxes in
+2007.  You stated that you conducted a review of the documents prior to this examination and ascertained some of the
+documents contained sensitive information and were marked at a specific classification level with no dissemination to
+foreign nationals.  You stated you knew the documents were classified at the time you removed them.”  
+4
+rather than with its original iteration.  Applicant has also argued that the Judge’s findings mis-
+characterized the state of mind through which he committed his infractions, emphasizing his
+contention, expressed during his appeal of the AGA revocation, that he had been honestly mistaken
+about the classified nature of some of the documents in question.  We have examined the Judge’s
+findings in light of the record, paying attention to the documents pertaining to the AGA revocation.
+A reasonable person could conclude that Applicant’s repeated infractions were not the result of
+honest mistakes but, rather, that they evidenced at the very least negligence in the handling of
+protected information and, in some instances, deliberate violations.3  The Judge’s material findings
+of security concern are based upon substantial evidence or constitute reasonable inferences and
+conclusions that could be drawn from the evidence.  See, e.g., ISCR Case No. 10-00046 at 3 (App.
+Bd. Oct.1, 2013).
+Applicant contends that his infractions in 2004 and the years following do not raise security
+concerns.  He claims that he took the documents home due to “exigent circumstances” posed by the
+nature of his job.  The Government bears the burden of producing substantial evidence of those
+allegations that an applicant has controverted.  The Directive presumes a nexus between admitted
+or proven conduct under any of the Guidelines and an applicant’s security worthiness.  See, e.g.,
+ISCR Case No. 11-06925 at 4 (App. Bd. Dec. 13, 2013).   In this case, Applicant admitted several
+of the allegations in the SOR, and, as stated above, the Government produced substantial evidence
+of the allegations as well.  Applicant presented no evidence of any “exigent circumstance” that
+would justify or excuse his failure to protect classified information.  That he was working long hours
+in the service of his country and found it expedient to work at home does not explain or excuse
+repeated security infractions, whether negligent or deliberate.  Moreover, the Judge’s findings about
+Applicant’s desire to “preserve his professional legacy” undermine his argument that he was acting
+only in the best interests of the U.S.  The Judge did not err in concluding that Applicant’s
+circumstances raised concerns under both Guidelines.
+Applicant cites to his favorable character references, to his hard work, to the cold-war
+context of his job, etc.  A Judge is presumed to have considered all of the evidence in the record.
+See, e.g., ISCR Case No. 11-13984 at 3 (App. Bd. Feb. 20, 2014).  Applicant’s argument is not
+sufficient to rebut that presumption.  
+Applicant states that he truthfully admitted his security-significant conduct and that
+Department Counsel described him as a truthful person.  He contends that the Judge erred in
+discounting the credibility of his mitigation evidence.  We are required to give deference to a
+Judge’s credibility determination.  Directive ¶ E3.1.32.1.  In this case, the Judge made no finding
+that Applicant had failed to admit the full measure of his infractions.  Rather, she concluded that the
+5
+extent of Applicant’s misconduct rendered his promises of future compliance with security
+requirements to be unworthy of belief.  Given the record that was before her, this conclusion is
+sustainable.  We find no reason to disturb the Judge’s treatment of the credibility of Applicant’s
+mitigation evidence.
+In support of his effort to obtain a clearance, Applicant has cited to other cases by Hearing
+Office Judges in which applicants had received clearances despite security infractions.  We give
+these cases due consideration as persuasive authority.  However, Hearing Office cases are not
+binding on other Hearing Office Judges or on the Appeal Board.  See, e.g., ISCR Case No. 13-00464
+at 3 (App. Bd. Feb. 20, 2014).  Applicant’s circumstances, as presented in the evidence properly
+before the Judge, support her adverse decision, and the cases that Applicant has cited are not
+sufficient to show that the Judge’s decision was arbitrary, capricious, or contrary to law.  
+Applicant takes issue with the Judge’s whole-person analysis, which requires a Judge to
+evaluate an applicant’s case in light of the entirety of the record evidence.  See, e.g., ISCR Case No.
+13-00311 at 4 (App. Bd. Jan. 24, 2014).  The Judge evaluated Applicant’s conduct as a whole, rather
+than in a piecemeal fashion, as some of Applicant’s arguments would urge.  Applicant provides no
+reason to conclude that the Judge contravened the requirement of the Directive regarding a whole-
+person analysis.
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision regarding both the mitigating conditions and the whole-person factors.  The decision is
+sustainable on this record.  Once it is established that an applicant has committed security violations,
+he or she bears a”very heavy burden” of persuasion that he or she should be granted a clearance.
+Security violations “strike at the heart of the industrial security program.”  ISCR Case No. 10-04911
+at 5 (App. Bd. Dec. 19, 2011).  “The general standard is that a clearance may be granted only when
+‘clearly consistent with the interests of the national security.’”  Department of the Navy v. Egan, 484
+U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt concerning personnel
+being considered for access to classified information will be resolved in favor of the national
+security.”  
+In light of this holding, any error identified by Department Counsel on cross-appeal is
+harmless.  We note, however, that an applicant’s conduct can be alleged under more than one
+Guideline and given independent weight under each.  See, e.g., ISCR Case No. 03-08257 at 3 (App.
+Bd. May 16, 2008).
+ 
+Order
+6
+The Decision is AFFIRMED.
+Signed: Michael Ra’anan               
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett                 
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                
+James E. Moody
+Administrative Judge
+Member, Appeal Board

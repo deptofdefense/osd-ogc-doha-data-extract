@@ -1,0 +1,123 @@
+KEYWORD: Guideline E; Guideline F
+DIGEST: A creditor’s decision to charge off a debt for accounting purposes does not affect a
+debtor’s obligations to the creditor.  A Judge could reasonably conclude charged-off debts
+remain ongoing financial problems.  If Applicant had proof of resolution of alleged debts, he was
+obligated to present such evidence to the Judge. The doctrine of ineffective assistance of counsel
+does not apply in DOHA proceedings.  Adverse decision affirmed.
+CASENO: 15-07941.a1
+DATE: 11/29/2018
+DATE: November 29, 2018
+In Re:
+------------------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-07941
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+October 13, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision—security concerns raised under Guideline F (Financial Considerations) and Guideline E
+(Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+(Directive).  Applicant requested a hearing.  On August 31, 2018, after the hearing, Defense Office
+of Hearings and Appeals (DOHA) Administrative Judge Stephanie C. Hess denied Applicant=s
+request for a security clearance.  Applicant appealed pursuant to Directive && E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge=s decision was arbitrary,
+capricious, or contrary to law.  The Judge’s favorable findings under Guideline E have not been
+raised as an issue on appeal.  Consistent with the following, we affirm.
+The Judge’s Pertinent Findings of Fact and Analysis
+Applicant works for a defense contractor.  He has served honorably in the military, which
+included multiple deployments to war zones.  The SOR alleged that he had 11 debts totaling about
+$36,000.  He admitted ten of those debts.  He attributed his financial difficulties to periods of
+unemployment and underemployment.  He also opened a business in 2009 that failed in 2016.  In
+his 2014 security clearance application, Applicant listed a number of his delinquent debts and stated
+he was currently in the process of filing Chapter 13 bankruptcy.  In his 2016 SOR Answer, he again
+indicated he would resolve the debts through Chapter 13, bankruptcy.  At the hearing, he indicated
+that he decided not to file bankruptcy because he learned taking such action could not protect his
+marital home from foreclosure and could potentially have an impact on his security clearance
+eligibility.  
+Applicant’s delinquent debts include a deficiency balance on a repossessed vehicle of over
+$14,000, three charged-off credit card debts totaling over $11,000, and a charged-off delinquent
+electronic payment of about $550.  Those debts remain unresolved.   He paid two of the delinquent
+debts totaling less than a $1,000 and entered into payment plans or settlement agreements for other
+debts.  In 2017, he received a $20,000 raise and now earns about $90,000 annually.  He also receives
+annual disability compensation benefits of about $12,000.  
+Despite having received the SOR more than a year earlier, Applicant did not contact the
+creditors until just before the hearing.   He did not have a clear understanding of his accounts.  He
+has the prerogative to change his mind about filing bankruptcy, but such a change does not justify
+a failure to address his delinquent debts.  Based on Applicant’s recent repayment agreements, it is
+too soon to conclude that he has developed a track record of repayments.  Although he encountered
+conditions beyond his control, he has not acted responsibly under the circumstances and his
+delinquent accounts primarily remain unresolved.  
+Discussion
+Applicant’s brief includes matters that are not contained in the record.  For example, he
+stated that he has paid an attorney to file Chapter 13 bankruptcy and that the delinquency on the
+2
+repossessed vehicle and another debt will be resolved through that bankruptcy.  He also provided
+documents in his appeal brief showing he paid some of the delinquent debts after the record of the
+proceeding closed.  We cannot consider new evidence on appeal.  Directive E3.1.29.
+Applicant contends that he did not owe credit card debts from specific creditors because the
+accounts were paid or charged off several years ago and that his attorney did not present accurate 
+information about the accounts even though he provided that information to the attorney.  These
+arguments are not persuasive.  First, a creditor’s decision to charge off a debt for accounting
+purposes does not affect a debtor’s obligations to the creditor.  A Judge could reasonably conclude
+charged-off debts remain ongoing financial problems.  See, e.g., ISCR Case No. 17-00683 at 2 (App.
+Bd. Oct. 19, 2018).  Second, if Applicant had proof of resolution of alleged debts, he was obligated
+to present such evidence to the Judge.  Directive ¶ E3.1.15.  Third, the doctrine of ineffective
+assistance of counsel does not apply in DOHA proceedings.  See, e.g., ISCR Case No. 17-03852 at
+4 (App. Bd. Oct. 31, 2018).  Applicant’s arguments do not establish that the Judge committed any
+harmful error.  
+Applicant argues the adverse decision has resulted in the termination of his job and damaged
+his career.  The Directive does not allow us to consider the impact of an unfavorable decision.  See,
+e.g., ISCR Case No. 17-01492 at 2 (App. Bd. Apr. 30, 2018).   He also contends that he was told his
+decision would be issued in mid-January 2018, but it was issued until much later.  “Had the decision
+reached me sooner, I would have made more economical choices.”  Appeal Brief at 2.  Applicant’s
+security clearance hearing was held in November 2017, and he knew a decision on his security
+clearance eligibility was pending.  His economic choices are solely his responsibility and do not
+warrant any type of relief in this proceeding.  
+Applicant further argues that the Judge did not take into consideration his military service
+and points out that he has held a security clearance for over 30 years without ever being disciplined
+or cited for any misbehavior.  His arguments are neither sufficient to rebut the presumption that the
+Judge considered all of the evidence in the record nor enough to show that the Judge weighed the
+evidence in a manner that was arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No.
+17-02488 at 3 (App. Bd. Aug. 30, 2018).  Although an absence of prior security violations is a
+matter that a Judge should consider, along with all the other evidence in the record, it does not
+preclude a Judge from concluding that an applicant’s circumstances present security concerns that
+the applicant failed to mitigate.  The Government does not have to wait until an applicant has
+compromised or mishandled classified information before it can deny the applicant a clearance. 
+Even those with good prior records can encounter circumstances in which their judgment and
+reliability might be compromised.  See, e.g., ISCR Case No. 14-04648 at 3 (App. Bd. Sep. 9, 2015).
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A & 2(b):  “Any
+doubt concerning personnel being considered for national security eligibility will be resolved in
+favor of the national security.”
+3
+4
+Order
+The Decision is AFFIRMED.  
+ 
+Signed: Michael Ra’anan              
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                   
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+5

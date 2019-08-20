@@ -1,0 +1,154 @@
+KEYWORD: Guideline F
+DIGEST: The security concerns under Guideline F are broader than the possibility that an
+applicant might knowingly compromise classified information in order to raise money to satisfy
+his or her debts. Financial problems may also raise concerns about an applicant’s self-control,
+judgment, and other qualities essential to protecting classified information. Adverse decision
+affirmed.
+CASENO: 15-05049.a1
+DATE: 07/12/2017
+DATE: July 12, 2017
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-05049
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Stephen D. Lofaso, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+December 11, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline F (Financial Considerations) of Department
+of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On April 24, 2017, after considering the record, Defense Office of Hearings
+and Appeals (DOHA) Administrative Judge Robert J. Kilmartin denied Applicant’s request for a
+security clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal:  whether the Judge improperly applied the
+whole-person concept and whether the Judge’s adverse decision was arbitrary, capricious, or
+contrary to law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact and Analysis 
+Applicant, who is 61 years old, has worked for a Federal contractor since 2013.  Her first
+marriage ended in divorce in 1997.  She remarried in 1997 and separated from her second husband
+in 2012.  She has held security clearances without incident since about 1980. 
+Applicant admitted the SOR allegation that she filed Chapter 7 bankruptcy, which was
+discharged in 2003.1  She denied 11 of the 12 alleged debts that totaled over $219,000 and included
+a foreclosed first mortgage and charged-off second mortgage.  She disclosed in her security
+clearance application some of the debts that she has denied.  She attributed her financial problems
+to her and her husband’s loss of employment.  
+Applicant claims to have contacted her creditors to make payment arrangements and
+expressed an intent to pay all debts in the future.  She provided proof of satisfaction of a state lien,
+but provided no evidence of payments or mitigation regarding the other debts.  Her financial
+problems are not under control and remain a security concern.
+Discussion
+Applicant contends that the Judge improperly applied the whole-person concept.  She notes
+the Directive contains 13 adjudicative guidelines, which she refers to as “characteristics,”2 and
+points out that she only had security concerns alleged under one guideline.  She argues “an
+adjudicator should weigh the severity of [her alleged security] concerns against the 12 other
+characteristics [guidelines]” . . . “to determine whether that one characteristic outweighs all others
+in the whole-person analysis.”  Appeal Brief at 3-4.  She further states: 
+The decision never discusses how [Applicant’s] alleged financial debts are so serious
+that they warrant overriding the other 12 characteristics of the whole-person concept
+for which the government found no concerns.  Instead, the decision merely concludes
+that [Applicant’s] alleged financial debt makes her a higher national security risk
+under the whole-person concept.  It does not put forth any analysis on how the
+financial considerations aspect of the whole-person analysis was weighed and
+balanced against, e.g., [Applicant’s] Allegiance to the United States or her Personal
+Conduct, or her assessment on Alcohol Consumption.  As such, the decision is
+1 The SOR also alleged that Applicant received a Chapter 7 bankruptcy discharge in 1999, which was
+withdrawn  in Department Counsel’s File of Relevant Material (FORM) and was not raised as an issue on appeal. 
+2 The adjudicative guidelines are not “characteristics,” but criteria used to identify and assess various security
+concerns.  
+arbitrary and capricious as it does not develop or lay-out the analysis undertaken in
+making the decision that [Applicant’s] alleged financial failings shows that she, as
+a whole-person, taking into consideration all the other prongs required by the
+Adjudicative Guidelines, would cause a heightened national security risk.3  
+Applicant’s contention is unpersuasive.  The Directive does not require that any security
+concerns arising from admitted or proven SOR allegations under one or more of the guidelines be
+weighed or balanced against non-alleged guidelines in making a whole-person assessment.  What
+the Directive requires in making a whole-person assessment is that “[a]ll available, reliable
+information about the person, past or present, favorable and unfavorable, should be considered in
+reaching a national security eligibility determination.”  Directive, Encl. 2, App. A, ¶ 2(a).  In this
+regard, we first note that there is a rebuttable presumption that the Judge considered all of the
+evidence in the record (see, e.g., ISCR Case No. 14-06093 at 3(App. Bd. Dec. 4, 2015)), and,
+second, the Judge is not required to discuss each and every piece of record evidence, which would
+be a practical impossibility (see, e.g., ISCR Case No. 12-01500 at 3 (App. Bd. Aug. 25, 2015)). 
+Based upon our review of the record, we find no error in the Judge’s whole-person assessment in
+this case.
+  Throughout her appeal brief, Applicant argues that she should be granted a security clearance
+because she does not pose “a heightened national security risk.”  She is requesting that we apply the
+wrong standard for determining security clearance eligibility.  The Directive does not require the
+Government establish “a heightened national security risk.”  “The general standard is that a
+clearance may be granted only when ‘clearly consistent with the interests of the national security.’” 
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive ¶ 2.3 and Directive,
+Encl. 2, App. A, ¶¶ 2(b) (“Any doubt concerning personnel being considered for national security
+eligibility will be resolved in favor of the national security.”) and 2(c) (“The ultimate determination
+of whether the granting or continuing of national security eligibility is clearly consistent with
+national security must be an overall common sense judgment based upon careful consideration of
+the following guidelines, each of which is to be evaluated in the context of the whole person.”).  We
+note the Judge applied the correct standard in this case.  Decision at 6. 
+Applicant also argues that the Judge erred in considering “charged-off” debts because she
+cannot be pressured or coerced regarding debts she no longer owes.  This argument lacks merit. 
+First, the security concerns under Guideline F are broader than the possibility that an applicant might
+knowingly compromise classified information in order to raise money to satisfy his or her debts. 
+Financial problems may also raise concerns about an applicant’s self-control, judgment, and other
+qualities essential to protecting classified information.  See, e.g., ISCR Case No. 11-05365 at 3
+(App. Bd. May 1, 2012) and Directive, Encl. 2, App. A ¶ 18.  Second, the Board has repeatedly held
+the non-collectability of a debt does not preclude consideration of the debt and circumstances
+surrounding it in a security clearance adjudication.  See, e.g., ISCR Case No. 09-08550 at 4 (App.
+Bd. Feb. 25, 2011).  
+ 
+Applicant further argues the Judge erred in his mitigation analysis because he did not
+3 Appeal Brief at 4.  
+consider the 2008 downturn in the housing market when analyzing the alleged mortgages.  However,
+the  record below contains no evidence or arguments that the 2008 downturn in the housing market
+was a condition beyond her control that impacted her finances.  A credit report (Government Exhibit
+(GE) 4) and county real estate assessment (GE 7) established the alleged mortgage debts.  Once the
+Government presented evidence establishing the defaulted mortgages, Applicant had the burden of
+presenting evidence to rebut, explain, extenuate, or mitigate such proven facts and also had the
+ultimate burden of persuasion as to obtaining a favorable clearance decision.  Directive ¶ E3.1.15. 
+The record reflects that Applicant only attributed her financial problems to her and her husband’s
+loss of employment, which the Judge discussed.   She neither requested the Judge take
+administrative notice of the 2008 economic downturn nor provided any evidence about that event. 
+A Judge’s material findings must be based on substantial evidence or constitute reasonable
+inferences or conclusions that could be drawn from the evidence.  See, e.g., ISCR Case No. 12-
+03420 at 3 (App. Bd. Jul. 25, 2014).  Applicant has cited to no harmful error in the Judge’s
+mitigation analysis.   
+The balance of Applicant’s arguments amount to a disagreement with the Judge’s weighing
+of the evidence.  For example, she cites to the financial turmoil she has experienced because of her
+marital separation and the amount of time that has passed since her bankruptcy discharge.4  The
+presence of some mitigating evidence does not alone compel the Judge to make a favorable security
+clearance decision.  As the trier of fact, the Judge has to weigh the evidence as a whole and decide
+whether the favorable evidence outweighs the unfavorable evidence, or vice versa.  A party’s
+disagreement with the Judge’s weighing of the evidence, or an ability to argue for a different
+interpretation of the evidence, is not sufficient to demonstrate the Judge weighed the evidence or
+reached conclusions in a manner that is arbitrary, capricious, or contrary to law.  See, e.g., ISCR
+Case No. 15-03742 at 3 (App. Bd. Jun. 9, 2017).  
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on the record.
+Order
+4 Applicant provided few details about her and her husband’s unemployment, their separation, and the impact
+those condition had on her finances.  Her security clearance application lists that she had full-time employment from July
+2004 until the application’s submission in September 2013.   
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: William S. Fields            
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                 
+James F. Duffy
+Administrative Judge
+Member, Appeal Board

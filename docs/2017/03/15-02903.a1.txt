@@ -1,0 +1,120 @@
+KEYWORD:  Guideline F
+DIGEST:  In this case, the Judge made no findings at all about Applicant’s financial advisor and
+his successful efforts at persuading the creditors to forgive substantially all of Applicant’s debts. 
+As a result, the Judge’s analysis failed to consider an important aspect of the case, in particular
+the applicability of Mitigating Condition 20(c).  Unfavorable decision remanded.
+CASE NO: 15-02903.a1
+DATE: 03/09/2017
+DATE:  March 9, 2017
+In Re:
+------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-02903
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+October 30, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant  requested a hearing.1 
+On December 27, 2016, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+1In his Answer to the SOR, dated November 30, 2015, Applicant requested a decision on the written record. 
+He subsequently changed this to a request for a hearing.  Email to DOHA, dated April 26, 2016.
+Administrative Judge Richard A. Cefola denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in concluding that
+the Government had produced evidence of security concern and whether the Judge’s adverse
+decision was arbitrary, capricious, or contrary to law.  Consistent with the following, we remand the
+case to the Judge.
+The Judge’s Findings of Fact
+Applicant has experienced financial difficulties, which he attributes to his wife having quit
+her job and to the downturn in the housing market.  In 2008, he filed a Chapter 13 bankruptcy
+petition, which he did not pursue due to having been advised that bankruptcy would have an impact
+on his security clearance.  Three of Applicant’s creditors forgave debts–a mortgage and two credit
+cards.  These three debts total about $125,000.  However, Applicant did not demonstrate that he had
+paid three others–medical bills totaling a little less than $1,100.    
+The Judge’s Analysis
+The Judge resolved the three forgiven debts in Applicant’s favor.  He also entered favorable
+findings for a medical debt that Applicant had paid.  However, for the three medical debts that were
+unpaid as of the close of the record, the Judge concluded that Applicant had not demonstrated
+responsible action.  Though acknowledging that Applicant’s problems were affected by
+circumstances outside the his control, the Judge concluded that Applicant’s failure to have shown
+that these debts were paid precluded a favorable overall decision.
+Discussion
+We resolve the first alleged error adversely to Applicant.  He contends, in effect, that the
+Government had not presented substantial evidence of facts alleged in the SOR and that Applicant’s
+circumstances do not raise security concerns. See Directive ¶ E3.115 to the effect that the
+Government’s burden of producing evidence arises only in regard to allegations that an applicant
+has controverted.  In this case, the SOR allegations were not controverted insofar as Applicant
+admitted them in his Answer.  Moreover, the Directive presumes a nexus between admitted or
+proved facts under any of the Guidelines and an applicant’s eligibility for a clearance.  See, e.g.,
+ISCR Case No. 15-08842 at 2 (App. Bd. Feb. 14, 2017).  However, we are persuaded by Applicant’s
+argument that the Judge’s whole-person analysis did not address significant favorable evidence.  
+In deciding whether the Judge's rulings or conclusions are erroneous, we will review the
+decision to determine whether:  it does not examine relevant evidence; it fails to articulate a
+satisfactory explanation for its conclusions, including a rational connection between the facts found
+and the choice made; it does not consider relevant factors; it reflects a clear error of judgment; it
+fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  See ISCR Case No. 14-02563 at 3-4 (App. Bd. Aug. 28, 2015).
+The record shows that, due to a concern that bankruptcy would imperil his clearance, 
+Applicant hired a financial counselor who negotiated with creditors, securing forgiveness of three
+large debts.  Applicant testified that he paid taxes on the amounts that the creditors forgave.2 
+Accordingly, Applicant’s resolution of the three debts in question was not due simply to his having
+waited out his creditors but to his own initiative in having sought the assistance of a financial
+counselor.  The Judge’s failure to make findings about this and discuss the findings in his analysis
+impairs his decision.    
+We note that some amount of medical debt remained unpaid as of the close of the record. 
+However, an applicant does not have to be debt-free in order to qualify for a security clearance.  
+Rather, all that is required is that an applicant act responsibly given his circumstances and develop
+a reasonable plan for repayment, accompanied by “concomitant conduct”’ that is, actions which
+evidence a serious intent to effectuate the plan.   See, e.g., ISCR Case No.13-00987 at 3, n. 5 (App.
+Bd. Aug. 14, 2014).  Evidence that Applicant hired a financial counselor, with the result that a
+substantial portion of his delinquent debts have been resolved, plausibly raises Mitigating Condition
+20(c): “the person has received or is receiving counseling for the problem and/or there are clear
+indications that the problem is being resolved or is under control[.]”3  
+A Judge is not required to discuss each and every piece of record evidence in making a
+decision.  See, e.g., ISCR Case No. 12-01500 at 3 (App. Bd. Aug. 25, 2015).  However, he or she
+cannot ignore, disregard, or fail to discuss significant record evidence that a reasonable person could
+expect to be taken into account in reaching a fair and reasoned decision.  In this case, the Judge
+made no findings at all about Applicant’s financial advisor and his successful efforts at persuading
+the creditors to forgive substantially all of Applicant’s debts.  As a result, the Judge’s analysis failed
+to consider an important aspect of the case, in particular the applicability of Mitigating Condition
+20(c).  
+We conclude that the most appropriate resolution of this appeal is to remand the case to the
+Judge for him to make appropriate findings about Applicant’s mitigating evidence and analyze those
+findings in light of 20(c).  In doing so, the Judge should address the extent to which $1,100 of
+unresolved debt properly remains a matter of security concern.  The Judge should also address the
+extent to which Applicant has demonstrated a responsible plan accompanied by concomitant
+conduct.
+Order
+2“[Q]: Did you have tax liability on those accounts? [A]: Yes.  I put it on my tax forms.  I paid taxes on those
+ones . . . [Q]: Do you currently owe any money on your taxes to either the State or Federal Government? [A]: None.” 
+Tr. At 63-64.  
+3Directive, Enclosure 2 ¶ 20(c).
+The Decision is REMANDED.   
+Signed:  Michael Ra’anan      
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed:  James E. Moody       
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed:  James F. Duffy         
+James F. Duffy
+Administrative Judge
+Member, Appeal Board.  
+CASE NO:  15-02903.a1
+DATE:  03/09/2017

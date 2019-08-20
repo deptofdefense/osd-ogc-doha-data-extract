@@ -1,0 +1,149 @@
+KEYWORD: Guideline K
+DIGEST: The Judge’s analysis does not adequately explain why Applicant’s security violations
+do not cast lingering doubt on her judgment and reliability.  The Judge’s mitigation and whole-
+person analysis fail to consider important aspects of the case.  The best resolution of this appeal
+is to remand the case to the Judge for a new decision that corrects these errors.  Affirmative
+decision remanded, 
+CASENO: 11-09219.a1
+DATE: 03/31/2014
+DATE: March 31, 2014
+In Re:
+--------------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-09219
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Jeffrey Nagel, Esq., Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+August 7, 2013, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline K (Handling Protected Information) of
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On December 23, 2013, after the hearing, Defense Office of Hearings and
+Appeals (DOHA) Administrative Judge Richard A. Cefola granted Applicant’s request for a security
+clearance.  Department Counsel appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Department Counsel raised the following issue on appeal: whether the Judge’s decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we remand the case to the
+Judge.
+The Judge’s Findings of Fact
+Applicant served in the U.S. military from 1984 until 1987.  She held a security clearance
+while on active duty.  In 2001, she began working for an employer in a job requiring a clearance.
+She had no security violations during this period of employment.  
+In 2004, she began working for another employer, again in a position requiring a clearance.
+From April 2008 until July 2010, Applicant had five security violations.  The first two, both in 2008,
+involved her failure properly to secure her workplace upon leaving.  The earlier of these two offense
+resulted in a verbal warning, the later in a verbal and a written warning.  
+The third incident occurred in 2009.  Applicant put a file on a CD and inserted the CD into
+an unclassified network.  She discovered that the file was classified, so she disconnected the
+network, shut down the computer, and notified the appropriate security authorities.  She received
+a written memorandum of concern as a result of this infraction.  
+In March 2010, Applicant failed to secure a classified tape, though it was eventually found.
+As a result of this incident, Applicant received security training.  
+Finally, in July 2010, Applicant uploaded classified data into an unclassified network.  She
+stated at the hearing that she and another person put a document on the network and later others
+discovered that the document should have been classified.  She said, “[J]ust because you don’t know
+doesn’t mean its okay.”  Decision at 3.  
+Since beginning work for her current employer in 2010, Applicant has had no further security
+incidents.  Her supervisor finds her to be trustworthy.
+The Judge’s Analysis
+1Directive, Enclosure 2 ¶ 34(c): “loading . . . storing, transmitting, or otherwise handling classified . . .
+information on any unapproved equipment . . .”
+2Directive, Enclosure 2 ¶ 34(g): “any failure to comply with rules for the protection of classified or other
+sensitive information[.]”  
+3Directive, Enclosure 2 ¶ 34(h): “negligence or lax security habits that persist despite counseling by
+management[.]”  
+4Directive, Enclosure 2 ¶ 35(a): “so much time has elapsed since the behavior, or it has happened so infrequently
+or under such unusual circumstances, that it is unlikely to recur and does not cast doubt on the individual’s reliability,
+trustworthiness, or good judgment[.]”
+The Judge found that Applicant’s circumstances raised three Guideline K disqualifying
+conditions: 34(c),1 34(g),2 and 34(h).3  Explaining his conclusion that Applicant had mitigated the
+concerns arising from her security incidents, the Judge applied Guideline K mitigating condition
+(MC) 35(a).4  His pertinent analysis consisted of the following:
+Applicant’s actions were, for the most part, due to negligence, and they occurred
+more than three years ago.  She has now been a most reliable and trustworthy
+employee for her current employer, as attested by her supervisor.  Decision at 5.
+In the whole-person analysis, the Judge listed the factors set forth in Directive, Enclosure 2 ¶ 2(a).
+He then stated that, having considered all of the evidence, he was left without questions or doubts
+as to Applicant’s worthiness for a clearance.
+Discussion
+The standard applicable in security clearance decisions “is that a clearance may be granted
+only when ‘clearly consistent with the interests of the national security.’” Department of the Navy
+v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt concerning personnel being considered for access
+to classified information will be resolved in favor of the national security.”  Directive, Enclosure 2
+¶ 2(b).  In deciding whether the Judge's rulings or conclusions are erroneous, we will review the
+Judge's decision to determine whether, inter alia, it does not consider relevant factors or it fails to
+consider an important aspect of the case.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2,
+2006).  
+Department Counsel argues that the Judge’s analysis is “sparse” and “fails to consider the
+cumulative significance of the record evidence of Applicant’s pattern of security violations.”
+Appeal Brief at 9.  He contends that the weight of the record evidence does not support a favorable
+application of any of the mitigating conditions and that the Judge employed a “piecemeal” analysis.
+We find portions of Department Counsel’s argument to be persuasive.  Once it is established
+that an applicant has committed security violations, he or she has a “very heavy burden” to surmount
+in mitigating the concerns arising therefrom, insofar as security violations “strike at the heart of the
+Industrial Security Program.”  ISCR Case No. 10-07070 at 8-9 (App. Bd. Apr. 19, 2012); see also
+ISCR Case No. 10-04911 at 5 (App. Bd. Dec. 19, 2011).  
+5GE 7, Report of Investigation, dated April 19, 2010:“[Applicant] was initially granted access to classified
+materials as [an employee] in 2004, following that initial indoctrination briefing [Applicant] has completed annual
+security clearance refresher training.  In addition to the standard security clearance briefing [Applicant] has also
+complete[d] security briefings for access to classified safes/container, closed areas, and classified information systems.”
+6Applicant’s explanations for her conduct–dropping her phone, forgetting her keys, failing to double check her
+work–describe characteristics that appear to be habitual in nature rather than the products of stresses or circumstances
+that were short-lived and/or demonstrably consigned to the past.  GE 4 at 4; GE 5 at 8; GE 6 at 6.     
+ In this case, the Judge’s analysis failed to address significant record evidence, such as the
+number of infractions committed by Applicant and that these infractions occurred despite prior
+training.  For example, the incident report for the first offense outlines company policies regarding
+the protection of classified information.  This report contains a signed statement by Applicant
+acknowledging this policy and her responsibilities to uphold them.  Final Report of Investigation,
+dated April 23, 2008, included in Government Exhibit (GE) 4.  A later Report of Investigation
+contains a recitation of Applicant’s security training, demonstrating that it was ongoing and of a
+nature to have placed her on notice of the need for vigilance in protecting classified information.5
+Moreover, the record demonstrates that Applicant’s subsequent offenses occurred against a
+background of repeated verbal and written corrective action.  The extent to which Applicant had
+been placed on notice of the security requirements of her job, and to which she received adverse
+action regarding her infractions, are relevant in evaluating the seriousness of her conduct.  This
+evidence is crucial to an adequate mitigation analysis, bearing as it does on the foreseeability of
+future misconduct that strikes at the heart of the security clearance process.6  The Judge’s analysis
+makes no reference to this evidence, nor does it examine the evidence as a whole in light of
+Applicant’s “heavy burden” of persuasion.  
+In other cases decided under the Directive, applicants were denied a clearance based on
+conduct that presents a likelihood that they may fail to protect classified information in the future.
+In the case before us, however, Applicant has actually failed to protect classified information
+multiple times, on one occasion leaving a room unsecured from 1:43 pm to 7:40 am the following
+day.  GE 4.  The Judge’s analysis does not adequately explain why these violations do not cast
+lingering doubt on her judgment and reliability.  Moreover, the Judge does not explain in what sense
+Applicant’s negligence is mitigating, in light of his application of disqualifying condition 34(h).  The
+Judge’s mitigation and whole-person analyses fail to articulate a satisfactory explanation for his
+ultimate conclusion and fail to consider important aspects of the case.  Given the totality of the
+record evidence, the decision as it stands is not sustainable.
+We conclude that the best resolution of this appeal is to remand the case to the Judge for a
+new decision that corrects the errors raised above.     
+Order
+The Decision is REMANDED.    
+Signed: Michael Y. Ra’anan         
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett              
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Dissenting Opinion of Administrative Judge James E. Moody
+I agree with my colleague’s discussion of the errors contained in the Judge’s decision.
+However, I conclude that the record will not support a favorable result, in light of the heightened
+scrutiny appropriate to security violation cases.  I would reverse the Judge’s decision.
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board

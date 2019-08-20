@@ -1,0 +1,487 @@
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of:                                            )
+                                                                     )
+---------------------------------- )       ISCR Case No. 14-01465
+)
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Eric Borgstrom, Esq.,  Department Counsel
+For Applicant: Christopher Graham, Esq.
+______________
+ Decision
+______________
+WESLEY, Roger C., Administrative Judge:
+Based upon a review of the pleadings, exhibits, and testimony, I conclude that
+Applicant mitigated the security concerns regarding handling protected information and
+personal conduct. Eligibility for access to classified information is granted.  
+ 
+History of Case
+On February 20, 2015, the Department of Defense (DOD) Consolidated
+Adjudication Facility (CAF), issued a Statement of Reasons (SOR) to Applicant detailing
+why DOD adjudicators could not find that it is clearly consistent with the national interest
+to grant or continue a security clearance for Applicant and recommended referral to an
+administrative judge to determine whether it is clearly consistent with the national interest
+to grant or continue whether clearance should be granted, continued, denied, or revoked.
+The actions were taken under Executive Order 10865, Safeguarding Classified
+Information Within Industry (February 20, 1960), as amended, DOD Directive 5220.6,
+Defense Industrial Personnel Security Clearance Review Program (January 2, 1992), as
+amended (Directive); and the Adjudicative Guidelines (AG)s) implemented by DOD on
+September 1, 2006. 
+2
+Applicant responded to the SOR on April 1, 2015, and requested a hearing. The
+case was assigned to me on January 19, 2016, and was scheduled for hearing on
+February 3, 2016. A hearing was held on the scheduled date for the purpose of
+considering whether it would be clearly consistent with the national interest to grant,
+continue, deny, or revoke Applicant’s security clearance.  At hearing, the Government's
+case consisted of five exhibits (GEs 1-5); Applicant relied on one witness (himself) and
+three exhibits (AEs A-C). The transcript (R.T.) was received on February 11, 2016.
+                                                                
+Summary of Pleadings
+Under Guideline K, Applicant allegedly (a) violated his employer’s corporate policy
+and Chapter 5 of the National Industrial Security Policy Manual (NISPOM) by bringing
+his uncleared wife into his employer’s closed storage space in October 2012 and (b)
+transmitted an email containing classified information in 2006 over an unclassified
+system. Under Guideline E, Applicant allegedly had multiple extra-marital affairs without
+disclosing them to his wife. 
+In his response to the SOR, Applicant admitted the allegations contained in
+subparagraphs 1.a and 1.b with explanations. He claimed he self-reported the October
+2012 incident covered in subparagraph 1.a. This incident involved Applicant’s bringing
+his wife into his employer’s closed storage space without advance management approval
+in accordance with the requirements of the NISPOM’s Chapter 5, which outlines the
+rules and procedures for accessing closed areas. He claimed he logged his wife into the
+employer’s abnormal hours log and visitor’s log and turned on the “red light” to apprise
+anyone that an uncleared person was in the area. 
+Applicant claimed he was confronted by a security guard as he was leaving the
+area and completed a visitor’s log to reflect their time of departure as his wife was
+escorted out of the area. Applicant claimed he was then instructed by the security guard
+to correct his failure to annotate his arrival in the employers abnormal hours arrival log
+before Applicant and his wife returned to the first floor where Applicant annotated their
+departure time in the visitor’s log before departing the building. Applicant further claimed
+he subsequently met with security personnel in October 2012 to review his actions in
+entering and departing the building and drafted a written account of the events.
+Additionally, Applicant claimed his actions constituted an isolated minimal incident that
+resulted in directed  remedial training for him.
+Addressing the allegations contained in subparagraph 1.b, Applicant claimed he
+twice self-reported the 2006 incident, both during his pre-screening questioning
+preceding a polygraph in October 2012, and again when he reviewed his security
+clearance application with an investigator conducting his periodic review. He claimed he
+immediately informed his company leadership of his code blue event and was told the
+same day that team investigators determined that (a) no uncleared personnel had
+attempted to gain access to the mail server prior to removal of his email and (b) no
+classified information had been removed.
+3
+In responding to the allegations in subparagraph 2.a of the SOR, Applicant
+admitted the allegations with explanations. He claimed he self-reported his infidelities
+(not affairs) on two occasions: in pre-screening questioning in October 2012, and when
+he reviewed his security clearance application with an investigator conducting a periodic
+review. Applicant claimed the cited infidelities occurred over 20 years ago (1988 and
+1995), and he has acknowledged his infidelities generally to his wife who expressed no
+interest in the details of his actions. 
+Findings of Fact
+Applicant is a 55-year-old director of electronic systems for a defense contractor
+who seeks a security clearance. The allegations covered in the SOR and admitted by
+Applicant are adopted as relevant and material findings. Additional findings follow.
+Applicant’s background
+Applicant married in December 1985 and has three children from this marriage,
+ages 20 and 22. (GE 1; Tr. 25-26) He earned a bachelor’s of science degree in
+engineering in December 1983 and a master’s degree on operations research in May
+1997. (GE 1; Tr. 22) 
+Applicant was commissioned as an Air Force (AF) officer after completing his
+university’s Reserve Officer’s Training Corps program (ROTC) in May 1984 and served
+as an active duty AF officer between May 1984 and June 2005. He received an
+honorable discharge in June 2005. (GEs 1 and 5) He claimed no post-discharge reserve
+service in the Air Force. Applicant’s service awards included a Bronze Star for his
+service while in a combat zone. (Tr. 23)
+Since November 2010, Applicant has been employed by his current employer.
+(GE 1) Between February 2009 and November 2010, he was employed as a senior
+operations research analyst for another defense contractor. (GE 1) And between March
+2005 and February 2009, he was employed as an operations research analyst. (GE 1;
+Tr. 24-25) 
+Applicant’s Handling of Protected Information
+While working as an operations research analyst in 2006, Applicant had access to
+sensitive compartmented information (SCI) with another government agency. (GE 2)
+While working on a company project in the Spring of 2006, he inadvertently transmitted
+an email to four or five team members (including his study lead, an AF GS-14) over an
+unclassified system that contained two unclassified pieces of information that when
+linked together to associate a code number with a region of the world transformed the
+email into a emailed message that was collaterally secret. (AE B; Tr. 37-38) 
+Applicant’s emailed information was caught immediately by his study lead who
+proceeded to instruct Applicant and the other recipients to shut down their computers.
+(Tr. 38) While the computers were shut down, company information technology (IT)
+4
+specialists certified their findings. (GE 5; Tr. 38-39, 43 ) The company’s IT specialists, in
+turn, sanitized the computers and checked to see if anyone outside the firewall had
+gained or tried to penetrate the firewall. (Tr. 38-39) Conclusions were drawn by IT
+specialists that no information in Applicant’s email was compromised. (Tr. 39-40)
+By Applicant’s account of the 2006 incident in his September 2013 interview with
+an agent of the Office of Personnel Management (OPM), no one else had access to his
+email, inside or outside the facility, and no one gained access to the emailed information.
+(GE 5; Tr. 39-41) Applicant assured the OPM agent that nothing was compromised. (GE
+5) As the result of his email transmission mistake, he was required to complete a 90-
+minute security training program. (GE 5) He received no written reprimand or discipline
+and was retained by his supervisors on his assigned job. (Tr. 39-41) 
+In October 2012, Applicant accompanied his wife into his employer’s closed
+storage space. His wife once held a NATO secret clearance, but since 1988 had been a
+stay-at-home mother with no technical background. Without prior approvals, Applicant
+and his wife entered the lobby of his employer by swiping his entry badge and proceeded
+to the lobby desk. (GE 5) At the lobby desk, Applicant filled out a visitor’s log and
+proceeded to the elevator with his wife. (GE 5) Applicant was not asked to fill out an
+irregular hours log, did not do so, and was not challenged by any security officer. (GE 5;
+Tr. 27) Neither Applicant nor his wife (without a visitor’s badge) were challenged by
+security personnel. 
+Once on the floor of his lab facility, Applicant opened the door to his facility,
+checked the area, turned on the “red light” to alert others in the building of his presence,
+and proceeded to show his wife the threat analysis laboratory. (GE 5; Tr. 28) His wife
+observed but did not enter the area. Without entering his personal offices, she was able
+to observe his displayed pictures. (GE 5; Tr. 29)
+At no point was Applicant’s wife exposed to classified information or corporate
+proprietary data. A security guard monitored applicant’s exit movements and informed
+him that he was in possible violation of company procedures and policies, and
+proceeded to take down personal information of Applicant’s wife. (GE 5; Tr. 29) As
+Applicant completed the visitor’s log, the security guard escorted his wife out of the
+building. (GE 5) Before Applicant departed the building, the security guard asked
+Applicant to complete the irregular hours log.  (GE 5; Tr. 30) After dropping his wife off at
+the airport, he returned to his work site and completed the irregular hours log. (GE 5) He
+also informed his supervisor of his potential security violation and secured his office area
+before departing the building. (GE 5)
+In an ensuing pre-polygraph interview in October 2012 with an agent of the
+National Security Agency (NSA), Applicant acknowledged his failure to follow company
+procedures in escorting his wife to his secure work area. Based on his past military
+experience, he did not think at the time that bringing his wife into a secure area
+presented a security issue. (GE 5) 
+5
+Applicant’s contractor program security officer (CPSO) in his report classified it as
+an honest mistake by a new employee who was unfamiliar with his employer’s corporate
+policy. (GE 5) Applicant reassured the OPM agent that he was unaware of the National
+Industrial Security Policy Manual (NISPOM) and his employer’s corporate policy on
+completing an irregular hours log before entering a secured area with a visitor. (Tr. 26-
+27) In turn, he escorted his wife into the facility’s secured area in the mistaken belief that
+he had inherent authority to do so. (Tr. 26-27)  
+Based on multiple accounts of Applicant’s October 2012 spousal entry incident,
+Applicant was neither suspended nor administered disciplinary action by his employer.
+He was verbally counseled and instructed by his three supervisors to make sure the
+incident is not repeated. (GE 5 and AE B) And he was asked to provide a written account
+of the events, which he provided. (Tr. 30-31) Applicant’s supervisors told Applicant they
+considered the incident involving his wife’s entry into a secured area to be an honest
+mistake and a minor incident, but “not deliberate or negligent in nature.” (AE B; Tr. 32) 
+Applicant’s supervisors distinguished deliberate violations from negligence
+resulting from poor due diligence and characterized Applicant’s escorting his wife into a
+closed area to represent neither of the above, but rather an honest mistake. His
+supervisors stressed that he has owned up to his mistake and taken corrective action to
+address it. (AE B) For his mistake in escorting his wife into his facility without meeting
+visitor requirements, he received a verbal reprimand, but not a written reprimand. (AE B;
+Tr. 62-63)
+Still, reports of Applicant’s escorting incident with his wife produced an ensuing
+investigation by the responsible federal agency (NSA). Following its investigation, the
+agency suspended Applicant’s access to SCI. After initially declining an appeal,
+Applicant asked for reconsideration in February 2013. (GE 2) 
+Assessing the merits of the appeal, the deputy chief of Applicant’s agency (the
+NSA) overturned Applicant’s denied SCI access in July 2013. (GE 3) After reviewing the
+record in its entirety, the chief of his agency affirmed the deputy chief’s decision, treated
+Applicant’s violations as mistakes, and restored his opportunity to continue processing.
+(GE 4) Neither decision addressed Applicant’s eligibility to hold a collateral clearance.
+Currently, Applicant is cleared through all four compartments of SCI: SI, TK,
+Gamma, and HCS through a federal agency contract (Tr. 34), and has never been fully
+briefed  on the NISPOM’s visitor policies or his company’s corporate visitor policies. (Tr.
+30-31) He has received no written reprimands from his employer. He assured that he
+was never briefed on NISPOM’s visitor policies when he joined his current employer’s
+corporate staff. Following the incident, he was verbally instructed on the visitation
+infraction by his supervisors, totally briefed on his employer’s visitor’s policy, and has
+had no recurrent incidents since the 2012 visitation incident. (Tr. 62) 
+Based on his own experiences associated with the 2012 visitation incident,
+Applicant developed some Power Point slides for his team. (Tr. 64) His slides walked his
+team through his employer’s corporate policy and Chapter 5 of the NISPOM covering
+6
+visitation procedures. His slides were later incorporated in his employer’s operating
+procedures. (AE B; Tr. 64-65)
+Infidelity Issues
+Between 1988 and 1995, Applicant engaged in multiple infidelities (12 to 18 in all)
+of a sexual nature. (GE 5; Tr. 47-48) All of the women involved were consenting adults
+over the age of 18 who were unknown to his wife. (Tr. 49) Applicant was never charged
+with any offense under the Uniform Code of Military Justice (UCMJ) and was never
+reprimanded by his command. (Tr. 48)
+Applicant discussed his infidelities with his wife in July 1995, but not his children
+or the rest of his family members. (Tr. 57-58) After receiving an ultimatum from his wife
+to cease or risk compromising their marriage, he enrolled in a joint course of marital
+counseling with his pastor and associate pastor (who counseled his wife) in a concerted
+effort to restore his wife’s trust. (Tr. 50-54) 
+Based on the advice of his pastor and off-base former AF flight surgeon he
+consulted, Applicant has generally avoided sharing any of the details of his indiscretions
+with his wife. (Tr. 53-56) His pastor, an ordained Presbyterian minister and a licensed
+clinical professional counselor (LCPC) who specializes in marriage and family therapy,
+verified Applicant’s consultations with him (dates not specified) for the purpose of
+addressing discord with his wife and infidelity in their marital relationship. (AE B) 
+Applicant’s counseling sessions with his pastor consisted of home assignments
+and demonstrated on-going commitments to the work of reconciling with his wife. His
+pastor credited him with being transparent, forthcoming, and candid in his responses to
+questions and confirmed his advice to Applicant not to disclose specific details about his
+sexual infidelity to his wife. (AE B) 
+In 2002, Applicant and his wife celebrated their 30  wedding anniversary.  (AE A)th
+Although he  continues to struggle with guilt from his infidelities (especially when he sees
+a certain female celebrity on television), he has steadfastly avoided any physical
+infidelities since 1995. (Tr. 61) Informed generally of Applicant’s infidelities, Applicant’s
+wife expressed no interest in knowing the details of Applicant’s indiscretions that
+occurred over 20 years ago. (AE A; Tr. 61) 
+Applicant’s indiscretions are fully known to his former supervisors and others who
+have executed endorsement letters for Applicant. (AE B; Tr. 58) Although, Applicant has
+not yet informed his newest supervisor of three months of his marital indiscretions. (Tr.
+59) Further, he has not disclosed his infidelities to his children or the rest of his family
+members.  (Tr. 57-58)
+Endorsements
+Past managers and supervisors expressed familiarity with Applicant’s past
+security violations and fidelity issues and characterized his overall judgment and
+7
+reliability as excellent in following security procedures. Both his current contractor CPSO
+and previous supervisor of five years (November 2010 to April 2015) credit Applicant
+with using exceptional caution and due diligence when handling classified information.
+They cited his considerable contributions to his team’s security posture and express
+confidence in his ability to continue to take corrective actions to avoid future mistakes in
+safeguarding classified information. (AE B) 
+ An assigned AF civilian and retired AF officer, who worked with Applicant
+between 2003 and 2009, is familiar with Applicant’s linking two unclassified statements
+that together made his 2006 texted email message classified, confirmed that no
+classified information was compromised. She vouched for Applicant’s reliability and
+trustworthiness and advised his leadership team that Applicant was expected to remain
+on the contract. (AE B) She credited Applicant with accepting full responsibility for his
+mistake and found his performance to consistently “exceed” or “far exceed” expectations.
+(AE B) She assured that she has never had reason to question his ability or judgment,
+and never questioned her professional trust in him on any level. 
+Policies
+The AGs for Determining Eligibility for Access to Classified Information (effective
+September 2006) list Guidelines to be considered by administrative judges in the
+decision making process covering DOHA cases. These Guidelines require the
+administrative judge to consider all of the "Conditions that could raise a security concern
+and may be disqualifying” (Disqualifying Conditions), if any, and all of the "Mitigating
+Conditions," if any, before deciding whether or not a security clearance should be
+granted, continued or denied. 
+In addition to the relevant AGs, administrative judges must take into account the
+pertinent considerations for assessing extenuation and mitigation set forth in AG ¶ 2(a)
+of the AGs, which are intended to assist the judges in reaching a fair and impartial
+commonsense decision based upon a careful consideration of the pertinent guidelines
+within the context of the whole person. 
+The adjudicative process is designed to examine a sufficient period of an
+applicant’s life to enable predictive judgments to be made about whether the applicant is
+an acceptable security risk. The following AG ¶ 2(a) factors are pertinent: (1) the nature,
+extent, and seriousness of the conduct; (2) the circumstances surrounding the conduct,
+to include knowledgeable participation; (3) the frequency and recency of the conduct; (4)
+the individual’s age and maturity at the time of the conduct; (5) the extent to which
+participation is voluntary; (6) the presence or absence of rehabilitation and other
+permanent behavioral chances; (7) the motivation for the conduct; (8) the potential for
+pressure, coercion, exploitation, or duress; and (9) the likelihood of continuation or
+recurrence.
+Viewing the issues raised and evidence as a whole, the following adjudication
+policy factors are pertinent herein:
+8
+Handling Protected Information
+The Concern: Deliberate or negligent failure to comply with rules and regulations
+for protecting classified or other sensitive information raises doubt about an individual’s
+trustworthiness, judgment, reliability, or willingness and ability to safeguard such
+information, and is a serious security concern. 
+Personal Conduct
+The Concern: Conduct involving questionable judgment, untrustworthiness,
+unreliability, lack of candor, dishonesty, or unwillingness to comply with rules and
+regulations can raise questions about an individual’s reliability, trustworthiness and
+ability to protect classified information.  Of special interest is any failure to provide
+truthful and candid answers during the security clearance process or any other
+failure to cooperate with the security clearance process.  AG, ¶ 15.
+Burden of Proof
+By virtue of the precepts framed by the Directive, a decision to grant or
+continue an Applicant's request for security clearance may be made only upon a
+threshold finding that to do so is clearly consistent with the national interest.
+Because the Directive requires administrative judges to make a common sense
+appraisal of the evidence accumulated in the record, the ultimate determination of
+an applicant's eligibility for a security clearance depends, in large part, on the
+relevance and materiality of that evidence. As with all adversary proceedings, the
+Judge may draw only those inferences which have a reasonable and logical basis
+from the evidence of record. 
+The Government's initial burden is twofold: (1) it must prove any
+controverted fact[s] alleged in the Statement of Reasons, and (2) it must
+demonstrate that the facts proven have a material bearing to the applicant's
+eligibility to obtain or maintain a security clearance.  The required showing of
+material bearing, however, does not require the Government to affirmatively
+demonstrate that the applicant has actually mishandled or abused classified
+information before it can deny or revoke a security clearance. Rather,
+consideration must take account of cognizable risks that an applicant may
+deliberately or inadvertently fail to safeguard classified information.
+Once the Government meets its initial burden of proof of establishing
+admitted or controverted facts, the burden of proof shifts to the applicant for the
+purpose of establishing his or her security worthiness through evidence of
+refutation, extenuation or mitigation of the Government's case.
+Analysis
+Applicant is a well-regarded electronic systems director who committed two
+security violations that draw security concern: one in 2006 and another in 2012.
+9
+For each of these violations he received a verbal reprimand, but nothing in writing.
+Both his supervisors and NSA officials characterized his actions as mistakes and
+not intentional or negligence in nature. Also of security concern are admitted
+Applicant infidelities (12 to 18 in all) over a 10-year period spanning 1985 and
+1995. These acknowledged infidelities draw security concerns due to his failure to
+disclose the details of his infidelities to his wife. 
+Handling Protected Information
+Applicant’s mistaken transmission of emailed classified information over an
+unclassified system in 2006 and subsequent escorting of his wife in 2012 into a
+secured space without completing a required irregular hours log in violation of his
+company’s corporate policy and Chapter 5 of the NISPOM raise security concerns
+under the handling of protected information guideline. Multiple disqualifying
+conditions covered by Guideline K apply to Applicant’s situation based on the
+developed facts. Potentially applicable are the following disqualifying conditions of
+DC. ¶ 34: DC ¶ 34(a), “deliberate or negligent disclosure of classified or protected
+information to unauthorized persons, including but not limited to personal or
+business contacts, to the media, or to persons present at seminars, meetings, or
+conferences;” DC ¶ 34(g), “any failure to comply with rules for the protection of
+classified or other sensitive information;” and DC ¶ 34(h), “negligence or lax
+security habits that persist despite counseling by management. “ 
+Under his company’s corporate visitor’s policy, Chapter 5 of the NISPOM,
+and the Directive’s security violation guideline in force, persons responsible for
+safeguarding classified and protected information in their custody and control are
+required to avoid transmission of classified information over unsecured systems
+and comply with comply with security policies in place designed to protect
+classified and sensitive information.  
+Applicant’s governing corporate visitation policy in place required
+employees escorting visitors into secured areas (in this case Applicant’s wife)
+during irregular hours to complete both the visitors log and the irregular hours log
+before proceeding to a secure area. While more general in scope, the NISPOM
+provides baseline standards for the protection of classified information released or
+disclosed to industry in connection with classified contracts under the NISP.
+Originally issued in January 1995, the NISPOM was reissued in February 2006
+pursuant to Executive Order 12829 and under the authority of DOD Directive
+5220.22-M. Chapter 5, Sections 305 and 306 of the NISPOM cover restricted
+areas that require authorized personnel to challenge all persons who may lack
+appropriate access authority. Closed areas must receive supplemental protection
+during non-working hours. (Ch. 5-306, supra)
+The importance of safeguarding classified and protected information cannot
+be overemphasized. Protecting the nation’s security interests against the risks of
+foreign coercion and intimidation remains a core governmental responsibility that
+10
+finds roots in our earliest Constitutional  history and enjoys the sustaining force of
+the courts. Cf. United States v. Curtiss-Wright Corp., 299 U.S. 304, 319-20 (1936).
+Or put in geopolitical terms, national security policy implies a state of continuing
+readiness to take the necessary steps to maintain our national independence. Cf.
+H. Lasswell, National Security and Individual Freedom 51 (1950, reprinted 1971).  
+What is to be weighed in this case are the actions of Applicant in his
+inadvertent transmitting of classified information in 2006 to four recipients over an
+unsecured network system and later escorting his wife into a closed area in 2012
+without completing the required irregular hours log in compliance with his
+company’s corporate policy and the NISPOM. What is at stake in the ultimate
+balancing process is a weighted assessment of whether Applicant’s mistakes are
+fully reconcilable with his company’s corporate security policy, the NISPOM, and
+the constraints of Guideline K.
+To his credit, Applicant has exhibited remorse and renewed understanding
+about the importance of safeguarding classified and other protected information in
+his custody and control and complying with his employer’s visitation policies in
+place. His acceptance of counseling from his supervisors following both incidents,
+his ensuing development of training slides for his team members that address his
+company’s corporate security policies, his meeting requirements for holding higher
+level security clearances, his avoidance of any other security violations, his
+contributions to his employer, and his exhibited renewed commitments to
+protecting classified information all weigh heavily in Applicant’s favor. 
+Based on Applicant’s overall track record to date in handling protected
+information in his possession and control, his expressed remorse, and his lack of
+any known recurrent violations in over four and a half five years, Applicant merits
+significant mitigation consideration. His cited mistakes compel careful
+consideration of all of the facts surrounding the two incidents in issue in 2006 and
+2012. Considering the absence of any proven intent or negligence involved in the
+incidents and the lack of risks of recurrence in the foreseeable future, safe
+predictions of Applicant’s avoiding similar incidents in the foreseeable future can
+be made at this time. Applicable to the facts of Applicant’s case is  MC ¶ 35(a), “so
+much time has elapsed since the behavior, or it has happened so infrequently or
+under such unusual circumstances, that it is unlikely to recur and does not cast
+doubt on the individual’s current liability, trustworthiness, or good judgment.
+From a whole-person perspective, Applicant has established a good
+relationship of trust with his direct supervisors over many years of close working
+relationships. He has been credited by his supervisors and coworkers with
+conscientious work ethics. His supervisors’ assessments of his judgment,
+reliability, and trustworthiness reflect accurate, thorough, and complete work
+assignments that met the expectations of his team leaders. These are qualities that
+serve him well in fulfilling his fiducial responsibilities in protecting accessed
+protected information.
+11
+Taking into account all of the circumstances surrounding Applicant’s
+recurrent mistaken actions in 2006 and 2012 and ensuing demonstration of
+remorse and correction actions taken to avoid any recurrences, Applicant mitigated
+the Government’s security concerns. Favorable conclusions warrant with respect
+to the allegations covered by subparagraphs 1.a and 1.b of  Guideline K.
+Personal Conduct Concerns
+Security concerns are raised as well over Applicant’s failure to disclose all of
+the details of 12 to 18 extra-marital infidelities or affairs he admitted to between
+1985 and 1995. Because Applicant has not disclosed the details of his infidelities
+to his wife, some application of DC ¶ 16(e), “personal conduct, or concealment of
+information about one’s conduct, that creates a vulnerability to exploitation,
+manipulation, or duress, such as (1) engaging in activities which, if known, may
+affect the person’s personal, professional, or community standing . . . ,” is
+warranted. 
+Department Counsel cited to several Appeal Board cases covering non-
+disclosed infidelities that could place the applicant at risk to exploitation,
+manipulation, or duress. In ISCR Case No, 13-00255 at 2-3 (App. Bd. July 9,
+2014), the Appeal Board confirmed the administrative judge’s finding that the
+applicant’s wife was unaware of the applicant’s 2007 extra-marital affair.  Under
+these circumstances, the Appeal Board concluded that the applicant remained
+vulnerable to coercion and duress. This case is distinguishable from the facts in
+Applicant’s case, where the cited infidelities are not only much older, but spousal
+and supervisor disclosures are evident.
+In ISCR Case No 09-01896 at 2-3 (App. Bd. Apr. 29, 2010), Applicant told
+his current spouse about his 10-year affair while married to his former spouse, but
+did not tell her of his other affairs while married to his former spouse. Nor did he
+tell his former military or civilian  supervisors of his extra-marital sexual behavior.
+Adverse inferences were drawn by the administrative judge and sustained by the
+Appeal Board of Applicant’s continued risk of exposure to coercion or duress. By
+contrast, Applicant generally disclosed his prior infidelities to his wife and
+supervisors, omitting only the specific details of his indiscretions. 
+In a still older case, the Appeal Board sustained a trial judge’s finding that
+the applicant had not disclosed his extra-marital affairs to his wife. With these
+facts, The Appeal Board sustained the trial judge’s finding that Applicant’s withheld
+information from his wife about his infidelities exposed him to continued
+vulnerability to coercion and duress. See ISCR Case No, 97-07524-5 (App. Bd.
+December 4, 1998). This case, too, can be distinguished from the facts in
+Applicant’s case, which include unchallenged general disclosures to his wife and
+supervisors, which lacked only the specific details.
+12
+Under the facts and circumstances of Applicant’s case, Applicant disclosed
+his infidelities to his wife as far back as 1995 without disclosing the details of his
+extra-marital indiscretions. After counseling with his pastor, an ordained
+Presbyterian minister and LDPC, who specializes in marriage and family therapy,
+Applicant accepted his counselor’s advice not to disclose specific details about his
+sexual infidelity to his wife.  
+Applicant and his wife have since celebrated their 30  wedding anniversaryth
+and have strengthened their wedding vows. While he still struggles some with
+lustful thoughts, he has remained loyal to his wife and has not engaged in any
+sexual or physical affairs in over 20 years. MC ¶ 17(e), “the individual has taken
+positive steps to reduce or eliminate vulnerabilities, exploitation, manipulation, or
+duress,” fully applies.
+From a whole-person perspective, Applicant’s overall disclosure efforts with
+his wife and supervisors are persuasive and are based not only on his own best
+instincts, but the advice of his counselor, and wife. Applicant has compiled
+meritorious performance records in both his military service and civilian
+employments in the defense industry. 
+Applicant’s past supervisors and CPSO who have worked with him and are
+familiar with his work and past mistakes all credit him with excellent overall
+judgment and reliability in following security procedures. Further,  both his
+professional counselor and wife credit him with restored trust and renewed
+commitment to his marriage vows. 
+Considering all of the circumstances surrounding Applicant’s past marital
+infidelities, expressed remorse, and steps he has taken to restore his wife’s trust in
+his renewed marriage commitments, Applicant mitigated the Government’s security
+concerns over his past marital infidelities. Favorable conclusions warrant with
+respect to the allegations covered by subparagraph 2.a  of  Guideline E.
+Formal Findings
+In reviewing the allegations of the SOR in the context of the findings of fact,
+conclusions, and the factors and conditions listed above, I make the following
+separate formal findings with respect to Applicant's eligibility for a security
+clearance.
+GUIDELINE K:                                                     FOR APPLICANT
+Subparas. 1.a-1.b:             For  APPLICANT
+GUIDELINE E:                                                     FOR APPLICANT
+subpara. 2.a:                                             For Applicant     
+13
+Conclusions
+In light of all the circumstances presented by the record in this case, it is
+clearly consistent with the national interest to grant or continue Applicant’s security
+clearance. Clearance is granted.
+                                  
+Roger C. Wesley
+Administrative Judge

@@ -1,0 +1,570 @@
+1 
+       DEPARTMENT OF DEFENSE 
+   DEFENSE OFFICE OF HEARINGS AND APPEALS 
+In the matter of: )
+)
+) ISCR Case No. 18-01873 
+) 
+Applicant for Security Clearance ) 
+Appearances 
+For Government: Michelle Tilford, Esq., Department Counsel 
+For Applicant: Pro se 
+______________ 
+Decision 
+______________ 
+KILMARTIN, Robert J., Administrative Judge: 
+Applicant mitigated the security concerns under Guideline F, financial 
+considerations, and Guideline B, foreign influence. Applicant’s eligibility for access to 
+classified information is granted. 
+     Statement of the Case 
+Applicant submitted a security clearance application (SCA) on October 7, 2016. 
+On September 26, 2018, the Department of Defense Consolidated Adjudications Facility 
+(DOD CAF) issued Applicant a Statement of Reasons (SOR) detailing security concerns 
+under Guideline F, financial considerations. An amended SOR, was subsequently 
+issued under Guideline F, alleging a child-support arrearage, and under Guideline B, 
+foreign influence. The DOD CAF acted under Executive Order (EO) 10865, 
+Safeguarding Classified Information within Industry (February 20, 1960), as amended; 
+DOD Directive 5220.6, Defense Industrial Personnel Security Clearance Review 
+Program (January 2, 1992), as amended (Directive); and the adjudicative guidelines 
+(AGs) implemented by DOD on June 8, 2017. 
+Applicant timely answered the SOR with a detailed six-page answer, admitting 
+that at one time he owed most of the delinquent debts alleged, but he has since 
+03/15/2019
+ 
+2 
+ 
+ 
+resolved all but two of the alleged delinquencies. He attached documentary evidence to 
+his Answer with explanations. Applicant answered the amended SOR on February 17, 
+2018, denying the allegation at SOR ¶ 1.i and admitting the allegation at SOR ¶ 2.a. 
+The case was assigned to me on January 30, 2019. The Defense Office of Hearings 
+and Appeals (DOHA) notified Applicant that the hearing was scheduled for February 26, 
+2019. I convened the hearing as scheduled.  
+ 
+The Government’s Exhibits (GE) 1 through 10 were admitted into evidence 
+without objection. At the hearing, Applicant testified and submitted Applicant’s Exhibits 
+(AE) A through P, which were admitted without objection. The transcript (Tr.) was 
+received at DOHA on March 6, 2019.  
+ 
+Request for Administrative Notice 
+ 
+Department Counsel submitted a written request that I take administrative notice 
+of certain facts about China or the Peoples Republic of China (PRC). The request and 
+the attached source documents were not admitted into evidence, but were included in 
+the record as Hearing Exhibit (HE) I.  
+ 
+The request listed supporting documents to show detail and context for those 
+facts. AG ¶ 6, Foreign Influence, provides, “Adjudication under this Guideline can and 
+should consider the identity of the foreign country in which the foreign contact or 
+financial interest is located, including, but not limited to, such considerations as whether 
+the foreign country is known to target United States citizens to obtain protected 
+information and/or is associated with a risk of terrorism.” A risk assessment in this case 
+necessitates administrative notice of facts concerning the PRC.  
+ 
+Administrative or official notice is the appropriate type of notice used for 
+administrative proceedings. See ISCR Case No. 05-11292 at 4 n.1 (App. Bd. Apr. 12, 
+2007); ISCR Case No. 02-24875 at 2 (App. Bd. Oct. 12, 2006) (citing ISCR Case No. 
+02-18668 at 3 (App. Bd. Feb. 10, 2004) and McLeod v. Immigration and Naturalization  
+Service, 802 F.2d 89, 93 n.4 (3d Cir. 1986)). Usually administrative notice at ISCR 
+proceedings is accorded to facts that are either well known or from government reports. 
+See Stein, ADMINISTRATIVE LAW, Section 25.01 (Bender & Co. 2006) (listing fifteen types 
+of facts for administrative notice).  
+ 
+Applicant did not object, and I have taken administrative notice of the facts 
+contained in the HE I source documents, and incorporated them by reference. The facts 
+are summarized in the written request and will not be repeated in this decision. 
+However, of particular note, are the following salient facts gleaned from HE 1. 
+ 
+PEOPLE'S REPUBLIC OF CHINA 
+ 
+The National Counterintelligence Executive has identified China and Russia as 
+the most aggressive collectors of U.S. economic information and technology. China's 
+intelligence services, as well as private companies and other entities, frequently seek to 
+ 
+3 
+ 
+ 
+exploit Chinese citizens or persons with family ties to China, who can use their insider 
+access to corporate networks to steal secrets using removable media devices or e-mail. 
+ 
+ In assessing the military and security developments in China, the DOD has 
+reported that: Chinese actors are the world's most active and persistent perpetrators of 
+economic espionage. Chinese attempts to collect U.S. technological and economic 
+information will continue at a high level and will represent a growing and persistent 
+threat to U.S. economic security. The nature of the cyber threat will evolve with 
+continuing technological advances in the global information environment. Chinese 
+leaders are focused on developing the capabilities they deem necessary to deter or 
+defeat adversary power projection and counter third-party, including U.S., intervention 
+during a crisis or conflict. China's military modernization is producing capabilities that 
+have the potential to reduce core U.S. military technological advantages. 
+ 
+Further, the DOD found that China very likely uses its intelligence services and 
+employs other illicit approaches that violate U.S. laws and export controls to obtain key 
+national security and export-restricted technologies, controlled equipment, and other 
+materials unobtainable through other means. China is using its cyber capabilities to 
+support intelligence collection against the U.S. diplomatic, economic, and defense- 
+industrial base sectors that support U.S. national defense programs. China uses state-
+sponsored industrial and technical espionage to increase the level of technologies and 
+expertise available to support military research, development, and acquisition. 
+ 
+The organizational network of China's military-industrial complex is such that the 
+People's Liberation Army (PLA) is able to access sensitive and dual-use technologies or 
+knowledgeable experts under the guise of civilian research and development. China has 
+in place a long-term, comprehensive military-modernization program designed to 
+improve its armed forces' capacity to fight short-duration, high-intensity regional conflicts 
+and, as China's global footprint and international interests grow, its military 
+modernization program has become progressively more focused on investments for a 
+range of missions beyond China's periphery. 
+ 
+In assessing the national-security implications of the bilateral trade and economic 
+relationship between the U.S. and China, the U.S.-China Economic and Security 
+Review Commission has reported: Since at least the mid-2000s, the Chinese 
+government has conducted large-scale cyber-espionage against the United States. 
+China has compromised a range of U.S. networks, including those of DoD, defense 
+contractors, and private enterprises. China's material incentives for continuing this 
+activity are immense and unlikely to be altered by small scale U.S. actions. China's 
+progress modernizing its defense industry is due in large part to China's substantial and 
+sustained investment in defense research and development (R&D). China's large-scale, 
+state-sponsored theft of intellectual property and proprietary information also has 
+allowed China to fill knowledge gaps in its domestic defense and commercial R&D. 
+ 
+With respect to human rights concerns observed in China, the U.S. Department 
+of State reported: The People's Republic of China (PRC) is an authoritarian state in 
+ 
+4 
+ 
+ 
+which the Chinese Communist Party (CCP) is the paramount authority. CCP members 
+hold almost all top government and security apparatus positions. Repression and 
+coercion have markedly increased recently, particularly against organizations and 
+individuals involved in civil and political rights advocacy, and public interest and ethnic 
+minority issues, and against law firms that took on sensitive cases. 
+ 
+Human rights concerns that were observed included: extralegal measures to 
+prevent public expression of critical opinions; repression of free speech, religion, 
+association, assembly and movement for certain minorities; extrajudicial killings; 
+enforced disappearance and incommunicado detention, including prolonged detentions 
+in "black jails;" torture and coerced confessions of prisoners; detention and harassment 
+of individuals who sought to peacefully exercise their rights under the law; a lack of due 
+process; searches of premises without warrants; monitoring of communications; 
+opening of domestic and international mail; as well as severe restrictions on citizens' 
+freedom of association and free speech.  
+ 
+  Findings of Fact1 
+ 
+Applicant is 56 years old. He married in 1994 and divorced in 2011. (Tr. 35) 
+Applicant was married previously from 1985 to 1990, and he has two adult children from 
+that marriage. He has been cohabitating for two years with a Chinese national, who 
+recently applied for citizenship in the United States. (Tr. 36) She has a green card. 
+Applicant reported some college but no degree. (Tr. 39-40) He served honorably in  the 
+U.S. Navy from 1983 to 2004 and attained the rank of Chief Warrant Officer-3 (CWO-3). 
+He had an explosive ordnance disposal specialty rating and earned numerous awards 
+including three Meritorious Service Medals, several Naval Commendation Medals, and 
+Naval Achievement Medals. Applicant held security clearances for most of his career, 
+without incident. He previously worked as a security specialist (GS-15) for Department 
+of Homeland Security (DHS) from 2005 to 2010, and he is now employed by a federal 
+contractor helping to stand up the weapons of mass destruction office for DHS.  
+ 
+The SOR alleges delinquent debts totaling $28,537 plus a Chapter 7 bankruptcy 
+petition filed in 2014 that was dismissed three months later. The Amended SOR adds 
+an allegation of an arrearage to a state division of child support in the approximate 
+amount of $9,278. However, Applicant denies that alleged arrearage (SOR ¶ 1.i) and  
+there is no credible evidence to establish it. His ex-wife furnished an affidavit stating that 
+Applicant has timely paid all child support directly to her as required by the divorced 
+decree. No state agency was ever involved. (AE J) The Amended SOR also added a 
+Guideline B, foreign influence, allegation at ¶ 2.a. Applicant admitted most of the 
+allegations in his Answer to the SOR and attached documents demonstrating that he 
+has either resolved, or is in the process of resolving, all but two of the alleged debts.  
+ 
+                                                          
+1 Unless stated otherwise, the source of the information in this section is Applicant’s October 7, 2016, 
+security clearance application (SCA) (GE 2). 
+ 
+ 
+5 
+ 
+ 
+Applicant testified credibly that he traveled extensively for his job at DHS and 
+relied on his wife to pay their bills and handle the finances. (Tr. 72) When they started 
+having marital difficulties, he obtained his credit report in 2009, and realized that he did 
+not recognize many of the delinquent debts reflected. (Tr. 109) He requested validation 
+of the debts in accordance with the Fair Debt Collection Practices Act (FDCPA) and 
+attempted to settle them at a compromised amount, to no avail. (Tr. 110) It was 
+apparent that his ex-wife misused a general power or attorney, which Applicant 
+provided to her in his absence, and she ran up exorbitant credit-card debts. (Tr. 112) He 
+procured the services of a credit-repair agency, which was unhelpful. His divorce 
+became final in 2011.  
+ 
+Applicant submitted a matrix at his hearing that reflects settlement, or a payment 
+plan, for all but two of the alleged debts in the SOR. (AE P) He also provided 
+documentary substantiation in support of the matrix. SOR ¶ 1.a, a charged-off debt in 
+the amount of $17,971, was settled for $5,391 on December 18, 2018. (AE B and G) 
+SOR ¶ 1.b was a past-due debt to a bank in the amount of $1,161. Originally, Applicant 
+was informed that he was unable to pay on this joint account because his ex-wife had 
+included it in her Chapter 7 bankruptcy filing in 2013. (Tr. 50, 58) That bankruptcy made 
+it extremely difficult for Applicant to access the websites of creditors or negotiate 
+settlements. The past-due amount of $1,154 was paid via check on February 24, 2019. 
+(AE N) The account is now current. (Tr. 49-51) All of their accounts were held jointly due 
+to the hazardous nature of Applicant’s job. (Tr. 50) 
+ 
+In July 2018, before the SOR was issued, Applicant hired a second, more 
+reputable, credit-counseling agency. (Tr. 59-60) He did not know what some of the 
+delinquencies were for, or whether they had been included in his ex-wife’s bankruptcy 
+case. SOR ¶ 1.c was a debt placed for collection by a university in the amount of 
+$4,327. Applicant made eight payments of $100 from February 2018 through October 
+2018 and the university pulled the delinquency back from its collection agency in 2019. 
+It agreed to accept three payments of $2,300 over 90 days to settle it. Applicant 
+provided documentary evidence that he has made several payments in accordance with 
+that agreement. (AE L, M, O, Tr. 52-54)  
+ 
+SOR ¶ 1.d was a charged-off debt by a federal credit union in the amount of 
+$3,839. The account was settled via payment in the amount of $1,344 on December 18, 
+2018, and the balance is now zero. (AE C and H) SOR ¶ 1.e was a medical bill placed 
+for collection in the amount of $121. It resulted from an insurance dispute after Applicant 
+was hit by a drunk, uninsured, driver, while Applicant was operating a rental car. 
+Applicant testified credibly that his credit-counseling agency, and lawyers, made 
+repeated efforts to contact the creditor and it was unable to locate any account for 
+Applicant. Applicant logically believes it was paid by the insurance company or should 
+have been. (Tr. 55-56) Applicant tried to file a Chapter 7 bankruptcy petition pro se in 
+September 2014. It was dismissed in December 2014, as alleged in SOR ¶ 1.e, 
+because he missed a meeting and was unsure how to proceed with the process. (GE 4-
+6) He attempted to resolve the delinquencies run up by his ex-wife on his own.    
+ 
+ 
+6 
+ 
+ 
+SOR ¶ 1.g alleges a charged-off account in the amount of $674. Applicant’s 
+credit-counseling agency and law firm contacted the creditor and were unable to obtain 
+any account information. I trust that it no longer exists. Applicant used his GI bill 
+education benefits at an out-of-state institution. While he was away, he left virtually 
+everything that he owned, including guitars, amplifiers, bikes and shadow boxes –  
+Medals etc. in a storage facility. He fell behind on payments to the storage company, as 
+a struggling student enduring a divorce, and he received notice that his belongings 
+would be sold at auction due to a past-due amount of $444. (Tr. 63-64) He could not 
+attend the auction. He settled this debt alleged at SOR ¶ 1.h for $200 on January 25, 
+2019, despite that the company auctioned off his property, which had a value greatly 
+exceeding the $444 owed.   
+ 
+Applicant’s Chinese cohabitant came to the U.S. in 2009 with her deceased 
+husband who was a U.S. citizen. (Tr. 78) She took an exam for U.S. citizenship in 
+February 2019. (Tr. 39) They met on the match.com dating website in 2015. (Tr. 74) 
+She works as a massage therapist. (Tr. 93) Applicant testified that she never had any 
+affiliation with the Chinese government or intelligence services. She contacts her 
+parents in China using the “we-chat” application a few times each week. Applicant has 
+never met her parents or siblings, and they do not speak English.  (Tr. 84) She visits her 
+family in China once each year and stays for a month. (Tr. 99) Applicant professes his 
+love for his cohabitant. (Tr. 92)  
+   
+Applicant provided a copy of his impressive resume and two positive character 
+reference letters attesting to his integrity, trustworthiness, and reliability. He had 
+financial counseling first in 2009 with a credit-repair company, and again in 2014. He 
+has acquired no recent delinquent debts, and his financial situation is stable.  
+ 
+                                          Policies 
+ 
+ When evaluating an applicant’s suitability for a security clearance, the 
+administrative judge must consider the adjudicative guidelines. In addition to brief 
+introductory explanations, the adjudicative guidelines list potentially disqualifying 
+conditions and mitigating conditions, which are used in evaluating an applicant’s 
+eligibility for access to classified information. 
+ 
+These guidelines are not inflexible rules of law. Instead, recognizing the 
+complexities of human behavior, these guidelines are applied in conjunction with the 
+factors listed in the adjudicative process. The administrative judge’s overarching 
+adjudicative goal is a fair, impartial, and commonsense decision. According to AG, 
+Appendix A, ¶ 2(a), the adjudicative process is an examination of a sufficient period and 
+a careful weighing of a number of variables of an individual’s life to make an affirmative 
+determination that the individual is an acceptable security risk. This is known as the 
+“whole-person concept.” The administrative judge must consider all available, reliable 
+information about the person, favorable and unfavorable, in making a decision. 
+ 
+ 
+7 
+ 
+ 
+The protection of the national security is the paramount consideration. AG, 
+Appendix A, ¶ 2(b) requires that “[a]ny doubt concerning personnel being considered for 
+national security eligibility will be resolved in favor of the national security.” In reaching 
+this decision, I have drawn only those conclusions that are reasonable, logical, and 
+based on the evidence contained in the record. Likewise, I have avoided drawing 
+inferences grounded on mere speculation or conjecture. 
+ 
+Under Directive ¶ E3.1.14, the Government must present evidence to establish 
+controverted facts alleged in the SOR. Under Directive ¶ E3.1.15, an “applicant is 
+responsible for presenting witnesses and other evidence to rebut, explain, extenuate, or 
+mitigate facts admitted by applicant or proven by Department Counsel, and has the 
+ultimate burden of persuasion as to obtaining a favorable security decision.”  
+ 
+A person who seeks access to classified information enters into a fiduciary 
+relationship with the Government predicated upon trust and confidence. This 
+relationship transcends normal duty hours and endures throughout off-duty hours. The 
+Government reposes a high degree of trust and confidence in individuals to whom it 
+grants access to classified information. Decisions include, by necessity, consideration of 
+the possible risk that an applicant may deliberately or inadvertently fail to safeguard 
+classified information. Such decisions entail a certain degree of legally permissible 
+extrapolation as to potential risk of compromise of classified information. 
+ 
+       Analysis 
+ 
+Guideline F, Financial Considerations 
+ 
+The security concern relating to financial considerations is set out in AG ¶18:  
+ 
+Failure to live within one’s means, satisfy debts, and meet financial 
+obligations may indicate poor self-control, lack of judgment, or 
+unwillingness to abide by rules and regulations, all of which can raise 
+questions about an individual’s reliability, trustworthiness and ability to 
+protect classified or sensitive information. Financial distress can also be 
+caused or exacerbated by, and thus can be a possible indicator of, other 
+issues of personnel security concern such as excessive gambling, mental 
+health conditions, substance abuse, or alcohol abuse or dependence. An 
+individual who is financially overextended is at greater risk of having to 
+engage in illegal or otherwise questionable acts to generate funds.  
+ 
+This concern is broader than the possibility that an individual might knowingly 
+compromise classified information in order to raise money. It encompasses concerns 
+about an individual’s self-control, judgment, and other qualities essential to protecting 
+classified information. An individual who is financially irresponsible may also be 
+irresponsible, unconcerned, or negligent in handling and safeguarding classified 
+information. 
+ 
+ 
+8 
+ 
+ 
+AG ¶ 19 provides conditions that could raise security concerns. The following are 
+potentially applicable here:  
+ 
+(a) inability to satisfy debts;  
+ 
+(b) unwillingness to satisfy debts regardless of the ability to do so; and  
+ 
+           (c) a history of not meeting financial obligations.  
+ 
+ Applicant’s delinquent debts alleged in the SOR are confirmed by his credit 
+reports (except SOR ¶¶ 1.e and 1.i), answer to the SOR, and documents submitted at 
+the hearing. The Government produced substantial evidence to support the 
+disqualifying conditions in AG ¶¶ 19(a), 19(b), and 19(c), thereby shifting the burden to 
+Applicant to produce evidence to rebut, explain, extenuate, or mitigate the facts.2  
+ 
+The guideline also includes conditions that could mitigate security concerns 
+arising from financial difficulties. The following mitigating conditions under AG ¶ 20 are 
+potentially applicable: 
+ 
+(a) the behavior happened so long ago, was so infrequent, or occurred 
+under such circumstances that it is unlikely to recur and does not cast 
+doubt on the individual’s current reliability, trustworthiness, or good 
+judgment;  
+ 
+(b) the conditions that resulted in the financial problem were largely 
+beyond the person’s control . . . , and the individual acted responsibly 
+under the circumstances;   
+ 
+(c) the individual has received, or is receiving financial counseling for the 
+problem from a legitimate and credible source, such as non-profit credit 
+counseling service, and there are clear indications that the problem is 
+being resolved or is under control;  
+ 
+(d) the individual has initiated and is adhering to a good-faith effort to 
+repay overdue creditors and otherwise resolved debts; and 
+ 
+(e) the individual has a reasonable basis to dispute the legitimacy of the 
+past-due debt, which is the cause of the problem and provides 
+documented proof to substantiate the basis of the dispute or provides 
+evidence of actions to resolve the issue.   
+ 
+ Applicant endured an expensive divorce and a downturn in the economy. He 
+mistakenly relied on his ex-wife to handle the finances while he was overseas, and she 
+misused a general power of attorney that he provided. He pays child support to her 
+                                                          
+2 Directive ¶ E3.1.15. See ISCR Case No. 02-31154 at 5 (App. Bd. Sep 22, 2005) (An applicant has the 
+burden of proving a mitigating condition, and the burden of disproving it never shifts to the Government). 
+ 
+9 
+ 
+ 
+directly in compliance with the terms of their divorce decree. These conditions were 
+beyond his control. He has done everything possible to pay off most of his delinquent 
+debts and enter into repayment plans for others. He documented strict compliance with 
+these repayment plans through a stream of continuous payments to creditors including 
+the university. He has now produced relevant and responsive documentation, 
+demonstrating that he acted responsibly under the circumstances. Applicant 
+appropriately engaged a two different credit-counseling services to address his financial 
+problems. He also retained the professional services of a law firm, which effectively 
+addressed the allegations in the SOR. He had independent financial counseling. All of 
+his debts alleged in the SOR, have been paid in full or they are in repayment plans. He 
+has met his burden to show that his financial problems are under control, and that his 
+debts were incurred under circumstances making them unlikely to recur. The mitigating 
+conditions enumerated above in AG ¶ 20 apply.  
+ 
+Guideline B, Foreign Influence 
+ 
+ The security concern for foreign influence is set out in AG ¶ 6: 
+ 
+Foreign contacts and interests, including, but not limited to business, 
+financial, and property interests, are a national security concern if they 
+result in divided allegiance. They may also be a national security concern 
+if they create circumstances in which the individual may be manipulated or 
+induced to help a foreign person, group, organization, or government in a 
+way that is inconsistent with U.S. interests or otherwise made vulnerable 
+to pressure or coercion by any foreign interest. Assessment of foreign 
+contacts and interests should consider the country in which the foreign 
+contact or interest is located, including, but not limited to, such 
+considerations as whether the foreign country is known to target United 
+States citizens to obtain classified or sensitive information or is associated 
+with a risk of terrorism. 
+ 
+The guideline notes several conditions that could raise security concerns under 
+AG ¶ 7. The following are potentially applicable in this case:   
+ 
+(a) contact, regardless of method, with a foreign family member, business 
+or professional associate, friend, or other person who is a citizen of or 
+resident in a foreign country if that contact creates a heightened risk of 
+foreign exploitation, inducement, manipulation, pressure, or coercion;  
+ 
+(b) connections to a foreign person, group, government, or country that 
+create a potential conflict of interest between the individual’s obligation to 
+protect classified or sensitive information or technology and the 
+individual’s desire to help a foreign person, group, or country by providing 
+that information or technology; and 
+ 
+ 
+10 
+ 
+ 
+(e) shared living quarters with a person or persons, regardless of 
+citizenship status, if that relationship creates a heightened risk of foreign 
+inducement, manipulation, pressure, or coercion.  
+ 
+Applicant’s girlfriend was born in China, but came to the United States in 2009 
+and applied for U.S. citizenship recently. He cohabitates with her, and she is in contact 
+with her parents in China. Applicant’s girlfriend creates a potential conflict of interest 
+and a heightened risk of foreign exploitation, inducement, manipulation, pressure, and 
+coercion, both directly and through her family members. Applicant bears a very heavy 
+burden in mitigating security concerns where a country is hostile to United States 
+interests. AG ¶¶ 7(a), 7 (b), and 7(e) are implicated by the evidence. Accordingly, 
+Applicant’s relationship with his girlfriend creates a heightened risk of foreign 
+exploitation, inducement, manipulation, pressure, or coercion.  
+  
+Conditions that could potentially mitigate foreign influence security concerns are 
+provided under AG ¶ 8. The following are potentially applicable:  
+ 
+(a) the nature of the relationships with foreign persons, the country in 
+which these persons are located, or the positions or activities of those 
+persons in that country are such that it is unlikely the individual will be 
+placed in a position of having to choose between the interests of a foreign 
+individual, group, organization, or government and the interests of the 
+United States; and 
+ 
+(b) there is no conflict of interest, either because the individual’s sense of 
+loyalty or obligation to the foreign person, or allegiance to the group, 
+government, or country is so minimal, or the individual has such deep and 
+longstanding relationships and loyalties in the U.S., that the individual can 
+be expected to resolve any conflict of interest in favor of the U.S. interest.  
+ 
+Applicant has demonstrated a long-standing preference for working and living in 
+the U.S. He served in harm’s way in explosive-ordnance disposal in the U.S. Navy for 
+22 years. He received numerous awards and decorations for his service. He continued 
+to serve U.S. interests as a civilian at DHS with high level clearances in a critical billet 
+supporting national security. Although he admits strong bonds of affection with his 
+Chinese girlfriend, these bonds are not sufficient to offset or overcome his 
+demonstrated, long-term commitment to the U.S. and self-abnegation in its service 
+under dangerous conditions.3  
+ 
+ I considered the totality of Applicant’s foreign contacts and interests. Guideline B 
+is not limited to countries hostile to the United States:  
+ 
+                                                          
+3 The Appeal Board has held that “an Applicant’s proven record of action in defense of the United States 
+is very important and can lead to a favorable result for an Applicant in a Guideline B case.” ISCR Case 
+04-02511 at 4 (App. Bd. March 20, 2007). 
+ 
+ 
+11 
+ 
+ 
+The United States has a compelling interest in protecting and 
+safeguarding classified information from any person, organization, or 
+country that is not authorized to have access to it, regardless of whether 
+that person, organization, or country has interests inimical to those of the 
+United States.4  
+ 
+ The distinctions between friendly and unfriendly governments must be made with 
+caution. Relations between nations can shift, sometimes dramatically and unexpectedly. 
+Furthermore, friendly nations can have profound disagreements with the U.S. over 
+matters they view as important to their vital interests or national security. Finally, we 
+know friendly nations have engaged in espionage against the United States, especially 
+in the economic, scientific, and technical fields. The nature of a nation’s government, its 
+relationship with the U.S., and its human rights record are relevant in assessing whether 
+an applicant’s family members are vulnerable to government coercion. The risk of 
+coercion, persuasion, or duress is significantly greater if the foreign country has an 
+authoritarian government, a family member is associated with or dependent upon the 
+government, the country is known to conduct intelligence operations against the U.S., or 
+the foreign country is associated with a risk of terrorism.  
+ 
+    Whole-Person Concept 
+ 
+ Under the whole-person concept, the administrative judge must evaluate an 
+applicant’s eligibility for a security clearance by considering the totality of the applicant’s 
+conduct and all the circumstances. The administrative judge should consider the nine 
+adjudicative process factors listed at AG, Appendix A, ¶ 2(d):  
+ 
+(1) the nature, extent, and seriousness of the conduct; (2) the 
+circumstances surrounding the conduct, to include knowledgeable 
+participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to 
+which participation is voluntary; (6) the presence or absence of 
+rehabilitation and other permanent behavioral changes; (7) the motivation 
+for the conduct; (8) the potential for pressure, coercion, exploitation, or 
+duress; and (9) the likelihood of continuation or recurrence. 
+ 
+ Under AG, Appendix A, ¶ 2(c), the ultimate determination of whether to grant 
+eligibility for a security clearance must be an overall commonsense judgment based 
+upon careful consideration of the guidelines and the whole-person concept.  
+       
+I considered the potentially disqualifying and mitigating conditions in light of all 
+the facts and circumstances surrounding this case. I have incorporated my comments 
+under Guidelines B and F in my whole-person analysis. Some of the factors in AG, 
+Appendix A, ¶ 2(d) were addressed under that guideline. Applicant has a home and 
+                                                          
+4 ISCR Case No. 02-11570 at 5 (App. Bd. May 19, 2004).  
+ 
+ 
+12 
+ 
+ 
+family in the U.S. and he has devoted his professional life to counter-terrorism efforts 
+and U.S. national security. 
+ 
+Applicant’s finances and foreign contacts are no longer a security concern. The 
+record evidence leaves me with no questions or doubts as to Applicant’s suitability for a 
+security clearance. For all these reasons, I conclude Applicant has mitigated the 
+security concerns arising under Guideline F, financial considerations, and Guideline B, 
+foreign influence.  
+ 
+     Formal Findings 
+ 
+ Formal findings for or against Applicant on the allegations set forth in the SOR, 
+as required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+ 
+ Paragraph 1, Guideline F:            FOR APPLICANT 
+ 
+ Subparagraphs 1.a through 1.i:              For Applicant 
+ 
+ Paragraph 2, Guideline B:                      FOR APPLICANT 
+ 
+           Subparagraph 2.a:                                  For Applicant  
+ 
+ 
+          Conclusion 
+ 
+ In light of all of the circumstances presented by the record in this case, it is 
+clearly consistent with the interests of national security to grant Applicant a security 
+clearance. Eligibility for access to classified information is granted. 
+ 
+                                   
+    ________________________ 
+                                                 Robert J. Kilmartin 
+                                                Administrative Judge 
+ 

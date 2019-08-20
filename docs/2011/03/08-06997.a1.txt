@@ -1,0 +1,159 @@
+KEYWORD: Guideline E
+DIGEST: A Security Clearance Decision Statement is an official record that is admissible under
+the Directive without an authenticating witness.  DoD Reports of Investigation require
+authentication, although in this case Applicant stipulated to the documents’ authenticity. 
+Adverse decision affirmed.
+CASE NO: 08-06997.a1
+DATE: 03/01/2011
+DATE: March 1, 2011
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 08-06997
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+John Bayard Glendon, Esq., Deputy Chief Department Counsel
+FOR APPLICANT
+Charles L. Simmons, Jr., Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On April 28, 2009, DOHA issued a statement of reasons (SOR) advising Applicant of
+the basis for that decision–security concerns raised under Guideline E (Personal Conduct) of
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On October 20, 2010, after the hearing, Administrative Judge John Grattan
+Metz, Jr., denied Applicant’s request for a security clearance.  Applicant appealed pursuant to
+Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred by admitting
+1The prior case also included allegations under Guidelines F and J, which are not at issue in this case.
+2Executive Order 10865 § 4(a); Directive ¶ E3.1.22.   
+hearsay evidence that denied Applicant his right of cross-examination; and whether the Judge erred
+in his application of the mitigating conditions.  Consistent with the following discussion, we affirm
+the decision of the Judge.
+The Judge made the following pertinent findings of fact: Applicant is the chief engineer for
+a company owned by his wife.  He holds a Master’s degree in electrical engineering and has
+completed the course work for a Ph.D. 
+In 2006, Applicant’s request for special access was denied by another Government agency.
+The reasons for the denial of special access were several instances of misconduct which were
+subsequently alleged in the SOR in the case at issue here.1  
+This misconduct alleged in the SOR included the following: (1) Applicant employed foreign
+nationals whom be suspected were illegal aliens; (2) he failed to report their income to the IRS; (3)
+he overcharged his employer for mileage from 1985 to 2006; (4) he purchased merchandise with his
+employer’s funds, returned some of it for cash refunds, then used the cash to purchase personal
+items; (5) he was occasionally undercharged for purchases but did not advise the sellers; and (6) he
+unlawfully discharged a firearm on his property from 1993 to 2006, aware that such conduct was
+unlawful.  Additionally, the SOR alleged the special access denial by the other Government agency
+as a security concern.  The Judge concluded that his findings raised disqualifying conditions under
+Guideline E.
+  
+In the Analysis portion of the decision, the Judge stated that the incidents were of varying
+degrees of seriousness.  He stated that Applicant’s having employed household workers while
+suspecting that they were in the country illegally, and not reporting their income to the IRS, was,
+in and of itself, a sufficient reason to deny him a clearance.  When considered in light of the other
+incidents, this conduct raised security concerns that Applicant’s favorable evidence was not
+sufficient to mitigate.  Accordingly, the Judge denied Applicant a clearance.
+Upon appeal, Applicant contends that the Judge erred by admitting six documents,
+Government Exhibits (GE) 7 through 12.  He argues that they were inadmissible hearsay and denied
+him his right of cross-examination under the Executive Order and the Directive.  These documents
+were prepared by the other Government agency in its denial of special access to Applicant.  The
+challenged documents consist of five summaries of interviews of Applicant (GE 7 through 11) and
+a Clearance Decision Statement (GE 12).  
+Executive Order 10865 and Directive ¶ E3.1.22, with slight differences in wording, each
+provide that an applicant has a right to cross-examine a person who has made a statement adverse
+to him or her on a controverted issue.2  Applicant states that the challenged documents are
+statements adverse to him and, by admitting them, the Judge denied him his right of confrontation.
+As stated above, this right applies only as to controverted issues.  See ISCR Case No. 97-
+3Applicant admitted each of the specific allegations in the SOR, “with mitigating circumstances.”  He
+characterized the mitigating circumstances as his full cooperation with the security clearance process and  his candid and
+honest responses to all inquiries.  He stated that, to the extent that his record raised security concerns, he had “taken
+appropriate steps to address all prior instances of personal conduct stated in the Statement of Reasons” and that his
+actions in response to the security concerns are sufficient to mitigate them.  Therefore, Applicant’s answer does not
+question the factual accuracy of the allegations.  The Judge agreed that Applicant had met his burden of persuasion as
+to one of the allegations, SOR ¶ 1(e), and found in Applicant’s favor on it.
+4ISCR Case No. 03-06770 (App. Bd. Sep. 9, 2004); ISCR Case No. 06-06496 (App. Bd. Jun. 25, 2009); ISCR
+Case No. 93-1234 (App. Bd. May 19, 1995).  Additionally, ISCR Case No. 02-30913 (App. Bd. Jul. 19, 2005) states that
+security clearance applications are admissible under ¶ E3.1.20.
+0765 (App. Bd. Dec. 1, 1998).  In this case, Applicant admitted the allegations in the SOR.  Answer
+to SOR, dated June 16, 2009.3  Therefore, the facts contained in these allegations were not
+controverted.  See Directive ¶ E3.1.14 (“Department Counsel is responsible for presenting witnesses
+and other evidence to establish facts alleged in the SOR that have been controverted”); ISCR Case
+No. 08-10012 at 3 (App. Bd. May 7, 2010) (“Applicant admitted this SOR allegation, relieving
+Department Counsel of any further requirement of proof”).  Under the facts of this case, a right of
+cross-examination under the cited provisions of the Executive Order and the Directive does not
+apply.
+Moreover, a right of cross-examination is not violated when documents are admissible
+elsewhere under the Directive.  Directive ¶ E3.1.20 provides that 
+[o]fficial records or evidence compiled or created in the regular course of business,
+other than DoD personnel background reports of investigation (ROI), may be
+received and considered by the Administrative Judge without authenticating
+witnesses, provided that such information has been furnished by an investigative
+agency pursuant to its responsibilities in connection with assisting the Secretary of
+Defense, or the Department or Agency head concerned, to safeguard classified
+information . . . An ROI may be received with an authenticating witness provided it
+is otherwise admissible under the Federal Rules of Evidence[.] (internal citations
+omitted)  
+We have cited this provision in support of admission of a variety of documents, including
+police reports, criminal investigation reports by the military services, and Defense Investigative
+Service facility inspection reports.4  We have also held that a Clearance Decision Statement by the
+same Government agency that denied Applicant’s special access is admissible as substantive
+evidence under this provision of the Directive.  Because a Clearance Decision Statement is not an
+ROI, it may be admitted without authentication.  See, e.g., ISCR Case No. 02-12199 at 4, 7 (App.
+Bd. Aug. 8, 2005).  Therefore, the Judge did not err in admitting GE 12.  
+GE 7 through 11, however, are reports of the other agency’s personnel background
+investigation of Applicant.  See, e.g., ISCR Case No. 02-12199 at 8 (App. Bd. Oct. 7, 2004).  Insofar
+as the other agency falls within the ambit of the DoD, these exhibits are ROIs which could not be
+admitted without an authenticating witness, as required by the Directive.  However, at the hearing,
+Applicant stipulated as to the authenticity of these exhibits, thereby relieving the Government of the
+5“Admin. Judge: [Applicant’s Attorney], do you have any objection to the government’s characterization of
+Exhibits 1 through 14 and the cover sheet that it provided? [Attorney]: The characterization, no, your Honor.  And we
+admit and stipulate that they’re authentic and genuine documents.”  Tr. at 20.  
+6We have considered the questions of whether GE 12, by relying so extensively on GE 7 through 11, has thereby
+incorporated these documents by reference, or whether these documents would be admissible under Fed. Rule Evid. 106,
+which codifies the doctrine of completeness.  In light of our disposition of the issue on appeal, we do not need to resolve
+these questions.  
+responsibility of calling an authenticating witness.5  Furthermore, we conclude that these exhibits
+are otherwise admissible under the Federal Rules of Evidence.  First, they consist solely of
+Applicant’s responses to interview questions.  Because they were offered by Department Counsel,
+they constitute admissions by a party-opponent and, therefore, are excluded from the definition of
+hearsay.  Fed. Rule Evid. 801 (d)(2).  Second, even if they are hearsay, they are admissible as public
+records and reports under Fed. Rule Evid. 803(8).  We conclude that the Judge did not err in
+admitting GE 7 through 11.
+Finally, even if the Judge did err in admitting the challenged documents, the information
+contained therein is repeated almost verbatim in GE 12, which was properly admitted.  Therefore,
+even if the Judge had declined to admit these exhibits, his overall decision would most likely have
+been the same.  Any error in the Judge’s ruling on the admissibility of GE 7 through 11 is harmless.
+See, e.g., ISCR Case No. 03-23829 at 3 (App. Bd. Apr. 27, 2007).6
+Applicant cites to decisions by the Hearing Office in support of his appeal.  We give due
+consideration to these cases.  However, each case must be decided upon its own merits.  Directive,
+Enclosure 2 ¶ 2(b).  Moreover, Hearing Office decisions are binding neither on other Hearing Office
+Judges nor on the Board.  See, e.g., ISCR Case No. 06-24121 at 2 (App. Bd. Feb. 5, 2008).  We have
+examined the Judge’s treatment of the mitigating conditions and find no error therein.  The record
+supports a conclusion that the Judge examined the relevant data and articulated a satisfactory
+explanation for the decision, “including a ‘rational connection between the facts found and the
+choice made.’”  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co.,
+463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168
+(1962)).  The Judge’s adverse decision is sustainable on this record.  “The general standard is that
+a clearance may be granted only when ‘clearly consistent with the interests of the national security.’”
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988). 
+Order
+The Judge’s adverse security clearance decision is AFFIRMED. 
+Signed: Jeffrey D. Billett               
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: Michael D. Hipple             
+Michael D. Hipple
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board

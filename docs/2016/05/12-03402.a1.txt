@@ -1,0 +1,104 @@
+KEYWORD: Guideline K; Guideline M; Guideline E
+DIGEST: We conclude that the Judge would have denied Applicant a clearance even if he had
+not made the factual error, thus the error is harmless. Adverse decision affirmed.
+CASENO: 12-03402.a1
+DATE: 05/04/2016
+DATE: May 4, 2016
+In Re:
+---------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 12-03402
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Ryan C. Nerney, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On   
+ October 3, 2014, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline K (Handling Protected Information), Guideline
+M (Use of Information Technology Systems), and Guideline E (Personal Conduct) of Department
+of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On February 26, 2016, after considering the record, Defense Office of
+Hearings and Appeals (DOHA) Administrative Judge Richard A. Cefola denied Applicant’s request
+for a security clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge’s findings of fact
+contained errors and whether the Judge’s adverse decision was arbitrary, capricious, or contrary to
+law.  Consistent with the following, we affirm. 
+The Judge’s Findings of Fact
+Applicant admitted that, in 2007, he knowingly and improperly transmitted classified
+information via email on an unclassified computer.  He did not report this until mid-January 2011,
+three days before a polygraph examination.  In addition, some time prior to his January 2011
+polygraph, Applicant accessed and viewed pornographic material on a work computer.  He received
+a written reprimand for this infraction.   
+The Judge’s Analysis
+ The Judge concluded that Applicant had not mitigated the concerns arising from his
+misconduct.  He noted that the email transmission occurred in 2007.  However, the Judge stated that
+Applicant waited over three years to report it, although he had many opportunities to do so.  He also
+concluded that the misuse of Applicant’s work computer was not mitigated.  “[W]hen coupled with
+his mishandling of protected information . . . it is too soon to say that it does not cast doubt” upon
+Applicant’s reliability, trustworthiness, and good judgment.  Decision at 4.
+Discussion
+Applicant challenges the finding that he had admitted to having knowingly transmitted
+classified information over an unclassified computer. We examine a Judge’s findings to see if they
+are supported by “such relevant evidence as a reasonable mind might accept as adequate to support
+a conclusion in light of all the contrary evidence in the same record.”  Directive ¶ E3.1.32.1. 
+Applicant’s argument has merit.  In his SOR response he admitted that he improperly emailed a
+classified document, but neither the allegation itself nor the admission state that this was a knowing
+act.  Item 7, a JPAS entry, states that Applicant found out about the classified nature of the email
+only after he had transmitted it.  Therefore, the Judge’s finding that Applicant acted with knowledge
+is not sustainable.  However, the Judge’s analysis did not cite to Applicant’s purported knowledge
+but, rather, to the length of time that Applicant waited before reporting the violation.  Furthermore,
+the totality of the Judge’s analysis put as much or more emphasis on Applicant’s access of
+pornography.  We conclude that the Judge would have denied Applicant a clearance even if he had
+2
+not made the factual error in question.  Therefore, we conclude that the error is harmless.   See, e.g.,
+ISCR Case No. 14-03601 at 3 (App. Bd. Jul. 1, 2015).   
+Applicant challenges the Judge’s mitigation analysis.  Among other things, he cites to the
+length of time that has elapsed since his security-significant conduct.  He argues that this lapse of
+time without a subsequent offense demonstrates rehabilitation.  Questions surrounding the recency
+of security-significant conduct must be evaluated in light of the evidence as a whole.  See, e.g., ISCR
+Case No. 05-00448 at 3 (App. Bd. Oct. 1, 2007).   In this case, the very nature of a Guideline K
+infraction is a matter entitled to considerable weight.  As we have noted before, once it is established
+that an applicant has committed a security violation, he or she has a “very heavy burden” of
+persuasion as to mitigation.  Such violations “strike at the heart of the industrial security program.” 
+Accordingly, a Judge must give any claims of reform or rehabilitation “strict scrutiny.”  ISCR Case
+No. 11-09219 at 3 (App. Bd. Mar. 31, 2014).  In this case, the Judge’s finding that Applicant failed
+to disclose a security breach for several years, coupled with other findings regarding Applicant’s use
+of a work computer to access pornography, support his conclusion that Applicant’s conduct
+continues to cast doubt upon his fitness for a clearance.  We conclude that the Judge’s mitigation
+analysis, viewed as a totality, is sustainable.  Applicant has cited to a Hearing Office case that he
+believes supports his effort to obtain a favorable decision.  We give this case due consideration as
+persuasive authority.  However, Hearing Office decisions are not binding on other Hearing Office
+Judges or on the Appeal Board.  See, e.g., ISCR Case No. 14-03747 at 3 (App. Bd. Nov. 13, 2015). 
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Y. Ra’anan        
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody                  
+James E. Moody
+Administrative Judge
+3
+Member, Appeal Board
+Signed: James F. Duffy                    
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+4

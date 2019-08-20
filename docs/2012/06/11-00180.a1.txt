@@ -1,0 +1,309 @@
+KEYWORD: Guideline E; Guideline F
+DIGEST: Although the Government presented substantial evidence of a Guideline e security
+concern, based in large measure upon a finding of liability in a civil trial, Applicant was
+precluded from presenting his case in mitigation in absence of evidence concerning the precise
+nature of his conduct.  Adverse decision remanded.
+CASE NO: 11-00180.a1
+DATE: 06/19/2012
+DATE: June 19, 2012
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-00180
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+David F. Hayes, Esq., Department Counsel
+FOR APPLICANT
+John V.  Berry, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On September 29, 2011, DOHA issued a statement of reasons (SOR) advising Applicant
+of the basis for that decision–security concerns raised under Guideline E (Personal Conduct) and
+Guideline F (Financial Considerations) of Department of Defense Directive 5220.6 (Jan. 2, 1992,
+as amended) (Directive).  Applicant requested a hearing.  On March 8, 2012, after the hearing,
+Administrative Judge Joan Caton Anthony denied Applicant’s request for a security clearance.
+Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in her findings of
+fact; whether the Government had presented substantial evidence of Guideline E security concerns;
+1The court entered judgment against Applicant and his colleagues based on all of the claims found against them.
+However, the court concluded that the damages were duplicative.  Accordingly, she fixed the damages based on the State
+Business Conspiracy Act claim.  Final Order, included in Government Exhibit (GE) 2, Answers to Interrogatories. 
+2
+whether the Judge erred in her application of the mitigating conditions; and whether the Judge erred
+in her whole-person analysis.  For the reasons that follow, the Board remands the case to the Judge.
+Facts
+The Judge made the following pertinent findings of fact: Applicant is a senior program
+manager for a Government contractor.  He enlisted in the military, earned a commission, and retired
+as an officer.  He held security clearances during his military service.
+After retirement, he worked for a small technology company, for which he signed a non-
+disclosure agreement.  This company was purchased by Company A, a Defense contractor.
+Applicant worked for Company A from 2000 until 2009.  He did not sign a non-disclosure
+agreement after coming to work for Company A.
+In January 2008, a former colleague of Applicant left Company A and began a Government
+services division at Company B.  In 2009, Applicant and another colleague left Company A and set
+to work for Company B.  Upon leaving Company A, Applicant turned in all equipment provided him
+by the company.  He took with him a 20 gigabyte hard drive, which he had used at Company A
+during the nine years of his employment.  This hard drive was Applicant’s own, the one provided
+by the company contained insufficient memory.  He stated that there were personal matters on the
+computer, as well as some power point presentations on the hard drive.  
+Although Applicant claimed he left Company A on good terms, within two weeks of starting
+his new job, Applicant, three other colleagues, and Company B were named as defendants in a
+lawsuit.  The civil complaint alleged various kinds of economic harm to Company A.  The case was
+tried before a jury, lasting 11 days.  Applicant testified, both on direct examination and on cross-
+examination, for 65 minutes.  The jury found Applicant liable for breach of fiduciary duty, breach
+of the non-disclosure agreement, violation of the State Computer Crimes Act, violation of the State
+Business Conspiracy Act, civil conspiracy, misappropriate of trade secrets, and for conversion.  
+After considering motions by both sides, the judge entered an order of final judgment.  This
+order directed (1) Applicant and co-defendants to pay over $12,000,000 for violations of the State
+Business Conspiracy Act;1 (2) Applicant to pay $350,000 in punitive damages; and (3) Applicant
+and co-defendants to pay over $1,400,000 in attorney fees.  
+Applicant and co-defendants filed an appeal to a higher state court.  The appeal  lists five
+assignments of error, all relating to the amount of damages and to evidentiary matters at the trial
+pertaining to damages.  Liability was not raised on appeal.  Applicant’s salary is currently the
+subject of a garnishment action.  
+2Directive, Enclosure 2 ¶ 16(c): “credible adverse information in several adjudicative issue areas that is not
+sufficient for an adverse determination under any other singled guideline, but which, when considered as a whole,
+supports a whole-person assessment of questionable judgment, untrustworthiness, unreliability, lack of candor,
+unwillingness to comply with rules and regulations, or other characteristics indicating that the person may not properly
+safeguard protected information[.]”   
+3Directive, Enclosure 2 ¶ 16(d).  “credible adverse information that is not explicitly covered under any other
+guideline and may not be sufficient by itself for an adverse determination, but which, when combined with all available
+information, supports a whole-person assessment of questionable judgment, untrustworthiness, unreliability, lack of
+candor, unwillingness to comply with rules and regulations, or other characteristics indicating that the person ;may not
+properly safeguard protected information.  This includes but is not limited to consideration of . . . (3) a pattern of
+dishonesty or rule violations.”  This is the portion of 16(d) which the Judge found to have been raised in this case.   
+4This brief is attached to GE 2.
+3
+In the Analysis, the Judge found in Applicant’s favor regarding the Guideline F allegations
+and one allegation under Guideline E, which simply alleged that Applicant had appealed his case
+to a higher state court.  However, she found against him regarding two SOR allegations pertaining
+to the lawsuit itself.  She cited to record evidence that Applicant was represented at the trial by
+counsel, testified, and was found liable as described above.  She concluded that the circumstances
+of his case raised two disqualifying conditions under Guideline E, 16(c)2 and (d).3   
+However, she concluded that Applicant had not demonstrated mitigation of these two
+disqualifying conditions.  In performing her analysis, the Judge relied on evidence of Applicant’s
+lawsuit and the results thereof, to include his appeal to a higher state court, stating that the conduct
+implicit in this litigation indicated a failure to follow rules and regulations.  She concluded that none
+of the Guideline E mitigating conditions were entitled to full application.  She also cited Applicant’s
+testimony that he and his colleagues had “done nothing wrong.”  Decision at 10.  She stated that this
+testimony, and other evidence of a similar kind, were not consistent with Applicant’s higher state
+court appeal, which did not challenge liability.  She also stated that Applicant’s denial of wrongful
+conduct, and his claim on the day of the hearing not to know what a claim of conversion meant,
+despite his intimate involvement with protracted litigation on that very issue, most reasonably
+suggested that he did not understand the gravity of his security significant conduct. 
+Discussion
+Applicant contends that the Judge erred in her finding that his appeal of the jury verdict was
+exclusively devoted to challenging damages.  Rather, he points to aspects of the appeal brief,4 in
+which Applicant contends that allegedly improper evidence concerning damages may have inflamed
+the jury and affected their overall verdict.  He also notes that the appeal seeks a new trial, not simply
+a new hearing on damages.  We examine a Judge’s finding to see if it is supported by substantial
+record evidence, that is, “such relevant evidence as a reasonable mind might accept as adequate to
+support a conclusion in light of all the contrary evidence in the same record.”  Directive ¶ E3.1.32.1.
+See ISCR Case No. 11-00970 at 2 (App. Bd. Feb. 28, 2012).  
+5The Guideline E security concern is, in pertinent part, as  follows:  Conduct involving questionable judgment,
+lack of candor, dishonesty, or unwillingness to comply with rules and regulations can raise questions about an
+individual’s reliability, trustworthiness and ability to protect classified information.  Directive, Enclosure 2 ¶ 15.
+4
+We have examined GE 2, along with the other record evidence.  The evidence is inconsistent
+on the point of whether the appeal of the civil case goes only to the issue of damages.  Applicant’s
+brief asserts several alleged errors in the jury trial, all of which center on the question of damages.
+For example, one of the assignments of error contends that the court abused its discretion in
+permitting a plaintiff’s witness to testify as to a model of goodwill damages that, Applicant asserts,
+was not consistent with state law.  Other assignments of error address different aspects of the
+plaintiff’s award of damages.  On the other hand, the prayers at the end of both briefs filed in the
+civil trial ask for a reversal of the judgment of the trial court and an order for a new trial, with no
+limiting language pertaining only to damages.  We note Applicant’s argument that, by seeking a new
+trial, he is hoping for a reversal of the entire case.  It is the job of the Judge to resolve conflicts in
+the record evidence.  After a review of the record, the Board concludes that the Judge’s finding that
+the appeal in the civil trial pertains to damages is sustainable.
+Applicant contends that the Government failed to present evidence of security concerns.  He
+states that the Government did not present any evidence of the specific underlying conduct by
+Applicant which would demonstrate concerns under Guideline E and that the Judge erred in relying
+simply on the results of the trial.  In a DOHA hearing, the Government’s burden is to present
+substantial evidence regarding any controverted allegation.  In this case, although Applicant
+admitted in his response to the SOR that he had been found liable, he denied wrongdoing.
+Accordingly, the Government was required to come forward with evidence in support of the
+allegations in the SOR.5
+We note findings by the Judge and record evidence, as follows:
+(1) Applicant originally worked for a small technology company.  He signed a non-
+disclosure agreement with that company.
+(2) The company was purchased by Company A, and Applicant worked for
+Company A for nine years.
+(3) While performing his duties at Company A, Applicant used his personal hard
+drive, because the one supplied by his employer did not have sufficient memory.
+(4) Some of Applicant’s colleagues left Company A and formed a division of
+Company B.  Applicant subsequently followed them in joining Company B.
+(5) When leaving Company A, Applicant took his hard drive with him.  
+(6) Within two weeks of beginning work at Company B, Applicant was served with
+process for a lawsuit.  The lawsuit was filed by Company A.
+5
+(7) The lawsuit was based, at least in part, upon allegations that Applicant and his
+colleagues participated in a conspiracy to lure people away from Company A, that
+Applicant and his colleagues misappropriated computer technology, and that
+Applicant and his colleagues did not abide by their employment agreement.
+Applicant Personal Subject Interview, included in GE 2.
+(8) Company A also asserted that the hard drive Applicant had taken with him
+contained information relevant to their business.  Tr. at 70. According to Applicant,
+Company A contended that his hard drive contained “detrimental information.”
+Applicant Personal Subject Interview, included in GE 2.  
+(9) The trial in this lawsuit lasted 11 days.  At the conclusion, the jury found
+Applicant and his colleagues liable for, inter alia, conspiracy, breach of fiduciary
+duty, breach of the non-disclosure agreement, and misappropriation of trade secrets.
+(10) After the trial, and after considering motions by all parties, the court entered
+findings against Applicant and his colleagues, though reducing the amount of
+damages awarded.
+(11) Applicant’s appeal to a higher state court focused on the issue of damages rather
+than liability.
+We note record evidence of an exculpatory nature, for example Applicant’s claim that his
+hard drive, which he had used for nine years in performing official duties, did not contain company
+information, only recipes, personal letters, etc.  However, the findings and evidence cited above,
+taken together, could persuade a reasonable person to believe that Applicant had acted in such a way
+as to compromise Company A’s legitimate interest in protecting its proprietary information.  
+Though Applicant insisted that he had done nothing wrong, the Judge appeared to find
+Applicant’s claims to be lacking credibility.  We note, for example, the skeptical nature of her
+comment about his purported ignorance of the meaning of conversion.  We are required to give
+deference to a Judge’s credibility determination.  Directive ¶ E3.1.32.1.  We conclude that the
+Government presented substantial evidence of conduct by Applicant that impugns his
+trustworthiness and reliability.  This evidence is sufficient to establish security concerns under
+disqualifying conditions 16(c) and (d) of Guideline E, as the Judge concluded.  
+The Government’s establishing of security concerns under the disqualifying conditions of
+Guideline E, does not end the inquiry however.  Applicant also argues that the Judge’s analysis
+under the Guideline E mitigating conditions is problematic, owing to the paucity of evidence
+regarding what Applicant actually did, or was accused of doing, during the course of his departure
+from his former company.  Applicant asserts essentially that the Judge could not properly evaluate
+whether or not his conduct was mitigated without knowing more about what that conduct was.
+Applicant’s argument has merit.
+6Given the then pending appeal to a higher state court, the issue of whether or not the case was ripe for review
+in front of DOHA was discussed by the Judge and the parties.  The issue of ripeness is not before us on appeal.
+7Tr. at 35.
+8Tr. at 43-44, 52.
+9 Tr. at 168.  Department Counsel correctly points out that, at the hearing, the Judge did not directly rule on
+Applicant’s raising of the possibility of a continuance for the purpose of getting additional evidence, nor did she rule
+definitively on the applicability of the collateral estoppel doctrine.  The Judge instead preferred to proceed, and if matters
+implicating the doctrine arose, further argument could be made and a ruling requested.  Notwithstanding the fact that
+Applicant did not formally object to moving forward without the additional evidence, and did not raise the issue again
+subsequent to the Judge’s suggestion to proceed, the Board concludes that the issues of whether or not the record
+supports the Judge’s mitigation analysis, along with the related issue of the applicability of the collateral estoppel
+doctrine, were sufficiently preserved for appeal.   
+6
+This is a difficult and unusual case involving complex business litigation culminating in a
+jury trial lasting eleven days where there are dozens of counts, multiple defendants, joint and several
+liability among those defendants, and, as of the close of the record, the case was on appeal to a
+higher state court.6  The record evidence as presently constituted identifies civil claims such as
+“breach of fiduciary duty,” “breach of a non-disclosure agreement,” “misappropriation of trade
+secrets,” and “civil conspiracy,” but does not go much further.  The evidence does not  identify with
+any specificity the conduct underlying these legal concepts that was engaged in by Applicant.  The
+issue of collateral estoppel was raised early at the hearing, and the Judge’s comments regarding the
+collateral estoppel shaped the subsequent evidentiary portion of that hearing.  At one point,
+Department Counsel acknowledged that “the government’s flying somewhat blind here.”7  At
+another point, Applicant suggested that the case be continued so that he might be afforded an
+opportunity to obtain additional evidence from the records of the civil trial, thus affording him the
+chance to provide some explanation as to what the underlying facts are in this case.  Department
+Counsel objected, relying on the doctrine of collateral estoppel and stating that adopting Applicant’s
+suggestion would amount to re-litigating the civil matter.  The Judge basically agreed with
+Department Counsel, stating that she was not there to re-litigate the case below, ultimately deciding
+to go forward with the hearing without re-litigating the civil trial, and while “being respectful of the
+three-pronged collateral estoppel test, which we must be fully cognizant of in going forward.”8
+There was no subsequent discussion about continuing the case to expand the record.  At the
+conclusion of the hearing, the Judge declared the record closed.9  After a review of the record and
+the arguments of the parties, the Board concludes that the issue of the applicability of the collateral
+estoppel doctrine to this case is squarely before us.
+The Board has held that the doctrine of collateral estoppel applies in DOHA hearings.
+Guided by federal law, the Board has adopted a three-pronged test to be used to analyze the
+appropriateness of applying the doctrine.  See ISCR Case No. 04-05712 at 8 (App. Bd. Oct. 31,
+2006).  First, the party against whom the earlier decision is asserted must have been afforded a full
+and fair opportunity to litigate the earlier case.  Second, the issues presented for collateral estoppel
+must be the same as those resolved against the opposing party in the first trial.  Third, the application
+10Most of the DOHA cases where the collateral estoppel doctrine has been invoked involve violations of the
+criminal law, where the collateral proceeding employed the beyond the reasonable doubt standard, and where the security
+significant conduct could be reasonably understood without delving deeply into the details of the case. See, e.g., ISCR
+Case No. 96-0525 (App. Bd. Jun. 17, 1997)(sexual abuse); ISCR Case No. 99-0116 (App. Bd. May 1, 2000)(possession
+of a controlled substance).  The doctrine has also been invoked in civil cases, but again, in a context where the underlying
+conduct was easy to identify and evaluate in terms of security significance. See, e.g., ISCR Case No. 03-24233 (App.
+Bd. Oct. 12, 2005)(making false statements under oath); ISCR Case No. 00-0596 (App. Bd. Oct. 4, 2001)(civil judgments
+for a car repossession and unpaid income taxes).  The facts of the present case do not fit this pattern.
+7
+of collateral estoppel in the second hearing must not result in unfairness.  The Board’s focus in this
+case is upon the third, or unfairness prong.
+Implicit in the adoption of the test for the collateral estoppel doctrine is the acknowledgment
+that applying the doctrine may not be appropriate in all circumstances.  The case before us is not like
+most other cases in that, owing to the technical and complex nature of the proceedings in the civil
+trial, the underlying facts are not readily discernable.10  The current state of the record supports a
+conclusion that Applicant’s conduct or circumstances raise a security concern.  It is not sufficient,
+however, to afford a meaningful evaluation of security significant conduct in the context of
+mitigation.  Considerations of procedural due process require that Applicant be given the chance to
+explain the conduct, present it in a meaningful context, and ultimately to mitigate it, if that is what
+the facts support.  The way the hearing proceeded effectively prevented him from doing these things.
+At the heart of the matter is the notion that DOHA ought not deny an applicant access to classified
+information unless the record establishes with specificity an applicant’s conduct or circumstances
+of security significance, so as to place them in a proper context, and whether or not the conduct or
+circumstances have been mitigated.  See Directive, ¶ E3.1.3 and ¶ E3.1.15.  The Board is not
+convinced that such a threshold has been reached on the current record.
+The problem becomes most apparent upon a consideration of the Judge’s remarks regarding
+mitigation.  The Judge concluded that “Applicant failed to demonstrate that he understood the
+gravity of the conduct the jury found him responsible for.”  The Judge further concluded that “He
+also failed to demonstrate that he understood what had caused his unreliable conduct and, as a result,
+was unable to ensure that such behavior was unlikely to occur.”  The Board concludes that the Judge
+cannot make such assessments based on the current record.  The gravity of the conduct, Applicant’s
+attitude toward it, and the cause of the conduct cannot be properly assessed until more is known
+about the underlying facts and circumstances of the case.  Thus, the Judge erred in her mitigation
+analysis.  The error was a result of her stated intent to adhere to the collateral estoppel doctrine in
+a setting where it was not appropriate, i.e., where it resulted in unfairness to Applicant by preventing
+him from presenting a case for mitigation, rebuttal, extenuation, or explanation. 
+Applicant raises several other issues on appeal.  Given the Board’s disposition of the case,
+it would be premature to address those issues at this time.
+It is the conclusion of the Board that the case should be remanded to the Judge for further
+proceedings.  The parties should be afforded an opportunity to present any additional evidence
+regarding the civil trial and his underlying conduct for the Judge’s consideration.  These matters
+11The Board notes that during the pendency of this DOHA appeal, a higher state court has issued a decision on
+appeal from the trial court.
+8
+should include, but are not necessarily limited to, the civil trial pleadings, opening and closing
+statements of the attorneys, direct and cross-examination of Applicant, and any special findings of
+the jury.  Any additional evidence submitted by a party is subject to review and objection by the
+party opponent, with the limitation that the Board has concluded that the collateral estoppel doctrine
+shall not preclude Applicant from submitting evidence in mitigation.  The Judge should then issue
+a new decision after consideration of any new evidence that is properly brought before her.11  
+Order
+The Judge’s adverse security clearance decision is REMANDED.  
+Signed: Michael Y. Ra’anan          
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett                
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+DISSENTING OPINION OF ADMINISTRATIVE JUDGE JAMES E. MOODY
+I respectfully disagree with my colleagues in their resolution of this case.  Like them, I
+conclude that the Government has presented substantial evidence of a Guideline E security concern,
+specifically that Applicant failed to protect the proprietary information of the plaintiff, his former
+employer.  My disagreement arises from my evaluation of Applicant’s evidence in mitigation.  This
+evidence included his testimony and that of two of his co-defendants at the trial.  These witnesses
+testified, among other things, that they had done nothing wrong and that they did not understand
+why they were sued.  See Tr. at 87, 147-8: 
+Q: And was your position with the attorney [representing you] I did absolutely
+nothing wrong, I don’t know why I’m here?  A: Yes, sir[;]” “Q: And did you ever
+determine the underlying reason for the litigation in the first place?  A: A true
+reason?  No. . . I mean we never found out a true reason behind the litigation.  
+9
+I do not believe that Applicant was denied a full and fair opportunity to present his case.  I find no
+reason in Applicant’s brief to believe that he had additional evidence that was not presented and that
+would likely have produced a different result.  
+Viewing the record in its totality, I believe that the Judge’s weighing of the evidence of
+security concern against Applicant’s evidence in mitigation is supportable.  We are required to give
+deference to a Judge’s credibility determinations.  Directive ¶ E3.1.32.1.  I would affirm the Judge’s
+decision.
+Signed: James E. Moody          
+James E. Moody
+Administrative Judge
+Member, Appeal Board

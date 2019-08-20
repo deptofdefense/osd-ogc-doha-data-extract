@@ -1,0 +1,144 @@
+KEYWORD: Guideline F
+DIGEST: A letter from Applicant’s bankruptcy attorney stating that all of Applicant’s debts
+were included in his bankruptcy plan was sufficient evidence to establish the fact.  The Judge
+erred in not so concluding.  However, the error was harmless as the Judge’s focus on
+circumstances underlying Applicant’s debts was sufficient to support his decision.  Adverse
+decision affirmed.  
+CASENO: 12-00725.a1
+DATE: 10/03/2014
+DATE: October 3, 2014
+In Re:
+------------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 12-00725
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+December 13, 2013, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline F (Financial Considerations) of Department
+of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Department Counsel requested
+a hearing.  On June 25, 2014, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Arthur E. Marshall, Jr., denied Applicant’s request for a security clearance.
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact
+In the late 1990s, Applicant found himself with a fairly substantial net worth.  He decided
+to become an entrepreneur.  He did some research, concluding that investors like to see persons
+“maxed out” on credit cards and mortgages, because “that shows commitment.”  He stated that they
+like to see someone who “will be desperate enough to take any deal they give you.”  Decision at 2.
+Applicant invented a product with potential and recruited several business partners.  He devoted
+proceeds from the sale of another business into this venture and accepted a part-time job with his
+current employer to raise money for the new undertaking.  As the stock market rose, he took two
+loans on his home and subsequently refinanced.  
+Applicant was not able to raise sufficient funds or attract enough investors as his venture
+required.  Though intending to devote himself more fully to it, he developed chronic fatigue
+syndrome, which impaired his energy level.  He became unemployable due to this condition,
+although he was able to do some work for his new business.  He persevered, inspired by an
+exhortation by a celebrity investor that “marketable winners . . . never, never, never give up.”  Id.
+at 3.  
+Applicant began living off his credit cards, using them for work-related expenses and for
+personal ones, like his mortgage.  “I am living off the credit cards and trying to push the business
+through, and that is exactly what the venture capitalists and angel investors want you to do . . .  that
+is what my business partners expected me to do”  Id.  Unfortunately, the economy faltered and
+Applicant filed to Chapter 13 bankruptcy protection.  He was to pay his unsecured creditors a total
+of $15,000, which was only 7.3% of the total unsecured debt.
+The SOR alleges four debts.  Applicant contended that they were all included in his
+bankruptcy plan, although the Judge found that it was not clear whether two of them were actually
+related to bankruptcy entries regarding the same creditor.  He stated that Applicant failed to provide
+documentary evidence that another of the SOR debts was included in the bankruptcy plan.
+Applicant submitted a letter from his attorney, who cited to documents not contained in the record,
+for example a Schedule F.  The Judge stated that no “alternative creditor names, collection agents,
+or successors were identified or demonstrated to be linked to the SOR-identified creditors.”  Id. at
+4.
+The Judge’s Analysis
+The Judge concluded that Applicant had not mitigated the concerns arising from his
+delinquent debts.  He noted that Applicant did not dispute the validity of the SOR debts.  He also
+noted Applicant’s evidence of his chronic fatigue syndrome, though stating that, despite this
+infirmity, Applicant was still able to work on his private business venture.  He also cited to
+Applicant’s evidence that he “burned through” borrowed money during his illness.  Id. at 6.  The
+Judge concluded that, without more information, he was unable to say that the 7.3% payment rate
+for unsecured creditors constituted a good-faith effort at repayment.  He concluded that it was
+unclear whether the four SOR debts were actually included in Applicant’s bankruptcy plan.  
+In the whole-person analysis, the Judge reiterated this point, concluding that Applicant had
+not met his burden of persuasion as to mitigation.  The Judge went on to say that, even aside from
+the question of whether the SOR debts were covered by Applicant’s bankruptcy, the circumstances
+underlying the debts evidenced “reckless and disturbing behavior.”  Id. at 7.  He stated that
+Applicant’s conduct in acquiring his debts showed a willingness to take unnecessary risks and
+impugns his good judgment.  
+Discussion
+Applicant notes that he represented himself at the hearing, arguing that, had he been
+represented by counsel, he could have made a better showing.  The record shows that DOHA
+provided Applicant with pre-hearing guidance that included notice of his right to employ counsel
+and to present witnesses and documentary evidence.  The record also shows that Applicant
+submitted documentary evidence, including post-hearing exhibits addressing concerns that arose
+during the course of the hearing, and testified in his own behalf.  There is nothing in the record to
+suggest that Applicant was denied the due process afforded by the Directive, whether arising from
+his pro se status or from some other cause.  See, e.g., ISCR Case No. 12-02371 at 3 (App. Bd. Jun.
+30, 2014).
+Applicant cites to evidence he submitted in his own behalf, including character references
+and documents relating to his bankruptcy plan.  Applicant has not rebutted the presumption that the
+Judge considered all of the evidence in the record.  See, e.g., ISCR Case No. 10-04413 at 2 (App.
+Bd. Feb. 16, 2012).  He cites specifically to Applicant Exhibit (AE) C, a letter from his bankruptcy
+attorney, who states that all of Applicant’s debts have been addressed in the plan.  He argues that
+the Judge erred in concluding that it was unclear as to whether this was so.  
+We find this argument persuasive.  After examining the AE C in light of the entire record,
+we conclude that it is sufficient to show that the SOR debts were included in his bankruptcy filing.
+However, even if the Judge had not made this error, his overall decision would have been the same.
+His analysis placed great emphasis on the circumstances underlying Applicant’s financial problems,
+that he found to have impugned Applicant’s judgment.  See, e.g., ISCR Case No. 10-06975 at 2
+(App. Bd. Apr. 19, 2012) (The Judge’s focus upon circumstances underlying the applicant’s debts
+supported his adverse decision, despite evidence of a good security record, character references, and
+a discharge in bankruptcy). 
+   
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Jeffrey D. Billett             
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody             
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+SEPARATE OPINION Of ADMINISTRATIVE JUDGE MICHAEL RA’ANAN
+Applicant’s Exhibit C is a post-hearing submission from a bankruptcy attorney.  It consists
+of a three page letter and nine pages of attachments.  The letter explains in considerable detail how
+two debts cited in the SOR have been covered under Applicant’s Chapter 13 bankruptcy.  For a third
+debt, the letter explains that the unsecured creditor (a bank) has failed to take steps necessary to
+receive distributions from the Trustee although the creditor and its collection agent were provided
+notice.  The attachments are: 1. The mailing matrix which included all the cited creditors and the
+collection agent and 2. The Trustee’s Notice of Claims Filed and Intention to Pay Claims which
+includes the two creditors at issue who took the necessary steps to ensure distribution.
+The Judge’s decision to lend this exhibit little weight relies on the absence of one particular
+piece of corroborating evidence (Schedule F) referred to by the attorney but not attached.  Given the
+significance of the attorney’s explanation and the attachments provided, I am uncertain what
+additional significance would have been added by the presence of Schedule F.  The Judge also says
+“No evidence was submitted showing that any creditor ultimately decided not to file a claim.”
+Perhaps, but Applicant provided evidence that the creditor failed to take reasonable action to
+preserve its interests.  The Attorney wrote that the creditor failed to take required action after the
+creditor and its agent were given notice.  I am not sure what standard reasonably requires an
+applicant to provide evidence of an affirmative decision by a third party creditor.
+Signed: Michael Ra’anan          
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board

@@ -1,0 +1,126 @@
+KEYWORD: Guideline F
+DIGEST: If Applicant believed that there was additional information that the Judge required, it
+was his duty to present it.  Neither Judges nor Department Counsel are authorized to serve as
+investigators in a DOHA proceeding. Adverse decision affirmed. 
+CASENO: 15-07726.a1
+DATE: 02/28/2018
+DATE: February 28, 2018
+In Re:
+---------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-07726
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Sheila Durant, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+April 25, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On November 14, 2017, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Thomas M. Crean denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether he was denied due process and
+whether the Judge’s adverse decision was arbitrary, capricious, or contrary to law.  Consistent with
+the following, we affirm. 
+The Judge’s Findings of Fact
+Applicant is married with two children.  He had another child that passed away.  He has been
+employed by a Defense contractor for more than 20 years and has held clearance eligibility for the
+entire time.  Applicant earns about $120,000 a year and his wife earns about $60,000.  Applicant
+sometimes receives overtime pay.  After expenses, Applicant has about $2,600 in discretionary
+funds.
+Applicant’s SOR lists numerous financial problems, including two Chapter 13 bankruptcy
+filings.  Applicant’s first such petition was dismissed.  He filed another one over a year later, and
+it is still pending.  His SOR also lists an overdue mortgage, several traffic tickets, and two collection
+accounts.  Applicant admitted that he was not a good money manager.  In addition, his wife
+experienced unemployment, which affected their financial condition.  
+Applicant’s mortgage lender initiated foreclosure proceedings due to Applicant having failed
+to make the required payments.  Applicant filed for bankruptcy protection in order to protect his
+house, and he has demonstrated that his mortgage is now current.  In addition to the mortgage
+arrears, Applicant’s bankruptcy petition includes tax liens resulting from his having claimed more
+exemptions than he was authorized.  At the hearing, Applicant admitted that he had debts that “he
+has not looked at, thought about, contracted creditors, or arranged to pay.”  Decision at 4.  Although
+he promised to resolve his debts, he did not present any evidence showing that he had done so.
+The Judge’s Analysis
+The Judge concluded that Applicant’s debts are numerous, recent, and that they were not
+incurred under unusual circumstances.  Though noting Applicant’s pending bankruptcy proceeding,
+he found that many of the SOR debts are not included therein.  The Judge cited to evidence that
+Applicant did not manage his finances responsibly.  Applicant has been gainfully employed for over
+20 years and has significant discretionary funds after expenses.  Nevertheless, Applicant has not
+shown any attempt to resolve his debts other than those included in his bankruptcy.  The Judge
+concluded that Applicant did not provide sufficient documentation to show that he is paying his
+debts, negotiating with creditors, disputing debts, etc.  The Judge concluded that a lack of
+responsible action is a strong indicator that Applicant may fail to safeguard classified information.
+2
+Discussion
+Applicant has raised an issue of due process.  In doing so, he and Department Counsel in his
+Reply Brief present information that is not contained in the record.  We cannot consider new
+evidence on appeal.  Directive ¶ E3.1.29.  However, we will consider new evidence regarding such
+threshold issues as jurisdiction or due process.  See, e.g., ISCR Case No.16-01129 at 2 (App. Bd.
+Aug 7, 2017).
+Applicant contends that he was not apprised that his case would be adjudicated under the
+Guidelines promulgated on June 8, 2017.  However, with his Reply Brief Department Counsel has
+submitted documents showing that Applicant was notified that the most recent Guidelines would
+apply to his case, and he was given a copy of these Guidelines as well.  Applicant was not denied
+adequate notice of the Guidelines that would apply to his case.
+Applicant argues that the Judge did not properly evaluate his case for mitigation.  For
+example, he contends that to qualify for bankruptcy protection one must pass a financial
+management course.  He cites to the death of his child, noting the profound effect that this tragedy
+had upon him, and he states that he fully disclosed the extent of his debts.  Applicant contends that
+the traffic tickets in question were in fact included in his bankruptcy petition, which the Judge or
+Department Counsel could have discovered by calling the bankruptcy trustee.  He also contends that
+he sent the Judge evidence that those tickets not covered by bankruptcy had been paid.  
+The Judge made extensive findings about Applicant’s circumstances.  He noted especially
+Applicant’s stated reasons for having fallen into financial disarray.  The Judge also made a finding
+that Applicant had suffered the death of a child.  However, at the Hearing level Applicant did not
+cite to his undoubted grief over this tragedy as a specific  cause of his financial problems.  Rather,
+he admitted that his problems resulted from his own poor financial management and his wife’s
+unemployment.  If Applicant believed that there was additional information that the Judge required,
+it was his duty to present it.  Neither Judges nor Department Counsel are authorized to serve as
+investigators in a DOHA proceeding.  See, e.g., ISCR Case No. 15-05310 at 2 (App. Bd. Dec. 1,
+2017).   Regarding the traffic tickets, Applicant’s bankruptcy petition, which is included as a
+Government Exhibit, lists all but two of the tickets as unsecured nonpriority claims.1  To the extent
+that the Judge concluded that Applicant had done nothing at all about these tickets, he erred. 
+However, even if an applicant has actually paid his debts, or they have been removed through a legal
+process such as bankruptcy, a Judge may still consider the circumstances underlying the debts for
+what they may reveal about the applicant’s eligibility for a clearance.  See, e.g., ISCR Case No. 16-
+02246 at 2 (App. Bd. Dec. 8, 2017).  The Judge devoted much of his analysis to a discussion of
+Applicant’s poor financial management and to his significant after-expenses monthly income. 
+Therefore, even if the Judge had found that the vast majority of Applicant’s tickets were included
+in his bankruptcy petition he most likely would still have issued an adverse decision.  
+1Applicant’s brief includes documents from his state’s Department of Motor Vehicles showing that he had paid
+certain traffic tickets.  However, the ticket numbers do not match those of the remaining two SOR allegations.  
+3
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A ¶ 2(b):  “Any
+doubt concerning personnel being considered for national security eligibility will be resolved in
+favor of the national security.”
+4
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: William S. Fields             
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+5

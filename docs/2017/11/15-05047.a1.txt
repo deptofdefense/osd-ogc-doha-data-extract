@@ -1,0 +1,183 @@
+KEYWORD: Guideline F
+DIGEST: Regarding the earlier grant of a clearance, prior favorable adjudications do not
+undermine the legal sufficiency of a Judge’s subsequent adverse decision. The government is not
+estopped from making an adverse clearance decision when there were prior favorable
+adjudications. Adverse decision affirmed.
+CASENO: 15-05047.a1
+DATE: 11/8/2017
+DATE: November 8, 2017
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-05047
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+August 17, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On August 30, 2017, after considering the record, Defense Office of Hearings
+and Appeals (DOHA) Administrative Judge LeRoy F. Foreman denied Applicant’s request for a
+security clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge was biased against him;
+whether he was denied due process; whether the Judge erred in admitting the summary of
+Applicant’s clearance interview; whether the findings of fact contain errors; and whether the Judge’s
+adverse decision was arbitrary, capricious, or contrary to law.  Consistent with the following, we
+affirm.
+The Judge’s Findings of Fact
+Applicant works for a Federal contractor.  He holds a bachelor’s degree.  Applicant worked
+for a Federal contractor from 2001 to 2008, when he was laid off due to his employer closing a local
+factory.  He held part-time jobs from then until 2012, when his current employer hired him.  He has
+served as an officer in the National Guard and has held a clearance since 2008.
+Applicant divorced his wife in 2012.  The couple has four children, for whom the ex-wife
+pays child support.  Her payments have been sporadic, however.  Moreover, Applicant and his ex-
+wife were not good at managing their finances.  They missed a number of payments and bounced
+checks over the years.  Applicant enrolled in a budgeting class in about 2009, which was beneficial
+to him.  
+Applicant’s SOR lists five delinquent debts–a past-due mortgage, credit cards, a utility bill,
+and a medical bill.  Regarding the mortgage, Applicant and his wife refinanced their house in 2008
+and stopped making payments during the process.  They did not set aside funds for making their
+mortgage payments, resolving other debts instead.  Applicant succeeded in bringing his mortgage
+up to date in early 2009.  However, his credit report shows a past-due amount of about $38,000 as
+of March 2013.  A subsequent credit report shows that this was the date that Applicant made the last
+payment on this loan.  
+This house had been awarded to Applicant during his divorce.  Applicant chose to live in his
+mother’s house and rent the marital house.  However, his ex-wife reneged on her financial
+obligations.  Applicant had the renters vacate the house, and he stopped making payments on the
+loan.  Applicant stated that the lender reclaimed the house as abandoned and sold it for more than
+the amount owed.  Applicant did not provide any documentary evidence regarding the house, in
+particular he provided nothing to show that the debt has been resolved.  
+The Judge found that the credit card debts and the utility bill had not been resolved.  He also
+noted Applicant’s claim that he had paid the medical bill.  The two credit reports contained in the
+record show that Applicant had made substantial progress in resolving his financial problems,
+paying off several non-SOR debts.  Applicant has incurred no additional debt.  However, he did not
+provide documentary evidence regarding the debts alleged in the SOR, nor did he provide evidence
+regarding current income or living expenses.  
+The Judge’s Analysis
+The Judge concluded that Applicant’s financial problems raised four security concerns:
+inability to satisfy debts; unwillingness to satisfy debts regardless of the ability to do so; a history
+of not meeting financial obligations; and consistent spending beyond one’s means.1  In evaluating
+Applicant’s case for mitigation, the Judge stated that his delinquent debts are numerous, some of
+them not yet resolved.  The Judge noted circumstances beyond his control, such as his
+unemployment, divorce, and his wife’s failure to meet her financial obligations, such as child
+support payments.  He concluded, however, that Applicant did not show responsible action
+regarding the mortgage loan or the other debts.  Although Applicant’s divorce occurred more than
+four years ago, he has not presented evidence of any contact with creditors.  The Judge noted that
+Applicant has not disputed the information in his credit reports about the mortgage debt.  He
+observed that the File of Relevant Material (FORM) specifically advised Applicant that the file
+contained no documentary evidence that the mortgage had been resolved.  Despite this notice,
+Applicant presented no corroborating information in his response to the FORM. 
+Discussion
+Applicant contends that the Judge was biased against him.  However, he cites to nothing in
+the record that would support this contention, and our own examination of the record and the
+Decision has disclosed nothing either.  Applicant is no doubt dissatisfied with the Judge’s
+conclusions, but an adverse adjudication, in and of itself, is not enough to rebut the presumption that
+the Judge was impartial.  See, e.g., ISCR Case No. 12-10122 at 3 (App. Bd. Apr. 22, 2016); Bixler
+v. Foster, 596 F.3d 751 at 762 (10th Cir. 2010). 
+Applicant contends that he was denied due process.  He notes the Judge’s various comments
+about a paucity of mitigating evidence and argues that, if the Judge believed that he needed
+additional information, he should have convened a hearing.  Applicant also contends that he was not
+placed on notice that he needed to present corroborating evidence of debt resolution and argues that
+he should be permitted to submit additional documentation.  Applicant’s brief includes a number of
+documents that are not contained in the record.  
+Regarding the first point, as Department Counsel notes in his Reply Brief, the Directive
+provides that a hearing may be requested either by the applicant or by Department Counsel. 
+Directive ¶¶ E3.1.4; E3.1.7.  There is no provision for a Judge to convene a hearing on his own
+motion.  On the second point, Applicant received guidance from DOHA about his right to make a
+documentary response to the FORM, to include “any material you wish the Administrative Judge
+to consider[.]” Cover Letter to FORM, dated September 29, 2016.  The FORM itself notified
+Applicant that he 
+has not provided any documentation that the mortgage debt is resolved or that he has
+made any attempt to reach out to creditors or otherwise work to resolve any of his
+delinquent accounts. 
+DOHA included a copy of the Directive along with the FORM, which also spells out an
+applicant’s right to make a documentary response.  Applicant acknowledged receipt of the FORM
+and accompanying material on October 7, 2016.  
+1Directive, Encl. 2, App. A ¶ 19(a-c), (e).  
+As the Judge found and the record demonstrates, Applicant is a college educated military
+officer.  There is nothing to suggest that he lacked the ability to understand the guidance that he
+received, in particular the notice in the FORM about a paucity of evidence of debt resolution. 
+Furthermore, the Directive explicitly states that it is the applicant’s burden to provide evidence in
+mitigation and extenuation.  Directive ¶ E3.1.15.  Although pro se applicants are not held to the
+standard applied to lawyers, they are expected to take timely steps to secure their rights and present
+their cases for mitigation.  See, e.g., ISCR Case No. 15-08255 at 4 (App. Bd. Aug. 22, 2017). 
+Applicant was not denied the due process that the Directive affords.  We are not permitted to
+consider new evidence on appeal.  Directive ¶ E3.1.29.  We have no authority to remand a case
+simply in order for the Judge to consider additional evidence.  See, e.g., ISCR Case No. 15-02957
+at 3-4 (App. Bd. Feb. 17, 2017).
+Applicant contends that the Judge erred in admitting the summary of his clearance interview. 
+He contends that he objected to this document in his response to the FORM.  We examine a Judge’s
+rulings on the admission of evidence to see if they are consistent with the Directive or if they are
+arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 12-02296 at 3 (App. Bd. Mar. 12,
+2014).  Contrary to Applicant’s argument, he did not object to the interview summary.  Rather, his
+objections were directed toward Department Counsel’s comments in the FORM.  We resolve this
+issue adversely to Applicant.
+Applicant challenges some of the Judge’s findings of fact.  We have examined the findings
+in light of the record as a whole.  Among other things, Applicant challenges the Judge’s finding that
+the company he worked for from 2001 to 2008 was a Government contractor.  This argument is
+persuasive, in light of the information in Applicant’s clearance application and interview summary. 
+However, this factual error did not likely affect the outcome of the case.  Therefore, it is harmless. 
+See, e.g., ISCR Case No.15-07118 at 3 (App. Bd. Aug. 18, 2017).  The Judge’s material findings are
+supported by “such relevant evidence as a reasonable mind might accept as adequate to support a
+conclusion in light of all the contrary evidence in the same record.”  Directive ¶ E3.1.32.1. 
+Applicant has cited to no harmful error in the Decision.    
+Applicant challenges the Judge’s treatment of his case for mitigation.  He cites to favorable
+evidence, such as his having resolved several debts and that he has not acquired additional ones. 
+He notes that when he first received a clearance, in 2008, he had financial problems.  He argues that
+his circumstances are less dire now than they were then.  He also contends that he did not know that
+he could submit character references or evidence of his military record, work performance, etc.  
+Regarding the earlier grant of a clearance, prior favorable adjudications do not undermine
+the legal sufficiency of a Judge’s subsequent adverse decision.  The government is not estopped
+from making an adverse clearance decision when there were prior favorable adjudications.   See,
+e.g., ISCR Case No. 14-02995 at 2-3 (App. Bd. Apr. 7, 2016).  Be that as it may, many of the events
+surrounding Applicant’s mortgage problem occurred after 2008, and this debt appears to remain
+unpaid as of the close of the record.  This is a significant delinquency that was not present at the time
+of the earlier adjudication, and it supports the Judge’s overall adverse conclusions.  
+We note Applicant’s argument that he was not aware that he should or could submit
+character evidence, etc.  However, for reasons set forth above, we conclude that he was placed upon
+sufficient notice of his right and obligation to present evidence in mitigation.  Each case must be
+decided on its own merits, and neither the Directive nor DOHA officials can reasonably notify an
+applicant of all of the kinds of evidence that might be pertinent in a given adjudication.  Moreover,
+Applicant’s citations to various things in the record that are favorable to him are not enough to rebut
+the presumption that the Judge considered all of the evidence in the record.  Neither are they enough
+to show that the Judge weighed the evidence in a manner that was arbitrary, capricious, or contrary
+to law.  See, e.g., ISCR Case No. 15-08711 at 3 (App. Bd. Aug. 24, 2017).  
+We note Applicant’s argument that his credit reports show that he has resolved many of his
+debts.  The Judge made a finding to this effect.  However, the contents of credit reports in and of
+themselves do not provide meaningful evidence that debts have been resolved to an extent sufficient
+to show mitigation of the security concerns arising from financial delinquencies.  See, e.g., ISCR
+Case No. 15-02957 at 3 (App. Bd. Feb. 17, 2017).  
+       
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision, both as to the mitigating conditions and the whole-person factors.  The decision is
+sustainable on this record.  “The general standard is that a clearance may be granted only when
+‘clearly consistent with the interests of the national security.’”  Department of the Navy v. Egan, 484
+U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A ¶ 2(b):  “Any doubt concerning personnel
+being considered for national security eligibility will be resolved in favor of the national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan            
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody            
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy             
+James F. Duffy
+Administrative Judge
+Member, Appeal Board

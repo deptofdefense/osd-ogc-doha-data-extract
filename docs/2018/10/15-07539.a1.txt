@@ -1,0 +1,264 @@
+KEYWORD: Guideline E
+DIGEST: We give deference to a Judge’s credibility determinations.  However, there are limits
+to this deference.  Where the record contains a basis to question an applicant’s credibility
+(inconsistent statements, contrary record evidence, etc.) the Judge should address that aspect of
+the record explicitly, explaining why he or she finds an applicant’s version of events to be
+worthy of belief.  Failure to do so suggests that a Judge has merely substituted a favorable
+impression of an applicant’s demeanor for record evidence. Favorable decision reversed.
+CASENO: 15-07539.a1
+DATE: 10/18/2018
+DATE: October 18, 2018 
+In Re:
+-----------------------
+  
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-07539
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Andrea Corrales, Department Counsel
+FOR APPLICANT
+Tod. D. Stephens, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+November 5, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline E (Personal Conduct) of Department of Defense
+Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On May
+25, 2018, after the hearing, Defense Office of Hearings and Appeals (DOHA) Administrative Judge
+Noreen A. Lynch granted Applicant’s request for a security clearance.  Department Counsel
+appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Department Counsel raised the following issue on appeal: whether the Judge’s favorable
+decision is unsupported by the weight of the record evidence.  Consistent with the following, we
+reverse.
+The Judge’s Findings of Fact
+Applicant served in the military as an intelligence officer, retiring in 2009.  He has worked
+for his current employer since 2010 and has held a clearance throughout his military and civilian
+careers.  In 2013, his clearance was suspended.  Applicant’s SOR alleges that, in 2011, he underwent
+a DoD polygraph examination during which he manipulated his physiology.  The SOR contains one
+other allegation, that Applicant deliberately provided false and misleading information in an
+interview with a DoD representative in 2013.  
+Applicant denied that he had manipulated his physiology during the 2011 polygraph
+examination.  He stated that he was nervous and tried to control his breathing by breathing normally. 
+He denied ever admitting that he had engaged in that alleged conduct.  Applicant’s contention is the
+opposite of what is contained in a 2014 memorandum by another Government agency.  However,
+the Judge found that Applicant was credible in stating that he merely followed the examiner’s
+instructions concerning his breathing.  “I found Applicant’s testimony and demeanor more credible
+than the summary clearance decision of 2013 from the other agency.”1  Decision at 2.
+Applicant failed a 2009 polygraph for another agency due to a question about whether he had
+ever committed a serious crime.  After extensive questioning, Applicant acknowledged that he did
+not have a permit to carry a concealed handgun and had been doing so for several years.  The agency
+initially denied Applicant’s SCI access, but this action was reversed on appeal based on Applicant’s
+having obtained the proper permits.
+Applicant admitted that he provided false and misleading information during a DoD
+polygraph examination in 2013.  During the interview, he initially did not truthfully answer a
+question about having visited a polygraph website because he was embarrassed and concerned about
+his security clearance.  He admitted that, contrary to his initial answers, he looked through a stack
+of documents about taking polygraphs and that he purchased materials from a website.  At the
+1The other Government agency revoked Applicant’s access to sensitive compartmented information (SCI).  See,
+e.g., Memorandum for Record, dated November 6, 2013, contained in Government Exhibit (GE) 3.  
+2
+hearing, he expressed remorse, stating that he had gone to various websites and had done
+background research  after his wife shared some materials with him following his 2009 polygraph
+failure.  “After repeated denials, he stated that he purchased this material from a website stating that
+he did not remember doing that or thinking that it was [irrelevant] in 2013.”2  Decision at 3.
+Applicant acknowledged his behavior and lapse in judgment by not being forthcoming
+concerning viewing and purchasing material from a website.  He admitted his conduct to his pastor,
+employer, and supervisors.  His character witnesses praised his career and dedication.  In 2010,
+Applicant was referred for a psychological evaluation after his initial clearance denial.  The
+evaluation report observed that Applicant had disclosed the information about his handgun violation
+and that he has never had any other non-compliance issues during his military or civilian career. 
+The evaluation report concluded that Applicant is reliable.
+The Judge’s Analysis
+The Judge stated that Applicant had provided credible evidence that he did not manipulate
+his physiology in 2011.  Therefore, she resolved that allegation in his favor.  Although she found
+that he had deliberately provided false information during the 2013 polygraph examination, she
+stated that he corrected his mistake and provided full and frank answers.  She stated that he made
+a prompt, good-faith effort to correct his falsifications and that he is sincerely remorseful about his
+misconduct.  She stated that sufficient time has passed since this incident to establish mitigation, and
+she noted his favorable character evidence.  She also concluded that Applicant had taken
+responsibility for his actions.  
+Discussion
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt
+concerning personnel being considered for national security eligibility will be resolved in favor of
+the national security.”  Directive, Enclosure 2, App. A ¶ 2(b).  The Appeal Board may reverse the
+Judge’s decision to grant, deny, or revoke a security clearance if it is arbitrary, capricious, or
+contrary to law.  Directive ¶¶ E3.1.32.3 and E3.1.33.3.
+There is a strong presumption against the grant or maintenance of a security clearance.  See
+Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After
+the Government presents evidence raising security concerns, the burden shifts to the applicant to
+rebut or mitigate those concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and
+mitigating conditions and whole person factors does not turn simply on a finding that one or more
+2These repeated denials occurred during the 2013 polygraph, not at the hearing.
+3
+of them apply to the particular facts of a case.  Rather, their application requires the exercise of
+sound discretion in light of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at
+3 (App. Bd. Dec. 20, 2006).
+In deciding whether the Judge’s rulings or conclusions are erroneous, we will review the
+Judge’s decision to determine whether:  it does not examine relevant evidence; it fails to articulate
+a satisfactory explanation for its conclusions, including a rational connection between the facts
+found and the choice made; it does not consider relevant factors; it reflects a clear error of judgment;
+it fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  See, e.g., ISCR Case No. 14-02563 at 3 (App. Bd. Aug. 28, 2015).
+Department Counsel challenges the Judge’s finding that Applicant did not manipulate his
+physiology during a 2011 polygraph examination.  She argues that the Judge, in effect, substituted
+a credibility determination for record evidence.  We examine Judge’s findings of fact to see if they
+are based upon substantial evidence, that is, “such relevant evidence as a reasonable mind might
+accept as adequate to support a conclusion in light of all the contrary evidence in the same record.” 
+Directive ¶ E3.1.32.1.  See ISCR Case No. 17-00506 at 3 (App. Bd. Aug. 7, 2018).  We give
+deference to a Judge’s credibility determinations.  However, there are limits to this deference. 
+Where the record contains a basis to question an applicant’s credibility (inconsistent statements,
+contrary record evidence, etc.) the Judge should address that aspect of the record explicitly,
+explaining why he or she finds an applicant’s version of events to be worthy of belief.  Failure to
+do so suggests that a Judge has merely substituted a favorable impression of an applicant’s demeanor
+for record evidence.  See, e. g.,  ISCR Case No. 16-01077 at 3 (App. Bd. Apr. 25, 2018); ISCR Case
+No. 15-05565 at 4-5 (App. Bd. Aug. 2, 2017).
+As Department Counsel notes, the Judge found Applicant’s denials of wrongdoing to be
+more credible than the clearance decision statement included among the Government’s exhibits. 
+This decision statement, dated July 2014, revoking Applicant’s access to SCI, contains a summary
+of Applicant’s answers during his 2013 polygraph examination, during which he purportedly
+admitted to having altered his breathing in order to pass a polygraph in 2011.  The decision
+statement avers that Applicant told his interviewers that, after the 2009 polygraph that he failed, he
+came home frustrated and angry.  He stated that his wife gave him a stack of documents regarding
+polygraph examinations, but he denied looking at them.  After further questioning, he admitted that
+he did look at them, stating that the documents provided information about polygraph examinations. 
+Applicant initially denied actually employing any countermeasure during the 2011 polygraph. 
+However, after additional questioning, Applicant admitted that not only did he read the material that
+his wife gave him but that both of them had purchased the material from a website that offered
+instruction on how to beat a polygraph.  After even further questioning, Applicant admitted that he
+had, in fact, conducted his own research following his 2009 polygraph failure.  The decision
+statement then avers that Applicant admitted that, during the 2011 polygraph, he changed his
+breathing during the exam in hopes of receiving a favorable result.  He stated that he had
+intentionally withheld this information during initial questioning because he was afraid that he
+would lose his clearance and his job.  2014 Decision Statement, included in GE 3. 
+4
+ 
+The challenged finding would seem to imply that the inculpatory evidence on this matter
+consists strictly of  the 2014 decision statement, which the Judge found wanting.  In fact, the
+decision statement appears to have been based upon the report of the 2013 interview in which
+Applicant made the inculpatory admissions.  This report is also included in GE 3.  The report is
+dated November 6, 2013, which is the same date as the interview.  The report contains the same
+information that is referenced in the decision statement, save that it much more detailed.  The report
+states that Applicant initially denied any wrongdoing but, after extensive questioning, finally
+admitted matters identical to those summarized in the decision statement. Among other things, the
+report states that, after Applicant denied having looked at the documents that his wife gave him, he
+was then administered a second polygraph examination,3 after which he admitted that he had looked
+through them.  After repeated questioning, Applicant admitted that he and his wife had paid between
+$40 and $60 for information on beating a polygraph.  After even more questioning, he admitted that
+he had conducted research into defeating a polygraph and, in 2011, had intentionally manipulated
+his physiology during the exam.
+    As Department Counsel argues, the Judge did not discuss why she found the factual
+summary contained in the 2014 decision statement to be lacking credibility.  As noted, it was based
+upon the 2013 interview report, which was produced on the same day as the interview that it
+described, and, therefore, was less likely to have been impaired by faulty memories of those who
+generated it.  This report is detailed, internally consistent, and contains nothing on its face that
+would lead one to question the motives of those who prepared it.  Indeed, there is nothing in the
+record that would suggest a motive for DoD examiners to falsify Applicant’s statements during the
+2013 interview, the contrast between the report and Applicant’s denials of wrongdoing being too
+stark to have resulted from mere misunderstanding of his answers.  As we have stated elsewhere,
+Government officials are entitled to a presumption of regularity and good faith in the discharge of
+their official responsibilities, and Applicant has provided nothing of substance to rebut that
+presumption.4  See, e.g., ISCR Case No. 14-02347 at 4 (App. Bd. Aug. 28, 2015). 
+In addition, the report, and consequently the decision statement, are corroborated in
+significant ways.  Applicant admitted that the report correctly described his shifting statements about
+3The actual polygraph results are not disclosed in the record and, in any event, are not proper matters for our
+consideration.  Statements made in response to questioning during a polygraph examination are admissible, although
+the results of the exam itself are not.  See, e.g., ISCR Case No. 02-31428 at 4 (App. Bd. Jan. 20, 2006), internal citations
+omitted.  
+4Applicant testified that, although his interviewer was initially friendly, at some point he became confrontational
+and accusatory.  Applicant testified that the interviewer seemed as if he were trying to obtain a desired response.  Tr.
+at 81.  There is nothing in the record about this other than Applicant’s own testimony.  The Judge did not discuss this
+aspect of Applicant’s testimony, although we note that it does not suggest a motive for the interviewer to have prepared
+a report that intentionally distorted Applicant’s answers.  
+5
+his acquisition and consideration of website information concerning defeating a polygraph.5  It is
+also corroborated by a decision statement in 2010 regarding his having failed initially to disclose
+his handgun violation during the 2009 polygraph.  This document states that Applicant “withheld
+this information initially out of fear of being perceived in a negative light.”  GE 3.  Therefore, it
+describes conduct by Applicant during a polygraph interview which is remarkably similar to that
+which he was reported to have displayed in 2013–initially lying about security significant conduct,
+only to admit it after extensive questioning.  Moreover, we note that Applicant appealed the result
+of the 2014 decision statement that his access to SCI be revoked.  However, in November 2014, the
+appeal authority upheld this revocation.  Although the contents of Applicant’s appeal are not
+contained in the record, that an official reviewed the evidence and upheld the SCI denial is a reason
+to believe in the reliability of the information contained in the 2014 decision statement and the
+underlying report.  Finally, we note record evidence and the Judge’s findings showing that Applicant
+made numerous inconsistent statements during the course of the 2013 interview.  Inconsistent
+statements can impugn an witness’s credibility.  See, e.g., ISCR Case No. 15-03778 at 3 (App. Bd.
+Aug. 4, 2017).
+None of this was addressed by the Judge’s decision, which undermines the credibility
+determination upon which the challenged finding is based.  As it stands, we find persuasive
+Department Counsel’s argument that the Judge merely substituted a favorable impression of
+Applicant’s demeanor for record evidence.  Contrary to the Judge’s analysis, the record contains
+substantial evidence that Applicant actually made the statements attributed to him in the report and
+the decision statement.  These statements are such that a reasonable person would not likely have
+made them unless he or she believed them to be true.  See, e.g., ISCR Case No. 11-03452 at 5 (App.
+Bd. Jun. 6, 2012).  See also ISCR Case No. 07-18324 at 5-6 (App. Bd. Mar. 11, 2011) regarding the
+enhanced credibility of statements against interest.  The challenged finding that Applicant did not
+manipulate his physiology during the 2011 polygraph examination is not sustainable.
+Department Counsel also challenges the Judge’s mitigation analysis regarding Applicant’s
+admitted deliberate false statements during the 2013 polygraph interview.  Contrary to the Judge’s
+conclusion, there is nothing in the record to show that Applicant voluntarily disclosed his security
+5Applicant corroborated another part of the report and 2014 decision statement.  In the report, he advised the
+interviewers that, the night before his polygraph, he received a phone call from someone who identified herself as a news
+reporter.  This person stated to Applicant that she knew where he worked and that he had a Top Secret clearance.  This
+person reportedly stated to Applicant that his name was on an FBI list of persons who had bought online documents
+concerning polygraphs.  He told the interviewers that the phone call lasted ten to fifteen minutes.  Applicant stated that
+he did not advise the interviewer of this phone call during the pretest interview because he did not think that it was
+relevant.  At the hearing, Applicant testified about this phone call, providing essentially the same information that was
+contained in the decision statement.  He stated that this phone call made him nervous and anxious in approaching his
+November 2013 polygraph.   He stated that, on the next duty day (presumably following the polygraph) he notified his
+facility security officer of this call.  Tr. at 53.  The Judge made no findings about this rather bizarre incident and it did
+not factor into her analysis.  However, it provides another instance in which Applicant failed to disclose to his polygraph
+interviewers information that was germane to the polygraph examination, that is an event that made him unduly anxious
+on the day of the test.    
+6
+significant conduct before having been confronted with the facts.6  Indeed, the record shows that
+Applicant admitted his conduct only after multiple polygraph examinations and after repeated
+questioning.  The Judge’s own findings do not support her favorable mitigation analysis regarding
+multiple false statements during the course of a national security eligibility interview, which in and
+of itself supports an adverse decision.7  The Directive is clear that refusal to provide full, frank, and
+truthful answers to lawful questions of investigators and other officials representatives in connection
+with a personnel security determination “will normally result in an unfavorable” result.  Directive,
+Encl. 2, App. A ¶ 15(b).  Moreover, Applicant’s efforts constitue a failure of cooperation with the
+security clearance process, which also normally will result in an unfavorable clearance decision. 
+Id. at ¶15a.  See also, ISCR Case No. 11-03452 at 5 (App. Bd. Jun. 6, 2012).  After considering
+Department Counsel’s arguments in light of the entirety of the record, we conclude that the Judge’s
+favorable decision failed to address important aspects of the record and ran contrary to the weight
+of the record evidence.  Accordingly, the Judge’s favorable security clearance determination is not
+sustainable.    
+6Directive, Encl. 2, App. A ¶ 17(a): “the individual made prompt, good-faith efforts to correct the omission,
+concealment, or falsification before being confronted with the facts[.]”
+7The Judge found: first, Applicant committed a serious crime (weapons offense) from 2004 until about 2010;
+second, Applicant failed a polygraph regarding the question of whether he had committed a serious crime; third, he
+visited web-sites about manipulating polygraphs; fourth, he lied about visiting the web-sites in an interview in 2013;
+fifth, he purchased material on polygraph manipulation; and sixth, he lied about purchasing such material in an interview
+in 2013.
+7
+Order
+The Decision is REVERSED.    
+Signed: Michael Ra’anan              
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                   
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+8

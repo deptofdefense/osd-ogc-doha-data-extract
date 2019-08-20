@@ -1,0 +1,286 @@
+KEYWORD: Guideline E; Guideline D
+DIGEST: The Appeal Board defers to a Judge’s credibility determination unless that
+determination is unreasonable or is contradicted by other evidence.  The Judge’s finding that
+Applicant had not deliberately made false statements was not supported by substantial record
+evidence.  Evidence of other wrongs or acts is relevant in evaluating an applicant’s mens rea. 
+Favorable decision reversed.
+CASE NO: 11-11959.a1
+DATE: 10/15/2013
+DATE: October 15, 2013
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-11959
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Alison O’Connell, Esq., Department Counsel
+FOR APPLICANT
+William F. Savarino, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+February 11, 2013, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline E (Personal Conduct) and Guideline D (Sexual
+Behavior) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).
+Applicant requested a hearing.  On June 21, 2013, after the hearing, Defense Office of Hearings and
+Appeals (DOHA) Administrative Judge Francisco Mendez granted Applicant’s request for a security
+clearance.  Department Counsel appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+2
+Department Counsel raised the following issues on appeal: whether the Judge’s credibility
+determination was erroneous; whether the Judge erred in finding that Applicant had not deliberately
+provided false information to persons investigating his requests for security clearances; and whether
+the Judge’s adverse decision was arbitrary, capricious, or contrary to law.  Consistent with the
+following, we reverse.
+The Judge’s Findings of Fact
+Applicant works for a Federal contractor.  He first applied for a security clearance in 2003,
+receiving the clearance in 2005.  He enjoys as excellent reputation for the quality of his work
+performance.
+In 2001, Applicant and some friends purchased a used car.  Subsequently, the car was
+burglarized and left inoperable.  One of the friends proposed to set the car on fire.  Applicant tried
+to dissuade the friend without success and left the scene.  He was charged with misdemeanor arson,
+and, after Applicant completed a fire safety course, the court dismissed the charge. 
+When Applicant completed his security clearance application (SCA) in 2003, none of the
+questions required him to disclose the juvenile charge of arson.  During a subsequent background
+interview, he mistakenly told the interviewer that he had been charged with a felony and had served
+probation.  Despite this erroneous information, Applicant was granted a clearance.
+In 2006, Applicant completed another SCA for a position requiring access to sensitive
+compartmented information (SCI).  This position was with another government agency (AGA).
+When questioned by investigators, Applicant did not advise that he had been questioned by police
+in connection with the arson.  In 2010, prior to being confronted about this omission, he voluntarily
+disclosed the information.
+During the SCI interview, Applicant made several admissions:  
+Applicant admitted to downloading music and games from the internet without
+paying for them . . . He also admitted that, starting at 15 years of age, he would
+search for, download, and view pornography from the internet–some of the
+pornography he viewed at that time involved minors like himself.  He told the
+investigator that, after turning 18, he only sought out adult pornography on the
+internet.  But, admitted that he had inadvertently downloaded and viewed what he
+suspected might be child pornography on several occasions . . . He continued to
+search for and download pornography from the internet knowing that he was
+exposing himself to the risk that some of the material he downloaded might contain
+suspected child pornography.  Decision at 3 (internal citations omitted) 
+After this interview, AGA stopped processing Applicant’s request for SCI access, although
+he retained his clearance.  When completing his current SCA, Applicant voluntarily disclosed that
+AGA did not finalize the processing of his SCI request and the basis for the action.
+3
+At the hearing, Applicant testified that, during his teenage years, he would download
+pornography onto his personal computer at home, using peer-to-peer file sharing networks.  Upon
+reviewing the files, if he suspected one or more might contain child pornography, he would not
+download it.  Sometimes he could not tell if a file contained child pornography or not.  If he viewed
+a file that contained suspected child pornography, he would immediately delete the file.  Applicant
+denies ever intentionally looking for, downloading, viewing, saving to his computer, or distributing
+child pornography.
+Applicant has revealed the Government’s security concerns to his family, friends, co-
+workers, facility security officer, and neighbors whose minor children he regularly babysits.  They
+all provided letters attesting to his character and stating their opinions that he did not exhibit
+sexually deviant behavior.  He told his wife of the security concerns in his case prior to their
+wedding.  
+The Judge’s Analysis
+The Judge concluded that the misdemeanor arson charge and Applicant’s admission that he
+had inadvertently downloaded suspected child pornography on several occasions raised concerns
+under Guideline E.  He stated that Applicant’s repeatedly having exposed himself to the possibility
+of downloading child pornography was risky and called his judgment into question.  He concluded
+that the arson charge was aberrant behavior that occurred during Applicant’s minority which has not
+been repeated.  He also concluded that Applicant had mitigated the concerns arising from his
+internet use by having taken responsible steps to avoid the danger of downloading and viewing illicit
+material.  Moreover, at the time of the hearing, he had not viewed any pornography in over three
+years.  The Judge specifically found that Applicant had not intentionally downloaded or searched
+for child pornography, noting his consistent claim that, since age 18, he had not done so.
+Additionally, by fully informing his family, friends, and co-workers about his security concerns,
+Applicant removed the possibility that he could be subjected to coercion or duress.  
+The Judge concluded that Applicant had mitigated security concerns arising from his
+omission of the arson charge from his 2006 and 2010 SCAs.  The Judge also concluded that
+Applicant had not deliberately failed to advise during his clearance interview with AGA of his 2001
+interaction with the police.  The Judge concluded that Applicant had honestly believed that he did
+not have to inform interviewers about this matter.  The charge had been dismissed more than seven
+years prior to his current SCA, and he had informed the Government of this concern during his
+initial background investigation in 2003.
+The Judge concluded that Applicant, by voluntarily disclosing on his current SCA the
+adverse information that had led AGA to terminate the processing of his request for SCI, had
+demonstrated the trustworthiness required of those given access to classified information.  He also
+stated that, after having reviewed the evidence and observed Applicant’s demeanor at the hearing,
+Applicant had not deliberately provided false information during the processing of any of his SCAs.
+4
+Decision
+Once a concern arises regarding an Applicant’s security clearance eligibility, there is a strong
+presumption against the grant or maintenance of a security clearance.  See Dorfmont v. Brown, 913
+F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After the Government presents
+evidence raising security concerns, the burden shifts to the applicant to rebut or mitigate those
+concerns.  See Directive ¶ E3.1.15.  The standard applicable in security clearance decisions “is that
+a clearance may be granted only when ‘clearly consistent with the interests of the national security.’”
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt concerning personnel being
+considered for access to classified information will be resolved in favor of the national security.”
+Directive, Enclosure 2 ¶ 2(b). 
+In deciding whether the Judge's rulings or conclusions are erroneous, the Board will review
+the Judge's decision to determine whether: it does not examine relevant evidence; it fails to articulate
+a satisfactory explanation for its conclusions, including a rational connection between the facts
+found and the choice made; it does not consider relevant factors; it reflects a clear error of judgment;
+it fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2, 2006).
+Department Counsel argues that the Judge erred in his credibility determination.  We are
+required to defer to a Judge’s credibility determination unless it is unreasonable or contradicted by
+other evidence.  See, e.g., ISCR Case No. 10-08705 at 2 (App. Bd. May 14, 2012).  In particular,
+Department Counsel challenges the Judge’s reliance upon Applicant’s hearing testimony, arguing
+that the Judge failed to give reasonable consideration to contrary evidence.  This contrary evidence
+consisted of answers that Applicant had reportedly provided in connection with polygraph testing
+by AGA.  These answers are summarized in Government Exhibit (GE) 6, a letter with attachment
+from the General Counsel (GC) of AGA.
+The gravamen of this issue is Applicant’s claim that he never intentionally sought child
+pornography during his internet searches.  In GE 6, the GC stated that the attached interview
+summary was a true copy of the original maintained by AGA.  The GC further stated that it was in
+the regular course of AGA business for persons with knowledge of the act or event in question to
+make a record at or near the time of the event or reasonably soon thereafter.  The attachment to the
+GC letter states that Applicant submitted to two polygraph examinations in August 2006.  During
+interviews connected with these examinations he advised the interviewers of the following, among
+other things: (1): between 1998 and 2004 he downloaded 13,000 songs valued at $13,000, 100 to
+150 movies valued at $20 each, software valued at $2,000 to $3,000, and 100 to 150 computer
+games valued at $50 each; (2) beginning at age 15, he actively searched for and viewed child
+pornography,  the images depicting children between 12 and 13 years old; (3) since age 18, he has
+not deliberately sought out child pornography; and (4) in the previous seven years he had
+downloaded about 25,000 pornographic images, of which about 2,500 were child pornography.
+1In an April 2012 interrogatory answer, Applicant stated that he had not illegally downloaded material from the
+internet since the summer of 2006.  GE 3 at 4.  
+2This conduct was not alleged in the SOR.  Non-alleged conduct may be considered in evaluating an applicant’s
+credibility, rehabilitation, case for mitigation, etc.  See, e.g., ISCR Case No. 11-13664 at 5, n. 2 (App. Bd. Aug. 15,
+2013).
+5
+GE 6 also states that Applicant submitted to another interview in June 2007.  During this
+interview he stated, among other things, the following: (1) in his lifetime he has illegally
+downloaded about 20,000 songs, most of which have been deleted from his computer; (2) in his
+lifetime he has illegally downloaded about 500 movies and 200 computer games; (3) he knows that
+this practice is illegal, but he will continue it out of convenience; (4) he downloads large quantities
+of pornographic images at a time, of which 5% to 10% depict children; (5) he continues to visit these
+sites, knowing that child pornography is present; (6) he deletes the child pornography; and (8) he
+last viewed an image of child pornography in 2006.
+At the hearing, Applicant corroborated much of this evidence.  He acknowledged that (1) he
+underwent polygraph testing pursuant to an application for SCI; (2) he was interviewed in
+connection with these tests; (3) he admitted that he had engaged in peer-to-peer file sharing,
+downloading songs, etc; (4) he admitted that he would access large amounts of pornography; (5) at
+the time he accessed the pornography, it was reasonably foreseeable to him that some of the files
+would depict children; (6) he acknowledged that the summary accurately depicted his answers as
+to the proportion of these files that contained child pornography; and (7) based on his answers AGA
+terminated processing of his application for SCI.  Moreover, during his testimony Applicant did not
+challenge GE 6 in its depiction of his answers regarding the downloading of songs, movies, etc,
+either as regards the amount and value of the material he obtained, the illegal nature of his having
+done so, or that he had stated his intent to continue this conduct.1  Therefore, Applicant’s
+presentation confirms that the summary was, in the main, accurate, his principal disagreement being
+with the proposition that he had intentionally sought and viewed child pornography.  
+Although the Judge stated that he found Applicant’s contention credible, Department
+Counsel argues that this conclusion by the Judge was at odds with the language quoted in the
+Findings section above.  That is, the Judge found that Applicant sought and viewed pornography,
+some of the material he viewed depicting children.  The Judge found that Applicant had ceased
+actively looking for child pornography after age 18.  This finding tracks the language of GE 6 and
+most reasonably implies that Applicant had knowingly sought such material in earlier years.  As
+Department Counsel argues, this finding is not consistent with a conclusion that Applicant was
+credible in having denied such conduct.  Neither is the Judge’s finding that Applicant downloaded
+music and games without paying for them consistent with that determination.2  In addition, although
+Applicant contends that he did not admit to the AGA interviewers that he had actively sought child
+pornography, he provided no evidence to establish a reason for the interviewers to have
+misrepresented his answers or to rebut the presumption that Federal officials undertake their duties
+3“Based upon the specific, detailed information contained in [GE 6], almost all of which was confirmed by
+Applicant’s hearing testimony, a reasonable person could only conclude that [GE 6] represents an accurate depiction of
+Applicant’s statements made during his [AGA] interviews and is not the result of a misunderstanding of Applicant’s
+answers.  To reach any other conclusion one [would] have to believe that there was a willful fabrication by [AGA]
+officials.  However, there is no evidence of this and federal agencies and their employees are entitled to a presumption
+of good faith and regularity in the performance of their responsibilities.”  Appeal Brief at 21.  Applicant’s Reply Brief
+addresses this contention.  Applicant states that he is not proposing that GE 6 represents a willful misrepresentation.
+“Rather, it is a recognition that the purported statements are inherently subject to and affected by the subjective
+interpretation of the person or persons who were involved in the process or processes of converting [Applicant’s] actual
+oral statements to the written report.”  Reply Brief at 11-12.  We do not find Applicant’s argument persuasive, in light
+of the detail with which GE 6 describes Applicant’s answers.  A reasonable person would not likely conclude that such
+detail was the result of honest misunderstanding or ambiguity of speech.  While a summary by definition is not a
+verbatim report, a misinterpretation of the magnitude inherent in Applicant’s position cannot reasonably be characterized
+as honest or inadvertent.  This lends persuasive force to Department Counsel’s argument that, absent evidence of willful
+fabrication by AGA interviewers, the most reasonable conclusion is that GE 6 correctly summarized Applicant’s
+answers.
+4The SOR alleged that, in SCAs completed in 2006 and in 2010, Applicant had failed to mention that he had
+been charged with a felony.  He presented evidence that authorities had treated the arson as a misdemeanor.  However,
+even assuming that Applicant had never been charged with a felony, in his 2006 SCA he failed to mention the incident
+in response to a question about other offenses not listed elsewhere in the SCA.  He also failed to mention the incident
+6
+in good faith.3  See, e.g., ISCR Case No. 11-07509 at 6 (App. Bd. Jun. 25, 2013).  The Decision
+viewed as a whole did not reasonably address evidence that contradicted the Judge’s favorable
+opinion of Applicant’s credibility.   “While a Judge is presumed to have considered all of the
+evidence in the record, he or she must address ‘significant record evidence that a reasonable person
+could expect to be taken into account in reaching a fair and reasoned decision.’”  See  ISCR Case
+No. 06-18270 at 3 (App. Bd. Nov. 7, 2007).  Viewed in light of the record as a whole, the Decision
+does not reasonably explain why the Judge discounted record evidence that Applicant had actively
+sought to view child pornography at some time in his life.  We conclude that the challenged
+credibility determination is not supportable.
+Department Counsel challenges the Judge’s findings that Applicant had not deliberately
+made false statements during the processing of his various SCAs.  In analyzing an Applicant’s mens
+rea, a Judge must consider the applicant’s answers in light of the record as a whole.  See, e.g., ISCR
+Case No. 11-14265 at 3 (App. Bd. Aug. 28, 2013).  One of the alleged false statements was made
+during the course of a 2006 interview by representatives of AGA, contained in GE 5.  During this
+interview, Applicant stated that he had never had any contact with Federal, state, or local police
+authorities.  This statement was objectively false, in light of the 2001 arson incident.  Given the
+obvious significance to Applicant of the arson and its aftermath, a reasonable person would not
+likely conclude that Applicant had simply forgotten about the event when he provided this statement
+to the interviewers.  Evidence that the charge had been dismissed does not logically provide a
+reasonable basis for concluding that Applicant honestly believed that his blanket denial of police
+involvement was truthful, as the Judge found.  
+We note other evidence of false statements, such as Applicant’s failure to have mentioned
+the arson in two of his SCAs,4 and evidence that Applicant intentionally downloaded music, movies,
+in responding to a pertinent question in his 2003 SCA.  In addition, in the same SCA, he stated explicitly that he had
+“never been charged with a crime however I was placed on a 1 year Mandatory probation for an incident that occurred
+in November 2001 . . .”  GE 7, SCA, at 29.  When cross-examined about this statement, Applicant stated “Since it was
+expunged that would have been why I would have said that I hadn’t been charged with a crime.  Q: But being expunged
+doesn’t mean that you were never charged, correct?  A: I understand that there is a difference.  Q: Did you understand,
+at the time that you wrote . . . that there was a difference between being charged and being expunged?  A: Yes.  Q: So
+then why did you say that you had never been charged with a crime?  A:  I misspoke, or miswrote.”  Tr. at 92-93.  The
+Judge’s finding that none of Applicant’s SCAs required him to disclose the arson charge is not supportable.     
+5In addition to Applicant’s denial of involvement with police authorities, GE 5 states that he “commented that
+he had illegally downloaded 2 computer games but has since purchased them.”  Compare with the contents of GE 6 that
+he had done so on numerous occasions and that he would continue to do so.  
+7
+etc. without paying for them, which are relevant in evaluating his intent.5  See ISCR Case No. 10-
+03732 at 6, n. 4 (App. Bd. Jun. 14, 2013) for discussion of the relevance of other wrongs or acts to
+the question of an applicant’s state of mind; see also ISCR Case No. 11-13664, supra.  Moreover,
+under the facts of this case, evidence that Applicant provided truthful information about this matter
+in an interview four years later is not sufficient to demonstrate that he lacked an intent to deceive
+in 2006.
+Another alleged false statement occurred in an answer to DOHA interrogatories in April
+2012 (GE 3).  In that answer, Applicant stated that he had never intentionally downloaded or viewed
+child pornography.  Given the contents of GE 6, the Judge’s finding that Applicant, after age 18,
+limited his search to pornography that depicted adults, and evidence of other false statements
+discussed above, we conclude that the Judge’s finding that Applicant did not deliberately falsify this
+answer is not supportable. 
+      
+In summary, the record contains substantial evidence that (1) as a teenager, Applicant had
+been charged with arson, which charge was dismissed for reasons consistent with actual guilt; (2)
+at some point in his life, Applicant had actively sought child pornography from the internet; (3) into
+his adult life Applicant repeatedly sought large amounts of pornography reasonably believing that
+some portion would contain depictions of children; and (4) Applicant made deliberately false
+statements about his security significant conduct.  The record also contains evidence of other, non-
+alleged, false statements and of Applicant’s having downloaded music, movies, games, etc. in
+substantial amounts without paying for them and that he stated an intent to continue doing so, which
+the Judge failed reasonably to address in the context of Applicant’s credibility and case for
+mitigation.  Examined in light of the entirety of the record evidence, the Judge’s decision failed to
+consider important aspects of the case and ran contrary to the weight of the evidence.  Under the
+facts of this case, the evidence does not support the Judge’s favorable findings under either of the
+alleged Guidelines, in light of the standard set forth in Egan, supra, and in light of the requirement
+in the Directive that “any doubt” must be resolved in favor of national security.
+8
+Order
+The Decision is REVERSED.  
+Signed: Jeffrey D.  Billett                
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: Jean E. Smallin                 
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                
+James E. Moody
+Administrative Judge
+Member, Appeal Board

@@ -1,0 +1,135 @@
+KEYWORD: Guideline F
+DIGEST: The concern under Guideline F is not simply that an applicant might be tempted to
+compromise classified information in order to pay his debts.  A Judge should also consider the
+extent to which an applicant’s circumstances cast doubt upon his judgment, self-control, and
+other characteristics essential to protecting national security information. Adverse decision
+affirmed.
+CASENO: 14-05359.a1
+DATE: 05/04/2016
+DATE: May 4, 2016
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-05359
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Thomas Albin, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+March 18, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive). Applicant requested a hearing. 
+On February 24, 2016, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Elizabeth M. Matchinski denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in concluding that
+his financial circumstances raised security concerns and whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm. 
+The Judge’s Findings of Fact
+Applicant retired from a job in 2004, receiving about $400,000 in a retirement account.  He
+was not able to find other employment for three years and withdrew from the account in order to pay
+his living expenses as well as medical bills incurred by his wife for several illnesses.  These
+withdrawals were taxable events, but Applicant underpaid his income taxes, resulting in a tax lien. 
+Applicant experienced other financial problems resulting from his unemployment and his wife’s
+medical bills, including a delinquent mortgage, a home equity loan for home repairs, credit card
+debts in collection/charge-off status, etc., all of which were alleged in the SOR.  The mortgage
+delinquencies resulted in a foreclosure action, although Applicant subsequently obtained a loan
+modification.  The Judge also found that Applicant had another credit card debt for about $20,000
+that had been reduced to judgment and that he had not filed his tax returns for 2005 and 2006.  These
+last two things were not alleged in the SOR, but the Judge stated that she was considering them on
+the issue of mitigation.  One of the SOR debts the Judge found not to have been incurred by
+Applicant, but by his son. 
+The Judge found that Applicant had secured an IRS agreement for an offer in compromise
+for his tax debt and that he had paid off a small medical debt.  In addition, the creditor for one of the
+credit cards began garnishing his wages.  In 2011, he established a payment plan of $150 a month
+for a $30,000 credit card delinquency.  However, this plan was only to be in effect for two years,
+after which Applicant discovered that he did not have the money to continue with payments.  He
+entered into another payment plan for this debt in August 2015.  
+Applicant enjoys an excellent reputation for the quality of his work performance.  He is
+credited with having brought substantial improvements to his company after having been promoted
+to a position of leadership.  The current acting director of his company considers Applicant 
+trustworthy and his work performance outstanding.
+The Judge’s Analysis
+2
+The Judge concluded that Applicant’s financial problems raised two concerns: Disqualifying
+Conditions (DC) 19(a): “inability or unwillingness to satisfy debts;” and 19(c): “a history of not
+meeting financial obligations.”1  The Judge resolved the Federal tax lien in Applicant’s favor, in
+light of his offer in compromise.  She also entered favorable conclusions for the medical debt that
+Applicant had paid and for the other debt that had been incurred by Applicant’s son.  For the
+remainder, however, she made adverse findings.  Though noting that Applicant’s financial problems
+were affected by circumstances outside his control, she also stated that Applicant’s problems were 
+the result of his own decisions, such as his withdrawals from his retirement account without paying
+the required taxes.  In addition, she concluded that he had not demonstrated responsible action.2  For
+example, she stated that a debt that was being paid through garnishment is entitled to less weight
+than one being paid voluntarily.  She also cited to evidence that Applicant is still behind on his
+mortgage payments and that he has large credit card debts that have yet to be resolved.  She
+concluded that, on the whole, Applicant’s financial problems evidence poor judgment.
+Discussion
+Applicant contends that the Judge erred in concluding that his case established security
+concerns.  He argues that he is not at risk of engaging in illegal acts to pay his debts.  However, the
+concern under Guideline F is not simply that an applicant might be tempted to compromise classified
+information in order to pay his debts.3  A Judge should also consider the extent to which an
+applicant’s circumstances cast doubt upon his judgment, self-control, and other characteristics
+essential to protecting national security information.  See, e.g., ISCR Case No. 14-01479 at 2 (App.
+Bd. Sep. 2, 2015).  In this case, the evidence shows that Applicant has had delinquent debts for many
+years, including Federal income tax obligations.  The evidence in the record is sufficient to establish
+an apparent inability to satisfy debts over a period of time as well as a history of not paying debts. 
+It is sufficient to raise concerns about Applicant’s judgment, a characteristic expected of someone
+with access to classified information.  We resolve this issue adversely to Applicant.
+The balance of Applicant’s brief is a challenge to the Judge’s weighing of the evidence.  He
+argues that the reasoning that underlay the favorable findings should have been extended to the
+remainder of the SOR allegations.  However, the Decision as a whole provides a reasonable
+explanation for the Judge’s different conclusions regarding Applicant’s various debts.  The Judge
+could plausibly conclude that the offer in compromise demonstrated responsible action regarding
+the IRS debt, as she could with the small medical debt that Applicant had satisfied.  These two
+conclusions do not undermine her findings that, at the close of the record, Applicant was still behind
+on his mortgage payments despite having obtained a loan modification, that he had exhibited at best
+1Directive, Enclosure 2 ¶ 19(a) and (c).  
+2Directive, Enclosure 2 ¶ 20(b): “the conditions that resulted in the financial problem were largely beyond the
+person’s control . . . and the individual acted responsibly under the circumstances[.]”  
+3A clearance adjudication is not an inquiry into whether an applicant is of poor character.  Hill v. Dept. of the
+Air Force, 844 F. 2d 1407 at 1409 (10th Cir. 1988). 
+3
+sporadic payments for one of the large credit card debts, and that another debt was subject to
+involuntary collection.  
+The record supports a conclusion that Applicant had not mitigated the debts that the Judge
+found against him, in that he had not established a track record of payment for them.  See, e. g.,
+ISCR Case No. 14-04565 at 2 (App. Bd. Sep. 18, 2015) (Promises to pay off delinquent debts in the
+future are not a substitute for a track record of paying debts in a timely manner and otherwise acting
+in a financially responsible manner.) This is especially so when the remaining debts are viewed in
+light of the Judge’s findings about the non-alleged conduct.  Applicant argues for an alternative
+interpretation of the evidence, but he has not shown that the manner in which the Judge weighed the
+evidence was arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 14-06440 at 4 (App.
+Bd. Jan. 8, 2016).   
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                  
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+4

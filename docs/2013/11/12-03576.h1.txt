@@ -1,0 +1,766 @@
+ 
+1 
+ 
+                                                              
+DEPARTMENT OF DEFENSE 
+DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+ 
+In the matter of: ) 
+ ) 
+ [Redacted] )  ISCR Case No. 12-03576 
+ ) 
+Applicant for Security Clearance ) 
+ 
+ 
+Appearances 
+ 
+For Government: Julie Mendez, Esq., Department Counsel 
+For Applicant: Alan V. Edmunds, Esq. 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+FOREMAN, LeRoy F., Administrative Judge: 
+ 
+This case involves security concerns under Guidelines E (Personal Conduct), K 
+(Handling Protected Information), and F (Financial Considerations). Applicant refuted 
+the Guideline K allegations, but she did not mitigate the concerns under Guidelines E 
+and F. Eligibility for access to classified information is denied. 
+ 
+Statement of the Case 
+ 
+Applicant submitted a security clearance application on March 25, 2011. On 
+January 14, 2013, the Department of Defense (DOD) sent her a Statement of Reasons 
+(SOR) alleging security concerns under Guidelines E, K, and F. DOD acted under 
+Executive Order 10865, Safeguarding Classified Information within Industry (February 
+20, 1960), as amended; DOD Directive 5220.6, Defense Industrial Personnel Security 
+Clearance Review Program (January 2, 1992), as amended (Directive); and the 
+adjudicative guidelines (AG) implemented by DOD on September 1, 2006.  
+ 
+ Applicant answered the SOR on February 16, 2013; denied all the allegations; 
+and requested a hearing before an administrative judge. Department Counsel was 
+ready to proceed on March 20, 2013, and the case was assigned to me on March 27, 
+ 
+2 
+ 
+2013. The Defense Office of Hearings and Appeals (DOHA) issued a notice of hearing 
+on April 10, 2013, scheduling the hearing for April 30, 2013. On April 29, 2013, 
+Applicant’s counsel requested that the hearing be postponed, because Applicant had 
+been hospitalized for the premature birth of twins. Her counsel later advised that the 
+birth did not occur, but that she expected to be hospitalized on June 20, 2013, when 
+birth would be induced.  
+ 
+On June 21, 2013, I issued a scheduling order, ordering the parties to be 
+prepared to conduct the hearing not later than August 15, 2013. On August 6, 2013, 
+Applicant’s counsel requested a postponement based on complications during childbirth 
+and the recommendation of her physician that she not return to work until September 
+25, 2013. Her counsel requested a postponement until that date, and I granted the 
+request.  
+ 
+On August 28, 2013, DOHA issued a second notice of hearing, scheduling the 
+hearing for September 26, 2013. I convened the hearing as scheduled. Government 
+Exhibits (GX) 1 through 5 were admitted in evidence without objection. Applicant 
+testified, presented the testimony of four witnesses, and submitted Applicant’s Exhibits 
+(AX) A through W,1 which were admitted without objection. I kept the record open until 
+October 4, 2013, to enable Applicant to submit additional documentary evidence. She 
+submitted AX X on October 11, 2013. Department Counsel did not object to the 
+untimely submission, and it was admitted. Department Counsel’s comments about AX X 
+are attached to the record as Hearing Exhibit I. DOHA received the transcript (Tr.) on 
+October 3, 2013.  
+ 
+Findings of Fact 
+ 
+ Applicant is a 31-year-old computer security systems analyst employed by a 
+defense contractor since January 2010. She worked for the same employer as a 
+software engineer from June 2004 until she began her current job. She has held 
+clearances from several federal agencies since June 2004. 
+ 
+ Applicant married in September 2005. She has four children, including twins who 
+are about five months old. (Tr. 69.) Her husband also is employed by a federal 
+contractor and holds a security clearance. (Tr. 70.) 
+ 
+ Applicant received a bachelor’s degree in computer science in May 2004 and a 
+master’s degree in information technology in May 2011. (AX P, Q, R.) She completed 
+her employer’s leadership development program in June 2010. (GX 5 at 136-372; AX 
+O.) 
+ 
+                                                          
+1 AX A through W were attached to Applicant’s answer to the SOR. At Applicant’s request, they were 
+treated as though they were submitted at the hearing and lettered accordingly. 
+ 
+2 The numbering of GX 5 begins at page 132. 
+ 
+3 
+ 
+ In March 2010, Applicant sought eligibility for access to sensitive compartmented 
+information (SCI), and she completed a polygraph examination in January 2011. In 
+March 2011, her application was denied by another government agency (AGA). The 
+denial was based on a “written crimes report referral” (hereafter referred to as the “crime 
+report”) submitted by the polygraph examiner, which recited the following: 
+ 
+During routine processing, Subject stated that she falsified her tax returns 
+for 2007, 2008, and 2009. According to Subject, when she initially 
+completed her 2007 taxes, she was going to owe $4,000.00 to the IRS. 
+Subject said to prevent owing so much, she claimed $5,000.00 to 
+$10,000.00 in false expenses, $2,000.00 in tithes when she only paid 
+$200.00, and $500.00 in charitable contributions, Subject also did not 
+report two months of rental income she collected, which totaled $3,100.00. 
+Subject said her husband worked part time and earned approximately 
+$4,000 to $5,000 which they did not claim as income. After the 
+adjustments, Subject said she owed $200.00 to $300.00, instead of 
+$4,000.00. 
+ 
+Subject said for the 2008 and 2009 tax returns she made the same claims 
+for tithes or charitable contributions, made more claims for mileage on 
+their rental property, and did not report her husband’s income. For the 
+2009 tax return, Subject stated she also increased her expenses for her 
+rental property renovations by $1,000.00, which was false. 
+ 
+Subject reported while obtaining her current mortgage, she engaged in 
+falsification of documents. Subject said that, when she was applying for 
+her mortgage, she did not have a tenant in her rental property and needed 
+to show that she did in order to qualify. Subject and her husband had a 
+check made out to them from her brother-in-law in order to pretend he was 
+the tenant and was paying for rent. Subject confirmed that the brother-in-
+law was in fact not a tenant and knowingly provided the false information 
+to get their mortgage. 
+ 
+In addition, Subject stated she committed continuous time and attendance 
+fraud from 2008 to the present. According to Subject[,] between 2006 and 
+2008, when she worked in the [employer’s] office in [location], each week 
+she would leave work 2 hours [early]. Subject said when she worked at 
+the company’s [location] for 6 months in 2008 and again from October 
+2009 until January 2010, she left 2 hours early on a daily basis. Since 
+January 2010, Subject worked at [location] and said she leaves work 2 
+hours early approximately 4 out of 5 days per week. She said the rule at 
+[place of employment] is to bill for the hours worked; however she 
+admitted to billing for hours she did not work. Subject stated between June 
+and October 2010, she worked from home and billed full-time hours that 
+she did not work. Subject said she called in sick approximately 2 times per 
+month when she was not sick. Subject said if she is sick she will stretch 
+ 
+4 
+ 
+out her time off even when she feels better. Subject said she knows what 
+she is doing and that it is deliberate and wrong. 
+ 
+(GX 2 at 3-4.) 
+ 
+ The AGA decision letter also recited additional conduct that was not included in 
+the crime report. It stated that Applicant admitted downloading thousands of songs, 
+movies, and software applications between 2000 and 2010, without paying for them. It 
+also stated that Applicant admitted that during her undergraduate and graduate studies, 
+she cheated on tests, stole classmates’ work and submitted it as her own, and 
+plagiarized papers. Finally, the decision letter stated that she admitted taking classified 
+material home on 15 to 20 occasions from 2004 to 2006 and discussing classified 
+information with her husband on a regular basis. The record does not reflect the source 
+or supporting evidence for these statements in the decision letter. 
+ 
+ Applicant did not appeal the AGA’s denial of her application. In an affidavit 
+executed on May 11, 2011, she stated that she did not appeal because she already had 
+a secret clearance, which was sufficient for her current position. (GX 3.) In April 2011, 
+her clearance was suspended because of the AGA’s adverse determination. (GX 4.) 
+Seeking to retain her clearance, she submitted her most recent security clearance 
+application. 
+ 
+ At the hearing, Applicant disputed the accuracy of the polygraph examiner’s 
+report and denied the conduct set out in the AGA decision letter. In a personal subject 
+interview and during her hearing testimony, Applicant stated that the polygraph 
+examiner had to adjust the electrodes on her abdomen several times because she was 
+pregnant and the electrodes were picking up the sounds of the unborn baby’s heartbeat. 
+(GX 5 at 139; Tr. 71-73.) She testified that both she and the examiner became irritable 
+during the examination. The examiner was irritated and concerned about the accuracy 
+of the polygraph results, and Applicant was irritated because the examination lasted five 
+hours and the examiner refused to allow any breaks in the examination. Applicant 
+testified that she felt like she was “backed into a corner.” (Tr. 71-74.) She testified that 
+the polygraph examiner told her she intended to “bring her back because [she] was 
+doing well.” Applicant testified that she repeatedly asked for another polygraph 
+examination, without success. (Tr. 86-87.)  
+ 
+ The evidence concerning the allegations in the SOR is summarized below. All 
+the allegations were based on the crime report and the AGA decision letter. 
+ 
+ SOR ¶ 1.a (from June 2004 to January 2011, left work two hours early from 
+one to five days per week and billed for hours not worked). Applicant denied this 
+allegation. She testified that her employer never took any action against her for 
+misreporting time worked or time-card fraud. (Tr. 75.) Applicant’s supervisor from 2009 
+to 2011 testified that she worked eight to ten hours a day in the office and she was 
+authorized to work at home on a scheduled basis. He testified that her duty 
+performance was outstanding, and there were no issues regarding time-card fraud or 
+ 
+5 
+ 
+misrepresentation of the hours worked. (Tr. 62-64.) Another supervisor testified that, 
+when Applicant and her colleagues were working remotely, they were testing software, 
+handling large volumes of data, and visible to their supervisor, who could see their 
+computer screens and would detect any periods of inactivity. If she had been offline 
+during working hours, he would have noticed it “in a split minute.” (Tr. 53-56.) He 
+testified that Applicant was the top performer under his supervision and an “up and 
+coming star” in the company’s leadership program. (Tr. 38-39.) This supervisor 
+submitted a statement (AX N) which included the following comments:  
+ 
+My professional opinion of [Applicant] is that she has the highest personal 
+integrity and professional stamina of any person I’ve ever had the honor 
+and pleasure of working with . . . . Her behavior, integrity, honesty and 
+professional standards are above reproach. She is honest, direct, and 
+unblemished in her personal integrity. . . . [Applicant] was selected for [her 
+employer’s] Leadership Program that nurtures promising leaders for the 
+Company’s most prestigious leadership positions. She exceled in every 
+aspect of the leadership program and the task she managed concurrently 
+for [her employer]. . . . I believe that [Applicant] is one of the most honest 
+and sincere professionals that I’ve ever met in the 33 years that I’ve 
+worked for the Federal Government as a military officer and defense 
+contractor. 
+ 
+ SOR ¶ 1.b, cross-alleged in SOR ¶ 3.a (deliberately provided false 
+information on tax returns for 2007, 2008, and 2009 by claiming false expenses, 
+false tithes, and false charitable contributions; failing to report rental income; and 
+failing to report spouse’s income). Applicant denied this allegation and submitted 
+copies of her tax returns for 2007, 2008, and 2009. She did not submit any supporting 
+documentation for the information reported on the tax returns.  
+ 
+Applicant’s 2007 return, filed jointly with her husband, reflects wages and salaries 
+of $118,368; a net loss of $6,495 on a dog-breeding business, charitable contributions 
+of $7,000, and a federal tax refund of $116. Their return did not include a Schedule E, 
+Supplemental Income and Loss reflecting rental income. (AX E.) Applicant and her 
+spouse had rental income of $1,650 per month beginning in August 2007, which 
+apparently was not reported. The 2007 tax return was prepared by a tax accountant, 
+based on documents presented by Applicant and her husband. (AX C.) 
+ 
+Applicant’s current salary is $89,000 and her husband’s is $85,000 (Tr. 84.) If her 
+2007 salary was the same as or less than her current salary, her husband’s salary 
+income in 2007 would have been about $29,000, more than the $4,000 to $5,000 set 
+out in the crime report. Without supporting documentation, it is impossible to determine 
+the accuracy of the $118,368 that was reported. However, the federal tax refund of 
+$116 is inconsistent with the polygraph examiner’s report, which states that Applicant 
+told her that, after recalculating her return, she owed $200 to $300.  
+ 
+ 
+6 
+ 
+ Applicant’s 2008 federal income tax return reflected total wages and salaries of 
+$125,036, a net loss of $11,220 on a rental property, $643 in charitable contributions, 
+and a refund of $9,280. This return was self-prepared, using TurboTax software. (AX F.) 
+The $643 in charitable contributions is inconsistent with the crime report, which states 
+that Applicant admitted claiming the same amounts in 2008 that she claimed in 2007. 
+ 
+Applicant’s 2009 return reflected total wages and salaries of $146,636, a net loss 
+of $9,715 on a rental property (which was entered on the tax return as zero), charitable 
+contributions of $260, and a refund of $8,086. Although Applicant and her spouse 
+evicted their tenants in May 2009 and incurred repair expenses to their rental property, 
+the Schedule E pertaining to this property lists repair costs of only $864. This return was 
+self-prepared, using TurboTax software. (AX G.) The reported charitable contributions 
+of $260 are inconsistent with the crime report, which states that she admitted claiming 
+the same amounts in 2009 that she claimed in 2007. The deduction for $864 in repair 
+expenses also is inconsistent with the crime report, which states that Applicant 
+admitting increasing the cost of rental property renovations by $1,000. 
+ 
+ SOR ¶ 1.c, cross-alleged in SOR ¶ 3.b (provided false information to 
+mortgage lender for primary residence by obtaining a check from brother-in-law 
+to show that he was a tenant in her rental property). Applicant denied this allegation. 
+Her credit report reflects that the mortgage loan on her primary residence was opened 
+in October 2007, and the payments are current. (AX W at 4-5.) Applicant’s brother-in-
+law testified that he intended to rent her rental property. In April 2007, he gave Applicant 
+a $1,500 check as a security deposit. In the summer of 2007, he decided not to rent the 
+property, because he could not afford to move. (Tr. 23-26; AX K.) In August 2007, 
+Applicant and her husband rented the property to other tenants. (AX C.)  
+ 
+ SOR ¶ 1.d (provided false information about qualifications on job 
+applications). Applicant denied this allegation and testified that the polygraph examiner 
+accused her of not having the college degrees that she listed on her application. This 
+allegation was not included in the crime report, but it was included in the AGA decision 
+letter. The evidentiary basis for it is not reflected in the record. Applicant presented 
+copies of the college degrees reflected on her current resume. (AX P; AX Q; AX R.) 
+ 
+ SOR ¶ 1.e (provided false information on job applications about illegal drug 
+use). This allegation was not included in the crime report, but it was included in the 
+AGA decision letter. Applicant testified that the polygraph examiner asked her if she had 
+ever lied about drug use, and she responded that she had not used illegal drugs during 
+the time period specified on the Standard Form 85 or Standard Form 86 that she 
+previously submitted. There is no other evidence in the record reflecting drug 
+involvement by Applicant.  
+ 
+ SOR ¶ 1.f (from 2000 to January 2011, stole classmates’ work and 
+submitted it as her own, cheated on tests, and plagiarized papers). Applicant 
+testified that in 2000-2001, while she was an undergraduate freshman, she received 
+help from a classmate on a project. Her professor discovered it, reprimanded her, 
+ 
+7 
+ 
+required her to redo the project, and gave her a “B.” She was not otherwise disciplined 
+by the university. Applicant denied cheating on tests, copying classmates’ work, or 
+plagiarizing papers. (Tr. 85-86.)  
+ 
+ A professor who teaches information technology at the graduate school at the 
+institution where Applicant obtained her master’s degree testified about the likelihood of 
+Applicant successfully engaging in plagiarism. He has 20 years of experience with a 
+computer program that measures the degree of potential plagiarism. The program 
+detects similarity of word sequences, usually based on about four words. He described 
+the program as a “very powerful automated tool” for detecting attempted plagiarism. He 
+testified that the absence of any action taken against Applicant for plagiarism in 
+graduate school means, “She didn’t do it.” (Tr. 40-42.) 
+ 
+ SOR ¶ 1.g (from 2004 through 2006, brought home a classified document 
+without authorization). This allegation was not included in the crime report, but it was 
+included in the AGA decision letter. The evidentiary basis for it is not reflected in the 
+record. Applicant denied ever bringing classified documents home without authorization. 
+(Tr. 81.) 
+ 
+ SOR ¶ 1.h, cross-alleged in SOR ¶ 2.a (discussed classified information 
+with husband on a regular basis). Applicant denied this allegation. It is not included in 
+the crime report, but it is included in the AGA decision letter. The factual basis for it is 
+not reflected in the record. Applicant testified that both she and her husband had 
+clearances, but they have a standing rule that they will only talk about their jobs in 
+general terms and will never talk about classified information. (Tr. 82.) 
+ 
+ Applicant and her husband experienced financial problems in 2009, because 
+their tenants in the rental property stopped paying rent, were evicted, and seriously 
+damaged the property. Applicant and her husband disposed of the rental property in a 
+short sale, and the unpaid balances on the first and second mortgages were forgiven. 
+The mortgage on their residence is current, and they are living within their means. (AX 
+A, B, W, X.) 
+ 
+ A government lawyer employed by another government agency, who is an officer 
+in the Army Reserve and holds a security clearance, testified that he has known 
+Applicant for 14 years and has contact with her at least once a month. Based on what 
+he knows about Applicant, he believes the allegations in the SOR are unfounded. (Tr. 
+29-32.) 
+ 
+ A coworker who has known Applicant since college described her as “reliable, 
+dedicated, honest and eternally upbeat.” She stated that Applicant has “unparalleled” 
+ability to work with a team, multitasks effectively, and is able to handle a high-volume 
+workload. (AX H.)  
+ 
+A coworker who has known Applicant since 2011 states that “her talent, honesty, 
+dedication, and teaming abilities are unsurpassed.” (AX I.) Another coworker who has 
+ 
+8 
+ 
+known Applicant since June 2011 stated that she “is driven like a tiger to do her best 
+with a tireless attention to the important details.” He considers her to be a person of high 
+moral character, “straightforward and honest, with no hidden agenda.” (AX L.)  
+ 
+A former supervisor, who has known Applicant since 2008, stated that Applicant 
+“possess a very high sense of personal character, integrity, loyalty and 
+professionalism.” He stated that she “is very honest and holds herself to a very high 
+work ethic.” (AX M.) Another former supervisor who has known Applicant since 2010 
+described her as “a reliable, dedicated, and honest employee that gave 110% for every 
+activity she was responsible for.” (AX J.) 
+ 
+ Applicant’s performance evaluations for January to June 2008 and January to 
+December 2009 rated her as a “successful contributor,” the middle category. (AX U; AX 
+V.) Her evaluation for January to December 2010 rated her as an “exceptional 
+contributor,” the highest rating. (AX T.) Her evaluation for January through December 
+2011 rated her as a “high contributor,” the next highest rating. (AX S.) 
+ 
+Policies 
+ 
+ “[N]o one has a ‘right’ to a security clearance.” Department of the Navy v. Egan, 
+484 U.S. 518, 528 (1988). As Commander in Chief, the President has the authority to 
+“control access to information bearing on national security and to determine whether an 
+individual is sufficiently trustworthy to have access to such information.” Id. at 527. The 
+President has authorized the Secretary of Defense or his designee to grant applicants 
+eligibility for access to classified information “only upon a finding that it is clearly 
+consistent with the national interest to do so.” Exec. Or. 10865, Safeguarding Classified 
+Information within Industry § 2 (Feb. 20, 1960), as amended.   
+ 
+Eligibility for a security clearance is predicated upon the applicant meeting the 
+criteria contained in the AG. These guidelines are not inflexible rules of law. Instead, 
+recognizing the complexities of human behavior, an administrative judge applies these 
+guidelines in conjunction with an evaluation of the whole person. An administrative 
+judge’s overarching adjudicative goal is a fair, impartial, and commonsense decision. An 
+administrative judge must consider all available and reliable information about the 
+person, past and present, favorable and unfavorable. 
+ 
+ The Government reposes a high degree of trust and confidence in persons with 
+access to classified information. This relationship transcends normal duty hours and 
+endures throughout off-duty hours. Decisions include, by necessity, consideration of the 
+possible risk that the applicant may deliberately or inadvertently fail to safeguard 
+classified information. Such decisions entail a certain degree of legally permissible 
+extrapolation about potential, rather than actual, risk of compromise of classified 
+information. 
+ 
+Clearance decisions must be made “in terms of the national interest and shall in 
+no sense be a determination as to the loyalty of the applicant concerned.”  See Exec. 
+ 
+9 
+ 
+Or. 10865 § 7. Thus, a decision to deny a security clearance is merely an indication the 
+applicant has not met the strict guidelines the President and the Secretary of Defense 
+have established for issuing a clearance. 
+ 
+ Initially, the Government must establish, by substantial evidence, conditions in 
+the personal or professional history of the applicant that may disqualify the applicant 
+from being eligible for access to classified information. The Government has the burden 
+of establishing controverted facts alleged in the SOR. See Egan, 484 U.S. at 531.  
+“Substantial evidence” is “more than a scintilla but less than a preponderance.”  See v. 
+Washington Metro. Area Transit Auth., 36 F.3d 375, 380 (4th Cir. 1994). The guidelines 
+presume a nexus or rational connection between proven conduct under any of the 
+criteria listed therein and an applicant’s security suitability. See ISCR Case No. 92-1106 
+at 3, 1993 WL 545051 at *3 (App. Bd. Oct. 7, 1993).   
+ 
+ Once the Government establishes a disqualifying condition by substantial 
+evidence, the burden shifts to the applicant to rebut, explain, extenuate, or mitigate the 
+facts. Directive ¶ E3.1.15. An applicant has the burden of proving a mitigating condition, 
+and the burden of disproving it never shifts to the Government. See ISCR Case No. 02-
+31154 at 5 (App. Bd. Sep. 22, 2005).  
+ 
+An applicant “has the ultimate burden of demonstrating that it is clearly consistent 
+with the national interest to grant or continue his security clearance.” ISCR Case No. 
+01-20700 at 3 (App. Bd. Dec. 19, 2002). “[S]ecurity clearance determinations should err, 
+if they must, on the side of denials.” Egan, 484 U.S. at 531; see AG ¶ 2(b).  
+ 
+Analysis 
+ 
+Guideline E, Personal Conduct 
+ 
+ The SOR alleges that Applicant left work two hours early one to five days week 
+from about June 2004 to at least January 2011 and billed for the hours she did not work 
+(SOR ¶ 1.a); provided false information on her 2007, 2008, and 2009 federal income tax 
+returns (¶ 1.b); knowingly provided false information to a mortgage lender by 
+representing that she had a tenant in her rental property (SOR ¶ 1.c); provided false 
+information on job applications about her qualifications (SOR ¶ 1.d); provided false 
+information on job applications about her illegal drug use (SOR ¶ 1.e); stole classmates’ 
+work, cheated on tests, and plagiarized papers during her undergraduate and graduate 
+education (SOR ¶ 1.f); brought home a classified document without authorization from 
+2004 through 2006 (SOR ¶ 1.g); and discussed classified information with her husband 
+on a regular basis (SOR ¶ 1.h). 
+The concern under this guideline is set out in AG ¶ 15 as follows:  
+Conduct involving questionable judgment, lack of candor, dishonesty, or 
+unwillingness to comply with rules and regulations can raise questions 
+about an individual’s reliability, trustworthiness and ability to protect 
+ 
+10 
+ 
+classified information. Of special interest is any failure to provide truthful 
+and candid answers during the security clearance process or any other 
+failure to cooperate with the security clearance process.   
+ SOR ¶¶ 1.d and 1.e are vague. They do not allege a time frame for the conduct 
+alleged, nor do they identify the documents or the employers involved. Similarly, SOR ¶ 
+1.g alleges a two-year time frame and single classified document, not otherwise 
+described. The allegations appear to fall short of the requirement of the Directive ¶ 
+E3.1.4 that the SOR “shall be as detailed and comprehensive as the national security 
+permits.” However, Applicant was represented by an attorney who has extensive 
+experience with ISCR cases, and he did not object to the lack of specificity in the SOR. 
+ 
+ The evidence on which the allegations are based consisted of the AGA decision 
+letter and the AGA crime report. The source of the evidence appears to be the 
+polygraph examiner, but it is not clear whether the crime report was authored by the 
+polygraph examiner or someone else. Based on Applicant’s testimony, it appears that 
+some of the allegations that were in the decision letter but not included in the crime 
+report also were based on information from the polygraph examiner. There is no 
+evidence that Applicant had an opportunity to review the accuracy of the information 
+provided by the polygraph examiner. In short, the reliability of the evidence is 
+diminished by the multiple levels of hearsay involved. On the other hand, Applicant 
+chose not to appeal the AGA’s unfavorable decision, even though it was likely to 
+hamper her career progression, which had been very promising up to that point. 
+ 
+ If the polygraph examiner was the source of the information in the SOR, 
+Applicant may have been entitled under Directive ¶ E3.1.22 to cross-examine her. 
+Applicant’s attorney did not object to the admission of the AGA decision letter or the 
+crime report, nor did he request that the declarant be subjected to cross-examination. 
+ 
+ The Appeal Board has held that the summary of an applicant’s answers to a 
+polygraph examiner’s questions is admissible as an official record under Directive ¶ 
+E3.1.20 and it is entitled to a presumption of good faith and regularity. ISCR Case No. 
+10-08390 (App. Bd. Mar. 30, 2012). See also ISCR Case No. 10-04325 (App. Bd. Aug. 
+15, 2013). Applicant’s testimony that the polygraph examiner was irritated when the 
+unborn baby’s heartbeat interfered with the polygraph apparatus is insufficient to 
+overcome this presumption. However, the presumption of good faith and regularity does 
+not include a presumption of infallibility. Thus, I have considered whether Applicant may 
+have unintentionally given the polygraph examiner incorrect information, whether 
+Applicant’s responses during the polygraph examination may have been unintentionally 
+misinterpreted by the polygraph examiner, and whether the polygraph examiner’s report 
+may have been inaccurately transcribed in the crime report and the AGA decision letter. 
+Based on the level of detail, the specificity, the number of events set out in the crime 
+report and the decision letter, and Applicant’s decision not to appeal the unfavorable 
+AGA decision, I am satisfied the crime report and the AGA decision letter are not based 
+on intentional fabrications, but some details may be inaccurate. 
+ 
+ 
+11 
+ 
+ SOR ¶¶ 1.a-1.e allege falsifications of various documents. When a falsification 
+allegation is controverted, as in this case, the Government has the burden of proving it. 
+An omission or misstatement, standing alone, does not prove falsification. An 
+administrative judge must consider the record evidence as a whole to determine an 
+applicant’s state of mind at the time of the omission or misstatement. See ISCR Case 
+No. 03-09483 at 4 (App. Bd. Nov. 17, 2004). An applicant’s level of education and 
+business experience are relevant to determining whether an omission or misstatement 
+was deliberate. See ISCR Case No. 08-05637 (App. Bd. Sep. 9, 2010). 
+ 
+ The quantum of evidence required to raise a security concern is relatively low. As 
+noted above, the Government is required to establish potentially disqualifying conditions 
+by substantial evidence, which is “more than a scintilla but less than a preponderance.” 
+Based on the evidence of record and the foregoing considerations, I find that SOR ¶¶ 
+1.a, 1.b, and 1.f are partially established; and SOR ¶¶ 1.c, 1.d, 1.e, 1.g, and 1.h are not 
+established, for the reasons set out below: 
+ 
+ SOR ¶ 1.a (time-card fraud). The crime report is detailed and extensive 
+regarding Applicant’s admissions of time-card fraud. In light of her employer’s liberal 
+teleworking policy and her reputation for hard work and dedication, it is likely that she 
+sometimes left the office early but continued working at home. However, her specific 
+admission that she billed for hours not worked is not explained or refuted, and it would 
+not have been detected by the time-card procedures utilized by her employer. Thus, I 
+conclude that the part of SOR ¶ 1.a alleging that she billed for hours not worked is 
+established. 
+ 
+ SOR ¶¶ 1.b and 3.a (false tax returns). The crime report is very detailed 
+regarding Applicant’s admission that she falsified her 2007 tax return, but the crime 
+report provided less detail for 2008 and 2009. Her 2007 tax return reflects that no rental 
+income was reported, and it reflects $7,000 in charitable contributions during a year 
+when she and her husband were having difficulty finding a tenant for their rental 
+property. The claim of $7,000 in charitable contributions is suspicious, considering that 
+she and her husband claimed only $643 in 2008 and $260 in 2009. The statement in 
+the crime report that Applicant owed $200 to $300 for 2007 is contradicted by the 
+income tax return, which reflected a refund.  
+ 
+ The tax returns for 2008 and 2009 reflect nothing unusual on their face, even 
+though Applicant submitted none of the supporting documentation for those returns. 
+The tax returns for 2008 and 2009 refute the statements in the crime report that 
+Applicant admitted overstating her charitable contributions and her rental expenses in 
+her 2008 and 2009 tax returns. I conclude that the crime report is not refuted regarding 
+Applicant’s admissions of failing to report rental income and overstating her charitable 
+contributions in tax year 2007, but it is refuted regarding Applicant’s admissions of 
+falsifying her charitable contributions and repair expenses on the rental property in her 
+2008 and 2009 returns. I conclude that SOR ¶ 1.b is established for the 2007 tax return 
+but not for the 2008 and 2009 returns.  
+ 
+12 
+ 
+ SOR ¶¶ 1.c and 3.b (mortgage fraud). Applicant’s credit report indicates that 
+the mortgage on her primary residence was finalized in October 2007 and would likely 
+have been pending in the June-August 2007 timeframe. The evidence suggests that 
+Applicant did not notify the mortgage company that her brother-in-law had decided not 
+the rent their rental property or that she found another tenant shortly after her brother-
+in-law decided not to rent it. Her conduct was negligent, but the evidence does not 
+show intentional misrepresentation. I conclude that SOR ¶ 1.c is not established. 
+ 
+ SOR ¶ 1.d (false credentials on job applications). Applicant has worked for 
+her current employer since her graduation from college in 2004. She presented 
+documentary evidence of her college degrees. Department Counsel produced no 
+evidence of her job applications and did not challenge any of the information on 
+Applicant’s current resume. The SOR does not allege, nor does the evidence show 
+which job applications were falsified, if any, when they were falsified, or what 
+information was falsified. The evidence is insufficient to show any specific conduct that 
+was sufficiently serious, recent, or frequent to raise security concerns. This allegation is 
+not established. 
+ 
+ SOR ¶ 1.e (concealment of drug use on job applications). Applicant denied 
+this allegation. By telling the polygraph examiner that she had not concealed any drug 
+use within the reporting period specified on the SF 85 or SF 86, she apparently led the 
+examiner to conclude that Applicant had used drugs at some time in her life outside that 
+period and had not reported it on unspecified job applications. The SOR does not 
+allege, nor does the evidence show when the drug use occurred or which job 
+applications were falsified, if any. The evidence is insufficient to show any specific 
+conduct that was sufficiently serious, recent, or frequent to raise security concerns. This 
+allegation is not established. 
+ 
+ SOR ¶ 1.f (cheating and plagiarism as a student). This allegation was not 
+included in the crime report. It is established for the single incident admitted by 
+Applicant at the hearing, but not for the eleven years of cheating and plagiarizing 
+alleged. 
+ 
+ SOR ¶¶ 1.g and 1.h (security violations). These allegations were not included 
+in the crime report, and the record does not reflect the basis for including these 
+allegations in the decision letter. Applicant credibly denied them. These are not 
+established. 
+ 
+ The evidence supporting the allegations in SOR ¶ 1.a establishes the 
+disqualifying condition in AG ¶ 16(b) (“deliberately providing false or misleading 
+information concerning relevant facts to an employer, investigator, security official, 
+competent medical authority, or other official government representative”). The 
+evidence supporting SOR ¶¶ 1.a, 1.b, and 1.f establishes the following disqualifying 
+conditions:  
+ 
+13 
+ 
+AG ¶ 16(c): credible adverse information in several adjudicative issue 
+areas that is not sufficient for an adverse determination under any other 
+single guideline, but which, when considered as a whole, supports a 
+whole-person assessment of questionable judgment, untrustworthiness, 
+unreliability, lack of candor, unwillingness to comply with rules and 
+regulations, or other characteristics indicating that the person may not 
+properly safeguard protected information; 
+AG ¶ 16(d): credible adverse information that is not explicitly covered 
+under any other guideline and may not be sufficient by itself for an 
+adverse determination, but which, when combined with all available 
+information supports a whole-person assessment of questionable 
+judgment, untrustworthiness, unreliability, lack of candor, unwillingness to 
+comply with rules and regulations, or other characteristics indicating that 
+the person may not properly safeguard protected information. This 
+includes but is not limited to consideration of . . . a pattern of dishonesty or 
+rule violations; and  
+AG ¶ 16(e): personal conduct, or concealment of information about one's 
+conduct, that creates a vulnerability to exploitation, manipulation, or 
+duress, such as . . . engaging in activities which, if known, may affect the 
+person's personal, professional, or community standing.  
+ The following mitigating conditions are potentially applicable: 
+ 
+AG ¶ 17(a): the individual made prompt, good-faith efforts to correct the 
+omission, concealment, or falsification before being confronted with the 
+facts; 
+ 
+AG ¶ 17(c); the offense is so minor, or so much time has passed, or the 
+behavior is so infrequent, or it happened under such unique 
+circumstances that it is unlikely to recur and does not cast doubt on the 
+individual's reliability, trustworthiness, or good judgment; 
+ 
+AG ¶ 17(d): the individual has acknowledged the behavior and obtained 
+counseling to change the behavior or taken other positive steps to 
+alleviate the stressors, circumstances, or factors that caused 
+untrustworthy, unreliable, or other inappropriate behavior, and such 
+behavior is unlikely to recur; and 
+ 
+AG ¶ 17(e): the individual has taken positive steps to reduce or eliminate 
+vulnerability to exploitation, manipulation, or duress. 
+ 
+ AG ¶ 17(a) is not established. Applicant did not admit the falsifications and 
+omissions alleged in SOR ¶¶ 1.a and 1.b until she was interviewed by the polygraph 
+ 
+14 
+ 
+examiner. The record does not reflect whether she admitted SOR ¶ 1.f at any time 
+before the AGA decision letter. 
+ 
+ AG ¶ 17(c) is established for SOR ¶ 1.f, for which only a single, 13-year-old 
+incident was proven. It is not established for the time-card fraud alleged in SOR ¶ 1.a, 
+because the conduct was recent and frequent. It is not established for SOR ¶ 1.b, even 
+though it occurred when the 2007 tax return was filed in February 2008, more than six 
+years ago. The tax fraud in SOR ¶ 1.b occurred at the same time that Applicant was 
+involved in time-card fraud alleged in SOR ¶ 1.a, which continued until January 2011. 
+Thus, I conclude that SOR ¶ 1.b is not mitigated by the passage of time, because 
+Applicant’s conduct since filing her 2007 tax return does not demonstrate Achanged 
+circumstances or conduct sufficient to warrant a finding of reform or rehabilitation.@ See 
+ISCR Case No. 02-24452 at 6 (App. Bd. Aug. 4, 2004). The falsifications alleged in 
+SOR ¶¶ 1.a and 1.b were not minor and involved multiple transactions. They did not 
+occur under unique circumstances making them unlikely to recur, and they cast doubt 
+on her current reliability, trustworthiness and good judgment. I conclude that AG ¶ 17(c) 
+is not established for SOR ¶¶ 1.a and 1.b. 
+ 
+ AG ¶ 17(d) is partially established for SOR ¶ 1.f but not for SOR ¶¶ 1.a and 1.b. 
+Applicant acknowledged that she received unauthorized help on a college project in 
+2000, but she has not acknowledged any of the other behavior alleged. She presented 
+no evidence of counseling or other steps to make recurrence of the conduct unlikely. 
+ 
+ AG ¶ 17(e) is partially established, because Applicant admitted her behavior to 
+the polygraph examiner. However, she recanted many of her admissions at the hearing. 
+ 
+Guideline K, Handling Protected Information 
+ 
+ The SOR cross-alleges SOR ¶ 1.h under this guideline. The security concern 
+under this guideline is set out in AG ¶ 33: “Deliberate or negligent failure to comply with 
+rules and regulations for protecting classified or other sensitive information raises doubt 
+about an individual's trustworthiness, judgment, reliability, or willingness and ability to 
+safeguard such information, and is a serious security concern.” Based on my conclusion 
+that SOR ¶ 1.h was not established by substantial evidence, no disqualifying conditions 
+under this guideline are applicable. 
+Guideline F, Financial Considerations 
+The SOR cross-alleges SOR ¶¶ 1.b and 1.c under this guideline. The concern 
+under this guideline is set out in AG ¶ 18:  
+ 
+Failure or inability to live within one=s means, satisfy debts, and meet 
+financial obligations may indicate poor self-control, lack of judgment, or 
+unwillingness to abide by rules and regulations, all of which can raise 
+questions about an individual=s reliability, trustworthiness and ability to 
+protect classified information. An individual who is financially 
+ 
+15 
+ 
+overextended is at risk of having to engage in illegal acts to generate 
+funds. 
+ 
+ This concern is broader than the possibility that an individual might knowingly 
+compromise classified information in order to raise money. It encompasses concerns 
+about an individual’s self-control, judgment, and other qualities essential to protecting 
+classified information. An individual who is financially irresponsible may also be 
+irresponsible, unconcerned, or negligent in handling and safeguarding classified 
+information. See ISCR Case No. 11-05365 at 3 (App. Bd. May 1, 2012). 
+ 
+ The evidence supporting SOR ¶ 1.b establishes the following disqualifying 
+conditions under this guideline:  
+AG ¶ 19(d): deceptive or illegal financial practices such as embezzlement, 
+employee theft, check fraud, income tax evasion, expense account fraud, 
+filing deceptive loan statements, and other intentional financial breaches 
+of trust; and  
+AG ¶ 19(g): failure to file annual Federal, state, or local income tax returns 
+as required or the fraudulent filing of the same. 
+ 
+ The mitigating condition in AG ¶ 20(a) is potentially relevant: “the behavior 
+happened so long ago, was so infrequent, or occurred under such circumstances that it 
+is unlikely to recur and does not cast doubt on the individual=s current reliability, 
+trustworthiness, or good judgment.” However, for the reasons set out in the above 
+discussion of AG ¶ 17(c), I conclude that this mitigating condition is not established. 
+ 
+Whole-Person Concept 
+ 
+ Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a 
+security clearance must be an overall commonsense judgment based upon careful 
+consideration of the guidelines and the whole-person concept. In applying the whole-
+person concept, an administrative judge must evaluate an applicant’s eligibility for a 
+security clearance by considering the totality of the applicant’s conduct and all relevant 
+circumstances. An administrative judge should consider the nine adjudicative process 
+factors listed at AG ¶ 2(a):  
+ 
+(1) the nature, extent, and seriousness of the conduct; (2) the 
+circumstances surrounding the conduct, to include knowledgeable 
+participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to 
+which participation is voluntary; (6) the presence or absence of 
+rehabilitation and other permanent behavioral changes; (7) the motivation 
+for the conduct; (8) the potential for pressure, coercion, exploitation, or 
+duress; and (9) the likelihood of continuation or recurrence.  
+ 
+ 
+16 
+ 
+ I have incorporated my comments under Guidelines E and F in my whole-person 
+analysis. Some of the factors in AG ¶ 2(a) were addressed under those guidelines, but 
+some warrant additional comment. 
+ 
+ Applicant is a mature, well-educated employee who has earned the respect of 
+many supervisors and coworkers. It is difficult to understand why a person of such talent 
+and potential would risk her reputation and career for minimal gain. After weighing the 
+disqualifying and mitigating conditions under Guidelines E and F, evaluating all the 
+evidence in the context of the whole person, and mindful of my obligation to resolve 
+close cases in favor of national security, I conclude Applicant has not mitigated the 
+security concerns based on her personal and financial conduct. Accordingly, I conclude 
+she has not carried her burden of showing that it is clearly consistent with the national 
+interest to continue her eligibility for access to classified information. 
+ 
+Formal Findings 
+ 
+ I make the following formal findings on the allegations in the SOR: 
+ 
+ Paragraph 1, Guideline E:    AGAINST APPLICANT 
+ 
+  Subparagraphs 1.a-1.b:   Against Applicant 
+  Subparagraphs 1.c-1.h:   For Applicant 
+ 
+ Paragraph 2, Guideline K:    FOR APPLICANT 
+ 
+  Subparagraph 2.a:    For Applicant 
+ 
+ Paragraph 3, Guideline F:    AGAINST APPLICANT 
+ 
+  Subparagraph 3.a:    Against Applicant 
+  Subparagraph 3.b:    For Applicant 
+ 
+Conclusion 
+ 
+ I conclude that it is not clearly consistent with the national interest to continue 
+Applicant’s eligibility for a security clearance. Eligibility for access to classified 
+information is denied. 
+ 
+ 
+ 
+ 
+LeRoy F. Foreman 
+Administrative Judge 

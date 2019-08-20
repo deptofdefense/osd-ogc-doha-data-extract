@@ -1,0 +1,442 @@
+1 
+DEPARTMENT OF DEFENSE 
+DEFENSE OFFICE OF HEARINGS AND APPEALS 
+In the matter of: )
+)
+[REDACTED] ) ISCR Case No. 15-05820 
+) 
+Applicant for Security Clearance ) 
+Appearances 
+For Government: Ross Hyams, Esq., Department Counsel 
+For Applicant: Pro se 
+______________ 
+Decision 
+______________ 
+HESS, Stephanie C., Administrative Judge: 
+Applicant failed to mitigate the security concerns raised by his delinquent filings of 
+his Federal and state tax returns. Eligibility for access to classified information is denied. 
+Statement of the Case 
+Applicant submitted a security clearance application (e-QIP) on February 6, 2015. 
+On October 13, 2017, the Department of Defense (DOD) sent him a Statement of 
+Reasons (SOR), alleging security concerns under Guidelines F (Financial 
+Considerations). The DOD acted under Executive Order (Ex. Or.) 10865, Safeguarding 
+Classified Information within Industry (February 20, 1960), as amended; DOD Directive 
+5220.6, Defense Industrial Personnel Security Clearance Review Program (January 2, 
+1992), as amended (Directive); and the adjudicative guidelines (AG) implemented by 
+DOD on June 8, 2017.  
+Applicant submitted his Answer to the SOR on November 30, 2017, and requested 
+a hearing before an administrative judge. Department Counsel was ready to proceed on 
+February 21, 2018, and the case was assigned to me on March 20, 2018. On May 22, 
+2018, the Defense Office of Hearings and Appeals (DOHA) notified Applicant that the 
+04/10/2019
+2 
+ 
+hearing was scheduled for June 7, 2018. I convened the hearing as scheduled. 
+Government Exhibits (GX) 1 and 2 were admitted into evidence without objection. 
+Applicant testified, called one witness, and submitted Applicant’s Exhibit (AX) A, which 
+was admitted without objection. DOHA received the transcript (Tr.) on June 12, 2018. 
+ 
+Procedural Issues 
+ 
+ Applicant appeared at the hearing with a personal representative. However, both 
+Applicant and the personal representative were unfamiliar with the hearing process. It 
+was Applicant’s intention for the personal representative to testify on Applicant’s behalf. 
+We resolved this issue as follows: Both parties waived opening statements and the 
+personal representative testified on Applicant’s behalf, and then acted as Applicant’s 
+personal representative. 
+ 
+ At the start of the hearing, Department Counsel moved to amend the SOR 
+allegations, and further stated that he might make an additional motion at the end of the 
+hearing. I granted Department Counsel’s motion and Applicant was initially uncertain as 
+to whether or not he was prepared to proceed with the hearing. I stated that I would leave 
+the record open for 30 days in order to permit Applicant to more fully respond to the 
+amended allegations and to submit additional documentation. Under these conditions, 
+Applicant determined that he was prepared to proceed with the hearing. Department 
+Counsel moved to amend the SOR to conform to the evidence, and I granted his motion 
+without objection. The record remained open until July 9, 2018. Applicant timely submitted 
+AX B through H, which included a statement addressing the SOR amendments. I admitted 
+the additional evidence without objection. 
+  
+Findings of Fact 
+ 
+Applicant, 56, is a senior software systems engineer currently employed by a 
+defense contractor since April 2008. He was previously employed in the same position by 
+defense contractors since at least 2002. Applicant worked as a Federal employee from 
+1988 until 1997. He earned a bachelor’s degree in electrical engineering in 1985. He and 
+his wife married in 1982 and have three adult children. He was granted his first security 
+clearance in 1988. (GX 1.)  
+ 
+Under Guideline F, the SOR as amended alleges that Applicant failed to timely file 
+his state and federal tax returns for tax years 2011 through 2016. Applicant admits the 
+SOR allegations. The delinquent tax filings are documented in Applicant’s responses to 
+interrogatories, Answer, and documentary submissions. His admissions are incorporated 
+in my findings of fact. 
+ 
+Applicant does not have any formal training in tax preparation. He prepares and 
+files his own tax returns using tax-preparation software, due in large measure to his 
+concern that accountants and tax preparers are likely targets of hacking. For many years, 
+Applicant erroneously believed that if he was entitled to a refund from the IRS, he was 
+not required to file his tax return on the annual deadline, but was instead required to file 
+3 
+ 
+within three years of the annual deadline or he would forfeit his refund. (GX 2; Tr. 37-38; 
+Answer.) Applicant also stated that his state of residence withholds refunds after two 
+years, so he historically tried to file his Federal and state taxes within two years of the 
+deadline. (Tr. 37-38.) 
+ 
+Applicant attributes his late tax filings primarily to the complexity of his taxes, his 
+misconception about filing requirements, and his efforts to maintain balance in his family 
+and work lives. (Answer.) The issues and events that Applicant identifies as having made 
+his tax accounting and preparation complex, and his filings and payments delinquent, are 
+discussed more fully below. 
+ 
+In 2002, Applicant’s wife was in a serious car accident in which she was gravely 
+injured. She suffered from ongoing health issues for many years that required frequent 
+medical attention. Applicant incurred significant medical costs, and itemized these on his 
+tax returns. (GX 2; Tr. 50.) Applicant’s wife’s health deteriorated in 2012 and 2013, and 
+she underwent surgery in 2014 as a result of the injuries she received in the accident. 
+Through the years, Applicant prioritized his wife’s medical care and concern over her 
+health over preparing his tax returns. (Answer.) 
+ 
+In approximately 2008, Applicant started a two-pronged business venture. He 
+purchased a used recreational vehicle (RV) with the intention of refurbishing it and 
+reselling it. He also bought an online subscription service that was theoretically designed 
+to permit Applicant to purchase deeply discounted vacation packages to resell. A 
+component of the vacation-sale business was to recruit other people to purchase and sell 
+the packages, and Applicant would receive a percentage of their sales. Applicant did not 
+generate any reportable income from either part of the business, nor did he ever obtain a 
+business license. (GX 2; Answer.) However, the business did generate expenses that 
+Applicant itemized on his tax returns. Applicant did not keep business records in real time 
+and this complicated his ability to gather information in order to timely file his tax returns. 
+(Tr. 53-58.) Applicant officially closed the business in June 2016. (Answer.) 
+ 
+In tax year 2011, Applicant’s then-employer issued stock options to its employees, 
+including Applicant. Because of the way the employer issued the stock options, the value 
+of the options was imputed to the employees as income, which necessarily increased 
+their tax obligations. The employer sent Applicant an IRS Schedule K-1 that was incorrect. 
+Applicant contacted the employer, which in turn contacted the IRS to amend the Schedule 
+K-1s. It took several years for this issue to be corrected, and Applicant did not file his tax 
+returns while the issue was pending. (GX 2.) It is unclear when the schedule K-1 was 
+amended. Applicant sold the stocks in April 2017 and received his last Schedule K-1 in 
+March 2017. (Tr. 63-65.) 
+ 
+It took Applicant approximately 440 hours to do the accounting and tax preparation 
+for tax year 2014. Despite this large investment of time, Applicant miscalculated his tax 
+obligation and owed approximately $90. He filed the 2014 Federal return in July 2017, 
+and paid the amount due in September 2017. (GX 2; Tr. 45-46; Answer.) 
+ 
+4 
+ 
+Applicant spoke extensively about his delinquent tax filings during his personal 
+subject interview (PSI) in May 2015. Applicant identified tax year 2011 as the year he 
+began having difficulty in his tax accounting and preparation in both his e-QIP and his 
+PSI. He stated because of his difficulties filing his 2011 tax returns, he was unable to 
+timely file 2012, 2013, and 2014. He filed his 2011 Federal return on April 21, 2015. He 
+anticipated filing his 2013 and 2014 tax returns soon. Additionally, the IRS sent inquiries 
+to Applicant for non-filing of tax returns in at least 2012, 2013, and 2016. (GX 2; Answer.) 
+ 
+Applicant signed his responses to DOHA’s interrogatories on October 4, 2017. The 
+interrogatories required Applicant to submit IRS account transcripts for tax years 2011 
+through 2016. Applicant stated that his 2016 state and Federal tax returns remained 
+unfiled. However, his 2015 state and Federal returns were also unfiled. He filed his 2015 
+Federal return on October 10, 2017. Applicant filed for an extension for his 2016 Federal 
+return. However, he missed the October 15, 2017, deadline and filed the return on 
+November 24, 2017. (GX 2; Tr. 43-45; Answer.). 
+ 
+The instructions section of IRS Form 1040, updated annually, specifically sets forth 
+the filing requirements for that tax year. For example, in 2011 married couples filing jointly 
+with both spouses under the age of 65 with a gross income of at least $20,600 were 
+required to file a Federal return by April 18, 2016.1 Applicant’s income has exceeded the 
+annual minimum gross income for tax years 2011 through 2016.2 (Answer.) Applicant was 
+generally entitled to receive refunds from the IRS. However, he forfeited his 2011 refund 
+by filing the return more than three years after the filing deadline on April 21, 2015. 
+Applicant filed automatic extensions for several tax years, but did not meet the October 
+15 deadlines. (GX 2; Tr. 40-43; Answer.)  
+ 
+Applicant filed an extension for his 2017 Federal tax return, which moved his 
+deadline to October 15, 2018. However, Applicant’s accounting and tax preparation 
+resulted in Applicant’s owing Federal tax for 2017. He was required by Federal law to 
+submit his payment by the April 2018 filing deadline. On May 31, 2018, Applicant filed the 
+return with a check for $2,500 for tax payment. (AX A.) Further, this submission occurred 
+one week after Applicant acknowledged receipt of the Notice of Hearing.3 Regarding his 
+2017 return, Applicant stated: 
+ 
+It is interesting that my 2017 "Application for Automatic Extension of Time 
+to File" projects us receiving a $300 refund while my actual tax filing shows 
+us owing additional taxes. In other words, we made yet another mistake. It 
+is a humbling lesson learned for me going forward that estimates (just like 
+2014) can be wrong. (AX B.) 
+ 
+                                            
+1 The relevant pages from 2011 1040 instructions from www.irs.gov are appended to the record as Administrative 
+Exhibit (AD EX) IV. 
+ 
+2 See www.irs.gov. 
+ 
+3 The email acknowledging receipt of the Notice of Hearing is appended to the file as AD EX II. Appellant’s sheet of 
+corrections of the transcript is amended to the file as AD EX III. 
+5 
+ 
+It is unclear when Applicant realized he was required to file by the IRS deadlines 
+regardless of whether or not he was entitled to a refund, but it was at some point prior to 
+filing his Answer on November 30, 2017. However, Applicant also stated in his Answer 
+that his “previous security investigations revealed this same issue since [his] wife’s wreck 
+in 2001 and since the start of [his] business in 2008.” Upon receiving the SOR, he realized 
+that his practice of delinquently filing his tax returns could have a negative impact on his 
+security clearance. (Tr. 67-70.)  
+ 
+Applicant does not owe any balance for his 2014 state tax. However, as of 
+September 28, 2017, Applicant had not filed his 2015 and 2016 state tax returns. 
+(Answer.) Applicant filed his 2017 state tax return on May 31, 2018. (AX A.) 
+ 
+Applicant thinks filing his tax returns will be simplified now that he no longer has to 
+wait for a Schedule K-1 or incorporate the information from it into his tax calculations, but 
+instead receives a standard employee W-2. (Tr. 66.) Applicant stated that because he 
+was operating under the misconception that he had three years to file if he was owed a 
+refund from the IRS, he did not think he was violating any laws. (Tr. 70.) Applicant stated 
+several times that he remains circumspect about hiring a tax preparer or accountant out 
+of concern that Applicant’s personal information will be hacked. His current intention is to 
+continue preparing his own tax returns. (Tr. 64-73.) Applicant does not have any 
+delinquent accounts or other financial issues. (AX C-AX H.) Now that Applicant is aware 
+of the negative impact his delinquent filing of his Federal and state tax returns could have 
+on his security eligibility, he intends to timely file all future tax returns. (Tr. 70-71.) 
+  
+ Applicant’s witness, a security specialist who has worked with Applicant for more 
+than 11 years, holds a security clearance. She is aware of the SOR allegations. She 
+testified that Applicant is trustworthy and reliable, stating that he has identified and helped 
+to rectify several data spillages that were potentially damaging, and that he has never 
+caused a security-related incident. (Tr. 28-31.) Applicant provided character references 
+from his supervisor since 2003, a friend of over 30 years, a coworker since 2008, and a 
+former coworker and friend of 28 years. Each is aware of the SOR allegations. 
+Collectively, they stated that Applicant is a person of integrity who is skilled in his 
+profession. Given Applicant’s character and trustworthiness, they highly recommend 
+Applicant for continued access to classified information. (Answer.) 
+ 
+Policies 
+ 
+ “[N]o one has a ‘right’ to a security clearance.” Department of the Navy v. Egan, 
+484 U.S. 518, 528 (1988). As Commander in Chief, the President has the authority to 
+“control access to information bearing on national security and to determine whether an 
+individual is sufficiently trustworthy to have access to such information.” Id. at 527. The 
+President has authorized the Secretary of Defense or his designee to grant applicants 
+eligibility for access to classified information “only upon a finding that it is clearly 
+consistent with the national interest to do so.” Exec. Or. 10865, Safeguarding Classified 
+Information within Industry § 2 (Feb. 20, 1960), as amended.  
+ 
+6 
+ 
+Eligibility for a security clearance is predicated upon the applicant’s meeting the 
+criteria contained in the AG. These guidelines are not inflexible rules of law. Instead, 
+recognizing the complexities of human behavior, an administrative judge applies these 
+guidelines in conjunction with an evaluation of the whole person. An administrative 
+judge’s overarching adjudicative goal is a fair, impartial, and commonsense decision. An 
+administrative judge must consider all available and reliable information about the person, 
+past and present, favorable and unfavorable. 
+  
+The Government reposes a high degree of trust and confidence in persons with 
+access to classified information. This relationship transcends normal duty hours and 
+endures throughout off-duty hours. Decisions include, by necessity, consideration of the 
+possible risk that the applicant may deliberately or inadvertently fail to safeguard 
+classified information. Such decisions entail a certain degree of legally permissible 
+extrapolation about potential, rather than actual, risk of compromise of classified 
+information. 
+ 
+Clearance decisions must be made “in terms of the national interest and shall in 
+no sense be a determination as to the loyalty of the applicant concerned.”  See Exec. Or. 
+10865 § 7. Thus, a decision to deny a security clearance is merely an indication the 
+applicant has not met the strict guidelines the President and the Secretary of Defense 
+have established for issuing a clearance. 
+ 
+ Initially, the Government must establish, by substantial evidence, conditions in the 
+personal or professional history of the applicant that may disqualify the applicant from 
+being eligible for access to classified information. The Government has the burden of 
+establishing controverted facts alleged in the SOR. See Egan, 484 U.S. at 531. 
+“Substantial evidence” is “more than a scintilla but less than a preponderance.” See v. 
+Washington Metro. Area Transit Auth., 36 F.3d 375, 380 (4th Cir. 1994). The guidelines 
+presume a nexus or rational connection between proven conduct under any of the criteria 
+listed therein and an applicant’s security suitability. See ISCR Case No. 92-1106 at 3, 
+1993 WL 545051 at *3 (App. Bd. Oct. 7, 1993).  
+ 
+ Once the Government establishes a disqualifying condition by substantial 
+evidence, the burden shifts to the applicant to rebut, explain, extenuate, or mitigate the 
+facts. Directive ¶ E3.1.15. An applicant has the burden of proving a mitigating condition, 
+and the burden of disproving it never shifts to the Government. See ISCR Case No. 02-
+31154 at 5 (App. Bd. Sep. 22, 2005).  
+ 
+An applicant “has the ultimate burden of demonstrating that it is clearly consistent 
+with the national interest to grant or continue his security clearance.” ISCR Case No. 01-
+20700 at 3 (App. Bd. Dec. 19, 2002). “[S]ecurity clearance determinations should err, if 
+they must, on the side of denials.” Egan, 484 U.S. at 531; see AG ¶ 2(b).  
+ 
+ 
+ 
+ 
+7 
+ 
+Analysis 
+ 
+Guideline F, Financial Considerations 
+ 
+The concern under this guideline is set out in AG ¶ 18:  
+ 
+Failure to live within one's means, satisfy debts, and meet financial 
+obligations may indicate poor self-control, lack of judgment, or unwillingness 
+to abide by rules and regulations, all of which can raise questions about an 
+individual's reliability, trustworthiness, and ability to protect classified or 
+sensitive information. 
+  
+ This concern is broader than the possibility that an individual might knowingly 
+compromise classified information in order to raise money. It encompasses concerns 
+about an individual’s self-control, judgment, and other qualities essential to protecting 
+classified information. An individual who is financially irresponsible may also be 
+irresponsible, unconcerned, or negligent in handling and safeguarding classified 
+information. See ISCR Case No. 11-05365 at 3 (App. Bd. May 1, 2012). 
+  
+The record evidence establishes the following disqualifying condition: 
+ 
+AG ¶ 19(f): failure to file . . . annual Federal, state, or local income tax 
+returns or failure to pay annual Federal, state, or local income tax as 
+required.  
+ 
+ The following mitigating conditions are potentially applicable: 
+ 
+AG ¶ 20(a): the behavior happened so long ago, was so infrequent, or 
+occurred under such circumstances that it is unlikely to recur and does not 
+cast doubt on the individual=s current reliability, trustworthiness, or good 
+judgment; 
+ 
+AG ¶ 20(b): the conditions that resulted in the financial problem were largely 
+beyond the person's control (e.g., loss of employment, a business 
+downturn, unexpected medical emergency, a death, divorce or separation, 
+clear victimization by predatory lending practices, or identity theft), and the 
+individual acted responsibly under the circumstances; and 
+ 
+AG ¶ 20(g): the individual has made arrangements with the appropriate tax 
+authority to file or pay the amount owed and is in compliance with those 
+arrangements. 
+ 
+ Applicant did not timely file his Federal and state tax returns for 2011 through 2016, 
+despite receiving extensions for many years. He did not timely pay his 2014 and 2017 tax 
+obligations. The 2011 inaccurate tax reporting by Applicant’s employer and Applicant’s 
+wife’s medical expenses were conditions that were beyond Applicant’s control. These 
+8 
+ 
+conditions added complexity to Applicant’s accounting and tax preparation, which 
+contributed to his inability to timely file his tax returns. It is understandable that Applicant 
+wanted to maintain balance with his personal and professional lives and to prioritize his 
+wife’s care. Further, it is not unreasonable for Applicant to be concerned that his personal 
+information could be at risk through hacking. Nevertheless, Applicant did not act 
+responsibly under the circumstances. There are a myriad of options that Applicant could 
+have employed to protect his personal information when using the services of a tax 
+professional. For example, Applicant could ensure that the tax professional computed 
+Applicant’s taxes without entering his personal information. The computed tax information 
+could then be entered by Applicant and submitted to the taxing authority. 
+ 
+ Applicant also attributes his pattern of failing to timely file his tax returns to his 
+misconception about his filing requirements. Applicant is college educated and has 
+worked as a software systems engineer since at least 2002. The 1040 instructions clearly 
+set forth the filing requirements and these requirements have applied to Applicant for all 
+tax years in question. It is unclear exactly when Applicant fully understood that he is 
+required to file his Federal tax return annually by the IRS deadlines established by the 
+IRS. 
+  
+ Further, Applicant has been given notice that the government is concerned about 
+timely filing of taxes by the questions asked on his 2015 e-QIP, and likely during his 
+previous background investigations. Applicant was also questioned extensively about his 
+failure to timely file his taxes during his May 2015 PSI. Applicant had to have understood 
+the security concern raised by his pattern of delinquently filing his tax returns when he 
+received DOHA’s interrogatories in September 2017. The fact that Applicant filed his 2015 
+tax return the day after he completed his responses to interrogatories underscores the 
+fact that Applicant understood that his failure to timely file his tax returns had security 
+clearance implications.  
+ 
+ However, despite having received the SOR in October 2017, Applicant did not file 
+his 2016 Federal tax return until November 24, 2017, well after the extension deadline. 
+He did not timely pay his 2018 Federal tax obligation. Applicant filed his 2017 return, the 
+first return filed within an extension period, and paid his tax obligation only after receiving 
+the hearing notice. Applicant asserted that he will timely file his future tax returns now that 
+he is aware of the security clearance implications. 
+ 
+ Applicant’s overarching motivation for his last-minute efforts to comply with his tax-
+filing obligations, as well as his future promise of compliance, is protecting his security 
+clearance. The appeal board has regularly held that “applicants who only begin to address 
+their security-significant conduct when their personal interests are at stake may be lacking 
+in judgment and reliability. See, e.g., ISCR Case No. 15-06707 at 3 (App. Bd. Aug. 15, 
+2017.)  
+ 
+ In specifically addressing mitigating condition 20(g) in ISCR Case No. 17-01807 
+(App. Bd. Mar. 7, 2018), the appeal board observed: 
+ 
+9 
+ 
+The mere filing of delinquent tax returns or the existence of a payment 
+agreement with an appropriate tax authority does not compel a Judge to 
+issue a favorable decision. As with the application of any mitigating 
+condition, the Judge must examine the record evidence and decide whether 
+the favorable evidence outweighs the unfavorable evidence or vice versa. 
+The timing of corrective action is an appropriate factor for the judge to 
+consider in the application of [this mitigating condition]. pp 3-4. 
+ 
+ Applicant’s pattern of failing to timely file his Federal and state tax returns is recent 
+and raises concerns about his willingness to abide by rules and regulations, and his 
+current reliability and judgment. While many factors contributed to Applicant’s failure to 
+timely file his Federal and state tax returns for many years, he did not act reasonably 
+under those circumstances. None of the mitigating conditions apply. 
+ 
+Whole-Person Concept 
+  
+ Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a 
+security clearance must be an overall commonsense judgment based upon careful 
+consideration of the guidelines and the whole-person concept. In applying the whole-
+person concept, an administrative judge must evaluate an applicant’s eligibility for a 
+security clearance by considering the totality of the applicant’s conduct and all relevant 
+circumstances in light of the nine adjudicative process factors listed at AG ¶ 2.  
+ 
+ I have incorporated my comments under Guideline F in my whole-person analysis. 
+Some of the factors in AG ¶ 2 were addressed under that guideline, but I have also 
+considered the following: 
+  
+ Applicant has held a security clearance since 1988. His supervisor, coworkers, and 
+friends highly recommend Applicant for a continued security clearance. He is a skilled 
+professional. However, through his failure to timely file and pay his taxes, Applicant has 
+not demonstrated the judgment and reliability required of individuals granted access to 
+classified information. 
+ 
+ After weighing the disqualifying and mitigating conditions under Guideline F, and 
+evaluating all the evidence in the context of the whole person, I conclude Applicant has 
+not mitigated the security concerns raised by his failure to timely file his tax returns taxes 
+as required. Accordingly, I conclude he has not carried his burden of showing that it is 
+clearly consistent with the national interest to grant him continued eligibility for access to 
+classified information. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+Formal Findings 
+ 
+As required by section E3.1.25 of Enclosure 3 of the Directive, I make the following 
+formal findings on the allegations in the SOR: 
+  
+ Paragraph 1, Guideline F (Financial Considerations): AGAINST APPLICANT 
+ 
+  Subparagraphs 1.a and 1.b:    Against Applicant 
+ 
+Conclusion 
+ 
+ I conclude that it is not clearly consistent with the national interest to continue 
+Applicant’s eligibility for a security clearance. Eligibility for access to classified information 
+is denied. 
+ 
+ 
+ 
+Stephanie C. Hess 
+Administrative Judge 
+ 
+ 
+ 
+ 

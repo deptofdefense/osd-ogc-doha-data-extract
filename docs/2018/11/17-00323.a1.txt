@@ -1,0 +1,132 @@
+KEYWORD: Guideline E
+DIGEST: The Judge’s finding of deliberate falsification is supported by substantial evidence. 
+Moreover, given the seriousness of Applicant’s misconduct, his various inconsistent statements,
+and the Judge’s adverse credibility determination, we find no reason to disturb the Judge’s
+analysis of the security concerns raised in this case.  We are required to give deference to
+Judges’ credibility determinations. Adverse decision affirmed.
+CASENO: 17-00323.a1
+DATE: 11/20/2018
+DATE: November 20, 2018
+In Re:
+-------------------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-00323
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+September 21, 2017, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline K (Handling Protected Information) and
+Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as
+amended) (Directive).  Department Counsel requested a hearing.  On August 31, 2018, after the
+hearing, Defense Office of Hearings and Appeals (DOHA) Administrative Judge Mark Harvey
+denied Applicant’s request for a security clearance.  Applicant appealed pursuant to Directive ¶¶
+E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge was biased against him;
+whether the Judge erred in finding that his omissions from his security clearance application (SCA)
+were deliberate; and whether the Judge’s adverse decision was arbitrary, capricious, or contrary to
+law.1  Consistent with the following, we affirm the Judge’s adverse decision.
+The Judge’s Findings of Fact
+Thirty-four years old, Applicant has a wife and a child.  He served in the military from 2001
+to 2008, deploying overseas three times in support of U.S. military objectives.  He has also deployed
+overseas while in the employ of Government contractors.  
+In 2010, officials at Applicant’s place of employment conducted a forensic analysis of three
+unclassified hard drives and two unclassified external drives from Applicant’s work station.  The
+reason for the analysis was that Applicant had loaned a hard drive to another employee, who
+discovered classified documents on it and reported it to security officials.  The officials found over
+a million classified documents on the drives that they examined.  Applicant speculated that someone
+may have taken a drive from his office and placed classified information on it.  He also stated that
+he “had no idea of how [the classified information] got there or why it was there.”  Decision at 3. 
+He suggested that the Government reuses hard drives and that one of them that was provided to
+Applicant contained classified information on it.  He also suggested that they could have come from
+Wikileaks or a similar website.  He blamed security officials for having lax security practices.
+On his SCA, Applicant denied that he had ever provided financial support to any foreign
+national.  In fact, he sent about $40,000 to recipients outside the U.S.  He also sent about $26,000
+to his girlfriend, a Columbian national, and about $7,000 to a foreign account for the benefit of a
+woman in Columbia.  Some of the recipients were Applicant’s wife and her parents.  Applicant
+attributed his omission to haste in completing his SCA.  During his clearance interview, Applicant
+stated that he did not understand the question, that he had been in a hurry to complete his SCA, and
+that he was embarrassed about the fund transfers.   
+The Judge’s Analysis  
+1Applicant submitted a second appeal brief for our consideration.  The Directive permits only one brief per
+party.  Directive ¶ E3.1.30.  
+2
+The Judge concluded that none of the Guideline K mitigating conditions applied to
+Applicant’s circumstances.  He stated that Applicant did not provide a credible explanation for how
+classified documents came to be on his personal media.  Regarding his omissions from his SCA, the
+Judge noted Applicant’s statement during his security clearance interview to the effect that he did
+not understand the question.  At the hearing, however, Applicant admitted that he understood the
+question.  The Judge characterized Applicant as intelligent and found that Applicant intentionally
+decided not to disclose the information in question.  He described the omission as recent, serious,
+and unmitigated.
+In the whole-person analysis the Judge reiterated that Applicant’s explanations for his
+omissions were not credible and cited to the provision of the Directive to the effect that failure to
+provide truthful answers during security investigations is of special concern.  He also reiterated his
+adverse credibility determination regarding Applicant’s explanation for the presence of classified
+information on Applicant’s personal electronic media.
+Discussion
+Applicant’s brief includes information from outside the record.  We cannot consider new
+evidence on appeal.  Directive ¶ E3.1.29.
+Applicant contends that various security personnel were biased against him.  Among other
+things, he asserts that the Judge failed to mention that security officials did not revoke his clearance
+upon discovery of his security infractions.  He argues that this demonstrates the Judge’s bias.  We
+have evaluated the Judge’s decision in light of the record as a whole.  We find nothing therein that
+would likely persuade a reasonable person that the Judge lacked the requisite impartiality.  Adverse
+rulings and decisions do not establish judicial bias.   See, e.g., ISCR Case No. 15-05047 at 3 (App.
+Bd. Nov. 8, 2017).  Applicant has not met his heavy burden of persuasion on this issue.  See, e.g.,
+ISCR Case No. 17-02391 at 2 (App. Bd. Aug. 7, 2018).  
+Applicant’s brief draws our attention to record evidence that he believes is favorable to him,
+such as his claims about the possible origin of the classified data on his computer drives and his
+denial that he deliberately falsified his SCA.  He argues that the years that have elapsed since his
+last security-significant conduct contradict the Judge’s finding that the misconduct was recent.  The
+Judge’s finding of deliberate falsification is supported by substantial evidence.  See ISCR Case No.
+17-02145 at 3 (App. Bd. Sep. 10, 2018).  Moreover, given the seriousness of Applicant’s
+misconduct, his various inconsistent statements, and the Judge’s adverse credibility determination,
+we find no reason to disturb the Judge’s analysis of the security concerns raised in this case.  We are
+required to give deference to Judges’ credibility determinations.  Directive ¶ E3.1.32.1.  Applicant
+has not rebutted the presumption that the Judge considered all of the evidence in the record, nor has
+he shown that the Judge weighed the evidence in a manner that was arbitrary, capricious, or contrary
+to law.  See, e.g., ISCR Case No. 17-02145 at 3.  Applicant states that without a clearance he will
+be unemployed.  We are not permitted to consider the impact of an unfavorable decision.  See, e.g.,
+ISCR Case No. 17-01950 at 2 (App. Bd. Aug. 7, 2018).   
+3
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  Security violations “strike at the heart of the industrial security program” and must receive
+a Judge’s strict scrutiny.  ISCR Case No. 16-01077 at 3 (App. Bd. Apr. 25, 2018).  Moreover, failure
+to provide truthful answers to lawful questions in connection with a security clearance investigation
+is of special concern and “will normally result in an unfavorable . . . determination.”  Directive,
+Encl. 2, App. A ¶ 15.  The decision is sustainable on this record.  “The general standard is that a
+clearance may be granted only when ‘clearly consistent with the interests of the national security.’” 
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A ¶
+2(b):  “Any doubt concerning personnel being considered for national security eligibility will be
+resolved in favor of the national security.”
+4
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan              
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                 
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+  
+ 
+  
+5

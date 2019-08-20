@@ -1,0 +1,250 @@
+KEYWORD: Guideline E
+DIGEST: In answer to interrogatories, Applicant swore to the accuracy of a previous statement
+subject to attached comments.  His counsel stipulated to admission of the exhibit.  The Judge’s
+decision to give the exhibit no weight was unreasonable.  The Judge’s failure to apply two
+disqualifying conditions and his whole person analysis are not sustainable given record evidence
+of: shoplifting, UCMJ punishment, a false statement to an investigator, and Applicant’s
+resignation from a job following allegations of misconduct.  Favorable decision reversed.
+CASENO: 09-06218.a1
+DATE: 09/06/2011
+DATE: September 6, 2011
+In Re:
+------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 09-06218
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Melvin A. Howry, Esq., Department Counsel
+FOR APPLICANT
+John N. Griffith, Esq.
+110 U.S.C. § 815.  
+2
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On July 17, 2010, DOHA issued a statement of reasons (SOR) advising Applicant of the
+basis for that decision–security concerns raised under Guideline E (Personal Conduct) of
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On May 13, 2011, after the hearing, Administrative Judge Robert Robinson
+Gales granted Applicant’s request for a security clearance.  Department Counsel appealed pursuant
+to Directive ¶¶  E3.1.28 and E3.1.30.
+Department Counsel raised the following issues on appeal: whether the Judge erred in some
+of his findings of fact and whether the Judge failed to consider the totality of Applicant’s conduct
+in performing his analyses of the SOR allegations.  Consistent with the following, we reverse the
+Judge’s decision.
+Facts
+The Judge made the following pertinent findings of fact: Applicant is an account manager
+in business development for a Defense contractor.  He served in the U.S. Navy from 1980 until his
+retirement in 2001.  Applicant is married with two children.
+In March 1995, Applicant received a Top Secret security clearance.  At some point thereafter
+he was granted access to Sensitive Compartmented Information (SCI). 
+In March 2000, Applicant, a commander (0-5), shoplifted items from a Base Exchange.  He
+was apprehended by  members of the security forces squadron after a review of a video surveillance
+tape.  He received nonjudicial punishment under Article 15 of the Uniform Code of Military Justice.1
+The specifications were two offenses of larceny and two of conduct unbecoming an officer.
+Applicant attributed his actions to the effects of prescribed pain medication.  His punishment
+consisted of a punitive letter of reprimand and forfeiture of one-half of his pay per month for two
+months.  
+Applicant’s security clearance was suspended in April 2000, and his access to SCI was
+suspended in May 2000.  On January 12, 2001, the command recommended Applicant’s security
+clearance be revoked.  On May 29, 2001, security authorities for the Navy issued a Letter of Intent
+(LOI) to revoke Applicant’s clearance and his access to SCI.  
+Because Applicant lost his clearance eligibility, the Navy processed him for retirement based
+on his failure to maintain professional standards.  His retirement was effective in July 2001.  His DD
+Form 214, Discharge Certificate, lists “unacceptable conduct” as the reason for separation.
+2Applicant testified that he began his terminal leave in January 2001, nearly six months prior to his retirement
+date.  Tr. at 78.  He testified that DoD policy permitted accrual of such an amount of leave by persons on extended
+deployments, etc.  “Q: And so for six years you didn’t take any leave?  A: For–actually it was longer than that.  The
+answer is yes and no.”  Tr. at 78-79.  Applicant’s testimony on this matter is not consistent with his own Exhibit N, an
+extract from DoD Instruction 1327.06, which permits members in hostile fire zones, imminent danger areas, and “certain
+deployable ships” to accrue leave in excess of normal limits.  However, the Instruction, which is dated June 16, 2009,
+limits the total accrual to 120 days, less than that to which Applicant testified that he had been entitled.   
+3The Judge cites to Government Exhibit (GE) 7, Answers to Interrogatories.  See discussion below.  
+4Department Counsel has not challenged this finding on appeal. 
+3
+Applicant contends that he never saw the May 29, 2001, LOI because he was on terminal leave at
+the time it was issued.2
+While on terminal leave, Applicant went to work for a Government contractor.  He resigned
+in March 2008 in lieu of termination for inflating expense reports.  On his 2009 security clearance
+application (SCA), he stated that he had 
+[l]eft job by mutual agreement following allegations of misconduct.  There were
+allegations of a violation of a corporate policy.  While there was a significant amount
+of blame to go around and heavy tension related to office politics, in the end, I was
+the one ultimately responsible.  Rather than spend the time fighting the allegations
+only to return to the same office politics . . . I elected to retire.  Decision at 5-6.  
+Applicant’s former employer conducted an investigation into Applicant’s 2007 travel
+expenses ($26,017) and 2008 travel expenses ($13,867). A Report of Adverse Information prepared
+by the facility security officer stated “Applicant was terminated from employment with the
+Corporation, but it looks as though it was allowed to go through as a ‘resignation.’  Very simply,
+[Applicant] was terminated due to inflating expense reports.”  Decision at 6.  Former colleagues of
+Applicant characterized his supervisors as manipulative, devious, and concerned about their own
+power; opined that his problems were due to a difference of opinion between Applicant and an off-
+site superior; and opined that Applicant was a victim of office politics.
+In July 2000, Applicant was interviewed by an investigator.  “An incomplete extract of the
+unsworn and unsigned document which appears to be a report of investigation (ROI) states that
+Applicant “denied any involvement with Law Enforcement or any Criminal Activities since June
+82[.]”3      
+ In March 2009, when completing his SF 86, he responded “no” to a question which asked
+if he had ever had a clearance of access authorization denied, suspended, or revoked.  The SOR
+alleges that he deliberately failed to disclose that his access to SCI was suspended in April 2000.
+Applicant denies that he intended to falsify or to omit material information.  He states that he was
+only aware that his SCI access was not being renewed.4
+4
+Discussion
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”  Directive, Enclosure 2 ¶ 2(b).  The Appeal Board may reverse the Judge’s
+decision to grant, deny, or revoke a security clearance if it is arbitrary, capricious, or contrary to law.
+Directive ¶¶ E3.1.32.3 and E3.1.33.3.  
+Once a concern arises regarding an Applicant’s security clearance eligibility, there is a strong
+presumption against the grant or maintenance of a security clearance.  See Dorfmont v. Brown, 913
+F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After the Government presents
+evidence raising security concerns, the burden shifts to the applicant to rebut or mitigate those
+concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and mitigating conditions and
+whole person factors does not turn simply on a finding that one or more of them apply to the
+particular facts of a case.  Rather, their application requires the exercise of sound discretion in light
+of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at 3 (App. Bd. Dec. 20,
+2006).
+In deciding whether the Judge's rulings or conclusions are arbitrary or capricious, the Board
+will review the Judge's decision to determine whether:  it does not examine relevant evidence; it fails
+to articulate a satisfactory explanation for its conclusions, including a rational connection between
+the facts found and the choice made; it does not consider relevant factors; it reflects a clear error of
+judgment; it fails to consider an important aspect of the case; it offers an explanation for the decision
+that runs contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere
+difference of opinion.  In deciding whether the Judge's rulings or conclusions are contrary to law,
+the Board will consider whether they are contrary to provisions of Executive Order 10865, the
+Directive, or other applicable federal law.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2,
+2006)
+Department Counsel challenges the Judge’s finding that Applicant did not deliberately
+provide false information during the security clearance process.  He also contends that the Judge
+5Directive, Enclosure 2 ¶ 16(c) : “credible adverse information in several adjudicative issue areas that is not
+sufficient for an adverse determination under any other single guideline, but which, when considered as a whole, supports
+a whole-person assessment of questionable judgment, untrustworthiness, unreliability, lack of candor, unwillingness to
+comply with rules and regulations, or other characteristics indicating that the person may not properly safeguard
+protected information[.]”    
+6Directive, Enclosure 2 ¶ 16(d): “credible adverse information that is not explicitly covered under any other
+guideline and may not be sufficient by itself for an adverse determination, but which, when combined with all available
+information supports a whole-person assessment of questionable judgment, untrustworthiness, unreliability, lack of
+candor, unwillingness to comply with rules and regulations, or other characteristics indicating that the person may not
+properly safe guard protected information This includes but is not limited to . . . (3) a pattern of dishonesty or rule
+violations; (4) evidence of significant misuse of Government or other employer’s time or resources[.] ”    
+7The Federal Rules of Evidence serve as a guide in DOHA proceedings.  Directive ¶ E3.1.19.  See Fed. Rule
+Evid. 801(d)(2) for the proposition that a statement by a party, or a statement of which a party has manifested an
+adoption, is excluded from the definition of hearsay when offered by a party opponent.  See also ISCR Case No. 08-
+5
+erred in not applying two Guideline E disqualifying conditions (DC), 16(c)5 and 16(d).6  Department
+Counsel argues that the Judge’s failure to raise these disqualifying conditions resulted in an  analysis
+that did not consider Applicant’s security-significant conduct as a whole.  In making this argument,
+Department Counsel contends that the Judge’s whole-person analysis was in error.
+Concerning the Judge’s conclusion that Applicant did not attempt deliberately to mislead the
+Government, we note that proof of a false statement, standing alone, does not prove an applicant’s
+state of mind.  When, as here, an applicant denies an intent to mislead or deceive, the Government
+must present substantial evidence that the false statement or the omission was deliberate.
+Substantial evidence means “such relevant evidence as a reasonable mind might accept as adequate
+to support a conclusion in light of all the contrary evidence in the same record.”  Directive ¶
+E3.1.32.1. See ISCR Case No. 08-05637 at 2 (Sep. 9, 2010).         
+In this case, the Judge concluded that the record did not contain sufficient evidence to
+explain who conducted the 2000 interview and that the actual substance of Applicant’s answers
+could not be ascertained beyond mere speculation.  He stated that the document in question appeared
+to  violate the provisions of Directive ¶ E3.1.20, which forbids admission into DOHA proceedings
+of a DoD ROI that is not authenticated.  He also concluded that the document did not meet the
+requirements of ¶ E3.1.22, which delineates circumstances when certain adverse statements can be
+admitted without affording a right of cross-examination.  He stated that he could not give the
+document substantial weight.  Decision at 11-12.
+Applicant’s answers to DOHA interrogatories, GE 7, contain an excerpt from a summary of
+the subject interview conducted with Applicant on July 12, 2000.  This excerpt includes Applicant’s
+denial of involvement with law enforcement personnel.  While this document does appear to be part
+of a DoD ROI, Applicant swore to its accuracy, subject to comments which he had attached.
+Applicant’s certification bears his notarized signature.  Therefore, the interview statement in
+question has been incorporated into a statement by Applicant, evidence that is admissible in DOHA
+proceedings.7  Applicant’s counsel stipulated to the admission of this exhibit.  In light of the Judge’s
+01075 at 4 (App. Bd. Jul. 26, 2011).  This case addressed the admissibility of a summary of an applicant’s security
+clearance interview.  “It is true that [the summary] does not contain the actual questions posed or Applicant’s verbatim
+answers; however, it was signed by Applicant, who swore to its truthfulness, with certain factual corrections on unrelated
+matters.  As such, [the summary] became the equivalent of an admission by Applicant, and the Judge erred in not
+evaluating it as such.”  
+8See GE 6 at Answer 5: Applicant related a conversation in which Navy lawyers discussed “what constituted
+Law Enforcement and was base exchange security considered Law Enforcement, etc.”
+9See Tr. at 55-57.: “Q: Now, for the expense reports–and did you inflate expense reports?  A: No.  The answer
+is yes and no.  Never intentionally . . . I would have a business dinner with a customer and I would categorize that under
+‘Business meeting.’  And my immediate superior didn’t like that . . . and he thought that should be over under ‘Personal
+meals.’”  Compare with GE 4, documentation from Applicant’s former employer regarding his resignation.  This exhibit
+includes an e-mail transmission from an official of the company containing the following: “I followed up with
+appropriate Corporate staff functions to outline the actions we took in the wake of [Applicant’s] departure from
+[Employer].  Corporate Ethics, Human Resources (HR), and Corporate Business Development (CBD) worked with
+Corporate Legal, Corporate Security, and Corporate Finance in the disposition of [Applicant’s] case . . .  1.  Did we fix
+the problem?  We have taken active steps to place in an unallowable accounting category all of [Applicant’s] 2008 travel
+and related expenses of $13,867.  In addition we have taken active steps to place an equivalent amount of the [named
+city] field office’s expenses in an allowable accounting category to offset $26,017 of [Applicant’s] 2007 travel expenses
+that correspond to the time period covered by the investigation[.]”      
+6
+erroneous characterization of this evidence, his conclusion that he could not extend substantial
+weight to it was unreasonable.    
+Although Applicant stated in his comments that he did not remember the interview, he did
+not deny that it occurred, nor did he deny actually making the challenged statement.  His comments,
+admittedly somewhat rambling, state that the interview occurred a long time ago, that at the time of
+the interview his nonjudicial punishment action was ongoing and that “nothing was on record,” and
+that he did not intend to deceive.  In GE 6, another set of interrogatories, Applicant also implied
+some confusion as to the meaning of the term “law enforcement” as it applied to Base Exchange
+personnel.8  Given the Judge’s findings and record evidence that Applicant was a college educated
+commander in the U.S. Navy who was undergoing UCMJ action for theft at the time of the interview
+in question, it is unreasonable to conclude that his denial of criminal activity was honestly mistaken.
+The record as a whole demonstrates that the Government presented substantial evidence of a
+deliberately false statement.  The record does not support the Judge’s conclusion to the contrary. 
+Regarding Department Counsel’s issue regarding DC 16(c) and 16(d), we note record
+evidence of (1) Applicant’s having shoplifted from a Base Exchange, with the result that he was
+punished under the UCMJ and retired for “unacceptable conduct;” (2) Applicant’s access to SCI
+having been suspended following this shoplifting incident; (3) Applicant’s false statement to an
+investigator concerning this matter; and (4) Applicant’s having resigned from a job following
+allegations of misconduct.  On this last point, Applicant did not deny that his expense accounts were
+inaccurate; rather he only denied that he had intended to defraud his employer.9  We find Department
+Counsel’s argument persuasive that the evidence in the case establishes Guideline E security
+concerns under DC 16(c) and 16(d).  Taken together the evidence supports a conclusion that
+Applicant lacks the requisite judgment, trustworthiness, reliability, and willingness to comply with
+10The Judge’s analysis did not address the inherent probability of Applicant’s contention that his shoplifting
+and his misstatements on his expense accounts were both simple mistakes.  Nor did the Judge’s analysis of mitigation
+address the inconsistency between Applicant’s testimony (that he thought he was only to go back seven years in
+answering his 2009 SCA question as to whether he had ever had a clearance suspended or revoked, Tr. at 90) and his
+other testimony and evidence (that he did not know that his SCI access had been suspended).     
+7
+rules and regulations.  Given the record that was before him, the Judge’s failure to apply these
+disqualifying conditions was error.  
+For similar reasons, we find Department Counsel’s challenge to the Judge’s whole-person
+analysis to be persuasive.  Applicant’s most recent incident, the 2008 job loss due to his inflated
+expense account, viewed in light of his prior shoplifting and false statement, undermines the Judge’s
+conclusion that Applicant has mitigated the Guideline E security concerns arising in his case.10  The
+record supports Department Counsel’s statement in his appeal brief that the evidence “compels an
+unfavorable whole-person conclusion because Applicant has repeatedly exhibited poor judgment,
+all in the context of his actions while in the workplace or during the security clearance process.”
+The Judge’s decision fails to consider relevant factors and offers an explanation for the decision that
+runs contrary to the weight of the record evidence.  See ISCR Case No. 03-22861 at 2-3, supra.
+Accordingly, we conclude that the appropriate course of action is to reverse.  
+Order
+The Judge’s favorable security clearance decision is REVERSED.
+  
+Signed: Michael Y. Ra’anan         
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jean E. Smallin                  
+Jean E. Smallin 
+Administrative Judge
+Member, Appeal Board
+8
+Signed: James E. Moody                 
+James E. Moody
+Administrative Judge
+Member, Appeal Board

@@ -1,0 +1,172 @@
+KEYWORD: Guideline E
+DIGEST: Applicant engaged in three episodes of security significant conduct over a sixteen year
+period, namely, providing proprietary information to a foreign government and two incidents of
+falsifying his security clearance applications.  Favorable decision reversed.
+CASENO: 08-09163.a1
+DATE: 12/21/2010
+DATE: December 21, 2010
+In Re:
+--------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 08-09163
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Tovah A. Minster, Esq., Department Counsel
+FOR APPLICANT
+Brian E. Kavenay, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On August 24, 2010, DOHA issued a statement of reasons (SOR) advising Applicant of
+2
+the basis for that decision–security concerns raised under Guideline E (Personal Conduct) of
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On September 15, 2010, after the hearing, Administrative Judge Martin H.
+Mogul granted Applicant’s request for a security clearance.  Department Counsel appealed pursuant
+to Directive ¶¶  E3.1.28 and E3.1.30.
+Department Counsel raised the following issues on appeal: whether the Judge’s analysis and
+conclusions were arbitrary, capricious, or contrary to law and whether the Judge’s whole-person
+analysis was erroneous.  Consistent with the following discussion, we reverse the decision of the
+Judge.
+Facts
+The Judge made the following pertinent findings of fact: Applicant, 73 years old, is
+employed as an engineer by a Defense contractor.  He has held a DoD security clearance since
+around 1960.  
+In 1983, Applicant considered becoming a resident of Israel.  He got in touch with the Israeli
+consulate in an effort to inquire about employment possibilities.  A liaison advised Applicant that
+he would appreciate any information Applicant could provide about his work.  Applicant gave the
+liaison a proprietary document, which described a “top level research project” in which his then
+employer was engaged.  This document was not classified.
+In 1994, Applicant submitted a security clearance application (SCA).  This document asked,
+inter alia, whether Applicant had ever had any contact with a foreign government, to include
+embassies or consulates.  Applicant answered “no” to this question, which was false in light of his
+contact with the Israeli government in 1983.  
+In 2000, Applicant submitted another SCA.  He answered “no” to a similar question.  Again,
+this answer was false.  
+In 2000, Applicant submitted to a polygraph.  He was asked whether he had ever had contact
+with a representative of a foreign country.  Applicant initially denied that he ever had, but he then
+admitted his contact with the Israeli consulate.  He initially denied this contact because he was
+embarrassed and was concerned as to how a candid reply would have affected his clearance.  In
+2001 he submitted to another polygraph.  During this examination he advised about his contact with
+the Israeli government.  He also advised about this contact on a 2005 SCA.
+Applicant enjoys an outstanding reputation among supervisors, co-workers, neighbors, and
+other acquaintances for the quality of his job performance, his integrity, and his trustworthiness.
+Discussion
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+1Directive, Enclosure 2 ¶ 16(a): “deliberate omission, concealment, or falsification of relevant facts from any
+personnel security questionnaire . . .”  
+2“Directive, Enclosure 2 ¶ 16(d): “credible adverse information that is not explicitly covered under any other
+guideline . . . which . . . supports a whole-person assessment of questionable judgment, untrustworthiness, unreliability,
+lack of candor, unwillingness to comply with rules and regulations . . . This includes but is not limited to consideration
+of . . . untrustworthy or unreliable behavior to include . . . release of proprietary information[.]”  
+3
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  The Appeal
+Board may reverse the Judge’s decision to grant, deny, or revoke a security clearance if it is
+arbitrary, capricious, or contrary to law.  Directive ¶¶ E3.1.32.3 and E3.1.33.3.
+Once a concern arises regarding an Applicant’s security clearance eligibility, there is a strong
+presumption against the grant or maintenance of a security clearance.  See Dorfmont v. Brown, 913
+F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After the Government presents
+evidence raising security concerns, the burden shifts to the applicant to rebut or mitigate those
+concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and mitigating conditions and
+whole person factors does not turn simply on a finding that one or more of them apply to the
+particular facts of a case.  Rather, their application requires the exercise of sound discretion in light
+of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at 3 (App. Bd. Dec. 20,
+2006).
+In deciding whether the Judge's rulings or conclusions are arbitrary or capricious, the Board
+will review the Judge's decision to determine whether:  it does not examine relevant evidence; it fails
+to articulate a satisfactory explanation for its conclusions, including a rational connection between
+the facts found and the choice made; it does not consider relevant factors; it reflects a clear error of
+judgment; it fails to consider an important aspect of the case; it offers an explanation for the decision
+that runs contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere
+difference of opinion.  In deciding whether the Judge's rulings or conclusions are contrary to law,
+the Board will consider whether they are contrary to provisions of Executive Order 10865, the
+Directive, or other applicable federal law.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2,
+2006).
+The Judge concluded that Applicant’s conduct raised Personal Conduct Disqualifying
+Condition (PCDC) 16(a),1 which is sustainable in light of Applicant’s repeated false statements.
+However, Department Counsel persuasively contends that the Judge erred by not also concluding
+that the evidence raised PCDC 16(d).2  This paragraph states, among other things, that an applicant’s
+release of proprietary information can raise Guideline E security concerns, insofar as such conduct
+evidences untrustworthiness or unreliability.  The Judge’s findings demonstrate that Applicant
+released such information to a representative of the Israeli government, in an effort to further his
+own employment interests at a time in which he was considering moving from the United States to
+Israel.  The Judge erred by not analyzing Applicant’s case in light of PCDC 16(d).
+3Directive, Enclosure 2 ¶ 17(c): “the offense is so minor, or so much time has passed, or the behavior is so
+infrequent, or it happened under such unique circumstances that it is unlikely to recur and does not cast doubt on the
+individual’s reliability, trustworthiness, or good judgment[.]”  
+4
+Department Counsel argues that the Judge erred in his application of Personal Conduct
+Mitigating Condition (PCMC) 17(c).3  While the Judge noted that a decade had passed since
+Applicant’s last SCA falsification, Department Counsel persuasively argues that the Judge’s
+discussion did not properly evaluate this passage of time in light of the entirety of the record
+evidence.  The mere passage of time cannot be viewed in isolation and must be evaluated with
+reference to other facts and circumstances in the case.  See, e.g., ISCR Case No. 08-05351 at 7-8
+(App. Bd. Mar. 12, 2010).  In this case, Applicant engaged in security significant conduct by
+providing proprietary information to a foreign government.  Over a decade later he falsified his SCA
+concerning this matter and, six years after that, the falsified another SCA.  The Judge’s decision does
+not reasonably explain why the mere passage of time (even, as here, when it is ten years) is
+sufficient to mitigate multiple instances raising security concerns that occurred over an even longer
+period of time.    
+Furthermore, as Department Counsel argues, the decision does not reasonably explain why
+the conduct in question occurred under unique circumstances or why it was minor.  While it is true
+that there is no evidence of Applicant’s having compromised other proprietary information, this
+incident and his subsequent falsifications constitute a series of security significant incidents.  The
+evidence does not support a conclusion that the Guideline E concerns arose from unique
+circumstances.  Rather, they resulted from conscious decisions by Applicant to advance his own
+interests at the expense of his employer’s legitimate desire for the confidentiality of its work product
+and to keep knowledge of that conduct from the Government.  That such behavior has not occurred
+again is not due to anything inherent in the underlying circumstances but, rather, in Applicant’s own
+choices.  Moreover, Applicant’s conduct, considered as a whole, cannot be said to be minor, insofar
+as the Directive itself states that failure to provide truthful answers during the security clearance
+process is of “special interest” in evaluating an applicant’s security worthiness.  Directive, Enclosure
+2 ¶ 15.  Finally, Department Counsel persuasively contends that the Judge did not reasonably
+address the final clause of PCMC 17(c), which requires a showing that the conduct does not cast
+doubt on Applicant’s reliability, trustworthiness, or good judgment.  Accordingly, we conclude that
+Department Counsel’s overarching issue that the Judge erred in his application of the mitigating
+conditions is persuasive.  
+Department Counsel argues that the Judge’s whole-person analysis does not add anything
+not already contained in his analysis of PCMC 17(c).  This argument has merit, in light of the
+relatively conclusory nature of the whole-person analysis section of the decision.  Accordingly, the
+whole-person analysis does not provide an additional basis for the Judge’s favorable findings.  
+4We note Government Exhibit 3, an affidavit by Applicant prepared in 2008, in which Applicant discusses
+various aspects of his record as it pertains to his security worthiness.  He mentions a polygraph examination in 2001,
+in which he advised about his interaction with the Israeli government.  He states that he passed the exam, which is
+consistent with the record evidence in his case.  However, he does not mention the prior polygraph in 2000, in which
+he initially denied having had contact with a foreign government.  The document prepared in 2008 is not consistent with
+a conclusion that Applicant has been consistently forthright about his security significant conduct in the years following
+his 2000 SCA falsification, which further undermines his efforts to demonstrate mitigation under the Egan standard.
+5
+For all the reasons set forth above, Department Counsel’s argument that the Judge’s decision
+contains significant errors is persuasive.4  Accordingly, we conclude that the Judge’s favorable
+decision is not sustainable.  The record, viewed as a whole, will not support a conclusion that
+Applicant has met his burden of persuasion as to mitigation, either through application of the
+mitigating conditions or the whole-person factors.  We note that Applicant was not denied a
+clearance after the 2000 polygraph uncovered his improper release of proprietary information and
+subsequent falsifications.  However, DOHA “is not estopped from making an adverse clearance
+decision when there were prior favorable adjudications.”   ISCR Case No. 07-17383 at 2 (App. Bd.
+Feb. 12, 2009). 
+Order
+The Judge’s favorable security clearance decision is REVERSED.  
+Signed: Michael Y. Ra’anan          
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett                
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                
+James E. Moody
+Administrative Judge
+Member, Appeal Board

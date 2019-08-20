@@ -1,0 +1,188 @@
+KEYWORD: Guideline K; Guideline E
+DIGEST: We cannot consider new evidence on appeal.  Applicant did not rebut the presumption
+that the Judge was impartial.  The Judge’s finding that Applicant deliberately withheld
+information from his application and during his interview is sustainable.  The Government does
+not have to prove a clear and present danger to national security before it can deny a clearance. 
+The Government is not estopped from denying a clearance even when there have bene prior
+favorable adjudications.  Security violations strike at the heart of the industrial security program. 
+A Judge must give any claims of reform or rehabilitation strict scrutiny.  Adverse decision
+affirmed.  
+CASE NO: 15-03293
+DATE: 08/18/2016
+DATE: August 18, 2016
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-03293
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro Se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On June
+12, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline K (Handling Protected Information) and
+Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as
+amended) (Directive).  Applicant requested a hearing.  On June 8, 2016, after the hearing, Defense
+Office of Hearings and Appeals (DOHA) Administrative Judge Philip S. Howe denied Applicant’s
+request for a security clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge was biased against him;
+whether the Judge erred in finding that he had deliberately provided false information in his security
+clearance application (SCA) and during his interview; and whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm.  
+The Judge’s Findings of Fact
+Applicant has been employed by the same Defense contractor for 26 years.  He was first
+granted a security clearance in 1963.  He held one during his military service from 1969 to 1989 and
+has held one during his post-military employment.  His clearance was suspended in 2015 pending
+disposition of this case.
+Applicant had six security incidents over a four year period from 2010 to 2014.  Two of the
+incidents occurred within a month of each other, in March and April 2013.  The incidents alleged
+in the SOR included failure to set an alarm in his employer’s office and the improper transmission
+of classified information.  He received a verbal reprimand for an incident in 2012 in which he sent
+an email that contained improper markings, resulting in a “data spill.”  Decision at 3.  He received
+a “corrective action memorandum” for the violations that occurred in 2013.  All of the incidents
+addressed in the SOR constituted violations of the requirements of the National Industrial Security
+Program Operating Manual.  Applicant drew a distinction between “infractions” and “violations”
+and contended that no classified information was released to the public.  Id. at 4.      
+When he completed his November 2012 SCA, he failed to disclose the verbal reprimand that
+he received earlier that year.  He claimed that he thought the question was asking only about security
+violations rather than other types of misconduct, such as infractions.  In a clearance interview in
+August 2013, Applicant disclosed a March 2013 incident but denied any other infractions.  He later
+stated that he thought that the interviewer was asking only about any security incidents subsequent
+to his 2012 SCA.
+The Judge’s Analysis
+Regarding Guideline K, the Judge stated that Applicant’s conduct, whether classified as
+infractions or as violations, demonstrated a pattern of non-compliance by a person with many years
+experience as a Defense contractor.  He concluded that these incidents occurred under normal, as
+2
+opposed to unusual, circumstances and that Applicant apparently did not react favorably to
+counseling and remedial training.  He noted Applicant’s reliance on technical distinctions in
+terminology.  However, he cited to evidence that Applicant had held clearances since the 1960s and
+to evidence about his career as a military officer, from which he concluded that Applicant should
+have known how to avoid incidents such as those at issue in this case.  
+The Judge found that Applicant had deliberately concealed his various security incidents in
+his SCA response and in his answers to questions during his interview.  He stated that the
+instructions accompanying the SCA put Applicant on notice of the requirements for full disclosure
+but that  Applicant relied on his own definitions of what was reportable.  The Judge characterized
+Applicant as having engaged in “concealment and sophistry.”  Id. at 10.  He found that Applicant’s
+arguments were not credible, in light of what he termed a pattern of incidents that increased in
+frequency over the years.  In the whole-person analysis, the Judge noted Applicant’s many years
+experience in holding clearances.  He stated that the various technical distinctions that Applicant
+drew would have been more credible if he had simply disclosed the conduct as required and then
+explained it.  
+Discussion
+Applicant challenges the Judge’s impartiality.  He argues, among other things, that the Judge
+told him in the hearing that he should not parse language but that the Judge permitted Department
+Counsel to argue that Applicant believed that he was above the rules.  He states that there is no
+evidence that would support such an argument.  He contends that the Judge did not give his
+testimony equal weight with Department Counsel’s presentation.  In making his argument he asserts
+matters that are not in the record.  We cannot consider new evidence on appeal.  Directive ¶ E3.1.29.
+There is a rebuttable presumption that a Judge is impartial and unbiased, and a party seeking
+to overcome that presumption has a heavy burden of persuasion.  See, e. g., ISCR Case No. 12-
+10122 at 3 (App. Bd. Apr. 22, 2016).  We have examined the record as a whole, paying particular
+attention to the transcript.  We find nothing therein that would likely persuade a reasonable person
+that the Judge lacked the requisite impartiality.  The Judge’s colloquy with Applicant, in which he
+found the distinction between infractions and violations to be “nitpicking,” was not unreasonable
+under the circumstances.  Tr. at 66.  Applicant’s belief that the Judge did not extend sufficient
+weight to his testimony is not sufficient to establish that the Judge was biased.  See Bixler v. Foster,
+596 F.3d 751 at 762 (10th Cir. 2010) for the proposition that adverse rulings alone do not establish
+judicial bias.1  Moreover, we conclude that Department Counsel’s argument did not exceed the
+bounds of zealous advocacy expected of her position.  See, e.g., ISCR Case No. 12-04540 at 3 (App.
+Bd. Mar. 19, 2014).  Applicant has not rebutted the presumption that the Judge was unbiased.
+1A party’s disagreement with the Judge’s weighing of the evidence, or an ability to argue for a different
+interpretation of the evidence, is not sufficient to demonstrate the Judge weighed the evidence or reached conclusions
+in a manner that is arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 14-06686 at 2 (App. Bd. Apr. 27,
+2016). 
+3
+Applicant challenges the Judge’s finding that he had deliberately withheld information from
+his SCA and during his interview.  We examine a Judge’s findings to see if they are supported by
+“such relevant evidence as a reasonable mind might accept as adequate to support a conclusion in
+light of all the contrary evidence in the same record.”  Directive ¶ E3.1.32.1.  When evaluating the
+deliberate nature of an applicant’s omissions or false statements, a Judge should consider the
+applicant’s mens rea in light of the entirety of the record evidence.  See, e.g., ISCR Case No. 14-
+04226 at 3 (App. Bd. Aug. 18, 2015). 
+Applicant’s brief reiterates his distinction between infractions and violations, arguing that
+he reasonably believed that the SCA question was limited to the latter sort of misconduct.  He also
+argues that, during the interview, the investigator only asked about incidents subsequent to the SCA. 
+He claims that he disclosed two violations that had occurred since then.  Regarding the SCA,2 we
+conclude that it is unreasonable to read the question as Applicant claims to do.  To the contrary, a
+reasonable person would understand that the question addressed any workplace misconduct that
+resulted in official corrective action.  By failing to disclose the 2012 incident that led to the verbal
+warning, Applicant omitted material information from his SCA.  In addition, it is clear that, during
+his interview, he disclosed only his March 2013 violation, omitting the similar incident that occurred
+a month later.3  Therefore, the Judge’s finding that Applicant had omitted material information is
+supported by substantial evidence.  Moreover, given the multiple nature of the omissions,
+Applicant’s security experience and training, and the Judge’s adverse credibility determination,4 we
+conclude that the finding that these omissions were deliberate is sustainable. 
+Applicant argues that the Judge’s decision is contradictory, in that he found on one hand that
+Applicant had held a clearance for many years but on the other that it is not consistent with the
+national security for him to have access to classified information.  He contends that unless the Judge
+found him to be a danger to national security he should have been awarded a clearance.  
+As a general matter the Government does not have to prove a “clear and present danger” to
+national security before it can deny an applicant a clearance.  See, e.g., ISCR Case No. 12-09719
+at 3 (App. Bd. Apr. 6, 2016).  Rather, a DOHA adjudication focuses on whether an applicant has met
+his or her burden of persuasion in mitigating any concerns raised in the SOR and established by the
+applicant’s admissions or by the evidence.  Directive ¶ E3.1.15.  It is clear that even those with good
+prior records can engage in conduct that draws their judgment and reliability into question.  See, e.g.,
+2The question actually asks the following: “For this employment, in the last seven (7) years have you received
+a written warning, been officially reprimanded, suspended, or disciplined for misconduct in the workplace, such as
+violation of a security policy?”  (emphasis in original) The words “such as” underscore that the scope of the inquiry  is
+not limited as Applicant contends.     
+3In his Appeal Brief, Applicant states that he “disclosed the incidents in April/May 2012, i.e., after the [SCA]
+but before the interview, which was characterized as a violation.”  Appeal Brief at 2.  We construe this to mean that he
+disclosed at least two violations that occurred after his SCA, although they actually occurred in 2013 rather than 2012. 
+Compare with his Response to the SOR, in which he stated that, at the time of his interview, he had been aware of only
+one security violation that occurred after his SCA.  SOR Response at 5.  
+4We are required to give deference to a Judge’s credibility determinations.  Directive ¶ E3.1.32.1. 
+4
+ISCR Case No. 14-02995 at 2 (App. Bd. Apr. 7, 2016);  Adams v. Laird, 420 F. 2d 230, 238-239 (D.
+C. Cir. 1969), cert. denied 397 U.S. 1039 (1970).  Moreover, the Government is not estopped from
+denying an applicant a clearance even when there have been favorable prior adjudications.  See, e.g.,
+ISCR Case No. 14-02995, supra, at 2-3.  In the case before us, it was not inconsistent for the Judge
+to have acknowledged Applicant’s lengthy history of access to classified information while
+concluding that the misconduct addressed in the SOR rendered him ineligible for continued access.
+We find no inconsistency in the Judge’s analysis.  
+Applicant cites to evidence that no classified information was actually released to the public
+due to his various infractions.  He also cites to his evidence regarding the distinction between
+infractions and violations.  The Judge made findings about Applicant’s circumstances, including that
+there was no release to the public of sensitive or classified information.  However, his conclusion
+that Applicant’s terminological distinctions were not entitled to much weight is sustainable, given
+the record as a whole.  The Directive provides that “[d]eliberate or negligent failure to comply with
+rules and regulations for protecting classified or other sensitive information . . . is a serious security
+concern” without reference to whether the incidents are called infractions or violations.  Directive,
+Enclosure 2 ¶ 33.  Conduct such as Applicant’s “strike[s] at the heart of the industrial security
+program.”  Accordingly, a Judge must give any claims of reform or rehabilitation “strict scrutiny.” 
+ISCR Case No. 14-04441 at 4 (App. Bd. Apr. 8, 2016). We find no reason to disturb the Judge’s
+treatment of Applicant’s multiple failures or of his mitigating evidence. 
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan           
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody          
+James E. Moody
+Administrative Judge
+5
+Member, Appeal Board
+Signed: Catherine M. Engstrom 
+Catherine M. Engstrom
+Administrative Judge
+Member, Appeal Board
+6

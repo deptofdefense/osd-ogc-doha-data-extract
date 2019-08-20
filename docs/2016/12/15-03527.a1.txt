@@ -1,0 +1,132 @@
+KEYWORD: Guideline F; Guideline E
+DIGEST: The Directive presumes a nexus between proved or admitted facts under any of the
+guidelines and an applicant’s eligibility for a clearance. The non-collectability of a debt does not
+constitute a good-faith effort at payment.  That a debt no longer appears on a credit report is not
+meaningful evidence as to the debt’s disposition.  Hearing Office cases are not binding on other
+Judges.  Adverse decision affirmed.  
+CASE NO: 15-03527.a1
+DATE: 12/29/2016
+DATE: December 29, 2016
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-03527
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Ryan C. Nerney, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+November 20, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline F (Financial Considerations) and Guideline
+E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+(Directive).  Applicant requested a decision on the written record.  On September 29, 2016, after
+considering the record, Defense Office of Hearings and Appeals (DOHA) Administrative Judge
+Carol G. Ricciardello denied Applicant’s request for a security clearance.  Applicant appealed
+pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  The Judge’s favorable findings under Guideline E are not
+at issue in this appeal.  Consistent with the following, we affirm.  
+The Judge’s Findings of Fact
+The Judge made the following findings pertinent to the issue raised on appeal:  Applicant
+served in the military from 1972 until 1978, receiving an honorable discharge.  He has been married
+four times, twice to the same woman.  He has been employed by a Federal contractor since 2003. 
+Applicant’s SOR includes a debt for a little over $125,000, a charged-off second mortgage.  He
+submitted a recent credit report that does not include this debt.  He provided no other evidence as
+to what actions he may have taken to dispute or resolve it.  
+The Judge characterized Applicant’s evidence as confusing.  She attempted “to decipher
+some of the facts” that Applicant had submitted.  Decision at 2.  In essence, Applicant purchased
+real estate from his brother in 2006.  His brother gave him title by means of a quitclaim deed. 
+However, he did not transfer the lien, with the result that the loan remained in the brother’s name
+although the collateral had been transferred to Applicant.  Subsequently, Applicant sought to
+purchase another piece of real estate and wanted to use the equity from the first one as collateral for
+a loan.  A lender gave him a “bridge loan,” although it is not clear how, insofar as the original loan
+was not in Applicant’s name.  The value of the first property declined, and Applicant stopped
+making payments on it.  The lender foreclosed on the first property.  Applicant states that the loan
+in his brother’s name is no longer enforceable, both because it was a second mortgage barred from
+collection and also because the statute of limitations has run.  
+The Judge’s Analysis
+The Judge concluded that there is insufficient evidence to show that the debt in question is
+not enforceable.  She stated that the record does not answer questions about how Applicant was able
+to use equity in the first property to obtain a purchase money loan for the second.  She noted that
+Applicant has been aware that this debt was a concern since his background interview.  She also
+stated that she was “unable to untangle a convoluted real estate transaction, based on the minimal
+evidence in the record.”  Decision at 6-7.  The Judge concluded that none of the mitigating
+conditions apply.  In the whole-person analysis, the Judge noted Applicant’s military service. 
+However, she was not able to conclude that the transaction that Applicant described is actually the
+one alleged in the SOR.  Moreover, even if this debt is no longer enforceable due to operation of
+law, there is little evidence to show that Applicant has conducted himself in a reasonable manner. 
+Discussion
+Applicant contends that the Judge’s adverse decision is arbitrary and capricious because she
+failed properly to take his circumstances into account or to understand the facts of his case.  He
+argues that she did not take into account state laws barring collection of second mortgage debts,
+2
+focusing instead on what she termed “confusion.”  Appeal Brief at 10.  Applicant argues that due
+to this confusion she could not properly analyze his circumstances.
+We have considered this argument in light of the record as a whole.  We note first of all that
+the SOR alleged the following: 
+You are indebted to [Bank] for an account that has been placed for collection in the
+approximate amount of $125,122.00.  As of the date of this [SOR], the account
+remains delinquent.  SOR ¶ 1.a.
+Applicant admitted this allegation with an explanation.  Under the facts of this case, Applicant’s
+admission is sufficient to raise security concerns.  See, e.g., ISCR Case No. 15-01253 at 3 (App. Bd.
+Apr. 20, 2016) for the proposition that the Directive presumes a nexus between admitted or proved
+conduct under any of the Guidelines and an applicant’s eligibility for a clearance.  That being the
+case, it was Applicant’s task to present evidence in mitigation, and it was he who bore the burden of
+persuasion that he should have a clearance.  Directive ¶ E3.1.15.  To the extent that an applicant’s
+record raises doubts about his fitness for a clearance, these doubts must be resolved in favor of
+national security.  Directive, Enclosure 2 ¶ 2(b).  
+We have considered the record as a whole and conclude that the Judge’s description of the
+events surrounding this debt is reasonable.  Indeed, Applicant’s Answer to the SOR included an
+acknowledgment by a realtor that the transaction was not legal and in his brief Applicant
+characterizes it as “bizarre.”  Statement of Realtor, attached to Answer to SOR; Appeal Brief at 10. 
+Moreover, we note the Judge’s finding that Applicant has known about this debt since his background
+interview but has not addressed it beyond asserting that the debt is no longer collectable.  We also
+note the Judge’s comment that Applicant had not presented sufficient evidence to support a finding
+that the debt was barred from collection. Even if the debt cannot be enforced, however, reliance on
+the non-collectibility of a debt does not constitute a good-faith effort to resolve it within the meaning
+of the Directive.  See. e.g., ISCR Case No. 10-03656 at 3 (App. Bd. Jan. 19, 2011).  We find no error
+in the Judge’s characterization of Applicant’s evidence or in her conclusion that the evidence was not
+sufficient to mitigate the concerns raised by his SOR admission.
+Applicant cites to various pieces of evidence, such as a downturn in the economy and recent
+credit reports that do not include the debt under consideration.  On this latter point, the fact that a debt
+no longer appears on a credit report does not, in and of itself, establish meaningful evidence as to the
+debt’s disposition.   See, e.g., ISCR Case No. 14-03612 at 3 (App. Bd. Aug. 25, 2015).  Applicant has
+not rebutted the presumption that the Judge considered all of the evidence in the record.   See, e.g.,
+ISCR Case No. 14-05795 at 2 (App. Bd. Apr. 26, 2016).  
+Applicant cites to a Hearing Office case that he believes supports his effort to obtain a
+favorable result.  We have given this case due consideration as persuasive authority.  However,
+Hearing Office decisions are not binding on other Hearing Office Judges or on the Appeal Board. 
+See, e.g., ISCR Case No. 14-03747 at 3 (App. Bd. Nov. 13, 2015).  The case that Applicant has cited
+3
+has significant differences from his own.  This case does not support a conclusion that the Judge’s
+decision in the case before us is arbitrary, capricious, or contrary to law.
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department of
+the Navy v. Egan, 484 U.S. 518, 528 (1988).
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Y. Ra’anan        
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody            
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy             
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+4

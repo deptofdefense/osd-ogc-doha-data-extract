@@ -1,0 +1,131 @@
+KEYWORD: Guideline K
+DIGEST: With regard to SOR ¶¶ 1.c-1.f, he argues that he had a need-to-know the information
+in question.  The issue of Applicant’s need-to-know is not pertinent to the security concerns
+raised in this case.  SOR ¶¶ 1.c-1.f do not raise concerns about the legality of Applicant’s access
+to the information in question; instead, they raise concerns about how he handled that
+information.  Adverse decision affirmed.  
+CASENO: 17-03588.a1
+DATE: 03/07/2019
+DATE: March 7, 2019
+In Re:
+--------------------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-03588
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+January 19, 2018, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision—security concerns raised under Guideline K (Handling Protected Information) of
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On December 11, 2018, after the hearing, Defense Office of Hearings and
+Appeals (DOHA) Administrative Judge Elizabeth M. Matchinski denied Applicant’s request for a
+security clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal:  whether the Judge’s decision was arbitrary,
+capricious, or contrary to law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact and Analysis  
+Applicant, who is 70 years old, has worked for his defense-contractor employer since 1987. 
+He has a doctorate degree and was initially granted a security clearance in 1979.  Over the years, he
+has received security refresher, classified information user, and related briefings. 
+The SOR alleged that Applicant risked a data spill when he directed a secretary to type a
+memorandum containing protected information on an unclassified computer in 1995 and did not
+inform security officials of the potential data spill (SOR ¶ 1.a).   It also alleged that he improperly
+emailed protected information on an unclassified network causing data spills in 1998 (SOR ¶ 1.b),
+2006 (SOR ¶ 1.c), 2013 (SOR ¶ 1.d), 2014 (SOR ¶ 1.e), and 2016 (SOR ¶ 1.f).  The Judge found in
+favor of Applicant on SOR ¶ 1.b and against him on the remaining allegations.  
+Applicant’s security incidents were not deliberate but persisted despite counseling.  In 1995,
+he created multiple copies of a document that should have been marked Secret.  Upon learning that
+error, he asked his secretary to retrieve them, but did not notify security officials.  Not all copies of
+the document were retrieved, some were apparently discarded in the trash.  His noncompliance with
+reporting requirements may have led to compromise.  Additionally, his commission of four other
+security violations since 2006 continues to cast doubt on his ability to handle classified information
+appropriately.  
+Discussion
+In his appeal brief, Applicant notes he submitted an Electronic Questionnaire for
+Investigations Processing (e-QIP) in 2013 and argues that he was forced to submit another before
+his five-year periodic submission was due.  Further, he contends that “[i]t is illegal to perform e-QIP
+investigations in less than 3 years without merits . . . .”  Appeal Brief at 1.  However, nothing in the
+Directive gives DOHA Judges or the Appeal Board jurisdiction or authority to pass judgment on the
+necessity or sufficiency of security clearance investigations.  See, e.g., ISCR Case No. 01-19823 at
+3-4 (App. Bd. Dec. 3, 2003).  Additionally, there is no right to a security clearance.  Department of
+the Navy v. Egan, 484 U.S. 518, 528 (1988).  Nor does a prior favorable security clearance decision
+give rise to a vested right or interest in continued retention of a security clearance.  To the extent that
+Applicant’s argument could be construed as raising the question whether DoD is equitably estopped
+2
+from denying or revoking his security clearance, it is unpersuasive.  The Federal Government is not
+restricted in reviewing an applicant’s security clearance eligibility; especially, as in this case, when
+an applicant has one or more security violations since submitting his or her previous e-QIP. 
+Applicant’s prior favorable clearance determinations do not entitle him to continued retention of a
+security clearance.  See, e.g., ISCR Case No. 01-19823 at 5. 
+Applicant makes other arguments that we do not find persuasive.  First, he argues that,
+because the Judge found for him on SOR ¶ 1.b, this confirms he always handled classified material
+in an authorized location with no unauthorized persons present and, as a result, he never committed
+the alleged security violation in SOR ¶ 1.a.  This argument is based on a false premise that the
+Judge’s favorable finding under SOR ¶ 1.b is evidence as to how he handles classified material.  In
+her findings, the Judge noted that the allegation in SOR ¶ 1.b was apparently based on Applicant’s
+2013 background interview in which his statements regarding an incident 15 years ago may have
+actually been referring to the 1995 incident alleged in SOR ¶ 1.a.  The Judge’s conclusion that the
+evidence fell short of establishing the allegation in SOR ¶ 1.b does not support Applicant’s argument
+that such a determination somehow establishes that the allegation in SOR ¶ 1.a lacks merits. 
+Second, with regard to SOR ¶¶ 1.c-1.f, he argues that he had a need-to-know the information in
+question.  The issue of Applicant’s need-to-know is not pertinent to the security concerns raised in
+this case.  SOR ¶¶ 1.c-1.f do not raise concerns about the legality of Applicant’s access to the
+information in question; instead, they raise concerns about how he handled that information.  
+Applicant also questions whether his company may have erred in its security procedures. 
+Specifically, he contends that, while he knew the classification guide used in his department,  he did
+not know the classification guide used in another department and other individuals failed in their
+responsibilities to collect certain information from him.  At the hearing, the Government offered into
+evidence investigation reports for each of the security violations that the Judge found against
+Applicant.  Government Exhibits 3-11.  Each report concluded that Applicant committed the security
+violation being investigated.  We give deference to the findings and conclusion of security personnel
+in such investigations.   See, e.g., ISCR Case No. 15-08385 at 4 (App. Bd. May 23, 2018) (citing
+ISCR Case No. 10-07070 at 8 (App. Bd. Apr. 19, 2012) for the proposition, “[B]ecause of the unique
+position of employers as actual administrators of classified programs and the degree of knowledge
+possessed by them in any particular case, their determinations and characterizations regarding
+security violations are entitled to considerable deference, and should not be discounted or
+contradicted without a cogent explanation.”).  We conclude Applicant’s argument that the company
+erred in its security procedures is an insufficient basis to challenge successfully the Judge’s
+unfavorable findings or conclusions under Guideline K.  
+The balance of Applicant’s arguments amount to a disagreement with the Judge’s weighing
+of the evidence.  In those arguments, he cites to such matters as his honesty and integrity in
+disclosing his security incidents, the frequency of his security violations, and the length of time that
+has passed since his last incident.  These arguments, however, are not sufficient to show that the
+Judge weighed the evidence in a manner that was arbitrary, capricious, or contrary to law.   See, e.g.,
+ISCR Case No. 14-06440 at 4 (App. Bd. Jan. 8, 2016).  Once it is established that an applicant has
+committed security violations, he or she has a “very heavy burden” to mitigate the resulting security
+3
+concerns,  insofar as security violations “strike at the heart of the Industrial Security Program.”  See,
+e.g., ISCR Case No. 11-09219 at 3 (App. Bd.  Mar. 31, 2014).  
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, at 528.  See also Directive, Encl. 2, App A. ¶ 2(b):  “Any doubt concerning
+personnel being considered for national security eligibility will be resolved in favor of the national
+security.”
+4
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan        
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody          
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy            
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+5

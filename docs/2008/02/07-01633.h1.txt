@@ -1,0 +1,623 @@
+1
+                                                             
+                            DEPARTMENT OF DEFENSE
+             DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+-----—---- )       ISCR Case No. 07-01633
+SSN: ——--- )
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Candace L. Le’i, Esquire, Department Counsel
+For Applicant: Sheldon I. Cohen, Esquire
+______________
+Decision
+______________
+WHITE, David M., Administrative Judge:
+Applicant submitted his Security Clearance Application (SF 86), on August 1,
+2005. On June 29, 2007, the Defense Office of Hearings and Appeals (DOHA) issued a
+Statement of Reasons (SOR) detailing the security concerns under Guidelines B and C
+for Applicant. The action was taken under Executive Order 10865, Safeguarding
+Classified Information within Industry (February 20, 1960), as amended; Department of
+Defense Directive 5220.6, Defense Industrial Personnel Security Clearance Review
+Program (January 2, 1992), as amended (Directive), and the revised adjudicative
+guidelines (AG) promulgated by the President on December 29, 2005, and effective
+within the Department of Defense for SORs issued after September 1, 2006. 
+ 
+Applicant acknowledged receipt of the SOR on July 10, 2007. He answered the
+SOR in writing on July 12, 2007, and requested a hearing before an Administrative
+Judge. DOHA received the request on July 17, 2007. Department Counsel was
+prepared to proceed on September 12, 2007, and another administrative judge received
+the case assignment on September 19, 2007. The case assignment was transferred to
+me on October 10, 2007, due to workload considerations. I granted Applicant’s request
+2
+for a delay until December 4, 2007, in order for his counsel to be available. DOHA
+issued a notice of hearing on November 8, 2007, and I convened the hearing as
+scheduled on December 4, 2007. The government offered exhibits (GE) 1 through 3,
+which were admitted without objection. Applicant testified on his own behalf, as did four
+other witnesses, and submitted exhibits (AE) A through Y, which were admitted without
+objection. Applicant’s counsel also offered a hearing memorandum, and copies of the
+decisions by the administrative judge and Appeal Board in ISCR Case No. 03-21190,
+that were accepted into the record as Hearing Exhibit (HE) III. DOHA received the
+transcript of the hearing (Tr.) on December 18, 2007. Based upon a review of the case
+file, pleadings, exhibits, and testimony, eligibility for access to classified information is
+granted.
+Procedural and Evidentiary Rulings
+Motion to Dismiss
+Applicant’s counsel moved to strike SOR ¶ 1.d, alleging that Applicant’s “brother
+is a dual citizen of the United States and Israel, residing in the United States.” He
+argued that the paragraph failed to allege facts that could raise a disqualifying condition
+because the brother could not be considered a “foreign” family member if he resides in
+the United States. (HE I; Tr. at 14.) Department Counsel objected to the motion, arguing
+that Applicant’s counsel had not shown that a dual citizen family member could not
+possibly create a heightened risk of foreign exploitation, etc., under AG ¶ 7(a), simply by
+virtue of current residence in the United States. (HE II; Tr. at 17.) I denied the motion on
+the grounds that ¶ 7(a) contemplates potential security concerns arising from, inter alia,
+“foreign family members” and “other persons” who are citizens of or resident in a foreign
+country if contact with that person creates a heightened risk of foreign exploitation, etc.
+Accordingly, application of that disqualifying condition turns on demonstration of
+heightened risk arising from the contact with anyone who is a foreign citizen or resident,
+not on whether the definition of “foreign family member” requires residence abroad. (Tr.
+at 19.)
+Request for Administrative Notice
+Department Counsel submitted a written request that I take administrative notice
+of certain facts relating to Israel. (HE IV; Tr. at 22.) The request and the attached
+documents were not admitted into evidence but were included in the record as Hearing
+Exhibit IV. Department Counsel submitted eight reference documents in support of the
+request that were marked administrative notice (AN) exhibits I through VIII. Applicant’s
+counsel argued that the facts administratively noticed must be limited to matters of
+general knowledge and matters not subject to reasonable dispute. He pointed to several
+statements in various AN documents, and submitted AE F through X, to dispute some of
+the proposed administrative notice facts and inferences. He further lodged specific
+objection to the use of AN VIII, the Interagency OPSEC Support Staff Intelligence
+Threat Handbook, for purposes of administrative notice because it was written by a
+private contractor. (Tr. at 23-56.) There is no rule of law requiring that a source
+3
+document be produced by a government employee or agency to be sufficiently reliable
+for citation in support of administrative notice of a fact. The facts administratively noticed
+are set out in the Findings of Fact, below. 
+Findings of Fact
+In his Answer to the SOR, dated June 25, 2007, Applicant admitted the factual
+allegations in ¶¶ 1.a, 1.b, 1.d, 1.e, 1.f, 1.h, 1.i, 2.a, 2.b, 2.c, and 2.d, of the SOR, with
+explanations. He denied the factual allegations in ¶¶ 1.c and 1.g of the SOR, explaining
+that they were only partially correct. He also provided additional information to support
+his request for eligibility for a security clearance. Applicant’s admissions are
+incorporated in the following findings of fact.
+Applicant is a 46-year-old dual citizen of the United States and Israel, residing in
+the United States. He earned his PhD in computer science from an American university
+in 1993, and is a self-employed research consultant under contract with the Department
+of Defense. He successfully held a Secret security clearance from 1994 to 1997, while
+employed by an aerospace defense contractor. He is happily married, with four children
+ages 15, 12, 11, and 4.
+Applicant was born in the U.S., as a fourth-generation American on his mother’s
+side. He was the eldest of four children when, at age ten, his mother and father moved
+their family to Israel. Applicant’s father had an appointment to establish a new
+department at an Israeli university, where he worked for two or three years until his
+funding was not renewed. Thereafter, Applicant’s mother supported the family by
+teaching in a high school. His father never resumed employment due to disagreements
+with the Israeli higher education system. His father is now 70 and his mother is 69 years
+old. She retired from teaching, and receives a pension from the government, which she
+supplements by tutoring private students in English. Applicant’s parents continue to live
+in Israel, as do his sister, her husband and children. 
+By Israeli law, Applicant’s mother and all the children became Israeli citizens
+three years after they moved to Israel. They retained their U.S. citizenship as well. After
+losing his job, Applicant’s father did not want to remain in Israel and did so only at his
+wife’s insistence. He formally declined Israeli citizenship and became a permanent
+resident instead. This entailed all the obligations of citizenship, including compulsory
+military service, but did not confer the right to vote or hold elected office. Applicant and
+his two brothers served their compulsory military service in the Israeli Defense Forces
+(IDF) between ages 18 and 21.
+Applicant’s parents, sister and family  know he is performing defense-related
+work and applying for a clearance because he told them that was why he needed some
+information from them to complete his application. Applicant visited his parents in Israel
+during September 1989 and February 1993. Applicant and his wife visited his parents in
+Israel for a few weeks in 1998, and again in 2000, when his sister was married.
+4
+Applicant’s sister is a home-maker. Her husband, who is an Israeli citizen, works as a
+computer programmer in Israel for a U.S.-owned company. She and their two children
+are dual U.S. and Israeli citizens. Applicant used his U.S. passport for all foreign travel,
+including these trips to Israel, since he moved to the U.S. because he considers himself
+primarily a U.S. citizen. He has not formally renounced his Israeli citizenship, but is
+willing to do so if asked. (Tr. at 274-275.) His Israeli passport has long-expired, and has
+been neither renewed nor used since he came to the U.S. in 1988.
+Applicant’s military service in Israel, from July 1979 to October 1982, was a
+difficult period in his life. He started service as a drill instructor training older, immigrant
+soldiers beginning their compulsory service. When hostilities broke out during the first
+Lebanese war, he transferred to an artillery unit. Rather than assume the normal duties
+for his rank and experience, he was assigned to menial duties and was hazed by
+seniors, peers, and subordinates due to his prior duty as a drill instructor. 
+Applicant left active service upon completion of his obligated time, and began
+required reserve duty while attending college in Israel. His next-oldest brother was killed
+during the summer of 1985, while serving in the Israeli Army, in what the family was told
+was a training accident. Applicant, with recent military training and experience himself,
+found the official explanation of the circumstances of his brother’s death to be
+incredible. He expressed his doubts to the army officials, including a general officer,
+who visited the family during their period of mourning. Thereafter, Applicant was
+assigned to distasteful reserve duties outside his regular military specialty. 
+From 1982 to 1988, Applicant finished his bachelor’s degree in aeronautical
+engineering and master’s degree in electrical engineering at an Israeli university. During
+the summers of 1983, 1984, and 1985, he was employed as a summer intern by Israeli
+Aircraft Industries. From September 1986 to August 1988, he was employed by his
+university under a teaching graduate assistant stipend program. He maintains neither
+professional nor personal connections with anyone from either period of employment in
+Israel. Applicant voted in Israeli elections while he lived there, between 1979 and 1988.
+Since moving to the U.S., he has voted regularly in American elections but never in
+Israeli elections. 
+Applicant moved to the United States in 1988 to pursue his PhD in computer
+science. He met his wife, who is his second cousin, at a family gathering shortly
+thereafter. They were married in 1990, and she supported their family until he
+completed his degree in 1993. His grandparents, and her entire branch of the family
+remained in the area where his family lived before moving to Israel. After working for a
+defense contractor in a different city for almost four years, Applicant, his wife, and their
+children moved back to the family hometown in 1997. They have lived in Applicant’s
+mother-in-law’s house ever since, while saving money to buy their own home. This took
+a long time because housing prices grew rapidly, and they also bore costs of private
+schooling for their children. They recently purchased a home, and are awaiting
+completion of a remodeling project to move in. Applicant’s personal financial statement
+reflects a net worth in excess of $920,000, and an annual income that exceeds annual
+5
+expenses by more than $250,000. (AE B.) Applicant and his wife are deeply involved
+with their church and their children’s school communities. 
+Applicant’s surviving youngest brother is also a dual U.S. and Israeli citizen,
+trained as a computer expert. The untimely death of their middle brother greatly
+disturbed him. He left regular employment to pursue eastern religions seeking solace.
+He eventually became disillusioned with religion altogether, moved back to the U.S.,
+and has worked sporadically as a bus driver in various tourist resort areas. Applicant
+has infrequent contact with this brother. He communicates with his parents about once
+a week, and with his sister about once a month. His parents last visited Applicant here
+in the U.S. in August 2004. They visited about every other year before that, but health
+concerns have prevented their travel since then. Applicant’s sister and her family also
+came for the August 2004 visit, to celebrate his eldest daughter’s bat mitzvah.
+During the 1994 background investigation preceding Applicant’s receipt of his
+previous security clearance, he told the investigator, “If Israel should come under attack,
+I would return to Israel and rejoin the army.” (GE 3 at 5.) When asked about this
+statement in connection with his current clearance application, he responded to the
+“Foreign Influence and Foreign Preference Interrogatory” question 33 by stating, “I will
+not return to Israel if it were attacked today. I have four children and family obligations in
+the U.S. and consider myself a U.S. citizen.” (GE 2 at 21.) He credibly testified during
+the hearing that he would not now return to Israeli military service. He is older and
+considers his obligations in and to the U.S. to completely outweigh any obligation to
+Israel. He has redefined his Jewish identity in terms of practicing religion rather than the
+national affiliation to Israel that he was formerly taught by his secular parents. (Tr. at
+271-276, 287-290.) Four witnesses: a professional colleague, a close family friend,
+Applicant’s uncle and his wife, all confirmed these changes in his attitude and his
+current allegiance to the United States. (Tr. at 117-118, 135-137, 168-169, 210-211.) If
+faced with the highly unlikely situation in which Israel and the United States became
+hostile, as opposed to the close friendship and alliance that currently exists, all
+testimony confirmed that Applicant would fully support the United States in whatever
+capacity he was asked. His earlier statement about returning to defend Israel was true
+at the time, and was based upon lingering feelings of family and national duty, and his
+relatively short time back in the U.S.. 
+The uncontroverted evidence establishes that Applicant is highly principled, with
+great integrity and strong character. He does not permit his family members to borrow
+or use pirated entertainment media. When his wife offered to send baked goods to his
+office during his previous classified employment, he refused to tell her how many people
+he worked with because that was protected information. He refused funding from a
+potential investor, in a start-up company that he founded, because the man lacked
+integrity. He considers voting a solemn obligation of citizenship, and has not missed an
+election since returning to the U.S. He refuses to shade data interpretation to his
+potential business benefit, and insists on full integrity from all colleagues as well. He
+dislikes some aspects of the Israeli government system, and harbors significant distrust
+and resentment toward their military leadership over what he considers to be a coverup
+6
+of the circumstances surrounding his brother’s death. (Tr. at 112, 128, 130, 164, 202-
+209, 211, 216-217, 222, 259, 266; AE C; AE D; AE E.) 
+If Applicant’s family in Israel were approached by the Israeli government in an
+attempt to obtain protected information from Applicant, he would immediately report that
+to security and law enforcement authorities for three reasons. He would not compromise
+his integrity. He believes submitting to any such coercion would only lead to more, and
+would not end any threat. Finally, he is confident that Israel would not risk good
+relations with the U.S. by continuing any such attempt once it was known to U.S.
+authorities. (Tr. at 218-219, 276-277.) 
+Although Applicant has no independent desire to ever visit Israel again, he
+recognizes that family obligations may cause him to do so in the future. (Tr. at 284.)
+Applicant owns no property in Israel, but his parents, sister, and brother each own
+homes there. His understanding is that when his last surviving parent passes away,
+their house will be sold and each sibling will inherit one third of its value. That property is
+presently worth about $450,000. (Tr. at 236-237, 291-292.) 
+I take administrative notice of the following facts, which are supported by AN I
+through VIII and material to determining Applicant’s security worthiness. Israel is a
+parliamentary democracy whose prime minister heads the government and exercises
+executive power. Israel has a diversified, technologically advanced economy that is
+growing at about 5.2% per year, and the United States is Israel’s largest trading partner.
+Almost half of Israel’s exports are high tech and its major industrial sectors include high-
+technology electric and bio-medical equipment. The Israeli government generally
+respects the human rights of its citizens, although there are some issues with respect to
+treatment of some Palestinian detainees and discrimination against Israel’s Arab
+citizens that have no relevance to circumstances affecting Applicant or his family. 
+The Israeli government does not support or sponsor terrorism or terrorist
+organizations, and is a strong U.S. ally in fighting terrorism. Terrorist suicide bombings
+are a continued threat in Israel, and reliable information indicates that American
+interests could be the focus of terrorist attacks. As is typical in most parts of the world,
+American citizens have been urged to exercise a high degree of caution and common
+sense in public places, especially those near or associated with U.S. interests. The IDF
+has long-standing, close ties to the U.S. military, including operational, research and
+development programs. Commitment to Israel’s security and well being has been a
+cornerstone of U.S. policy in the Middle East since Israel’s creation in 1948, and the two
+countries are bound closely by historic and cultural ties, as well as mutual values and
+interests.
+There have been some issues of concern between the U.S. and Israel, including
+Israel’s proposed foreign military sales to third nations, Israeli protection of intellectual
+property, and espionage-related cases. (AN V at 2.) In general, Israel has curtailed or
+ended military sales to which the U.S. objected. (AN V at 25-26.) The intellectual
+property concerns related to biotechnology copyrights, pharmaceutical patents, and
+7
+piracy of software, music and DVDs. U.S. concerns were addressed by Israeli
+authorities. (AN V at 27.) One espionage case involved Jonathan Pollard, who is
+serving a life sentence for selling classified documents to Israel, and his wife. The only
+other Israel-related espionage case in the record involves former DoD analyst Lawrence
+Franklin, who pled guilty to conspiracy to communicate national defense information to
+unauthorized persons, unlawful retention of national security defense information, and
+conspiracy to communicate classified information to an agent of a foreign government.
+He was sentenced to confinement for 12 years and 7 months, and a $10,000 fine. (AN
+V at 26-27; AE F at 5, 20.) Two former officials of the American Israeli Political Action
+Committee are pending trial on related conspiracy charges. Some unidentified press
+reports purportedly identified an employee of the Israeli Embassy in Washington as the
+agent of a foreign government involved, but no evidence was supplied to confirm that
+allegation. Of the 150 cases of espionage against the U.S. by American citizens
+between 1947 and 2001 that were reported in the Defense Personnel Security
+Research Center Technical Report 02-5 (July 2002), only the Pollards’ case involved
+Israel. (AE V.) Other recently reported espionage arrests and prosecutions involved an
+opposition group in the Republic of the Philippines (AE W), the international terrorist
+group Hizballah (AE X), and the People’s Republic of China. 
+The National Counterintelligence Center (NACIC) prepared an Annual Report to
+Congress on Foreign Economic Collection and Industrial Espionage each year from
+2000 to 2005 (released in Aug. 2006) (AN VI; AN VII: AE K: AE L; AE M; AE N.) The
+first “Key Finding” of the most recent report was, “Entities from a record number of
+countries – 108 – were involved in collection efforts against sensitive and protected US
+technologies in the FY 2005, according to evidence amassed by the Counterintelligence
+(CI) Community. A relatively small number of countries, though – including China and
+Russia – were the most aggressive and accounted for much of the targeting, just as
+they have since the CI Community first began systematically tracking foreign technology
+collection efforts in 1997.” (AN VI at iii.) China and Russia are the only countries
+identified as among the most aggressive collectors, although the report states that, “The
+major collectors have been repeatedly identified targeting multiple US Government
+organizations and all types of technologies since at least 1997, when the CI Community
+first began systematically reporting on targeting efforts.” (AN VI at 2.) The reports from
+2001 to 2004 identify press reports of cases involving China, Pakistan, and Iran (AE K
+at 5.); an unspecified “laundry list” of 75 countries, rich and poor, friend and foe active in
+2001 (AE L at viii, 10.); an unspecified description of more than 90 countries, with a few
+(also unidentified) key countries accounting for the bulk of attacks in 2002-2003 (AE M
+at v, 3.); and a reportedly “high degree of unanimity among Community members”
+concerning the “only a few countries,” out of almost 100 identified in FY 2004, from
+whom the gravest threat to U.S. technologies come – again without naming any specific
+country (AE N at ix, 3.). 
+The Government sought administrative notice of the fact that, “The [NACIC’s]
+2000 Report to Congress on Foreign Economic Collection and Industrial Espionage lists
+Israel as one of the active collectors of proprietary information.” The accompanying
+footnote clarified that this list purports to name the “most” active collectors, and was
+8
+compiled based on a survey of private industry. The list  is not the body of the report,
+but appears in an appendix entitled, “Private Industry Survey.” The Appendix is a
+“distillation of corporate responses to questions concerning their experience,” from
+“nearly a dozen Fortune 500 companies” that were contacted by NACIC officers. The
+reported responses to the question, “Who are the most active collectors?” were “China,
+Japan, Israel, France, Korea, Taiwan, and India.” On this basis, and subsequent NACIC
+statements to the effect that “the active collectors are well known and remain the same,”
+the Government seeks administrative notice, by inference, that Israel has been
+indisputably shown to be among the most active countries in industrial espionage and
+economic collection against the United States. This finding is not warranted. The
+Industrial Survey report does not identify which companies were surveyed or what type
+of threat was perceived from any particular country. More tellingly, the list does not
+include Russia which, with China, are the only two countries named as major collectors
+in later reports. If the major collectors are as well known as the reports suggest, then
+better documentation of who they are should be available to Department Counsel, and
+is required to support administrative notice that any particular country is among them.
+The Government also sought administrative notice that, “Israeli military officers
+have been implicated in this type of technology collection in the United States.” The
+request cites anecdotal description of a dispute involving Israeli officers monitoring
+performance of an Israeli defense contract by a U.S. company as support for this
+assertion (AE VIII at 38.) While it is true, in a technical sense,  that such anecdotal
+discussion constitutes being “implicated,” it does not establish the truth of the allegation
+sufficiently to support the inference that the implication itself is true. Additionally, there is
+no indication that any of Applicant’s proposed classified work would be under contract
+to, or otherwise officially monitored by, the Israeli military. Accordingly, the proposed
+fact is not material to any issue in this case.  
+Policies
+When evaluating an Applicant’s suitability for a security clearance, the
+Administrative Judge must consider the revised adjudicative guidelines (AG). In addition
+to brief introductory explanations for each guideline, the adjudicative guidelines list
+potentially disqualifying conditions and mitigating conditions, which are useful in
+evaluating an Applicant’s eligibility for access to classified information.
+These guidelines are not inflexible rules of law. Instead, recognizing the
+complexities of human behavior, these guidelines are applied in conjunction with the
+factors listed in the adjudicative process. The Administrative Judge’s over-arching
+adjudicative goal is a fair, impartial and common sense decision. According to AG ¶¶
+2(a) and 2(c), the entire process is a conscientious scrutiny of applicable guidelines in
+the context of a number of variables known as the “whole person concept.” The
+Administrative Judge must consider all available, reliable information about the person,
+past and present, favorable and unfavorable, in making a decision.
+9
+The protection of the national security is the paramount consideration. AG ¶ 2(b)
+requires that “Any doubt concerning personnel being considered for access to classified
+information will be resolved in favor of the national security.” In reaching this decision, I
+have drawn only those conclusions that are reasonable, logical and based on the
+evidence contained in the record. Likewise, I have avoided drawing inferences
+grounded on mere speculation or conjecture.
+Under Directive ¶ E3.1.14, the Government must present evidence to establish
+controverted facts alleged in the SOR. Under Directive ¶ E3.1.15, “The applicant is
+responsible for presenting witnesses and other evidence to rebut, explain, extenuate, or
+mitigate facts admitted by the applicant or proven by Department Counsel, and has the
+ultimate burden of persuasion as to obtaining a favorable clearance decision.” Section 7
+of Executive Order 10865 provides that “Any determination under this order adverse to
+an applicant shall be a determination in terms of the national interest and shall in no
+sense be a determination as to the loyalty of the applicant concerned.” 
+A person applying for access to classified information seeks to enter into a
+fiduciary relationship with the Government predicated upon trust and confidence. This
+relationship transcends normal duty hours and endures throughout off-duty hours. The
+Government reposes a high degree of trust and confidence in individuals to whom it
+grants access to classified information. Decisions include, by necessity, consideration of
+the possible risk the Applicant may deliberately or inadvertently fail to protect or
+safeguard classified information. Such decisions entail a certain degree of legally
+permissible extrapolation as to potential, rather than actual, risk of compromise of
+classified information.
+Analysis
+Guideline B, Foreign Influence
+The security concern relating to the guideline for Foreign Influence is set out in
+AG & 6:
+Foreign contacts and interests may be a security concern if the individual
+has divided loyalties or foreign financial interests, may be manipulated or
+induced to help a foreign person, group, organization, or government in a
+way that is not in U.S. interests, or is vulnerable to pressure or coercion by
+any foreign interest. Adjudication under this Guideline can and should
+consider the identity of the foreign country in which the foreign contact or
+financial interest is located, including, but not limited to, such
+considerations as whether the foreign country is known to target United
+States citizens to obtain protected information and/or is associated with a
+risk of terrorism.
+10
+AG ¶ 7 describes conditions that could raise a security concern and may be
+disqualifying:
+(a) contact with a foreign family member, business or professional
+associate, friend, or other person who is a citizen of or resident in a
+foreign country if that contact creates a heightened risk of foreign
+exploitation, inducement, manipulation, pressure, or coercion;
+(b) connections to a foreign person, group, government, or country that
+create a potential conflict of interest between the individual's obligation to
+protect sensitive information or technology and the individual's desire to
+help a foreign person, group, or country by providing that information;
+(c) counterintelligence information, that may be classified, indicates that
+the individual's access to protected information may involve unacceptable
+risk to national security;
+(d) sharing living quarters with a person or persons, regardless of
+citizenship status, if that relationship creates a heightened risk of foreign
+inducement, manipulation, pressure, or coercion;
+(e) a substantial business, financial, or property interest in a foreign
+country, or in any foreign-owned or foreign-operated business, which
+could subject the individual to heightened risk of foreign influence or
+exploitation;
+(f) failure to report, when required, association with a foreign national;
+(g) unauthorized association with a suspected or known agent, associate,
+or employee of a foreign intelligence service;
+(h) indications that representatives or nationals from a foreign country are
+acting to increase the vulnerability of the individual to possible future
+exploitation, inducement, manipulation, pressure, or coercion; and,
+(i) conduct, especially while traveling outside the U.S., which may make
+the individual vulnerable to exploitation, pressure, or coercion by a foreign
+person, group, government, or country.
+AG ¶ 8 provides conditions that could mitigate security concerns:
+(a) the nature of the relationships with foreign persons, the country in
+which these persons are located, or the positions or activities of those
+persons in that country are such that it is unlikely the individual will be
+placed in a position of having to choose between the interests of a foreign
+11
+individual, group, organization, or government and the interests of the
+U.S.;
+(b) there is no conflict of interest, either because the individual's sense of
+loyalty or obligation to the foreign person, group, government, or country is
+so minimal, or the individual has such deep and longstanding relationships
+and loyalties in the U.S., that the individual can be expected to resolve any
+conflict of interest in favor of the U.S. interest;
+(c) contact or communication with foreign citizens is so casual and
+infrequent that there is little likelihood that it could create a risk for foreign
+influence or exploitation;
+(d) the foreign contacts and activities are on U.S. Government business or
+are approved by the cognizant security authority;
+(e) the individual has promptly complied with existing agency requirements
+regarding the reporting of contacts, requests, or threats from persons,
+groups, or organizations from a foreign country; and,
+(f) the value or routine nature of the foreign business, financial, or property
+interests is such that they are unlikely to result in a conflict and could not
+be used effectively to influence, manipulate, or pressure the individual.
+Applicant admitted the SOR allegations that his parents, sister, brother-in-law,
+niece, and nephew live in Israel. All of them are dual citizens of Israel and the U.S.,
+except his father, who is a U.S. citizen, and his brother-in-law, who is an Israeli citizen.
+Applicant and his brother are also dual citizens, but live in the U.S. The nature of
+Applicant’s relationship with his brother, and his brother’s lifestyle, are so detached from
+any risk of influence by Israel as to raise no possible security concerns under any of the
+disqualifying conditions. 
+Applicant’s other relatives living in Israel create a slight potential for exploitation,
+inducement, manipulation, pressure, or coercion, should the government of Israel
+choose to act in such a manner. The risk in this case is no greater than that which is
+inherent in any situation of a relative living abroad, which is not per se disqualifying.
+While both Israelis and Americans in Israel could be targeted for terrorist attack, there is
+no evidence of any terrorist organization operating within Israel that would create
+heightened risk of espionage activity toward his family by virtue of their citizenship or
+residence. There are some indications that Israel has obtained protected information
+from U.S. citizens, or failed to adequately protect intellectual property in the past. There
+is no evidence Israel has ever coerced, manipulated or exploited Israeli citizens or
+residents in connection with defense or economic espionage activity directed toward
+their U.S.-based relatives. The close and friendly military, political and strategic relations
+between the U.S. and Israel would make such activity very unwise, and, considering
+Israel’s record of respecting the human rights of its citizens, quite unlikely. Applicant’s
+12
+family’s lack of government connection in Israel also make it unlikely that he could be
+place in a position of having to choose between their interests and those of the U.S.
+Potential security concerns raised under AG ¶ 7(a) are substantially mitigated under AG
+¶ 8(a). 
+Applicant formerly had connections to Israel, including his IDF comrades, fellow
+students, and family members, that made him feel obliged to return and help defend
+that nation if it came under attack. With the passage of many years, loss of contact with
+all but his close family, and increasing ties and sense of obligation to the U.S., he no
+longer feels any such duty. He dislikes aspects of, and distrusts, the Israeli government
+and, in particular, its military hierarchy. The only people in or connected with Israel, with
+whom he now has sufficient connections to create any possible conflict of interest, are
+his parents, sister and her family. Other than obligated military conscriptions and his
+mother’s work as a school teacher, Applicant’s family has no government connection.
+Likewise, they have no independent reason to benefit from his provision of protected
+information to them or others in Israel. While not binding on this determination,
+Applicant’s demonstrated record of successfully protecting classified and sensitive
+information for more than three years, shortly after the time when he said he did feel
+that obligation toward Israel, is strong corroboration of other substantial evidence
+establishing his integrity, trustworthiness, and determination to follow rules. Potential
+security concerns raised under AG ¶ 7(b) are substantially mitigated under AG ¶ 8(b).
+Applicant does not have any business or financial interests in Israel, and the
+potential to inherit part of his parents’ modest estate at some future date is not a point of
+vulnerability to improper influence in view of his substantial income and assets in the
+U.S. Applicant’s infrequent travel to Israel issolely for purposes of visiting family there,
+which does not, in itself or combined with other evidence in this case, raise any security
+concerns. Nothing about his conduct during such visits, made using his U.S. passport,
+would make him vulnerable to exploitation or duress. Accordingly, security concerns are
+not raised under AG ¶¶ 7(e) or 7(i). The Government neither alleged nor proved facts
+raising any other foreign influence disqualifying condition. 
+Guideline C, Foreign Preference
+Under AG ¶ 9 security concerns involving foreign preference arise because,
+“When an individual acts in such a way as to indicate a preference for a foreign country
+over the United States, then he or she may be prone to provide information or make
+decisions that are harmful to the interests of the United States.”
+AG ¶ 10 describes conditions that could raise a security concern and may be
+disqualifying:
+(a) exercise of any right, privilege or obligation of foreign citizenship after
+becoming a U.S. citizen or through the foreign citizenship of a family
+member. This includes but is not limited to:
+13
+(1) possession of a current foreign passport;
+(2) military service or a willingness to bear arms for a foreign country;
+(3) accepting educational, medical, retirement, social welfare, or other
+such benefits from a foreign country;
+(4) residence in a foreign country to meet citizenship requirements;
+(5) using foreign citizenship to protect financial. or business interests in
+another country;
+(6) seeking or holding political office in a foreign country; and,
+(7) voting in a foreign election;
+(b) action to acquire or obtain recognition of a foreign citizenship by an
+American citizen;
+(c) performing or attempting to perform duties, or otherwise acting, so as
+to serve the interests of a foreign person, group, organization, or
+government in conflict with the national security interest; and,
+(d) any statement or action that shows allegiance to a country other than
+the United States: for example, declaration of intent to renounce United
+States citizenship; renunciation of United States citizenship.
+AG ¶ 11 provides conditions that could mitigate security concerns:
+(a) dual citizenship is based solely on parents' citizenship or birth in a
+foreign country;
+(b) the individual has expressed a willingness to renounce dual citizenship;
+(c) exercise of the rights, privileges, or obligations of foreign citizenship
+occurred before the individual became a U.S. citizen or when the
+individual was a minor;
+(d) use of a foreign passport is approved by the cognizant security
+authority.
+(e) the passport has been destroyed, surrendered to the cognizant
+security authority, or otherwise invalidated; and,
+14
+(f) the vote in a foreign election was encouraged by the United States
+Government.
+ 
+Applicant was born a U.S. citizen, and obtained dual citizenship under Israeli law
+because his parents moved the family from the U.S. to Israel when he was 10 years old.
+He performed his obligatory military conscription in the IDF between ages 18 and 21.
+Thereafter, he attended a government owned and operated university to obtain his
+bachelor’s and master’s degrees, holding a graduate assistant teaching position with a
+stipend during the last two years. 
+In 1988, Applicant moved to the U.S. to pursue studies leading to his PhD. He
+met and married his wife here, and has lived in the U.S. ever since. While he lived in
+Israel, he voted in Israeli elections as a duty of citizenship there. Since moving to the
+U.S. in 1988, he has voted in every U.S. election for the same reason. He never voted
+in an Israeli election after moving to the U.S. In 1994, he indicated a willingness to
+return and bear arms for Israel if she were attacked, out of a lingering sense of
+obligation to his former comrades. Despite several interim Israeli military conflicts, he
+never did so, and has lost all touch with Israelis other than his close family. He is
+expressly no longer willing to bear arms for Israel. He did possess an Israeli passport
+when he moved here. It long since expired, and was never used or renewed after 1988. 
+Since Applicant was born a U.S. citizen, the foregoing exercises of Israeli
+citizenship did not occur before he was a U.S. citizen. They resulted, however, from his
+parent’s decision to move him to Israel as a child. Once he fulfilled his military obligation
+there, and finished college, he emigrated to the U.S. and has remained here since. After
+moving here, he never again exercised any right, privilege or obligation of Israeli
+citizenship. Instead, he diligently exercised each in connection with his U.S. citizenship. 
+Applicant’s conduct while he lived in Israel, from 1971 to 1988, and his 1994
+statement implicate security concerns under all disqualifying conditions of AG ¶ 10,
+except subparagraphs(a)(5) and (a)(6). All of those actions, however, arose from
+choices made for him by his parents when he was a child, and his fulfillment of resulting
+obligations before he reached age 21. He did remain in Israel, where his family lived,
+while obtaining undergraduate and master’s level education and working to pay his
+educational expenses. He was a dual citizen residing in Israel at the time, and exercised
+his civic rights and obligations by voting. 
+In 1988, when Applicant had the credentials to successfully do so, he chose to
+return to the U.S. at age 27. Ever since, he has exercised only U.S. citizenship. He
+never formally renounced his Israeli citizenship, but credibly expressed his willingness
+to do so. Accordingly, the security concerns raised by his conduct many years ago is
+substantially mitigated under AG ¶ 11(a), (b), (c), and (e). None of the disqualifying
+conditions have existed for more than 13 years.
+ 
+15
+Whole Person Concept
+Under the whole person concept, the Administrative Judge must evaluate an
+Applicant’s eligibility for a security clearance by considering the totality of the Applicant’s
+conduct and all the circumstances. The Administrative Judge should consider the nine
+adjudicative process factors listed at AG ¶ 2(a): “(1) the nature, extent, and seriousness
+of the conduct; (2) the circumstances surrounding the conduct, to include
+knowledgeable participation; (3) the frequency and recency of the conduct; (4) the
+individual’s age and maturity at the time of the conduct; (5) extent to which participation
+is voluntary; (6) the presence or absence of rehabilitation and other permanent
+behavioral changes; (7) the motivation for the conduct; (8) the potential for pressure,
+coercion, exploitation, or duress; and (9) the likelihood of continuation or recurrence.”
+Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a security
+clearance must be an overall commonsense judgment based upon careful consideration
+of the guidelines and the whole person concept.    
+I considered the potentially disqualifying and mitigating conditions in light of all
+the facts and circumstances surrounding this case. Applicant’s conduct of potential
+concern under Guideline C resulted from choices made for him by his parents when he
+was a child. Once fully emancipated and financially independent, he returned to the
+U.S. to live. He honestly expressed a willingness in 1994, that was never acted on and
+is no longer held, to return and defend Israel if attacked. Other than that statement,
+which was made in response to a security investigator’s question, his conduct since
+1988 has been entirely that of a U.S. citizen. He successfully held a Secret clearance
+from 1994 through 1997, refusing even to tell his wife how many people he worked with
+because he thought that the information was classified. All of his foreign travel was
+done using his U.S. passport. 
+Applicant’s marriage and children, his substantial local extended family, and his
+professional career generated his full sense of obligation as a U.S. citizen, and
+eliminated any lingering sense of obligation toward Israel. His self-identity as a Jew is
+no longer grounded in any relationship with the nation of Israel, but instead arises from
+his embrace of religion since moving back to his original home. He is very principled,
+and is a strict follower and enforcer of rules. 
+Although his relationship with his parents and sister’s family in Israel is close and
+loving, there is no evidence, other than their residence in Israel itself, to suggest
+potential for pressure, coercion, exploitation, or duress. As discussed above, Applicant
+would not submit to any such pressure because it would be wrong to do so, would only
+invite more such misconduct, and would be effectively countered by bringing it to the
+attention of U.S. authorities given the nature of U.S. - Israeli relations.  
+Overall, the record evidence leaves me without questions or doubts as to
+Applicant’s eligibility and suitability for a security clearance. For all these reasons, I
+conclude Applicant mitigated the security concerns arising from foreign influence and
+foreign preference considerations. 
+16
+Formal Findings
+Formal findings for or against Applicant on the allegations set forth in the SOR,
+as required by section E3.1.25 of Enclosure 3 of the Directive, are:
+Paragraph 1, Guideline B: FOR APPLICANT
+Subparagraph 1.a: For Applicant
+Subparagraph 1.b: For Applicant
+Subparagraph 1.c: For Applicant
+Subparagraph 1.d: For Applicant
+Subparagraph 1.e: For Applicant
+Subparagraph 1.f: For Applicant
+Subparagraph 1.g: For Applicant
+Subparagraph 1.h: For Applicant
+Subparagraph 1.i: For Applicant
+Paragraph 2, Guideline C: FOR APPLICANT
+Subparagraph 2.a: For Applicant
+Subparagraph 2.b: For Applicant
+Subparagraph 2.c: For Applicant
+Subparagraph 2.d: For Applicant
+Conclusion
+In light of all of the circumstances presented by the record in this case, it is
+clearly consistent with the interests of national security to grant Applicant eligibility for a
+security clearance. Eligibility for access to classified information is granted.
+                                             
+DAVID M. WHITE
+Administrative Judge

@@ -1,0 +1,139 @@
+KEYWORD: Guideline F; Guideline E
+DIGEST: Applicant was convicted of a felony after a guilty plea.  Collateral estoppel applies.
+Thus, the Judge’s conclusion that Applicant lacked criminal intent was error.  Favorable decision
+reversed.
+CASENO: 11-06937.a1
+DATE: 01/10/2013
+DATE: January 10, 2013
+In Re:
+------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-06937
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+1Department Counsel’s brief cites to 31 U.S.C. § 5324, which prohibits structuring transactions to evade
+reporting requirements.  Subsection (c) provides that “[n]o person shall, for the purpose of evading reporting
+requirements of section 5316 . . . (1) fail to file a report required by [the statute].”  § 5316 specifies the contents of
+reports required to be filed when a person “transports, is about to transport, or has transported, monetary instruments of
+more than $10,000 at one time[.]”   § 5324 carries a maximum penalty of five years in prison and a fine.
+2
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On April 4, 2012, DOHA issued a statement of reasons (SOR) advising Applicant of the
+basis for that decision–security concerns raised under Guideline F (Financial Considerations) and
+Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as
+amended) (Directive).  Applicant requested a hearing.  On September 13, 2012, after the hearing,
+Administrative Judge Darlene D. Lokey Anderson granted Applicant’s request for a security
+clearance.  Department Counsel appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Department Counsel raised the following issue on appeal: whether the Judge substituted a
+favorable credibility determination for record evidence.  Consistent with the following, we reverse
+the decision of the Judge.
+Facts
+The Judge made the following findings pertinent to the issue raised on appeal.  Applicant is
+a logistics planner for a Defense contractor.  He holds a bachelor’s degree in management.
+Applicant served on active duty with the Air Force from 1972 to 1977 and then as either a
+Federal civil servant or contractor.  He worked overseas from 1984 to 2003 and for three years
+thereafter in the U.S.  He retired but was later hired by his current employer.
+In the 2000s, Applicant experienced financial problems resulting from his decision to invest
+in real estate.  He purchased real property with the intention of renting it out, but he was not
+successful in this undertaking.  When he tried to sell the property he could not find a buyer.  The
+housing market crash of 2006 left him owing more on two houses than the houses were worth.  He
+fell behind on his expenses, including credit card bills, etc.  Applicant filed for Chapter 7 bankruptcy
+protection and was discharged in bankruptcy in 2009.
+While working overseas, Applicant would place his income into his overseas bank account,
+in the currency of the host nation.  When he returned to the U.S., he transferred his foreign currency
+account to his U.S. bank account, in increments of $10,000 in order to avoid complying with Federal
+documentation requirements.  He testified that he was told by the bank manager to do this.
+Applicant was indicted under a statute that forbad structuring financial transactions to avoid
+reporting requirements.1  He pled guilty and received two years debarment, one year of probation,
+and $3,000 restitution.  He has complied with all sentencing conditions.
+In the Analysis, the Judge noted that Applicant had resolved his financial problems through
+the bankruptcy action.  She stated that Applicant was uninformed and naive when he violated the
+3
+U.S. bank laws.  She stated that it does not appear that he had any criminal intent.  She stated that,
+while he structured the financial transactions so as to avoid reporting requirements, he did not realize
+the magnitude of his actions.  She concluded that Applicant had learned his lesson and has avoided
+subsequent criminal conduct.  
+Discussion
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”  Directive, Enclosure 2 ¶ 2(b).  The Appeal Board may reverse the Judge’s
+decision to grant, deny, or revoke a security clearance if it is arbitrary, capricious, or contrary to law.
+Directive ¶¶ E3.1.32.3 and E3.1.33.3.  
+Once a concern arises regarding an Applicant’s security clearance eligibility, there is a strong
+presumption against the grant or maintenance of a security clearance.  See Dorfmont v. Brown, 913
+F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After the Government presents
+evidence raising security concerns, the burden shifts to the applicant to rebut or mitigate those
+concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and mitigating conditions and
+whole person factors does not turn simply on a finding that one or more of them apply to the
+particular facts of a case.  Rather, their application requires the exercise of sound discretion in light
+of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at 3 (App. Bd. Dec. 20,
+2006).
+In deciding whether the Judge's rulings or conclusions are arbitrary or capricious, the Board
+will review the Judge's decision to determine whether:  it does not examine relevant evidence; it fails
+to articulate a satisfactory explanation for its conclusions, including a rational connection between
+the facts found and the choice made; it does not consider relevant factors; it reflects a clear error of
+judgment; it fails to consider an important aspect of the case; it offers an explanation for the decision
+that runs contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere
+difference of opinion.  In deciding whether the Judge's rulings or conclusions are contrary to law,
+the Board will consider whether they are contrary to provisions of Executive Order 10865, the
+Directive, or other applicable federal law.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2,
+2006).
+Department Counsel argues that the Judge erred in concluding that Applicant lacked criminal
+intent.  He contends that this conclusion is not supported by the evidence.  We find this argument
+persuasive.  It is uncontroverted that Applicant was convicted of a felony, having pled guilty to the
+offense in question.  Indeed, in his response to the SOR, he admitted the allegation that he had pled
+guilty.  Moreover, he discussed the plea in his security clearance interview and at the hearing.
+4
+Although at the hearing he claimed that he did not intend wrongdoing, a plea of guilty is an
+admission not only of the facts underlying the offense but of the crime itself.  See, e.g., United States
+v. Broce, 488 U.S. 653, 570 (1989).  Therefore, by his plea, Applicant admitted that he had
+structured his monetary transactions as he did for the purpose of evading the requisite reporting
+requirements, as the statute specifies and as the Judge herself acknowledged in the Analysis.  The
+doctrine of collateral estoppel applies in DOHA hearings.  Although there are exceptions, none is
+pertinent in this case.  Under the doctrine, Applicant is not permitted to contend that he did not
+engage in the criminal acts of which he was convicted.  See, e.g., ISCR Case No. 04-05712 at 7
+(App. Bd. Oct. 31, 2006); ISCR Case No. 95-0817 (App. Bd. Feb. 21, 1997).  
+Questions of collateral estoppel aside, a defendant’s admission in open court, made with the
+advice and assistance of counsel, is powerful evidence of the matter asserted.  Moreover, it was
+inconsistent of the Judge to state that Applicant acted for purposes that satisfied the mens rea
+explicitly described in the statute and yet to conclude that he lacked a mens rea.  This inconsistency
+buttresses Department Counsel’s argument that the Judge substituted a favorable impression of
+Applicant’s demeanor for record evidence.  See, e.g., ISCR Case No. 07-18324 at 7 (App. Bd. Mar.
+11, 2011).  
+The Judge’s decision is not sustainable, given the extent to which it rests upon Applicant’s
+claim that he did not possess criminal intent when he committed the offenses of which he was
+convicted.  As such the decision fails to articulate a satisfactory explanation for one of its principal
+conclusions, fails to consider an important aspect of the case, and runs counter to the weight of the
+record evidence.  
+Order
+The Judge’s decision is REVERSED.  
+Signed: Michael Y. Ra’anan         
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: William S. Fields               
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+5
+Signed: James E. Moody                
+James E. Moody
+Administrative Judge
+Member, Appeal Board

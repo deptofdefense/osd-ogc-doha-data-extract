@@ -1,0 +1,151 @@
+KEYWORD: Guideline M; Guideline D; Guideline E
+DIGEST: The unusual and extensive technical problems with the video-teleconference
+equipment during the hearing were sufficiently disruptive to have deprived Applicant of his right
+to a hearing as contemplated by the Directive.  Adverse decision remanded.
+CASENO: 11-09056.a1
+DATE: 10/23/2013
+DATE: October 23, 2013
+In Re:
+----------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-09056
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+March 15, 2013, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision—security concerns raised under Guideline M (Use of Information Technology Systems),
+1The Judge made formal findings in favor of Applicant under Guideline D and the underlying Guideline  D
+allegation that was cross-referenced under Guideline E.  Those findings are not at issue on appeal.
+2
+Guideline D (Sexual Behavior), and Guideline E (Personal Conduct) of Department of Defense
+Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On August
+16, 2013, after the hearing, Defense Office of Hearings and Appeals (DOHA) Administrative Judge
+Robert E. Coacher denied Applicant’s request for a security clearance.  Applicant appealed, pursuant
+to the Directive ¶¶ E3.1.28 and E3.1.30.1     
+Applicant raises the following issues on appeal: (1) whether extensive technical problems
+with the video teleconference equipment experienced during the hearing resulted in a denial of
+Applicant’s right to a hearing under the Directive; (2) whether the Judge based his decision on
+evidence that was improperly admitted off the record; and (3) whether the Judge’s analysis under
+the whole-person concept was erroneous.  For the following reasons, the Board remands the Judge’s
+decision. 
+The Judge found: Applicant is 42 years old.  Between 2006 and 2009, Applicant accessed
+the wireless networks of others on several occasions.  On some occasions he connected to these
+networks through no affirmative action on his part.  By default his computer would pick up the
+network of others.  There were other occasions, during the same time frame, when Applicant
+actively penetrated other people’s wireless networks by using “tools” to discover the passwords for
+the network.  Once penetrated, he would access the network and check his e-mail and browse the
+internet.  He did not have permission to access these networks.  He stated that his reason for
+accessing these networks was out of curiosity.  He admitted that what he did could be considered
+“hacking.”
+In February 2011, Applicant filled out his security clearance application and was asked
+whether he had ever “illegally or without proper authorization entered into any information
+technology system.”  He answered “no” to this question.  When asked why he did not list this
+information on his application, he stated that he did not recall the incidents when he was completing
+the application.  This response is not credible inasmuch as the specific topic of Applicant’s accessing
+of other peoples’ accounts and his using tools to determine their passwords was addressed in an
+investigation conducted by another government agency (AGA) in 2010.  Applicant also admitted
+his computer activities when answering interrogatories sent to him by the Government and during
+his hearing testimony.    
+The Judge concluded:  Although Applicant’s actions in “hacking” into other people’s
+wireless network occurred from 2006 to 2009, the reason he gave for doing so (i.e., he was curious
+to see if he could do it) “shows a lack of good judgment and casts doubt on his reliability and good
+judgment.”  Applicant’s reliance on forgetfulness as an excuse for not answering the question about
+unauthorized access to computer systems is not credible.  His untruthful answer casts doubt on his
+reliability, trustworthiness, and good judgment.  A consideration of the whole record, including his
+military service, leads to the conclusion that Applicant failed to meet his burden to mitigate the
+security concerns.
+2The Judge did not indicate the duration of the problem.  Also, he did not indicate whether it was the audio or
+video portion of the transmission that had frozen.
+3Applicant does not specify whether this was another instance of the frozen image problem, or whether he lost
+the video transmission altogether.  
+3
+Applicant argues that the entire hearing should have been put off because of unusual,
+extensive technical problems with the video-teleconference (VTC) equipment and transmission.  The
+Board construes this assertion as a claim by Applicant that the recurrent and lengthy technical
+problems with the VTC transmission denied him a hearing as provided for in the Directive.
+Applicant’s claim has merit.
+Applicant’s hearing was conducted by VTC, with the Judge, Department Counsel, and the
+court reporter in one location, and Applicant in another.  The principal technical problem
+experienced at the hearing was the “freezing” of the video image of the Judge and Department
+Counsel on the video monitor used by Applicant.  The transmission of the images of the Judge and
+Department Counsel froze into a single, still image on Applicant’s end approximately five times
+during the course of the hearing.  Although precise time lapses are impossible to determine from the
+hearing transcript, some of the periods where Applicant experienced a frozen image appear to have
+been of significant length.
+The problem was first encountered by Applicant on page 14 of the transcript and continuing
+through page 15, lasting roughly the duration of Department Counsel’s opening statement.  The
+Judge stopped the proceedings and went off the record until such time as normal video transmission
+could be restored.  Applicant noted a second “freezing” of the image on page 31 of the transcript
+which took place during Applicant’s testimony in his case in chief.  The frozen image remained until
+page 33 of the transcript, where it apparently self-corrected.  On page 37 of the transcript the Judge
+reported that the transmission from the Applicant had frozen, but it had come back.2 At the same
+time, Applicant told the Judge that he had “completely lost” the video and the equipment “was
+asking” to please wait on the video.3  A technician stationed with Applicant informed the hearing
+participants that he would have to “dial back in.”  The Judge went off the record a second time so
+that this could be accomplished.  The Judge went back on the record and Applicant’s video image
+of the proceedings froze again on page 38 of the transcript.  At that point the Judge indicated his
+desire to keep going.  Applicant indicated on page 44 that the video image was still frozen.
+Thereupon, the loss of a normal video transmission confused Applicant during a pause where the
+Judge was reading a document.  Applicant thought he had lost the audio transmission.  On page 50,
+Applicant indicated that he had completely lost the video again.  There is no indication from the
+transcript as to whether a normal image had been restored between pages 44 and 50.  From page 50
+until the end of the hearing at page 76, there is no indication that normal video transmission had
+been restored.  Applicant made a comment that he had momentarily lost audio transmission on page
+55 of the transcript. 
+The transcript indicates that there were multiple disruptions in the flow of the hearing owing
+to technical difficulties with the video transmission and, to a lesser degree, the audio transmission.
+4Applicant indicated that he had lost normal video transmission on page 50 of the transcript.  From that point
+until the hearing concluded on page 76 of the transcript, there is no indication (a statement from any of the hearing
+participants) that normal video transmission was restored.  On pages 55-56 of the transcript, the Judge told Applicant,
+“there’s silence on this end, just so you know.”  In reply, Applicant stated, “Yes, sir. I can actually hear papers rustling,
+so that does help.”  These references to audio clues strongly indicate that the video frozen image problem continued until
+at least page 56 of the transcript.    
+4
+At least one of the comments on the record concerning problems with the audio transmission may
+have been the result of confusion on the part of Applicant brought on by the fact that he was unable
+to observe the Judge and Department Counsel as they were speaking.  Hence, pauses were
+apparently interpreted by Applicant as a loss in audio transmission.  While it appears that the
+transmission of Applicant’s image to the Judge and Department Counsel was not significantly
+affected by the ongoing technical problems, Applicant was required to respond to questions and to
+narrate testimony to a frozen image for significant portion of the proceedings.  Although it is
+difficult to determine what effect the problems had on Applicant’s ability to present his case, it is
+clear that the extensive transmission issues were disruptive and that Applicant was confused at times
+as to what was going on (interpreting pauses as a possible breakdown in audio transmission).  The
+Board concludes that because of the numerous, ongoing problems with the VTC transmission, the
+fact that they significantly disrupted the progress of the hearing, and the fact that they continued
+unabated throughout much of the course of the hearing, Applicant was deprived of his right to a
+hearing as contemplated by the Directive.  This conclusion is bolstered by the fact that the transcript
+does not clearly indicate the duration of the some of the periods where Applicant experienced the
+frozen image.  It is possible that very large portions of the hearing were affected by the video
+transmission problem.4       
+The Board concludes that the appropriate resolution to what can properly be characterized
+as unusual and major problems with the VTC transmission during the course of the hearing is to
+remand the case to the Judge for a new hearing and decision.  Given this posture, the Board need
+not address the other issues raised by Applicant.
+5
+Order
+The decision of the Judge is REMANDED.
+Signed: Michael Y. Ra’anan          
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett                 
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                 
+James E. Moody
+Administrative Judge
+Member, Appeal Board

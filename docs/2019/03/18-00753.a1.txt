@@ -1,0 +1,207 @@
+KEYWORD: Guideline E
+DIGEST: We conclude that the Judge did not deny Applicant a fair opportunity to prepare his
+case.  Directive ¶ E3.1.17 provides that the SOR may be amended by the Judge at the hearing for
+good cause and that the Judge may grant a request for additional time for further preparation. 
+Neither at the hearing nor on appeal has Applicant contended that there was no good cause for
+the amendment.  Rather, he simply argues inadequate preparation time.  Even if he had not
+waived this issue by withdrawing the objection, the issue is groundless.  The Judge was willing
+to entertain a request for a continuance, which Applicant declined to seek.  Adverse decision
+affirmed.
+CASENO: 18-00753.a1
+DATE: 03/05/2019
+DATE: March 5, 2019
+In Re:
+---------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 18-00753
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Department Counsel
+FOR APPLICANT
+Danel A. Dufresne, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+April 17, 2018, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline E (Personal Conduct) of Department of Defense
+Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On October
+31, 2018, after the hearing, Defense Office of Hearings and Appeals (DOHA) Administrative Judge
+Michael H. Leonard denied Applicant’s request for a security clearance.  Applicant appealed
+pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in admitting
+evidence; whether the Judge denied Applicant due process; and whether the Judge’s adverse
+decision was arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm. 
+The Judge’s Findings of Fact
+Applicant works for a Defense contractor.  He also is employed by a U.S. agency.  It is in
+his capacity as a contractor that he has applied for a clearance, although the circumstances that form
+the basis of this adjudication arose during the course of his agency employment.  Applicant began
+working for the U.S. government in early 2015.  He previously served in the U.S. military,
+deploying three times to the Middle East.
+When Applicant met his current spouse, he was not aware that she was a foreign national
+residing in the U.S.  Rather, he believed that she was a U.S. citizen.  When he discovered otherwise,
+he disclosed his relationship to the appropriate authorities within the agency that employed him. 
+Applicant’s employer initiated removal against him, based upon his association with his now-wife. 
+Although the agency characterized Applicant’s conduct as “very serious” and “directly related” to
+his employment, it mitigated the removal to a suspension without pay.  It did so in view of
+Applicant’s clean disciplinary record, good job performance, and his having successfully sought
+permanent resident alien status for his wife.
+In addition to his wife, Applicant has ongoing contact with his wife’s parents-in-law and
+brother in law.  His mother-in-law, a Mexican citizen, resides in the U.S. as an undocumented alien. 
+His brother-in-law’s status is unclear due to the Deferred Action for Child Arrival program.  His
+father-in-law is also from Mexico.  Though he has an alien registration number, the father-in-law
+is pending deportation action through an immigration court.  Applicant’s weekly contact with his
+in-laws is at family dinners.  In addition, his mother-in-law provides child care for Applicant and
+his wife.  Applicant disclosed these circumstances in his security clearance application (SCA) and
+during his background investigation.  Applicant’s in-laws were not included in the adverse action
+that his agency lodged against him.
+The Judge’s Analysis
+The Judge concluded that Applicant’s ongoing association with undocumented aliens, i.e.,
+his mother-in-law and brother-in-law, raises a concern under Directive, Encl. 2, App. A ¶ 16(d),
+because that association poses “an obvious conflict of interest with his responsibilities”  as a federal
+2
+employee.  Decision at 8. Regarding Applicant’s case for mitigation, he stated that the nature of
+Applicant’s agency duties might allow him potentially to gain access to information about his in-
+laws status, especially regarding his father-in-law’s potential deportation.  Applicant’s
+“circumstances create the potential for an insider threat, which is a major concern of the federal
+government’s risk management program.”  Id.  Though acknowledging Applicant’s military service
+and his understandable loyalties to his family, he concluded that Applicant’s association with illegal
+aliens raised concerns that his evidence was not sufficient to mitigate.
+Discussion
+Evidentiary Ruling  
+Applicant contends that the Judge erred by admitting Government Exhibit (GE) 4, a
+document whereby he informed his agency of his relationship with his now-wife.  He argues that
+this document is not relevant because it references only Applicant’s wife, who was not mentioned
+in the SOR.  Moreover, he notes that at the time he prepared the document, he was not married and,
+therefore, had no in-laws to disclose.  We conclude that this exhibit was relevant to matters properly
+before the Judge, including but not limited to a consideration of the whole-person concept.  The
+challenged evidentiary ruling was not arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case
+No. 15-05047 at 4 (App. Bd. Nov. 8, 2017).
+Due Process
+Applicant contends that the Judge denied him due process.  He notes first that the SCA which
+is the basis for Applicant’s adjudication was prepared in regard to his duties as a Defense contractor. 
+However, the SOR alleged circumstances pertaining to his agency employment.  He contends that
+the Judge erroneously found his job with the agency to be “more important and relevant” than his
+security clearance eligibility with the contractor.  He argues that the Judge erred by focusing on a
+conflict of interest involving Applicant’s agency job rather than addressing his job with a contractor. 
+We have considered this assignment of error in light of the record and conclude that the challenged
+analysis does not call into question whether Applicant received due process, in that it addressed
+things that were within the explicit scope of the SOR.  See footnote 1 below.  The Directive does
+not prohibit security officials from considering conduct unrelated to an applicant’s current
+employment by a contractor when that conduct raises concerns about the applicant’s ability to
+protect classified information.  See, e.g., ISCR Case No. 14-04190 at 2 (App. Bd. Jan. 18, 2017), in
+which an applicant was denied a clearance due to conduct during a previous job rather than the one
+he held at the time of his clearance application.      
+ 
+Applicant also argues that he was denied due process because he did not have sufficient time
+to prepare for the case.  He notes that the SOR originally alleged that he knowingly associated with
+3
+his in-laws, who were engaged in criminal activity and illegally present in the U.S.  However, at the
+beginning of the hearing, the Judge granted Department Counsel’s motion to amend the allegation
+to delete reference to criminality.1  Tr. at 24.   Applicant’s counsel objected on the ground that he
+had not had time to prepare to meet the allegation as amended.  The Judge asked how much time he
+would need, specifically if Applicant wanted to reschedule the case for a later time.  Eventually
+counsel stated that he would proceed without rescheduling, citing added financial costs of a
+continuance.  After so stating, he withdrew the objection.  Tr. at 23-24.  At the end of the hearing
+the Judge gave Applicant an additional week to submit evidence regarding the amended allegation. 
+Tr. at 107.  
+We conclude that the Judge did not deny Applicant a fair opportunity to prepare his case. 
+Directive ¶ E3.1.17 provides that the SOR may be amended by the Judge at the hearing for good
+cause and that the Judge may grant a request for additional time for further preparation.  Neither at
+the hearing nor on appeal has Applicant contended that there was no good cause for the amendment. 
+Rather, he simply argues inadequate preparation time.  Even if he had not waived this issue by
+withdrawing the objection, the issue is groundless.  The Judge was willing to entertain a request for
+a continuance, which Applicant declined to seek.  Even so, he granted Applicant a week after the
+hearing to submit additional evidence.  One day after the hearing, Applicant’s counsel advised the
+Judge by email as follows: “I appreciate your offer but [Applicant] does not need any additional
+time to respond to the modified SOR[.]” Email from Applicant’s Counsel to Judge, dated September
+21, 2018 (emphasis added).  The Judge did not abuse his discretion in the manner in which he
+amended the SOR.  See, e.g., ISCR Case No. 14-00019 at 4 (App. Bd. Sep. 18, 2014).  In particular
+he did not fail to observe the requirement of the Directive that he grant either party’s request for
+additional preparation time, insofar as neither party, particularly Applicant, led him to believe that
+such time was needed.  Applicant may be unhappy with the Judge’s ultimate conclusions, but he was
+not denied the due process afforded by the Directive.
+Whether the Decision is Arbitrary, Capricious, or Contrary to  Law
+Applicant contends that the Judge employed the wrong adjudicative factors in evaluating his
+case.  Noting the Judge’s conclusion that his relationship with undocumented relatives posed a
+conflict of interest with his duties at his agency employment, he argues that Guideline E “does not
+address any so-called concerns about a conflict of interest.”  Appeal Brief at 12.  He argues that the
+Judge improperly applied a Guideline B criterion in his treatment of Guideline E.
+It is true that Guideline B, which focuses upon the extent to which an applicant might be
+subject to influence by or on behalf of a foreign country, embraces circumstances in which foreign
+1The SOR allegation originally read as follows: “You have knowingly continued to associate with your mother-
+in-law and brother-in-law despite their criminal activity and illegal presence in the United States.”  The amended
+allegation, re-designated 1.a, read as follows: “You have knowingly continued to associate with your mother-in-law and
+brother-in-law even after learning that they are illegal aliens residing in the United States.”  The amendment included
+the deletion in toto of an original allegation 1.a that was in essence duplicative of the one just quoted.  It left a third
+allegation untouched, except that it was re-designated 1.b rather than its previous designation of 1.c.  This allegation
+stated, in effect, that Applicant associated with his in-laws despite his employment by the agency.   
+4
+relatives might pose a conflict of interest between an applicant’s concern for these relatives and his
+or her duty to protect classified information.  See Directive, Encl. 2, App A ¶ 7(b).  It is also true that
+the disqualifying conditions listed under Guideline E do not make explicit reference to conflicts of
+interest.  See Directive, Encl. 2, App. A ¶¶ 15 - 17. However, the disqualifying and mitigating
+conditions set forth under each guideline of the Directive are illustrative, not exclusive.  They
+provide an analytical framework for decision-making but are not to be applied in the strict manner
+required of criminal statutes.  In fact, it is not improper for a Judge to conclude that none of the
+listed disqualifying conditions strictly apply yet nevertheless find that an applicant’s conduct raises
+concerns under the guideline at issue.  See, e.g., ISCR Case No 14-03701 at 2-3 (Apr. 12, 2017).  
+  
+In light of the above, we see no reason to conclude that conflicts of interest involving foreign
+citizens are to be addressed exclusively under Guideline B and not elsewhere, such as Guideline E.
+This latter guideline states, in pertinent part, that “conduct involving questionable judgment . . . or
+unwillingness to comply with rules and regulations can raise questions about an individual’s
+reliability, trustworthiness, and ability to protect classified information.”  Directive, Encl. 2, App.
+A ¶ 15.  Although much of Guideline E addresses false statements or omissions, it is broad enough
+to include other things.   In the case before us, Applicant works for an agency that enforces
+immigration policy.  He has an ongoing relationship with foreign citizens who are living in this
+country in violation of that policy.  This does indeed suggest a possible conflict of interest, not due
+to the foreign citizenship per se of his relatives but to their presence in the U.S. unsanctioned by the
+laws Applicant’s agency enforces.  Characterized in this way, this sort of conflict does not
+necessarily fall under Guideline B, but it does call Applicant’s judgment into question, a central
+concern of Guideline E.  See, e.g., ISCR Case No. 10-10307 (App. Bd. Jul. 18, 2012), in which
+foreign contacts were alleged both under Guideline B and Guideline E.   
+Indeed, Applicant’s own exhibit, the memorandum setting forth his agency’s decision
+regarding his proposed removal, advised him that his ongoing relationship with his then-girlfriend
+was “very serious[.]”  It went on to state, “Your actions call your personal judgment into question
+and directly contradict the expectation that federal employees uphold the responsibility of complying
+with federal statutes, rules, regulations, and policies established by the Agency.”  Applicant Exhibit
+C.  Given that Applicant’s relationship with the person who became his wife called into question
+his willingness to abide by rules and regulations, the Judge did not err in examining whether
+Applicant’s ongoing relationship with foreign in-laws, who had even less legal status than his wife,
+posed a similar concern.  The Judge’s conclusion that these relationships impugn Applicant’s
+willingness to follow rules and regulations–not only those of his agency but those that govern the
+handling of classified information–constitutes a reasonable interpretation of the record that was
+before him.  Applicant’s circumstances satisfy the overarching criteria of Guideline E, and we find
+no error in the manner in which the Judge evaluated the security concerns raised by the SOR.
+After considering the entirety of Applicant’s appeal brief in light of the record as a whole,
+we conclude that he has not demonstrated that the Judge committed any harmful error.  To the
+contrary, the Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+5
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A ¶ 2(b):  “Any
+doubt concerning personnel being considered for national security eligibility will be resolved in
+favor of the national security.”      
+Order
+The Decision is AFFIRMED. 
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                 
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+6

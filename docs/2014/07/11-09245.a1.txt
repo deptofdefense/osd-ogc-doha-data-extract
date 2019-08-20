@@ -1,0 +1,210 @@
+KEYWORD: Guideline E; Guideline K
+DIGEST: The Judge’s application of collateral estoppel of issues decided in MSPB proceedings
+did not impair Applicant’s ability to present a case in mitigation and extenuation.  Applicant’s
+argument that DOHA was obliged to grant him a clearance due to the NISPOM’s reciprocity
+provision is inconsistent with the language of the provision.  Adverse decision affirmed.
+CASENO: 11-09245.a1
+DATE: 07/08/2014
+DATE: July 8, 2014
+In Re:
+----------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-09245
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+1While the case was pending, Applicant submitted a second brief.  The Directive only authorizes one brief from
+each party.  To the extent that the second brief is premised on the assertion that Department Counsel’s brief raised a new
+issue, we disagree.  However, where we have reached such a conclusion in a past case, the proper solution was for us
+to decline to consider the argument.  See, e.g., ISCR Case No. 12-00120 at n. 1 (App. Bd. Feb. 10, 2014).  
+2
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+April 17, 2013, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline E (Personal Conduct) and Guideline K (Handling
+Protected Information) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+(Directive).  Applicant requested a hearing.  On March 19, 2014, after the hearing, Defense Office
+of Hearings and Appeals (DOHA) Administrative Judge James F. Duffy denied Applicant’s request
+for a security clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in applying the
+doctrine of collateral estoppel to a prior Merit Systems Protection Board (MSPB) decision; whether
+the Judge should have concluded that Applicant was entitled to a clearance through the doctrine of
+reciprocity; and whether the Judge’s adverse decision was arbitrary, capricious, or contrary to law.
+Consistent with the following, we affirm.1
+The Judge’s Findings of Fact
+Applicant is an employee of a Defense contractor.  He started working for his employer in
+2010.  Applicant has served on active duty with the U.S. military, in the reserves, and in the National
+Guard.  He retired in the grade of E-8.  He has held a clearance since the late 1980s.
+In the early 2000s, Applicant began a job as a civilian employee of the Federal Government
+in a position that required a security clearance.  While in this job, Applicant was investigated for
+selling excess Government property on the internet.  Although cleared of that allegation, the
+investigation concluded that Applicant had improperly utilized a Government computer to track
+transactions.  The investigation also concluded that Applicant’s Government computer contained
+pornographic material.
+A few years later, some media (M) were found at Applicant’s job site that contained
+classified information but that did not have classified markings.  An investigation concluded that
+Applicant had removed the classification markings and had improperly distributed the CDs.
+In 2004, Applicant’s chain of command proposed that he be removed from his job.  The
+reasons were (1) violation of regulations in which restricted information was compromised, (2)
+misuse of Government equipment, and (3) repeated failure to follow supervisory orders and
+instructions.  This removal was effectuated the following year.  He appealed to the MSPB.  After
+a hearing, the Administrative Law Judge (ALJ) upheld the removal.  Regarding the first allegation,
+the ALJ stated that Applicant’s denial of responsibility was not credible.  He concluded that
+Applicant was the author of the M in question.  Decision at 5.  As to the second allegation, the ALJ
+found that Applicant Government computer was used to track internet sales and that it contained
+2The AF restored Applicant’s clearance before the ALJ issued his Decision on the removal action.  
+3
+pornographic material.  The ALJ concluded that Applicant violated agency regulations by tracking
+sales and that his contention that others may surreptitiously have placed pornography on his
+computer was unsupported by the evidence.  The ALJ also concluded that the third allegation was
+supported by the preponderance of the evidence.
+In addition to the removal action, the adjudication facility (AF) issued Applicant an SOR that
+contained similar allegations.  After considering Applicant’s response to the SOR, the AF restored
+Applicant’s clearance, with a warning that subsequent unfavorable information may lead to another
+clearance suspension.2  
+Subsequently, Applicant was accepted for employment by another Government agency
+(AGA).  This agency granted him a clearance in October 2007.  However, AGA terminated
+Applicant’s employment based on the incidents set forth in his prior removal action.  The Notice of
+Termination cited both Applicant’s responses to AGA interrogatories and to the ALJ Decision.  
+After his job loss in 2005, Applicant received two promotions in the National Guard.
+Applicant’s former commander stated that Applicant always took care with classified information.
+He related an incident in which Applicant took steps to protect him when they came under fire in
+an overseas location.  Applicant enjoys a good reputation for following orders and safeguarding
+classified information.  He has engaged in significant community outreach endeavors through his
+church and has received several medals and awards during his service in the military.
+The Judge’s Analysis
+The Judge concluded that the Government had presented substantial evidence of an
+intentional security violation.  Noting the discrepancy between Applicant’s having been removed
+from his job yet having retained his clearance, the Judge stated that the AF acted before the ALJ
+Decision was issued.  He stated that the ALJ had the advantage of considering in-person testimony,
+which, in the Judge’s view, enhanced the weight to which the ALJ Decision was entitled.  The Judge
+concluded that, despite his impressive character evidence, Applicant had not met the “very heavy
+burden” of persuasion necessary to mitigate the Guideline K concerns alleged in the SOR.  He stated
+that Applicant’s denial of culpability evidenced a failure to accept responsibility for his conduct.
+The Judge also cited to a nonjudicial punishment given to Applicant in the late 1990s for falsifying
+orders, which detracted from Applicant’s credibility.  
+Under Guideline E, the Judge concluded that Applicant’s having used a Government
+computer to track internet sales did not raise security concerns.  However, he found that Applicant
+did fail to follow his supervisor’s orders which, although less serious than the security violation,
+raised a security concern.  As with the Guideline K allegation, the Judge concluded that Applicant’s
+conduct raised concerns that had not been mitigated by the record evidence.
+Discussion
+4
+Collateral Estoppel
+Applicant contends that the Judge erred in extending collateral estoppel effect to the
+Decision of the MSPB ALJ.  The ALJ Decision addressed all of the conduct that is at issue in the
+case before us.  The criteria pertinent to a collateral estoppel determination are (1) that the party
+against whom it is asserted had an opportunity to litigate the earlier case; (2) that the issues in the
+current hearing are the same as those in the prior one; and (3) that application of collateral estoppel
+must not result in unfairness.  See, e.g., ISCR Case No. 09-02752 at 4, n. 1 (App. Bd. Apr. 6, 2010).
+We have previously held that MSPB hearings can satisfy the requirements of collateral estoppel.
+ISCR Case No. 03-24233 at 7 (App. Bd. Oct. 12, 2005).  In the case before us, the Judge’s
+conclusion that the MSPB Decision met the above criteria is consistent with the record that was
+before him.  Applicant argues that he was precluded from submitting the full range of exculpatory
+evidence that he otherwise would have offered had the Judge not applied collateral estoppel.  We
+note, however, that the Judge’s ruling on the collateral estoppel issue stated that Applicant would
+not be precluded “from presenting evidence to explain his conduct, present it in a meaningful
+context, and ultimately to extenuate or mitigate such conduct.”  Ruling on Motion in Limine at 6.
+We also note that the Judge limited his application of collateral estoppel by giving “no weight” to
+the ALJ’s conclusion that Applicant had violated a regulation by tracking internet sales.  The
+voluminous documentary record  and the hearing transcript support a reasonable conclusion that
+Applicant was given wide latitude to present his case, within the constraints of the Judge’s ruling.
+Moreover, the Government’s own evidence includes Applicant’s response to the AF’s SOR
+(Government Exhibit 7), which contains much that is exculpatory in nature, as does the extensive
+documentation accompanying Applicant’s response to the DOHA SOR.  We find no reason to
+believe that the application of collateral estoppel in this case caused unfairness to Applicant.    
+Reciprocity
+Applicant contends that the Judge erred in not granting him a clearance based upon
+reciprocity with his 2005 adjudication.  The Judge found that Applicant underwent a periodic
+reinvestigation of an existing clearance in 2003, and the AF granting him a clearance in June 2005.
+After he was removed from his job, he took a position with AGA, which granted him a clearance
+in 2007 based on reciprocity with the 2005 grant.  The reinvestigation that is the subject of the
+current DOHA adjudication closed in 2011.  The security clearance application that initiated this
+reinvestigation was submitted in December 2010.
+DoD 5220.22-M, National Industrial Security Program (NISPOM), dated February 2006,
+¶ 2-204, provides the following:
+Any previously granted [clearance] that is based upon a current investigation of a
+scope that meets or exceeds that necessary for the clearance required shall provide
+the basis for issuance of a new clearance without further investigation or adjudication
+unless significant derogatory information that was not previously adjudicated
+becomes known to the granting agency.
+3Additionally, under the facts of this case, a reasonable person could conclude that the ALJ Decision and the
+removal action by AGA constituted derogatory information that was not available for consideration in the 2005
+adjudication by AF.
+5
+NISPOM ¶ 2-201 explains what qualifies as a current investigation: investigations by one Federal
+agency will not be duplicated by another Federal agency “when those investigations are current
+within 5 years[.]” We have stated that if any of the elements set forth in ¶ 2-204 are not satisfied,
+reciprocity does not apply.  ISCR Case No. 03-04172 at 3-4 (App. Bd. Jun. 7, 2005).  In the case
+before us, the investigation upon which the current DOHA adjudication is based closed in 2011.  It
+was initiated more than five years after Applicant was granted his prior clearance.  Therefore, that
+earlier investigation was not current within the meaning of the NISPOM, precluding an application
+of reciprocity.3  The 2007 grant by AGA is of no significance, insofar as it was not based upon the
+current periodic reinvestigation.  The Judge did not err in failing to extend reciprocity to Applicant’s
+earlier adjudications.
+Other Issues
+We have considered Applicant’s arguments challenging the sufficiency of the Judge’s
+mitigation analysis.  Once it is established that an applicant has committed security violations, he
+or she has a “very heavy burden” of persuasion that he or she should have a clearance.  Security
+violations “strike at the heart of the industrial security program.”  ISCR Case No. 10-04911 at 5
+(App. Bd. Dec. 19, 2011).  The record supports the Judge’s conclusion that Applicant had not
+mitigated the concerns arising from his security violations and from his failure to follow orders and
+instructions.  Applicant’s appeal argument is, to a large extent, a disagreement with the Judge’s
+weighing of the evidence, which is not sufficient to demonstrate error.  We note Applicant’s
+argument that he had been given a clearance in 2005 despite AF’s knowledge of the same security
+concerns at issue here.  However, in a case like this, in which the applicant is not entitled to
+reciprocity, the Government is not precluded from making an adverse clearance determination
+despite prior favorable ones.  See, e.g., ISCR Case No. 06-23613 at 4 (App. Bd. Feb. 4, 2013).  The
+interests of national security are paramount in decisions rendered under the Directive.    
+Applicant challenges the Judge’s conclusions about his credibility.  The ALJ Decision, even
+without recourse to collateral estoppel, could persuade a reasonable person that Applicant committed
+the misconduct at issue in the case before us.  A reasonable person could also conclude that
+Applicant’s denials of this misconduct lacked credibility, impugning his case for mitigation.  We
+defer to a Judge’s credibility determinations.  Directive ¶ E3.1.32.1.  We note the Judge’s reference
+to Applicant’s nonjudicial punishment.  We find no error in his consideration of this evidence as part
+of his credibility determination, nor do we find error in the apparent weight which he extended to
+it.  Conduct not alleged in an SOR can be considered for things besides actual security concerns,
+such as assessing an applicant’s credibility.  See, e.g., ISCR Case No. 11-12803 at 2 (App. Bd. Feb.
+21, 2014).  
+Applicant’s brief cites to numerous other DOHA cases that he contends support his effort
+to obtain a clearance.  We have given these cases due consideration as persuasive authority.
+6
+However, we do not find in them a reason to reverse the Judge’s adverse decision.  In any event,
+they are not binding on either other Hearing Office Judges or on the Appeal Board.  See, e.g., ISCR
+Case No. 13-00464 at 3 (App. Bd. Feb. 20, 2014).  Applicant cites to his prior favorable
+adjudication, his good work history, his military history, and other favorable matters.  A Judge is
+presumed to have considered all of the evidence in the record.  ISCR Case No. 11-13948 at 3 (App.
+Bd. Feb. 26, 2014).  The Judge made extensive findings about much of the evidence to which
+Applicant refers.  Applicant’s arguments are not sufficient to show that the Judge did not consider
+all of the evidence.
+ The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”
+Order
+The Decision is AFFIRMED.        
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett             
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                
+James E. Moody
+Administrative Judge
+Member, Appeal Board

@@ -1,0 +1,578 @@
+ 
+1 
+                                                              
+                         DEPARTMENT OF DEFENSE 
+         DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+In the matter of: ) 
+ ) 
+REDACTED )  CAC Case No. 16-00004 
+ ) 
+Applicant for CAC Eligibility ) 
+ 
+ 
+Appearances 
+ 
+For Government: Rhett Petcher, Esq., Department Counsel 
+For Applicant: Pro se 
+ 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+MENDEZ, Francisco, Administrative Judge: 
+ 
+ Applicant mitigated Common Access Card (CAC) credentialing concerns raised 
+by inaccurate information provided by her former employer during a routine employment 
+check. Applicant resigned her position with her former employer due to a breakdown in 
+the relationship with her boss, not due to misconduct or other issues that would raise a 
+concern. She honestly responded to questions on a federal employment form. 
+Continuing her eligibility for a CAC will not create an unreasonable risk to U.S. 
+personnel, property, or information systems. CAC eligibility is granted. 
+ 
+Statement of the Case 
+ 
+On March 21, 2016, pursuant to Homeland Security Presidential Directive – 12 
+(HSPD-12), the Department of Defense (DoD) issued a Statement of Reasons (SOR) to 
+Applicant detailing concerns about her continued eligibility for a CAC. This action was 
+taken under DoD Instruction (DoDI) 5200.46, DoD Investigative and Adjudicative 
+Guidelines for Issuing the Common Access Card, dated September 9, 2014 
+(Instruction), and in accordance with the established administrative process set out in 
+DoD Directive (DoDD) 5220.6, Defense Industrial Personnel Security Clearance Review 
+Program (January 2, 1992) (Directive).  
+ 
+2 
+The CAC credentialing concerns cited in the SOR are:  Basic Adjudicative 
+Standards (BAS) ¶ 6 (misuse of information systems or failure to follow rules, 
+procedures, guidelines, or regulations pertaining to information systems), Supplemental 
+Adjudicative Standards (SAS) ¶ 1.a (employment misconduct or negligence), and SAS ¶ 
+3 (deliberate falsification, deception, or fraud).  
+ 
+Applicant answered the SOR on May 2, 2016, and requested a hearing. On 
+November 17, 2016, a date mutually agreed to by the parties, a hearing was held.1 
+Applicant testified at the hearing, and Government Exhibits 1 – 5 and Applicant’s 
+Exhibits A – F were admitted into the administrative record without objection. The 
+transcript of the hearing (Tr.) was received on November 28, 2016. 
+ 
+ On December 29, 2016, after reviewing the transcript, the record evidence, and 
+the parties’ post-hearing submissions,2 I advised Department Counsel and Applicant 
+that the matter appeared appropriate for resolution through summary disposition. On 
+January 4, 2017, Department Counsel objected and requested a full decision.3 
+ 
+Findings of Fact 
+ 
+ Applicant, a high school graduate, currently works as a patent paralegal in the 
+staff judge advocate’s (SJA) office for a U.S. military installation. She was hired by the 
+SJA’s office as a contract employee in July 2015, on a five-year renewable contract and 
+was subsequently issued a CAC. Her CAC does not expire until July 2018. Applicant 
+needs a CAC to enter the military installation where her office is located. Her current 
+and former supervisor provided favorable recommendations.4 
+ 
+Applicant’s current supervisor writes that Applicant’s job duties include “creating 
+patent application folders, accessing the U.S. Patent & Trademark’s Office publically 
+accessible database … and [performing] other administrative tasks . . .” She goes on to 
+state their “office is not involved in handling any classified work or documents.”5  
+ 
+ Before being hired by the SJA’s office, Applicant worked for about 19 years in a 
+state county prosecutor’s office (CPO). She started at the CPO as a receptionist and 
+received repeated promotions over the years. Her last position with the CPO was as 
+victim-witness coordinator for felony-level sexual offenses. This was an appointed 
+position by the county prosecutor and Applicant was an at-will employee.6  
+                                                          
+1 Prehearing correspondence and the notice of hearing are attached to the record as Appellate Exhibits 
+(App. Exh.) I and II, respectively. 
+ 
+2 App. Exh. III and IV. 
+ 
+3 App. Exh. V.  
+ 
+4 Tr. 27-29, 64-65; Exhibits E, F. 
+ 
+5 Exhibit F. 
+ 
+6 Tr. 29-30.  
+ 
+3 
+Applicant started experiencing problems at the CPO in about 2014, when her 
+support for the former county prosecutor in his bid to become a judge was revealed. 
+The new county prosecutor had made it clear to the CPO staff that he did not want 
+anyone in his office supporting his former political rival in the rival’s bid for judicial office.  
+ 
+At around same time, Applicant was handling a case involving a nine-year-old girl 
+who was raped by her brother and became pregnant as a result of the sexual assault. 
+Applicant refused the county prosecutor’s request that she obtain a letter of medical 
+necessity before releasing victim-witness funding to pay for the medical procedure to 
+terminate the pregnancy.7  
+ 
+Afterwards, Applicant’s relationship with the county prosecutor, which up to that 
+point had been good, soured markedly. She made the mistake of venting her 
+frustrations to another employee using her official work email. She regrets making 
+derogatory comments about the county prosecutor in some of these emails.8  
+ 
+ Applicant disclosed at the hearing that she used her office computer and official 
+work email to help a deputy county prosecutor remodel a bedroom in her (the deputy’s) 
+home. Applicant discussed the remodel with the deputy via her work e-mail and 
+purchased furniture for the deputy using her work computer. The deputy paid Applicant 
+for her help. She was unaware of any policy, rule, or regulation prohibiting the use of 
+CPO information systems for this purpose. She testified that after 19 years at the CPO 
+and having previously helped the deputy county prosecutor redecorate other rooms in 
+the deputy’s house, she was “lulled” into the belief that her use of the CPO information 
+systems in this manner was appropriate.9 
+ 
+In about May 2015, Applicant had a meeting with the county prosecutor and two 
+of his top deputies. She was handed a letter proposing her removal based on an 
+internal investigation that purportedly found she improperly accessed sensitive law-
+enforcement databases, or allowed someone else to use her credentials to access the 
+law-enforcement databases. Applicant disputed this letter because she would not and 
+could not have engaged in the alleged misconduct, as she did not have access to the 
+databases at issue, except for one and her access to this one database was limited.10  
+ 
+The two deputy county prosecutors present at the meeting confirmed Applicant’s 
+account as to the limited nature of her access to the law-enforcement databases. It then 
+appeared to Applicant that the county prosecutor reconsidered his decision to fire her, 
+because the serious accusations in the letter were unfounded. He then showed 
+Applicant some of the disparaging emails that she had sent about him. Applicant 
+recognized that her relationship with her boss could not be saved and, at some point 
+                                                          
+7 Tr. 42-45.  
+ 
+8 Tr. 22; 42-45. 
+ 
+9 Tr. 21-22, 30-32, 42-50. 
+ 
+10 Tr. 20-21, 48-52.  
+ 
+4 
+down the line, he would likely get rid of her. She had also grown weary of going to work 
+every day and dealing with the toxic environment that her workplace had become over 
+the course of the last year. She offered to resign in return for the county prosecutor’s 
+agreement that her employment record would not be marred and would accurately 
+reflect her favorable 19-year tenure. The county prosecutor agreed and Applicant 
+submitted her resignation.11 
+ 
+Applicant was out of work for two months before being hired by her current 
+employer in July 2015. She interviewed for the paralegal job opening with the SJA’s 
+office on a Thursday and was offered the job to begin work the following Monday. She 
+filled out and submitted numerous employment-related forms after taking the job offer.12  
+ 
+In August 2015, a month after starting at the SJA’s office, Applicant filled out and 
+submitted a questionnaire for non-sensitive positions and a declaration for federal 
+employment.13 She disclosed her employment with the CPO on the questionnaire.14 
+She was asked a number of questions on the federal employment form, including: 
+ 
+12. During the last 5 years, have you been fired from any job for any 
+reason, did you quit after being told that you would be fired, did you leave 
+any job by mutual agreement because of specific problems, or were you 
+debarred from Federal employment by the Office of Personnel 
+Management or any other Federal agency? 
+ 
+Applicant, who genuinely believed her resignation from the CPO was due to the 
+breakdown in her professional relationship with the county prosecutor, not the false 
+allegations in the letter proposing her removal, answered the question “No.”15  
+ 
+After Applicant submitted the federal employment forms, the Office of Personnel 
+Management (OPM) conducted a routine employment check. OPM sent the CPO an 
+investigative request form for employment data (INV Form 41). A CPO human 
+resources (HR) representative filled out the form and indicated that Applicant “resigned 
+after informed of possible discharge.”16 The proposed removal letter, with the false 
+allegation that Applicant improperly accessed law enforcement databases, was sent to 
+the federal government by the CPO.17 
+                                                          
+11 Tr. 20-26, 31-35, 45-52; Exhibits A - D. 
+ 
+12 Tr. 23-24, 29. 
+ 
+13 The record is silent as to whether Applicant submitted the declaration for federal employment in 
+connection with a potential federal civilian service position. DoDI 5200.46, Enclosure 4, ¶ 6.a(1), provides 
+new civilian and contractor applicants denied a CAC a different avenue of appeal.  
+ 
+14 Exhibit 1. 
+ 
+15 Exhibit 2; Tr. 24, 39-40. 
+ 
+16 Exhibit 3; Tr. 34-35. 
+ 
+17 Exhibit 4. Directive, E3.1.20 (such documents are inadmissible upon objection by a party).  
+ 
+5 
+In March 2016, DoD adjudicators issued the SOR based on the information OPM 
+was provided by the CPO. SOR allegations 1.a and 2.a state that Applicant was 
+terminated from her employment with the CPO for abusing the CPO’s e-mail system 
+and sensitive law enforcement databases.  
+ 
+In May 2016, Applicant submitted her Answer to the SOR. With her Answer, 
+Applicant provided an official CPO personnel document, which reflects that she 
+voluntarily resigned from her former position with the CPO. Her resignation was 
+accepted by one of the deputy county prosecutor’s present at the May 2015 meeting 
+and approved by the county prosecutor.18  
+ 
+In April 2016, Applicant contacted the other deputy county prosecutor present at 
+the May 2015 meeting. The deputy, in a text message, confirmed Applicant’s 
+recollection that she (Applicant) resigned from the CPO.19 
+ 
+In June 2016, the county prosecutor and Department Counsel had a 
+conversation. The county prosecutor told Department Counsel that, following a second 
+internal investigation, it was determined that Applicant “did not personally or directly 
+access any other databases or resources, or allow others to use her credentials for 
+such access.” (Exhibit A (emphasis added)). 
+ 
+The county prosecutor sent Department Counsel an e-mail summarizing the 
+substance of their conversation. The CPO forwarded this e-mail to Applicant and it was 
+admitted into the administrative record as Exhibit A. The e-mail is set forth below:  
+ 
+-----Original Message----- 
+From: [New County Prosecutor] 
+Sent: Monday, June 13, 2016 3:31 PM 
+To: 'Petcher, Rhett Mr, DoD OGC' <redacted> 
+Subject: RE: DoD Security Clearance Investigation inquiry 
+ 
+Mr. Petcher, 
+ 
+This email will confirm the substance of my responses to your inquiry by 
+phone today.  First, the only direct access of [CPO] resources and 
+databases by [Applicant] was her use of [CPO] email to conduct personal 
+business for profit.  This was confirmed by [CPO] and HR review of her 
+[CPO] email account.  She did not personally or directly access any other 
+databases or resources, or allow others to use her credentials for such 
+access.  This investigation did not reveal direct access by [Applicant] of 
+any other databases. I hope this helps clarify matters.20 
+                                                          
+18 Tr. 21; Exhibit C (same as Attachment to Answer).  
+ 
+19 Exhibit B. 
+ 
+20 Exhibit A at 1-2. Department Counsel did not object to the exhibits admission on authenticity grounds or 
+raise a claim of privilege. The record is silent as to whether Department Counsel and the county 
+ 
+6 
+In preparation for the hearing, Applicant attempted to gather more information 
+and evidence. The new county prosecutor’s chief of staff confided in Applicant that the 
+proposed removal letter was mistakenly placed in her personnel file and forwarded to 
+the federal government. He promised to contact the county prosecutor to see how they 
+could remedy the situation. Shortly after this conversation, the CPO’s HR office refused 
+to let Applicant see her employment records and her former colleagues and co-workers 
+stopped returning her calls.21 Applicant unequivocally denies deliberately falsifying her 
+declaration for federal employment.22  
+ 
+Policies 
+ 
+As established in HSPD-12, CAC “credentialing adjudication considers whether 
+or not an individual is eligible for long-term access to federally controlled facilities and/or 
+information systems.” Instruction, Enclosure 4, ¶ 1.a. The Instruction recognizes that 
+each CAC case is unique and a fair and impartial overall commonsense decision should 
+examine all available evidence, both favorable and unfavorable.  
+ 
+The “overriding factor” or standard in all CAC adjudications is “unacceptable 
+risk.” Id. This term is specifically defined by the Instruction as follows: 
+ 
+A threat to the life, safety, or health of employees, contractors, vendors, or 
+visitors; to the U.S. Government physical assets or information systems; to 
+personal property; to records, including classified, privileged, proprietary, 
+financial, and medical records; or to the privacy rights established by The 
+Privacy Act of 1974, as amended, or other law that is deemed 
+unacceptable when making risk management determinations.23 
+ 
+Under Directive ¶ E3.1.14, the Government must present evidence to establish 
+controverted facts alleged in the SOR. Under Directive ¶ E3.1.15, the applicant is 
+responsible for presenting “witnesses and other evidence to rebut, explain, extenuate, 
+or mitigate facts admitted by applicant or proven by Department Counsel.”24 An 
+applicant has the ultimate burden of persuasion to obtain CAC eligibility.  
+ 
+Adjudicative factors to be applied consistently in all CAC cases include: (1) the 
+nature and seriousness of the conduct; (2) the circumstances surrounding the conduct; 
+                                                                                                                                                                                           
+prosecutor discussed other key aspects of the case, including whether the new allegation that Applicant 
+purportedly misused CPO information systems to conduct personal business for profit extended beyond 
+the remodeling work she did for the deputy county prosecutor. Compulsory process is not available in 
+DOHA proceedings and neither side called Mr. Petcher as a witness, which would have likely 
+necessitated a different Department Counsel to be detailed to the matter to represent the Government.  
+ 
+21 Tr. 24-25; Attachment to Answer.  
+ 
+22 Tr. 26, 39-40. 
+ 
+23 See Instruction, Glossary. See also CAC Case No. 15-00898 at 2-3 (App. Bd. Dec. 7, 2016) 
+ 
+24 See also CAC Case No. 15-06091 at 3 (App. Bd. Jan. 10, 2017) (Board’s past decisions “interpreting 
+and analyzing” procedural guidance in DoDD 5220.6 should be followed by DOHA judges in CAC cases). 
+ 
+7 
+(3) the recency and frequency of the conduct; (4) the individual’s age and maturity at the 
+time of the conduct; (5) contributing external conditions; and (6) the absence or 
+presence of efforts towards rehabilitation. Instruction, Enclosure 4, ¶ 1.b. Any 
+reasonable doubt concerning an applicant’s CAC eligibility should be resolved in favor 
+of protecting the Government’s vital interests in making certain that only persons that do 
+not pose an unacceptable risk are granted a CAC.  
+ 
+Analysis 
+ 
+Employment Misconduct or Negligence 
+ 
+ SOR 1.a alleges that Applicant’s “employment with the CPO was terminated for 
+abuse of [her] employer’s e-mail system and databases, to include [list of specific 
+sensitive law enforcement databases.]” This allegation raises the CAC credentialing 
+concern set forth in SAS ¶ 1: 
+ 
+A CAC will not be issued to a person if there is a reasonable basis to 
+believe,25 based on the individual’s misconduct or negligence in 
+employment, that issuance of a CAC poses an unacceptable risk. 
+ 
+ The following disqualifying and mitigating conditions were potentially raised by 
+the evidence: 
+ 
+1.b(1): A previous history of intentional wrongdoing on the job, disruptive, 
+violent, or other acts that may pose an unacceptable risk to people, 
+property, or information systems; 
+ 
+1.b(2): A pattern of dishonesty or rule violations in the workplace which 
+put people, property or information at risk; 
+ 
+1.b(4): Violation of written or recorded commitments to protect 
+information made to an employer, such as breach(es) of confidentiality or 
+the release of proprietary or other information; 
+ 
+1.b(5): Failure to comply with rules or regulations for the safeguarding of 
+classified, sensitive, or other protected information; 
+ 
+1.c(1): The behavior happened so long ago, was minor, or happened 
+under such unusual circumstances that it is unlikely to recur and does not 
+cast doubt on the individual’s current trustworthiness or good judgment 
+relating to the safety of people and proper safeguarding of property and 
+information systems; 
+ 
+                                                          
+25 A reasonable basis to believe occurs when a disinterested observer, with knowledge of the same facts 
+and circumstances, would reasonably reach the same conclusion. Instruction, Glossary. 
+ 
+8 
+1.c(2): The individual was not adequately warned that the conduct was 
+unacceptable and could not reasonably be expected to know that the 
+conduct was wrong; and 
+ 
+1.c(4): The individual responded favorably to counseling or remedial 
+training and has since demonstrated a positive attitude toward the 
+discharge of information-handling or security responsibilities. 
+ 
+ None of the disqualifying conditions apply. Applicant refuted the serious claim of 
+employee misconduct alleged in the SOR, namely, that she had abused her position by 
+directly or indirectly improperly accessing sensitive law-enforcement databases. 
+Applicant provided documentation showing that a subsequent CPO investigation 
+substantiated her statements during the May 2015 meeting and her testimony that she 
+did not engage in such serious employee misconduct.26 
+ 
+ Furthermore, Applicant did not resign because of the unfounded allegations of 
+employee misconduct. Rather, she submitted her resignation after realizing that her 
+relationship with the county prosecutor was irreversibly broken due to her support for his 
+former political rival for judicial office and their disagreement over a sensitive case.  
+ 
+ Additionally, in crediting Applicant’s testimony as to the true reasons surrounding 
+her resignation from CPO, I not only took into account her demeanor, but also that she 
+provided substantial documentation corroborating key aspects of her testimony. In 
+short, her testimony was plausible, credible, and consistent with other record evidence. 
+Contrast with, CAC Case No. 15-06091 at 5 (App. Bd. Jan. 10, 2017) (judge erred in 
+relying on applicant’s uncorroborated claims). 
+ 
+ In assessing the credentialing concern at issue, I did consider the information 
+Applicant provided at hearing that tends to substantiate that portion of the allegation that 
+she misused her work email. Specifically, Applicant admits she sent personal emails 
+using her official CPO work email account and purchased furniture online using her 
+CPO-provided computer.27 These past, relatively minor and common everyday 
+(mis)uses of work email and information systems do not, at this point, raise a 
+credentialing concern. Moreover, Applicant has clearly learned her lesson and now 
+                                                          
+26 Department Counsel should be commended for investigating this matter further and thereby generating 
+the exculpatory evidence showing that Applicant did not engage in the serious alleged misconduct. 
+However, the record is silent as to why in the five months between receiving the email from the county 
+prosecutor and the hearing, he did not forward it to Applicant in discovery (Exhibit 5), or offer it during the 
+Government’s case-in-chief, or amend the SOR allegations to remove the inaccurate information. 
+ 
+27 It is unclear from the record whether the county prosecutor’s reference in Exhibit A to Applicant’s 
+purported misuse of CPO information systems to carry on a personal business for profit exceeded the 
+remodeling work she did for her former work friend, the deputy county prosecutor. Assuming arguendo 
+the county prosecutor is now claiming a far more serious form of employee misconduct, I have given this 
+new accusation little weight. It is an uncorroborated accusation that is being raised for the first time over a 
+year after Applicant resigned and from a source who made similar unfounded claims of serious employee 
+misconduct, which was later disproven by his own office. In addition, I have also considered the potential 
+motive to fabricate, as the county prosecutor and his HR office may have violated the agreement under 
+which Applicant submitted her resignation and exposed the CPO’s office to potential civil liability. 
+ 
+9 
+performs her duties, to include handling DoD IT systems, in a responsible fashion. In 
+short, Applicant’s past conduct does not create a reasonable basis to believe that she 
+would put people, property, or information systems at risk. Specifically, I find that the 
+mitigating conditions listed at SAS ¶¶ 1.(c)(1), 1.(c)(2), and 1.(c)(4) apply.28 
+ 
+Misuse of or Failure to Follow Rules Pertaining to Information Systems  
+ 
+ SOR 2.a also alleges that Applicant’s “employment with the CPO was terminated 
+for abuse of [her] employer’s e-mail system and databases, to include [list of specific 
+sensitive law enforcement databases.]” This allegation also raises the CAC 
+credentialing concern set forth in BAS ¶ 6: 
+ 
+A CAC will not be issued to a person if there is a reasonable basis to 
+believe the individual will use federally-controlled information systems 
+unlawfully, make unauthorized modifications to such systems, corrupt or 
+destroy such systems, or engage in inappropriate uses of such systems. 
+ 
+Individuals must comply with rules, procedures, guidelines, or regulations 
+pertaining to information technology systems and properly protect 
+sensitive systems, networks, and information.  The individual should not 
+attempt to use federally-controlled information systems unlawfully, make 
+unauthorized modifications, corrupt or destroy, or engage in inappropriate 
+uses of such systems. A CAC must not be issued to a person if there is a 
+reasonable basis to believe the individual will do so or has done so in the 
+past. 
+ 
+ The following disqualifying and mitigating conditions were potentially raised by 
+the evidence: 
+ 
+6.b.(1): Illegal, unauthorized, or inappropriate use of an information 
+technology system or component; 
+ 
+6.b.(2): Unauthorized modification, destruction, manipulation of 
+information, software, firmware, or hardware to corrupt or destroy 
+information technology systems or data; and 
+ 
+6.c.:  Circumstances relevant to the determination of whether there is a 
+reasonable basis to believe there is an unacceptable risk include that the 
+behavior happened so long ago, was minor, or happened under such 
+unusual circumstances that it is unlikely to recur and does not cast doubt 
+on the individual’s ability and willingness to conform to rules and 
+regulations for use of information technology systems. 
+ 
+                                                          
+28 I also extended favorable consideration to several adjudicative factors in resolving this concern in 
+Applicant’s favor. See Instruction, Enclosure 4, ¶¶ 1.b(1), 1.b(2), 1.b(3), 1.b(5), and 1.b(6). 
+ 
+10 
+ I hereby incorporate my above analysis in resolving SOR 1.a and for the same 
+reasons find for Applicant as to the present allegation. Specifically, I find that Applicant 
+fully established the mitigating condition quoted above.  
+ 
+Falsification, Deception, or Fraud 
+ 
+ SOR 3.a alleges that Applicant “falsified material facts” on her declaration for 
+federal employment by answering “no” to Question 12. The allegation goes on to state 
+that Applicant deliberately “failed to disclose and sought to conceal that [she was] 
+terminated, quit after being told [she] would be fired, or left under mutual agreement 
+because of specific problems” from her employment with the CPO, because of the 
+(false) allegations of employee misconduct listed in the CPO removal letter.29  
+ 
+A CAC will not be issued to a person if there is a reasonable basis to 
+believe, based on the individual’s material, intentional false statement, 
+deception, or fraud in connection with federal or contract employment, that 
+issuance of a CAC poses an unacceptable risk.30  
+ 
+ The following disqualifying and mitigating conditions were potentially raised: 
+ 
+3.a: The individual’s conduct involving questionable judgment, lack of 
+candor, or unwillingness to comply with rules and regulations can raise 
+questions about an individual’s honesty, reliability, trustworthiness, and 
+put people, property, or information systems at risk. 
+ 
+3.b: Therefore, conditions that may be disqualifying include material, 
+intentional falsification, deception or fraud related to answers or 
+information provided during the employment process for the current or a 
+prior federal or contract employment (e.g., on the employment application 
+or other employment, appointment or investigative documents, or during 
+interviews.)31 
+ 
+3.c(1): The misstated or omitted information was so long ago, was minor, 
+or happened under such unusual circumstances that it is unlikely to recur. 
+ 
+3.c(2): The misstatement or omission was unintentional or inadvertent 
+and was followed by a prompt, good-faith effort to correct the situation. 
+ 
+ The crux of the Government’s credentialing concern is that Applicant deliberately 
+falsified her declaration for federal employment by failing to disclose the adverse or 
+                                                          
+29 During closing argument, Department Counsel moved to amend SOR 3.a to add the italicized words 
+above. Applicant opposed the motion, noting that she was unfairly surprised. In light of my favorable 
+findings for Applicant, this legal issue is moot and will not be further discussed.  
+ 
+30 Instruction, Appendix 2 to Enclosure 4, ¶ 3. 
+ 
+31 The SOR only alleges disqualifying condition 3.a. However, in resolving the credentialing concern 
+raised by the allegation, I have also considered disqualifying condition 3.b.  
+ 
+11 
+derogatory circumstances that purportedly led to her to resign from the CPO. The 
+omission of material, adverse information standing alone is not enough to establish that 
+an applicant intentionally falsified a federal form used for CAC credentialing purposes. 
+An omission is not deliberate if the person genuinely forgot the information requested, 
+inadvertently overlooked or misunderstood the question, or sincerely thought the 
+information did not need to be reported. An administrative judge must examine the facts 
+and circumstances surrounding the omission to determine an applicant’s true intent.32 
+ 
+ Applicant submitted her resignation shortly after the May 2015 meeting where 
+she was handed the letter proposing her removal. However, the timing of this 
+occurrence alone is not dispositive in this case, because it was clear to all the 
+participants at the meeting, including the county prosecutor who signed the letter, that 
+the cited basis for Applicant’s proposed removal was untrue. The county prosecutor, 
+five months before Applicant’s CAC hearing, retracted the claims of serious employee 
+misconduct cited in the letter proposing her removal. Thus, Applicant did not resign from 
+the CPO because of the false claims in the removal letter. 
+ 
+ Instead, Applicant, who was an appointed, at-will employee whose continued 
+employment was at the pleasure of the county prosecutor, resigned because her 
+relationship with her boss was irreparably broken. The true triggering event or cause for 
+her resignation was the county prosecutor showing Applicant the emails that she had 
+sent to others making disparaging remarks about his handling of the sexual assault 
+case involving the nine-year-old victim. At that point, a reasonable person in Applicant’s 
+shoes would recognize that the proverbial writing was on the wall and the only way to 
+save her untarnished 19-year career was to resign. She left the CPO with a clear 
+understanding that her former employer would not repeat the false claims of misconduct 
+in the letter proposing her removal or otherwise disparage her stellar record. 
+ 
+ Therefore, Applicant was forced out from the CPO, but not for a reason that 
+would raise a credentialing concern (i.e., serious employee misconduct or misuse of 
+information systems, such as improperly accessing law enforcement databases). Her 
+time at the CPO may not have ended as she would have liked, but the actual 
+circumstances surrounding her resignation do not create a reasonable basis to believe 
+that she would pose an unacceptable risk. Furthermore, when Applicant filled out the 
+declaration for federal employment form, she genuinely believed that all the relevant 
+parties clearly agreed that her resignation from CPO was a voluntary one, and would be 
+considered favorable. This understanding was substantiated by documentation supplied 
+by the Applicant and admitted into the record. See Exhibits A – C. 
+ 
+ After a complete and thorough review of the record evidence and having had an 
+opportunity to closely observe Applicant’s demeanor at hearing, I conclude that she did 
+not deliberately falsify her declaration for federal employment. Her past conduct does 
+not raise questions about her honesty, reliability, and trustworthiness, nor does it raise 
+concerns she would place U.S. personnel, property, or information systems at risk. 
+ 
+                                                          
+32 See generally ISCR Case No. 02-12586 (App. Bd. Jan. 25, 2005). 
+ 
+12 
+Formal Findings 
+ 
+ Formal findings for or against Applicant on the allegations set forth in the SOR, 
+as required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+ 
+Paragraph 1, Employment Misconduct or Negligence:  FOR APPLICANT 
+Subparagraph 1.a:       For Applicant 
+ 
+Paragraph 2, Information Systems:     FOR APPLICANT 
+Subparagraph 2.a:       For Applicant 
+ 
+Paragraph 3, Falsification, Deception, or Fraud:   FOR APPLICANT 
+Subparagraph 3.a:       For Applicant 
+ 
+Conclusion 
+ 
+ In light of all of the circumstances presented by the record in this case, 
+continuing Applicant’s CAC eligibility would not pose an unreasonable risk. CAC 
+eligibility is granted. 
+ 
+ 
+ 
+__________________________ 
+Francisco Mendez 
+     Administrative Judge 

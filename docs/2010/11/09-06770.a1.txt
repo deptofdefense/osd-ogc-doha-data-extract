@@ -1,0 +1,142 @@
+KEYWORD: Guideline F
+DIGEST: A Judge must develop a full and complete record.  Conduct not alleged in the SOR
+may be relevant to evaluating a an applicant’s evidence in extenuation and mitigation and for
+assessing credibility.  Adverse decision affirmed.
+CASENO: 09-06770.a1
+DATE: 11/08/2010
+DATE: November 8, 2010
+In Re:
+-----
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 09-06770
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Braden M. Murphy, Esq., Department Counsel
+FOR APPLICANT
+Spiros D. Komis, Esq.
+1The SOR alleged only one of the two mortgages.  The one alleged was in the amount of $412, 614.77, with
+$39,612 being past due.  The other mortgage was for $715,000.  Although Applicant had been delinquent on this
+mortgage in the past, it was not past due at the time of the SOR.  Government Exhibits 2 and 3, Credit Reports.      
+2In addition to the mortgage debts, Applicant and his friend were also co-signers for a truck loan and a student
+loan.  Tr. at 39, 42.  These latter two loans were alleged in the SOR.  
+2
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On February 19, 2010, DOHA issued a statement of reasons (SOR) advising Applicant
+of the basis for that decision–security concerns raised under Guideline F (Financial Considerations)
+of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On August 10, 2010, after the hearing, Administrative Judge Robert E. Coacher
+denied Applicant’s request for a security clearance.  Applicant appealed pursuant to Directive ¶¶
+E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether Applicant was denied due process;
+whether the Judge was biased against Applicant; and whether the Judge’s adverse security clearance
+decision was arbitrary, capricious, or contrary to law.  Consistent with the following discussion, we
+affirm the decision of the Judge.
+The Judge made the following pertinent findings of fact: Applicant is an employee of a
+Defense contractor, his salary being $90,000 a year.  He has worked for his employer since
+November 2009.  He holds a bachelor’s degree in computer science.
+In 2007, Applicant and a college friend attempted to engage in the real estate business.  They
+bought a house in one state and built a house in another state.  Their plan to sell them foundered
+during the real estate downturn.  Applicant and his friend still co-own these houses. 
+ 
+Applicant was unemployed from May 2008 until February 2009, during which time he
+became delinquent on the two mortgages and on other debts.  Applicant received loan modifications
+for these mortgages.  As of the close of the record, Applicant had made one payment pursuant to this
+modification plan.  Both houses are currently rented, which provides Applicant with additional
+income.  
+In addition to the mortgage debt,1 the SOR alleged delinquent debts for cable services,
+student loans, telephone services, etc.  The SOR also alleged a debt owed to a company that made
+mortgage payments for Applicant while he was unable to make payments himself.  In addition, he
+owes other non-SOR debts–a credit card account in the amount of $40,000 and another student loan
+of $100,000.2
+Applicant has not received credit counseling.  A manager at his place of employment credits
+him with good character and with having a “positive work ethic.”  Decision at 4.  
+Due Process Issue
+3Failure of a Judge to develop a complete record by unreasonably limiting the evidence to that necessary to
+establish a factual basis for the SOR allegations would work a real disadvantage to applicants.  Such a record might well
+leave significant doubt about an applicant’s security worthiness, which would have to be resolved against the applicant.
+See Directive, Enclosure 2 ¶ 2(b): “Any doubt concerning personnel being considered for access to classified information
+will be resolved in favor of national security.”  (emphasis added)  
+4See Tr. at 39, in which Applicant discusses his friend’s financial circumstances: “[Friend’s] line of business
+is–he’s a contractor.  And so, some months . . . he gets a big check, some months he doesn’t.  So every once in a while
+. . . he’ll miss a payment.”  See also Tr. at 42: “[H]e’s in the contracting business.  Some months are good, some months
+are bad.”  
+3
+Applicant contends that he was denied due process.  Specifically, he claims that the Judge
+erred by considering “inadmissible extrinsic evidence that included matters far beyond the scope of
+the SOR.”  Brief at 5.  Applicant cites to evidence of the mortgage debt not alleged in the SOR, as
+well as questions by Department Counsel regarding the number of credit cards Applicant owns; what
+kind of car he drives and any payments he makes on the car; and whether his bank account has a
+significant amount of money in it.  Applicant challenges more general questions by Department
+Counsel, such as the following: “You’ve got a lot of debt to a lot of people.  Is that a fair statement?”
+He contends that the Judge erred by personally inquiring about both of the rental houses and about
+the extent to which Applicant is dependent on rental income.  Applicant contends that he was denied
+fair notice of these matters and, therefore, was precluded from adequately preparing his case.
+Applicant notes that he represented himself at the hearing.  
+A Judge must develop a full and complete record.  Directive ¶ E3.1.19.  A complete record
+is one that permits the Judge to make a reasoned decision on an applicant’s security concerns, in
+light of the whole-person factors set forth in Directive, Enclosure 2 ¶ 2.  Such a decision must take
+into account not only the conduct specifically alleged in the SOR, but it must also evaluate an
+applicant’s case for mitigation of the security concerns which the allegations may raise.  To that end,
+conduct not alleged may be relevant to evaluating an applicant’s evidence for extenuation or
+mitigation and for assessing his credibility.  See, e.g., ISCR Case No. 02-07218 at 3-4 (App. Bd.
+Mar. 15, 2004).3  Furthermore, an SOR is an administrative pleading that is not required to satisfy
+the strict requirements of a criminal indictment, and it does not have to allege every fact that may
+be relevant at the hearing.  It does not have to identify specific evidence that Department Counsel
+will rely on at the hearing.  See, e.g., ISCR Case No. 04-08806 at 3 (App. Bd. May 8, 2007).  
+In this case, we have considered Applicant’s argument concerning the accounts, conduct, and
+circumstances which the Judge considered even though they were not cited in the SOR.  To take one
+as an example, we find no error in the Judge’s consideration of the mortgage debt not alleged in the
+SOR.  In the first place, evidence of this debt was contained in Government Exhibits which were
+provided to Applicant well in advance of the hearing, thereby vitiating Applicant’s contention that
+he was surprised that this evidence was admitted and considered.  Tr. at 12.  Furthermore, evidence
+of this other mortgage, which, like the one alleged, is co-owned by Applicant and his friend, is
+relevant to an understanding of the extent to which Applicant’s financial problems are “under
+control,” which is a mitigating factor.  Directive, Enclosure 2 ¶ 20(c).  Indeed, that Applicant is co-
+owner of several debts with his friend, whose own income is not steady,4 is relevant as to the extent
+4
+that Applicant’s financial difficulties are likely to recur, another mitigating factor.  See Directive,
+Enclosure 2 ¶ 20(a).  
+Similarly, the other pieces of challenged evidence are relevant to Applicant’s case for
+mitigation, which is the context in which the Judge’s decision addressed them.  Accordingly, we find
+no error in the Judge’s rulings on admissibility.  In any event, Applicant never objected to the
+challenged evidence, thereby waiving the issue.  “Although pro se applicants cannot be expected
+to act like lawyers, they are expected to take timely, reasonable steps to protect their rights under
+the Directive.”  ISCR Case No. 09-01074 at 2 (App. Bd. Oct. 16, 2009).   Applicant was not denied
+the due process rights afforded by the Directive.  
+Applicant’s treatment of the due process issue cites to questions asked of Applicant by the
+Judge himself, thereby raising an issue of bias.  However, after examining the entire transcript in
+light of the record evidence as a whole, we find no basis to conclude that the Judge divested himself
+of the impartiality which the Directive requires.  Applicant has not rebutted the presumption that the
+Judge was unbiased.  See, e.g., ISCR Case No. 08-01306 at 4 (App. Bd. Oct. 28, 2009). 
+The record supports a conclusion that the Judge examined the relevant data and articulated
+a satisfactory explanation for the decision, “including a ‘rational connection between the facts found
+and the choice made.’”  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins.
+Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168
+(1962)).  The Judge’s adverse decision is sustainable on this record.  “The general standard is that
+a clearance may be granted only when ‘clearly consistent with the interests of the national security.’”
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988). 
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.  
+Signed: Jean E. Smallin                
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: William S. Fields               
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+5
+Signed: James E. Moody                   
+James E. Moody
+Administrative Judge
+Member, Appeal Board

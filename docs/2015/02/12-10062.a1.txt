@@ -1,0 +1,123 @@
+KEYWORD: Guideline F
+DIGEST: There is no presumption of error below.  The appealing party has the burden of
+demonstrating error.  Adverse decision affirmed.
+CASENO: 12-10062.a1
+DATE: 02/26/2015
+DATE: February 26, 2015
+In Re:
+------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 12-10062
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security  clearance.  On
+April 3, 2014, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+2
+decision—security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.
+On December 10, 2014, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Rita C. O’Brien denied Applicant’s request for a security clearance.  Applicant
+timely appealed pursuant to the Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raises the following issue on appeal: whether the Judge made an inaccurate finding
+of fact based on a misinterpretation of a document submitted by Applicant.  For the following
+reasons, the Board affirms the Judge’s unfavorable decision. 
+The Judge made the following findings of fact: Applicant is 36 years old.  Applicant did not
+timely file federal income tax returns for 2004 through 2012 or state tax returns for 2005 through
+2010.  While living and working overseas between 2004 and 2009, coworkers told him that his
+income was not taxable because he was working outside the United States.  Applicant also believed
+that he was due refunds for the tax years in question, so he did not file returns while outside the
+country.  Applicant had not claimed the appropriate filing status for his income level, which resulted
+in his owing taxes to the IRS and to his state of residence.  In 2011, the IRS filed a tax lien against
+Applicant for the tax years 2004 through 2007.  The lien was for $42,248, and was ultimately
+released in May 2013.  By the time of his security interview in 2012, Applicant had filed his 2004
+and 2008 tax returns as he was planning to file his outstanding delinquent returns one every other
+week.  He planned to pay any penalties he owed, and to have all his back taxes resolved by August
+2012.  Returns were filed, but as of April 2012, he still owed the IRS $30,000.  In August 2014,
+Applicant and the IRS agreed on a payment plan of $450 per month.  Applicant has paid his state
+taxes for tax years 2008, 2009, and 2010.  As of September 2014, he owed $383 in delinquent state
+taxes for tax year 2011 and $219 for tax year 2012.  
+Applicant’s net monthly income is $7, 237.  This includes income of his wife.  His monthly
+expenditures, which include the $450 IRS payment and a $50 per month payment for back state
+taxes, is $7,309.  This results in a negative monthly cash flow of $74.
+The Judge reached the following conclusions: Applicant’s failure to file income tax returns
+is not recent, however, it is frequent because it involved returns for numerous years.  The fact that
+Applicant did little during a period of six years to investigate the validity of information from
+coworkers about his tax obligations casts doubt on his reliability and judgment.  He has paid back
+state taxes for four years, and is making payments on his federal and remaining state tax
+delinquencies.  However, his current financial statement shows a negative monthly remainder.
+Applicant’s ability to maintain his payment plans is unclear.  Applicant cannot receive full credit
+for a good-faith effort to meet his tax obligations.  He did not file his first delinquent tax return until
+two years after he returned to the United States and after the IRS filed a tax lien against him.
+Although he has begun payment plans with the IRS and the state, he did not begin them until 2014.
+With his cash deficit each month, it is unclear if Applicant will be able to maintain his payment
+plans.  He has not mitigated the security concerns raised by the financial considerations guideline.
+1In fact, this interpretation is bolstered significantly by Applicant’s hearing testimony wherein he stated that
+he paid $1,600 a month in child support, $1,126 of which was automatically deducted from his bank account and was
+supplemented by an additional payment by him of $500 per month  (Tr. at 87).  
+3
+ Applicant asserts that the Judge was incorrect in finding that he runs a negative balance on
+his monthly cash flow, and that this incorrect finding was instrumental in the Judge’s ultimate
+conclusion that it was not clearly consistent with the interests of national security to grant him a
+clearance.  At issue is the Judge’s evaluation and interpretation of Applicant’s Exhibit J, a document
+showing the monthly household expenses for Applicant and his wife.  The document shows a
+monthly entry for child support expenses in the amount of $1,693.  There is an asterisk placed next
+to this amount by Applicant and the asterisk relates to a note at the bottom of the expense list that
+reads, “Child support amount $1,193 automatically paid.”  Applicant maintains that the variance in
+the two figures constitutes a discrepancy resulting from an typographical error wherein he
+mistakenly listed his monthly child support payments as $1,693.  He states that $1,193 is the correct
+amount, and the Judge’s finding that he had a negative monthly cash flow of $74 was based on her
+reliance on the incorrect $1,693 figure when making findings.  Applicant states that the Judge’s
+decision was based on her erroneous conclusion that, with a negative monthly cash flow, Applicant’s
+prospects for paying off his delinquent tax debts in the future were limited.  Applicant has not
+demonstrated error on the part of the Judge.
+There is no presumption of error below, and the appealing party has the burden of
+demonstrating such error.  See, e.g., ISCR Case No. 00-0339 at 2 (App. Bd. Mar. 22, 2001).
+Applicant has failed to establish that the Judge’s reliance on the $1,693 figure when calculating
+Applicant’s monthly expenses was error.  The language contained in the asterisk note is vague, but
+a reasonable interpretation of the language in the note at the bottom of Applicant’s Exhibit J is that
+$1,193 of Applicant’s expenses for child support were deducted from his pay, or “automatically
+paid.” and the balance was paid through affirmative action by Applicant.1  There would appear to
+be no other reason for including the asterisk and the note and relating them to the $1,693 figure.
+There is nothing to suggest that the $1,193 figure was a typographical error.  Applicant also claims
+that a daycare expense figure of $550 as listed on Exhibit J was in error, and the proper figure should
+be $312.  The Judge did not commit error if she relied on representations made by Applicant that
+he now claims were made mistakenly.  The assertion that $312 is the correct day care figure
+constitutes new evidence, which the Board cannot consider.  Directive ¶ E3.29.1.  
+Even if Applicant could establish that the larger child support figure used by the Judge was
+error, a review of the Judge’s decision convinces the Board that Applicant’s negative cash flow was
+not the principal factor in the Judge’s analysis.
+The Board does not review a case de novo.   After reviewing the record, the Board concludes
+that the Judge examined the relevant data and articulated a satisfactory explanation for her decision,
+“including a ‘rational connection between the facts found and the choice made.’” Motor Vehicle
+Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983) (quoting
+Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The general standard is
+that a clearance may be granted only when ‘clearly consistent with the interests of the national
+4
+security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  Therefore, the Judge’s
+ultimate unfavorable security clearance decision is sustainable.
+Order
+The Judge’s decision is AFFIRMED.
+Signed: Michael Ra’anan            
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett               
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board

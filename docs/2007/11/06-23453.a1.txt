@@ -1,0 +1,187 @@
+KEYWORD: Guideline B
+DIGEST: The precedential value of Board decisions is affected to the extent those decision
+involve interpretation of a provision of the Directive that is later revised or changed.  Statements
+by the Board in earlier decisions that are predicated on then-existing language in the Directive
+cannot be simply assumed-by a Judge or a party- to be applicable in later cases after the pertinent
+provision(s) of the Directive have been revised or changed.  Adverse decision remanded.
+CASENO: 06-23454.a1
+DATE: 11/14/2007
+DATE: November 14, 2007
+In Re:
+------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 06-23453
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B Norman, Esq., Chief Department Counsel, Department Counsel
+FOR APPLICANT
+Pro Se
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On December 19, 2006, DOHA issued a statement of reasons (SOR) advising Applicant
+of the basis for that decision–trustworthiness concerns raised under Guideline B (Foreign Influence)
+2
+of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On July 18, 2007, after considering the record, Administrative Judge
+Christopher Graham denied Applicant’s request for a security clearance.  Applicant filed a timely
+appeal pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge’s application of the
+relevant mitigating conditions is arbitrary, capricious, and contrary to law; and whether the Judge’s
+whole person analysis is arbitrary, capricious, and contrary to law.  Finding error, we remand the
+decision to the Judge.
+Whether the Record Supports the Judge’s Factual Findings
+A.  The Judge made the following pertinent findings of fact: 
+Applicant immigrated to the U.S. as a child, becoming a U.S. citizen in 2000.  Applicant’s
+father is a citizen and resident of China (PRC).  Applicant’s mother is also a citizen of the PRC,
+living with Applicant’s sister in the U.S.  Applicant’s parents-in-law are PRC citizens, living with
+Applicant and her husband in the U.S.  About once a month, Applicant’s mother-in-law telephones
+some of her relatives in the PRC.  
+The PRC has a poor human rights record.  It engages in espionage against the U.S.,
+attempting to identify ethnic Chinese who have access to sensitive information and sometimes
+succeeding in obtaining their cooperation in illegal technology or information transfers.  
+B. Discussion
+The Appeal Board’s review of the Administrative Judge’s findings of fact is limited to
+determining if they are supported by substantial record evidence–“such relevant evidence as a
+reasonable mind might accept as adequate to support such a conclusion in light of all the contrary
+evidence in the record.”  Directive ¶ E3. 1.32.1.  “This is something less than the weight of the
+evidence, and the possibility of drawing two inconsistent conclusions from the evidence does not
+prevent an administrative agency’s finding from being supported by substantial evidence.”  Consolo
+v. Federal Maritime Comm’n, 383 U.S. 607, 620-21 (1966).  In evaluating the Administrative
+Judge’s findings, we are required to give deference to the Administrative Judge’s credibility
+determinations.  Directive ¶ E3.1.32.1.
+Applicant has not challenged the Administrative Judge’s factual findings.  Rather, Applicant
+claims error regarding the Judge’s conclusions, more specifically, his approach to the various
+mitigating factors provided under Guideline B.  Therefore, the Board will address the arguments
+raised on appeal by Applicant in the context of determining whether the record supports the Judge’s
+ultimate conclusions. 
+Whether the Record Supports the Judge’s Ultimate Conclusions
+An Administrative Judge is required to “examine the relevant data and articulate a
+satisfactory explanation for” the decision, “including a ‘rational connection between the facts found
+and the choice made.’” Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto Ins.
+Co., 463 U.S. 29, 43 (1983) (quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156,
+“[T]he nature of the relationships with foreign persons, the country in which these persons are located, or the1
+positions or activities of those persons in that country are such that it is unlikely the individual will be placed in a position
+of having to choose between the interests of a foreign individual, group, organization, or government and the interests
+of the United States.”
+“[T]here is no conflict of interest, either because the individual’s sense of loyalty or obligation to the foreign2
+person, group, government, or country is so minimal, or the individual has such deep and longstanding relationships and
+loyalties in the U.S., that the individual can be expected to resolve any conflict of interest in favor of the U.S. interest.”
+3
+168 (1962)).  The Appeal Board may reverse the Administrative Judge’s decision to grant, deny, or
+revoke a security clearance if it is arbitrary, capricious, or contrary to law.  Directive ¶ E3.1.32.3. We
+review matters of law de novo.
+An important preliminary matter in this case involves the version of DoD Directive 5220.6
+that was in effect at the time the case went to hearing.  As noted in a preceding paragraph, the SOR
+in this case issued on December 19, 2006.  The current version of DoD Directive 5220.6, which
+contains the Revised Adjudicative Guidelines implemented for the Department of Defense by the
+Undersecretary of Defense for Intelligence on August 30, 2006, were made effective for any
+adjudication in which a Statement of Reasons issued on or after September 1, 2006.  Thus, the
+current Adjudicative Guidelines apply to this case.
+The Judge concluded that Applicant’s PRC relatives could be a means through which
+Applicant could come to the attention of the PRC government and, therefore, could become a means
+through which Applicant could be pressured to compromise classified information.  The Judge
+concluded that, given the record evidence, Applicant had not met her burden of persuasion that it is
+“‘clearly consistent with the interests of national security’” for her to have a clearance.  More
+specifically, the Judge stated that none of the mitigating conditions listed under paragraph 8 of the
+Adjudicative Guidelines (which comprise the mitigating conditions under Guideline B) applied to
+the case.  The Judge went on to state: “Under the previous guidelines, the Appeal Board interpreted
+similar language to ¶ 8 (a)  (footnote added) as establishing an absolute standard; i.e., an applicant1
+must affirmatively prove that there is no possibility that anyone might attempt to exploit or influence
+a foreign relative or acquaintance in the future.”  This statement was accompanied by a supporting
+footnote containing citations to Appeal Board cases decided under the version of DoD Directive
+5220.6 that was in effect prior to September 1, 2006.  Although the Judge discussed other factors in
+his conclusions, the statement comprises a significant portion of the Judge’s analysis in this case on
+the issue of whether or not the mitigating conditions listed under paragraph 8 of the Revised
+Guidelines applied to Applicant’s situation. 
+On appeal, Applicant makes a number of assertions regarding the Judge’s conclusion that
+none of the Guideline B mitigating conditions applied.  One such argument is particularly germane
+to the Board’s resolution of this case.  Applicant claims the Judge disregarded the possible
+application of Guideline B Mitigating Condition 8(b)  when deciding his case.  Her argument has2
+merit.  While the Judge’s decision states in its own terms that he considered Mitigating Condition
+8(b), because he relied, in part, on language and cases emanating from Adjudicative Guidelines that
+are no longer in force, the Judge erred by effectively precluding consideration of Applicant’s case
+under both current Mitigating Conditions 8(a) and 8(b).  As the Board can determine an appropriate
+disposition of this case on this issue alone, it need not address other arguments raised by Applicant
+on appeal.
+“A determination that the immediate family member(s), (spouse, father, mother, sons, daughters, brothers,3
+sisters), cohabitant, or associate(s) in question are not agents of a foreign power or in a position to be exploited by a
+foreign power in a way that could force the individual to choose between loyalty to the person(s) involved and the United
+States.” 
+4
+     
+The validity of Appeal Board precedent issued under earlier editions of the Adjudicative
+Guidelines is an issue in this case.  The Board has previously held “. . . a Judge cannot rely on
+language from an earlier version of the Directive to justify the Judge’s decision and that an
+applicant’s security eligibility must be adjudicated under current DoD policies and standards, not
+past ones. Similarly, the precedential value of Board decisions is affected to the extent those
+decisions involve the interpretation of a provision of the Directive that is later revised or changed.
+Statements made by the Board in earlier decisions that are predicated on then-existing language in
+the Directive cannot be simply assumed —by a Judge or a party— to be applicable in later cases after
+the pertinent provision(s) of the Directive have been revised or changed.” See ISCR Case No. 02-
+17369 at 3-4 (App. Bd. May 23, 2006); and ISCR Case No. 02-24254 at 7-8 (App. Bd. Jun 29, 2004)
+(footnotes omitted).  Of course, some precedent remains completely valid in the face of changes to
+the guidelines, because it is not dependent on the language of any specific guideline.  Other
+precedent remains valid where the applicable language of the guideline is unchanged or the changes
+are not of sufficient magnitude to vitiate or overrule  the substance of the precedent.  However,
+Board decisions cannot be relied on or followed to the extent they involve precedent predicated on
+law or DoD policy that changed after the issuance of those decisions. Quasi-judicial adjudications
+must be made within the bounds of applicable law and agency policy, not without regard to them.
+See, e.g., Croplife America v. Environmental Protection Agency, 329 F.3d 876, 882 (D.C. Cir. 2003)
+(administrative law judges cannot ignore agency policy in making rulings); Nash v. Bowen, 869 F.2d
+675, 680 (2d Cir. 1989)(administrative law judge is subordinate to head of agency or department in
+matters of policy); Mullen v. Bowen, 800 F.2d 535, 540 n. 5 (6th Cir. 1986) (decisional independence
+does not relieve administrative law judge of the obligation to apply agency policy).  See  ISCR Case
+No. 02-00305 at  3 (App. Bd. Feb. 12, 2003)(security clearance decisions must be based on current
+DoD policy and standards). Accordingly, no Board decision should be construed or interpreted
+without regard to the law and DoD policy applicable at the time the Board decision was issued.
+Regarding Guideline B, the Revised Adjudicative Guidelines that took effect on September
+1, 2006 brought with them significant changes in the language of both the disqualifying and the
+mitigating conditions.  In this case, the Judge’s use of the word “similar” to describe the relationship
+between the language of the old Guideline B Mitigating Condition 1  and the current Mitigating3
+Condition 8(a) is clearly erroneous.  While the basic concepts underlying the prior and the current
+mitigating conditions are related, a comparison of the language between the two reveals considerable
+differences.  Not the least of these is the appearance of the qualifying term “unlikely” in the current
+version, whereas the earlier mitigating Condition 1 contained no such proviso.  In the face of these
+differences, it was error for the Judge to assume that the viability of the Board’s prior interpretation
+of the language of the earlier Mitigating Condition 1 has continued, with unaltered effect, in the face
+of the new language of Mitigating Condition 8(a).  Additionally, Mitigating Condition 8(b) under
+the current Guidelines, the application of which is of particular interest to Applicant on appeal, has
+no counterpart under the previous Guidelines, and it can act to provide mitigation in appropriate
+cases even when the provisions of Mitigating Condition 8(a) are not satisfied.  By largely relying
+upon his perception of the Board’s interpretation of the language of prior Mitigating Condition 1,
+5
+and his treatment of that interpretation as dispositive, the Judge effectively precluded proper
+consideration of the Applicant’s case under current Mitigating Condition 8(b).  
+In addition to the matters discussed in the previous paragraph, the Judge’s preoccupation with
+such terms as “immediate family members” and “agents of a foreign power” in other parts of his
+conclusions section leave little doubt that his analysis of the case was substantially rooted in a
+consideration of the language of prior Adjudicative Guidelines and his understanding of precedent
+developed thereunder, rather than the current Guidelines.  While there are parts of his analysis of the
+case that do not suffer from this infirmity, the Board concludes that there is a strong possibility that
+the Judge’s error precluded an adjudication under the current guidelines.  Therefore, the case is
+remanded to the Judge for the issuing of a new decision in accordance with the matters discussed by
+the Board herein. 
+6
+         
+Order
+The Judge’s adverse security clearance decision is REMANDED.
+Signed: Michael Y. Ra’anan    
+Michael Y. Ra’anan
+Administrative Judge
+Chairman, Appeal Board
+Signed: Jeffrey D. Billett         
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody           
+James E. Moody
+Administrative Judge
+Member, Appeal Board

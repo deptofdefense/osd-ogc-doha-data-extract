@@ -1,0 +1,206 @@
+KEYWORD: Guideline D; Guideline E; Guideline J
+DIGEST: In administrative proceedings, hearsay is admissible and can constitute substantial
+evidence.  DOHA proceedings are administrative in nature, and they are not conducted with a
+strict application of evidentiary rules required in criminal cases, although DOHA relies upon the
+Federal Rules of Evidence (FRE) as a guide in its hearings.  Directive ¶ E3.1.19.  Public records
+admissible under FRE 803(8), such as court records and police reports, are presumed to be
+reliable by virtue of the government agency’s duty for accuracy and the high probability that it
+has satisfied that duty.  Adverse decision affirmed.
+CASENO: 16-03603.a1
+DATE: 05/29/2019
+DATE: May 29, 2019
+)
+In Re: )
+)
+------------------------- ) ISCR Case No. 16-03603
+ )
+)
+Applicant for Security Clearance )
+)
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Mark A. Myers, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On June
+8, 2018, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision—security concerns raised under Guideline J (Criminal Conduct), Guideline E (Personal
+Conduct), and Guideline D (Sexual Behavior) of Department of Defense Directive 5220.6 (Jan. 2,
+1992, as amended) (Directive).  Applicant requested a hearing.  On March 12, 2019, after the
+hearing, Defense Office of Hearings and Appeals (DOHA) Administrative Judge Elizabeth M.
+Matchinski denied Applicant’s request for a security clearance.  Applicant appealed pursuant to
+Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in her findings of
+fact and whether the Judge’s adverse decision was arbitrary, capricious, or contrary to law. 
+Consistent with the following, we affirm.
+The Judge’s Findings of Fact  
+Applicant is 40 years old.  He has been working for his current employer since 2004 and was
+granted a security clearance in 2005.  His security clearance was suspended in 2013 following his
+arrest on sexual assault charges involving his stepdaughter.  He married in 2006, separated from his
+wife following the arrest, and divorced in 2017.
+Under Guideline J, the SOR alleged that Applicant was arrested in early 2013 on three counts
+of rape of a child and one count of witness intimidation (SOR ¶ 1.a) and that he was indicted later
+in 2013 on four counts of aggravated rape of a child, six counts of indecent assault and battery on
+a child under age 14, one count of assault and battery with intent to rape, and one count of assault
+and battery by means of a dangerous weapon (SOR ¶ 1.b).  The allegations in SOR ¶¶ 1.a and 1.b
+are duplicative.  Both of those allegations were cross-alleged under Guidelines D and E.  Under
+Guideline E, the SOR also alleged that Applicant failed to report his arrest to his facility security
+officer (FSO) in a timely manner and that he lied on his security clearance application (SCA) and
+during his background interview in 2015 by stating he was falsely accused of the criminal
+allegations.1  
+In 2013, Applicant’s then 12-year-old stepdaughter told her mother that Applicant had
+sexually assaulted her on multiple occasions.  She described the incidents and indicated that
+Applicant threatened to beat her with a belt if she told anyone of the assaults.  The police were
+notified and arrested Applicant, who remained in custody for a week.  The police record reveals that
+the stepdaughter had also told a 13-year-old friend of the assaults.  
+Applicant notified his security office of the arrest and charges about four months following
+the arrest and about three weeks after the indictment.  The security office submitted an adverse
+1 In responding to the SOR, Applicant admitted that he was arrested and indicted on the alleged charges but
+claimed those charges were based on false accusations.  He admitted that he did not report his arrest to his FSO in a
+timely manner and denied the two falsification allegations. 
+2
+information report that indicated Applicant did not report the exact charges and also stated that he
+did not report the matter sooner because he was scared. At the security clearance hearing, he
+indicated that he understood he was required to report the arrest when it happened but attributed the
+delay to being stressed and being focused on taking care of his family. 
+Applicant pled not guilty to the charges.  The State filed with the court a Statement of the
+Case that summarized the facts, which indicated the alleged conduct progressed from initially
+fondling the stepdaughter when she was nine years old to eventually rape.  The attorney who
+represented Applicant in the criminal proceeding indicated that Applicant rejected plea bargain
+offers, and there was no scientific evidence linking Applicant to the crimes.  In early 2015, the State
+moved to nolle prosequi the charges because it did not believe that it could meet its burden of proof
+beyond a reasonable doubt at trial.  “In addition, the state did not believe it was in the victim’s best
+interest to proceed at that time.”  Decision at 4, citing Government Exhibit (GE) 5.  
+In his 2015 security clearance application (SCA), Applicant reported that he was falsely
+accused of the sexual assault charges.  In a 2016 background interview, he denied ever touching
+children inappropriately and indicated that the charges against him were false.  When asked about
+the delay in reporting his arrest during the interview, he indicated he was trying to get his personal
+life in order.  
+In responding to interrogatories, Applicant indicated that he has a healthy co-parenting plan
+with his ex-wife.  At the hearing, he stated that he has unsupervised weekly contact with his two
+children.  He has no visitation rights with the stepdaughter.  He provided no reason for why his
+stepdaughter would falsely accuse him.  He provided annual performance evaluations that praise his
+work performance.  
+The Judge’s Analysis
+“The indictment indicates the grand jury believed Applicant committed felonious sexual
+assaults on his stepdaughter between 2009 and . . . [2013] and that he threatened to assault her if she
+told anyone about the assaults. . . .  The evidentiary standard for a grand jury indictment is probable
+cause to believe the defendant committed the offense. . . .  In the state at issue, probable cause
+requires more than mere suspicion but something less than evidence sufficient to warrant a
+conviction.”  Decision at 8.  “The Government’s evidence includes police reports containing
+contemporaneous summaries of interviews of Applicant’s ex-wife and close friend of Applicant’s
+stepdaughter about the sexual assaults as detailed to them by Applicant’s stepdaughter. . . .  There
+is no apparent motive for either of them to have made false statements to the police about what they
+were told.”  Id.  “There is no statement in evidence from Applicant’s stepdaughter, but the grand jury
+indictment and the statements to the police from her mother and friend constitute probative, reliable
+3
+evidence that may be considered in these proceedings, and together raise security concerns under
+[Adjudicative Guideline] ¶ 31(b).”2  Id. at 9. 
+The decision of the prosecutor to dismiss the charges was based on the best interests of the
+stepdaughter and because the State did not think it could prove the charges beyond a reasonable
+doubt.  That decision is not a finding of no culpability.  
+Applicant demonstrated a lack of candor about the criminal charges during his security
+clearance adjudication, which diminishes the credibility of his denials of committing the alleged sex
+crimes.   He under-reported the extent of the criminal charges against him to his security office, on
+his 2015 SCA, and during his background interview.  “His denials of any inappropriate behavior
+with his stepdaughter lack credibility.”  Decision at 10.   
+Applicant did not comply with his obligation to report his arrest to security officials in a
+timely manner.  Sufficient evidence exists to conclude that Applicant lied when he claimed he was
+falsely accused of the criminal sex offenses in his SCA and background interview.  His minimization
+of his charges on those occasions, which was not specifically alleged and cannot be considered as
+a disqualifying factor, shows a lack of reform and reliability.  Although more than five years have
+passed since the sex crimes, he has not yet shown he can be counted on to comply with reporting
+requirements.  The Judge found in favor of Applicant on one Guideline J allegation (SOR ¶ 1.a) and
+against him on the remaining allegations.
+Discussion
+Regarding the criminal conduct allegations, Applicant’s Counsel contends that the entire case
+against his client is based on hearsay.  Applicant’s Counsel notes the record neither contains a
+statement from the stepdaughter about the alleged sexual assaults nor a report of a physical
+examination performed on her.  He argues that the record lacks credible and substantive evidence
+and the burden of production was improperly shifted to him during the proceeding.  He further
+asserts that the Judge’s findings based solely on hearsay do not comport with the Directive.  These 
+arguments are not persuasive.  In administrative proceedings, hearsay is admissible and can
+constitute substantial evidence.  See, e.g., Crawford v. Dept. of Agriculture, 50 F. 3d 46, 49 (D.C.
+Cir. 1995); Bustos-Torres v. INS, 898 F.2d 1053, 1056 (5th Cir. 1990); Willingham v. Gonzales, 391
+F. Supp. 2d 52, 64 (Dist. Ct. D.C., 2005), quoting Hoska v. Army, 677 F.2d 131, 138 (D.C. Cir.
+1982).  DOHA proceedings are administrative in nature, and they are not conducted with a strict
+application of evidentiary rules required in criminal cases, although DOHA relies upon the Federal
+Rules of Evidence (FRE) as a guide in its hearings.  Directive ¶ E3.1.19.  See, e.g., ISCR Case No.
+11-12461 at 4 (App. Bd. Mar. 14, 2013).  Public records admissible under FRE 803(8), such as court
+records and police reports, are presumed to be reliable by virtue of the government agency’s duty for
+2 Directive, Encl. 2, App. A ¶ 31(b) states, “evidence (including, but not limited to, a credible allegation, an
+admission, and matters of official record) of criminal conduct, regardless of whether the individual was formally charged,
+prosecuted, or convicted[.]”
+4
+accuracy and the high probability that it has satisfied that duty.3  See, e.g., ISCR Case No. 11-07509
+5, n.3 (App. Bd. Jun. 25, 2013), citing United States v. Carter, 591 F.3d 656, 659 (D.C. Cir. 2010). 
+In this case, we find no error in the Judge’s reliance on hearsay documents in making her findings
+of fact or in reaching her conclusions.   
+Applicant Counsel also contends that Judge erred in her consideration of the State’s decision
+to nolle prosequi the charges.  In this regard, we note that the dropping or dismissal of criminal
+charges does not preclude the Judge from finding an applicant engaged in the conduct underlying
+those charges or from evaluating the applicant’s security eligibility.  See, e.g., ISCR Case No. 17-
+00506 at 3 (App. Bd. Aug. 7, 2018) and ISCR Case No. 14-01763 at 3-4 (App. Bd. Nov. 3, 2015). 
+In his argument, Applicant Counsel states, “There is simply no evidence in this record to support the
+determination that the State’s decision not to prosecute was due to considerations of ‘best interests’
+of the alleged victim.”  Appeal Brief at 10.  On the other hand, he also notes that the State’s nolle
+prosequi court filing, which was signed by the Assistant District Attorney, states, “we do not believe
+it is in the victim’s best interest to proceed at this time.”  GE 5 at 3.  He argues, “While seemingly
+splitting hairs, it is submitted that the wording is critical in that the inference is that the testimony
+of the alleged victim would not hold up against zealous cross examination; [p]erhaps due to multiple
+version[s] of events.”  In support of his claimed reasons for the dismissal of the charges, Applicant’s
+Counsel cites to GE 2 and 5.  However, neither of those documents nor any other record evidence
+supports the contention of Applicant’s Counsel that the charges were dropped “due to  [the victim’s]
+multiple versions of events” or because the “victim would not hold up against zealous cross-
+examination.”4  From our review of the record, the Judge’s findings regarding the State’s decision
+to dismiss the charges are based on substantial evidence or constitute reasonable inferences that
+could be drawn from the evidence.  See, e.g., ISCR Case No. 12-03420 at 3 (App. Bd. Jul. 25, 2014). 
+Applicant Counsel further challenges the Judge’s reliance on the indictments as proof that
+he engaged in criminal conduct and argues that “Pattern Jury Instructions warn jurors that an 
+‘indictment is proof of nothing’ and ‘it does not even raise suspicion of guilt.’”5  Appeal Brief at 9. 
+In making his arguments, he also highlights a number of the unique aspects of grand jury
+proceedings.6  However, as noted above, DOHA proceedings are not required to comply with rules
+3 In DOHA proceedings, police reports are admissible both as official records under Directive ¶ E3.1.20 and
+as public records under FRE 803(8).  See, e.g., ISCR Case No. 15-02859 at 3 (App. Bd. Jun. 23, 2017).
+4 In referring to the nolle prosequi decision during his closing argument, Applicant’s Counsel at the hearing
+stated, “I don’t know what the prosecutor used to reach that decision.”  Tr. at 64.  The record of the proceeding was left
+open for Applicant’s Counsel to present an affidavit from the attorney who represented Applicant in the criminal
+proceeding.  That affidavit does not state a reason for the prosecutor’s decision to dismiss the charges.  Applicant‘s
+Exhibit F.
+5 The sample jury instructions are not contained in the record.  Applicant’s Counsel neither requested that we
+take administrative notice of the jury instructions nor provided a citation to those instructions.  
+6 The thrust of Applicant’s Counsel arguments is that a prosecutor controls grand jury proceedings and little
+weight should be given to an indictment.   
+5
+or procedures that pertain to criminal prosecutions.  Jury instructions have no application in DOHA
+proceedings.  In this regard, we also note that Applicant has not specifically challenged the Judge’s
+finding that, in the state at issue, an indictment is a grand jury determination that probable cause
+exists to believe the defendant committed the offense.  Based on our review of the record,
+Applicant’s Counsel has failed to show that the Judge erred in her consideration of the indictments. 
+The balance of the arguments of Applicant’s Counsel amount to a challenge to the Judge’s
+analysis of the evidence.  He argues that the Judge failed to consider all of the record evidence and 
+mis-weighed the evidence.  His arguments, however, are neither enough to rebut the presumption
+that the Judge considered all of the record evidence nor sufficient to show that the Judge weighed
+the evidence in a manner that was arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No.
+17-02488 at 3 (App. Bd. Aug. 30, 2018).  
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988). 
+6
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                  
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+7

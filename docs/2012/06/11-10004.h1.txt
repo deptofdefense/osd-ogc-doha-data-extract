@@ -1,0 +1,881 @@
+ 
+1 
+ 
+ 
+                                                              
+DEPARTMENT OF DEFENSE 
+DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+ 
+In the matter of: ) 
+ ) 
+ [Redacted] )  ISCR Case No. 11-10004 
+ ) 
+Applicant for Security Clearance ) 
+ 
+ 
+Appearances 
+ 
+For Government: Philip J. Katauskas, Esq., Department Counsel; and 
+John B. Glendon, Esq., Deputy Chief Department Counsel 
+ 
+For Applicant: Alan V. Edmunds, Esq. 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+FOREMAN, LeRoy F., Administrative Judge: 
+ 
+This case involves security concerns raised under Guidelines K (Handling 
+Protected Information), M (Use of Information Technology (IT) Systems), E (Personal 
+Conduct), and F (Financial Considerations). Eligibility for access to classified 
+information is granted. 
+ 
+Statement of the Case 
+ 
+Applicant submitted a security clearance application (SCA) on December 23, 
+2010. On March 7, 2012, the Defense Office of Hearings and Appeals (DOHA) notified 
+him that it was unable to find that it was clearly consistent with the national interest to 
+grant him access to classified information, and it recommended that his case be 
+submitted to an administrative judge for a determination whether to grant or deny his 
+application. DOHA set forth the basis for its action in a Statement of Reasons (SOR), 
+citing security concerns under Guidelines K, M, E, and F. DOHA acted under Executive 
+Order 10865, Safeguarding Classified Information within Industry (February 20, 1960), 
+as amended; Department of Defense Directive 5220.6, Defense Industrial Personnel 
+ 
+2 
+ 
+ 
+Security Clearance Review Program (January 2, 1992), as amended (Directive); and the 
+adjudicative guidelines (AG) implemented by the Department of Defense on September 
+1, 2006.  
+ 
+ Applicant received the SOR on March 19, 2012; answered it on April 2, 2012; 
+and requested a hearing before an administrative judge. Department Counsel was 
+ready to proceed on April 27, 2012, and the case was assigned to me on May 2, 2012. 
+DOHA issued a notice of hearing on May 4, 2012, scheduling it for May 21, 2012. I 
+convened the hearing as scheduled. Government Exhibits (GX) 1 through 10 were 
+admitted in evidence without objection. Applicant testified, presented the testimony of 
+two witnesses, and submitted Applicant’s Exhibits (AX) A through P, which were 
+admitted. AX I was admitted over Department Counsel’s objection. AX A through H and 
+J through P were admitted without objection. I kept the record open until June 4, 2012, 
+to enable Applicant to submit additional documentary evidence. He timely submitted AX 
+Q through X. Department Counsel did not object to AX R, S, and W, which were 
+admitted. Department Counsel objected to AX Q, T, U, V, and X, which were received 
+over Department Counsel’s objection. My rulings on Department Counsel’s objections 
+are discussed below. DOHA received the transcript (Tr.) on May 30, 2012. 
+ 
+Administrative Notice 
+ 
+On my own motion, I have taken administrative notice of the provisions of the 
+Diagnostic and Statistical Manual of Mental Disorders, 4th Edition, Text Revision (DSM-
+IV-TR), published by the American Psychiatric Association, pertaining to Applicant’s 
+mental disorders. Using the Federal Rules of Evidence as a guide, I have noted that 
+Rule 201(c) provides: “A court may take judicial notice, whether requested or not.” I 
+have notified counsel for both sides and given them an opportunity to object, in 
+accordance with Rule 201(e), which provides: “A party is entitled upon timely request to 
+an opportunity to be heard as to the propriety of taking judicial notice and the tenor of 
+the matter noticed.” (Hearing Exhibit (HX) I) Neither party objected. (HX II and III.) The 
+specific provisions of DSM-IV-TR that I have administratively noticed are set out below 
+in my “Findings of Fact.” 
+ 
+Evidentiary Rulings 
+ 
+ Department Counsel objected to AX I, a diagnostic evaluation summary from a 
+psychologist who evaluated Applicant, on the ground that it was irrelevant. (Tr. 23.) I 
+overruled the objection but informed counsel that if I determined, upon reviewing all the 
+evidence, that AX I was irrelevant, I would disregard it and state in my decision that I did 
+not consider it. (Tr. 24.) Department Counsel also objected to AX Q, an updated 
+evaluation from the same psychologist, and AX T, U, V, and X, pertaining to various 
+mental disorders, on the ground that they are irrelevant. (Hearing Exhibit III.) 
+ 
+The Appeal Board has recognized that the DOHA process is designed to 
+encourage administrative judges to err on the side of admitting evidence and then 
+considering a party’s objections in deciding what, if any weight to give that evidence. 
+ 
+3 
+ 
+ 
+“Because DOHA proceedings are conducted before impartial, professional fact finders, 
+there is less concern about the potential prejudicial effect of specific items of evidence 
+than there is in judicial proceedings conducted before a lay jury.” ISCR Case No. 04-
+12449 at 4 (App. Bd. May 14, 2007). 
+ 
+ After reviewing all the evidence in the record, I conclude that the AX I and Q 
+through X are relevant. The evidence that Applicant has mental disorders of a type that 
+begin in childhood and that he is receiving treatment for those disorders is relevant to 
+explain the conduct alleged in the SOR, to determine whether such conduct is likely to 
+recur, and as part of my whole-person analysis. AX V has limited relevance because it 
+pertains to a childhood disorder, but it has probative value because the other evidence 
+indicates that Applicant’s mental disorders are the types that usually begin in childhood. 
+AX X has limited relevance, but it also has probative value because it discusses a 
+specific disorder that must be excluded to arrive at the diagnosis in AX I and Q. AX X 
+also is relevant because it pertains to a mental disorder for which one of Applicant’s 
+stepchildren requires treatment.  
+ 
+Findings of Fact 
+ 
+ In his answer to the SOR, Applicant admitted the allegations in SOR ¶ 4.a and 
+denied all the other allegations in the SOR. His admissions in his answer and at the 
+hearing are incorporated in my findings of fact.  
+ 
+ Applicant is a 31-year-old senior systems engineer employed by a federal 
+contractor since February 2011. He obtained an associate’s degree in applied science 
+in December 2005, a bachelor’s degree in information technology in September 2006, 
+and a master’s degree in information technology in September 2009. In addition, he has 
+obtained numerous technical certifications since September 2009. (AX J.) 
+ 
+ Applicant married in October 2005. He has three stepchildren, ages 15, 13, and 
+10. The oldest is bipolar and has attention-deficit/hyperactivity disorder (ADHD), the 
+middle child is autistic, and the youngest has Asperger’s syndrome with traits of ADHD. 
+All three stepchildren require counseling, medication, and special accommodations at 
+school. (Tr. 49-52.) Applicant and his wife have two daughters, ages four and two. The 
+older has not been diagnosed with any special needs, but the younger does not speak 
+and is receiving speech therapy. (GX 2 at I-31, 32; Tr. 52-53.) 
+ 
+ Applicant was employed by a local college as a system administrator from May 
+2000 to December 2003. On his SCA, he stated that he was fired because of a 
+“personality conflict.” According to Applicant, a co-worker who had repeatedly made 
+derogatory comments about Applicant became his supervisor. At some time in late 
+2003, Applicant was presented with a document stating that customers had complained 
+about him. Applicant believed that the document was fabricated by his supervisor. 
+Nevertheless, he signed the document, agreeing to the findings, without realizing its 
+import. Shortly thereafter, he was fired. (GX 3 at 4; Tr. 41-42.) 
+ 
+ 
+4 
+ 
+ 
+Applicant was a full-time student and unemployed from December 2003 to April 
+2004. (GX 3 at 5.) He was employed as a part-time system administrator for a university 
+from April 2004 to November 2005. He worked as a system administrator for an optical 
+manufacturer from November 2005 to November 2007. On his SCA, he reported that he 
+was fired by the optical manufacturer for insubordination. (GX 1 at 23.)  According to 
+Applicant, he, his supervisor, and a female employee were engaged in a closed-door 
+discussion when his supervisor called the female employee a sexually derogatory 
+name. Both Applicant and the supervisor were fired after the female employee filed a 
+complaint. Applicant denied making any comments to the female employee and 
+believes that he was fired because of “guilt by association.” (GX 3 at 6; Tr. 42-43.)  
+ 
+Applicant worked as a system administrator for an automotive manufacturer from 
+November 2007 to March 2008. He was fired at the end of his probationary period. 
+According to Applicant, his supervisor was too busy to give him guidance about his role 
+in the company. He testified that he had difficulty communicating with his supervisor and 
+his peers. His employer told him he was “not a good fit” for the company. (GX 3 at 7; Tr. 
+43-44.)  
+ 
+ Applicant was employed as a system administrator for an IT consulting firm from 
+April to September 2008. He received a security clearance and eligibility for access to 
+sensitive compartmented information (SCI) in August 2008. He left this job to accept a 
+position as a federal employee. 
+ 
+Applicant was employed by another government agency (AGA) from September 
+2008 to September 2010. He received a verbal reprimand shortly after he began his 
+employment. When he was interviewed by a security investigator in April 2011, he 
+stated that he could not remember the basis for the reprimand, but he remembered that 
+he was told to collaborate more with his co-workers more instead of working alone. (GX 
+3 at 7.) He received a written reprimand in 2010 for failure to follow procedures. (GX 3 
+at 8.) An investigation was initiated by the AGA in May 2010 following a report that he 
+had installed an upgrade on the AGA network without authorization. The report of 
+investigation was completed in August 2010. Applicant’s SCI eligibility and collateral 
+clearance were terminated in September 2010, when he resigned by mutual agreement 
+following notice of unsatisfactory performance.  
+ 
+ The report of investigation leading to Applicant’s resignation found that, at least 
+once a month, he installed software or hardware upgrades to a computer network 
+without proper authorization or coordination and that he communicated with agency 
+vendors on his home email account. It also found that, on at least two occasions, he 
+copied personal documents from his classified workplace computer onto a compact disk 
+and loaded them on his home computer, and that on multiple occasions he conducted 
+research at home, copied the results of his research onto a compact disk, and then 
+copied the information from the compact disk to an AGA network computer. (GX 10.)  
+ 
+ At the hearing, Applicant disagreed with the report of investigation’s finding that 
+he installed upgrades without authorization. He testified that he received conflicting 
+ 
+5 
+ 
+ 
+instructions, with his team lead instructing him not to install the upgrades and the 
+department chief instructing him to install them. He was familiar with the process for 
+approving an upgrade, stating that it was a documented procedure that he had been 
+using for years. (Tr. 89-91.) 
+ 
+At the hearing, Applicant testified that the only document he copied from his 
+workplace network and took home was his personal resume. (Tr. 33.) On cross-
+examination, he admitted electronically transmitting his leave and earnings statement 
+(LES) from his workplace network to his bankruptcy lawyer. (Tr. 94.)  
+ 
+Applicant testified that he received a number of security briefings, and he knew 
+that he was not permitted to bring a compact disk from home and insert it into a 
+workplace computer. He testified that he was informed by email that his resume was 
+unclassified. (Tr. 92.) The email was not offered in evidence.  He downloaded his 
+unclassified resume from a classified computer onto a compact disk supplied by 
+contractor personnel for use at work, and copied the resume from the compact disk to 
+his personal computer. He believed he had approval to download and copy his resume. 
+(Tr. 151-52.) During cross-examination, he appeared to believe that once the AGA 
+determined that his resume was unclassified, it was permissible for him to download it, 
+copy it, and take it home. (Tr. 152-54.) 
+ 
+Applicant admitted using his personal computer and personal email account to 
+solicit quotes from small business vendors after normal working hours. He testified that 
+using personal computers to communicate with vendors was a common practice among 
+contractor employees and that his supervisors were aware of it. He either printed the 
+pricing data at home or he would log onto the same web site at work, using the 
+unclassified network, and print the pricing data at work. He denied copying pricing data 
+onto compact disks and copying the data from the compact disks to his workplace 
+computer. He testified he knew that it would have been a security violation to copy the 
+pricing data from his home computer to a compact disk and then use the compact disk 
+to load the data onto his classified computer. Finally, he testified that if he had been told 
+not to use his personal computer to communicate with vendors, he would have stopped 
+doing it. (Tr. 33-34, 95-96, 147-49.) During the investigation of his conduct, Applicant 
+surrendered his personal computer to investigators, who determined that there was no 
+classified information on it. (Tr. 155-57.) 
+ 
+ No evidence was presented showing the specific rules violated by Applicant. The 
+report of investigation lists enclosures including an “Information Systems Acceptable 
+Use Policy” and two documents entitled “Installation and Modification Guide.” At the 
+hearing, Applicant declined to answer questions about policies, procedures, and training 
+at the AGA, because he was concerned that they might be classified. (Tr. 80-82.)  
+ 
+ Applicant was unemployed from September 2010 to December 2010. He worked 
+as a senior systems administrator for a retirement community from December 2010 until 
+March 2011, when he was terminated for “lack of customer focus.” He testified that he 
+was terminated because he questioned the assistant director of nursing about her need 
+ 
+6 
+ 
+ 
+for a cell phone. He was trying to determine if her requirements could be met by a less 
+expensive cell phone, because he was trying to reduce costs. (Tr. 45-46.) He was 
+unemployed until he began his current employment. 
+ 
+ Applicant started having financial problems in 2007, which he attributed to failure 
+to maintain consistent employment. His SCA reflects almost continuous employment but 
+frequent job changes. His wife was not employed outside the home, except for 
+occasional short-term periods of employment. She received sporadic child support 
+payments of $375 for two of her children. Applicant and his wife purchased two cars in 
+2007 and a new economy car in July 2008. He could not afford the payments on the 
+newest car and he surrendered it to the dealer in February 2009. His change of jobs in 
+2009 resulted in the need to rent a home at the new location while still owning a home 
+at the old location. His wife was unable to find employment at the new location. (Tr. 47.) 
+He obtained financial counseling in May 2009, and he was advised he had several 
+options, including finding a second part-time job, working overtime, or filing bankruptcy. 
+(GX 9 at 2.) 
+ 
+ Applicant filed a Chapter 7 bankruptcy petition in January 2010 and received a 
+discharge in April 2010. (GX 4.) He completed the credit counseling required by the 
+bankruptcy court. (AX K.) His credit bureau report dated February 21, 2012, reflected 
+that, subsequent to his bankruptcy discharge, a $306 medical bill (SOR ¶ 4.g) was 
+referred for collection in February 2010, a $56 medical bill (SOR ¶ 4.b) was referred for 
+collection in May 2010, a television satellite service bill for $151 (SOR ¶ 4.c) was 
+referred for collection in July 2010, two medical bills for $92 and $18 were referred for 
+collection in August 2010, and a $312 medical bill was referred for collection in 
+September 2010. (GX 6 at 1; AX M at 63-66.)  
+ 
+The satellite service bill was paid in full in March 2012. (AX H.) A letter dated 
+May 18, 2012, from the creditor for four of the medical bills reflects that the $312 bill 
+(SOR ¶ 4.d) was erroneously sent to collection. (AX P.) Applicant testified he is making 
+payments on the three medical debts alleged in SOR ¶¶ 4.b, 4.e, and 4.g, and his 
+testimony is corroborated by the May 2012 letter from the creditor. (Tr. 144.). Applicant 
+denied the $18 medical bill alleged in SOR ¶ 4.f, and he testified that the creditor has 
+been unable locate any documentation for it. (Tr. 57.)  
+ 
+ As of the date of the hearing, Applicant was earning about $110,000 per year. 
+His wife is employed as a registered nurse, earning about $55,000 per year. (Tr. 29.)  
+ 
+ Applicant testified that he realized that he might have a mental disorder when he 
+had his stepchildren diagnosed. He sought treatment and began taking medication for 
+ADHD on July 21, 2010. His initial dosage was 15 milligrams per day. His dosage was 
+increased to 20 milligrams per day on August 24, 2010, and increased again to 25 
+milligrams per day on March 4, 2011. He is still taking the March 2011 dosage. (Tr. 110; 
+AX S.) His medications are monitored by his primary care physician, whom he sees 
+every two or three months. (AX Q; AX S; Tr. 38.) Applicant testified that the effect of his 
+ 
+7 
+ 
+ 
+current medications is to give him a “split second” to think about what he intends to say 
+instead of saying it without thinking about how the recipient will interpret it. (Tr. 46.) 
+ 
+Applicant met with a licensed psychologist on March 15, 2011; March 29, 2011; 
+and March 22, 2012. She concluded that Applicant met the diagnostic criteria for the 
+following disorders: 1 
+ 
+ 314.01: Attention-Deficit/Hyperactivity Disorder (ADHD), Combined Type; 
+ 
+ 300.00: Anxiety Disorder, Not Otherwise Specified; and 
+ 
+ 299.80: Pervasive Developmental Disorder (PDD), Not Otherwise Specified. 
+ 
+ The psychologist’s narrative discussion includes the following: 
+ 
+[Applicant] discussed significant difficulty during his childhood years with 
+deficits in social interaction skills, particularly with same-age peers. He 
+struggled with understanding social cues, the feelings of others, and how 
+to interact regarding topics not of interest to him. Additionally, he 
+described very intense reactions to changes in routine or when 
+unexpected events occurred. As an adult he has developed positive 
+coping mechanisms to help ameliorate any negative impact on these 
+social perspective-taking difficulties; however, at times his challenges in 
+this area have created problems. 
+.     .     . 
+ 
+Overall [Applicant] does not meet sufficient criteria for Asperger 
+Syndrome; however, he does exhibit the history and current issues seen 
+in individuals with PDD, Not Otherwise Specified. [Applicant] very likely 
+would have met criteria for Asperger’s Syndrome as a child/adolescent 
+and young adult; however, he has worked diligently to improve non-verbal 
+communication, understanding social cues, and working with family and 
+co-workers on positive social interaction skills. . . [Applicant] also 
+continues to work consistently on progressing with how he understands 
+social situation, impulse control strategies, and managing anxiety/stress. 
+Overall he has developed a very positive set of coping mechanisms that 
+provide him with the ability to work productively at a high level. 
+ 
+ The psychologist recommended that Applicant continue to work with his 
+physician to manage his medications, communicate to his supervisors when he 
+encounters difficulty solving any interaction difficulties with a co-worker, and work with a 
+therapist as needed for anxiety management, social interactions skill development, and 
+strategies for handling his ADHD symptoms. She also recommended that his 
+                                                          
+1 Although the psychologist did not specifically cite DSM-IV-TR, she used its terminology and numbering 
+system.  
+ 
+ 
+8 
+ 
+ 
+supervisors have a mediation process between Applicant and co-workers and that they 
+communicate to Applicant directly and clearly how they expect him to proceed if 
+interaction problems affect his work effectiveness or the business atmosphere. (AX I; 
+AX Q.2) 
+ 
+ ADHD always begins in early childhood, but it may not be diagnosed until later in 
+life. ADHD symptoms can include trouble focusing or concentrating, impulsivity, difficulty 
+completing tasks, disorganization, trouble coping with stress, and unstable 
+relationships. The essential feature of ADHD is “a persistent pattern of inattention 
+and/or hyperactivity-impulsivity.” Individuals with ADHD may fail to give close attention 
+to details, make careless mistakes, fail to follow through on requests or instructions, be 
+forgetful, not listen to others, and fail to follow rules. Individuals with ADHD typically 
+make comments out of turn, fail to listen to directions, initiate conversations at 
+inappropriate times, and interrupt others excessively. Treatment for ADHD includes 
+stimulant drugs or other medications and psychotherapy. The diagnostic criteria for 
+ADHD require a finding that some hyperactive-impulsive or inattentive symptoms were 
+present before age seven. (AX V; AX W; DSM-IV-TR at 85-92.) 
+ 
+ Pervasive development disorder (PDD) is a broad category of mental disorders 
+that are usually evident in childhood and are characterized by severe and pervasive 
+impairment in several areas of development: reciprocal social interaction skills, 
+communication skills, or the presence of stereotyped behavior, interests, and activities. 
+The specific disorders in this category include autistic disorder, Rett’s disorder, 
+childhood disintegrative disorder, Asperger’s disorder (also called Asperger’s 
+syndrome), and PDD not otherwise specified (NOS). PDD NOS is the appropriate 
+diagnosis when there is a severe and pervasive impairment in the development of 
+reciprocal social interactions associated with impairment in either verbal or nonverbal 
+communication skills or with the presence of stereotyped behavior, but the criteria are 
+not met for a specific pervasive development disorder (such as Asperger’s disorder or 
+autism), schizophrenia, schizotypal personality disorder, or avoidant personality 
+disorder. (DSM-IV-TR at 69-84.) 
+ 
+ The essential features of Asperger’s syndrome are “severe and sustained 
+impairment in social interaction . . . and the development of restricted, repetitive 
+patterns of behavior, interests, and activities.” It may involve “marked impairment in the 
+use of multiple nonverbal behaviors (e.g., eye-to-eye gaze, facial expression, body 
+postures and gestures) to regulate social interaction and communication.” Young adults 
+may “lack understanding of the conventions of social interaction.” (DSM-IV-TR at 80.) 
+ 
+ Anxiety disorder NOS includes disorders with prominent anxiety or phobic 
+avoidance that do not meet the criteria for any specific anxiety disorder or adjustment 
+disorder. (DSM-IV-TR at 484.) Applicant’s anxiety disorder is of minimal relevance in 
+this case. 
+ 
+                                                          
+2 AX Q repeats most of the analysis in AX I, but is updated to reflect the March 2012 assessment. 
+ 
+9 
+ 
+ 
+ Applicant’s current facility security officer (FSO) submitted a letter on his behalf 
+and testified at the hearing. The FSO stated that he was aware of Applicant’s diagnosis 
+of ADHD. In his letter, he stated that Applicant “has been nothing short of inspirational” 
+in managing his ADHD. (AX D.) At the hearing, the FSO testified that he was familiar 
+with the allegations in the SOR, although he did not know all the details about the 
+security violations that led to Applicant’s resignation in lieu of termination in September 
+2010. (Tr. 124-25.) He characterized Applicant’s performance as “exemplary.” Although 
+they had hoped to obtain a security clearance for Applicant in time for a specific 
+contract, that deadline had passed at the time of the hearing, but they want to have 
+Applicant available for other contracts. (Tr. 126-27.) 
+ 
+ The president and chief executive officer (CEO) of the company where  Applicant 
+is currently employed joined in the FSO’s letter and also testified at the hearing. He 
+testified that his company recruited Applicant because of his IT experience and has 
+promoted him to senior systems engineer, the highest engineering level except for the 
+company’s chief technologist. The CEO was familiar with the allegations in the SOR and 
+had discussed them with Applicant. He also was aware that Applicant was dealing with 
+medical issues. He testified that Applicant’s conduct and performance as portrayed in 
+the SOR was contrary to what he had observed since hiring Applicant. The CEO 
+unqualifiedly recommended that Applicant receive a security clearance. (Tr. 130-39.) 
+ 
+ A U.S. Air Force captain, who has known Applicant since 1994, describes him as 
+a loyal and trustworthy friend who can be entrusted with national security information. 
+(AX A.) A professional colleague, who has known Applicant for about six years, states 
+that his work ethic, intelligence, and integrity are above reproach. (AX B.) A co-worker 
+describes Applicant as an “exemplary employee,” who has repeatedly demonstrated his 
+professionalism, technical knowledge, honesty, trustworthiness, and integrity. (AX C.) A 
+former mentor on a special project stated that Applicant worked with integrity and team 
+spirit, and he was “gracious about criticism and advice.” (AX E.) An Army National 
+Guard captain who met Applicant in 2001 describes him as an honest, trustworthy, and 
+loyal friend and recommends that he be granted a security clearance. (AX N.) 
+ 
+Policies 
+ 
+ “[N]o one has a ‘right’ to a security clearance.” Department of the Navy v. Egan, 
+484 U.S. 518, 528 (1988). As Commander in Chief, the President has the authority to 
+“control access to information bearing on national security and to determine whether an 
+individual is sufficiently trustworthy to have access to such information.” Id. at 527. The 
+President has authorized the Secretary of Defense or his designee to grant applicants 
+eligibility for access to classified information “only upon a finding that it is clearly 
+consistent with the national interest to do so.” Exec. Or. 10865, Safeguarding Classified 
+Information within Industry § 2 (Feb. 20, 1960), as amended.   
+ 
+Eligibility for a security clearance is predicated upon the applicant meeting the 
+criteria contained in the AG. These guidelines are not inflexible rules of law. Instead, 
+recognizing the complexities of human behavior, an administrative judge applies these 
+ 
+10 
+ 
+ 
+guidelines in conjunction with an evaluation of the whole person. An administrative 
+judge’s overarching adjudicative goal is a fair, impartial, and commonsense decision. An 
+administrative judge must consider all available, reliable information about the person, 
+past and present, favorable and unfavorable. 
+ 
+ The Government reposes a high degree of trust and confidence in persons with 
+access to classified information. This relationship transcends normal duty hours and 
+endures throughout off-duty hours. Decisions include, by necessity, consideration of the 
+possible risk that the applicant may deliberately or inadvertently fail to safeguard 
+classified information. Such decisions entail a certain degree of legally permissible 
+extrapolation about potential, rather than actual, risk of compromise of classified 
+information. 
+ 
+Clearance decisions must be made “in terms of the national interest and shall in 
+no sense be a determination as to the loyalty of the applicant concerned.”  See Exec. 
+Or. 10865 § 7. Thus, a decision to deny a security clearance is merely an indication the 
+applicant has not met the strict guidelines the President and the Secretary of Defense 
+have established for issuing a clearance. 
+ 
+ Initially, the Government must establish, by substantial evidence, conditions in 
+the personal or professional history of the applicant that may disqualify the applicant 
+from being eligible for access to classified information. The Government has the burden 
+of establishing controverted facts alleged in the SOR. See Egan, 484 U.S. at 531.  
+“Substantial evidence” is “more than a scintilla but less than a preponderance.”  See v. 
+Washington Metro. Area Transit Auth., 36 F.3d 375, 380 (4th Cir. 1994). The guidelines 
+presume a nexus or rational connection between proven conduct under any of the 
+criteria listed therein and an applicant’s security suitability. See ISCR Case No. 92-1106 
+at 3, 1993 WL 545051 at *3 (App. Bd. Oct. 7, 1993).   
+ 
+ Once the Government establishes a disqualifying condition by substantial 
+evidence, the burden shifts to the applicant to rebut, explain, extenuate, or mitigate the 
+facts. Directive ¶ E3.1.15. An applicant has the burden of proving a mitigating condition, 
+and the burden of disproving it never shifts to the Government. See ISCR Case No. 02-
+31154 at 5 (App. Bd. Sep. 22, 2005).  
+ 
+An applicant “has the ultimate burden of demonstrating that it is clearly consistent 
+with the national interest to grant or continue his security clearance.” ISCR Case No. 
+01-20700 at 3 (App. Bd. Dec. 19, 2002). “[S]ecurity clearance determinations should err, 
+if they must, on the side of denials.” Egan, 484 U.S. at 531; see AG ¶ 2(b).  
+ 
+Analysis 
+ 
+Guideline K, Handling Protected Information 
+ 
+ The SOR alleges that Applicant was cited by an AGA for committing security 
+violations by copying data from a classified computer system to unclassified media, 
+ 
+11 
+ 
+ 
+removing it from his workplace, and loading the data on his personal computer (SOR ¶ 
+1.a). The security concern under this guideline is set out in AG ¶ 33: “Deliberate or 
+negligent failure to comply with rules and regulations for protecting classified or other 
+sensitive information raises doubt about an individual's trustworthiness, judgment, 
+reliability, or willingness and ability to safeguard such information, and is a serious 
+security concern.” 
+ 
+ The disqualifying conditions relevant to this case are:  
+ 
+AG ¶ 34(b): collecting or storing classified or other protected information at 
+home or in any other unauthorized location;  
+ 
+AG ¶ 34(c): loading, drafting, editing, modifying, storing, transmitting, or 
+otherwise handling classified reports, data, or other information on any 
+unapproved equipment including but not limited to any typewriter, word 
+processor, or computer hardware, software, drive, system, gameboard, 
+handheld, “palm” or pocket device, or other adjunct equipment;  
+ 
+AG 34(g): any failure to comply with rules for the protection of classified or 
+other sensitive information; and 
+ 
+AG 34(h): negligence or lax security habits that persist despite counseling 
+by management.  
+ 
+ AG ¶¶ 34(b), (c), and (g) are established. The SOR did not specify what data 
+Applicant was alleged to have copied. The AGA’s report of investigation did not identify 
+what data he was found to have copied and taken home. Department Counsel 
+presented no evidence showing what, if any, rules were violated. Applicant admitted 
+copying his resume to a compact disk, taking it home, and loading it onto his home 
+computer. He also admitted electronically transmitting his leave and earnings statement 
+to his bankruptcy attorney. There is no evidence that the resume and LES were 
+classified, and they were not “protected information” within the meaning of this 
+disqualifying condition because they were Applicant’s records. However, Applicant 
+admitted that there was a risk of classified or protected information being embedded in 
+external media whenever information is downloaded from a classified system. The AGA 
+report of investigation found that he had violated internal AGA rules, and the enclosures 
+to the report list an information systems use policy and two installation and modification 
+guides. This evidence is “more than a scintilla” and is sufficient to raise AG ¶¶ 34 (b), 
+(c), and (g). 
+ 
+ AG ¶ 34(h) is established. The list of enclosures to the AGA report lists “Email 
+Documentation of August 2009 Counseling.” While the email documentation of 
+counseling was not attached to the report of investigation, this notation is sufficient to 
+establish that Applicant was counseled about his security habits in August 2009. In 
+addition, Applicant admitted to a security investigator that he was verbally reprimanded 
+ 
+12 
+ 
+ 
+shortly after he began working at the AGA and received a written reprimand in mid-
+2010.  
+ 
+ The relevant mitigating condition under this guideline is AG ¶ 35(a): “so much 
+time has elapsed since the behavior happened, or it happened under such unusual 
+circumstances, that it is unlikely to recur and does not cast doubt on the individual's 
+reliability, trustworthiness, or good judgment.” No other enumerated mitigating 
+conditions are relevant. 
+ 
+ Applicant’s last security violation occurred more than two years ago, but this time 
+period is of little probative value because he has not been working in a classified 
+environment since he resigned from the AGA position in September 2010. However, the 
+evidence reflects that Applicant’s security violations occurred before he began receiving 
+treatment for his ADHD and PDD.  
+ 
+ Applicant’s termination in March 2011 for “lack of customer focus” was not 
+related to any security violations, and it occurred at about the time the dosage of his 
+medication was increased to its current level and he had his first two consultations with 
+the psychologist. The incident leading up to this termination occurred at some time prior 
+to his termination. The March 2011 termination is relevant to the extent that it suggests 
+Applicant’s inability or unwillingness to follow rules even after he began receiving 
+treatment for ADHD and PDD.  
+ 
+ The testimony of Applicant’s current supervisors and the diagnostic assessment 
+of his psychologist reflect that he has responded well to his current level of medication 
+and the psychotherapy. He has become a valued and trusted employee, and he has not 
+repeated the behavior reflected in the SOR. Thus, I conclude that his security violations 
+were the product of unusual circumstances, i.e., his ADHD and PDD, and they are 
+unlikely to recur. Thus, I conclude that AG ¶ 35(a) is established. 
+ 
+Guideline M, Use of Information Technology Systems 
+ 
+ The SOR cross-alleges SOR ¶ 1.a under this guideline. The concern under this 
+guideline is: “Noncompliance with rules, procedures, guidelines or regulations pertaining 
+to information technology systems may raise security concerns about an individual's 
+reliability and trustworthiness, calling into question the willingness or ability to properly 
+protect sensitive systems, networks, and information.” AG ¶ 39.  
+ 
+ The relevant disqualifying conditions are:  
+ 
+AG ¶ 40(e): unauthorized use of a government or other information 
+technology system; 
+ 
+AG ¶ 40(f): introduction, removal, or duplication of hardware, firmware, 
+software, or media to or from any information technology system without 
+ 
+13 
+ 
+ 
+authorization, when prohibited by rules, procedures, guidelines, or 
+regulations; and 
+ 
+AG ¶ 40(g): negligence or lax security habits in handling information 
+technology that persist despite counseling by management.  
+ 
+ AG ¶¶ 40(e) is established, for the reasons set out in the above discussion of AG 
+¶ 34(g). Applicant’s unauthorized installation of upgrades to the AGA network 
+establishes AG ¶ 40(f).3 AG ¶ 40(g) is established for the reasons set out in the above 
+discussion of AG ¶ 34(h). 
+ 
+ The relevant mitigating condition under this guideline is AG ¶ 41(a), which is 
+identical to AG ¶ 35(a), discussed above. For the reasons set out in the above 
+discussion, I conclude that this mitigating condition is established. 
+ 
+Guideline E, Personal Conduct 
+ 
+ The SOR alleges that Applicant was terminated from a job in December 2003 
+due to a personality conflict (SOR ¶ 3.a), terminated from a job in November 2007 for 
+insubordination and sexual harassment (SOR ¶ 3.b), terminated from a job in March 
+2008 due to a personality conflict (SOR ¶ 3.c), terminated from a federal job with an 
+AGA and had his security clearance and SCI eligibility suspended in September 2010 
+(SOR ¶ 3.d), and terminated from a job in March 2011 for lack of customer focus (SOR 
+¶ 3.e). The SOR also cross-alleges a Chapter 7 bankruptcy discharge and six 
+delinquent debts that are discussed below under Guideline F (SOR ¶ 3.f). 
+ The concern under this guideline is set out in AG ¶ 15: “Conduct involving 
+questionable judgment, lack of candor, dishonesty, or unwillingness to comply with rules 
+and regulations can raise questions about an individual’s reliability, trustworthiness and 
+ability to protect classified information.” The evidence establishes SOR ¶¶ 3.a through 
+3.e, except that it does not establish that Applicant was involuntarily terminated by the 
+AGA. He was not involuntarily terminated by the AGA; he resigned in lieu of termination. 
+ Applicant’s employment record establishes the following disqualifying conditions 
+under this guideline: 
+AG ¶ 16(c): credible adverse information in several adjudicative issue 
+areas that is not sufficient for an adverse determination under any other 
+single guideline, but which, when considered as a whole, supports a 
+whole-person assessment of questionable judgment, untrustworthiness, 
+                                                          
+3 The unauthorized installation of upgrades was not alleged in the SOR. Conduct not alleged in the SOR 
+may be considered to assess an applicant=s credibility; to decide whether a particular adjudicative 
+guideline is applicable; to evaluate evidence of extenuation, mitigation, or changed circumstances; to 
+consider whether an applicant has demonstrated successful rehabilitation; or as part of a whole-person 
+analysis. ISCR Case No. 03-20327 at 4 (App. Bd. Oct. 26, 2006). I have considered the evidence of 
+unauthorized installation of upgrades for these limited purposes.  
+ 
+14 
+ 
+ 
+unreliability, lack of candor, unwillingness to comply with rules and 
+regulations, or other characteristics indicating that the person may not 
+properly safeguard protected information; 
+AG ¶ 16(d): credible adverse information that is not explicitly covered 
+under any other guideline and may not be sufficient by itself for an 
+adverse determination, but which, when combined with all available 
+information supports a whole-person assessment of questionable 
+judgment, untrustworthiness, unreliability, lack of candor, unwillingness to 
+comply with rules and regulations, or other characteristics indicating that 
+the person may not properly safeguard protected information. This 
+includes but is not limited to consideration of . . . (2) disruptive, violent, or 
+other inappropriate behavior in the workplace; [and] (3) a pattern of 
+dishonesty or rule violations; and  
+AG ¶ 16(e): personal conduct, or concealment of information about one's 
+conduct, that creates a vulnerability to exploitation, manipulation, or 
+duress, such as . . . engaging in activities which, if known, may affect the 
+person's personal, professional, or community standing.  
+ Being ill-suited for a customer-oriented job, lack of tact, social ineptitude, or 
+having a disagreeable personality are not necessarily qualities that raise security 
+concerns under Guideline E, unless they result in “disruptive, violent, or other 
+inappropriate behavior.” However, inability or unwillingness to follow rules and 
+instructions, inappropriate sexual comments, or inattention to details can raise 
+questions about an applicant’s trustworthiness, reliability, and good judgment. 
+ The following mitigating conditions under this guideline are relevant: 
+AG ¶ 17(c): the offense is so minor, or so much time has passed, or the 
+behavior is so infrequent, or it happened under such unique 
+circumstances that it is unlikely to recur and does not cast doubt on the 
+individual's reliability, trustworthiness, or good judgment; 
+ 
+AG ¶ 17(d): the individual has acknowledged the behavior and obtained 
+counseling to change the behavior or taken other positive steps to 
+alleviate the stressors, circumstances, or factors that caused 
+untrustworthy, unreliable, or other inappropriate behavior, and such 
+behavior is unlikely to recur; and 
+ 
+AG ¶ 17(e): the individual has taken positive steps to reduce or eliminate 
+vulnerability to exploitation, manipulation, or duress; 
+ 
+ AG ¶ 17(c) is established for the reasons set out in the above discussions of AG 
+¶¶ 35(c) and 41(a). AG ¶¶ 17(d) and (e) are established because Applicant has 
+acknowledged his behavior, obtained treatment, and has established himself as a 
+ 
+15 
+ 
+ 
+trustworthy, dependable employee. He has been open and candid about his past 
+employment problems and enjoys a good reputation with his current employer, thereby 
+reducing his vulnerability to exploitation, manipulation, or duress. As discussed below 
+under Guideline F, he has gained control of the mental disorders that contributed to his 
+Chapter 7 bankruptcy, paid or made payment arrangements for his delinquent medical 
+bills, and has disputed an $18 medical bill that is insignificant from a national security 
+viewpoint. 
+ 
+Guideline F, Financial Considerations 
+ 
+ The SOR alleges that Applicant filed a petition for Chapter 7 bankruptcy in 
+January 2010 and received a discharge in April 2010 (SOR ¶ 4.a), and has six 
+delinquent debts (SOR ¶¶ 4.b-4.g.) 
+ 
+The concern under this guideline is set out in AG ¶ 18:  
+ 
+Failure or inability to live within one=s means, satisfy debts, and meet 
+financial obligations may indicate poor self-control, lack of judgment, or 
+unwillingness to abide by rules and regulations, all of which can raise 
+questions about an individual=s reliability, trustworthiness and ability to 
+protect classified information. An individual who is financially 
+overextended is at risk of having to engage in illegal acts to generate 
+funds. 
+ 
+ This concern is broader than the possibility that an applicant might knowingly 
+compromise classified information in order to raise money. It encompasses concerns 
+about an appellant’s self-control, judgment, and other qualities essential to protecting 
+classified information. An individual who is financially irresponsible may also be 
+irresponsible, unconcerned, or negligent in handling and safeguarding classified 
+information. See ISCR Case No. 11-05365 at 3 (App. Bd. May 1, 2012). 
+ 
+ Applicant’s financial record establishes two disqualifying conditions under this 
+guideline: AG ¶ 19(a): inability or unwillingness to satisfy debts; and AG ¶ 19(c): a 
+history of not meeting financial obligations. Security concerns based on financial 
+considerations may be mitigated by any of the following conditions: 
+ 
+AG ¶ 20(a): the behavior happened so long ago, was so infrequent, or 
+occurred under such circumstances that it is unlikely to recur and does not 
+cast doubt on the individual’s current reliability, trustworthiness, or good 
+judgment; 
+ 
+AG ¶ 20(b): the conditions that resulted in the financial problem were 
+largely beyond the person’s control (e.g., loss of employment, a business 
+downturn, unexpected medical emergency, or a death, divorce or 
+separation), and the individual acted responsibly under the circumstances; 
+ 
+16 
+ 
+ 
+AG ¶ 20(c): the person has received or is receiving counseling for the 
+problem and/or there are clear indications that the problem is being 
+resolved or is under control; 
+ 
+AG ¶ 20(d): the individual initiated a good-faith effort to repay overdue 
+creditors or otherwise resolve debts; or  
+ 
+AG ¶ 20(e): the individual has a reasonable basis to dispute the legitimacy 
+of the past-due debt which is the cause of the problem and provides 
+documented proof to substantiate the basis of the dispute or provides 
+evidence of actions to resolve the issue. 
+ 
+ AG ¶ 20(a) is established. Applicant’s delinquent debts have been numerous and 
+some are not fully resolved. However, his past impulsiveness and inattention were due 
+at least in part to his ADHD and PDD, which are unusual circumstances. The medical 
+debts alleged in SOR ¶¶ 4.b and 4.g were referred for collection before Applicant began 
+taking medication. The debts alleged in SOR ¶¶ 4.c, 4.e, and 4.f were referred for 
+collection at about the time Applicant first began taking medication. All the debts were 
+delinquent well before he began seeing his psychologist and the dosage of his 
+medication was increased to its current level, which is almost double the initial dosage. 
+For these reasons and the reasons set out in the above discussions of AG ¶¶ 35(a) and 
+41(a), I conclude that AG ¶ 20(a) is established. 
+ 
+ AG ¶ 20(b) is partially established. Applicant’s financial problems leading to his 
+Chapter 7 bankruptcy were due in part to impulsive and inattentive financial 
+management. However, the medical bills alleged in the SOR are attributable to the 
+medical care and special services required by his three stepchildren. He has acted 
+responsibly regarding his medical bills by staying in contact with the creditor and making 
+payment arrangements for three medical bills alleged in SOR ¶¶ 4.b, 4.e, and 4.g. He 
+successfully disputed the medical bill alleged in SOR ¶ 4.d. He has challenged the $18 
+medical bill alleged in SOR ¶ 4.f. The dispute regarding SOR ¶ 4.f is not resolved, but 
+the small amount involved makes it of minimal security significance. 
+ 
+ AG ¶ 20(c) is established. Applicant received financial counseling in May 2009 
+and November 2009, and his remaining delinquent debts are being resolved. 
+ 
+ AG ¶ 20(d) is established. Applicant paid the delinquent satellite television bill 
+alleged in SOR ¶¶ 4.c, successfully disputed the medical debt in SOR ¶ 4.d, and 
+negotiated payment arrangements for the medical debts alleged in SOR ¶¶ 4.b, 4.e, and 
+4.g. The $18 medical bill is not resolved. However, an applicant is not required, as a 
+matter of law, to establish resolution of every debt alleged in the SOR. An applicant 
+need only establish a plan to resolve financial problems and take significant actions to 
+implement the plan. See ISCR Case No. 07-06482 at 2-3 (App. Bd. May 21, 2008). 
+ 
+ 
+17 
+ 
+ 
+ AG ¶ 20(e) is established for the medical debt alleged in SOR ¶ 4.d. It is not 
+established for the debt alleged in SOR ¶ 4.f. The remaining debts alleged in the SOR 
+were not disputed.  
+ 
+Whole-Person Concept 
+ 
+ Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a 
+security clearance must be an overall commonsense judgment based upon careful 
+consideration of the guidelines and the whole-person concept. In applying the whole-
+person concept, an administrative judge must evaluate an applicant’s eligibility for a 
+security clearance by considering the totality of the applicant’s conduct and all relevant 
+circumstances. An administrative judge should consider the nine adjudicative process 
+factors listed at AG ¶ 2(a):  
+ 
+(1) the nature, extent, and seriousness of the conduct; (2) the 
+circumstances surrounding the conduct, to include knowledgeable 
+participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to 
+which participation is voluntary; (6) the presence or absence of 
+rehabilitation and other permanent behavioral changes; (7) the motivation 
+for the conduct; (8) the potential for pressure, coercion, exploitation, or 
+duress; and (9) the likelihood of continuation or recurrence.  
+ 
+ I have incorporated my comments under Guidelines K, M, E, and F in my whole-
+person analysis. Some of the factors in AG ¶ 2(a) were addressed under those 
+guidelines, but some warrant additional comment. 
+ 
+ Applicant is an intelligent well-educated adult. He was candid, sincere, credible, 
+calm, and focused at the hearing. He has struggled with ADHD and PDD during most of 
+his working life. He realized that he needed help when he sought counseling and 
+treatment for his stepchildren. He has obtained treatment, and his current employer has 
+not observed the behaviors that the SOR reflects. His psychologist’s analysis indicates 
+that he needs some special considerations from his supervisors, but his supervisors 
+have demonstrated by word and deeds that they are willing to work with him. During the 
+15 months preceding the hearing, he gained a reputation as a talented, trustworthy, and 
+reliable employee. He is no longer the troubled and dysfunctional person portrayed in 
+the SOR. 
+ 
+ The SOR did not allege security concerns under Guideline I (Psychological 
+Conditions). To the contrary, Department Counsel argued that evidence of Applicant’s 
+ADHD, PDD, and anxiety was irrelevant. I have concluded that the evidence of his 
+ADHD and PDD is relevant and that it, along with other considerations, mitigates the 
+security concerns set out in the SOR. I have also noted that any security concerns 
+raised by Applicant’s ADHD and PDD would be mitigated under AG ¶¶ 29(a) and (b), 
+because they are treatable, Applicant has complied with his treatment program, and he 
+has received a favorable prognosis from his psychologist.  
+ 
+18 
+ 
+ 
+ After weighing the disqualifying and mitigating conditions under Guidelines K, M, 
+E, and F, evaluating all the evidence in the context of the whole person, and mindful of 
+my obligation to resolve close cases in favor of national security, I conclude Applicant 
+has mitigated the security concerns based on handling protected information, use of 
+information technology systems, personal conduct, and financial considerations. 
+Accordingly, I conclude he has carried his burden of showing that it is clearly consistent 
+with the national interest to grant him eligibility for access to classified information. 
+ 
+Formal Findings 
+ 
+ I make the following formal findings on the allegations in the SOR: 
+ 
+ Paragraph 1, Guideline K (Handling Protected Information): FOR APPLICANT 
+ 
+  Subparagraph 1.a:      For Applicant 
+ 
+ Paragraph 2, Guideline M (Use of IT Systems):   FOR APPLICANT 
+ 
+  Subparagraph 2.a:      For Applicant 
+ 
+ Paragraph 3, Guideline E (Personal Conduct):   FOR APPLICANT 
+ 
+  Subparagraphs 3.a-3.f:     For Applicant 
+ 
+ Paragraph 4, Guideline F (Financial Considerations):  FOR APPLICANT 
+ 
+  Subparagraphs 4.a-4.g:     For Applicant 
+ 
+Conclusion 
+ 
+ I conclude that it is clearly consistent with the national interest to grant Applicant 
+eligibility for a security clearance. Eligibility for access to classified information is 
+granted. 
+ 
+ 
+ 
+ 
+LeRoy F. Foreman 
+Administrative Judge 

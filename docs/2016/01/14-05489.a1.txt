@@ -1,0 +1,129 @@
+KEYWORD: Guideline F; Guideline E
+DIGEST: When evaluating the deliberate nature of an applicant’s omissions or false statements,
+a Judge should consider the applicant’s mens rea in light of the entirety of the record. The Board
+believes that Notice requirements are an essential component of the due process provided by the
+Directive. It is possible that a Judge might have found that Applicant was forthright in his claim
+that he did not know about the lien when he prepared the EQUIP.  However, it is not likely that a
+Judge would have found the underlying tax lien mitigated. Adverse decision affirmed.
+CASENO: 14-05489.a1
+DATE: 01/11/2016
+DATE: January 11, 2016
+In Re:
+-------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-05489
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+2
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+February 2, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) and Guideline E
+(Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+(Directive).  Applicant requested a decision on the written record.  On October 29, 2015, after
+considering the record, Defense Office of Hearings and Appeals (DOHA) Administrative Judge
+Darlene D. Lokey Anderson denied Applicant’s request for a security clearance.  Applicant appealed
+pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in concluding that
+he had deliberately falsified his security clearance application (SCA) and whether the Judge’s
+adverse decision was arbitrary, capricious, or contrary to law.  Consistent with the following, we
+affirm.
+The Judge’s Findings of Fact
+Applicant is seeking a clearance in connection with his job with a Defense contractor.
+Married with four children, he has a master’s degree.  He served in the military as a commissioned
+officer from 1965 to 1985.  He held a clearance during this time. 
+Applicant owed Federal income taxes for 2008 and 2009, due to lack of withholding from
+his income.  He discovered this when he prepared his 2009 tax return.  However, by that time the
+Government had scaled back its contracting activity, so Applicant did not have enough funds to
+make the required payments.  He states that he had filed an Offer in Compromise with the IRS in
+2011 but that he has not been able to make progress.  He also advises that he has not filed his 2013
+and 2014 income tax returns due to his ongoing effort to resolve his earlier delinquencies.  Applicant
+submitted a document (Account Quick Report) that appears to be a ledger from his employer
+showing that he has been making payments of $1,000 a month to the IRS since April 2014.  There
+is a conflict in the evidence as to whether these are voluntary payments or whether they are a
+condition required by the Offer in Compromise.  The IRS filed a tax lien against Applicant in 2011.
+The amount of the lien was $159,000, although Applicant disputes this amount.  Although Applicant
+is willing to settle the debt, the IRS has not yet accepted the terms of his Offer.
+  When completing his SCA, Applicant answered “no” to two questions.  One inquired as
+to whether he had failed to pay Federal or state taxes within the previous seven years.  Another
+asked if any liens had been filed against him for failure to pay tax.  For reasons set forth above, these
+answers were false.  Applicant claimed that he did not know about the lien.  However, he knew he
+owed taxes to the Government, as evidenced by his Offer in Compromise.
+The Judge’s Analysis
+3
+The Judge stated that there is nothing in the record to show that the payments referenced in
+Applicant’s Account Quick Report had been received.  She stated that Applicant’s having simply
+waited for the IRS to respond after a number of delays over several years is not sufficient to show
+a good-faith effort to resolve his tax debt.  She concluded that there is insufficient documentary
+evidence to establish mitigation of the Guideline F concern.  Applicant “has not shown that he is or
+has been reasonably, responsibly or prudently addressing his financial situation.”  Decision at 6.
+Regarding Guideline E, the Judge stated that it was possible that Applicant was not aware of the
+lien.  However, she concluded that it was not reasonable to believe that he was unaware that he owed
+the taxes.  Among other things, she noted that he held a clearance during the 20 years he was in the
+military and, therefore, had significant experience in completing SCAs.  She also noted his level of
+education and that the question at issue is “clear and simple.”  Decision at 7.  She concluded that
+Applicant had not met his burden of persuasion as to mitigation.  
+1There is a problem with the scope of the SOR compared to scope of the FORM and the Judge’s decision.
+Under Guideline F, the SOR only addresses one debt, the lien for 2011 taxes in the amount of $159,000.  Under
+Guideline E, the SOR is worded ambiguously such that it might be read to address the entirety of Applicant’s e-QIP
+answers under Section 26 - Financial Record...Taxes or it could, just as easily, be read to address only his negative
+answer regarding a Tax lien.  On the one hand, there is a general approach to construe ambiguities against the drafter
+(here, the Government).  On the other hand, the Board has frequently held that SORs are not held to the same standards
+as criminal indictments.  Under both Guidelines, the FORM and the Judge’s decision address a range of tax and
+disclosure issues beyond the 2011 lien.  
+The Board believes that Notice requirements are an essential component of the due process provided by the
+Directive and is reluctant to categorize a failure to provide fair and adequate notice as harmless.  In this case, it is
+possible that a Judge might well have found that Applicant was forthright in his claim that he did not know about the
+lien on the date he prepared the EQUIP.  However, it is not likely that a Judge would have found the underlying tax lien
+mitigated.  Therefore, we decline to remand the case.
+4
+Discussion
+   
+Applicant challenges the Judge’s finding that his omissions from the SCA were false.1  When
+evaluating the deliberate nature of an applicant’s omissions or false statements, a Judge should
+consider the applicant’s mens rea in light of the entirety of the record evidence.  See, e.g., ISCR
+Case No. 14-04226 at 3 (App. Bd. Aug. 18, 2015).  In the case before us, the record supports the
+Judge’s finding.  For example, in his response to the SOR Applicant acknowledged that as of 2009
+he was aware that he owed back taxes.  This admission, viewed in light of the Judge’s findings about
+Applicant’s level of education and the clarity of the question at issue are sufficient to constitute
+substantial evidence of a deliberate omission in his 2012 SCA.  Applicant’s appeal brief, to a large
+extent, repeats assertions that were contained in his reply to the File of Relevant Material.  Applicant
+has not rebutted the presumption that the Judge considered all of the evidence in the record.  See,
+e.g., ISCR Case No. 14-06093 at 3 (App. Bd. Dec. 4, 2015).  Applicant challenges the Judge’s
+application of the whole-person factors.  We conclude that the Judge’s whole person analysis
+complies with the requirements of Directive, Enclosure 2 ¶ 2(a), in that the Judge considered the
+totality of Applicant’s conduct in reaching her decision. See, e.g., ISCR Case No. 14-02806 at 4
+(App. Bd. Sep. 9, 2015).
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”
+5
+Order
+The Decision is AFFIRMED.     
+Signed: Michael Ra’anan              
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett             
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board

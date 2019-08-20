@@ -1,0 +1,109 @@
+FOR OFFICIAL USE ONLY
+When unredacted this document contains information
+EXEMPT FROM MANDATORY DISCLOSURE under the FOIA
+Exemption 6 applies
+KEYWORD: Guideline K
+DIGEST: Applicant committed numerous security violations over a nine year span.  Adverse
+decision affirmed.
+CASENO: 05-01305.a1
+DATE: 10/17/2007
+DATE: October 17, 2007
+In Re:
+-------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 05-01305
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+John Bayard Glendon, Esq., Department Counsel
+FOR APPLICANT
+Nicolas A. Gordon, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On August 26, 2005, DOHA issued a statement of reasons advising Applicant of the basis
+for that decision–security concerns raised under Guideline K (Security Violations) of Department
+An allegation reflecting this incident was added to the SOR through a Motion to Amend, dated January 291
+2007.  The Judge granted the motion on the following day.  Decision at 2.  
+See testimony of the Defense Security Service specialist: “As a result of them not being able to find it, we2
+concluded that the item was in fact lost and that’s what we are reporting. . . our position was . . . unless you can produce
+the hard drive and verify that there is in fact nothing on it, the fact that it was associated with a classified system means
+that there is the potential that classified material was in fact on it . . .”  Tr. at 70-71. 
+Directive ¶  E2.A11.1.3.1.3
+Directive ¶  E2.A11.1.3.4.4
+Directive ¶¶  E2.A11.1.3.2, E2.A11.1.3.3.5
+2
+of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.
+On May 7, 2007, after the hearing, Administrative Judge Elizabeth M. Matchinski denied
+Applicant’s request for a security clearance.  Department Counsel filed a timely appeal pursuant to
+Directive ¶¶  E3.1.28 and E3.1.30.  
+Applicant raises the following issues on appeal: whether the Judge erred in concluding that
+Applicant had not met his burden of persuasion as to the application of relevant mitigating
+conditions and whether the Judge’s adverse security clearance decision is arbitrary, capricious, and
+contrary to law.  Finding no error, we affirm.
+The Judge found that Applicant, a senior systems administrator for a defense contractor,
+committed numerous security violations from 1997 through 2006.  These include five instances of
+failing to secure DoD-approved security containers designed for the storage of classified material;
+two instances of failure to secure a classified computer hard disk drive, and one instance of failing
+to secure a box containing material marked TOP SECRET.  This last incident occurred nearly a year
+after the date of the SOR in Applicant’s case.   Additionally, one of the improperly secured hard disk1
+drives was never recovered.2
+In analyzing the case, the Judge noted that two mitigating conditions were possibly
+applicable–that Applicant’s infractions were inadvertent  and that he showed a positive attitude3
+toward his security responsibilities.   However, the Judge also took into consideration the fact that4
+Applicant’s security violations span almost the whole of his employment with the federal contractor,
+the first incident occurring only two months into his tenure.  She also noted that the latest violation
+occurred  after nine years of job experience and that various corrective steps taken by Applicant’s
+employer had been unsuccessful.  Balancing the mitigating factors with the security concerns, the
+Judge concluded that Applicant had not met his burden of persuasion that it is clearly consistent with
+the interests of national security for him to have a clearance.  See Department of the Navy v. Egan,
+484 U.S. 518, 528 (1988); Directive ¶ E3.1.15. (“The applicant is responsible for presenting
+witnesses and other evidence to rebut, explain, extenuate, or mitigate facts admitted by the applicant
+or proven by Department Counsel, and has the ultimate burden of persuasion as to obtaining a
+favorable security clearance.”) 
+Applicant argues on appeal that the Judge erred in not applying two other mitigating
+conditions–that the security incidents were isolated or infrequent and that they resulted from
+improper or inadequate training.   The Board does not find this argument persuasive.  Given the5
+Applicant testified that upon starting his employment he was briefed on security procedures.  Tr. at 136.6
+Government Exhibit 3 consists of security training material prepared by Applicant’s employer, which covers potential
+infractions such as those committed by Applicant.  Additionally, various Government exhibits address the specific
+security violations in Applicant’s case and advise that remedial action included his being “re-indoctrinated” in security
+procedures.  See, e.g., Government Exhibit 21 at 2.  
+3
+inherent seriousness of security violations, committing eight over a nine year period is a reasonable
+basis for concluding that they are not infrequent.  See ISCR Case No. 03-26888 at 2 (App. Bd. Oct.
+5, 2006) (“Security violations are one of the strongest possible reasons for denying or revoking
+access to classified information, as they raise very serious questions about an applicant’s suitability
+for access to classified information.”) (internal citations omitted); ISCR Case No. 01-24358 at 4
+(App. Bd. Apr. 13, 2004) (Judge concluded that Applicant’s failure to safeguard six classified
+documents over a ten year period was isolated or infrequent.  Board reversed the Judge, holding the
+Judge’s conclusion to be arbitrary and capricious.)  Furthermore, the Board finds no basis to disturb
+the Judge’s conclusion that Applicant’s security violations were not caused by improper or
+inadequate training.   6
+Examining the Judge’s decision in light of her findings and the record as a whole, the Board
+concludes that she articulates “a satisfactory explanation for” the decision, “including a ‘rational
+connection between the facts found and the choices made.’”  Motor Vehicle Mfrs. Ass’n of the
+United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck
+Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  We hold that her adverse security clearance
+decision is neither arbitrary, capricious, nor contrary to law.  
+4
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.
+Signed: Jean E. Smallin                 
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: William S. Fields                  
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                     
+James E. Moody
+Administrative Judge
+Member, Appeal Board

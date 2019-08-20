@@ -1,0 +1,169 @@
+KEYWORD: Guideline D; Guideline E
+DIGEST: In this case, as the Judge noted, the official who conducted Applicant’s interview and
+prepared the interview summary contained in GE 2 satisfied the authentication requirement of ¶
+E3.1.20.  Moreover, GE 2 meets the second prong of ¶ E3.1.20 because it is admissible as
+evidence of statements by a party opponent in accordance with FRE 801(d) or, in the alternative,
+is admissible as a record of a regularly recurring activity–in this case a security clearance
+investigation–under FRE 803(6).  The Judge’s decision to admit GE 2 was not arbitrary,
+capricious, or contrary to law.  Adverse decision affirmed.
+CASENO: 16-02536.a2
+DATE: 03/11/2019
+DATE: March 11, 2019
+In Re:
+----------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 16-02536
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+October 27, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline D (Sexual Behavior) and Guideline E (Personal
+Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive). 
+Applicant requested a hearing.  On April 11, 2018, after the hearing, Defense Office of Hearings and
+Appeals (DOHA) Administrative Judge Francisco Mendez granted Applicant’s request for a security
+clearance.  Department Counsel appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+On August 23, 2018, we remanded the case to correct an identified error.  On November 28,
+2018, Administrative Judge LeRoy F. Foreman denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to the Directive.
+Applicant has raised the following issue on appeal: whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm.
+Note:  The basis for the remand was to clarify the status of Government Exhibit (GE) 2,
+Answers to Interrogatories, that included a summary of Applicant’s clearance interview.  The prior
+Judge had admitted this document into evidence, though he noted Applicant’s claim that parts of it
+were not accurate.  The Judge gave the parties an opportunity after the hearing to submit additional
+evidence or argument concerning this exhibit, though neither did.  The Judge made no additional
+findings or rulings regarding it.
+In considering Department Counsel’s appeal of the prior Judge’s favorable holding, we were
+not able to conclude from the record that was before us what parts of the interview description
+Applicant had adopted or had not adopted.  That is, we were “unable to discern whether key
+statements were admitted into, or excluded from, evidence.”  Decision at 2.  Accordingly, we
+remanded the case for further processing.  During the hearing on remand, the Judge stated that he
+would consider the evidence admitted at the prior hearing, including the transcript.  He stated that
+the remand hearing would focus upon the admissibility of GE 2.
+The Judge’s Findings of Fact
+Applicant has worked for Federal contractors for more than thirty years and has held a
+clearance since 1970.  He served on active duty with the U.S. military from 1970 to 1975.  He holds
+a doctoral degree.  Married and divorced twice, he has five children.  
+At the remand hearing, Department Counsel called the investigator who had prepared the
+interview description contained in GE 2.  This person testified about her training and experience and
+the methods that she employs when questioning applicants and memorializing their answers. 
+Specifically, she testified that she wrote down an applicant’s answers using whatever words the
+applicant had used and did not paraphrase them.  Although she admitted that she did not remember
+the details of Applicant’s interview, she testified as to her confidence that the interview description
+was a 100% accurate presentation of Applicant’s answers.  The Judge concluded that this witness
+had authenticated the GE 2, and he admitted it into evidence. 
+2
+The Judge’s findings of security concern were drawn substantially from GE 2.  In essence,
+Applicant had a relationship with a foreign woman who appeared in pornographic videos.  
+Applicant had joined a fan club through which he could watch these pornographic videos.  The
+woman led Applicant to understand that she would have sex with him, and on about five occasions
+he paid her $1,200 for sex.  He traveled to different cities for that purpose and would usually meet
+her for dinner, followed by engaging in sexual activity in a hotel room.  He also invited her to a
+vacation home that he owned, asking his daughter, who was staying at the home, to leave for a few
+hours so that he could be alone with the woman.  He characterized himself as her customer and
+friend.  Applicant admitted that he knew that prostitution was illegal.
+ 
+The Judge’s Analysis
+The Judge found that the interviewer’s testimony authenticating GE 2 resolved the issue that
+was the reason for the remand.  He also stated that, although he was not convinced that GE 2 was
+100% accurate, neither was he convinced that the contents of the description regarding the woman
+were a fabrication, as Applicant claimed.  The Judge noted the presumption that Government
+officials discharge their duties in good faith and found no reason to deny the good faith of the
+authenticating witness.  In examining Applicant’s case for mitigation, the Judge concluded that the
+conduct in question was recent, frequent, and not unlikely to recur.  He did note that the conduct
+took place in private and that it was consensual.  However, the Judge concluded that Applicant’s
+conduct impugned his judgment, and he entered adverse formal findings under both Guidelines.
+Discussion
+Applicant contends that the Judge erred in holding against him.  He contends that GE 2 was
+neither substantiated nor corroborated, as required by case law.  He argues that the Judge’s adverse
+findings and conclusions constituted an improper substitution of a credibility determination for
+actual evidence.
+We examine a Judge’s decision to admit evidence to see if it is arbitrary, capricious, or
+contrary to law.  See, e.g,. ISCR Case No. 15-05047 at 4 (App. Bd. Nov. 8, 2017).  Because GE 2
+was drawn from a DoD background report of investigation (ROI), the Judge properly evaluated its
+admissibility under Directive ¶ E3.1.20.  This paragraph states, in pertinent part, as follows:
+Official records or evidence compiled or created in the regular course of business,
+other than [a] DoD [ROI], may be received and considered by the Administrative
+Judge without authenticating witnesses . . . An ROI may be received with an
+authenticating witness provided it is otherwise admissible under the Federal Rules
+of Evidence[.] 
+In this case, as the Judge noted, the official who conducted Applicant’s interview and prepared the
+interview summary contained in GE 2 satisfied the authentication requirement of ¶ E3.1.20. 
+3
+Moreover, GE 2 meets the second prong of ¶ E3.1.20 because it is admissible as evidence of
+statements by a party opponent in accordance with FRE 801(d) or, in the alternative, is admissible
+as a record of a regularly recurring activity–in this case a security clearance investigation–under
+FRE 803(6).  The Judge’s decision to admit GE 2 was not arbitrary, capricious, or contrary to law.
+Applicant appears to argue that, insofar as he denied the truthfulness of GE 2, the
+Government was required to provide independent corroborating evidence of the facts stated therein
+as a condition of admissibility.  He cites to Directive ¶ E3.1.20 and its requirement of an
+authenticating witness, and we construe the argument to mean that the Government was required to
+present a witness who could not merely authenticate, or identify, GE 2 but independently
+corroborate the matters asserted therein before the Judge could consider the exhibit.  However, as
+our discussion above attests, authentication is simply a means whereby the proponent of evidence
+establishes that the evidence is what it purports to be, in this case a record of Applicant’s clearance
+interview.  See FRE 901for a discussion of authentication as a condition precedent to admissibility.1 
+The Directive does not require independent substantive corroboration of the facts asserted within
+an interview description or similar document.  Once a DoD ROI is authenticated and found
+admissible under the Federal Rules of Evidence, a Judge may consider it for the truth of the matter
+asserted, even if there is no other evidence of those matters.  Applicant cites to numerous Appeal
+Board cases in his brief.  However, these cases address the admissibility of interview descriptions
+when there has been no authenticating witness, for example when the applicant waives an objection
+to the evidence (ISCR Case No. 15-01807 (App. Bd. Apr. 19, 2017)) or when the applicant admits
+that the report accurately depicts his answers (ISCR Case No. 09-06218 (App. Bd. Sep. 6, 2011)). 
+None of these cases establish a requirement that even when a witness has authenticated an interview
+description within the meaning of the Directive, the Government must still present independent
+evidence of its assertions before it can be admitted and considered over an applicant’s objection.2 
+ To the extent Applicant is disagreeing with the weight the Judge gave to the evidence or is
+disagreeing with the Judge’s conclusions, such disagreements are not sufficient to demonstrate that
+the Judge erred.  See, e.g., ISCR Case No. 18-00310 at 3 (App. Bd. Dec. 19, 2018).
+1FRE 901(a) provides that the “requirement of authentication or identification as a condition precedent to
+admissibility is satisfied by evidence sufficient to support a finding that the matter in question is what its proponent
+claims.”  Authentication simply means that it is authored by, or issued by, or has its source in, what or who is claimed. 
+It does not, in and of itself, mean that factual statements in the document must be accepted as true.  For this the document
+must be evaluated for admissibility as a hearsay exception, etc.  See Rothstein, Practice Comment to 901(a), Federal
+Rules of Evidence, Third Edition (2008).
+2 We also note Applicant’s argument that the Judge’s decision was based upon non-alleged conduct.  However,
+non-alleged conduct means conduct that is not alleged in the SOR, which denies the applicant fair notice of the concerns
+to be addressed in the DOHA proceeding.  Applicant’s conduct was indeed alleged in the SOR, and the Government’s
+evidence, including the properly admitted GE 2, constitutes substantial evidence of the allegations.  The Judge’s material
+findings are supported by substantial evidence or constitute reasonable inferences that could be drawn from the evidence. 
+See, e.g., ISCR Case No. 16-02640 at 3 (App. Bd. Jul. 2, 2018).
+4
+The record supports a conclusion that the Judge examined the relevant data and articulated
+a satisfactory explanation for the decision, “including a ‘rational connection between the facts found
+and the choice made.’”  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins.
+Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168
+(1962)).  The Judge’s adverse decision is sustainable on this record.  “The general standard is that
+a clearance may be granted only when ‘clearly consistent with the interests of the national security.’” 
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A ¶
+2(b):  “Any doubt concerning personnel being considered for national security eligibility will be
+resolved in favor of the national security.”
+Order
+The Decision is AFFIRMED.   
+Signed: Michael Y. Ra’anan           
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody                
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                   
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+5

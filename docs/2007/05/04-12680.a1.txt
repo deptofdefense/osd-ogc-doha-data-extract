@@ -1,0 +1,137 @@
+KEYWORD: Guideline E; Guideline J
+DIGEST: A credibility determination based solely on a written record is not entitled to the same
+deference on appeal as a credibility determination based on observation of a witness’s demeanor. 
+It is not clear from the decision or from the record why the Judge found Applicant’s explanation
+for his false statement credible.  Favorable decision remanded.
+CASENO: 04-12680.a1
+DATE: 05/21/2007
+DATE: May 21, 2007
+In Re:
+--------
+SSN: -------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 04-12680
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Daniel F. Crowley, Esq., Department Counsel
+Kathryn D. MacKinnon, Esq., Deputy Chief Department Counsel
+FOR APPLICANT
+Pro Se
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On August 3, 2005, DOHA issued a statement of reasons advising Applicant of the basis
+The Judge’s favorable decision under Guideline J is not at issue in this appeal.  1
+2
+for that decision–security concerns raised under Guideline E (Personal Conduct) and Guideline J
+(Criminal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+(Directive).  Applicant requested a decision on the written record.  On August 31, 2006, after
+considering the record, Administrative Judge Shari Dam granted Applicant’s request for a security
+clearance.  Department Counsel filed a timely appeal pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Department Counsel raises the following issues on appeal: whether the Judge’s findings of
+fact are based upon substantial evidence; whether the Judge improperly relied upon a credibility
+determination rather than record evidence; and whether the Judge erred in her application of the
+Guideline E mitigating conditions.   Finding error, we remand the case to the Judge.  1
+Whether the Record Supports the Judge’s Factual Findings
+A.  Facts
+The Judge made the following findings of fact: In June 2001, Applicant was arrested and
+charged with DUI and with negligent operation of a vehicle.  At trial he was acquitted of the DUI
+but convicted of negligent operation.  He was fined.  Additionally, his driver’s license was suspended
+for 90 days because he had refused to take a Breathalyzer.
+One month later, Applicant was arrested and charged with driving under a suspended license.
+Upon payment of court costs, the charge was dismissed.  In May 2002, Applicant completed his
+security clearance application.  Question 24 read: “Your Police Record - Alcohol/Drug Offenses:
+Have you ever been charged with or convicted of any offense(s) related to alcohol or drugs?  For this
+item, report information regardless of whether the record in your case has been ‘sealed’ or otherwise
+stricken from the court record.  The single exception to this requirement is for certain convictions
+under the Federal Controlled Substances Act for which the court issued and expungement order
+under the authority of 21 U.S.C 844 or 18 U.S.C 3607.”  Applicant answered “no” to this question,
+despite his having been arrested and charged with DUI.
+Question 26 read “Your Police Record - Other Offenses: In the last 7 years have you been
+arrested for, charged with, or convicted of any offense(s) not listed [elsewhere on the application]?
+(Leave out traffic fines of less than $150 unless the violation was alcohol or drug related) For this
+item, report information regardless of whether the record in your case has been ‘sealed’ or otherwise
+stricken from the court record.  The single exception to this requirement is for certain convictions
+under the Federal Controlled Substances Act for which the court issued an expungement order under
+the authority of 21 U.S.C. 844 or 18 U.S.C. 3607.”  Applicant answered “no” to this question,
+despite having been arrested and charged with driving under a suspended license.
+The Judge went on to find, “Applicant did not disclose the two charges because he did not
+take enough time while completing the SCA to fully understand the scope of the questions, which
+included an inquiry into all matters, including arrests, regardless of the outcome.  After re-reading
+both questions twice during his interview with the government’s investigator, he realized he should
+have disclosed the information.”  
+Applicant holds a Bachelor of Science degree.  2
+Applicant Exhibit A at 1.3
+3
+B.  Discussion
+The Appeal Board’s review of the Judge’s findings of facts is limited to determining if they
+are supported by substantial evidence–such relevant evidence as a reasonable mind might accept as
+adequate to support such a conclusion in light of all the contrary evidence in the record.”  Directive
+¶  E3.1.32.1.  “This is something less than the weight of the evidence, and the possibility of drawing
+two inconsistent conclusions from the evidence does not prevent an administrative agency’s findings
+from being supported by substantial evidence.”  Consolo v. Federal Maritime Comm’n, 383 U.S.
+607, 620-21 (1966).  In evaluating the Judge’s findings, we are required to give deference to the
+Judge’s credibility determinations.  Directive  ¶  E3.1.32.1. 
+Department Counsel challenges the findings placed in quotation marks above on the
+grounds that they are not supported by the record, viewed as a whole.  Counsel observes that
+Questions 24 and 26 are clear in their meaning.  Furthermore he cites Applicant’s age, his level of
+education,  the complexity of his professional responsibilities, and his admission that he has held a2
+clearance “for over 10 years”  as reasons to believe Applicant was capable of understanding the3
+questions.  Department Counsel argues that the record demonstrates Applicant to be an individual
+“particularly capable” of understanding not only the SF86 but also his obligation to fill it out with
+due care, and to be forthcoming about even embarrassing events.  Brief at 8.   
+The Board finds Department Counsel argument persuasive.  It is not clear from the decision
+or from the record why the Judge found Applicant’s explanation for his false statement to be
+credible.  It is significant that, this case having been decided on the written record, the Judge did not
+have an opportunity to evaluate Applicant’s demeanor while testifying.  See ISCR Case 04-04302
+at  (App. Bd. Jun. 30, 2005) (“[W]hen an applicant waives a hearing and chooses to have his or her
+case decided by a Judge based on a written record, the Judge has no ability to make a credibility
+determination based on observation of the applicant’s demeanor.  Accordingly, a credibility
+determination based solely on a written record is not entitled to the same deference on appeal as a
+credibility determination based on observation of a witness’s demeanor.”) See also ISCR Case No.
+97-0752 at 3 (App. Bd. Dec. 4, 1998); ISCR Case No. 97-0625 at 2-3 (App. Bd. Aug. 17, 1998).  
+In addition to the contrary facts listed above, we also note that, in his response to the FORM,
+Applicant contends that the questions at issue are ambiguous, in that neither mention the terms
+“arrested” or “court appearances.”  However, as the Judge’s own finding demonstrates, Question 26
+does in fact explicitly use the term “arrested.”  Her decision does not address this apparent
+inconsistency with Applicant’s response.  Nor does it address another factor, raised implicitly in
+Applicant’s evidence attesting to his good job performance, that Applicant’s concern over his
+continued employment provides a possible motive for not answering the questions truthfully.  All
+in all, the Judge’s decision does not reflect serious consideration of the contrary record evidence.
+Accordingly, we are unable to conclude that the challenged findings are supported by substantial
+ Department Counsel challenges another statement by the Judge, found in her Conclusions section, in which4
+she says, “Applicant’s explanation that he did not intentionally withhold information, but instead misunderstood the
+question, is reasonable, and not contradicted by any substantive evidence from the Government.”  Decision at 5.  The
+Judge has, through this sentence, effectively shifted the burden of persuasion to the Government.  That is, the Judge’s
+decision seems to imply that Applicant’s denial of a knowing falsehood  required the government to produce additional
+evidence on that point beyond that already contained in the record.  The Government has no burden of persuasion in an
+ISCR case.  See Directive  ¶   E3.1.15.  In any event, the Judge does not explain why those matters discussed in the text
+of this opinion do not, at least arguably, contradict Applicant’s denial.      
+4
+record evidence.4
+  We believe that the appropriate remedy in this case is to remand it to the Judge for a new
+decision, one in which her findings take into account all the record evidence on the question of
+Applicant’s knowledge and intent in his response to Questions 24 and 26.  The decision should
+address those matters identified in this opinion as bearing on the issue, as well as any others fairly
+raised by the evidence.  The remaining issues on appeal are not ripe for adjudication.  
+Order
+The Judge’s decision granting Applicant a clearance is REMANDED. 
+Signed: Michael Y. Ra’anan        
+Michael Y. Ra’anan
+Administrative Judge
+Chairman, Appeal Board
+Signed: Jean E. Smallin                 
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                 
+James E. Moody
+Administrative Judge
+Member, Appeal Board

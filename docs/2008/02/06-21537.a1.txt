@@ -1,0 +1,208 @@
+KEYWORD: Guideline K; Guideline E
+DIGEST: An applicant in a position of supervision can be held accountable for security
+violations resulting from a failure to supervise subordinates properly.  The Judge’s decision lists
+multiple security violations during Applicant’s supervisory tenure.   Favorable decision reversed.
+CASENO: 06-21537.a1
+DATE: 02/21/2008
+DATE: February 21, 2008
+In Re:
+------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 06-21537
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Emilio Jaksetic, Esq., Department Counsel
+FOR APPLICANT
+John F. Mardula, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On December 11, 2006, DOHA issued a statement of reasons advising Applicant of the
+basis for that decision—security concerns raised under Guideline K (Handling Protected
+Under Guideline K, Department Counsel appeals the Judge’s conclusions regarding SOR ¶ 1.a.(2), but not 1
+1.a. (1).  
+2
+Information) and Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan.
+2, 1992), as amended (Directive).  Applicant requested a hearing.  On September 28, 2007, after the
+hearing, Administrative Judge Jacqueline T. Williams granted Applicant’s request for a security
+clearance.  Department Counsel timely appealed pursuant to the Directive ¶¶ E3.1.28 and E3.1.30.
+Department counsel raises the following issues on appeal: whether the judge made certain
+findings of fact that are erroneous because they fail to reflect a reasonable interpretation of the record
+evidence as a whole; and whether it was arbitrary, capricious, or contrary to law for the Judge to
+conclude that Applicant’s conduct under Guideline K  was mitigated  and that Applicant’s conduct1
+under Guideline E did not raise security concerns.
+Whether the Record Supports the Judge’s Factual Findings
+Facts:
+The Judge made the following relevant findings of fact:
+In December 2000, while a security manager for a defense contractor, Applicant failed to
+secure a safe which contained classified information.  No classified information was compromised.
+Applicant reported the violation to her supervisor and made suggestions for improving security for
+the safe.
+In 2004, Applicant was Facility Security Officer (FSO) and supervised three staff members.
+Over a period of several years, one of those three employees committed multiple security violations
+with regard to a particular account the employee managed.  Applicant was also alternate custodian
+of that account.  Applicant received her training on the account from the employee.  Applicant relied
+on the employee’s experience and did not verify the employee’s work.  Applicant was not aware that
+the employee had received several notices regarding the delinquent status of the account.  The
+resulting investigation revealed that Applicant’s performance in handling the account reflected a
+pattern of gross negligence and disregard of security requirements.  As supervisor, Applicant was
+held responsible for the security violations of her employee and was suspended by her employer for
+one week without pay.  No classified information was compromised.
+Applicant is no longer a supervisor.  She received ratings of “outstanding” from her employer
+in 2006.  She submitted four character reference letters, and three coworkers testified on her behalf.
+Discussion:
+The Appeal Board’s review of the Judge’s findings of facts is limited to determining if they
+are supported by substantial evidence—“such relevant evidence as a reasonable mind might accept
+as adequate to support a conclusion in light of all the contrary evidence in the same record.”
+Directive ¶ E3.1.32.1.  “This is something less than the weight of the evidence, and the possibility
+of drawing two inconsistent conclusions from the evidence does not prevent an administrative
+agency’s finding from being supported by substantial evidence.”  Consolo v. Federal Maritime
+See Transcript at 157-165, referring to specific account manual, Manual 90-1, ¶ 17.b.(1).2
+Transcript at 49-50, 55, 57, 85, and 141.3
+3
+Comm’n, 383 U.S. 607, 620-21 (1966).  In evaluating the Judge’s findings, we are required to give
+deference to the Judge’s credibility determinations.  Directive ¶ E3.1.32.1. 
+As stated above, Department Counsel has challenged certain of the Judge’s factual findings.
+The Board will address these findings in its analysis below.
+Whether the Record Supports the Judge’s Ultimate Conclusions
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983) (quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  The
+Appeal Board may reverse the Judge’s decision to grant, deny, or revoke a security clearance if it is
+arbitrary, capricious, or contrary to law.  Directive ¶ E3.1.32.3.  “The general standard is that a
+clearance may be granted only when ‘clearly consistent with the interest of the national security.’”
+Dep’t of the Navy v. Egan, 484 U.S. 518, 528 (1988).
+Department Counsel contends that the Judge erred in finding that Applicant’s conduct under
+Guideline K was mitigated.  Department Counsel states that the Judge found mitigation for the
+following reasons: “(a) the custodian was responsible for the account, (b) Applicant was not aware
+of the custodian’s negligent handling of the account, (c) Applicant had not been notified by the
+custodian that inquiries had been made about the status of the account, (d) the problem with the
+[particular] account happened once and did not recur, (e) Applicant had been improperly trained to
+handle the [particular] account, and (f) Applicant responded favorably and now demonstrates a
+positive attitude toward the discharge of security responsibilities. . .”  Department Counsel’s
+contentions have merit.
+With regard to point (a), Applicant characterized her responsibility for the particular
+classified account as minimal.  The custodian had primary responsibility for the account.  However,
+Applicant had responsibility for the account as the custodian’s supervisor, the FSO, and as alternate
+custodian.  As alternate custodian, Applicant had a duty to keep aware of the day-to-day activity of
+the account in order to assume the duties of the account custodian, when necessary, without undue
+interruption of operations.   There is considerable record evidence regarding the duties of a2
+supervisor and an alternate custodian,  and Applicant herself admitted that her supervision was very3
+lax.  Transcript at 112-113.
+  
+With regard to points (b) and (c), the Judge could reasonably find that Applicant was not
+aware of the account custodian’s negligent handling of the account  and that Applicant had not been
+notified by the custodian that inquiries had been made as to the status of the account.  However,
+those facts do not mitigate the security concerns of Applicant’s actions.  The Board has held that an
+applicant in a position of supervision can be held accountable  for security violations resulting from
+4
+a failure to properly supervise subordinates.  See, e.g., DISCR Case No. 89-0781 at 7 (App. Bd. Feb.
+23, 1993).  Applicant commented that she was to “spot check” the custodian’s work.  Transcript at
+134.  As noted above, Applicant admitted that her supervision was very lax. 
+With regard to point (d), Applicant supervised the custodian of the account under discussion
+here from mid-2001 to late 2004.  Transcript at 129, 146.  The Judge’s decision lists multiple
+security violations which occurred in that account during that period.  Decision at 3.  The record does
+not support the conclusion that the negligent handling of the account happened once and did not
+recur.  The violations were continuous and recurred until Applicant had moved to another position
+in the company and a new primary custodian had been appointed.
+With regard to point (e), Applicant stated that she did not receive training for the specific
+account at issue.  She had received security training, including refresher courses.  When Applicant
+became responsible for that specific type of sensitive account, she should have asked for training
+specific to that type of account.   Applicant did not do so and did not try to familiarize herself with
+the relevant directives.  Transcript at 132-133, 141.  This failure is related to her lax supervision and
+is not a cause for mitigation.
+As to point (f), while there is some support in the record for the Judge’s conclusion on this
+point, there is much evidence to the contrary.  The Judge accepted many of Applicant’s
+characterizations of the events at issue.  Some of those characterizations are contained in the points
+under discussion here.  Applicant has attempted to minimize and rationalize her failures by placing
+the blame on the account custodian or on her employer.  In her answer to the SOR, Applicant stated
+that she “thoroughly disagreed with the disciplinary action and the wording of the adverse report,
+but in an effort to move past this incident, I accepted the responsibility and disciplinary action.”
+Response to SOR at 3.  When questioned about her response to the report, Applicant stated that it
+was “not only false and misleading, but libelous and bordered on the lines of defamation of
+character.”  Response to SOR at 3 and Transcript at 152-153.  The record evidence indicates neither
+a favorable response to the incidents in question nor a positive attitude toward security duties.
+Overall, the Administrative Judge failed to plausibly interpret the record evidence as a whole.
+ Applicant admitted to very lax supervision.  As an alternate account custodian and FSO, Applicant’s
+duties were not “minimal” and required her to obtain knowledge about the account rather than
+merely rely on what others reported to her.  The security discrepancies in that account involved
+something more than the one-time mishandling of protected information–Applicant continuously
+failed to accomplish her duties with respect to the account from 2001 until late 2004.  Applicant’s
+mishandling of her duties contributed to the security violations noted by the Administrative Judge
+on page 3 of the Decision and lead to her suspension by her employer.  Applicant had significant
+experience as an FSO and when she acquired alternate custodian duties with respect to the  account,
+she should have realized that she needed training specific to that account.  She failed to request it,
+and this contributed to her inadequate training.  While there is record evidence that Applicant is now
+more reliable, there is also evidence that Applicant has not demonstrated a positive attitude by
+downplaying her responsibility in the account’s security errors.  Once it is established that an
+applicant has committed a security violation, she has “a very heavy burden of demonstrating that she
+should be entrusted with classified information.” Such violations “strike at the heart of the industrial
+security program,” and the “Administrative Judge must give any claims of reform and rehabilitation
+strict scrutiny.”  See, e.g., ISCR Case No. 00-0030 at 9 (App. Bd. Sep. 20, 2001). Considering the
+¶ 16.(c): “credible adverse information in several adjudicative issue areas that is not sufficient for an adverse4
+determination under any other single guideline, but which, when considered as a whole, supports a whole-person
+assessment of questionable judgement, untrustworthiness, unreliability, lack of candor, unwillingness to comply with
+rules and regulations, or other characteristics indicating that the person may not properly safeguard protected
+information;”
+¶ 16.(d): “credible adverse information that is not explicitly covered under any other guideline and may not be
+sufficient by itself for an adverse determination, but which, when combined with all available information supports a
+whole-person assessment of questionable judgment, untrustworthiness, unreliability, lack of candor, unwillingness to
+comply with rules and regulations, or other characteristics indicating that the person may not properly safeguard
+protected information. . .;”
+5
+burden on Applicant and the record evidence as a whole, it is not reasonable to conclude that
+Applicant mitigated security concerns under Guideline K. 
+Department Counsel correctly notes another error which involves both the Judge’s factual
+findings and her conclusions.  The Judge stated in her factual findings that there was no compromise
+of security as a result of Applicant’s actions.  Decision at 3.  However, the Judge later concluded that
+security was compromised by Applicant’s actions.  Decision at 6.  There is testimony in the record
+that an agency determination of the existence of a security compromise is controlling.  Transcript
+at 34-35.  In this case, the agency determined that a compromise occurred.  See Government Exhibit
+4.
+Department Counsel also argues that the Judge erred by concluding that Applicant’s conduct
+did not raise security concerns under Guideline E.  Department Counsel’s argument has merit.  The
+Judge quoted language from ¶¶ 16.(c) and 16.(d) of the Revised Adjudicative Guidelines of the
+Directive to support her conclusion.   Because Applicant’s actions under Guideline K were sufficient4
+to support a “basis” for disqualification under Guideline K, the Judge concluded that there were no
+security concerns under Guideline E in Applicant’s case.  However, the Directive does not provide
+that if conduct raises a disqualifying condition under a specific guideline, then that conduct is
+precluded from consideration under any other guideline.  `As Department Counsel points out, the
+introduction to ¶ 16 states that the “[c]onditions that could raise a security concern. . . include” the
+seven listed subparagraphs, but are not limited to those seven conditions.  Moreover, the plain
+meaning of ¶ 16.(c) anticipates that the adjudicating official will reach a favorable determination,
+after considering disqualifying and mitigating conditions, under another single guideline, but then,
+under this paragraph, consider the same conduct applying a whole-person analysis, which could
+result in an unfavorable determination.  The Board has held that an applicant’s behavior may have
+security significance under more than one Guideline.  See, e.g., ISCR Case No. 03-05072 at 6 (App.
+Bd. Jul. 14, 2005).  While the revision of the Adjudicative Guidelines may modify the interpretation
+of some Board precedents or preclude their application, the revision of Guideline E noted above does
+not change the general principle stated in the above Board decision that behavior can have security
+significance under more than one Guideline.  The language of the revised Adjudicative Guidelines
+is consistent with this principle.  The Judge’s conclusion not to consider the conduct under
+Guideline E in this case is erroneous.
+The record evidence in this case does not support the Judge’s favorable conclusions.  The
+errors discussed above render the Judge’s decisions arbitrary, capricious, or contrary to law.  The
+decision is not sustainable.  
+6
+Order
+The Judge’s favorable security decision is REVERSED.
+Signed: Michael D. Hipple   
+Michael D. Hipple
+Administrative Judge
+Member, Appeal Board
+Signed: Jean E. Smallin      
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: Jams E. Moody        
+James E. Moody
+Administrative Judge
+Member, Appeal Board

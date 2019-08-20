@@ -1,0 +1,212 @@
+KEYWORD: Guideline E; Guideline F
+DIGEST: The record does not support Applicant’s claim that Department Counsel misled him. 
+First, Applicant has failed to specify exactly what Department Counsel stated to mislead him,
+what information he provided Department Counsel that now concerns him, and how disclosure
+of that information may have harmed him.  Second, Applicant did not raise this issue at the
+hearing and, therefore, did not provide the Judge an opportunity to inquire into it.  Third,
+Applicant first called Department Counsel “a couple of weeks” before the hearing.  In
+Department Counsel’s discovery letter, Department Counsel advised, “I am the attorney assigned
+to represent the Government at the hearing” at which “you may represent yourself, retain an
+attorney, or be assisted by a personal representative, such as a friend, family member, or union
+representative.” Adverse decision affirmed.
+CASENO: 17-03228.a1
+DATE: 03/01/2019
+DATE: March 1, 2019
+In Re:
+------------------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-03228
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+September 28, 2017, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision—security concerns raised under Guideline F (Financial Considerations) and Guideline
+E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+(Directive).  Applicant requested a hearing.  On October 24, 2018, after the hearing, Defense Office
+of Hearings and Appeals (DOHA) Administrative Judge Elizabeth M. Matchinski denied
+Applicant’s request for a security clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28
+and E3.1.30
+Applicant raised the following issue on appeal: whether he was denied due process.  The
+Judge’s favorable findings under Guideline E have not been raised as an issue on appeal and are not
+discussed further below.  Consistent with the following, we affirm.
+The SOR alleged that Applicant had multiple delinquent debts.  The Judge found against him
+on three of those debts, i.e., a  mortgage account charged off for about $24,400, a credit account
+charged off for about $5,500, and a credit card account charged off for about $4,100.  The Judge
+concluded that Applicant needed to show greater progress toward reestablishing financial stability
+to fully mitigate the financial security concerns.  In his appeal brief, Applicant does not challenge
+any of the Judge’s specific findings of fact or conclusions.1  
+At the outset, we note that Applicant submitted an appeal brief on December 28, 2018.  Since
+then, he made three untimely submissions.  Of further note, the Directive authorizes only one brief
+for each party.  Directive ¶ E3.1.30.  See also, ISCR Case No. 12-09389 at 3, n.1 (App. Bd. Sep. 18,
+2015).  Even if we could consider his untimely submissions, we note they are largely repetitive of
+the issues raised in his appeal brief and do not raise any other assertions of harmful error.    
+Applicant’s appeal brief asserts that his security clearance adjudication was unfair.  We
+examined the record as a whole in analyzing Applicant’s alleged denials of due process.  In his brief,
+Applicant contends that he was not provided a copy of the Office of Personnel Management (OPM)
+1 The Appeal Board does not review cases de novo.  There is no presumption of error below, and the appealing
+party has the burden of identifying factual or legal error that warrants remand or reversal.  See, e.g. ISCR Case No. 04-
+01047 at 3 (App. Bd. Oct. 20, 2005).  In his appeal brief, Applicant does state, “There are several mistakes in the report.
+I work with officers that have never done an SF86 or Backgrounds.  Some have questionable issues in the past.” 
+Presumably, Applicant is referring to the Judge’s decision when he uses the term “report.”  The Judge made no findings
+or conclusions about Applicant’s claim regarding the security clearance status of other security officers.  In his closing
+argument, Applicant briefly mentioned that coworkers stated, “We didn’t even do the e-QIP, you know, or took this
+long.”  Tr. at 129.  However, he did not present any evidence on that issue at the hearing.  Arguments by parties are not
+evidence.  See, e.g., ISCR Case No. 14-03392 at 2, n.3 (App. Bd. Apr. 15, 2015).  By raising this issue for the first time
+on appeal as a basis for challenging his adverse clearance decision, he is effectively submitting “new evidence” that the
+Appeal Board cannot consider.  Directive ¶ E3.1.29.  Moreover, the security clearance status of other individuals or
+whether they were required to complete security clearance applications as part of their employment are not relevant
+considerations in determining Applicant’s security clearance eligibility.  Each case must be adjudicated on its own merits. 
+Directive, Encl. 2, App. A ¶ 2(b). 
+2
+investigation.2  At the hearing, Applicant submitted an exhibit reflecting that he requested a copy
+of the OPM investigation, and the following exchange occurred:
+[Judge]: Here’s a request -- marking as Applicant Exhibit L, this is a one-page
+request for his investigative file.  Did you receive that file?
+[Applicant]: I did not.
+[Judge]:  Did not.  Okay.  There is no date on this.  When did you request it?
+[Applicant]:  It was when I -- when I got the background stuff.  There was a separate
+form saying I had to request it, so I sent it right after that.
+[Judge]:  And they haven’t complied with that request, I guess.
+[Applicant]:  No.
+[Judge]:  All right.  Well, given that, I don’t know what the status is.  Did you ever
+contact Department Counsel to ask -- to ask if they could help you? -- no? -- obtain
+that?
+[Applicant]:  No.  The first time I talked to him was probably a couple [of] weeks
+ago, I think, when I called him.
+[Judge]: All right.
+[Applicant]:  But it didn’t  -- that didn’t come up in conversation.  I just didn’t...
+understand the whole process.
+[Judge]:  Okay.
+[Applicant]:  So I was calling him about making sure he knew I got his emails and
+stuff.
+[Judge]:  Okay.  Are you prepared to continue with your case here, nothwithstanding
+you did not receive your investigative record?
+[Applicant]:  I think I can cover --    
+[Judge]: Okay.
+2  DOHA is not a release authority for OPM investigations.  As part of the Government’s exhibits, Applicant
+was provided a copy of the OPM investigator’s summary of his interview.  GE 2.   
+3
+[Applicant]:  -- the issues.3  
+Given his response to the Judge’s last question, Applicant effectively waived any objection that he
+may have had to proceeding with the hearing without the OPM investigative report.4 
+Applicant raises another due process issue by claiming Department Counsel misled him. 
+Applicant states that, in a prehearing conversation with Department Counsel, “I was [led] to believe
+[Department Counsel] was going to help me.”  Appeal Brief at 1.  Essentially, Applicant claims that,
+if he had known that Department Counsel “would be using the information for the best interest of
+the government[,]” he “wouldn’t have explained myself so honestly giving myself a better chance
+to present my case.”  Id. at 1-2.  The record does not support Applicant’s claim that Department
+Counsel misled him.  First, Applicant has failed to specify exactly what Department Counsel stated
+to mislead him, what information he provided Department Counsel that now concerns him, and how
+disclosure of that information may have harmed him.  Second, Applicant did not raise this issue at
+the hearing and, therefore, did not provide the Judge an opportunity to inquire into it.  Normally, a
+party is expected to raise objections or similar claims in a timely manner during the proceeding
+before the Judge in order to preserve them for appeal.  See, e.g.,  ISCR Case No. 03-06212 at 3
+(App. Bd. Jan. 17, 2006).  Third, as noted in Applicant’s above-quoted statements at the hearing,
+he first called Department Counsel “a couple of weeks” before the hearing to make “sure he
+[Department Counsel] knew I got his emails and stuff.”  By using the term “stuff,” Applicant is
+apparently referring to Department Counsel’s discovery letter (Hearing Exhibit (HE) 1) that
+forwarded to him the proposed Government exhibits.  HE 1was sent to him more than four months
+before the hearing, which was held on May 17, 2018.5  In HE 1, Department Counsel advised, “I am
+the attorney assigned to represent the Government at the hearing” at which “you may represent
+yourself, retain an attorney, or be assisted by a personal representative, such as a friend, family
+member, or union representative.”  Moreover, on April 19, 2018, Department Counsel sent
+Applicant an email advising that the Judge planned to schedule his hearing for the following month.6 
+In that email, Department Counsel appropriately identified himself as “Department Counsel,” and
+3 Tr. at 40-41.   
+4 The Directive does not provide that applicants are entitled to their background investigations; rather, it states 
+they are entitled to “a copy of any pleading, proposed documentary evidence, or other written communication to be
+submitted to the Administrative Judge.”  Directive ¶ E3.1.13.   The record reflects that Applicant was provided with the
+documents and procedural rights to which he was entitled under Executive Order 10865 and the Directive.  Tr. at 9-14
+and 16-23.  Additionally, Applicant has not made any proffer that the OPM investigation contains information that would have
+changed the outcome of this case.  Based on the record, the issue of whether the OPM investigation contains information
+favorable to Applicant is a matter of speculation.  
+5 HE 1 is dated January 3, 2018.  It was sent to Applicant by a different Department Counsel from the one who
+represented the Government at the hearing.
+6 Department Counsel’s email dated April 19, 2018, is attached to the Reply Brief, which constitutes matters
+from outside the record that we are generally precluded from considering.  Directive ¶ E3.1.29.  However, we will
+consider new evidence insofar as it bears upon threshold questions such as jurisdiction or due process.  See, e.g., ISCR
+Case No. 14-00812 at 2 (App. Bd. Jul. 8, 2015).  
+4
+informed Applicant that “you may hire an attorney to assist you, bring a non-attorney to assist you,
+or represent yourself.”  Furthermore, on April 24, 2018, the Judge sent Applicant the Notice of
+Hearing that contained the Prehearing Guidance for DOHA Industrial Security Clearance (ISCR)
+Hearing and Trustworthiness (ADP) Hearings.  In the Prehearing Guidance, the Judge advised
+Applicant “[t]he hearing is an adversarial proceeding in which the parties have the responsibility to
+present their respective cases[,]” notified him “[t]he Government is normally represented by an
+attorney known as a Department Counsel[,]” and informed him of his rights to obtain attorney or
+non-attorney representation.  Contrary to Applicant’s contention, the record reflects that Department
+Counsel appropriately advised him of his role in the proceeding and of Applicant’s representation
+rights.  Fourth, there is a presumption that Department Counsel carried out his duties properly and
+in good faith.7  Applicant has failed to rebut the presumption.  Based on our review of the entire
+record, we conclude that Applicant has not established a prima facie showing that he was denied the
+due process afforded him by the Directive.8 
+Applicant also contends that the Office of Personnel Management (OPM) investigator “said
+with my background and experience I was not a threat to security.”9  Appeal Brief at 1.  The
+statement Applicant is citing, however, summarizes his responses to the investigator’s questions. 
+It does not constitute the investigator’s opinion as to Applicant’s security clearance worthiness.  See,
+e.g., ISCR Case No. 14-03069 at 3 (App. Bd. Jul. 30, 2015).  In any event, even if an investigator
+provided such an opinion, it would not bind the DoD in its evaluation of an applicant’s case.  Id. 
+Additionally, Applicant notes that he does not have access to classified information in the
+performance of his duties.  However, this is not a relevant matter for our consideration.  Our
+jurisdiction is limited to consideration of whether the Judge’s findings are supported by substantial
+7  “[T]here is a well-established legal presumption that Government officials carry out their duties properly and
+in good faith, and a person seeking to rebut or overcome that presumption has the burden of presenting clear evidence
+to the contrary.”  See, ISCR Case No. 02-20947 at 3 (App. Bd. Jun. 18, 2004) (citing, National Archives and Records
+Administration v. Favish, 541 U.S. 157, 174 (2004)).
+8 Applicant also contends that he spoke to the Judge on the telephone before the hearing, she pulled his file from
+the rotation, “she felt she had minimal concerns[,]” and gave him additional time to submit matters if he so desired.   He
+also asks the question, “If there was a concern for my clearance then why pull it from the rotation?”  Appeal Brief at 2. 
+This contention fails for lack of specificity.  It does not assert the Judge committed any harmful error.  An appealing
+party must state with sufficient specificity what it is about a Judge’s decision that he or she believes constitutes error so
+as to enable reviewing authorities, such as the Appeal Board, to address the assignment of error.  See, e.g., ISCR Case
+No. 14-05920 at 3 (App. Bd. Jan. 8, 2016).  The Judge’s purported comment about having “minimal concerns”
+apparently relates to her thoughts about delaying the hearing.  While the Directive provides that Judges shall conduct
+all proceedings in a timely manner (¶ E3.1.10), they are generally permitted to exercise their discretion in scheduling
+hearings.  Applicant has not explained how the Judge’s decision to give him additional time to prepare his case inured
+to his detriment.  
+9 Applicant is apparently basing this statement on a line in the summary of his background interview that states,
+“There is nothing in the Subject’s background that could place the Subject in a position to be blackmailed or coerced.” 
+Government Exhibit (GE) 2, marked as Page 11.  See also, AE W in which Applicant states, “This is a copy of the
+investigation [summary of background interview] done by OPM.  In the report it states 4 times “There is nothing about
+these circumstances that makes the subject vulnerable to blackmail, coercion, or being under duress.”     
+5
+evidence; whether the Judge adhered to the procedural requirements of the Directive; and whether
+the Judge’s rulings and conclusions are arbitrary, capricious, or contrary to law.  Directive ¶ E3.1.32. 
+We have no authority to consider the extent to which an applicant may or may not actually have
+access to classified information in the course of his or her job.  See, e.g., ISCR Case No. 14-00508
+at 2-3 (App. Bd. Jan. 23, 2015).  
+  
+Applicant was provided the procedural rights afforded him under the Directive.  He has not
+established that his security clearance adjudication was unfair.  The Judge examined the relevant
+evidence and articulated a satisfactory explanation for the decision.  The decision is sustainable on
+this record.  “The general standard is that a clearance may be granted only when ‘clearly consistent
+with the interests of the national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528
+(1988).  See also Directive, Encl. 2, App. A ¶ 2(b):  “Any doubt concerning personnel being
+considered for national security eligibility will be resolved in favor of the national security.”
+Order
+The case is AFFIRMED.   
+Signed: Michael Y. Ra’anan           
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody                  
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                     
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+6

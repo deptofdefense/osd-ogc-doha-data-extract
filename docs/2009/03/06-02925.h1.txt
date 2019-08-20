@@ -1,0 +1,261 @@
+1
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+------------ ------ ----------- )       ISCR Case No. 06-02925
+SSN: ------------- )
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Emilio Jaksetic, Esq., Department Counsel
+For Applicant: Sheldon I. Cohen, Esq.
+______________
+Decision
+______________
+CURRY, Marc E., Administrative Judge:
+On November 7, 2008, the Defense Office of Hearings and Appeals (DOHA)
+issued to Applicant a Statement of Reasons (SOR) detailing the security concern under
+Guidelines G, H, and E. The action was taken under Executive Order 10865,
+Safeguarding Classified Information within Industry (February 20, 1960), as amended;
+Department of Defense Directive 5220.6, Defense Industrial Personnel Security
+Clearance Review Program (January 2, 1992), as amended (Directive), and the revised
+adjudicative guidelines (AG) promulgated by the President on December 29, 2005, and
+effective within the Department of Defense for SORs issued after September 1, 2006. 
+On November 22, 2008, Applicant filed an answer to the SOR, denying all of the
+allegations except SOR subparagraphs 2.a, and 3.a, and requesting a hearing. I
+received the case assignment on January 5, 2009. DOHA issued a notice of hearing on
+January 14, 2009, and I convened the hearing as scheduled on February 17, 2009.
+During the hearing, I received seven government exhibits (Ex. 1-7), 17 Applicant
+exhibits (Ex. A-Q), and the testimony of five Applicant witnesses. I received the
+2
+transcript on February 25, 2009. Based upon a review of the case file, pleadings,
+exhibits, and testimony, eligibility for access to classified information is denied.
+Rulings of Evidence
+Exhibit 4 is Applicant’s Response to Written Interrogatories, notarized August 5,
+2008. It includes excerpts from an Office of Personnel Management (OPM) Report of
+Investigation (ROI) that contain the OPM agent’s written summary of three personal
+subject interviews with Applicant conducted on March 19, 2008, July 23, 2007, and
+November 14, 2005, respectively. Interrogatory Question 2 asked Applicant to review
+the subject interviews, and “verify the report on the last page of [the] interrogatories”
+(Exhibit 4 at 2). Under Interrogatory Question 3, Applicant was asked if the ROI
+accurately reflected the information that he provided to the investigator on the days he
+was interviewed. Applicant answered “no” (Exhibit 4 at 3). Also, he provided a two-page
+explanation, comprehensively discussing each personal subject interview, and
+identifying what he believed to be inaccuracies in the investigator’s written record of
+them.
+On February 12, 2009, Applicant’s counsel filed a Motion in Limine seeking to
+exclude Exhibit 4, arguing that DoD Directive 5220.6 ¶ E 3.1.20 prohibits the admission
+of ROIs without authenticating witnesses, and that the government cannot circumvent
+this requirement by including the ROI with Interrogatories to Applicant, and asking him
+to authenticate it. Alternatively, he argued that the majority of the subject matter of the
+ROI -  foreign contacts, foreign travel, risque internet chatroom discussions, were
+irrelevant.
+I overruled Applicant’s objection as to the admissibility of the ROI excerpts.
+Applicant frequently cross-referenced the ROI in his Interrogatory Responses,
+elaborating upon it, and identifying inaccuracies. Under these circumstances, the ROI
+constitutes non-hearsay evidence that is admissible not for the truth of the matters
+asserted within it, but to facilitate my understanding of Applicant’s Interrogatory
+Responses.
+I sustained Applicant’s objection as to the inadmissibility of the information within
+the ROI about foreign contacts, foreign travel, and risque internet chatroom discussions.
+Similarly, I did not consider information about these subjects contained within Exhibit 4.
+None of this information is listed in the SOR. Although SORs are not criminal
+indictments, they must be drafted, at minimum, with enough specificity to put applicants
+on notice of the nature of the allegations. The government alleged no security concerns
+under the Foreign Influence or Sexual Behavior guidelines, therefore, I considered none
+of the information in the ROI covering these subjects.
+3
+Findings of Fact
+Applicant is a 48-year-old married man with two teenage children. He earned a
+Bachelor of Science degree in computer science in 1983 and a Master of Science in
+computer engineering in 1985 (Tr. 152). He has spent his career developing
+cryptograph standards for financial institutions, and developing network security
+systems (Tr. 77 - Supervisor’s Testimony). Currently, he is a senior-level supervisor for
+a defense contractor who supervises “about 30 individuals doing security research in
+computer security . . .” (Id.). He is an excellent employee who deftly balances multiple
+roles at his company, and delivers high quality products to clients in a timely manner
+(Tr. 43 - Testimony of Former Supervisor). He has held a security clearance for nearly
+20 years (Tr. 187).
+Applicant has a drinking problem. For the majority of his life, his alcohol
+consumption was “fairly normal” (Tr. 156). In 2000, his desire to drink gradually began
+to increase. By approximately 2001, he was drinking alcohol daily, socializing less, and
+isolating himself from his family to conceal the extent of his alcohol consumption (Tr.
+158; see also, Exhibit 5 at 11). 
+As Applicant’s drinking problem worsened, his health deteriorated. Also, it began
+to affect his work, as he increasingly awoke with hangovers, arrived to work late, or took
+sick leave (Tr. 159). He never drank at work (Tr. 159). 
+On July 12, 2006, Applicant checked into an alcohol-rehabilitation clinic, and took
+a leave of absence form his job (Tr. 161, 165). By then, he had been consuming a half
+of a fifth of liquor every evening (Tr. 164). A psychiatrist at the clinic diagnosed him with
+alcohol dependence (Exhibit 5 at 17).  
+On July 21, 2006, Applicant transferred to another inpatient alcohol-rehabilitation
+clinic where he attended through August 18, 2006 (Answer). The program consisted of
+individual and group counseling, in addition to educational activities (Exhibit F).
+Applicant completed all aspects of the program successfully (Exhibit F). Upon
+discharge, he received a good prognosis to remain sober (Exhibit G). His counselor
+recommended that he attend Alcoholic’s Anonymous (AA) meetings daily for three
+months, obtain a sponsor, and work with the sponsor “on a regular basis” (Exhibit 6 at
+9).
+Currently, Applicant remains involved with AA. He is active in AA outreach,
+expanding groups to other areas in his community (Tr. 173). He chairs one group and is
+the treasurer of another (Tr. 102-103 - Testimony of AA Sponsor). He has not drunk any
+alcohol since he entered the in-patient treatment center in July 2006. His health,
+emotional well-being, and relationship with his family have improved since he stopped
+drinking.
+4
+Applicant has continued to meet with his counselor since his discharge from the
+alcohol treatment center. His counselor reiterated that his prognosis for continued
+sobriety remains good (Exhibit G).
+Applicant smoked marijuana monthly for approximately 25 years. He began at
+age 14, smoking it once or twice per week (Tr. 182). By college, his use had increased
+to several times per week (Tr. 183). After graduating, he continued to smoke marijuana
+“consistently, several times a week, throughout [his] young and middle adult life” (Tr.
+184). He used it primarily at home, but “on some occasions at parties or when visiting
+with friends” (Tr. 209). 
+By the time he entered his 40s, Applicant’s use had declined to “maybe several
+times a month” (Tr. 184). He gradually quit smoking marijuana entirely in 2004 (Id.). He
+decided to quit because he grew increasingly wary of the bad example he would be
+setting for his children if they were to discover his marijuana use. He continues to
+socialize with some of the people with whom he used marijuana in the past (Tr. 209).
+Applicant did not disclose his marijuana use, as required, on a security clearance
+application completed in January 2005 (Tr. 190). Although he had stopped smoking by
+then, he “still had the illusion that [he] could continue the lie that [he] had been
+perpetuating” since 1989, when he was untruthful about the extent of his use on his
+original security clearance application (Tr. 192, see also, Tr. 203-204). 
+In late 2005, Applicant met with an investigator from the U.S. Office of Personnel
+Management (Tr. 207). He then disclosed his marijuana use in response to a question
+from the investigator (Id.). 
+Policies
+When evaluating an applicant’s suitability for a security clearance, the
+administrative judge must consider the revised adjudicative guidelines (AG). In addition
+to brief introductory explanations for each guideline, the adjudicative guidelines list
+potentially disqualifying conditions and mitigating conditions, which are useful in
+evaluating an Applicant’s eligibility for access to classified information.
+These guidelines are not inflexible rules of law. Instead, recognizing the
+complexities of human behavior, these guidelines are applied in conjunction with the
+factors listed in the adjudicative process. The administrative judge’s overarching
+adjudicative goal is a fair, impartial and common sense decision. According to AG ¶
+2(c), the entire process is a scrutiny of a number of variables known as the “whole
+person concept.” The administrative judge must consider all available, reliable
+information about the person, past and present, favorable and unfavorable, in making a
+decision.
+5
+The protection of the national security is the paramount consideration. AG ¶ 2(b)
+requires that “[a]ny doubt concerning personnel being considered for access to
+classified information will be resolved in favor of national security. Under Directive ¶
+E3.1.14, the Government must present evidence to establish controverted facts alleged
+in the SOR. Under Directive ¶ E3.1.15, the Applicant is responsible for presenting
+“witnesses and other evidence to rebut, explain, extenuate, or mitigate facts admitted by
+applicant or proven by Department Counsel. . . .” Applicant has the ultimate burden of
+persuasion as to obtaining a favorable security decision.
+Analysis
+Alcohol Consumption
+Under this guideline, “excessive alcohol consumption often leads to the exercise
+of questionable judgment or failure to control impulses, and can raise questions about
+an individual’s reliability and trustworthiness” (AG ¶ 21). Here, Applicant’s lost control of
+his alcohol consumption prompting him to seek in-patient treatment. Upon beginning the
+treatment, a psychiatrist diagnosed him with alcohol dependence. AG ¶ 22(c), “habitual
+or binge consumption of alcohol to the point of impaired judgment, regardless of
+whether the individual is diagnosed as an alcohol abuser or alcohol dependent, and AG
+¶ 22(d), “diagnosis by a duly qualified medical professional (e.g., physician, clinical
+psychologist, or psychiatrist) of alcohol abuse or alcohol dependence,” apply.
+Applicant successfully completed inpatient treatment, and successfully followed
+the discharge plan. He remains active in AA, chairing meetings, and participating in
+outreach projects. He has not drunk any alcohol since completing inpatient treatment in
+2006, and received a favorable prognosis upon his discharge. In 2009, his counselor
+reiterated his favorable prognosis. AG ¶ 23(b), “the individual acknowledges his or her
+alcoholism or issues of alcohol abuse, provides evidence of actions taken to overcome
+this problem, and has established a pattern of abstinence (if alcohol dependent), or
+responsible use (if an alcohol abuser), and AG ¶ 23 (d), “the individual has successfully
+completed inpatient or outpatient counseling or rehabilitation along with any required
+aftercare, has demonstrated a clear and established pattern of modified consumption or
+abstinence in accordance with treatment recommendations, such as participation in
+meeting of AA or a similar organization, and has received a favorable prognosis by a
+staff member of a recognized alcohol treatment program” apply.
+Drug Involvement
+“Use of an illegal drug or misuse of a prescription drug can raise questions about
+an individual’s reliability and trustworthiness, both because it may impair judgment, and
+because it raises questions about a person’s ability or willingness to comply with laws,
+rules, and regulations (AG ¶ 24). Applicant’s 25 years of marijuana use, much of which
+occurred while possessing a security clearance, triggers the application of AG ¶ 25(a),
+6
+“any drug abuse,” and AG ¶ 25(g), “any illegal drug use after being granted a security
+clearance.”
+Applicant has not smoked marijuana in five years. Given the length of time he
+smoked it, the frequency of his use, and the fact that he still socializes with some of the
+people with whom he had used marijuana, it is too soon to conclude that either AG ¶
+26(a), “the behavior happened so long ago, was so infrequent, or happened under such
+circumstances that it is unlikely to recur or does not cast doubt on the individual’s
+current reliability, trustworthiness, or good judgment,” AG ¶ 26(b)1), “disassociation
+from drug-using associates and contacts,” or AG ¶ 26(b)(3), “an appropriate period of
+abstinence,” apply.
+Personal Conduct
+Under this guideline, “conduct involving questionable judgment, lack of candor,
+dishonesty, or unwillingness to comply with rules and regulations can raise questions
+about an individual’s reliability, trustworthiness and ability to protect classified
+information.” Of particular interest is any failure to provide truthful answers during the
+security clearance process (Id.). 
+Applicant admits to deliberately failing to disclose his marijuana use on a 2005
+security clearance application. AG ¶ 16(a), “deliberate omission, concealment, or
+falsification of relevant facts from any personnel security questionnaire, personal history
+statement, or similar form used to conduct investigations, determine employment
+qualifications, award benefits or status, determine security clearance eligibility or
+trustworthiness, or award fiduciary responsibilities” applies. 
+I have considered all of the mitigating conditions and conclude none apply.
+Applicant did not disclose the falsification until approximately nine months later, in
+response to a question from an investigative agent who had contacted him to arrange
+an interview. Moreover, this was not the first time he falsified a security clearance
+application. 
+Whole Person Concept
+Under the whole person concept, the administrative judge must evaluate an
+applicant’s eligibility for a security clearance by considering the totality of his conduct
+and all the circumstances. The administrative judge should consider the nine
+adjudicative process factors listed at AG ¶ 2(a): “(1) the nature, extent, and seriousness
+of the conduct; (2) the circumstances surrounding the conduct, to include
+knowledgeable participation; (3) the frequency and recency of the conduct; (4) the
+individual’s age and maturity at the time of the conduct; (5) extent to which participation
+is voluntary; (6) the presence or absence of rehabilitation and other permanent
+behavioral changes; (7) the motivation for the conduct; (8) the potential for pressure,
+coercion, exploitation, or duress; and (9) the likelihood of continuation or recurrence.”
+Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a security
+7
+clearance must be an overall commonsense judgment based upon careful consideration
+of the guidelines and the whole person concept.
+Applicant testified insightfully about the link between his on-the-job stress and his
+abuse of marijuana and alcohol. Having completed alcohol counseling, he appears to
+have learned the dangers of using alcohol to reduce stress. He also recognizes that
+using marijuana in this manner is similarly harmful. He appears to sincerely appreciate
+the beneficial effects to his family relationships and health that have accompanied his
+abstinence from marijuana and alcohol.
+I conclude that Applicant’s alcohol dependence no longer poses a security
+concern. I am not prepared to conclude, however, that his marijuana abuse no longer
+poses a security concern. Unlike alcohol use, marijuana use is illegal. Applicant used
+marijuana regularly for more than 20 years. This included approximately 15 years of
+uninterrupted use after he was granted a security clearance in 1990.
+Also, Applicant falsified two security clearance applications regarding his
+marijuana use, and did not disclose it until an investigative agent asked him about it
+during an interview. Consequently, although the presence of rehabilitation is evident, it
+is outweighed by the recency, severity, and extent of the conduct. Evaluating this case
+in the context of the whole person, I conclude it is not clearly consistent with the national
+interest to grant Applicant a security clearance. Clearance is denied.
+Formal Findings
+Formal findings for or against Applicant on the allegations set forth in the SOR,
+as required by Section E3.1.25 of Enclosure 3 of the Directive, are:
+Paragraph 1, Guideline G: FOR APPLICANT
+Subparagraphs 1.a - 1.b: For Applicant
+Paragraph 2, Guideline H: AGAINST APPLICANT
+Subparagraph 2.a: Against Applicant
+Paragraph 3, Guideline E: AGAINST APPLICANT
+Subparagraphs 3.a - 3.b: Against Applicant
+8
+Conclusion
+In light of all of the circumstances presented by the record in this case, it is not
+clearly consistent with the national interest to grant Applicant eligibility for a security
+clearance. Eligibility for access to classified information is denied.
+                                             
+MARC E. CURRY
+Administrative Judge

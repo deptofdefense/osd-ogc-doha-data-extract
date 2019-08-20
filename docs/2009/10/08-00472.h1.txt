@@ -1,0 +1,469 @@
+1
+                                                             
+                           DEPARTMENT OF DEFENSE   
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+ ------------------------- )     ISCR Case No. 08-00472
+SSN: ----------------- )
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Gina L. Marine, Esquire, Department Counsel
+For Applicant: Alan V. Edmunds, Esquire
+______________
+Decision
+______________
+MATCHINSKI, Elizabeth M., Administrative Judge:
+Applicant has not satisfied two judgment debts totaling $228,548 following a
+business failure. In March 2004, he was convicted of two counts of false swearing in
+court testimony in June 2001. Financial and criminal conduct concerns are not
+mitigated. Clearance is denied.
+Statement of the Case
+Applicant submitted an Electronic Questionnaire for Investigations Processing (e-
+QIP) on December 1, 2005. On January 15, 2009, the Defense Office of Hearings and
+Appeals (DOHA) issued to Applicant a Statement of Reasons (SOR) detailing the
+security concerns under Guideline F and Guideline J that provided the basis for its
+preliminary decision to deny him a security clearance and refer the matter to an
+administrative judge. The action was taken under Executive Order 10865, Safeguarding
+Classified Information within Industry (February 20, 1960), as amended; Department of
+Defense Directive 5220.6, Defense Industrial Personnel Security Clearance Review
+Program (January 2, 1992), as amended (Directive); and the revised adjudicative
+guidelines (AG) effective within the Department of Defense as of September 1, 2006.
+2
+On March 2, 2009, Applicant answered the SOR and requested a hearing. The
+case was assigned to me on May 15, 2009, to decide whether it is clearly consistent
+with the national interest to grant or continue a security clearance for Applicant. On
+June 2, 2009, I scheduled a hearing for July 1, 2009.
+I convened the hearing as scheduled. Six government exhibits (Ex. 1-6) and 15
+Applicant exhibits (Ex. A-O) were admitted. Department Counsel objected to the
+psychological evaluation offered as Exhibit K on the bases of lack of relevance, lack of
+foundation laid for expert opinion, and inability to examine the psychologist about his
+assessment. The report was admitted in full with the weight to be afforded the
+information therein subject to my evaluation of reliability, trustworthiness, and probity, in
+light of the record as a whole.
+Findings of Fact
+In the SOR, DOHA alleged under Guideline F, financial considerations, that as of
+June 11, 2008, Applicant owed two judgment debts of $112,130 (SOR 1.a) and
+$116,418 (SOR 1.b). Under Guideline J, criminal conduct, Applicant was alleged to
+have been indicted in October 2001 on three counts of perjury, convicted in March 2004
+of two counts of false swearing, for which he was fined $1,000, and sentenced to 12
+months imprisonment on each count, sentence suspended for one year (SOR 2.a).
+Applicant denied the allegations. After considering the pleadings, transcript, and
+exhibits, I make the following findings of fact.
+Applicant is a 50-year-old consultant, who has served as the storage area
+network architect on a military combat information transport system program since
+October 2004 (Exs. 1, A-E). He is a partner with three others (one active) in a storage
+area network company that has a contract with a subcontractor on the program (Ex. B,
+Tr. 42-43, 71). Applicant had worked for the subcontractor until he established his own
+company and the subcontractor contacted with him to provide consulting services on
+several military projects (Ex. H). Applicant seeks a security clearance under the
+sponsorship of the subcontractor.
+Applicant is a naturalized United States citizen, who came to the U.S. from Iran in
+early 1978 on a student visa. After some studies in the English language, he pursued an
+associate of science degree in computer science and engineering from 1978 to 1980
+(Ex. K). From about September 1980 to September 1997, Applicant was employed as a
+principal engineer/consultant for a computer company. During the first four years of his
+employment, he attended college part-time. In June 1984, he was awarded his bachelor
+of science degree in electrical and electronics engineering (Exs. 2, K). 
+In 1997, Applicant and two partners started their own business serving as a
+“master distributor” for a data storage manufacturer (Tr. 72). In mid-March 1997, their
+company executed a secured promissory note with the bank in SOR 1.b in the principal
+loan amount of $100,000 (Ex. 5). The bank was given a security interest in all of the
+company’s business inventory, chattel paper, accounts, equipment and general
+intangibles (Ex. 5). Applicant, as company vice president, and one of his business
+3
+partners, the company’s chief executive officer (CEO), executed commercial guarantees
+(signed the line of credit), guaranteeing all indebtedness of the company to the bank
+(Ex. 5, Tr. 73, 102). A second line of credit, also in the amount of $100,000, was
+obtained from another bank (SOR 1.a), with Applicant and the CEO guaranteeing that
+loan (Ex. 1, Tr. 102-03). Applicant did not handle the finances of the business, but he
+believes the lines of credit were being paid while the business was in operation (Tr. 103-
+04). Applicant invested some of his personal funds in the business, from which he
+received “a small amount” of income (Tr. 102). Applicant also borrowed $27,000 from
+his brother (“a personal loan”) that he invested in the business (Tr. 135, 137).
+After the data storage equipment manufacturer began direct sales, Applicant’s
+and his partners’ distribution business failed (Tr. 73). The company offered its inventory
+as collateral to the banks when it could no longer make its loan payments (Tr. 104).
+Applicant estimated the value of the inventory to be about $800,000 (Tr. 73), but he
+provided no evidence showing an accurate valuation of the company’s assets.
+In 2000, both banks filed lawsuits against the company and the loan guarantors
+(Applicant and the CEO) for default on the respective promissory notes. In June 2000,
+Applicant, the CEO, and the company stipulated to a judgment awarding the bank in
+SOR 1.b $116,418.27, inclusive of interests and costs. Applicant and the CEO were
+held jointly and severally liable for the judgment. Any amounts received by the bank
+from the sale of the collateral, the attachments of the defendants’ bank accounts or real
+estate or other source were to be credited against the judgment (Ex. 5, Tr. 74). In June
+2001, a successor in interest to the lender in SOR 1.a obtained a judgment against
+Applicant of $112,130.20 plus costs, reasonable attorneys’ fees, and interest from April
+2000 (Tr. 72).
+Applicant had sold his residence in June 1998 (Ex. 6), giving him about $32,000
+after his mortgage was satisfied (Tr. 75-76, 96, 132). The proceeds went to partially
+satisfy the $116,418.27 judgment debt (SOR 1.b). Applicant’s brother, who felt he was
+entitled to the funds because he had loaned Applicant $27,000, filed a lawsuit against
+the bank for the money in 2001. Applicant was subpoenaed to testify on behalf of the
+creditor bank (Tr. 106). On June 13, 2001, Applicant provided false testimony under
+oath concerning communications he had in 2000 with the attorney who represented
+him, his former business partner, and the company, in the judgment action brought by
+the bank. Applicant was indicted on three counts of perjury in October 2001. In March
+2004, Applicant pleaded nolo contendere to two counts of an amended charge of false
+swearing, a class A misdemeanor (SOR 2.a). Applicant signed a form acknowledging
+that he understood he was admitting to, or not contesting, the truth of the charges
+against him and that a conviction would be entered against him. A finding of guilty was
+entered for both counts. He was sentenced on one count to a 12-month jail term,
+suspended on good behavior and compliance with all terms and conditions, and a
+$1,000 fine plus statutory penalty assessment to be paid on or before March 26, 2004.
+Applicant was sentenced on the second count to a consecutive 12-month jail term,
+suspended, and a fine of $2,000 plus statutory assessment, suspended for two years.
+The remaining perjury charge, which related to whether he knew his attorney had
+entered his appearance in January 2000, was nolle prossed (Ex. 4). Applicant was not
+W hen asked on cross-examination to confirm whether he had testified falsely in June 20011
+concerning his communications with the company’s attorney in January 2000, Applicant responded that he
+didn’t believe his statement was false at the time, although he went on that he was not sure “since it’s a long
+time ago.” (Tr. 106). He then claimed that he had relied on his memory at the time and had since learned that
+it is better “to go with what you write, that’s why these days I write things down.” (Tr. 109). W hen subsequently
+asked about whether or not he believed he had committed a crime, Applicant responded:
+Nobody personally feels guilty about, at times but things in life, it’s, at this time it’s not clear
+to me, it’s something that I haven’t dwelled on, thinking about it day in and day out. It’s a
+portion of my life, it was one instance in my life that I was involved with anything like this or
+in a court, with any law or anything, and I just, it is, maybe it’s I just mentally want to forget
+about it and just move on. I personally have moved on and I, at times, it’s like thinking of it
+I’m guilty, not guilty, I don’t think it’s going to help my case. W hat I can do is to set an
+example from that day on and I think I have. I’m sorry that I don’t have a black and white
+answer for you but that’s how it is (Tr. 117).
+4
+willing to acknowledge at his July 2009 hearing that he had knowingly provided false
+testimony in his brother’s case against the bank.1
+During 2002 and 2003, Applicant worked as an enterprise architect and then
+director of storage architecture for a commercial company. He has been consistently
+employed as a contractor, providing his expertise in data network storage for the U.S.
+military at his work location since October 2004 (Exs. 1, H). 
+On June 7, 2004, Applicant executed his first application for a security clearance.
+He disclosed that he pleaded no contest on the advice of his attorney and paid a fine of
+$2,200 on three counts of an unspecified misdemeanor offense. In response to question
+37 concerning unpaid judgments, Applicant listed two $100,000 judgments awarded in
+2000 for business loans that he had cosigned. He indicated he was unaware of the
+exact date or of the final amount of the judgments (Ex. 2). Applicant provided the same
+debt information on an e-QIP completed on December 1, 2005, but he clarified that he
+pleaded nolo contendere to two counts of misdemeanor false swearing. He reiterated
+that he entered nolo pleas on the advice of counsel (Ex. 1). As of December 20, 2005,
+the credit bureaus were reporting that the original lender in SOR 1.a had filed in court to
+attach Applicant’s assets to recover a $120,000 debt balance (Ex. 6).
+In 2006 or 2007, after he applied for a security clearance, Applicant retained
+legal counsel to represent him in settling the judgment debts in SOR 1.a and 1.b (Tr.
+81). As of late May 2008, his attorney was in negotiations with the creditor in SOR 1.a,
+but there had been no action on resolving the debt in SOR 1.b (Ex. 3). As of June 2009,
+his attorney had no success in reaching a person with the authority to negotiate on
+behalf of the bank (Ex. I, Tr. 91). In the event negotiations were unsuccessful, the
+attorney was prepared to represent Applicant in a bankruptcy proceeding (Ex. 3). As of
+July 2009, Applicant had offered to settle the judgment debt in SOR 1.a for an amount
+in the low $20,000s. While his attorney reported on June 12, 2009, that the creditor was
+evaluating settlement proposals (Ex. M), Applicant testified on July 1, 2009, that his
+offer was rejected by the creditor (Tr. 87). He had not filed for bankruptcy. Apart from
+the equity in his house that went to satisfy, in part, the debt in SOR 1.b, Applicant had
+paid nothing toward the judgment debts as of July 2009 (Tr. 91, 95). He believes that
+5
+the bank in SOR 1.b received the proceeds from an auction of the inventory of the failed
+business (Ex. 3). There is no available information confirming his belief. He understands
+that his former business partner, who had also guaranteed the loans, had filed for
+bankruptcy “a few years back.” (Tr. 130).
+In response to DOHA interrogatories, Applicant submitted a May 2008 credit
+report showing he had no delinquent credit card debt. Applicant was making payments
+as agreed on three open credit card accounts with balances of $17,818, $1,585, and
+$1,064 (Ex. 3). As of June 4, 2009, he had brought down the balance of the $17,818
+debt to $14,289, and had paid off the $1,585 owed on another account. But his balance,
+although current, had increased from $1,064 to $2,655 on the third credit card account,
+and he had incurred $12,106 in charges on a credit card account that had a reported
+zero balance as of May 2008. Applicant was making his monthly mortgage payments on
+time, $1,998 on a primary mortgage of $231,771, and $341 on a second mortgage of
+$43,793 (Ex. L). As of June 10, 2008, Applicant reported a net monthly remainder of
+$4,341 on net monthly income of $11,835 (Ex. 3). As of July 2009, he estimated his
+annual income at about $180,000 (Tr. 71, 79). He had about $20,000 to $30,000 in cash
+assets available to pay the judgments (Tr. 124). Applicant participated in an internet and
+telephone credit counseling session on June 22, 2009 (Ex. J).
+Applicant underwent a voluntary psychological evaluation on April 20, 2009, by a 
+clinical psychologist to determine whether he exhibited clinical indicators of lying
+behavior. Applicant informed the psychologist that the perjury stemmed from a business
+failure, and explained that while testifying as a witness for the bank, he responded “no”
+to whether he had personally discussed the writ of summons with his attorney before
+mid-March 2000. The psychologist opined that Applicant was not deceptive:
+His mental status examination was generally unremarkable other then his
+mild to moderate anxiety throughout the process. He was not, however,
+seen as deceptive but generally presented a picture of involvement in a
+legal system in which he was uncomfortable and received questionable
+advice. The fact that English is not his first language may well have
+contributed to his confusion with our legal system. His naivety [sic] within
+this arena was seen as the major reason for his consent to being
+convicted of two perjury charges.
+The psychologist found no significant indication of lying behavior and he did not regard
+Applicant to be a threat to national security (Ex. K).
+Two of Applicant’s three current business partners testified for Applicant at the
+hearing. They endorsed Applicant for a security clearance based on Applicant’s
+demonstrated subject matter knowledge and dedication to the contract (Exs. A, B).
+Neither of the partners is fully aware of the circumstances surrounding Applicant’s
+previous business failure. The active partner in their consulting company, who has
+worked closely with Applicant since 2004 (Ex. B, Tr. 36), understands from Applicant
+that he has made reparations (Tr. 37), and that the judgment debts have been paid (Tr.
+41). An inactive partner, who derives his income from the subcontractor rather than from
+6
+their consulting company (Tr. 51), became aware the day of the hearing that Applicant
+has not yet resolved the issue of an unpaid business loan of about $120,000 (Tr. 53).
+He has found Applicant to be “very honest, straightforward,” and of “sterling character.”
+(Ex. A, Tr. 54-55). Applicant is considered a key member of their team and is held in
+high regard by their military customer as well as their professional colleagues (Exs. A-E,
+N, Tr. 49-50). The subcontractor on the project recognized Applicant’s invaluable
+contributions with an award given to those individuals who demonstrate superior
+understanding and integrity in their field and apply it to the customer (Exs. A, B).
+A close personal friend and work colleague who has known Applicant for the last
+seven years also testified on Applicant’s behalf (Ex. O, Tr. 59). He does not doubt
+Applicant’s commitment to the job or his honesty (Tr. 62). He became aware of the
+outstanding financial obligations and the misdemeanor false testimony charge (Tr. 60)
+the night before the hearing (Tr. 63, 67). The friend believes that the bank has a lien on
+Applicant’s assets because of an unpaid business loan debt of about $120,000, and that
+Applicant “pleaded out” to a charge of false statement (Tr. 64, 68).
+Policies
+The U.S. Supreme Court has recognized the substantial discretion the Executive
+Branch has in regulating access to information pertaining to national security,
+emphasizing “no one has a ‘right’ to a security clearance.” Department of the Navy v.
+Egan, 484 U.S. 518, 528 (1988). When evaluating an applicant’s suitability for a security
+clearance, the administrative judge must consider the revised adjudicative guidelines
+(AG). In addition to brief introductory explanations for each guideline, the adjudicative
+guidelines list potentially disqualifying conditions and mitigating conditions, which are to
+be considered in evaluating an applicant’s eligibility for access to classified information.
+These guidelines are not inflexible rules of law. Instead, recognizing the complexities of
+human behavior, these guidelines are applied in conjunction with the factors listed in the
+adjudicative process. The administrative judge’s overarching adjudicative goal is a fair,
+impartial and commonsense decision. According to AG ¶ 2(c), the entire process is a
+conscientious scrutiny of a number of variables known as the “whole-person concept.”
+The administrative judge must consider all available, reliable information about the
+person, past and present, favorable and unfavorable, in making a decision.
+The protection of the national security is the paramount consideration. AG ¶ 2(b)
+requires that “[a]ny doubt concerning personnel being considered for access to
+classified information will be resolved in favor of national security.” In reaching this
+decision, I have drawn only those conclusions that are reasonable, logical, and based
+on the evidence contained in the record. Likewise, I have avoided drawing inferences
+grounded on mere speculation or conjecture. Under Directive ¶ E3.1.14, the
+government must present evidence to establish controverted facts alleged in the SOR.
+Under Directive ¶ E3.1.15, the applicant is responsible for presenting “witnesses and
+other evidence to rebut, explain, extenuate, or mitigate facts admitted by applicant or
+proven by Department Counsel. . . .” The applicant has the ultimate burden of
+persuasion in obtaining a favorable security decision.
+Available court records show that Applicant and the CEO were liable on the judgment awarded the2
+bank in SOR 1.b. Applicant testified that he and the CEO were jointly and severally liable as well on the debt
+in SOR 1.a, although the court document lists only Applicant as the defendant (Ex. 5).
+7
+A person who seeks access to classified information enters into a fiduciary
+relationship with the government predicated upon trust and confidence. This relationship
+transcends normal duty hours and endures throughout off-duty hours. The government
+reposes a high degree of trust and confidence in individuals to whom it grants access to
+classified information. Decisions include, by necessity, consideration of the possible risk
+that the applicant may deliberately or inadvertently fail to protect or safeguard classified
+information. Such decisions entail a certain degree of legally permissible extrapolation
+as to potential, rather than actual, risk of compromise of classified information. Section 7
+of Executive Order 10865 provides that decisions shall be “in terms of the national
+interest and shall in no sense be a determination as to the loyalty of the applicant
+concerned.” See also EO 12968, Section 3.1(b) (listing multiple prerequisites for access
+to classified or sensitive information).
+Analysis
+Guideline F, Financial Considerations
+The security concern about finances is set out in AG ¶ 18:
+Failure or inability to live within one’s means, satisfy debts, and meet
+financial obligations may indicate poor self-control, lack of judgment, or
+unwillingness to abide by rules and regulations, all of which can raise
+questions about an individual’s reliability, trustworthiness and ability to
+protect classified information. An individual who is financially overextended
+is at risk of having to engage in illegal acts to generate funds.
+The evidence shows that two financial institutions obtained sizable judgments of
+$112,130 and $116,418 against Applicant and a business partner in 2000/01 after the
+company that they founded could no longer make its payments on two lines of credit
+that they had guaranteed.  Disqualifying conditions AG ¶ 19(a), “inability or2
+unwillingness to satisfy debts,” and AG ¶ 19(c), “a history of not meeting financial
+obligations,” apply.
+Of the mitigating conditions listed in AG ¶ 20, AG ¶ 20(a), “the behavior
+happened so long ago, was so infrequent, or occurred under such circumstances that it
+is unlikely to recur and does not cast doubt on the individual’s current reliability,
+trustworthiness, or good judgment,” applies to the extent that the debts stem from a
+business failure more than nine years ago, and do not appear to be characteristic of
+Applicant’s handling of his finances generally. He has a track record of timely payments
+on his personal financial obligations, including his mortgages and credit cards. While
+Applicant is a business partner with three others (one active) in the consulting company
+from which he derives his current income of about $180,000 per year, there is no
+8
+evidence that he owes any debts from his consulting business. The circumstances that
+led to these judgment debts are not likely to recur.
+AG ¶ 20(b), “the conditions that resulted in the financial problem were largely
+beyond the person’s control (e.g., loss of employment, a business downturn,
+unexpected medical emergency, or a death, divorce or separation), and the individual
+acted responsibly under the circumstances,” must be considered because the debts
+stem from a business failure. It is unclear to what extent Applicant was involved in the
+daily operations of the distribution company. He apparently did not handle the financial
+matters, and was not in control of the data storage equipment manufacturer’s decision
+to bypass the distribution network and sell directly to potential customers. However, I
+am unable to fully apply AG ¶ 20(b) because of Applicant’s demonstrated irresponsibility
+in not making resolution of these judgment debts a priority. Applicant testified that the
+bank in SOR 1.b received $32,000 from the sale of his home in partial satisfaction, and
+had acquired and auctioned the business inventory. Applicant believed the value of the
+inventory amply covered the judgments. The lawsuit brought by his brother (a personal
+creditor) against the bank over the $32,000 tends to substantiate that the equity in
+Applicant’s previous residence was turned over to the bank in SOR 1.b. Applicant’s
+December 2005 credit report (Ex. 6) shows a mortgage loan was closed and paid in
+June 1998, which would have predated the judgment award. The home that was sold
+(Ex. 3) was listed as his residence of record from May 1982 until June 1998 (Ex. 2). The
+bank may well have received the funds sometime after the award of the judgment in
+2000 and his brother’s lawsuit in June 2001. However, there is no proof that the
+inventory of the business was auctioned off by the creditor, or if an auction was
+conducted, whether the proceeds satisfied the judgment. Assuming that the creditor in
+SOR 1.b has been compensated in part, Applicant has not made any payments on the
+judgment debt since 2001. Moreover, Applicant made no effort to address the debt in
+SOR 1.a before he retained legal counsel in 2006 or 2007, after he applied for his
+security clearance (Tr. 81). Two to three years later, Applicant is still trying to settle that
+judgment debt, apparently for less than a quarter of the balance.
+AG ¶ 20(d), “the individual initiated a good-faith effort to repay overdue creditors
+or otherwise resolve debts,” is implicated because of the payment of $32,000, but I am
+unable to fully apply AG ¶ 20(d) because of his disregard of the judgment debts after
+2001 until they became an issue for his security clearance. AG ¶ 20(c), “the person has
+received or is receiving counseling for the problem and/or there are clear indications
+that the problem is being resolved or is under control,” does not apply. The creditor in
+SOR 1.a rejected Applicant’s latest settlement offer. Applicant’s attorney indicated that
+he had made “several attempts” without success to contact someone who handles
+commercial transactions for the bank in SOR 1.b, so that debt is also not likely to be
+resolved in the near future. Furthermore, one session of internet and telephone debt
+counseling does not alleviate the financial burden of about $200,000 in unpaid judgment
+debt. While Applicant indicated that he has the means to satisfy the judgments, the
+available information suggests otherwise. He testified he has $20,000 or $30,000 in
+combined cash assets (Tr. 123-24) and his latest credit report shows he has
+outstanding credit card balances totaling about $29,050 (Ex. L). Although he is making
+monthly payments on his credit card obligations, this is a significant amount of credit
+Under the pertinent state’s criminal code (Title 62), Chapter 641 concerning false swearing in official3
+matters provides as follows:
+A person is guilty of a misdemeanor if:
+I. He makes a false statement under oath or affirmation or swears or affirms the truth of such
+a statement previously made and he does not believe the statement to be true if:
+(a) The falsification occurs in an official proceeding, as defined in RSA 641:1, II, or is made
+9
+card debt, the repayment of which has been given priority over the outstanding
+judgments of about $200,000.
+Criminal Conduct
+The security concern for criminal conduct is set out in Guideline J, ¶ 30 of the
+adjudicative guidelines:
+Criminal activity creates doubt about a person’s judgment, reliability, and
+trustworthiness. By its very nature, it calls into question a person’s ability
+or willingness to comply with laws, rules and regulations.
+In October 2001, Applicant was indicted on three counts of felony perjury
+stemming from testimony he gave under oath in a June 2001 civil lawsuit brought by his
+brother against the bank in SOR 1.b. The case was disposed of through a nolo
+contendere plea in March 2004 to two counts of misdemeanor false swearing, and guilty
+findings were entered against him. His misdemeanor convictions raise criminal conduct
+concerns implicating AG ¶ 31(a), “a single serious crime or multiple lesser offenses,”
+and AG ¶ 31(c), “allegation or admission of criminal conduct, regardless of whether the
+person was formally charged, formally prosecuted or convicted.” 
+The passage of eight years since the offenses is a significant mitigating condition
+(see AG ¶ 32(a), “so much time has elapsed since the criminal behavior happened, or it
+happened under such unusual circumstances that it is unlikely to recur and does not
+cast doubt on the individual’s reliability, trustworthiness, or good judgment”). Also in his
+favor are his disclosures of the criminal conduct on two security clearance applications
+(Exs. 1, 2). His character references, some in person and others in writing, amply
+confirm his invaluable dedication to the military project that has consumed his
+considerable time and talent since late 2004. The passage of time without recurrence of
+the criminal activity and his good employment record are evidence of successful
+rehabilitation under AG ¶ 32(d) (“there is evidence of successful rehabilitation; including
+but not limited to the passage of time without recurrence of criminal activity, remorse or
+restitution, job training or higher education, good employment record, or constructive
+community involvement”). Concerning restitution, there is no evidence that Applicant
+failed to comply with his sentences, including payment of a $1,000 fine.
+Yet this evidence in reform must be weighed against the seriousness of the
+offense. Although false swearing is punishable as a misdemeanor and not a felony
+under the pertinent state’s criminal statutes,  a knowing false statement made under3
+with a purpose to mislead a public servant in performing his official function; or
+(b) The statement is one which is required to be sworn or affirmed before a notary or other
+person authorized to administer oaths: or
+II. He makes inconsistent statements under oath or affirmation, both within the period of
+limitations, one of which is false and not believed by him to be true. In a prosecution under
+this section, it need not be alleged or proved which of the statements is false but only that
+one or the other was false and not believed by the defendant to be true.
+III. No person shall be guilty under this section if he retracts the falsification before it becomes
+manifest that the falsification was or would be exposed.
+10
+oath raises very serious concerns about a person’s judgment, reliability, and
+trustworthiness. Applicant does not dispute his convictions, but he testified equivocally
+at his July 2009 hearing about whether he had knowingly provided false testimony in
+June 2001. He initially testified that he did not believe he made a false statement at the
+time, and claimed that he had relied on his memory. Yet, when asked later whether he
+believed he had committed a crime, Applicant responded that he had moved on and did
+not have “a black and white answer.”
+Applicant persuaded the psychologist who evaluated him in April 2009 that
+naivete led him to plead nolo contendere (“[Applicant] was not, however, seen as
+deceptive, but generally presented a picture of involvement in a legal system in which
+he was uncomfortable and received questionable advice.” Ex. K). But I am not
+convinced that either Applicant’s lack of familiarity with the legal system or him being a
+nonnative English speaker, or both, caused the false testimony at issue. The available
+court records (Ex. 4) indicate that the questions asked of Applicant when he testified in
+June 2001 were straightforward and about matters that would have been within his
+knowledge. Although he is a naturalized U.S. citizen, he earned his bachelor’s degree in
+the U.S. and had resided here for some 20 years before he testified in 2001. As a
+subject matter expert in data storage, Applicant can be expected to have understood
+the legal implications of pleading nolo contendere, and also of the importance of full
+candor during the security clearance process.
+Concerns persist about his reform, given his inability to provide a consistent,
+credible account of his conduct on June 2001, and evidence showing that Applicant has
+not been completely forthright with his active business partner about whether the
+judgments had been paid. When queried about his knowledge of the government’s
+allegations, the witness responded that, from what Applicant had told him, “reparations
+had been made.” Asked directly whether he believed that the debts had been repaid,
+the witness responded, “That’s correct.” (Tr. 41). 
+Whole-Person Concept
+Under the whole-person concept, the administrative judge must evaluate an
+applicant’s eligibility for a security clearance by considering the totality of the conduct
+11
+and all the circumstances in light of the nine adjudicative process factors listed at AG ¶
+2(a):
+(1) the nature, extent, and seriousness of the conduct; (2) the
+circumstances surrounding the conduct, to include knowledgeable
+participation; (3) the frequency and recency of the conduct; (4) the
+individual’s age and maturity at the time of the conduct; (5) the extent to
+which participation is voluntary; (6) the presence or absence of
+rehabilitation and other permanent behavioral changes; (7) the motivation
+for the conduct; (8) the potential for pressure, coercion, exploitation, or
+duress; and (9) the likelihood of continuation or recurrence.
+The DOHA Appeal Board has addressed a key element in the whole-person
+analysis in financial cases stating, in part, “an applicant is not required, as a matter of
+law, to establish that he has paid off each and every debt listed in the SOR. All that is
+required is that an applicant demonstrate that he has ‘ . . . established a plan to resolve
+his financial problems and taken significant actions to implement that plan.’” ISCR Case
+No. 07-06482 at 2-3 (App. Bd. May 21, 2008) (internal citations omitted).
+The financial issues stem from Applicant guaranteeing two lines of credit for a
+business venture that failed by 2000. Applicant believes, but has not verified, that the
+CEO who cosigned the two promissory notes filed for bankruptcy. It is in his favor that
+he has retained legal counsel to negotiate with his two creditors. But as of July 2009,
+the judgments have not been satisfied. He is willing and able to pay less than a quarter
+of the balance owed on the judgment in SOR 1.a. It would be premature to conclude
+that the financial concerns, which include a risk of having to engage in illegal acts to
+generate funds, are fully mitigated at this juncture.
+Furthermore, Applicant caused considerable doubt about his judgment, reliability,
+and trustworthiness by lying under oath in a civil case in June 2001, and by being
+unwilling to acknowledge and express remorse for his criminal behavior. While the
+persons who have worked closely with him attest to his honesty and reliability, the
+colleagues who testified at his July 2009 hearing had limited knowledge of the
+government’s security concerns. Applicant’s partner in their consulting business had
+been led to believe from Applicant that he had made full reparations of the judgment
+debt in SOR 1.a. Applicant has yet to make a single payment to that creditor. Despite
+the passage of time since his false swearing misconduct, I cannot conclude at this time
+that it is clearly consistent with the national interest to grant Applicant a security
+clearance at this time.
+Formal Findings
+Formal findings for or against Applicant on the allegations set forth in the SOR,
+as required by section E3.1.25 of Enclosure 3 of the Directive, are:
+Paragraph 1, Guideline F: AGAINST APPLICANT
+12
+Subparagraph 1.a: Against Applicant
+Subparagraph 1.b: Against Applicant
+Paragraph 2, Guideline J: AGAINST APPLICANT
+Subparagraph 2.a: Against Applicant
+Conclusion
+In light of the record in this case, it is not clearly consistent with the national
+interest to grant Applicant eligibility for a security clearance. Eligibility for access to
+classified information is denied.
+ELIZABETH M. MATCHINSKI
+ADMINISTRATIVE JUDGE

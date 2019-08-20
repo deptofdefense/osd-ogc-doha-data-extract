@@ -1,0 +1,205 @@
+The record  consists of the transcript (Tr.), Government exhibits (GE) 1-3, and Applicant exhibits (AE) A-J.1
+DoD acted under Executive Order 10865, Safeguarding Classified Information within Industry (February 20,2
+1960), as amended; DoD Directive 5220.6, Defense Industrial Personnel Security Clearance Review Program
+(January 2, 1992), as amended (Directive); and the adjudicative guidelines (AG) effective within the DoD on
+1 September 2006. 
+1
+ 
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+      )
+XXXXXXXXX, Xxxx Xxxxxx  )      ISCR Case No. 14-03688
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Julie R. Mendez, Esquire, Department Counsel
+For Applicant: Gregory F. Greiner, Esquire
+______________
+Decision
+______________
+METZ, John Grattan, Jr., Administrative Judge:
+Based on the record in this case,  I deny Applicant’s clearance.1
+On 26 September 2014, the Department of Defense (DoD) issued an SOR to
+Applicant detailing security concerns under Guideline F, Financial Considerations.2
+Applicant timely answered the SOR, requesting a hearing before the Defense Office of
+Hearings and Appeals (DOHA). DOHA assigned the case to me 27 March 2015, and I
+convened a hearing 20 May 2015. DOHA received the transcript (Tr.) 28 May 2015.
+2
+ 
+Findings of Fact
+Applicant admitted the SOR allegations, except for SOR 1.o. He is a 34-year-old
+senior systems engineer employed as a defense contractor since November 2005.
+Applicant seeks to retain the clearance he was granted at that time.
+The SOR alleges and Government exhibits (GE 1-3) establish 16 delinquent
+debts totaling over $44,000. Applicant admits all the debts except for a $34 medical bill,
+which he denies because he does not believe that he had any medical expenses during
+the time alleged by the debt. Applicant claims to have paid the $78 insurance bill (SOR
+1.n) in 2010, and asserts that the company has no record this debt. He paid the January
+2005 judgment (SOR 1.p) in July 2012 (AE C).
+The remaining 13 delinquent debts are for Federally-guaranteed student loans
+incurred by Applicant. Applicant attended a regular university from August 1999 to May
+2004, but left school without obtaining a degree. The financial records do not indicate if
+Applicant incurred any student loan debt during this time. Applicant then attended a
+technical college from July 2004 to December 2006, again without obtaining a degree.
+Applicant funded this education through Federal loans, the delinquency of which is at
+issue in this case. Applicant also attended a third school from January 2007 to
+December 2007, again without obtaining a degree. Applicant appears to have funded
+this education with loans, none of which are delinquent.
+According to Applicant’s April 2014 credit report (GE 3), Applicant originally
+borrowed about $16,000 from Wells Fargo Education Financial Services beginning in
+September 2004. He received two loan disbursements in September 2004, two in June
+2005, one in October 2005, and one in June 2006. The six disbursements each had a
+different account number. Wells Fargo reported the six accounts in a satisfactory
+payment status to TransUnion and Experian—two of the major credit reporting
+agencies—when the accounts were transferred to another lender. Because the
+accounts were reported in good standing, and were transferred to another lender, the
+only financial information reported in these entries is the original loan amount (high
+credit).
+Because Applicant remained in school through the end of 2007, he was eligible
+for a series of deferments on repayment of his education loans. Once he finished
+school, he would have been entitled to a grace period before beginning repayment of
+his loans. By Applicant’s admission, he did not begin repayment on the loans (Tr. 37-
+38).
+In November 2008, Educational Credit Management Corporation (ECMC)—the
+Government’s clearing house agent for delinquent student loans—reported acquiring 11
+delinquent student loans for Applicant (GE 3). Five loans were specifically referenced as
+being Wells Fargo loans, but with different account numbers than used by Wells Fargo
+when it issued the loans. The five loans had an identical account number, coupled with
+distinct suffixes. The listed suffixes ran from -51 to -56, apparently omitting account -55.
+The five ECMC-W ells Fargo entries repeat on Applicant’s March 2015 credit report (GE 2), which contains3
+only entries reported by Equifax. However, the ECMC entries for its ECMC-assigned account numbers have
+been deleted. Appearing for the first time are six Navient entries, each with a new account number and
+suffixes -012 to -062. Although the balances for each account differ from both the ECMC-W ells Fargo and
+ECMC-Only accounts alleged in the SOR, the high credit amounts for each account exactly match the original
+high credit amounts initially reported by W ells Fargo in 2006. Similarly, Applicant’s May 2015 TransUnion
+credit report (AE A) and his May 2015 Equifax report (AE B) report high credit amounts that exactly match the
+amounts originally reported by W ells Fargo.
+3
+ 
+ECMC reported these five accounts to Equifax—the third major credit reporting
+agency—as 120 days or greater past due as of February 2011. These five delinquent
+accounts are alleged at SOR 1.a, 1.b, 1.d, 1.j, and 1.l.
+Simultaneously with acquiring the Wells Fargo accounts, ECMC reported
+acquiring six other education debts in November 2008, each with an ECMC-assigned
+account number, beginning with a base number and suffixes -01 to -06. ECMC reported
+these six accounts to TransUnion, Experian, and Equifax in collection as of April 2014.
+These six delinquent accounts are alleged at SOR 1.c, 1.e, 1.f, 1.h, 1.k, and 1.m.
+Although ECMC did not specifically relate these six accounts to the Wells Fargo
+accounts, an April 2015 ECMC letter to Applicant (AE F) references disbursements -01
+to -06 as reported by ECMC on Applicant’s April 2014 credit report, but reports
+disbursement dates that correspond precisely with the origination dates initially reported
+by Wells Fargo in the same credit report.  The April 2015 ECMC letter reports to3
+Applicant that his six delinquent loans were rehabilitated, repurchased by SLM (Student
+Loan Marketing) Trusts and assigned to Navient Solutions—the Government’s clearing
+house agent for student loans in good standing—on 30 June 2014. In April 2015 Wells
+Fargo confirmed to Applicant that they were not servicing any loans for Applicant (AE
+G).
+Based on my assessment of the credit reports and Applicant’s exhibits, I
+conclude that SOR debts 1.a, 1.b, 1.d, 1.j, and 1.l. duplicate of five of the six SOR debts
+1.c, 1.e, 1.f, 1.h, 1.k, and 1.m. As SOR debts 1.c, 1.e, 1.f, 1.h, 1.k, and 1.m present a
+clearer picture of Applicant’s delinquent loans, I resolve SOR debts 1.a, 1.b, 1.d, 1.j,
+and 1.l. for Applicant.
+ In addition to his Federally-guaranteed loans, Applicant also took out education
+loans directly with the Government (SOR 1.g and 1.I) that later fell delinquent. Applicant
+paid these loans in April 2015 (AE E), with money he borrowed from his parents, who
+expect to be repaid (Tr. 39, 44).
+       Applicant states that when his loans came due in 2008, he was not making
+enough money to begin repayment on them, and did not want to tell his lenders that he
+could not pay. However, he acknowledges receiving dunning notices from Wells Fargo
+and ECMC with instructions about how to contact them and make payment
+arrangements on his defaulted loans (Tr. 45-46). He claims, without corroboration, to
+have had a repayment plan on one of his loans in 2011 that he was unable to keep up
+on. It was not until November 2014, that he got the ECMC loans placed into
+See, Department of the Navy v. Egan, 484 U.S. 518 (1988).4
+¶19 (a) inability or unwillingness to satisfy debts; (c) a history of not meeting financial obligations;5
+4
+ 
+forbearance with Navient (Tr. 40), and it was not until 2015 that he borrowed money to
+pay the direct student loans.
+Applicant provided no work or character references. Applicant currently makes
+$90,000 annually. Since going to work for his employer in November 2005, he has
+received regular promotions and pay raises. Applicant and his wife currently net about
+$8,200 monthly, and have a $3,500 monthly budget. He does not know what the
+monthly payment on his educational loans will be when the forbearance ends in August
+2015.
+Policies
+The adjudicative guidelines (AG) list factors to evaluate a person’s suitability for
+access to classified information. Administrative judges must assess disqualifying and
+mitigating conditions under each issue fairly raised by the facts and situation presented.
+Each decision must also show a fair, impartial, and commonsense consideration of the
+factors listed in AG ¶ 2(a). The applicability of a disqualifying or mitigating condition is
+not, by itself, conclusive. However, specific guidelines should be followed when a case
+can be measured against them, as they are policy guidance governing the grant or
+denial of a clearance. Considering the SOR allegations and the evidence as a whole,
+the relevant adjudicative guideline is Guideline F (Financial Considerations).
+Security clearance decisions resolve whether it is clearly consistent with the
+national interest to grant or continue an applicant’s security clearance. The Government
+must prove, by substantial evidence, disputed facts alleged in the SOR. If it does, the
+burden shifts to applicant to refute, extenuate, or mitigate the Government’s case.
+Because no one has a right to a security clearance, the applicant bears a heavy burden
+of persuasion.
+Persons with access to classified information enter into a fiduciary relationship
+with the Government based on trust and confidence. Therefore, the Government has a
+compelling interest in ensuring each applicant possesses the required judgement,
+reliability, and trustworthiness of those who must protect national interests as their own.
+The “clearly consistent with the national interest” standard compels deciding any
+reasonable doubt about an Applicant’s suitability for access in favor of the Government.4
+Analysis
+The Government established a case for disqualification under Guideline F, and
+Applicant did not mitigate the security concerns. Between at least October 2007 and
+November 2014, Applicant failed to keep up with his financial obligations to stay current
+on his educational loan payments, despite possessing the apparent means to do so.5
+¶ 20 (a) the behavior happened so long ago, was so infrequent, or occurred under such circumstances that6
+it is unlikely to recur . . . ;
+¶ 20 (b) the conditions that resulted in the financial problem were largely beyond the person’s control . . . and7
+the individual acted responsibly under the circumstances;
+¶ 20 (d) the individual initiated a good-faith effort to repay overdue creditors or otherwise resolve debts;8
+¶ 20 (c) the person has received or is receiving counseling for the problem and there are clear indications9
+that the problem is being resolved or is under control;
+5
+ 
+Even accepting Applicant’s claim that he could not make the required loan payments in
+2008 when loan repayment was scheduled to begin, he made no effort to contact his
+lenders at that time. When he began to make more money, he did not contact his
+lenders. He took no action to address his delinquent loans until after he received the
+SOR.
+The mitigating factors for financial considerations provide little help to Applicant.
+His financial difficulties are recent and not infrequent, and the stated cause cannot be
+considered unlikely to recur because Applicant took no steps to remain in contact with
+his lenders.  Applicant’s claimed inability to pay in 2007 cannot be considered a6
+circumstance beyond his control when he had been employed by his current employer
+since November 2005 and made no effort to explain his financial situation to his lenders
+when the loans first became due or as his financial situation improved over the years.
+This is not responsible action in dealing with his delinquent debts.7
+In addition, the payments he made on his direct loans and the reestablishment of
+contact with ECMC and Navient do not constitute a good-faith effort to pay his creditors,
+coming as they did well after he received the SOR.8
+Finally, there is no indication that Applicant has received credit or financial
+counseling. His loan payment has yet to be established, and obviously there is no track
+record of repayment. Consequently, it is not clear regarding the education loans, that
+the problem is being resolved.9
+The concern with Applicant is that while he may credibly state his intent to avoid
+financial problems in the future, and he may have the means overall to do so, he does
+not actually have any track record of doing so. Further, Applicant has provided no
+character and employment evidence upon which I could reasonably support a “whole-
+person” analysis in favor of granting his clearance. I conclude Guideline F against
+Applicant.
+6
+ 
+Formal Findings
+Paragraph 1. Guideline F: AGAINST APPLICANT
+Subparagraphs a-b, d, j, and l: For Applicant (duplicates)
+Subparagraphs c, e-i, k, and m: Against Applicant
+Subparagraphs n-p: For Applicant
+Conclusion  
+Under the circumstances presented by the record in this case, it is not clearly
+consistent with the national interest to grant or continue a security clearance for
+Applicant. Clearance denied.
+                                              
+                                             
+JOHN GRATTAN METZ, JR
+Administrative Judge

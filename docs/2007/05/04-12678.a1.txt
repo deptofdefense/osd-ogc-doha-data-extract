@@ -1,0 +1,164 @@
+KEYWORD: Guideline E; Guideline J
+DIGEST: Expungement of an offense does not relieve an applicant of the responsibility to
+provide truthful answers, with the only exception pertaining to the Federal Controlled Substances
+Act.  Furthermore the Federal government is not bound by state law concerning the expungement
+of state criminal convictions.  The Federal Rules of Evidence serve only as a guide and may be
+relaxed by the Judge.  There is a strong presumption against granting a security clearance. 
+Adverse decision affirmed.
+CASENO: 04-12678.a1
+DATE: 05/07/2007
+DATE: May 7, 2007
+In Re:
+---------
+SSN: ------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 04-12678
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Ray T. Blank, Esq., Department Counsel
+FOR APPLICANT
+Jerry L. Tanenbaum, Esq.
+Question 26 reads in pertinent part: “The single exception to this requirement is for certain convictions under1
+the Federal Controlled Substances Act for which the court issued an expungement order under the authority of 21 U.S.C.
+844 or 18 U.S.C. 3607.”  
+2
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On August 26, 2005, DOHA issued a statement of reasons advising Applicant of the basis
+for that decision–security concerns raised under Guideline E (Personal Conduct) and Guideline J
+(Criminal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+(Directive).  Applicant requested a hearing.  On July 12, 2006, after the hearing, Administrative
+Judge James A. Young denied Applicant’s request for a security clearance.  Applicant filed a timely
+appeal pursuant to Directive ¶¶  E3.1.28 and E3.1.30. 
+Applicant raises the following issues on appeal: whether the Judge erred in admitting
+documentary evidence that pertained to an offense expunged under state law and which was hearsay;
+whether the Judge erred by not mitigating the security concerns raised in the SOR; and whether the
+Judge’s whole person analysis fails to comply with the requirements of Directive  ¶  E2.2.1.  Finding
+no error, we affirm. 
+Whether the Record Supports the Judge’s Factual Findings
+A.  Facts
+The Judge made the following pertinent findings of fact: Applicant has held a security
+clearance since 1991 without a security incident.  He has an excellent work record and he performs
+volunteer work for the United Way and the American Cancer Society.  He also serves as a tutor at
+a local school.  
+Applicant went to a grocery store in 2000 and purchased over $100 worth of groceries.
+Security guards stopped him on suspicion of not paying for an item.  Applicant had a strong odor of
+alcohol about him.  When Applicant refused to cooperate by providing the guards with personal
+information and by refusing to turn over the item in question, a tube of anti-fungal cream, the guards
+called the police.  Upon the arrival of the police, Applicant turned over the cream.  He was arrested
+for shoplifting and searched.  The police discovered in Applicant’s pants pocket a package of cheese
+for which he had not paid.
+Subsequently, Applicant made known to his attorney, the prosecutor, and the judge that he
+was concerned about the effect the incident would have on his clearance.  He was permitted to plead
+guilty to a lesser included offense and pay a small fine.  His attorney, the prosecutor, and the judge
+assured him that the knowledge about his case would not go beyond the local jurisdiction.
+Additionally, in January 2006, Applicant had the conviction expunged from his record.
+In filling out his security clearance application, Applicant answered “no” to Question 26.
+This question asked if, in the previous seven years, Applicant had been arrested for, charged with,
+or convicted of, any offense not otherwise reported on the application form.  The question states that
+Applicant was to answer the question even if the conviction had been sealed or otherwise stricken
+from the record.  The only exception was for certain convictions under the Federal Controlled
+Substances Act.   1
+3
+On July 15, 2004, a Defense Security Service (DSS) agent questioned Applicant about the
+underlying incident.  Applicant “said [the item] may have been left in his cart and not scanned, but
+he wasn’t sure.”  Applicant stated that he assumed the incident would not be uncovered due to the
+expungement and also stated that his attorney had advised him “that after 36 months the proceeding
+would be removed from his record.”
+B.  Discussion
+The Appeal Board’s review of the Judge’s findings of facts is limited to determining if they
+are supported by substantial evidence–such relevant evidence as a reasonable mind might accept as
+adequate to support such a conclusion in light of all the contrary evidence in the record.”  Directive
+¶  E3.1.32.1.  “This is something less than the weight of the evidence, and the possibility of drawing
+two inconsistent conclusions from the evidence does not prevent an administrative agency’s findings
+from being supported by substantial evidence.”  Consolo v. Federal Maritime Comm’n, 383 U.S.
+607, 620-21 (1966).  In evaluating the Judge’s findings, we are required to give deference to the
+Judge’s credibility determinations.  Directive  ¶  E3.1.32.1. 
+Applicant has not challenged the Judge’s findings.  Therefore, they are not at issue in this
+case. 
+Whether the Record Supports the Judge’s Ultimate Conclusions
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choices made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. V. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of national security.’”  Department of the Navy v. Egan, 484 U.S. 581, 528 (1988). The Appeal
+Board may reverse the Judge’s decision to grant, deny, or revoke a security clearance if it is arbitrary,
+capricious, or contrary to law.  Directive  ¶¶  E3.1.32.3 and E3.1.33.3.  
+Applicant contends that it was error for the Judge to admit and consider certain documents,
+specifically an FBI identification record pertaining to Applicant; a DSS report of investigation
+summarizing the investigating agent’s interview with Applicant; and the police record pertaining to
+Applicant’s shoplifting incident.  Applicant argues that these documents were “hearsay witness
+statements that have been expunged” from his record and, therefore, the Judge should not have
+admitted them.   
+The Board does not agree with Applicant’s position.  Expungement of an offense does not
+relieve Applicant of the responsibility to provide truthful answers.  The only exception pertains to
+the Federal Controlled Substances Act, which is not the case here.  Applicant’s argument is further
+weakened by the fact that the court which ordered the expungement was a state court.  See ISCR
+Case No. 03-22563 at 4 (App. Bd. Mar. 8, 2006) (“[T]he federal government is not bound by state
+law concerning the expungement of state criminal convictions . . . [and] can require a person
+4
+applying for a . . .  security clearance to disclose information about his criminal record even if it has
+been expunged.”)(internal citations omitted).     
+Neither did the documents’ hearsay character impair their admissibility in this instance.  The
+documents had reasonable indicia of reliability–two of the documents were official records that had
+been prepared for purposes other than litigation at DOHA; the other document was an official record
+memorializing an agent’s observations and the Applicant’s admissions.  In DOHA proceedings, the
+Federal Rules of Evidence service only as a guide.  They may be relaxed by the Judge (with one
+exception not applicable to this appeal) in order to permit the development of a full and complete
+record by the parties.  Directive E3.1.19.  By design, the DOHA process encourages Judges to err
+on the side of initially admitting evidence into the record and then to consider a party’s objections
+when deciding what, if any, weight to give to that evidence.  Because DOHA proceedings are
+conducted before impartial, professional fact finders, there is less concern about the potential
+prejudicial effect of specific items of evidence than there is in judicial proceedings conducted before
+a lay jury.  See, e.g., ISCR Case No. 04-11571 at 2-3 (App. Bd. Feb. 8, 2007).  Given the record in
+this case, the Judge did not err in admitting the documents into evidence.  Furthermore, the weight
+which he assigned to the documents was not arbitrary, capricious, nor contrary to law.  See, e.g.,
+ISCR Case No. 98-0619 at 7-8 (App. Bd. Sep. 10, 1999).        
+Concerning the remaining issues on appeal, we note that “there is a strong presumption
+against granting a security clearance.”   Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9  Cir. 1990),th
+cert den 499 U.S. 905 (1991).  Once the government presents evidence raising security concerns, the
+burden shifts to the applicant to establish any appropriate mitigating conditions.  See Directive  ¶
+E3.1.15.  “The application of disqualifying and mitigating conditions and whole person factors does
+not turn simply on a finding that one or more of them apply to the particular facts of a case.  Rather,
+their application requires the exercise of sound discretion in light of the record evidence as a whole.”
+See ISCR Case No. 05-03635 at 3 (App. Bd. Dec. 20, 2006). 
+We have examined the Judge’s analysis of the mitigating conditions that might apply in
+Applicant’s case.  Given his findings, we conclude that his analysis of them is not arbitrary,
+capricious, or contrary to law.  Likewise the Judge’s whole person analysis is sustainable.  He took
+into account record evidence favorable to Applicant, such as the fact that he apparently received
+some inadequate advice from his counsel and from other court officials regarding the legal
+implications of an expungement order.  The Judge’s findings of fact demonstrate that he also took
+into account Applicant’s work record and charitable activities.  
+However, the Judge noted the fact that Question 26 is clear on its face, and Applicant, an
+educated man, had no reason to believe that he was excused from answering it truthfully.  The Judge
+went on to say, “Even at the hearing, he was still trying to suggest that the incident was so minor it
+did not warrant reporting” in support of his conclusion that Applicant has not fully accepted
+responsibility for his actions.  Decision at 4.  Considering the Judge’s decision in light of the record
+as a whole, we conclude that his whole person analysis complies with the requirements of Directive
+¶  E2.2.1, in that the Judge considered the totality of Applicant’s conduct in reaching his decision.
+See ISCR Case No. 04-09959 at 6 (App. Bd. May 19, 2006).  Accordingly, we conclude that the
+Judge’s decision is not arbitrary, capricious, or contrary to law.   
+5
+Order
+The Judge’s decision denying Applicant a clearance is AFFIRMED.  
+Signed; Jean E. Smallin                 
+Jean E. Smallin
+Administrative Judge
+Chairman, Appeal Board
+Signed: William S. Fields              
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board

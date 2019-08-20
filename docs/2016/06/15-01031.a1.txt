@@ -1,0 +1,166 @@
+KEYWORD: Guideline F
+DIGEST: A credibility determination based solely on a written record is not entitled to the same
+deference as one based observing a witness’s demeanor.  Favorable decision reversed.
+CASENO: 15-01031.a1
+DATE: 06/15/2016
+DATE: June 15, 2016
+In Re:
+---------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-01031
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Bryan Olmos, Esq., Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+September 15, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline F (Financial Considerations) of Department
+of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On March 4, 2016, after considering the record, Defense Office of Hearings
+and Appeals (DOHA) Administrative Judge David M. White granted Applicant’s request for a
+security clearance.  Department Counsel appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Department Counsel raised the following issue on appeal:  whether the Judge’s decision was
+arbitrary, capricious, or contrary to law.1  Consistent with the following, we reverse.
+The Judge’s Findings of Fact  
+Applicant is a 58-year-old employee of a defense contractor.  In his security clearance
+application dated July 29, 2014, he disclosed that he had not filed his 2011, 2012, and 2013 Federal
+income tax returns in a timely manner and explained that he calculated he would receive a tax refund
+for each of those years. 
+Applicant filed his 2011 Federal income tax return in December 2013 and received a $2,074
+tax refund.  He filed his 2012 Federal tax return in September 2014 and his 2013 Federal tax return
+in October 2015.  He received Federal tax refunds of $3,664 for 2012 and $1,013 for 2013. 
+In his response to the SOR, Applicant stated, “my decision to delay filing was completely
+unrelated to any financial over-extension or unpaid debt circumstances encountered on my behalf. 
+I delayed filing a tax return specifically due to the fact that, in each case, I pre-determined that I
+would receive a tax refund.  The pre-determined calculation was based on my known tax deductions
+for each year.”  He also stated he regretted failing to file his tax returns in a timely manner,
+understood that filing late because he expected a refund was an unacceptable practice, and pledged
+to file his tax return before the April 15 deadline. 
+The Judge’s Analysis
+The Judge found that Applicant’s failure to file his 2011, 2012, and 2013 Federal income tax
+returns in a timely manner established security concerns under disqualifying condition 19(g).2  The
+Judge concluded that Applicant was under the impression that there was nothing legally wrong with
+filing his income tax returns late as long as he paid more taxes than was owed.  He noted that
+Applicant filed his 2011 Federal income tax return before submission of his security clearance
+application and the other two tax returns after becoming aware of the potential security concerns for
+not having done so.  He determined that Applicant correctly understood that he was entitled to a
+refund for each year and concluded Applicant’s late filing of Federal income tax returns was not
+serious because it merely delayed his receipt of substantial refunds for each year.  He stated that
+1 Department Counsel also raised the issue of whether the Judge erroneously excluded Applicant’s personal
+subject interview from the record.  We need not address that issue to decide this case. 
+2 Directive, Enclosure 2 ¶ 19(g) states, “failure to file annual Federal, state, or local income tax returns as
+required or the fraudulent filing of the same.”
+2
+Applicant’s credible statement of intent to file timely in the future indicates that recurrence is
+unlikely.  He concluded that Applicant’s tax filing problems were fully resolved and the security
+concerns were fully mitigated. 
+Discussion
+Department Counsel argues that the limited record in this case does not support the Judge’s
+favorable credibility and mitigation analysis. He points out that Applicant did not file his 2012
+Federal income tax return until after submission of his security clearance application and did not file
+his 2013 tax return until after issuance of the SOR.  He contends that the Judge, in limiting his
+analysis to the resolution of the tax filing obligations, failed to assess adequately the overriding
+issues of Applicant’s lack of judgment and his history of failing to abide by rules and regulations.
+He asserts that Judge took the position of “no harm, no foul,” which the Appeal Board has
+discounted in the past.3  Department Counsel’s arguments have merit. 
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371, U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’”   Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt 
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”  Directive, Enclosure 2 ¶ 2(b).  The Appeal Board may reverse the Judge’s
+decision to grant, deny, or revoke a security clearance if it is arbitrary, capricious, or contrary to law. 
+Directive ¶¶ E3.1.32.3 and E3.1.33.3.
+There is a strong presumption against the grant or maintenance of a security clearance.  See
+Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After
+ the Government presents evidence raising security concerns, the burden shifts to the applicant to
+rebut or mitigate those concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and
+mitigating conditions and whole person factors does not turn simply on a finding that one or more
+of them apply to the particular facts of a case.  Rather, their application requires the exercise of
+sound discretion in light of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at
+3 (App. Bd. Dec. 20, 2006).
+3 ISCR Case No. 14-01894 at 4-5 (App. Bd. Aug. 18, 2015). (“The fact that Applicant has purportedly corrected
+his federal tax problem, and the fact that he is now motivated to prevent such problems in the future, does not preclude
+careful consideration of Applicant’s security worthiness in light of his longstanding prior behavior evidencing
+irresponsibility. . . .  Department Counsel argues that the Judge took a “no harm, no foul” approach to Applicant’s course
+of conduct and employed an “all’s well that ends well” analysis that did not give appropriate weight to Applicant’s multi-
+year inaction regarding his income tax filing and payment duties. The Board concludes that these are fair
+characterizations of the Judge’s resolution of the case. . . .  By failing to analyze and discuss these matters in any depth,
+the Judge has failed to consider an important aspect of the case.”) (Citations omitted).  
+3
+In deciding whether the Judge’s rulings or conclusions are erroneous, we will review the
+Judge’s decision to determine whether:  it does not examine relevant evidence; it fails to articulate
+a satisfactory explanation for its conclusions, including a rational connection between the facts
+found and the choice made; it does not consider relevant factors; it reflects a clear error of judgment;
+it fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  See, e.g., ISCR Case No. 14-02563 at 3-4 (App. Bd. Aug. 28, 2015).
+Security requirements include consideration of a person’s judgment, reliability, and a sense
+of his or her legal obligations.  Cafeteria & Restaurant Workers Union, Local 473 v. McElroy, 284
+F.2d 173, 183 (D.C. Cir. 1960), aff’d, 367 U.S. 886 (1961).  Failure to comply with Federal and/or
+state tax laws suggests that an applicant has a problem with abiding by well-established Government
+rules and regulations.  Voluntary compliance with rules and regulations is essential for protecting
+classified information.  See, e.g., ISCR Case No. 14-04437 at 3 (App. Bd. Apr. 15, 2016).  In his
+Answer to the SOR, Applicant admitted “that over the past years I have not been in compliance with
+filing an annual Federal tax return prior to the April deadline.  In addition, I admit that, in some
+cases, I have delayed filing a tax return for two or three years.”  By failing to file his 2011, 2012,
+and 2013 Federal income tax returns in a timely manner, Applicant did not demonstrate the high
+degree of good judgment and reliability required of persons granted access to classified information. 
+See, e.g., ISCR Case No. 12-05053 at 4 (App. Bd. Oct. 30, 2014).  
+Much of the Judge’s mitigation analysis is predicated upon his conclusion that Applicant has
+resolved his tax filing problems. Applicant’s tax filing delinquencies were not due to conditions
+beyond his control. Department Counsel questions why someone would calculate their taxes,
+determine they are owed a refund, and delay filing for that refund.  Department Counsel also
+correctly points out the record does not support the Judge’s conclusion that “Applicant was under
+the impression that there was nothing legally wrong with filing his income tax returns late as long
+as he had already paid more taxes than were owing for that year.”  Additionally, the timing of
+resolution of financial problems is relevant in determining the extent to which an applicant has
+demonstrated mitigation.  ISCR Case No. 09-07551 at 4 (App. Bd.  Mar. 1, 2011).  Even though
+Applicant stated in his security clearance application that his delinquent tax returns had either been
+filed or were “in progress,” he thereafter failed to comply with the filing requirement for his 2013
+Federal income tax return for over a year and did so only after issuance of the SOR.  This delay was
+not explained and caused Department Counsel to question whether Applicant had previously
+calculated his taxes.  Overall, the Judge’s favorable mitigation determination runs contrary to the
+weight of the limited record evidence and is not sustainable.
+Department Counsel also challenges the Judge’s determination that Applicant made a
+“credible” statement to file timely tax returns in the future.  When an applicant waives a hearing and
+chooses to have his or her case decided on the written record, the Judge has no ability to make a
+credibility determination based on observation of the applicant’s demeanor.  Accordingly, a
+credibility determination based solely on a written record is not entitled to the same deference on
+appeal as a credibility determination based on observations of a witness’s demeanor.  See, e.g., ISCR
+Case No. 04-12680 at 3 (App. Bd. May 21, 2007).  Department Counsel notes that Applicant has
+4
+not provided proof that he has fully complied with Federal income tax filing requirements for 2014. 
+The absence of such evidence undercuts the Judge’s determination that Applicant’s assurance of
+reform and rehabilitation is credible. 
+We conclude that the Judge’s decision failed to consider important aspects of the case and
+improperly relied on a credibility assessment in place of record evidence.  The decision ran contrary
+to the weight of the record evidence.  Furthermore, we conclude that the record evidence, viewed
+as a whole, is not sufficient to mitigate the Government’s security concerns under the Egan standard. 
+Order
+The Decision is REVERSED.  
+Signed: Michael Ra’anan        
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: William S. Fields           
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy               
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+5

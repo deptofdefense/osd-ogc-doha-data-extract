@@ -1,0 +1,145 @@
+KEYWORD: Guideline F
+DIGEST: The Directive presumes a nexus between conduct or circumstances under any
+guideline and security clearance eligibility.  Thr SOR is clear that the issue in this case arises
+from from one significant delinquent debt.  Adverse decision affirmed.
+CASENO: 14-05366.a1
+DATE: 02/05/2016
+DATE: February 5, 2016
+In Re:
+--------.
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-05366
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+1Directive, Enclosure 2 ¶¶ 19(a), (c).  
+2
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+February 20, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On December 3, 2015, after considering the record, Defense Office of
+Hearings and Appeals (DOHA) Administrative Judge Noreen A. Lynch denied Applicant’s request
+for a security clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in concluding that
+Applicant’s circumstances raised concerns under Guideline F; whether the Judge erred in her
+findings of fact; whether the Judge failed properly to apply the whole-person concept; and whether
+the Judge’s adverse decision was arbitrary, capricious, or contrary to law.  Consistent with the
+following, we affirm the Judge’s decision.
+The Judge’s Findings of Fact
+Applicant has held a security clearance since 1997.  His SOR alleges one debt, a mortgage
+account that is past due in the amount of $12,323.  The total amount of the loan balance is slightly
+over $45,000.  In 2006, Applicant purchased a vacant lot.  He states that the bank gave him a
+“questionable loan” (Decision at 2), one that required monthly payments of $300 for five years,
+concluding with a $45,000 balloon payment.  Applicant understood the terms and conditions of the
+loan agreement.  When he completed his monthly payments, he was not able to make his balloon
+payment.  About a year before the lump sum was due Applicant notified the bank that he would not
+be able to make the payment, but it refused to cooperate.  He offered a settlement agreement, but the
+bank would not agree to it.  Applicant’s monthly payments were made through an automatic
+payment plan.  The bank stopped making automatic withdrawals. He consulted with a financial
+advisor and a legal counsel to pay off the loan.  He contends that he has gone to extraordinary
+lengths to resolve this issue.  However, he did not provide any documentary evidence to substantiate
+his efforts.  He experienced unemployment from March 2007 to June 2008 but did not provide a
+nexus between this circumstance and his inability to make his balloon payment.  Applicant noted
+that “people make mistakes.”  Id.  
+The Judge’s Analysis
+The Judge found that Applicant’s financial circumstances raised two Guideline F
+disqualifying conditions: 19(a): “inability or unwillingness to satisfy debts;” and 19(c): “a history of
+not meeting financial obligations[.]”1 In concluding that Applicant had not mitigated these concerns,
+the Judge cited to evidence that he still owes the remaining $45,000, precluding a finding that
+Applicant’s problems were past him.  She noted his unemployment but reiterated her finding that he
+had established no nexus between that fact and his inability to pay his debt.  She also noted the lack
+of documentary evidence regarding debt resolution.  In the whole-person analysis, the Judge again
+3
+cited to a lack of corroboration for Applicant’s claims regarding his discussions with the bank over
+resolving the debt.  
+Discussion
+Applicant denies that his financial problems show unwillingness or inability to pay his debts
+or that they constitute a history of not paying his debts.  He states that he always pays his debts and
+that the SOR allegation addresses an anomalous circumstance. We construe this as an argument that
+his problems do not raise security concerns.  
+The Directive presumes that there is a nexus, or rational connection, between admitted or
+proven circumstances under any of its Guidelines and an applicant’s security eligibility.  See, e.g.,
+ISCR Case No. 14-04648 at 3 (App. Bd. Sep. 9, 2015).  In this case, Applicant admitted his
+delinquent debt in his response to the SOR, and this debt is supported by substantial evidence as well.
+Applicant’s acknowledged inability to pay a debt of $45,000, which he has owed for several years,
+satisfies the requirements of 19(a).  That Applicant has satisfied other debts, though relevant, does
+not undermine the Judge’s analysis.  See, e.g., ISCR Case No. 02-04017 at 5 (App. Bd. Feb. 11, 2004)
+(The fact that security concerns arise from a single debt does not render a Judge’s adverse decision
+erroneous).  Applicant has not rebutted the presumption of nexus between his delinquent debt and
+his clearance eligibility.  
+Applicant argues that the Judge’s continued reference throughout the Decision to this one debt
+may have been for the purpose of suggesting that there is more than one debt at issue.  However, the
+SOR clearly states that Applicant’s security concern arose from this one significant delinquent debt.
+The SOR contains no ambiguity and was sufficient to put a reasonable person on notice as to the facts
+and to the issues raised by Applicant’s circumstances.  See, e.g., ISCR Case No. 14-03200 at 3 (App.
+Bd. Jul. 15, 2015).  Therefore, the Judge’s findings and analysis of the security significance of this
+debt were well within the scope of the SOR and were consistent with her duties under the Directive.
+The record does not support a conclusion that she raised concerns other than those fairly embraced
+by the SOR or that she improperly magnified Applicant’s security concerns.  To the extent that
+Applicant is arguing that the Judge was biased against him, we find nothing in the record that would
+likely persuade a reasonable person that the Judge lacked the requisite impartiality.   See, e.g., ISCR
+Case No. 14-03108 at 3 (App. Bd. May 20, 2015). 
+Applicant contends that the Judge erred in finding that he had stopped making payments on
+his loan.  He states that, to the contrary, it was the lender who stopped deducting the payments.  We
+have examined the Judge’s findings on this matter and conclude that they are consistent with the
+record that was before her.  She found that the lender stopped deducting the monthly mortgage
+payments, which was in accordance with the loan agreement, the terms and conditions of which
+Applicant understood.  The Judge’s material findings of security concern satisfy the requirement of
+the Directive for factual sufficiency.  That is, they are “supported by such relevant evidence as a
+reasonable mind might accept as adequate to support a conclusion in light of all the contrary evidence
+in the record.”  Directive ¶ E3.1.32.1. 
+2Item 2, Answers to Interrogatories,  contains a copy of a letter from Applicant to a mortgage lender, dated May
+7, 2014, in which he requests “the establishment of a payment schedule in order to repay the remainder of our loan[.]”
+There is no documentary evidence regarding the lender’s response, nor is there documentary evidence of what Applicant
+may have been doing in the three previous years or in the time following to resolve the debt.  This letter does not
+undermine the Judge’s findings about an absence of corroborating evidence.
+4
+Applicant challenges the Judge’s treatment of the mitigating conditions.  He notes that the
+crash of the housing market was a circumstance that was beyond his control.  He also reiterates his
+claims to have been diligent in pursuing avenues of debt resolution.  The Judge made findings about
+these matters.  She reasonably stated, however, that Applicant had not corroborated his claims of
+responsible action regarding his debts.2  She also stated that Applicant had not shown a connection
+between his unemployment and his inability to satisfy the balloon payment, which, again, was
+supported by the record.  Applicant has not rebutted the presumption that the Judge considered all
+of the evidence in the record.  See, e.g., ISCR Case No. 14-06093 at 3 (App. Bd. Dec. 4, 2015).  His
+argument constitutes a disagreement with the Judge’s weighing of the evidence, which is not enough
+to show that the Judge weighed the evidence in a manner that was arbitrary, capricious, or contrary
+to law.  See, e.g., ISCR Case No. 14-06440 at 4 (App. Bd. Jan. 8, 2016).  We find no reason to disturb
+the Judge’s ultimate conclusion that Applicant had not met his burden of persuasion as to mitigation.
+Moreover, we conclude that the Judge’s application of the whole-person concept was consistent with
+the Directive, in that she evaluated Applicant’s circumstances in light of the entirety of the record
+evidence.  See, e.g., ISCR Case No. 14-02806 at 4 (App. Bd. Sep. 9, 2015). 
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department of
+the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Y. Ra’anan          
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed; Jeffrey D. Billett               
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+5
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board

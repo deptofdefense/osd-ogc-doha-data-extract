@@ -1,0 +1,178 @@
+KEYWORD: Guideline F
+DIGEST: While unemployment has a bearing on financial condition, twice being terminated for
+cause was not beyond Applicant’s control.  Applicant’s expenses on his daughter’s surgery
+predate his 1995 bankruptcy, and his divorce was in 1989.  Applicant’s 2007 credit counseling
+certificate indicates that no repayment plan was prepared.  The record does not support a
+conclusion that has met his burden of persuasion.  Favorable decision reversed.
+CASENO: 06-23362.a1
+DATE: 04/04/2008
+DATE: April 4, 2008
+In Re:
+---------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 06-23362
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Melvin A. Howry, Esq., Department Counsel
+FOR APPLICANT
+Alan V. Edmunds, Esq.
+2
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On April 26, 2007, DOHA issued a statement of reasons (SOR) advising Applicant of
+the basis for that decision–security concerns raised under Guideline F (Financial Considerations) of
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On October 31, 2007, after the hearing, Administrative Judge Darlene Lokey
+Anderson granted Applicant’s request for a security clearance.  Department Counsel filed a timely
+appeal pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Department Counsel raised the following issues on appeal: whether the Judge erred in her
+application of the Financial Consideration Mitigating Conditions (FCMC); and whether the Judge’s
+favorable security clearance decision is arbitrary, capricious, and contrary to law.  Finding error, we
+reverse.  
+Whether the Record Supports the Judge’s Factual Findings
+A.  Facts
+The Judge made the following pertinent findings of fact: Applicant has a history of financial
+difficulties, owing between $60,000 and $70,000 to twenty different creditors.  He has filed for
+bankruptcy three times, the first in 1995 under Chapter 7 of the Bankruptcy Code.  At that time his
+total liabilities amounted to $56,900.  He was discharged in bankruptcy later that year.  He filed
+again for Chapter 13 bankruptcy in March 2006, but a judge subsequently dismissed it due to
+Applicant’s having failed to comply with the trustee’s payment plan.  Applicant filed a Chapter 13
+petition again in January 2007.  He began making payments under the plan in March 2007.  As of
+the date of the decision, the plan will take three to five years to complete.
+There are a number of incidents in Applicant’s past which have a bearing upon his financial
+condition.  He has lost two jobs, once being discharged Under Other Than Honorable Conditions
+(UOTHC) from the Air Force in lieu of court-martial.  The second, in 2004, was from a civilian
+employer who fired Applicant for misuse of a company credit card.  He had used the card to pay for
+visits to his mother, who was ill with cancer.  He was unemployed for four to five months following
+this event.  He withdrew money from his retirement account in order to cover living expenses.  After
+securing new employment, Applicant again misused a company credit card, for which he was
+counseled and warned that if he did it again he would be fired.   In addition to his lost jobs, in 1996
+his employment contract expired, and he was forced to take a 25% pay cut and move to a new state,
+which also had an impact on his finances.
+In addition to his employment difficulties, Applicant’s daughter has had medical problems.
+In 1994 she had cochlear implant surgery, which cost Applicant $2,000 out of pocket.  Batteries for
+the implant cost Applicant about $50.00 a week.  In 2006 he incurred approximately $25,000.00 in
+legal fees on behalf of his son, who had been arrested following a high school prank.  
+B.  Discussion
+Directive ¶ E2.18.1
+3
+The Appeal Board’s review of the Judge’s findings of facts is limited to determining if they
+are supported by substantial evidence–“such relevant evidence as a reasonable mind might accept
+as adequate to support a conclusion in light of all the contrary evidence in the record.”  Directive
+¶ E3.1.32.1.  “This is something less than the weight of the evidence, and the possibility of drawing
+two inconsistent conclusions from the evidence does not prevent an administrative agency’s finding
+from being supported by substantial evidence.”  Consolo v. Federal Maritime Comm’n, 383 U.S.
+607, 620-21 (1966).  In evaluating the Judge’s findings, we are required to give deference to the
+Judge’s credibility determinations.  Directive ¶ E3.1.32.1. 
+Whether the Record Supports the Judge’s Ultimate Conclusions
+ A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choices made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  The Appeal
+Board may reverse the Judge’s decision to grant, deny, or revoke a security clearance if it is arbitrary,
+capricious, or contrary to law.  Directive ¶¶ E3.1.32.3 and E3.1.33.3.  
+Once a concern arises regarding an Applicant’s security clearance eligibility, there is a strong
+presumption against the grant or maintenance of a security clearance.  See Dorfmont v. Brown, 913
+F. 2d 1399, 1401 (9  Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After the government presentsth
+evidence raising security concerns, the burden shifts to the applicant to establish any appropriate
+mitigating conditions.  See Directive ¶ E3.1.15.  “The application of disqualifying and mitigating
+conditions and whole person factors does not turn simply on a finding that one or more of them apply
+to the particular facts of a case.  Rather, their application requires the exercise of sound discretion
+in light of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at 3 (App. Bd. Dec.
+20, 2006).
+The security concern raised by Guideline F recognizes that “[f]ailure or inability to live
+within one’s means, satisfy debts, and meet financial obligations may indicate poor self-control, lack
+of judgment, or unwillingness to abide by rules and regulations, all of which can raise questions
+about an individual’s reliability, trustworthiness and ability to protect classified information.”   In1
+the instant case the Judge properly concluded that the Government had presented substantial
+evidence of security significant unpaid debt.  Department Counsel’s appeal challenges the Judge’s
+conclusion that Applicant had met his burden of persuasion as to mitigation.
+Directive ¶ E2.23(b).   “[T]he conditions that resulted in the financial problem were largely beyond the person’s2
+control (e.g., loss of employment, a business downturn, unexpected medical emergency, or a death, divorce or
+separation), and the individual acted responsibility under the circumstances . . .”  
+Applicant was alleged to have secured  medical treatment at government expense on behalf of his ex-wife, who,3
+following the divorce, would not have been entitled to it.  Government Exhibit (GE) 11 is a statement by Applicant on
+this matter, in which he explains that he was honestly mistaken as to his marital status at the time in question, given the
+fact that he and his wife had each filed for divorce in different jurisdictions.  GE 12, however, is a statement by a fellow
+officer to the effect that Applicant admitted that he knew his wife was not entitled to dependent benefits at the time she
+received them.  Applicant paid the government back for the cost of the services.  GE 11 at 3.     
+Directive ¶ E2.20(c).  “[T]he person has received or is receiving counseling for the problem and/or there are4
+clear indications that the problem is being resolved or is under control . . .”
+Directive ¶ E2.20(d).  “[T]he individual initiated a good-faith effort to repay overdue creditors or otherwise5
+resolve debts . . .”  
+Applicant Exhibit (AE) N.6
+4
+Department Counsel disagrees, for example, with the Judge’s conclusion that Applicant had
+established FIMC 23(b) .  The Judge pointed out that Applicant’s debt problems were affected by2
+lost employment, family medical difficulties, and a divorce.  However, Department Counsel argues
+that these misfortunes are not significant mitigating factors in Applicant’s lengthy history of bad
+debt.  Department Counsel’s argument has merit.  The Board notes, for example, that Applicant
+resigned from the Air Force in lieu of court-martial, receiving a UOTHC, for allegedly obtaining
+services to which he was not entitled.   Furthermore, his having been fired for misusing a company3
+credit card resulted in several months of unemployment.  While these incidents may have had some
+bearing on his poor financial condition, it cannot be said that twice having been terminated for cause
+is a matter beyond Applicant’s control.  By the same token, while Applicant incurred medical
+expenditures on behalf of his daughter, the evidence does not support the conclusion that these debts
+were ever a major portion of Applicant’s difficulties, and in any event there is no reason to believe
+that the $2,000.00 he spent on her surgery affects his current financial condition, as this expenditure
+predates his 1995 Chapter 7 bankruptcy discharge.  In addition, his divorce occurred in 1989, and
+the evidence supplied by Applicant does not demonstrate that it continues to play a meaningful role
+in his ongoing financial worries.  To the extent that Applicant has faced difficulties beyond his
+control, the record does not support the conclusion that they are quantitatively different from what
+an average person might expect to encounter during the course of a lifetime.  As it is, evidence
+supplied by Applicant does not demonstrate that he has acted responsibly in addressing his financial
+problems.     
+Neither are the other mitigating conditions which the Judge favorably applied–the receipt of
+counseling  and good-faith efforts to replay creditors –supported by the weight of the record4 5
+evidence.  While Applicant did engage the services of a credit counselor, he did so in January 2007
+as a precondition to filing for bankruptcy.  The counseling certificate, which he submitted as part of
+his court filing, states that no debt repayment plan was prepared during the course of this “briefing,”
+suggesting that it was pro-forma,  thereby reducing the weight to which the counseling is entitled.6
+AE H at 4.  7
+5
+That he apparently received similar counseling prior to his 2006 bankruptcy petition,  which was7
+subsequently dismissed due to non-payment, is significant record evidence contrary to the Judge’s
+conclusion under FCMC 20(c) that Applicant has demonstrated “clear indications that the problem
+is being resolved or is under control.”  Furthermore, Applicant’s lengthy history of financial
+problems, going back to the repossession of his car in 1986, makes it difficult to conclude that his
+having made payments under his most recent bankruptcy proceeding demonstrates good faith
+sufficient to mitigate the security concerns established by the Government’s evidence.  Given
+Applicant’s financial history, as reflected in the record evidence, his having made six months of
+payments on a second Chapter 13 plan, expected to extend years into the future, is not sufficient to
+support the Judge’s conclusion under FMCM 20(d). 
+Department Counsel argues that the Judge subjected Applicant’s case to a piecemeal analysis.
+The Board finds this argument persuasive.  While any one factor, such as divorce or illness,
+considered in isolation, might put Applicant’s credit history in a sympathetic light, a Judge must
+evaluate the various aspects of an applicant’s case in light of the totality of the record evidence.  See
+U.S. v. Bottone, 365 F. 2d 389, 392 (2d Cir. 1966), cert. denied 385 U.S. 974 (1966) (“The trier is
+entitled, in fact bound, to consider the evidence as a whole; and, in law as in life, the effect of this
+generally is much greater than the sum of the parts.”)  In this case the Judge’s decision runs counter
+to the weight of the record evidence.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2, 2006).
+The  record, viewed  as a whole, does not support a conclusion that Applicant has met his burden
+of persuasion that it is “clearly consistent with the interests of national security” for him to have a
+clearance.   Egan, 484 U.S. at 528.  
+Order   
+The Judge’s favorable security clearance decision is REVERSED.  
+Signed: Michael Y. Ra’anan            
+Michael Y. Ra’anan
+Administrative Judge
+Chairman, Appeal Board
+Signed: Jean E. Smallin                   
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                  
+6
+James E. Moody
+Administrative Judge
+Member, Appeal Board

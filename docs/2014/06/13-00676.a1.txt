@@ -1,0 +1,107 @@
+KEYWORD: Guideline K
+DIGEST: Applicant has committed four security violations between 2006 and 2012.  Adverse
+decision affirmed.
+CASENO: 13-00676.a1
+DATE: 06/13/2014
+DATE: June 13, 2014
+In Re:
+----------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 13-00676
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+August 23, 2013, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline K (Handling Protected Information) of
+2
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On March 24, 2014, after the hearing, Defense Office of Hearings and Appeals
+(DOHA) Administrative Judge Elizabeth M. Matchinski denied Applicant’s request for a security
+clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact
+Applicant committed four security violations while working in a classified location for his
+current employer, a Defense contractor.  In 2006, he left a classified backup tape on a bench in the
+classified location.  In 2012, he committed three violations.  He failed to secure the lock on the door
+to the classified location, he left six classified hard drives in a closed area overnight without properly
+storing them, and subsequently installed unapproved software on a classified information system.
+None of these infractions resulted in actual compromise of classified information.  The first three
+instances resulted in disciplinary action and/or additional security training for Applicant.  After the
+last one, Applicant’s employer submitted an “individual culpability report to the DoD.”  Decision
+at 4.  Applicant posted a list of rules regarding acceptable use of information systems to ensure that
+he complied with security requirements.  
+A few months later, DoD suspended Applicant’s security clearance.  His employer
+reassigned him to a program that does not require a clearance.  However, he testified that he was
+“able to do classified work with somebody else on [his] program.”  Id. at 5.  By that he meant that
+he was permitted to work in the classified location but only when accompanied by a cleared escort.
+He did not actually have access to classified documents.   
+The Judge’s Analysis
+In concluding that Applicant had not mitigated the concerns arising from his security
+violations, the Judge noted that at least two of them were similar and, therefore, of a recurring
+nature.  She stated that Applicant did not appear to have responded favorably to remedial training,
+given the number of violations found against him, and that the evidence was such that “concerns
+persist that he lacks appropriate security awareness.”  Id. at 9.  The Judge noted Applicant’s
+testimony that he is permitted to do classified work.  Although he subsequently clarified that to mean
+that he merely had access to computer hardware that, though classified, was not visually classified,
+“he should have recognized that describing his work as classified . . . was inappropriate and could
+raise security flags.”  Id.  The Judge concluded that Applicant’s violations could not be blamed on
+poor security training.
+In the whole-person analysis, the Judge stated that the commission of three security
+violations in six months casts “serious doubt” on Applicant’s judgment and reliability.  Id. at 10.
+The Judge noted that, were Applicant’s access to classified information to be restored, he may well
+3
+resume duties which have, in the past, been performed without direct oversight.  As it stands, the
+evidence does not lead to a conclusion that Applicant has sufficient awareness to recognize potential
+security issues and, therefore, seek appropriate guidance.  
+Discussion
+Applicant challenges the Judge’s comment about his working in a classified location despite
+his own clearance having been suspended.  He stated that he did not actually have access to any
+classified documents and argues that the Judge misinterpreted his comment.  We have examined the
+Judge’s statements about this matter in light of her Decision as a whole.  Although she did find
+Applicant’s claim to be sufficiently problematic so as to require further clarification from him, we
+find no reason to believe that she ultimately misinterpreted the comment or attributed additional
+security violations to him.  She merely stated that the way in which Applicant initially worded the
+comment could lead to misunderstanding.  We find no reason to believe that the Judge exaggerated
+the extent of Applicant’s security-significant conduct or that she weighed the evidence in a manner
+that was arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 10-07881 at 2 (App. Bd.
+Oct. 5, 2012).  The gravamen of the Judge’s decision was that, despite adequate training and
+corrective action, Applicant had committed a series of security violations, impugning his judgment
+and reliability.  This analysis was consistent with the record that was before the Judge.  Security
+violations strike at the heart of the Industrial Security Program, and an applicant who has committed
+such violations has a “very heavy burden” in attempting to demonstrate mitigation.  See, e.g., ISCR
+Case No. 11-09219 at 3 (App. Bd. Mar. 31, 2014).  
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”
+Order
+The Decision is AFFIRMED.
+Signed: Michael Ra’anan              
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: William S. Fields               
+William S. Fields
+Administrative Judge
+4
+Member, Appeal Board
+Signed: James E. Moody                  
+James E. Moody
+Administrative Judge
+Member, Appeal Board

@@ -1,0 +1,201 @@
+Consisting of the File of Relevant Material (FORM), Items 1-7, and Applicant’s Response to the FORM.1
+DoD acted under Executive Order 10865, Safeguarding Classified Information Within Industry (February 20,2
+1960), as amended; DoD Directive 5220.6, Defense Industrial Personnel Security Clearance Review Program
+(January 2, 1992), as amended (Directive); and the adjudicative guidelines (AG) effective within the DoD on
+1 September 2006. 
+1
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+XXXXXXXXXXXXXXXXXX       )       ISCR Case No. 15-01481 
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Candace Lei Garcia, Esquire, Department Counsel
+For Applicant: Pro se
+______________
+Decision
+______________
+METZ, John Grattan, Jr., Administrative Judge:
+Based on the record in this case,  I deny Applicant’s clearance.1
+On 26 September 2015, the Department of Defense (DoD) sent Applicant a
+Statement of Reasons (SOR) raising security concerns under Guideline F, Financial
+Considerations.  Applicant timely answered the SOR, requesting a decision without2
+hearing by the Defense Office of Hearings and Appeals (DOHA). The record in this case
+closed 1 March 2016, when Department Counsel stated no objection to Applicant’s
+Response to the FORM (Response). DOHA assigned the case to me 19 October 2016.
+Record documents highlight the difficulty of following education loans through their various successors-in-3
+interest. According to Applicant’s February 2014 credit report (Item 5), this account first appears as an
+education loan by Bank of America in August 2007 as reported to Equifax, one of the three main credit
+bureaus. The account was identified by a specific 10-digit account number, 57*******1, indicating the first
+disbursement of an education loan. The original high credit was $10,337. As of November 2010, the loan had
+been assigned to the Government because it was 120-days past due. The same information was reported to
+Experian, the second of the three main credit bureaus, by ACS, an education loan servicing agent. The same
+credit report reflects that the U.S. Department of Education (USDOE) opened an account with an identical
+account number in January 2008, as reported to Equifax. This account was in collection as of September
+2010. However, the high credit reported was $8,544. The same credit report lists what appears to be the same
+account under FEDLOAN, based on the same $8,544 high credit, but with an entirely different 10-digit account
+number, 78********FD00001. This account was reported to Equifax as 120-days past due as of January 2014.
+Finally, in February 2014, ECMC, a collection agent for delinquent education loans reported a collection
+account to TransUnion—the third of the credit bureaus—on behalf of Bank of America, which was $10,477
+past due on a balance of $13,529. However, this account has a third distinct 10-digit account number,
+66*******). This is the debt alleged at SOR 1.f. Applicant’s January 2015 credit report (by Equifax) shows a
+collection account by ECMC, 66XXXX, being $5,707 past due on a high-credit of $10,477. This is the debt
+alleged in SOR 1.a. In addition, a July 2014 garnishment notification from Applicant’s company (Item 7)
+showing a garnishment order from ECMC, beginning in May 2014, for $501.13 bi-weekly, on an account with
+a nine-digit account number, 57*******. This could be the Bank of America education loan, morphing through
+ACS, USDOE, and FEDLOAN, before coming to rest at ECMC, but only if the missing 10  digit is 1. If theth
+missing digit is 2 or 3, then the garnishment order is for one of the accounts at SOR 1.d or 1.e. The
+garnishment order does not state the total amount to be garnished, which would provide a clue to which
+account it was. In any event, Applicant’s Response indicates that he made bi-weekly garnishment payments
+totaling $14,478 between May 2014 and August 2015 to satisfy the garnishment order in Item  7. Applicant
+claimed that in February 2016 (Response) he obtained a copy of a credit report and this debt was not listed.
+However, he did not provide a copy of that credit report.
+Applicant’s Answer claimed that the payment was made in May 2014.4
+2
+Findings of Fact
+Applicant denied the SOR financial allegations. He is a 58-year-old facility
+manager employed by a U.S. defense contractor since October 2004. He was employed
+in a similar position from October 2001 to September 2004. Applicant served on active
+duty in the U.S. military from October 1975 to May 1996, received an honorable
+discharge, and retired on disability pay. He held a clearance while in the military, and
+seeks to retain the industrial clearance he received most recently in February 2009
+(Item 3). He has been married since January 1977.
+The SOR alleges, and Government exhibits (Items 3-7) substantiate, six
+delinquent debts totaling over $46,000. The bulk of the debt is for delinquent education
+loans. Available evidence suggests, but does not confirm, that SOR debt 1.a is the
+same as SOR debt 1.f.3
+Regarding SOR debt 1.b, Applicant’s Response provided a 24 February 2016
+letter from a collection agent for a current account owner with an account number
+33***********, that shows an account paid in full on 21 February 2014.  The original4
+owner is the same as the creditor in SOR 1.b, but the account number for the original
+The letter, for account number 10********, reflects a $37,784.90 principal balance, with interest, fees and costs5
+bringing the total balance to $60,392.19. SOR allegations 1.d and 1.e are based on credit entries made to
+Experian for accounts number 78**********FD00002 and 78**********FD00003, respectively (Item 5). The
+entries reflect that the accounts were over 120-days past due in the amounts of $3,448 and $3,859, on high
+credits of $14,240 and $15,614, and balances of $14,237 and $15,614, respectively. The combined balances
+total $29,851. The accounts correspond to collection accounts reported by USDOE to Equifax, with account
+numbers 57*******2 and 57*******3, respectively, but with high credits of $14,812 and $15,384, respectively,
+or $30,196 total. The same two accounts appear in Item 6, with partial account numbers, and the same high
+credit amounts, but did not report any balances due or past-due amounts, as the accounts had been assigned
+to the Government.
+Applicant stated that he brought his mortgage account current by taking a hardship withdrawal from his6
+retirement account (Item 4).
+This account, with the identical first-ten digits, also appears in Applicant’s January 2015 credit report (item7
+6) with the same information reported by NELNET, another servicer of delinquent education loans.
+3
+owner is 60************** (Item 5). The same account also appears in Item 6, with the
+identical first-eight digits of the account number. 
+Regarding SOR debt 1.c, Applicant’s Response also contained a 25 February
+2016 letter from another collection agent that an account with file number 09-XXXX had
+been satisfied. The letter did not state when the account had been satisfied, or in what
+amount. One of the listed creditors is the same judgment creditor alleged in SOR 1.c,
+whom Applicant claimed was paid in January 2013 (Answer). However, the judgment
+was filed in April 2010, with case number 10****** (Item 5).
+Finally, Applicant claimed that the education loans at SOR 1.d and 1.e had been
+combined into a separate account and he was making $350 monthly payments. In his
+Response, Applicant provided a 24 February 2016 letter from the National Payment
+Center for the USDOE stating that Applicant had been making monthly payments of at
+least $350 since 21 April 2014.5
+Applicant reported three delinquent accounts on his January 2014 clearance
+application (Item 3), but only SOR debt 1.c was included. He discussed all the
+unfavorable accounts on his February 2014 credit report with a Government investigator
+during his April 2014 subject interview (Item 4). He claimed to have paid all his
+education loans in full, except for SOR 1.g, which he stated he would investigate.
+Applicant attributed his financial problems to his paying legal expenses related to
+his adult son’s divorce and paying college expenses for his daughter (Item 3, 4). He fell
+behind on his accounts, including his first mortgage, which is now current, but upon
+which foreclosure proceedings had been initiated.  In addition to the SOR debts,6
+Applicant’s February 2014 credit report (Item 5) contains an education loan reported to
+Experian by American Education Services (AES) on behalf of Suntrust Bank and
+assigned to the Government. Account number 17******PA00001 was over 120-days
+past due with an high credit of $10,000.7
+See, Department of the Navy v. Egan, 484 U.S. 518 (1988).8
+¶19(a) inability or unwillingness to satisfy debts; (c) a history of not meeting financial obligations;9
+4
+Applicant provided no budget or financial statement. He has not received any
+credit or financial counseling. He provided no work or character references, or any
+evidence of community involvement.
+Policies
+The adjudicative guidelines (AG) list factors for evaluating a person’s suitability
+for access to classified information. Administrative judges must assess disqualifying and
+mitigating conditions under each issue fairly raised by the facts and situation presented.
+Each decision must also reflect a fair, impartial, and commonsense consideration of the
+factors listed in AG ¶ 2(a). Any one disqualifying or mitigating condition is not, by itself,
+conclusive. However, specific adjudicative guidelines should be followed where a case
+can be measured against them, as they represent policy guidance governing access to
+classified information. Considering the SOR allegations and the evidence as a whole,
+the relevant adjudicative guideline is Guideline F (Financial Considerations).
+Security clearance decisions resolve whether it is clearly consistent with the
+national interest to grant or continue an applicant’s security clearance. The Government
+must prove, by substantial evidence, controverted facts alleged in the SOR. If it does,
+the burden shifts to applicant to refute, extenuate, or mitigate the Government’s case.
+Because no one has a right to a security clearance, the applicant bears a heavy burden
+of persuasion.
+Persons with access to classified information enter into a fiduciary relationship
+with the Government based on trust and confidence. Therefore, the Government has a
+compelling interest in ensuring each applicant possesses the requisite judgement,
+reliability, and trustworthiness of those who must protect national interests as their own.
+The “clearly consistent with the national interest” standard compels resolution of any
+reasonable doubt about an applicant’s suitability for access in favor of the Government.8
+Analysis
+The Government established a case for disqualification under Guideline F, and
+Applicant failed to fully mitigate the security concerns. Applicant has a history of
+financial difficulties, which are ongoing.  Applicant’s accounts became delinquent when9
+he chose to bear the legal expenses of his adult son and the college expenses of his
+daughter. He did not provide information about the onset of these financial problems, or
+when they abated.
+Applicant meets none of the mitigating conditions for financial considerations.
+His financial difficulties are both recent and multiple; and Applicant provided no
+¶20(a) the behavior happened so long ago, was so infrequent, or occurred under such circumstances that10
+it is  unlikely to recur . . . 
+Assuming that the collection agent’s 25 February 2016 letter (Response) constitutes adequate circumstantial11
+proof that the account referred to is the same as SOR debt 1.c.
+¶20(b) the conditions that resulted in the financial problem were largely beyond the person’s control . . . and12
+the individual acted responsibly under the circumstances;
+Again, assuming that the garnishment order (Item 7) refers to SOR debt 1.f, despite the fact that the account13
+number alleged in SOR 1.f does not correspond to the account number in Item 7.
+¶20(c) the person has received or is receiving counseling for the problem and there are clear indications that14
+the problem is being resolved or is under control;
+¶20(d) the individual initiated a good-faith effort to repay overdue creditors or otherwise resolve debts.15
+5
+evidence to show that the immediate causes of his problems have been resolved.  The10
+financial problems were not due to circumstances beyond his control because he made
+a conscious decision to bear some of his adult son’s legal expenses and his daughter’s
+college expenses. Moreover, he cannot be said to have been fully responsible in
+addressing his debts because he satisfied SOR debt 1.c  only after the creditor11
+obtained a judgment against him.  And SOR debt 1.f was only paid when the creditor12
+garnished his wages.  The Government is not the collection agent of last resort.13
+Applicants are expected to pay their debts because of their legal and moral obligation to
+do so, not because their clearances may be at risk. Further, debts that are taken to
+judgment or enforced through garnishment do not demonstrate responsible action by
+the Applicant.
+ 
+Applicant submitted no evidence to show that he received credit or financial
+counseling, and the evidence he submitted does not fully show that the debts are being
+resolved.  It may be that some debts are resolved and some debts are being resolved14
+in what may fairly be described as a good-faith effort to address his debts.  But without15
+a more precise paper trail demonstrating that the education account described in the 24
+February 2016 USDOE letter encompasses the loans alleged in SOR debts 1.d and 1.e,
+I am unable to find that Applicant has adequately addressed the security concerns
+raised by his financial problem. In addition, he did not provide a copy of his most recent
+credit report, a document that may have corroborated some of his claims. Accordingly, I
+conclude Guideline F against Applicant.
+ Formal Findings
+Paragraph 1. Guideline F: AGAINST APPLICANT
+Subparagraph a: For Applicant (duplicate)
+Subparagraph b: For Applicant
+Subparagraphs c-f: Against Applicant
+6
+Conclusion
+Under the circumstances presented by the record in this case, it is not clearly
+consistent with the national interest to grant or continue a security clearance for
+Applicant. Clearance denied.
+                                              
+                                             
+JOHN GRATTAN METZ, JR
+Administrative Judge

@@ -1,0 +1,226 @@
+KEYWORD: Guideline M; Guideline E
+DIGEST: Under the circumstances of this case, and in light of the Directive’s provision the the
+Federal Rules of Evidence serve only as a guide, it was not unfair for the Judge to admit a
+government exhibit in redacted form and to consider it as substantive evidence.  The record
+provides no reason to believe that the Judge weighed the evidence in a manner that is arbitrary,
+capricious, or contrary to law. Adverse decision affirmed.
+CASENO: 10-08390.a1
+DATE: 03/30/2012
+DATE: March 30, 2012
+In Re:
+----------------------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 10-08390
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+David F. Hayes, Esq., Department Counsel
+FOR APPLICANT
+Sheldon I. Cohen, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On February 2, 2011, DOHA issued a statement of reasons (SOR) advising Applicant
+of the basis for that decision–security concerns raised under Guideline M (Use of Information
+1Applicant admitted the SOR allegation under Guideline M alleging that he looked at pornographic web sites
+on Government computers while at work.  His reply to the SOR explained this admission in a manner similar to the
+Judge’s findings.
+2Applicant was not employed by AGA.  It administered the polygraphs on behalf of yet another agency (AGA2)
+by which Applicant was, at the time, employed.  
+2
+Technology Systems) and Guideline E (Personal Conduct) of Department of Defense Directive
+5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On January 4, 2012,
+after the hearing, Administrative Judge Noreen A. Lynch denied Applicant’s request for a security
+clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in admitting certain
+documents; whether the Judge’s credibility determination was erroneous; and whether the Judge’s
+overall decision was not supported by the weight of the evidence.  Consistent with the following,
+we affirm the Judge’s decision.
+The Judge made the following pertinent findings of fact: Applicant is a 60-year-old
+unmarried man.  He served in the Navy, on active duty from 1969 until 1979 and in the Reserves
+from 1988 to 1998.  He did not have a security clearance while in the Navy.  He has worked in
+assurance security since 1997.   He held a top secret clearance in 2003 and was given access to
+sensitive compartmented information (SCI) in 2005.  In 2008 his security clearance was suspended
+because he used a Government laptop to view pornographic web sites.  He did not appeal this
+decision because he did not understand the process.  Applicant had been assigned to various
+Government agencies from 2003 to 2009.  His job involved trouble shooting systems.  He described
+his role as monitoring all activity on a computer system.  He also ensured that systems adhered to
+a client’s security policy.  He would use an “intrusion detection system” to detect threats.  Applicant
+claimed that his having viewed pornography on Government computer systems was part of his
+duties.1  He would use tools to block intrusions, including those involving pornography, and report
+on them to his client.
+At one point, Applicant underwent a series of polygraph examinations administered by
+another Government agency (AGA).2  A subsequent letter, dated September 12, 2008, from a Senior
+Adjudication Officer advised Applicant that his access to classified information was denied.  The
+stated reason for the denial was Applicant’s having admitted, during the course of the polygraph
+interviews, that he had viewed adult pornography on Government computer systems.  The letter also
+stated that Applicant had admitted regularly viewing images of nude females between the ages of
+11 and 16 on his home computer.  He would view pornography about two times a week at work,
+because the security rules were lax.  He was later deterred from such activity because of
+improvements in security monitoring.  Applicant knew that this activity was wrong.
+Applicant advised that he had about 50 images of underage pornography on his home
+computer.  He also stated to polygraph interviewers that he had visited teen chat rooms and had
+interacted sexually with other members.  At the hearing he stated that he had a number of computers
+in his home, some of which he would use to view chat rooms on dating web sites.  He stated that he
+3
+did so in order to view people his age.  During his hearing testimony, he denied having looked at
+child pornography, having looked at pornography at work except as part of his official duties, and
+having entered teen chat rooms.  He denied having made these statements to the polygraph
+interviewers.  He testified that a Government exhibit containing these admissions was false.
+Applicant has received numerous awards and accolades from his job.  One witness, his
+girlfriend, testified that she did not believe the allegations in the SOR.  Another witness, a friend,
+opined that Applicant is trustworthy. 
+In the Analysis, the Judge stated that Applicant’s testimony denying culpability was not
+credible.  She stated that he had not accepted responsibility for his conduct and, accordingly, had
+not demonstrated rehabilitation.  She characterized his behavior as serious, spanning a ten-year
+period.  Accordingly, she stated that she had doubts about his suitability for a security clearance. 
+Applicant has challenged the Judge’s decision to admit two pieces of Government evidence.
+Government Exhibit (GE) 2 is a set of answers to DOHA interrogatories, containing, inter alia, two
+documents.  One is a letter stating that the AGA2 had denied Applicant access to classified
+information, based on his admissions of misconduct as described above.  The other is a letter from
+the Defense Industrial Security Clearance Office, advising him that his clearance had been
+suspended due to the prior action of AGA2.  Applicant had provided these documents to DOHA in
+response to the interrogatories.  The other challenged exhibit is GE 5, which is a letter from AGA,
+attached to which is a summary of Applicant’s answers to the polygraph interviewer’s questions.
+This exhibit is a basis for the Judge’s findings about Applicant’s admissions concerning his having
+looked at pornography at work, having looked at child pornography at home, having maintained
+images of child pornography on his computer, and having entered a teen chat room.  We examine
+a Judge’s ruling on the admission of evidence to determine if the ruling is arbitrary, capricious, or
+contrary to law.  See, e.g., ISCR Case No. 03-08813 at 5 (App. Bd. Nov. 15, 2005).  
+   Applicant contends that GE 2 was not relevant.  The reason for this contention is that the
+Government had withdrawn a SOR allegation under Guideline E to the effect that Applicant had
+been disapproved for a clearance based on his having viewed pornography at work.  Applicant
+argues that, because this allegation was withdrawn, the documents contained in GE 2 were not
+relevant to matters before the Judge.  However, despite the withdrawal of the allegation, these
+documents are relevant insofar as they show administrative consequences flowing directly form
+Applicant’s security significant  misconduct under Guideline M.  They also are relevant to a whole-
+person analysis.  The Judge did not err in admitting GE 2.
+Applicant contends that GE 5 was not admissible under any provision of the Directive and,
+by admitting it and considering it as substantive evidence, the Judge denied Applicant his right to
+confront witnesses adverse to him.  GE 5 is a six-page summary of Applicant’s statements to the
+polygraphers from the official file maintained by AGA on Applicant, along with a cover letter from
+an Associate General Counsel of AGA.  The cover letter states that (1) the document was redacted
+“to delete classified information, extraneous and administrative data and other information
+excludable pursuant to applicable law or regulation;” (2)  the exhibit is a true copy of the original
+4
+maintained during the regular course of AGA business; (3) it was the regular course of business for
+AGA personnel with knowledge of the matters at hand to record or transmit to be recorded
+information to be included in the record; and (4) the record was made at or near the time of the
+matters at hand.  The letter goes on to say that AGA would permit the Judge to examine unredacted
+copies to allow admission into the record of the redacted ones.
+Applicant contends that the admission of this exhibit was not consistent with Directive ¶
+E3.1.22, which entitles an applicant to cross-examine a person who had made a statement adverse
+to him on a controverted issue.  He also contends that this exhibit did not satisfy the requirements
+of ¶ E3.1.20, insofar as there was no authenticating witness and, in Applicant’s view, GE 5 did not
+qualify as a either a business record or a public record under Fed. Rules of Evid. 803 (6) and (8).
+¶ E3.1.20 provides that
+[o]fficial records or evidence compiled or created in the regular course of business,
+other than DoD personnel background reports of investigation (ROI), may be
+received and considered by the Administrative Judge without authenticating
+witnesses, provided that such information has been furnished by an investigative
+agency pursuant to its responsibilities in connection with assisting the Secretary of
+Defense, or the Department or Agency head concerned, to safeguard classified
+information . . . An ROI may be received with an authenticating witness provided it
+is otherwise admissible under the Federal Rules of Evidence[.] (internal citations
+omitted)    
+In this case, there is nothing in the evidence or in other matters attached to the file to
+contradict the representations in the cover letter about the nature of GE 5.  This exhibit, therefore,
+is an official record within the meaning of the Directive.  Moreover, it is not a DoD ROI.  Rather,
+it is a record maintained by an agency other than the DoD.  Accordingly, there was no requirement
+either for an authenticating witness or for strict compliance with the Federal Rules of Evidence. 
+Generally, the Federal Rules of Evidence serve as a guide in DOHA proceedings, and they may be
+relaxed to permit the development of the record.  Directive ¶ E3.1.19.  We conclude that GE 5
+satisfied the requirements of ¶ E3.1.20.  Accordingly, Applicant was not denied a right of
+confrontation.  See, e.g., ISCR Case No. 08-06997 at 3 (App. Bd. Mar. 1, 2011).  ¶ E3.1.22 does not
+require exclusion of statements that are admissible under ¶ E3.1.20.  ISCR Case No. 06-06496 at
+4 (App. Bd. Jun. 25, 2009).  Furthermore, under Fed. Rule Evid. 803(8), records of a government
+agency setting forth, in civil actions or proceedings, “factual findings resulting from an investigation
+made pursuant to authority granted by law” are admissible unless there is a basis to “indicate lack
+of trustworthiness.”  There is no basis in the record to conclude that GE 5 lacks trustworthiness for
+purposes of Fed. Rule Evid. 803.  
+Applicant argues that, in light of Fed. Rule Evid. 106, it was improper for the Judge to have
+admitted only the redacted portions of GE 5.  Rule 106 provides that when “a writing or recorded
+statement or part thereof is introduced by a party, an adverse party may require the introduction at
+that time of any other part or any other writing or recorded statement which ought in fairness to be
+3Of course, a Judge can consider the state of a piece of evidence in assigning it weight.
+4Applicant made a request to AGA under the Freedom of Information Act (FOIA) for release of the documents
+pertaining to his clearance investigation.  He was not satisfied with the result, and he argues that it is unfair for DOHA
+to proceed against him.  The extent to which AGA complied with FOIA is not a matter within our jurisdiction.  
+5
+considered contemporaneously with it.”  According to the AGA Associate General Counsel, the
+redactions were for the purpose of protecting classified information or other information with
+national security implications, as well as extraneous matters, in accordance with the law.  The record
+provides no reason to dispute this assertion, and Federal agencies and employees are entitled to a
+presumption of good faith in the performance of their responsibilities.  See, e.g., Sierra Club v.
+Costle, 657 F.2d 298, 334 (D.C. Cir. 1981).  
+In criminal cases, the Government might be forced to choose between its interests in
+prosecuting a crime and in protecting classified information.  See, e.g., United States v. Moussaoui,
+382 F.3d 453 (4th Cir. 2004).  In a DOHA proceeding, however, in which protection of national
+security is paramount, an applicant’s interest in discovery must be balanced by another agency’s
+lawful interest in safeguarding national security information.  We note that, in an appropriate case
+and with prior approval by DoD GC, a Judge may examine classified information that an applicant
+cannot inspect.  Directive ¶ E3.1.21.  The AGA Associate General Counsel cover letter included in
+GE 5 offered the Judge an opportunity to examine the unredacted document.  Neither party
+requested any such a procedure, however.  Under the circumstances, and in light of the Directive’s
+provision that the Federal Rules of Evidence serve only as a guide, we conclude that it was not
+unfair for the Judge to admit GE 5 in its redacted form and to consider it as substantive evidence.3
+Accordingly, the Judge’s admission of the challenged evidence was not arbitrary, capricious, or
+contrary to law.4  
+Applicant contends that the Judge erred in her credibility determination, in that she found
+the Government’s exhibits to be more worthy of belief than the testimony, witnesses, and other
+evidence provided by Applicant.  We have considered this argument in light of the record.  While,
+as stated above, GE 5 was admitted in redacted form, the summary of Applicant’s actual responses
+was detailed and specific.  A reasonable person could conclude either that the summary was a
+depiction of Applicant’s answers or that it was a willful fabrication by officials of AGA.  A
+reasonable person would not likely conclude that it represented simply a misunderstanding of
+purportedly exculpatory answers.  Applicant offered no plausible reason for AGA personnel going
+about their assigned duties to have made up such answers as are reflected in GE 5, nor does the
+record contain any such reason.  
+To a certain extent, GE 5 is corroborated by other evidence.  For example, Applicant
+acknowledged that he had stated to the polygraphers a belief that his having looked at pornography
+at work was wrong.  Tr. at 120, 152.  According to GE 5, Applicant told the polygraphers that he
+had numerous computers in his house.  One of his character witnesses corroborated this information.
+Tr. at 38.  Applicant acknowledged that certain statements in GE 5 concerning Applicant’s work
+5 “[Q]: Did you tell them that you worked at [agency] from October 1996 to October 2000? [A]: Yes, I did .
+. . [Q]: It says next that you advised that the rules were very lax and there [were] no security policies. [A]: Yes.  That’s
+true.  Yes. [Q]: So you made that statement? [A]: Yes . . . [Q]: Then it says that you advised – that at [another agency]
+there were too many people around, as well as cameras monitoring people’s activities. [A]: Yes.”  Tr. at 159, 161.  
+6
+history and his employer’s security policies were correct.5  On the other hand, Applicant’s testimony
+that has job had required him to look at pornography while at work was not corroborated.
+Considering the entirety of the record evidence.  We find no reason to disturb the Judge’s credibility
+determination.  See Directive ¶ E3.1.32.1 (“[T]he Appeal Board shall give deference to the
+credibility determinations of the Administrative Judge”).
+To an extent, Applicant’s argument on appeal amounts to a disagreement with the Judge’s
+weighing of the evidence.  However, the record provides no reason to believe that the Judge weighed
+the evidence in a manner that is arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No.
+08-00826 at 2 (App. Bd. Mar. 19, 2010).  The record supports a conclusion that the Judge examined
+the relevant data and articulated a satisfactory explanation for the decision, “including a ‘rational
+connection between the facts found and the choice made.’”  Motor Vehicle Mfrs. Ass’n of the United
+States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines,
+Inc. v. United States, 371 U.S. 156, 168 (1962)).  The Judge’s adverse decision is sustainable on this
+record.  “The general standard is that a clearance may be granted only when ‘clearly consistent with
+the interests of the national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).
+See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt concerning personnel being considered for
+access to classified information will be resolved in favor of the national security.”
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.  
+Signed: Michael Y. Ra’anan         
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jean E. Smallin                
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+7
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board

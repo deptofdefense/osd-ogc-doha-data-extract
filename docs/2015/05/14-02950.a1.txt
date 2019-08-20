@@ -1,0 +1,329 @@
+KEYWORD: Guideline B
+DIGEST: The Directive presumes a nexus between admitted or proven conduct under any of the
+Guidelines and an applicant’s worthiness for a clearance.  A Judge is not obligated to hold a
+record open for the presentation of additional evidence, especially when neither party requests it. 
+Adverse decision affirmed.  
+CASE NO: 14-02950.a1
+DATE: 05/14/2015
+DATE: May 14, 2015
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-02950
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Amanda M. Wilwert, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On July
+28, 2014, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline B (Foreign Influence) of Department of Defense
+Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On
+February 4, 2015, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Robert E. Coacher denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in concluding that
+his case raised security concerns; whether Applicant was denied due process; and whether the
+Judge’s adverse decision was arbitrary, capricious, or contrary to law.  Consistent with the
+following, we affirm.  
+The Judge’s Findings of Fact
+Applicant was born in India, coming to the U.S. in the early 2000s.  He became a U.S. citizen
+the following decade.  Married with two children, his family members became naturalized U.S.
+citizens as well.  Applicant has several relatives who are citizens and residents of India, as is his
+mother-in-law.  Applicant’s father-in-law is a citizen of India who resides in a European country. 
+One of Applicant’s siblings is an officer in the Indian Army, whose duties are not involved with the
+Indian intelligence service.  Applicant contacts this sibling about every four to six weeks.  Another
+sibling is a retired college president, whom Applicant contacts about every five to six weeks. 
+Applicant’s wife contacts her mother weekly.
+Applicant owns a home in the U.S., the equity in which is about $600,000, and he has nearly
+$500,000 in retirement accounts.  Applicant is active in various civic organizations in the U.S.  He
+owns investment property in India, valued at around $580,000.  He receives rental income of about
+$8,000 annually from this property.  He has contacted an Indian realtor to sell this property, although
+he submitted no evidence to show that an offer of sale had been made.
+India is a democratic republic, a strategic ally of the U.S.  The U.S. is India’s largest trading
+and investment partner, and the new prime minister seeks to further the security relationship between
+his country and the U.S.  Nevertheless, there are tensions between India and the U.S.  India
+cooperates with Iran and its military forces.  It is also one of the most active collectors of sensitive
+U.S. economic, industrial, and proprietary information.  The U.S. has sanctioned Indian scientists
+and companies for transferring technology related to weapons of mass destruction to Iran.  There
+are also cases in which persons have illegally exported or attempted to export U.S. restricted
+technology.  
+The Judge’s Analysis
+2
+The Judge concluded that Applicant’s circumstances raised Disqualifying Conditions (DC)
+7(a),1 (b),2 (d),3 and (e).4  He cited to evidence that Applicant has frequent contact with his sibling
+in the Indian Army, his contacts with other siblings being less frequent.  He also noted evidence of
+Applicant’s wife’s weekly contact with her mother.  He concluded that Applicant’s relationships
+with these relatives posed a “heightened risk of foreign exploitation, inducement, manipulation,
+pressure, or coercion.”  Decision at 7.  
+The Judge concluded that Applicant had mitigated the concerns arising from his Indian
+relatives other than the Army officer.  He also concluded that Applicant had not mitigated concerns
+regarding his financial holdings in India.  He stated that “Applicant was unable to fully meet his
+burden of showing that he can be expected to resolve any conflict of interest in favor of the U.S.
+interest.”  Id. at 8.  In the whole-person analysis, the Judge concluded that “Applicant’s [sibling’s]
+military connection and his substantial property interests in India create a potential conflict that he
+failed to provide sufficient mitigating evidence to overcome.”  Id. at 9.  
+Discussion
+Applicant contends that the Judge erred in concluding that his connections within India
+raised concerns under Guideline B.  He stated that the Judge made errors that created “an unfounded
+concern about potential foreign influence[.]” Appeal Brief at 6.  He also argues that the evidence
+does not support a conclusion that his financial interests in India pose a heightened risk of
+exploitation, insofar as he is not dependent on them  Id. at 7.  
+The Directive presumes a nexus, or a rational connection, between admitted or proven
+circumstances under any of the Guidelines and an applicant’s worthiness for a security clearance. 
+The Government is not required to provide direct evidence of such a nexus.  See, e.g., ISCR Case
+No. 09-05812 at 3 (App. Bd. Dec. 1, 2011).  In the case before us, a reasonable person could
+conclude that Applicant’s sibling in the Indian army is a person through whom Applicant could
+come to the attention of those interested in acquiring U.S. information.  See, e.g., ISCR Case No.
+11-12623 at 5 (App. Bd. Feb. 2, 2015).  Moreover, the Directive does not require actual dependence
+on foreign financial or property interests for them to raise concerns under DC 7(e).  What constitutes
+1Directive, Enclosure 2 ¶ 7(a): “contact with a foreign family member, business or professional associate, friend,
+or other person who is a citizen of or resident in a foreign country if that contact creates a heightened risk of foreign
+exploitation, inducement, manipulation, pressure, or coercion[.]”  
+2Directive, Enclosure 2 ¶ 7(b): “connections to a foreign person, group, government, or country that create a
+potential conflict of interest between the individual’s obligation to protect sensitive information or technology and the
+individual’s desire to help a foreign person, group, or country by providing that information[.]”   
+3Directive, Enclosure 2 ¶ 7(d): “sharing living quarters with a person or persons, regardless of citizenship status,
+if that relationship creates a heightened risk of foreign inducement, manipulation, pressure, or coercion[.]”  
+4Directive, Enclosure 2 ¶ 7(e): “a substantial business, financial, or property interest in a foreign country, or
+in any foreign-owned or foreign-operated business, which could subject that individual to heightened risk of foreign
+influence or exploitation[.]”  
+3
+a “substantial interest” is a matter to be decided on a case by case basis.  See ISCR Case No. 11-
+06925 at 2, 4 (App. Bd. Dec. 13, 2013), in which foreign property valued at $15,000 was sufficient
+to raise this Disqualifying Condition.  In the case before us, a reasonable person could believe that
+property valued at nearly $600,000 is substantial, whether by itself or in conjunction with
+Applicant’s overall net worth.  
+When Applicant’s sibling and his property are viewed along with India’s status as a nation
+that actively seeks U.S. protected information and the presence within India of persons and
+organizations that have provided weapons technology to Iran, a reasonable person could conclude
+that Applicant is at a heightened risk for exploitation, pressure, or coercion.  In discussing evidence
+regarding his military sibling, Applicant notes some apparent inconsistencies in the Judge’s analysis,
+in particular concerning the relative frequency of his communication with this sibling and with
+others.  To the extent that this is an error, however, it does not appear to have been decisive in the
+Judge’s overall decision and, therefore, is harmless.
+Applicant argues that the Judge erred by not concluding that his relationship with his military
+sibling was casual.  There is a rebuttable presumption that an applicant’s contacts with immediate
+family members in a foreign country are not casual, which the record evidence in this case does not
+rebut.  See, e.g., ISCR Case No. 13-00705 at 3 (App. Bd. Jun. 25, 2013).    
+Applicant contends that the Judge denied him due process, in that he did not give him a
+reasonable opportunity to present further evidence concerning his intent to sell the property in India. 
+Prior to the hearing, Applicant received a letter from DOHA outlining his rights, including his right
+to present evidence.  Moreover, the SOR was sent to Applicant accompanied by a copy of the
+Directive, which includes provisions about an applicant’s rights and duties concerning the
+submission of mitigating evidence.   Applicant submitted documents for the Judge’s consideration,
+all of which were admitted.  Tr. at 17-18.  At the end of the hearing, the Judge asked Applicant if
+he had any further evidence, to which he replied that he did not.5  Tr. at 52.  The record supports a
+conclusion that Applicant was properly advised of his rights and that he did not request an
+opportunity to present additional evidence beyond that already submitted.  See ISCR Case No. 12-
+07751 at 3 (App. Bd. Apr. 7, 2015) (A Judge is not under an obligation to hold a record open after
+a hearing for the submission of other evidence, especially when neither party requests it).  Applicant
+was not denied the due process afforded by the Directive. 
+5In presenting this argument, Applicant contends that neither the Judge nor Department Counsel asked him for
+more evidence concerning his proposed sale of his property in India.  He states that, had they done so, he could have
+provided further testimony. The Directive is clear, however, that “the applicant is responsible for presenting witnesses
+and other evidence to rebut, explain, extenuate, or mitigate facts admitted by the applicant or proven by Department
+Counsel, and has the ultimate burden of persuasion as to obtaining a favorable clearance decision.”  Directive ¶ E3.1.15. 
+A Judge has no authority to advise an applicant of the quantum of evidence that he or she should present or
+independently to investigate the allegations in an SOR.  See, e.g., ISCR Case No. 14-00434 at 3 (App. Bd. Jan. 20, 2015). 
+Applicant requests that we remand the case to enable him to present more evidence.  We have no authority to remand
+a case for this purpose.  See, e.g., ISCR Case No. 14-00976 at 3 (App. Bd. Feb. 5, 2015).  
+4
+ Applicant challenges the Judge’s mitigation analysis, citing to his connections within the
+U.S. in arguing that he can be expected to resolve any conflict of interest in favor of the U.S. 
+However, Applicant is, in effect, posing an alternative interpretation of the record, which is not
+enough to show that the Judge weighed the evidence in a manner that was arbitrary capricious, or
+contrary to law.  See, e.g., ISCR Case No. 14-00234 at 3 (App. Bd. Apr. 6, 2015).  
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”
+   
+Order
+The Decision is AFFIRMED.   
+Signed: Michael Y. Ra’anan           
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D.  Billett              
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+5
+DATE: May 14, 2015
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-02950
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Amanda M. Wilwert, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On July
+28, 2014, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline B (Foreign Influence) of Department of Defense
+Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On
+February 4, 2015, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Robert E. Coacher denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in concluding that
+his case raised security concerns; whether Applicant was denied due process; and whether the
+Judge’s adverse decision was arbitrary, capricious, or contrary to law.  Consistent with the
+following, we affirm.  
+The Judge’s Findings of Fact
+Applicant was born in India, coming to the U.S. in the early 2000s.  He became a U.S. citizen
+the following decade.  Married with two children, his family members became naturalized U.S.
+citizens as well.  Applicant has several relatives who are citizens and residents of India, as is his
+mother-in-law.  Applicant’s father-in-law is a citizen of India who resides in a European country. 
+One of Applicant’s siblings is an officer in the Indian Army, whose duties are not involved with the
+Indian intelligence service.  Applicant contacts this sibling about every four to six weeks.  Another
+sibling is a retired college president, whom Applicant contacts about every five to six weeks. 
+Applicant’s wife contacts her mother weekly.
+Applicant owns a home in the U.S., the equity in which is about $600,000, and he has nearly
+$500,000 in retirement accounts.  Applicant is active in various civic organizations in the U.S.  He
+owns investment property in India, valued at around $580,000.  He receives rental income of about
+$8,000 annually from this property.  He has contacted an Indian realtor to sell this property, although
+he submitted no evidence to show that an offer of sale had been made.
+India is a democratic republic, a strategic ally of the U.S.  The U.S. is India’s largest trading
+and investment partner, and the new prime minister seeks to further the security relationship between
+his country and the U.S.  Nevertheless, there are tensions between India and the U.S.  India
+cooperates with Iran and its military forces.  It is also one of the most active collectors of sensitive
+U.S. economic, industrial, and proprietary information.  The U.S. has sanctioned Indian scientists
+and companies for transferring technology related to weapons of mass destruction to Iran.  There
+are also cases in which persons have illegally exported or attempted to export U.S. restricted
+technology.  
+The Judge’s Analysis
+The Judge concluded that Applicant’s circumstances raised Disqualifying Conditions (DC)
+7(a),6 (b),7 (d),8 and (e).9  He cited to evidence that Applicant has frequent contact with his sibling
+in the Indian Army, his contacts with other siblings being less frequent.  He also noted evidence of
+Applicant’s wife’s weekly contact with her mother.  He concluded that Applicant’s relationships
+6Directive, Enclosure 2 ¶ 7(a): “contact with a foreign family member, business or professional associate, friend,
+or other person who is a citizen of or resident in a foreign country if that contact creates a heightened risk of foreign
+exploitation, inducement, manipulation, pressure, or coercion[.]”  
+7Directive, Enclosure 2 ¶ 7(b): “connections to a foreign person, group, government, or country that create a
+potential conflict of interest between the individual’s obligation to protect sensitive information or technology and the
+individual’s desire to help a foreign person, group, or country by providing that information[.]”   
+8Directive, Enclosure 2 ¶ 7(d): “sharing living quarters with a person or persons, regardless of citizenship status,
+if that relationship creates a heightened risk of foreign inducement, manipulation, pressure, or coercion[.]”  
+9Directive, Enclosure 2 ¶ 7(e): “a substantial business, financial, or property interest in a foreign country, or
+in any foreign-owned or foreign-operated business, which could subject that individual to heightened risk of foreign
+influence or exploitation[.]”  
+7
+with these relatives posed a “heightened risk of foreign exploitation, inducement, manipulation,
+pressure, or coercion.”  Decision at 7.  
+The Judge concluded that Applicant had mitigated the concerns arising from his Indian
+relatives other than the Army officer.  He also concluded that Applicant had not mitigated concerns
+regarding his financial holdings in India.  He stated that “Applicant was unable to fully meet his
+burden of showing that he can be expected to resolve any conflict of interest in favor of the U.S.
+interest.”  Id. at 8.  In the whole-person analysis, the Judge concluded that “Applicant’s [sibling’s]
+military connection and his substantial property interests in India create a potential conflict that he
+failed to provide sufficient mitigating evidence to overcome.”  Id. at 9.  
+Discussion
+Applicant contends that the Judge erred in concluding that his connections within India
+raised concerns under Guideline B.  He stated that the Judge made errors that created “an unfounded
+concern about potential foreign influence[.]” Appeal Brief at 6.  He also argues that the evidence
+does not support a conclusion that his financial interests in India pose a heightened risk of
+exploitation, insofar as he is not dependent on them  Id. at 7.  
+The Directive presumes a nexus, or a rational connection, between admitted or proven
+circumstances under any of the Guidelines and an applicant’s worthiness for a security clearance. 
+The Government is not required to provide direct evidence of such a nexus.  See, e.g., ISCR Case
+No. 09-05812 at 3 (App. Bd. Dec. 1, 2011).  In the case before us, a reasonable person could
+conclude that Applicant’s sibling in the Indian army is a person through whom Applicant could
+come to the attention of those interested in acquiring U.S. information.  See, e.g., ISCR Case No.
+11-12623 at 5 (App. Bd. Feb. 2, 2015).  Moreover, the Directive does not require actual dependence
+on foreign financial or property interests for them to raise concerns under DC 7(e).  What constitutes
+a “substantial interest” is a matter to be decided on a case by case basis.  See ISCR Case No. 11-
+06925 at 2, 4 (App. Bd. Dec. 13, 2013), in which foreign property valued at $15,000 was sufficient
+to raise this Disqualifying Condition.  In the case before us, a reasonable person could believe that
+property valued at nearly $600,000 is substantial, whether by itself or in conjunction with
+Applicant’s overall net worth.  
+When Applicant’s sibling and his property are viewed along with India’s status as a nation
+that actively seeks U.S. protected information and the presence within India of persons and
+organizations that have provided weapons technology to Iran, a reasonable person could conclude
+that Applicant is at a heightened risk for exploitation, pressure, or coercion.  In discussing evidence
+regarding his military sibling, Applicant notes some apparent inconsistencies in the Judge’s analysis,
+in particular concerning the relative frequency of his communication with this sibling and with
+others.  To the extent that this is an error, however, it does not appear to have been decisive in the
+Judge’s overall decision and, therefore, is harmless.
+Applicant argues that the Judge erred by not concluding that his relationship with his military
+sibling was casual.  There is a rebuttable presumption that an applicant’s contacts with immediate
+8
+family members in a foreign country are not casual, which the record evidence in this case does not
+rebut.  See, e.g., ISCR Case No. 13-00705 at 3 (App. Bd. Jun. 25, 2013).    
+Applicant contends that the Judge denied him due process, in that he did not give him a
+reasonable opportunity to present further evidence concerning his intent to sell the property in India. 
+Prior to the hearing, Applicant received a letter from DOHA outlining his rights, including his right
+to present evidence.  Moreover, the SOR was sent to Applicant accompanied by a copy of the
+Directive, which includes provisions about an applicant’s rights and duties concerning the
+submission of mitigating evidence.   Applicant submitted documents for the Judge’s consideration,
+all of which were admitted.  Tr. at 17-18.  At the end of the hearing, the Judge asked Applicant if
+he had any further evidence, to which he replied that he did not.10  Tr. at 52.  The record supports
+a conclusion that Applicant was properly advised of his rights and that he did not request an
+opportunity to present additional evidence beyond that already submitted.  See ISCR Case No. 12-
+07751 at 3 (App. Bd. Apr. 7, 2015) (A Judge is not under an obligation to hold a record open after
+a hearing for the submission of other evidence, especially when neither party requests it).  Applicant
+was not denied the due process afforded by the Directive. 
+ Applicant challenges the Judge’s mitigation analysis, citing to his connections within the
+U.S. in arguing that he can be expected to resolve any conflict of interest in favor of the U.S. 
+However, Applicant is, in effect, posing an alternative interpretation of the record, which is not
+enough to show that the Judge weighed the evidence in a manner that was arbitrary capricious, or
+contrary to law.  See, e.g., ISCR Case No. 14-00234 at 3 (App. Bd. Apr. 6, 2015).  
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”
+   
+Order
+The Decision is AFFIRMED.   
+10In presenting this argument, Applicant contends that neither the Judge nor Department Counsel asked him for
+more evidence concerning his proposed sale of his property in India.  He states that, had they done so, he could have
+provided further testimony. The Directive is clear, however, that “the applicant is responsible for presenting witnesses
+and other evidence to rebut, explain, extenuate, or mitigate facts admitted by the applicant or proven by Department
+Counsel, and has the ultimate burden of persuasion as to obtaining a favorable clearance decision.”  Directive ¶ E3.1.15. 
+A Judge has no authority to advise an applicant of the quantum of evidence that he or she should present or
+independently to investigate the allegations in an SOR.  See, e.g., ISCR Case No. 14-00434 at 3 (App. Bd. Jan. 20, 2015). 
+Applicant requests that we remand the case to enable him to present more evidence.  We have no authority to remand
+a case for this purpose.  See, e.g., ISCR Case No. 14-00976 at 3 (App. Bd. Feb. 5, 2015).  
+9
+Signed: Michael Y. Ra’anan           
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D.  Billett              
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+10

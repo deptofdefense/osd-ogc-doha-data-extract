@@ -1,0 +1,126 @@
+KEYWORD: Guideline F
+DIGEST:  In a DOHA proceeding, the applicant bears the burden of presenting evidence in
+mitigation.  A Judge’s finding that an applicant has not presented sufficient evidence in
+mitigation is not, in and of itself, a finding that the applicant has been deceptive or that he or she
+lacks credibility.  Adverse decision affirmed.
+CASENO: 17-03363.a1
+DATE: 11/29/2018
+DATE: November 29, 2018
+In Re:
+-------------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-03363
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Iana D. Benjamin, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+October 26, 2017, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On September 25, 2018, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Juan J. Rivera denied Applicant’s request for a security clearance.  Applicant
+appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact
+Applicant has worked for his current employer, a Federal contractor, since 2003.  He worked
+for other contractors before taking this job.  Applicant has held a clearance since 1996.  Divorced,
+he has two children, ages 36 and 17.   Applicant failed to file his Federal and state income tax
+returns from 2000 through 2006.  He stated that during this time he was going through a difficult
+divorce and that taxes were “the last thing on his mind.”  Decision at 3.  Applicant stated that he had
+hired an accountant to file his returns for him, and he claimed that this had in fact been done.  He
+did not provide documentary corroboration of these contentions.  
+Applicant failed to pay his taxes as required, both the IRS and his state securing liens against
+him.  He presented evidence that the IRS had released its liens, although he never attempted to set
+up payment plans or pay any of his tax debts, either to the Federal Government or to his state. 
+Applicant admitted that he had no answer when queried about his reasons for not having made
+payments.  Applicant hired a company to assist him in resolving his tax problems.  With the
+assistance of this company, the IRS placed Applicant is a “non-collectible” status.  Id.  
+Applicant’s take-home pay is about $1,200 every two weeks, and he has about $2,000 in
+savings and about $50,000 in a retirement account.  He pays a little over $420 each month in support
+of his minor child, and an additional $300 in view of her serious illness.  This child has had four
+operations between 2012 and 2015.
+The Judge’s Analysis
+The Judge resolved some of Applicant’s SOR allegations in his favor.  However, he entered
+adverse findings regarding Applicant’s tax problems.  Though noting Applicant’s marital difficulties
+during the time in question, the Judge concluded that Applicant had failed to demonstrate
+responsible action in regard to his tax obligations.  He stated that Applicant had failed to provide
+convincing evidence that he had filed his returns and that Applicant had made no effort to pay his
+delinquent tax debts.  Despite the release of his Federal liens, the evidence shows that he still owes
+over $26,000 to the IRS.  The Judge stated that Applicant’s repeated failure to file his Federal and
+state tax returns impugns his judgment and reliability.
+2
+In the whole-person analysis, the Judge cited to evidence that Applicant has worked for
+Federal contractors and has held a clearance since the mid-1990s.  As a consequence, Applicant was
+aware that he was required to maintain financial responsibility in order to keep access to classified
+information.  The Judge concluded that Applicant’s tax delinquencies show that he has a problem
+complying with well-established Government rules and that he has not established a track record of
+financial responsibility.
+Discussion
+ Applicant contends that the Judge did not take into account evidence that demonstrates his
+trustworthiness, including his many years of service to the Federal government as a contractor
+employee, his steps to prevent recurrence of his security-significant conduct, and “other factual
+circumstances referenced in [his] testimony.”  Appeal Brief at 11-12.  Examining the Decision in
+light of the record as a whole, we conclude that the Judge addressed Applicant’s having hired a tax
+firm to assist him in resolving his problems, his family difficulties, and his testimony about having
+filed his returns.  Applicant’s arguments are not enough to rebut the presumption that the Judge
+considered all of the evidence in the record, nor are they sufficient to show that the Judge weighed
+the evidence in a manner that was arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No.
+17-02145 at 3 (App. Bd. Sep. 10, 2018).
+Applicant states that he disclosed his tax problems, that he had not intentionally hidden any
+information from adjudicative authorities, and that his failure to have submitted sufficient
+corroborative evidence was not the result of an intent to mask the true state of his finances.  He also
+contends that he “should not be punished for not presenting enough evidence.”  Appeal Brief at 11.
+The SOR did not allege, nor did the Judge find, that Applicant had deliberately failed to admit to his
+financial delinquencies.  The Judge merely concluded that Applicant had not provided enough
+evidence to mitigate the concerns arising from his tax problems.   In a DOHA proceeding, the
+applicant bears the burden of presenting evidence in mitigation.  Directive ¶ E3.1.15.  A Judge’s
+finding that an applicant has not presented sufficient evidence in mitigation is not, in and of itself,
+a finding that the applicant has been deceptive or that he or she lacks credibility.  See, e.g., ISCR
+Case No. 16-01390 at 3 (App. Bd. Sep. 15, 2017) for the proposition that it is not inconsistent for
+a Judge to conclude that an applicant is credible but nevertheless has failed to meet his or her burden
+of persuasion.  In the case before us, the Judge found that Applicant’s evidence did not establish that
+he had paid his tax debts or even corroborate that he had filed his returns as he claimed.  This was
+not a credibility determination but merely a comment on the state of the evidence.  We resolve this
+issue adversely to Applicant.  
+Applicant has cited a Hearing Office case in support of his appeal.  We have given this case
+due consideration as persuasive authority.  However, each case must be decided on its own merits. 
+Hearing Office cases are not binding on other Hearing Office Judges or on the Appeal Board.  See,
+e.g., ISCR Case No. 17-02145 at 3.    
+The record supports a conclusion that the Judge examined the relevant data and articulated
+a satisfactory explanation for the decision, “including a ‘rational connection between the facts found
+3
+and the choice made.’”  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins.
+Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168
+(1962)).  The Judge’s adverse decision is sustainable on this record.  “The general standard is that
+a clearance may be granted only when ‘clearly consistent with the interests of the national security.’” 
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A ¶
+2(b):  “Any doubt concerning personnel being considered for national security eligibility will be
+resolved in favor of the national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan              
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody                
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                   
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+4

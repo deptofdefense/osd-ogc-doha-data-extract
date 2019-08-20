@@ -1,0 +1,93 @@
+KEYWORD: Guideline F
+DIGEST: Given the record, the Judge’s conclusion that Applicant had not resolved the concerns
+arising from his delinquent debts was reasonable.  Evidence that a creditor is no longer seeking
+enforcement of a debt and has written it off, does not establish that the debt has been resolved in
+a way that mitigates security concerns arising from it.  Adverse decision affirmed.
+CASENO: 14-03732.a1
+DATE: 12/21/2015
+DATE: December 21, 2015
+In Re:
+-------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-03732
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+2
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On  
+September 6, 2014, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline F (Financial Considerations) of Department
+of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On October 15, 2015, after considering the record, Defense Office of
+Hearings and Appeals (DOHA) Administrative Judge Richard A. Cefola denied Applicant’s request
+for a security clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm.  
+The Judge’s Findings of Fact
+Applicant works for a Government contractor.  He states that he was a victim of credit card
+fraud and that he did not make a majority of the charges on the past-due debts.  He corroborated his
+claim of identity theft by providing correspondence from his medical provider that its IT system had
+been compromised.
+One of the SOR debts is a judgment in the amount of over $13,000, which is supported by
+a recent credit report.  Applicant attempted to dispute this judgment with the court, but he was not
+successful.  The creditor has written this judgment off as a business loss.  The Judge found that it
+was still outstanding.
+The three remaining debts are owed to a single creditor.  These debts total over $17,500.
+They too are supported by Applicant’s credit report.  The creditor sued Applicant, but the case was
+dismissed “without prejudice” because the parties had agreed to resolve it between themselves.
+However, although Applicant offered a settlement, the creditor counter-offered, and the record
+contains no evidence of further action.
+The Judge’s Analysis
+The Judge stated that Applicant has “significant past-due debts and an outstanding judgment,
+which he has not resolved.”  Decision at 3.  Though noting Applicant’s disputes as to the amounts
+owed, the Judge stated that Applicant had not addressed the debts that he admits are his.  The Judge
+concluded that Applicant had failed to mitigate the concerns arising from his financial problems.
+Discussion
+Applicant cites to evidence that he had disputed the debts.  He also notes evidence that his
+private information may have been hacked and that the creditor owning the judgment has written
+it off.  The Judge made findings about the evidence that Applicant has cited.  The Judge’s comment
+that Applicant had not paid even the amounts that he admits were legitimate is supported by the
+record.  See, e.g., Item 4, Interview Summary, at 5: “In hindsight [Applicant] believes the more
+3
+correct approach would have been to make payments covering charges he was responsible for while
+he continued to dispute the balance of the account.”  We also note that the compromise of
+Applicant’s personal information occurred in late 2014, long after Applicant’s financial problems
+had arisen.  Letter from Insurance Company, dated March 5, 2015.  Applicant has not rebutted the
+presumption that the Judge considered all of the evidence.  See, e.g., ISCR Case No. 12-08412 at
+2 (App. Bd. Sep. 11, 2015).
+Given the record that was before him, the Judge’s conclusion that Applicant had not resolved
+the concerns arising from his delinquent debts was reasonable.  Evidence that a creditor is no longer
+seeking enforcement of a debt and has written it off as a business expense does not establish that the
+debt has been resolved in a way that would necessarily mitigate security concerns arising from it.
+See, e.g., ISCR Case No. 10-03656 at 3 (App. Bd. Jan. 19, 2011) (Non-collectability of a debt does
+not constitute a good-faith effort to resolve it).  The Judge examined the relevant data and articulated
+a satisfactory explanation for the decision.  The decision is sustainable on this record.  “The general
+standard is that a clearance may be granted only when ‘clearly consistent with the interests of the
+national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive,
+Enclosure 2 ¶ 2(b):  “Any doubt concerning personnel being considered for access to classified
+information will be resolved in favor of the national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan        
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett                 
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board

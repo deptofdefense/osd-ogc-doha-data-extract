@@ -1,0 +1,348 @@
+KEYWORD: Guideline E,; Guideline B
+DIGEST: Applicant’s arguments do not meet his heavy burden of persuasion to rebut the
+presumption that a Judge is impartial and unbiased.  Adverse rulings alone do not demonstrate
+bias.  Considering Applicant’s education level, his experience having served as president of a
+defense contractor for many years while holding a security clearance, the nature of his foreign
+contacts which included providing advice and support to the employees of Company AB, and the
+multiple nature of his SCA omissions, sufficient circumstantial evidence exists to support the
+Judge’s conclusion that Applicant knowingly and intentionally failed to disclose his connection
+to Company AB. Adverse decision affirmed.
+CASENO: 12-12243.a1
+DATE: 01/13/2017
+DATE: January 13, 2017
+In Re:
+-----
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 12-12243
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+John Bayard Glendon, Esq., Deputy Chief Department Counsel
+FOR APPLICANT
+Sean M. Bigley, Esq.
+Jeffrey D. Billett, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On May
+20, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline B (Foreign Influence) and Guideline E (Personal
+Conduct) of DoD Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a
+hearing.  On September 12, 2016, after the hearing, Administrative Judge Mark Harvey denied
+Applicant’s request for a security clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28
+and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law because it was not supported by record evidence, runs
+counter to the weight of the record evidence, and ignores record evidence, and whether the Judge’s
+whole-person analysis was flawed.  Consistent with the following, we affirm.
+Judge’s Findings of Fact
+Applicant, who is 68 years old, was born in India.  He received a bachelor’s degree in India. 
+In 1969, he came to the United States at age 22 on a student visa.  He received a master’s degree at
+a U.S. university.  He married his current wife in 1982 and became a U.S. citizen that year.  One of
+his two children was born in India; the other in the United States.  Both children reside in the United
+States.  Applicant’s parents and his spouse’s parents are deceased.  His net worth is about $10
+million.  He has held a security clearance since the mid-1970s.
+In 1980, Applicant cofounded a company (hereinafter referred to as Company A) in the
+United States.  Company A is a defense contractor.  Applicant became its president in 1995 and
+owns more than 90 percent of its shares of stock.  Company A owns more than 90 percent of a
+company (hereinafter referred to as Company AB) in India.  Neither Applicant nor his wife owe any
+shares of Company AB in their personal capacities.  Company AB has about 30 employees. 
+Company A provides salaries for the employees of Company AB.  Company A’s ownership of
+Company AB was disclosed on Standard Form (SF) 328s submitted to the U.S. Government. 
+Applicant is the managing director and chairman of the board of Company AB.  He disclosed that
+he spends about 30 to 45 minutes per business day on the telephone conducting business with Indian
+companies. 
+In 1997, Applicant hired a colleague, who he has known since college and who resides in
+India, to serve as Company AB’s general manager.   Company A sends items to India.  Company
+AB assembles the items into a product that is imported in the United States.  Decision at 5.1 
+Company AB complies with U.S. and Indian export rules.   Company AB performs contracts for the
+Indian military, but Applicant claimed he does not have contact with foreign government officials. 
+The current gross income of Company AB is about $10 million, which is about half of its gross ten
+1  The Judge also found that “Company AB was not used to produce parts that go into any products that were
+sold to U.S. customers.”  Decision at 4.  
+2
+years ago.  Applicant receives a monthly salary of about $300 from Company AB,2 but that salary
+has fluctuated over the years.  
+Applicant’s wife was born in India.  She is a permanent resident of the United States and the
+resident director of Company AB.  She retained her Indian citizenship because Indian law requires 
+one of the directors of an Indian company to be a citizen of India, and Applicant wanted her to serve
+as a director of Company AB.  She does not actively participate in the operations of Companies A
+or AB.  She has significant medical conditions, requires weekly medical treatment, and has not
+traveled to India in five years.  Applicant indicated that, if his wife became a U.S. citizen, he would
+possibly have to sell Company AB.
+Four or five years ago, Applicant would travel to India about three or four times a year.  In
+the last four years, he has traveled to India once a year.  Among other reasons, he goes to India “to
+see either current of prospective customers, who naturally [are] foreign nationals.”  Decision at 4. 
+ He admitted meeting with individuals who manage foreign defense companies; however, he denied
+meeting with “foreign defense industry experts” because the term “expert” is not defined in his
+security clearance application (SCA).  He has not visited his sister for five years, but communicates
+with her once or twice every two or three months on the telephone.  
+In his SCA dated December 28, 2011, Applicant was asked (1) whether he has or had any
+close and/or continuing contact with a foreign national within the last seven years with whom he or
+his spouse are bound by affection, influence, common interests, and/or obligation (Section 19); (2)
+whether he, his spouse, or dependent children ever had any foreign financial interests (such as
+stocks, property, investments, bank accounts, ownership of corporate entities, corporate interests or
+businesses) in which he or they have direct control or direct ownership (Section 20A); and (3)
+whether he had in the past seven years provided advice or support to any individual associated with
+a foreign business or other foreign organization that you have not previously listed as a former
+employer (Section 20B).  
+In May 2012, Applicant told an Office of Personnel Management investigator that Company
+A owns a subsidiary in India and his spouse is the manager of that company.  Company A
+“maintains all foreign affairs, but he personally does not have any foreign financial interests.” 
+Decision at 6, citing GE 2.  Applicant did not tell the investigator that he was the managing director
+and chairman of the board of Company AB or that he received income from that company.  In
+responding to interrogatories, he noted that he meet with foreign customers when he travels to India. 
+  
+Applicant stated that, when he completed the SCA, he responded as an individual and not
+as an employee of Companies A and AB.  He separated his role as an employee in those companies
+from his role as a private person and interpreted the question about foreign business interests as
+2  In responding to interrogatories, Applicant stated that he received a monthly salary of about $3,700 from
+Company AB and his annual salary from it was about $44,400.  Government Exhibit (GE) 2. 
+3
+asking whether he or his spouse had any interested in foreign companies unrelated to Company A. 
+India is a democracy with a population of 1.2 billion people.  It is one of the most
+persistently targeted countries by insurgents and terrorist groups.  The State Department has reported
+on significant human rights problems in India.  In the past, a National Counterintelligence Center
+survey named India one of the most active collectors of U.S. economic and proprietary information. 
+In recent years, several criminal cases dealing with economic espionage, theft of trade secrets, and
+embargo-related criminal prosecutions involved the Indian government as well as private companies
+and individuals associated with India.  
+Judge’s Analysis
+Although Applicant has deep and longstanding relationships in the United States, he has
+substantial property interests in India that could subject him to a heightened risk of foreign influence
+or exploitation.  Applicant’s relationships with residents of India create a concern about Applicant’s
+obligation to protect sensitive information and his desire to protect his financial interests in India,
+noting terrorist could exert pressure on his relatives living in India or threaten his property interests
+in India.  The Judge concluded that Applicant’s contacts with business and foreign government
+officials is unclear, that he has not met his burden of showing those contacts are minimal, and that
+he failed to fully meet his burden of showing there is little likelihood his foreign connections could
+create a risk of foreign influence or exploitation.
+Applicant has infrequent contacts with his sister who is a citizen and resident of India.  He
+is not close to her and has much stronger contacts with family members living in the United States. 
+Judge concluded the SOR allegation regarding Applicant’s sister was mitigated.   
+Applicant was well aware that he had substantial interests in Company AB in India.  The
+Judge determined Applicant’s statement that he did not need to disclose his interest in Company AB
+because his control of that company was as a professional and employee of Company A was not an
+honest, reasonable, or valid basis for not disclosing the requested information.  The Judge concluded
+that Applicant knowingly and intentionally chose not to disclose his connections with Company AB. 
+No mitigating condition applied to Applicant’s falsifications.
+Discussion
+ A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”  Directive, Enclosure 2 ¶ 2(b).  The Appeal Board may reverse the Judge’s
+4
+decision to grant, deny, or revoke a security clearance if it is arbitrary, capricious, or contrary to law. 
+Directive ¶¶ E3.1.32.3 and E3.1.33.3.  
+There is a strong presumption against the grant or maintenance of a security clearance.  See
+Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After
+the Government presents evidence raising security concerns, the burden shifts to the applicant to
+rebut or mitigate those concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and
+mitigating conditions and whole person factors does not turn simply on a finding that one or more
+of them apply to the particular facts of a case.  Rather, their application requires the exercise of
+sound discretion in light of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at
+3 (App. Bd. Dec. 20, 2006).
+In deciding whether the Judge’s rulings or conclusions are erroneous, we will review the
+Judge’s decision to determine whether:  it does not examine relevant evidence; it fails to articulate
+a satisfactory explanation for its conclusions, including a rational connection between the facts
+found and the choice made; it does not consider relevant factors; it reflects a clear error of judgment;
+it fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  See, e.g., ISCR Case No. 14-02563 at 3-4 (App. Bd. Aug. 28, 2015).
+In the appeal brief, Applicant twice raised the issue that the Judge was possibly biased.  The
+first instance concerned the Judge asking Applicant why his wife has not become a U.S. citizen
+“now that it doesn’t seem like she can do anything.”  Applicant contends the “do anything” comment
+referred to her poor health and the fact she could no longer travel to India.  Claiming the record well
+established that she needed to retain her Indian citizenship to serve as a director of Company AB,
+Applicant questions whether the Judge’s remark was indicative of an unwarranted bias against his
+wife because she was a longtime resident of the U.S., but remained a Indian citizen.  Appeal Brief
+at 11.  The second instance concerned Applicant’s claim that the Judge’s pronouncements about his
+honesty and motives were aggressive and hostile and raised “the specter of possible bias.”  Appeal
+Brief at 22.  Bias involves partiality for or against a party, predisposition to decide a case or issue
+with regard to the merits, or other indicia of a lack of impartiality.  See, e.g., ISCR Case No. 08-
+01306 at 4 (App. Bd. Oct. 28, 2009).  Applicant points to nothing in particular in the Judge’s
+handling of the case that would cause a reasonable person to question his impartiality.  In short,
+Applicant’s arguments do not meet his heavy burden of persuasion to rebut the presumption that a
+Judge is impartial and unbiased.  See, e.g., ISCR Case No. 12-09545 at 3 (App. Bd. Dec. 21, 2015). 
+See, e.g., Bixler v. Foster 596 F.3d 751 at 762 (10th Cir. 2010) for the proposition that adverse
+rulings alone do not demonstrate bias.
+Applicant makes various arguments challenging the adverse findings that he falsified his
+responses to three questions on his SCA.  In general, he claims he answered these questions from
+the perspective of his personal, rather than his business, capacity, which influenced his interpretation
+of the questions.  On the other hand, Department Counsel argues that Applicant is advocating for
+a strained interpretation of the questions that are not supported by the questions themselves.  Reply
+Brief at 13.  We find Department Counsel’s argument persuasive.
+5
+Regarding his response to Section 19, Applicant contends that he misinterpreted the language
+in the question that asked whether he had “close and/or continuing contact with a foreign national
+. . . with whom [he], or [his] spouse . . . are bound by affection, influence, common interests, and/or
+obligation.”  He claims it was not unreasonable for him to conclude that question did not apply to
+his intermittent contacts with foreign business associates and clients because it does not use the
+words “business” or professional” as other questions in the SCA, but  instead used the words “close
+and/or continuing” and “affection” that can easily be interpreted as referring to personal or family
+relationships.  As for his response to Section 20B, Applicant concedes he answered the question
+incorrectly, but contends the words “advice” and “support” in that question are not meant to apply
+to every business conversation, such as exchanges promoting the business, and those words caused
+him to misinterpret the question.  Appeal Brief at 21. Citing ISCR Case No. 03-09483 at 3-4 (App.
+Bd. Nov. 17, 2004) for the proposition that an incorrect answer to a question in a SCA does not
+prove a falsification, Applicant claims he did not deliberately intend to falsify responses in his SCA. 
+However, Applicant understood that he had to disclose his ownership in the foreign company at
+issue when he completed his SF 328, Certificate Pertaining to Foreign Interests, and the SCA
+questions at issue here clearly and reasonably extend to the same interests as the SF 328. 
+Considering Applicant’s education level, his experience having served as president of a defense
+contractor for many years while holding a security clearance, the nature of his foreign contacts
+which included providing advice and support to the employees of Company AB,3 and the multiple
+nature of his SCA omissions, sufficient circumstantial evidence exists to support the Judge’s
+conclusion that Applicant knowingly and intentionally failed to disclose his connection to Company
+AB.  See, e.g.,  ISCR 06-21972 at 3 (App. Bd. Nov. 6, 2009) (“It is not mere speculation for a Judge
+to make a finding of fact about an applicant’s state of mind based on circumstantial evidence.”) and
+ISCR Case No 14-00978 at 3 (App. Bd. June 16, 2016)(“The multiple nature of Applicant’s
+omissions support a finding that they were deliberate.”). 
+Applicant further contends he correctly answered in the negative the question in Section 20A
+that asked whether he ever had any foreign financial interests in which he had “direct control or
+direct ownership.”  Applicant asserts that the Judge found “[h]e controlled Company A and
+Company A controlled Company AB” (Decision at 15), which only establishes indirect control over
+Company AB.4  He also argues that the titles “Managing Director” and “Chairman of the Board” of
+Company AB, without more evidence, does not establish direct control.  Applicant’s arguments are
+not persuasive.  The Judge was not required to ignore or give an empty meaning to the record
+evidence concerning Applicant’s positions at Company AB and, in the absence of evidence to the
+contrary, could apply the ordinary meaning and common usage associated with those titles.5 
+3 In October 2015, Applicant visited Company AB to resolve employee unrest.  Tr. at 75.
+4 Applicant also answered “No” to the question in Section 20A of his SCA that asked whether he or his spouse
+ever had any foreign financial interests that someone else controlled on his behalf.  
+5 AE C and D (SF-328s dated April 2002 and October 2006) state that the Managing Director of Company AB
+is the equivalent to being president of a U.S. company.  Similar to the approach used by courts in interpreting statutes,
+the words used in the titles should be construed according to their common and approved usage.  See, e.g., Algrant v.
+Evergreen Valley Nurseries, 126 F.3d 178, 188 (3rd Cir. 1997).
+6
+Additionally, Applicant testified that he could sell or shutdown the operations of Company AB,
+which established the he had direct control of that company.  Tr. at 76 and 80.  We find no error in
+the Judge’s conclusion that Applicant deliberately falsified his response to the question in Section
+20A of the SCA. 
+Applicant makes a number of arguments challenging the Judge’s Guideline B findings and
+analysis.  For instance, Applicant argues that Company AB does not present a security concern from
+a foreign influence standpoint because it is a faltering subsidiary, was formed using minimal capital,
+has never paid dividends, and has never made much money.  On the other hand, the Judge correctly
+found Company AB had a current gross income of about $10 million, previously had a gross income
+of about $20 million, and performed contracts for the Indian military.  Many of Applicant’s
+arguments essentially amount to a dispute over the amount of weight the Judge gave specific
+evidence.  It is well established that a party’s disagreement with the Judge’s weighing of the
+evidence, or an ability to argue for a different interpretation of the evidence, is not sufficient to
+demonstrate the Judge weighed the evidence or reached conclusions in a manner that is arbitrary,
+capricious, or contrary to law.  See, e.g., ISCR Case No. 14-06440 at 4 (App. Bd. Jan. 8, 2016).
+Applicant argues the Judge erred in taking administrative notice of facts concerning India
+because he considered evidence excluded in an evidentiary ruling.  At the hearing, Applicant
+objected to the Judge taking administrative notice of “secondary hearsay” and “speculation” in the
+Government’s administrative notice request.  In the decision, the Judge ruled, “[e]vidence that is
+secondary hearsay and speculation is not admitted.  For example, speculation about India being
+ranked as a higher threat to commit industrial espionage than other countries is given no weight
+whatsoever.”  Decision at 2.  In his findings about India, however, the  Judge stated, “At one point
+in time, India was specifically named as one of the most active collectors of U.S. economic and
+proprietary information in a National Counterintelligence Center survey of nearly one dozen
+Fortunate 500 companies.”  Decision at 7.  Except for the National Counterintelligence Center
+survey, no other document in the administrative notice request named India as an active collector
+of U.S. economic information or ranked it against other countries.  From our reading of the record,
+we agree that the Judge erred by considering evidence that he excluded.  This error, however, was
+harmless because: (a) the Judge would have likely reached the same decision because there was
+other evidence -- such as U.S. prosecutions of export control violations and similar crimes that
+involve the Indian government6 as well as the risk of terrorism and human rights abuses in India --
+that sufficiently supported the Judge’s finding and conclusions regarding India and (b) the Judge’s
+ultimate adverse decision was sustainable under Guideline E as discussed above.  See, e.g., ISCR
+Case No. 08-07528 at 2 (Dec. 29, 2009).
+     
+6S  In Applicant Exhibit J (an email entitled, Objections to Request for Administrative Notice), Applicant’s prior 
+counsel stated:
+For example, . . . an FBI report lists several cases of illegal exports to India.  These are facts in this
+document and [are] admissible.   Similarly, the DoJ report beginning at pdf page 20 is a list of facts
+listed in the report, and contains, at 23-24 the most damning evidence against India, that in 2008, the
+Indian Government was involved in obtaining military technology illegally.   
+7
+The Judge found against Applicant on SOR ¶ 1.e that alleged Applicant had ongoing contacts
+with foreign government officials.  Applicant acknowledges that he met with low-level Indian
+officials to register Company AB in the late 1980s, but argues that there is no evidence that
+Applicant has contacts, ongoing or otherwise, with foreign government officials.  In the decision,
+the Judge found that Applicant traveled to India to meet with current or prospective customers and
+also specifically stated, “Company AB performs contacts for the Indian military; . . . does ‘not have
+contact with foreign government officials.’”  (Tr. 78; SOR response ¶ 1.e) In the same paragraph,
+“[Applicant] said, ‘I do not have ongoing contacts with foreign government officials.’  (SOR
+response ¶ 1.e)”  Decision at 5.  In his analysis, the Judge stated, “Applicant has contacts with
+foreign government officials, and he has foreign business contacts” and “[t]he amount of contacts
+Applicant has with foreign government officials . . . in India is unclear”, but provided no further
+explanation regarding the basis for his conclusion that Applicant had ongoing contact with foreign
+government officials.  Decision at 10 and 14.  While presumably the Judge relied on an inference
+arising from the facts that Applicant had contacts with his customers and that one of his customers
+was the Indian government in making the adverse finding under SOR ¶ 1.e, Applicant contends the
+Judge’s conclusion runs counter to the record evidence.  Even if an error occurred in the making of
+that adverse finding, we find it was harmless in that it is not likely to have affected the outcome of
+the decision given the security concerns that arise from Applicant’s other extensive foreign business
+contacts and interests and the sustainable adverse findings under Guideline E discussed above.  Id. 
+   
+     
+The Judge concluded that Applicant’s relationships with residents of India creates a concern
+about his obligation to protect sensitive information and technology and his desire to protect his
+financial interest in India.  In this regard, Applicant argues the record does not support a conclusion
+that he has any family members in India that present security concerns.  He noted that the Judge
+found in favor of him on the allegation that his sister is a resident and citizen of India because he has
+infrequent contact with her.  He also points out that his only other family member residing in India
+was his wife’s sister, but noted the record contain no information about “who she is, what she does,
+what her circumstances are, or anything about the nature of the relationship between [her] and
+[him].”  Appeal Brief at 10.   Additionally, Applicant argues that his wife’s Indian citizenship and
+her position as resident director of Company AB present no security concerns because she no longer
+travels to Indian and performs no duties for the company.  Of note, the Judge stated in a single
+sentence that a terrorist or government official could exert pressure on his relatives living in India,
+which is probably error.  Decision at 11. However, even if so, that error is harmless.  Id.  Otherwise,
+Applicant is essentially advocating a piecemeal examination of the evidence, which the Appeal
+Board has rejected as an approach for analyzing the evidence.  See, e.g., ISCR Case. No. 03-22563
+at 4 (App. Bd. Mar. 8, 2006).  When viewed as a whole, the record evidence supports the Judge’s
+conclusion that Applicant’s foreign business contacts and interests created foreign influence security
+concerns that were not mitigated.
+Additionally, Applicant argues that the Government has not demonstrated a nexus between
+his foreign interests and any concern that he could be influences to act contrary to the interests of
+the United States.  The Government, however, is not required to prove affirmatively that a country
+targets U.S. citizens to establish security concerns under the foreign influence guideline.  ISCR Case
+8
+No. 11-06925 at 4 (App. Bd. Dec. 13, 2013).  There is a presumptive nexus between admitted and
+proven circumstances under any of the guidelines and an applicant’s eligibility for a clearance. 
+ISCR Case No. 14-05251 at 3 (App. Bd. Oct. 5, 2015).  Applicant’s brief provides no reason to rebut
+the presumption of nexus.  
+Applicant further asserts that the Judge did not discuss crucial facts in the decision.  As
+examples, Applicant cited to his contributions to U.S. national security as a defense contractor and
+indicated that no one has ever questioned his handling of classified information.  The Judge made
+findings about many of the matters raised in the appeal brief.  Applicant has failed to rebut the
+presumption that the Judge considered all the evidence in the record.  See, e.g., ISCR Case No. 14-
+06093 at 3 (App. Bd. Dec. 4, 2015).  We also find unpersuasive Applicant’s argument that the
+Judge’s whole-person analysis is flawed primarily because it was a repetition of his earlier findings
+and conclusions.  By considering the totality of the evidence in reaching his decision, the Judge’s
+whole-person analysis complies with the requirements of Directive ¶ 6.3.  See, e.g., ISCR Case No.
+14-02806 at 4 (App. Bd. Sep. 9, 2015). 
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor 
+of the national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan          
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody           
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+9
+Signed: James F. Duffy               
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+10

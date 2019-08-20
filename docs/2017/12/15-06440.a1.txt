@@ -1,0 +1,182 @@
+KEYWORD: Guideline F
+DIGEST: Failure to comply with Federal tax laws suggests that an applicant has a problem with
+abiding by well-established government rules and regulations.  Voluntary compliance with rules
+and regulations is essential for protecting classified information.  Applicant failed to file his
+Federal income tax returns for a nine year period in a timely manner.  These failures raise
+questions about Applicant judgment and reliability. Much of the Judge’s mitigation analysis is
+predicated upon his conclusion that Applicant has resolved his tax filing problems and owes no
+back taxes for year 2009 through 2014.  The record does support such a conclusion.  Favorable
+decision reversed.
+CASENO: 15-06440
+DATE: 12/26/2017
+DATE: December 26, 2017
+In Re:
+---------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-06440
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+John Bayard Glendon, Esq., Deputy Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+February 28, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On August 11, 2017, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Robert Tuider granted Applicant’s request for a security clearance. 
+Department Counsel appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Department Counsel raised the following issue on appeal:  whether the Judge’s decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we reverse.
+The Judge’s Findings of Fact  
+The sole SOR allegation, as amended, asserted that Applicant failed to file his Federal
+income tax returns for 2005 through 2014.  Evidence presented at hearing established the SOR
+allegation.  Applicant claimed that he did not file his income tax returns because his pay was subject
+to maximum tax withholdings, and he owed no further taxes for the years in question.  He believed
+that, because he was owed a refund, he was not required to file.  The Judge found Applicant’s
+testimony credible.  When informed that he was required to file Federal income tax returns, he took
+immediate corrective action.  He hired an accountant and filed all the required tax returns.  He
+offered into evidence his 2009-2015 Federal income tax returns that reflect he qualified for a refund
+for each of those years.  He is now current on his Federal income tax obligations.
+The Judge’s Analysis
+In his analysis, the Judge discussed a number of Appeal Board decisions that address tax
+filing deficiencies.  He noted that new adjudicative guidelines became effective in June 2017.  He
+concluded Applicant made arrangements with the Federal Government in 2016 to file all required
+tax returns and is in compliance with those arrangements.  He further indicated that there was
+sufficient assurance that Applicant’s financial problems are resolved, are under control, and are
+unlikely to recur.  
+Discussion
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371, U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’”   Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt 
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”  Directive, Enclosure 2 ¶ 2(b).  The Appeal Board may reverse the Judge’s
+decision to grant, deny, or revoke a security clearance if it is arbitrary, capricious, or contrary to law. 
+Directive ¶¶ E3.1.32.3 and E3.1.33.3.
+There is a strong presumption against the grant or maintenance of a security clearance.  See
+Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After
+the Government presents evidence raising security concerns, the burden shifts to the applicant to
+rebut or mitigate those concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and
+mitigating conditions and whole person factors does not turn simply on a finding that one or more
+of them apply to the particular facts of a case.  Rather, their application requires the exercise of
+3
+sound discretion in light of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at
+3 (App. Bd. Dec. 20, 2006).
+In deciding whether the Judge’s rulings or conclusions are erroneous, we will review the
+Judge’s decision to determine whether:  it does not examine relevant evidence; it fails to articulate
+a satisfactory explanation for its conclusions, including a rational connection between the facts
+found and the choice made; it does not consider relevant factors; it reflects a clear error of judgment;
+it fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  See, e.g., ISCR Case No. 14-02563 at 3-4 (App. Bd. Aug. 28, 2015).
+Department Counsel argues that the record in this case does not support the Judge’s
+favorable mitigation analysis.  He also contends that Judge’s credibility assessment is inconsistent
+with the record evidence.  Department Counsel’s arguments have merit. 
+Security requirements include consideration of a person’s judgment, reliability, and a sense
+of his or her legal obligations.  Cafeteria & Restaurant Workers Union, Local 473 v. McElroy, 284
+F.2d 173, 183 (D.C. Cir. 1960), aff’d, 367 U.S. 886 (1961).  Failure to comply with Federal tax laws
+suggests that an applicant has a problem with abiding by well-established government rules and
+regulations.  Voluntary compliance with rules and regulations is essential for protecting classified
+information.  See, e.g., ISCR Case No. 14-04437 at 3 (App. Bd. Apr. 15, 2016).  In this case,
+Applicant failed to file his Federal income tax returns for a nine year period in a timely manner. 
+These failures to comply with Federal tax laws raise questions about whether Applicant has
+demonstrated the high degree of judgment and reliability that is required for granting an individual
+access to classified information.  Id.
+Much of the Judge’s mitigation analysis is predicated upon his conclusion that Applicant has
+resolved his tax filing problems and did not owe any back taxes for 2009 through 2014.  Department
+Counsel argues the Judge erred in his analysis of mitigating condition 20(g).1  In doing so, 
+Department Counsel notes that Applicant presented no proof that he filed his Federal income tax
+returns for 2005-2008.  Applicant did not contact the Internal Revenue Service (IRS) directly to
+verify that he did not have to file his tax returns for those years, but instead relied upon a causal
+conversation with an acquaintance in concluding he only needed to file his tax returns for the
+previous seven years.  Applicant testified the causal conversation was “[w]ith a friend of a friend’s
+wife who works at an investigative branch of the Internal Revenue Service.” Tr. at 29-30.2  The
+1 Direcitve, Encl. 2, App A. ¶ 20(g) states, “the individual has made an arrangement with the appropriate tax
+authority to file or pay the amount owed and is in compliance with those arrangements.”
+2 IRS advises individuals to file prior Federal income tax returns regardless of their reasons for not having filed
+a required return.  See, https://www.irs.gov/taxtopic/tc153 - Topic Number 153 -What to Do if You Haven’t Filed Your
+Tax Return.  Topic Number 153 also states that “the statute of limitation for the IRS to assess and collect any outstanding
+balances doesn’t start until a return has been filed.” 
+4
+Judge erred in finding Applicant filed all required tax returns.  Applicant’s testimony falls short of
+providing substantial evidence to support the finding that all required tax returns were filed.  See,
+e.g., ISCR Case No. 96-0897 at 2-3 (App. Bd. Dec. 9, 1997).  Additionally, Department Counsel
+questions how Applicant could have known he did not owe any taxes in any particular year. 
+Applicant engaged in a side business that generated income ranging from about $3,700 to $4,400
+for 2012, 2013, and 2015 and he qualified for tax refunds in those years that ranged from about $980
+to $1,130.  Applicant’s Exhibits (AE) H-K and N. Considering Applicant’s extra income from the
+side business and the relatively small amount of his tax refunds, Department Counsel persuasively
+argues that it would have been difficult for Applicant to have known that he qualified for a refund
+in a particular year without preparing his tax return for that year.  Yet, the Judge failed to explain
+adequately how Applicant knew he always qualified for a tax refund.  Such shortcomings in the
+decision undermine the Judge’s mitigation analysis. 
+Additionally, Department Counsel argues the timing of the resolution of Applicant’s tax
+filing problems is relevant in determining the extent to which he has demonstrated mitigation.  See,
+e.g., ISCR Case No. 14-05476 at 4 (App. Bd.  Mar. 25, 2016).  Department Counsel noted that
+Applicant only filed one of the Federal income tax returns in question (2014) before receipt of the
+SOR.  This filing occurred after Applicant submitted his security clearance application (SCA) and
+underwent his background interview.  He filed his Federal income tax returns for 2009-2013 after
+he received the SOR.  The timing of the resolution of financial problems is an important factor in
+evaluating an applicant’s case for mitigation because an applicant who begins to resolve financial
+problems only after being placed on notice that his clearance was in jeopardy may lack the judgment
+and self-discipline to follow rules and regulations over time or when there is no immediate threat
+to his own interests.  In this case, Applicant’s filing of his Federal income tax returns for 2009-2014
+after submitting his SCA, undergoing his background interview, or receiving the SOR undercuts the
+weight such remedial action might otherwise merit.  Overall, the Judge’s favorable mitigation
+determination runs contrary to the weight of the record evidence and is not sustainable.
+Department Counsel further contends the Judge erred in accepting as credible Applicant’s
+explanation that he believed he was not required to file annual income tax returns.  Specifically,
+Department Counsel highlights matters the Judge failed to discuss in the decision that raise questions
+about whether Applicant was forthcoming about his tax filing deficiencies.  First, in his security
+clearance application (SCA) submitted in November 2014, Applicant was asked whether he failed
+to file his Federal income tax returns in the last seven years.  Applicant responded to that question
+by disclosing only his failure to file his 2013 tax return.  Government Exhibit (GE) 1 at 26.  It is
+unknown why Applicant would disclose his failure to file for 2013, but not for the other six years
+covered in that SCA question.  Next, in his background interview in April 2015, Applicant disclosed
+that he also did not file his Federal income tax return for 2014 and “possibly other years.”  GE 2. 
+At the hearing, Applicant admitted that he had not filed his Federal income tax returns for at least
+the ten years prior to his receipt of the SOR, and he could not remember when he last filed a tax
+return.  Tr. at 27-28, 44-46.  Applicant’s responses in his SCA and during his background interview
+raise questions about whether he was forthcoming  during the investigative process.  While the
+Board gives deference to a Judge’s credibility determinations, that deference is not without limits. 
+Where, as here, the record contains a basis to question an applicant’s candor, the Judge should
+5
+address those aspects of the record explicitly, explaining why he or she finds an applicant’s version
+of events to be worthy of belief.  Failure to do so suggests that the Judge has merely substituted a
+favorable impression of Applicant’s demeanor for record evidence.  See, e.g., ISCR Case No. 07-
+10158 at 5 (App. Bd. Aug. 28, 2008).  A Judge’s credibility determination can be rejected if it “is
+unreasonable, contradicts other findings of fact, or is ‘based on an inadequate reason, or on no
+reason at all.’”  Fieldcrest Cannon, Inc. v. NLRB, 97 F.3rd. 65, at 69-70 (4th Cir. 1996), citing NLRB
+v. McCullough Environmental Services, Inc. 5 F.3d 923, 928 (5th Cir. 1993).
+We conclude that the Judge’s decision failed to consider important aspects of the case and
+improperly relied on a credibility assessment in place of record evidence.  The decision ran contrary
+to the weight of the record evidence.  Furthermore, we conclude that the record evidence, viewed
+as a whole, is not sufficient to mitigate the Government’s security concerns under the Egan standard. 
+6
+Order
+The Decision is REVERSED.  
+Signed: Michael Ra’anan         
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody         
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy              
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+7

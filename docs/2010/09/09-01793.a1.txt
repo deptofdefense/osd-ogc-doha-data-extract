@@ -1,0 +1,177 @@
+KEYWORD: Guideline C; Guideline B
+DIGEST: Applicant’s brief relies on an interview summary prepared by the security clearance
+investigator.  The quoted language is not a judgment by the investigator, it merely summarizes
+Applicant’s assertion during the interview.  Adverse decision affirmed.
+CASENO: 09-01793.a1
+DATE: 09/28.2010
+DATE: September 28, 2010
+In Re:
+-------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 09-01793
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+James R. Fleisher, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On July 31, 2009, DOHA issued a statement of reasons (SOR) advising Applicant of the
+basis for that decision–security concerns raised under Guideline C (Foreign Preference) and
+1The Judge found in Applicant’s favor regarding SOR ¶ 1(c), a Guideline C allegation, which stated, “You
+maintain your [European country] citizenship to protect your interest in social security benefits you earned while
+employed [there].”  Accordingly, this allegation is not at issue in this appeal.  
+2
+Guideline B (Foreign Influence) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as
+amended) (Directive).  Applicant requested a hearing.  On June 15, 2010, after the hearing,
+Administrative Judge Philip S. Howe denied Applicant’s request for a security clearance.  Applicant
+appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether certain of the Judge’s findings of
+fact were based upon substantial record evidence; whether the Judge erred in his application of the
+Guideline C disqualifying conditions (FPDC) and the Guideline B disqualifying conditions (FIDC);
+whether the Judge erred in his application of the pertinent mitigating conditions; whether the Judge’s
+whole-person analysis was in error; and whether the Judge’s adverse security clearance decision was
+arbitrary, capricious, or contrary to law.1  Consistent with the following discussion, we affirm the
+decision of the Judge.
+Facts
+The Judge made the following pertinent findings of fact: Applicant is an engineer working
+for a Defense contractor.  He was born in Iran, but he moved to a European country in the late 1970s
+to attend college.  He received a Bachelor’s degree and a Master’s degree from universities in that
+country, where he lived from the late 1970s until the late 1990s.  He became a citizen of this
+European country and earned retirement benefits due to his having worked there for ten years.  
+He left this country in the late 1990s and moved to the U.S.  He became a U.S. citizen in the
+late 2000s.  Applicant holds citizenship in Iran, the European country, and the U.S.  He also has
+passports from these three countries.  He has traveled to Iran several times after moving to the U.S.
+“Applicant traveled to Iran after he received the SOR . . . knowing that his travels to Iran and
+possession of the Iranian passport were a security concern to the U.S. Government.”  Decision at
+3.  
+His wife is an Iranian citizen living with him in the U.S.  His mother is a citizen and resident
+of Iran.  Applicant speaks to her over the telephone once a month.  He also has siblings who are
+citizens of Iran.  One of them has a spouse who “may work” in an Iranian military office.  Decision
+at 4.  He speaks with his siblings several times a year.
+Iran and the U.S. have not had diplomatic relations since 1980.  Iran supports both
+international terrorism and violent opposition to the Middle-East peace process.  It has intervened
+in the internal affairs of Iraq.  The U.S. has designated Iran as the most active state sponsor of
+terrorism.    
+Discussion
+Factual Sufficiency  
+2We review the Judge’s findings of facts to determine if they are supported by substantial evidence–“such
+relevant evidence as a reasonable mind might accept as adequate to support a conclusion in light of all the contrary
+evidence in the same record.”  Directive  ¶ E3.1.32.1
+3See Note 1 above.  The only Guideline C allegations at issue in this appeal are the two which alleged that
+Applicant exercises dual citizenship between the U.S. and Iran and the European country respectively insofar as he
+possesses current passports from those countries.  
+4Directive, Enclosure 2 ¶ 10(a)(1): “possession of a current foreign passport[.]”
+5Directive, Enclosure 2 ¶ 10(a)(3): “accepting educational, medical, retirement, social welfare, or other such
+benefits from a foreign country[.]”  
+3
+Applicant contends that certain of the Judge’s findings of fact are not based upon substantial
+record evidence.2  Specifically, he challenges the Judge’s finding that he had traveled to Iran after
+having received the SOR in his case.  We can find no record evidence of Applicant’s having traveled
+to that country after July 31, 2009, the date of the SOR.  Therefore, Applicant is correct that the
+Judge’s finding is in error.  However, Applicant’s last trip to Iran occurred after his security
+clearance interview and after receipt of DOHA interrogatories, which should have placed him on
+notice of security concern arising from his use of foreign passports.  Accordingly, we conclude that
+this error by the Judge is harmless.  See ISCR Case No. 09-00629 at 2 (App. Bd. Jul. 30, 2010).
+Applicant also challenges the Judge’s finding that he had never stated that he would
+renounce his foreign citizenships.  Again, Applicant is correct.  He stated during the hearing that he
+would renounce his European country citizenship should that be necessary.  Tr. at 64.  He also
+advised the security clearance investigator that he would be willing to renounce both citizenships
+if required.  Interview Summary at 3, 8, contained in Government Exhibit 2, Interrogatories, dated
+April 15, 2009.  However, in light of the totality of the record evidence, we conclude that, even if
+he had not made this factual error, the Judge’s ultimate decision would have been the same.
+Therefore, this error is harmless.
+Judge’s Treatment of the Disqualifying Conditions
+Applicant contends that the Judge erred in concluding that the record evidence establishes
+security concerns under Guideline C.3  Specifically, he argues that FPDC 10(a)(1)4 is not applicable
+because he does not currently possess his foreign passports.  Rather, he had turned them over to his
+facility security officer (FSO) prior to the hearing.  He also argues that FPDC 10(a)(3)5 is not
+applicable because he has not actually received any retirement benefits from the European country.
+However, Applicant’s arguments rely on an overly technical reading of the Directive.  The
+disqualifying conditions are examples of the kind of circumstances that can give rise to security
+concerns.  They are not to be considered exhaustive.  See ISCR Case No. 08-11788 at 3 (App. Bd.
+Jul. 28, 2010).  In this case, Applicant’s citizenship in two foreign countries; his prior holding of
+6In circumstances where a passport has been surrendered to a security official, Directive, Enclosure 2 ¶ 11(e),
+a mitigating condition, may also apply, as in this case.  See our discussion under Judge’s Treatment of the Mitigating
+Conditions below.  
+7Directive, Enclosure 2 ¶ 11(e): “the passport has been destroyed, surrendered to the cognizant security
+authority, or otherwise invalidated[.]”  
+4
+foreign passports;6 his renewal of his Iranian passport at each opportunity, even after obtaining U.S.
+citizenship; and his apparently vested right to future social security payments from a foreign country
+constitute sufficient evidence of foreign preferences for the Judge to apply disqualifying conditions
+under Guideline C.  
+  Applicant also challenges the Judge’s conclusion that the Government had established
+Guideline B disqualifying conditions.  However, the Iranian citizenship of his wife and the Iranian
+citizenship and residence of several of Applicant’s close relatives, to include in-laws, is sufficient
+to raise Foreign Influence concerns.  See ISCR Case No. 01-26893 (App. Bd. Oct. 16, 2002) (There
+is a rational connection between an applicant’s family ties in a country whose interests are adverse
+to the United States and the risk that the applicant might fail to protect and safeguard classified
+information.)  See also ISCR Case No. 05-03250 at 4-5 (App. Bd. Apr. 6, 2007); ISCR Case No. 04-
+11463 at 4 (App. Bd. Aug. 4, 2006) (In Foreign Influence cases, the nature of the foreign
+government involved, the intelligence gathering history of that government, and the presence of
+terrorist activity are important considerations that provide context for the other record evidence and
+must be brought to bear on the Judge’s ultimate conclusions in the case.)  Accordingly, the Judge
+properly concluded that Applicant’s circumstances raised concerns under Guidelines C and B, which
+placed upon Applicant the burden of persuasion as to mitigation.  See Directive ¶ E3.1.15. 
+Judge’s Treatment of the Mitigating Conditions
+Applicant contends that the Judge erred in his application of the pertinent mitigating
+conditions.  In his argument concerning Guideline C, Applicant discusses record evidence which
+appears to raise the applicability of FPMC 11(e).7  He cites to testimony in which Applicant
+discussed the circumstances surrounding his decision to turn his two foreign passports over to his
+FSO.  Applicant testified that he was called by a DOHA Department Counsel (not the one who
+actually represented the Government in this case), who advised Applicant to give the passports to
+the FSO.  Tr. at 58.  In his brief, Applicant contends that he “followed [Department Counsel’s]
+instructions exactly–he gave the passports to his FSO to hold–a fact which is now being held against
+him.  The Judge criticized the Applicant at the hearing for failing to destroy the passports.”
+Applicant Brief at 6.  
+There is no other evidence in the record regarding this alleged advice, either in rebuttal or
+explanation.  Moreover, Department Counsel did not provide a reply brief.  As it stands, therefore,
+the record contains uncontradicted testimony that, in turning his passports over to his FSO,
+Applicant was relying upon advice from a DOHA official.  Under the circumstances, we conclude
+that the Judge erred in not extending favorable application to FPMC 11(e), insofar as Applicant, in
+5
+apparent good faith, surrendered his passport to his employer’s security authority.  On the other
+hand, we find no error in the Judge’s treatment of the mitigating conditions under Guideline B.  
+Other Issues
+We note Applicant’s argument, toward the beginning of his brief, in which he quotes the
+interview summary prepared by the security clearance investigator.  The quoted language states,
+among other things, that Applicant has no preference for any foreign country over the U.S. and that
+he has received no benefits by virtue of his status as a citizen of a foreign country or by virtue of his
+foreign relatives.  To the extent that Applicant’s brief assumes that the quotations reflect the
+judgement of the investigator, the brief is in error.  The quoted language merely summarizes what
+Applicant told the investigator, not the investigator’s personal conclusions about Applicant’s
+security issues.  We conclude that the Judge’s whole person analysis complies with the requirements
+of Directive, Enclosure 2 ¶ 2, in that the Judge considered the totality of Applicant’s conduct in
+reaching his decision. See ISCR Case No. 08-02464 at 3 (App. Bd. Jul. 16, 2009); ISCR Case No.
+05-03948 at 3-4 (App. Bd. May 21, 2007).
+ After reviewing the record, the Board concludes that the Judge examined the relevant data
+and articulated a satisfactory explanation for the decision, “including a ‘rational connection between
+the facts found and the choice made.’”  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm
+Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States,
+371 U.S. 156, 168 (1962)).  The Judge’s adverse decision is sustainable on this record.  “The general
+standard is that a clearance may be granted only when ‘clearly consistent with the interests of the
+national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.  
+Signed: Michael Y. Ra’anan          
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett              
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+6
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board

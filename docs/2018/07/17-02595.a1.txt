@@ -1,0 +1,135 @@
+KEYWORD: Guideline E; Guideline F
+DIGEST: A variance between allegation and proof is material only when the extent of the
+variance is so great that the allegation fails to serve as reasonable notice to the applicant of the
+concerns raised, thereby subjecting him or her to unfair surprise when confronted with the
+Government’s evidence. Adverse decision affirmed.
+CASENO: 17-02595.a1
+DATE: 07/31/2018
+DATE: July 31, 2018
+In Re:
+---------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-02595
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Alison R. Wills, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+August 10, 2017, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) and Guideline E
+(Personal Conduct) of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a decision on the written record.  On March 30, 2018, after considering the record,
+Defense Office of Hearings and Appeals (DOHA) Administrative Judge Caroline E. Heintzelman
+denied Applicant’s request for a security clearance.  Applicant appealed pursuant to Directive ¶¶ 
+E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm. 
+The Judge’s Findings of Fact
+Applicant, who holds a bachelor’s degree, has worked as a Federal contractor since 2003. 
+She was previously granted access to classified information in 2003 and 2008.  Applicant failed to
+pay Federal taxes for tax years 2007 and for 2009 through 2011.  She claimed that her tax problems
+were the result of part-time employment as a 1099 contractor, inconsistent income, and her having
+been charged twice by the IRS for withdrawals from her 401(k) plan.  Although the SOR alleged
+that Applicant owed nearly $40,000 to the IRS, the Judge found that, by the close of the record, this
+liability was about $27,000.  Applicant provided documentation that she has a payment plan with
+the IRS, with $607 due at the end of October 2017.  This document states that her last monthly
+payment was $0.  Moreover, it is not clear which tax years are covered in this payment plan.1 
+Applicant’s SOR also alleges several delinquent medical debts, which Applicant denied because
+they should have been submitted to her insurance company.  Despite these denials, Applicant
+entered into payment plans for some of her debts.  She disputed one of them because she could not
+locate it and because it did not appear on her credit report.  In completing her security clearance
+application (SCA), Applicant disclosed her tax problems for 2007.  She did not disclose
+delinquencies for other years.  In her answer to the SOR, Applicant claimed that she was not aware
+of her tax issues because she relied on a certified public accountant to file for her.
+The Judge’s Analysis
+The Judge found that Applicant’s financial problems, including her tax liabilities, were
+recent and recurrent.  She stated that Applicant did not demonstrate responsible action in regard to
+her debts and that she had provided insufficient evidence of timely and consistent payment.  The
+Judge also stated that, despite her dispute of certain debts, Applicant did not offer documentary
+corroboration.  Concerning Guideline E, the Judge concluded that Applicant’s experience with the
+clearance process, her education, and the insufficiency of her explanations demonstrated that her
+omissions from the SCA were deliberate.  She concluded that the evidence raised serious doubts
+about Applicant’s current reliability, trustworthiness, and good judgment.
+1The SOR also alleged that Applicant failed to file her tax returns in a timely fashion for 2015 and 2016.  The
+Judge resolved this allegation in Applicant’s favor.  
+2
+Discussion
+Applicant argues that the SOR misstated the true amount of her debt to the IRS.  She
+contends that, at the time the SOR was issued, her debt had been reduced significantly from what
+was stated in the allegation.  She further argues that the Government failed to present evidence of
+the security concern raised by Applicant’s tax liabilities.
+We agree with Applicant that there is a variance between the SOR allegation as it is written
+and evidence that her tax debt was substantially less as of the close of the record.  The Judge’s
+finding about the extent of Applicant’s tax indebtedness is supported by “such relevant evidence as
+a reasonable mind might accept as adequate to support a conclusion in light of all the contrary
+evidence in the same record.”  Directive ¶ E3.1.32.1.  A variance between allegation and proof is
+material only when the extent of the variance is so great that the allegation fails to serve as
+reasonable notice to the applicant of the concerns raised, thereby subjecting him or her to unfair
+surprise when confronted with the Government’s evidence.  See, e.g., ISCR Case No. 15-08255 at
+3 (App. Bd. Aug. 22, 2017).  In the case before us, we find no reason to believe that Applicant was
+denied adequate notice of the concerns raised by her indebtedness.  That the SOR  alleged a greater
+tax debt than the record evidence subsequently established did not preclude Applicant from
+presenting a meaningful case for mitigation.  
+ On the question of whether the Government met its burden of production, we note that the
+Directive presumes that there is a nexus between admitted or proved facts under any of the
+Guidelines and an applicant’s eligibility for access to classified information.  See, e.g., ISCR Case
+No. 16-01900 at 3 (App. Bd. Apr. 19, 2018).  In the case before us, the record, which includes IRS
+tax transcripts and Applicant’s answer to the SOR, shows that Applicant failed to pay her full tax
+obligation for several years and that she also had delinquent medical debts.  The evidence, viewed
+as a whole, is sufficient to raise concerns under Guideline F that Applicant may be lacking in
+judgment and reliability.  We resolve this issue adversely to Applicant.
+Applicant challenges the Judge’s finding that her omissions were deliberate.  However, the
+Judge reasonably explained the basis for her finding, evidence that the IRS sent notices, that
+Applicant had outstanding tax obligations, along with evidence of her education and business
+experience.2  As with the Judge’s findings about Applicant’s tax debt, her finding that Applicant’s
+omissions were deliberate is established under the standard set forth in the Directive.
+  
+The remainder of Applicant’s brief consists of a challenge to the Judge’s weighing of the
+evidence and to her contention that the Judge did not consider all of the evidence, for example her
+evidence of debt reduction and her claim that she was not aware of the extent of her indebtedness. 
+2For 2009, 2010, and 2011, Applcant’s IRS transcripts reflect that the IRS sent notices on several occasions
+before she submitted her SCA.  On some of those occasions, the transcripts reflect activity by Applicant shortly after
+the notices were sent, suggesting she was responding to the notices.  However, the transcripts also show other examples
+where the IRS sent notices and no activity appears to have been taken in response to said notices.  Item 2 of Department
+Counsel’s File of Relevant Material.
+3
+In presenting her arguments, Applicant includes evidence from outside the record, which we cannot
+consider.  Directive ¶ E3.1.29.  Applicant has not rebutted the presumption that the Judge considered
+all of the evidence in the record, nor has she shown that the Judge weighed the evidence in a manner
+that was arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 16-01077 at 3 (App. Bd.
+Apr. 25, 2018).  An ability to argue for a different interpretation of the evidence is not enough to
+show that the Judge mis-weighed the evidence.            
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A ¶ 2(b):  “Any
+doubt concerning personnel being considered for national security eligibility will be resolved in
+favor of the national security.”
+4
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan              
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody                
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                  
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+ 
+5

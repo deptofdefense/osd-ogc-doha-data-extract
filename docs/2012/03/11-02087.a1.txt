@@ -1,0 +1,139 @@
+KEYWORD: Guideline F
+DIGEST: The Directive does not require a Judge to articulate an explicit credibility
+determination, even in cases in which he or she denies a clearance.  A Judge can find an
+applicant to be honest and believable but nevertheless conclude that the applicant has not
+mitigated the security concerns in his or her case.
+CASE NO: 11-02087
+DATE: 03/20/2012
+DATE: March 20, 2012
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-02087
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Richard L. Morris, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On August 9, 2011, DOHA issued a statement of reasons (SOR) advising Applicant of
+the basis for that decision–security concerns raised under Guideline F (Financial Considerations)
+of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On December 22, 2011, after the hearing, Administrative Judge LeRoy F.
+Foreman denied Applicant’s request for a security clearance.  Applicant appealed pursuant to
+Directive ¶¶  E3.1.28 and E3.1.30.
+1Directive, Enclosure 2 ¶ 20(b): “the conditions that resulted in the financial problem were largely beyond the
+person’s control (e.g., loss of employment, a business downturn, unexpected medical emergency, or a death, divorce or
+separation), and the individual acted responsibly under the circumstances[.]” 
+2Directive, Enclosure 2 ¶ 20(d): “the individual initiated a good-faith effort to repay overdue creditors or
+otherwise resolve debts[.]”  
+2
+Applicant raised the following issues on appeal: whether the Judge’s decision contained a
+significant inconsistency that undermined its ultimate conclusion; whether the Judge failed to
+consider all of the record evidence; whether Department Counsel failed to meet the Government’s
+burden of production; and whether the Judge’s adverse security clearance decision was arbitrary,
+capricious, or contrary to law.  Consistent with the following, we affirm.
+The Judge made the following pertinent findings of fact: Applicant is an employee of a
+Federal contractor.  She was unemployed for about a month in 2005, following a job layoff.  She is
+seeking to upgrade an existing security clearance.  She was previously married, having divorced her
+first husband in 2001.  Her former husband is about $16,000 in arrears in his child support payments.
+She remarried in 2008.  Applicant began falling behind on payments following her divorce.  She did
+not make co-payments for medical treatment and her student loans became delinquent.
+The SOR lists 21 delinquent debts, not only for medical expenses and student loans, but also
+for telephone services, a satellite television account, mortgage payments, etc.  She and her husband
+have a monthly income of about $5,185, with a net remainder of between $453 and $553.
+In the Analysis, the Judge concluded that Applicant’s history of delinquent debt established
+security concerns under Guideline F.  He noted Applicant’s divorce, brief period of unemployment,
+her former husband’s child support arrearage, and her payments on some of her debts.  He concluded
+that Applicant’s circumstances raised two Guideline F mitigating conditions, 20(b)1 and 20(d).2
+Applying these mitigating conditions, the Judge entered favorable findings on 11 of the debts alleged
+in the SOR.  However, he went on to conclude that Applicant had not mitigated the remaining 10
+debts.  In the whole-person analysis, he stated that Applicant has ignored many of her debts, has no
+savings for unexpected expenses, and “lacks a coherent plan for gaining control of her finances.”
+Decision at 8.   
+Applicant contends that the Judge’s adverse decision is inconsistent with his Findings of Fact
+and Analysis.  Specifically, she notes that he did not make an explicit finding that her presentation
+was not credible.  She argues that the absence of a negative credibility determination is at variance
+with the Judge’s adverse clearance decision.  We have considered Applicant’s argument in light of
+the record as a whole.  The Directive requires us to defer to a Judge’s credibility determination.
+Directive ¶ E3.1.32.1.  However, the Directive does not require a Judge to articulate an explicit
+credibility determination, even in cases in which the Judge denies the applicant a clearance.  As we
+noted in an earlier case, even if a Judge considers an applicant’s testimony to be credible, the Judge
+still must consider what reasonable inferences and conclusions can be drawn from that testimony.
+ISCR Case No. 99-0519 at 12 (App. Bd. Feb. 23, 2001).  It is not inconsistent for a Judge to find an
+3
+applicant to be honest and believable but, nevertheless, reasonably to conclude that the applicant’s
+presentation is not sufficient to meet his or her burden of persuasion as to mitigation.  In the case
+at issue here, the Judge did not address Applicant’s credibility per se; however, his detailed,
+unchallenged findings, considered alongside Applicant’s admissions to the SOR, support his
+conclusion that Applicant had not demonstrated responsible action in regard to several of her debts
+or a good faith effort to resolve them. 
+Applicant cites to her testimony that she has held a clearance for several years without
+incident or concern.  This was evidence the Judge was bound to consider, along with all the other
+evidence in the record.  However, prior favorable adjudications or a good security record are not
+dispositive of an applicant’s security concerns.  Even years of safeguarding national security
+information may not be sufficient to mitigate a history of ongoing, significant delinquent debt.  See,
+e.g., ISCR Case No. 08-00435 at 3 (App. Bd. Jan. 22, 2009) (The applicant’s nine years experience
+in safeguarding classified information were not sufficient to undermine the Judge’s adverse decision
+under Guideline F).  In the case under consideration here, the Judge acknowledged Applicant’s good
+security record but reasonably explained his conclusion that she had not mitigated the concern
+arising from ten of her alleged delinquent debts.  As we stated in ISCR Case No. 08-00435 supra,
+the Government need not wait until an individual mishandles or fails to safeguard classified
+information before it can make an unfavorable security clearance decision.   
+Applicant contends that the Judge ignored favorable record evidence concerning her
+character, honesty, and reliability.  A Judge is presumed to have considered all of the evidence in
+the record.  See, e.g., ISCR Case No. 10-10068 at 2 (App. Bd. Dec. 20, 2011).  However, the Judge’s
+Analysis addressed the favorable aspects of the record that was before him, including evidence of
+Applicant’s maturity, educational attainments, security record, and efforts to pay off some of her
+debts.  Applicant’s argument on appeal is not sufficient to rebut the presumption that the Judge
+considered all of the record evidence.  Neither is it sufficient to demonstrate that the Judge weighed
+the evidence in a manner that was arbitrary, capricious, or contrary to law.
+Applicant contends that Department Counsel failed to present evidence that Applicant has
+a “potential for exploitation, pressure, coercion, or duress.”  We construe this argument to mean that
+Department Counsel failed to meet its burden of production. In a DOHA proceeding, the
+Government must present substantial evidence of facts alleged in the SOR that have been
+controverted.  Substantial evidence is “such relevant evidence as a reasonable mind might accept
+as adequate to support a conclusion in light of all the contrary evidence in the same record.”
+Directive ¶ E3. 1.14; Directive ¶ E3.1.32.1.  See also ISCR Case No. 08-06859 at 4 (App. Bd. Oct.
+29, 2010).  In this case, Applicant admitted all of the SOR allegations except two.  The two she did
+not admit were among those which the Judge resolved in her favor.  Accordingly, the remaining
+allegations were not controverted, relieving the Government of any burden of production.
+Nevertheless, the Government presented substantial evidence of Applicant’s financial delinquencies,
+in the form of Applicant’s answers to two sets of DOHA interrogatories, three credit reports, and
+the security clearance application.  Taken together, these documents, along with Applicant’s
+admissions, set forth security concerns under Guideline F.  The Government was under no further
+burden of production.
+4
+The record supports a conclusion that the Judge examined the relevant data and articulated
+a satisfactory explanation for the decision, “including a ‘rational connection between the facts found
+and the choice made.’”  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins.
+Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168
+(1962)).  The Judge’s adverse decision is sustainable on this record.  “The general standard is that
+a clearance may be granted only when ‘clearly consistent with the interests of the national security.’”
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):
+“Any doubt concerning personnel being considered for access to classified information will be
+resolved in favor of the national security.”   
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.
+Signed: Jean E. Smallin               
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: William S. Fields            
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody            
+James E. Moody
+Administrative Judge
+Member, Appeal Board

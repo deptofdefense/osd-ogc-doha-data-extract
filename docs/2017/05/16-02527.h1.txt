@@ -1,0 +1,352 @@
+ 
+1 
+ 
+                                                              
+                        DEPARTMENT OF DEFENSE 
+         DEFENSE OFFICE OF HEARINGS AND APPEALS 
+           
+             
+ 
+ 
+In the matter of: ) 
+ ) 
+ [NAME REDACTED] )  ISCR Case No. 16-02527 
+  )    
+Applicant for Security Clearance ) 
+ 
+ 
+Appearances 
+ 
+For Government: Carroll Connelley, Esq., Department Counsel 
+For Applicant: Pro se 
+ 
+ 
+ 
+______________ 
+ 
+Decision 
+______________ 
+ 
+ 
+BORGSTROM, Eric H., Administrative Judge: 
+ 
+Applicant did not mitigate the security concerns stemming from his financial 
+problems. Eligibility for access to classified information is denied.  
+ 
+Statement of the Case 
+ 
+On September 6, 2016, the Department of Defense (DOD) issued a Statement of 
+Reasons (SOR) to Applicant detailing security concerns under Guideline F (financial 
+considerations). The action was taken under Executive Order (EO) 10865, 
+Safeguarding Classified Information within Industry (February 20, 1960), as amended; 
+DOD Directive 5220.6, Defense Industrial Personnel Security Clearance Review 
+Program (January 2, 1992), as amended (Directive); and the adjudicative guidelines 
+(AG) implemented by the DOD on September 1, 2006. 
+ 
+Applicant responded to the SOR on September 30, 2016, and he requested a 
+hearing before an administrative judge. The case was assigned to me on January 25, 
+2017. The Defense Office of Hearings and Appeals (DOHA) issued a notice of hearing, 
+scheduling the hearing for March 8, 2017. I convened the hearing as scheduled. 
+Government Exhibits (GE) 1-5 were admitted without objection. Applicant testified and 
+ 
+2 
+ 
+presented documents, and the record remained open until April 10, 2017.1 Applicant 
+submitted 17 documents, which were admitted into evidence as Applicant’s Exhibits 
+(AE) A-Q, without objection.2 I received the hearing transcript (Tr.) on March 27, 2017. 
+  
+Findings of Fact 
+ 
+ The SOR alleges three unpaid judgments (SOR ¶¶ 1.a., 1.b., and 1.d.) and two 
+delinquent utility accounts (SOR ¶¶ 1.c. and 1.e.).  Applicant admitted the debts in SOR 
+¶¶ 1.a.-1.d., and he denied the debt alleged in SOR ¶ 1.e. After a thorough and careful 
+review of the pleadings and exhibits, I make the following findings of fact: 
+ 
+ Applicant is 45 years old. He graduated from high school and has taken several 
+undergraduate-level courses. From April 2003 to August 2015, he worked full time as an 
+engineer for multiple companies.  He was unemployed from August 2015 to January 
+2016. Since January 2016, he has been employed full time by a DOD contractor. He 
+married in July 2006, and he has four children – ages 13, 21, 22, and 24.3 
+ 
+ Applicant’s November 2015 and July 2016 credit reports establish all five alleged 
+debts. The judgment in SOR ¶ 1.a. was entered in June 2011 against Applicant in the 
+approximate amount of $9,189. He explained that this judgment originated from one or 
+more credit cards that he had used for his wedding expenses. He claimed to have paid 
+approximately $3,700 to settle this account, but he provided no documentation to 
+corroborate his claim. Rather, he transposed the alleged judgment with another un-
+alleged account with the same creditor.4 
+ 
+ The judgment in SOR ¶ 1.b. was entered in January 2014 against Applicant in 
+the approximate amount of $5,041. After the hearing, he settled this debt for 
+approximately $4,700 in March 2017.5 
+ 
+ The utility bill in SOR ¶ 1.c. was placed for collection in the approximate amount 
+of $1,692. Applicant settled this debt for approximately $800 in January 2017, and 
+Department Counsel stipulated that this debt was resolved.6 
+ 
+                                                          
+1 Applicant’s request for an extension of time to submit post-hearing documents and my grant of that 
+request are included in the record as Administrative Exhibit (AX) I. 
+ 
+2 Applicant’s post-hearing submissions included a cover letter (AE H) and seven attachments pre-marked 
+as AE A-G. 
+ 
+3 GE 1; AE A. 
+ 
+4 GE3; GE 5; AE K; Tr. 28-29. 
+ 
+5 GE 3; GE 5; AE G; AE Q. At hearing, Applicant confused the alleged judgment (SOR ¶ 1.b.) with a 
+different judgment (AE G) entered in favor of the same creditor in January 2017. 
+ 
+6 GE 3; AE I; Tr. 36. 
+ 
+3 
+ 
+ The judgment in SOR ¶ 1.d. was entered in January 2014 against Applicant in 
+the approximate amount of $15,651. There is no documentary evidence of any 
+payments or debt-resolution efforts on this judgment. 
+ 
+ The utility bill in SOR ¶ 1.e. was placed for collection in the approximate amount 
+of $103. Applicant denied this debt and denied having an account with this utility during 
+the timeframe he inferred from the credit reports. He disputed the debt because it had 
+since fallen off his credit report. There is no documentary evidence to show that he has 
+disputed this debt with the alleged creditor or has taken steps to resolve this debt.7  
+ 
+ In February 2016, Applicant hired a debt-consolidation service to assist him in 
+resolving his delinquent debts. He used this service to settle the debt in SOR ¶ 1.c., but 
+he has not arranged any other debt-repayment plans with this service.8  
+ 
+ Applicant attributed his financial delinquencies to roof repairs in 2005, his 
+wedding expenses in 2006, his father’s funeral expenses in 2014, and his 
+unemployment in 2015. However, he only provided documentation for some of his 
+wedding expenses. He provided no explanation as to what precipitated his financial 
+delinquencies in about 2011. His spouse was unemployed from 2000 to 2015. His 
+current monthly budget reflects a net monthly remainder of approximately $1,100, with 
+no scheduled debt repayments.9 
+ 
+ Applicant’s character and work performance are well-regarded by his supervisor 
+and co-workers. There is no evidence of any employment disciplinary actions or security 
+infractions filed against Applicant.10 
+ 
+Policies 
+ 
+ When evaluating an applicant’s suitability for a security clearance, the 
+administrative judge must consider the adjudicative guidelines. In addition to brief 
+introductory explanations for each guideline, the adjudicative guidelines list potentially 
+disqualifying conditions and mitigating conditions, which are to be used in evaluating an 
+applicant’s eligibility for access to classified information. 
+ 
+These guidelines are not inflexible rules of law. Instead, recognizing the 
+complexities of human behavior, administrative judges apply the guidelines in 
+conjunction with the factors listed in the adjudicative process. The administrative judge’s 
+overarching adjudicative goal is a fair, impartial, and commonsense decision. According 
+to AG ¶ 2(c), the entire process is a conscientious scrutiny of a number of variables 
+known as the “whole-person concept.” The administrative judge must consider all 
+                                                          
+7 GE 3; Tr. 41-42. 
+ 
+8 Tr. 36, 63. 
+ 
+9 AE B; AE M; AE P; Tr. 26, 42-47. 
+ 
+10 AE J; AE O. 
+ 
+4 
+ 
+available, reliable information about the person, past and present, favorable and 
+unfavorable, in making a decision. 
+ 
+The protection of the national security is the paramount consideration. AG ¶ 2(b) 
+requires that “[a]ny doubt concerning personnel being considered for access to 
+classified information will be resolved in favor of national security.”  
+ 
+Under Directive ¶ E3.1.14, the Government must present evidence to establish 
+controverted facts alleged in the SOR. Under Directive ¶ E3.1.15, the applicant is 
+responsible for presenting “witnesses and other evidence to rebut, explain, extenuate, 
+or mitigate facts admitted by the applicant or proven by Department Counsel.” The 
+applicant has the ultimate burden of persuasion to obtain a favorable security decision.  
+ 
+ A person who seeks access to classified information enters into a fiduciary 
+relationship with the Government predicated upon trust and confidence. This 
+relationship transcends normal duty hours and endures throughout off-duty hours. The 
+Government reposes a high degree of trust and confidence in individuals to whom it 
+grants access to classified information. Decisions include, by necessity, consideration of 
+the possible risk the applicant may deliberately or inadvertently fail to safeguard 
+classified information. Such decisions entail a certain degree of legally permissible 
+extrapolation of potential, rather than actual, risk of compromise of classified 
+information. 
+ 
+Section 7 of EO 10865 provides that adverse decisions shall be “in terms of the 
+national interest and shall in no sense be a determination as to the loyalty of the 
+applicant concerned.” See also EO 12968, Section 3.1(b) (listing multiple prerequisites 
+for access to classified or sensitive information).  
+ 
+Analysis 
+ 
+Guideline F, Financial Considerations 
+ 
+The security concern for financial considerations is set out in AG ¶ 18:       
+ 
+Failure or inability to live within one’s means, satisfy debts, and meet 
+financial obligations may indicate poor self-control, lack of judgment, or 
+unwillingness to abide by rules and regulations, all of which can raise 
+questions about an individual’s reliability, trustworthiness and ability to 
+protect classified information. An individual who is financially 
+overextended is at risk of having to engage in illegal acts to generate 
+funds.  
+ 
+The guideline notes several conditions that could raise security concerns under 
+AG ¶ 19. The following are potentially applicable in this case: 
+ 
+(a) inability or unwillingness to satisfy debts; and 
+ 
+ 
+5 
+ 
+ (c) a history of not meeting financial obligations. 
+ 
+ Applicant’s five delinquent debts total approximately $31,676. These debts 
+became delinquent between 2011 and 2014. The Government produced substantial 
+evidence to raise the disqualifying conditions in AG ¶¶ 19(a) and 19(c), thereby shifting 
+the burden to Applicant to produce evidence to rebut, explain, extenuate, or mitigate the 
+facts.11 Conditions that could mitigate the financial considerations security concerns are 
+provided under AG ¶ 20. The following are potentially applicable:  
+ 
+(a) the behavior happened so long ago, was so infrequent, or occurred 
+under such circumstances that it is unlikely to recur and does not cast 
+doubt on the individual’s current reliability, trustworthiness, or good 
+judgment;  
+ 
+(b) the conditions that resulted in the financial problem were largely 
+beyond the person’s control (e.g., loss of employment, a business 
+downturn, unexpected medical emergency, or a death, divorce or 
+separation), and the individual acted responsibly under the circumstances; 
+ 
+(c) the person has received or is receiving counseling for the problem 
+and/or there are clear indications that the problem is being resolved or is 
+under control; 
+ 
+(d) the individual initiated a good-faith effort to repay overdue creditors or 
+otherwise resolve debts; and  
+ 
+(e) the individual has a reasonable basis to dispute the legitimacy of the 
+past-due debt which is the cause of the problem and provides 
+documented proof to substantiate the  basis of the dispute or provides 
+evidence of actions to resolve the issue 
+ 
+Applicant’s financial struggles date from 2011 and are ongoing. He settled two 
+debts (SOR ¶¶ 1.b. and 1.c.) after the issuance of the SOR, but there is no 
+documentary evidence of any further debt-resolution efforts on the remaining three 
+debts. Because there is no documentary evidence of any debt-resolution payments prior 
+to January 2017, doubts remain as to Applicant’s good judgment and financial 
+responsibility. AG ¶ 20(a) does not apply. 
+ 
+The application of AG ¶ 20(b) requires both that (1) Applicant’s financial 
+indebtedness resulted from circumstances beyond his control, and (2) Applicant acted 
+responsibly under the circumstances. Applicant and his wife experienced periods of 
+unemployment, their house needed repairs, and Applicant’s father passed away. These 
+events may constitute circumstances beyond his control in the context of AG ¶ 20(b). 
+  
+                                                          
+11 Directive ¶ E3.1.15. See ISCR Case No. 02-31154 at 5 (App. Bd. Sep. 22, 2005) (An applicant has the 
+burden of proving a mitigating condition, and the burden of disproving it never shifts to the Government.). 
+ 
+6 
+ 
+AG ¶ 20(b) also requires that an applicant act responsibly under the 
+circumstances.12 Applicant very recently settled two of the alleged debts, but there is no 
+documentary evidence of a debt-resolution plan for the remaining debts or steps taken 
+in furtherance of that plan. AG ¶ 20(b) does not apply. 
+ 
+Applicant engaged the services of a debt-consolidation company. There is no 
+evidence of any financial counseling or credit counseling. Applicant’s monthly budget 
+reflects a significant monthly remainder ($1,100), but it omits any scheduled debt 
+repayments. AG ¶ 20(c) does not apply. 
+ 
+The concept of good faith Arequires a showing that a person acts in a way that 
+shows reasonableness, prudence, honesty, and adherence to duty or obligation.”13 AG 
+¶ 20(d) applies as to the two debts settled by Applicant (SOR ¶¶ 1.b. and 1.c.).  
+ 
+Applicant denied the debt alleged in SOR ¶ 1.c. due to its absence on his credit 
+report. The removal or deletion of an account from a credit report is not evidence of debt 
+payment or resolution.14 Applicant has not provided documented proof to substantiate 
+his dispute or evidence of actions to resolve this debt. AG ¶ 20(e) does not apply.  
+ 
+After his January 2016 security interview, Applicant engaged the services of a 
+debt-consolidation company, but there is no documentary evidence of any debt 
+repayments until after the issuance of the SOR. This inaction raises concerns about his 
+financial responsibility. He has settled two debts very recently, though he has developed 
+no plan to resolve the remaining debts nor taken steps in furtherance of this plan. I find 
+that security concerns about Applicant’s financial problems remain. 
+ 
+Whole-Person Concept 
+ 
+ Under the whole-person concept, the administrative judge must evaluate an 
+applicant’s eligibility for a security clearance by considering the totality of the applicant’s 
+conduct and all relevant circumstances. The administrative judge should consider the 
+nine adjudicative process factors listed at AG ¶ 2(a):  
+ 
+(1) the nature, extent, and seriousness of the conduct; (2) the 
+circumstances surrounding the conduct, to include knowledgeable 
+                                                          
+12 See ISCR Case No. 08-06567 at 3 (App. Bd. Oct. 29, 2009) (“All that is required is that an applicant act 
+responsibly given his circumstances and develop a reasonable plan for repayment, accompanied by 
+‘concomitant conduct,’ that is, actions which evidence a serious intent to effectuate the plan.”). 
+ 
+13 See ISCR Case No. 08-12184 at 10 (App. Bd. Jan. 7, 2010) (Good-faith effort to resolve debts must be 
+evidenced by a meaningful track record of repayment).  
+ 
+14 See ISCR Case No. 02-14950 at 4 (App. Bd. May 15, 2003) (“The removal of those debts from his 
+credit report does not make them disappear as if they never existed or preclude the Judge from 
+considering other record evidence that shows those debts exist.  The security significance of Applicant’s 
+financial history doesn’t turn on whether Applicant’s debts could or could not be legally listed on a credit 
+report after the passage of seven years.”). 
+ 
+ 
+7 
+ 
+participation; (3) the frequency and recency of the conduct; (4) the 
+individual’s age and maturity at the time of the conduct; (5) the extent to 
+which participation is voluntary; (6) the presence or absence of 
+rehabilitation and other permanent behavioral changes; (7) the motivation 
+for the conduct; (8) the potential for pressure, coercion, exploitation, or 
+duress; and (9) the likelihood of continuation or recurrence. 
+ 
+ Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a 
+security clearance must be an overall commonsense judgment based upon careful 
+consideration of the guidelines and the whole-person concept. I considered the 
+potentially disqualifying and mitigating conditions in light of all the facts and 
+circumstances surrounding this case. I have incorporated my comments under 
+Guideline F and the factors in AG ¶ 2(c) in this whole-person analysis.  
+ 
+Applicant is well-regarded by his co-workers and supervisors for his work 
+performance and character, and he very recently has taken some steps to address the 
+alleged delinquent debts. His past inaction in addressing his delinquent debts, his failure 
+to develop a plan to resolve the remaining debts, and his confusion as to the remaining 
+unpaid judgments, leaves me with questions and doubts as to his financial responsibility 
+and suitability for a security clearance. I conclude Applicant did not mitigate the financial 
+considerations security concerns.  
+ 
+Formal Findings 
+ 
+ Formal findings for or against Applicant on the allegations set forth in the SOR, 
+as required by section E3.1.25 of Enclosure 3 of the Directive, are: 
+ 
+  Paragraph 1, Guideline F:   AGAINST APPLICANT 
+ 
+  Subparagraph 1.a.:    Against Applicant 
+   
+  Subparagraphs 1.b.-1.c.:   For Applicant 
+ 
+  Subparagraphs 1.d.-1.e.:   Against Applicant 
+  
+Conclusion 
+ 
+ In light of all of the circumstances presented by the record in this case, it is not 
+clearly consistent with the national interest to grant Applicant eligibility for a security 
+clearance. Eligibility for access to classified information is denied. 
+ 
+ 
+________________________ 
+Eric H. Borgstrom 
+Administrative Judge 

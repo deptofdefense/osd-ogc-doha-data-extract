@@ -1,0 +1,138 @@
+KEYWORD: Guideline E; Guideline M
+DIGEST: The Board concludes that the Judge’s material finding that Applicant falsified his
+response to a SCA question is based on substantial evidence, or constitutes a reasonable
+characterization or inference that could be drawn from the record. Adverse decision affirmed.
+CASENO: 16-02178.a1
+DATE: 04/04/2018
+DATE: April 4, 2018
+In Re:
+-------------------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 16-02178
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Ryan C. Nerney, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+September 10, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision—security concerns raised under Guideline M (Use of Information Technology) and
+Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as
+amended) (Directive).  Applicant requested a decision on the written record.  On January 16, 2018,
+after considering the record, Defense Office of Hearings and Appeals (DOHA) Administrative Judge
+Pamela C. Benson denied Applicant=s request for a security clearance.  Applicant appealed pursuant
+to Directive && E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal:  whether the Judge=s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm.
+The Judge=s Findings of Fact
+Applicant, who is 54 years old, earned a bachelor’s degree in 1986 and master’s degrees in
+1989 and 1997.  He was employed by a Federal contractor from 2005 to early 2012 and by another
+Federal contractor since late 2012.  In 2008, he received a letter of reprimand from his employer for
+overuse of the internet and for violating its information technology (IT) policy by visiting
+inappropriate adult-content links on a website.  In 2011, he again accessed the inappropriate website
+on his work computer over a couple of weeks during working hours.  After he was informed in early
+2012 that his company was terminating him, he drafted a “pre-dated resignation letter” hoping the
+company would categorize his departure as a Aresignation@ or Aresignation in lieu of termination@
+instead of a termination for cause.  Decision at 3.  In responding to the SOR, Applicant admitted that
+he was terminated from that employment in 2012 for accessing prohibited websites on a government
+computer.  
+Applicant denied that he falsified his December 2012 security clearance application (SCA)
+when he answered ANo@ to a question that asked if, within the last seven years, he received a letter
+of reprimand, been officially reprimanded, suspended, or disciplined for misconduct in the
+workplace, such as a violation of security policy.  In his Answer to the SOR, Applicant claimed he
+responded in the negative to that question because he used his responses from his 2011 SCA to
+answer questions in his 2012 SCA.  He also claimed the question asked for disclosure of violations
+of security policy in the workplace, and his misuse of the IT system was not a violation of security
+policy.
+In his 2012 SCA, Applicant also responded ANo@ to the question that asked if he had ever
+been fired, quit after being told he would be fired, left by mutual agreement following charges or
+allegations of misconduct, or left by mutual agreement following notice of unsatisfactory
+performance.  In the comment section of that question, he listed that he resigned while an
+investigation into his internet use was ongoing, and A[a]ny later decision by the employer on his
+exact exit status was not known by him.@  Decision at 3.  Although Applicant=s response to this
+question was not alleged under Guideline E, it was probative as to his state of mind when he
+completed his December 2012 SCA because his employer had told him that he was being terminated
+for his repeated IT misconduct in early 2012.  At least one of the scenarios posed in the question fit
+his situation.  
+Applicant provided numerous character reference letters and work appraisals showing he is
+a valued, knowledgeable employee.  The reference letters, however, did not indicate that the authors
+were aware of the SOR allegations.  
+2
+The Judge=s Analysis
+Applicant admitted the Guideline M allegations.  He was reprimanded for his misuse of his
+former employer=s IT system in 2008 and returned to such misuse in 2011.  His repeated misconduct
+casts doubt on his reliability, trustworthiness, and good judgment.  
+Applicant claimed the SCA question in the falsification allegation only mandated reporting
+reprimands issued for violations of security policy.  However, the phrase “such as@ shows that
+reprimands for violation of security policy is merely an example of actions that must be reported. 
+ The pertinent question in the 2012 SCA is a combination of two questions from his 2011 SCA.  AIt
+is clear from the revised question that any misconduct, to include violations of security policy, were
+required to be disclosed.@  Decision at 6.  His explanations for the omission were not credible. 
+Sufficient evidence exists to establish that his omission of information from the SCA was
+intentional.  His failure to be completely honest casts doubt on his reliability, trustworthiness, and
+good judgment.
+The persuasive value of his character evidence is lessened because there is no indication the
+authors were aware of his alleged conduct.  His favorable character evidence is not enough to
+overcome the security concerns arising from his repeated misuse of his employer=s IT system and
+his failure to be candid on his SCA.
+Discussion
+In his appeal brief, Applicant challenges the Judge’s conclusion that he intentionally falsified
+his response to a question on his 2012 SCA.  He argues that SCA omission was a misunderstanding
+and out of character for him as attested to by his character references.  We do not find Applicant=s
+argument persuasive.  First, the Directive provides that we shall give deference to a Judge’s
+credibility determination.  Directive E3.1.32.1.  We find no reason to disturb the Judge’s credibility
+determination in this case.  Second, Applicant has not asserted that the Judge made any errors in her
+specific findings of fact regarding the falsification allegation.  In evaluating whether the Government
+has met its burden of production to show an omission was deliberate, the Judge must examine the
+omission in light of the record as a whole.  See, e.g., ISCR Case No. 07-16511 at 4 (App. Bd. Dec
+4. 2009).  In this case, the Judge concluded the SCA question made clear that Applicant had to
+disclose his letter of reprimand.  She also considered that Applicant was a mature adult with three
+college degrees in discounting his claim that he misunderstood the SCA question.  Additionally, the
+Judge also found probative that Applicant was less than candid in responding to another SCA
+question.  See, e.g., ISCR Case No. 10-03732 at 6 (App. Bd. Jun. 14, 2013) for the proposition that
+evidence of other, unalleged false statements is relevant in assessing whether an Applicant’s SCA
+omission was deliberate or the result of an innocent mistake.  Based on our review of the record, the
+Board concludes that the Judge’s material finding that Applicant falsified his response to a SCA
+question is based on substantial evidence, or constitutes a reasonable characterization or inference
+that could be drawn from the record.  See, e.g., ISCR Case No. 12-03420 at 3 (App. Bd. Jul. 25,
+2014).
+3
+Applicant also contends that the Judge did not weigh and consider all relevant evidence.  In
+doing so, he points to his character and other favorable evidence.  His arguments are neither
+sufficient to rebut the presumption that the Judge considered all of the evidence in the record nor
+enough to show that the Judge weighed the evidence in a manner that was arbitrary, capricious, or
+contrary to law.  See, e.g., ISCR Case No. 15-01717 at 3 (App. Bd. Jul. 3, 2017).  We give due
+consideration to the Hearing Office case that Applicant has cited, but it is neither binding precedent
+on the Appeal Board nor sufficient to undermine the Judge=s decision.  Id.  Additionally, the Judge
+complied with the requirements of the Directive in her whole-persons analysis by considering the
+totality of the evidence in reaching her decision. 
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  AThe general standard is that a clearance may
+be granted only when >clearly consistent with the interests of the national security.=@  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A. & 2(b):  AAny
+doubt concerning personnel being considered for national security eligibility will be resolved in
+favor of the national security.@
+Order
+The Decision is AFFIRMED  
+Signed: Michael Ra’anan      
+Michael Ra=anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: William S. Fields      
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy          
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+4

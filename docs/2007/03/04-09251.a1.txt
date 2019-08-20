@@ -1,0 +1,131 @@
+KEYWORD: Guideline M; Guideline E
+DIGEST: An Applicant’s admission to an SOR allegation is a legally sufficient basis to find that
+that applicant engaged in the conduct covered by the admission.  Failure to provide relevant and
+material information to the government provides a rational basis for an unfavorable security
+decision.  An applicant’s security related conduct can alleged under more than one guideline and
+can be given independent weight under more than one guideline.  Adverse decision affirmed.
+CASENO: 04-09251.a1
+DATE: 03/27/2007
+DATE: March 27, 2007
+In Re:
+------------
+SSN: -------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 04-09251
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Braden M. Murphy, Esq., Department Counsel
+FOR APPLICANT
+Jerry R. Goldstein, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On September 27, 2005 DOHA issued a statement of reasons (SOR) advising Applicant
+Government Exhibit 3 at 2.1
+Hearing Transcript, at. 83, 85, 113, and 117-118.2
+2
+of the basis for that decision–security concerns raised under Guideline M (Misuse of Information
+Technology Systems) and Guideline E (Personal Conduct) of Department of Defense Directive
+5220.6 (Jan. 2, 1992, as amended)(Directive).  Applicant requested a hearing.  On July 17, 2006,
+after the hearing, Administrative Judge Joan Caton Anthony denied Applicant’s request for a security
+clearance.  Applicant timely appealed pursuant to the Directive ¶¶ E3.1.28 and E3.1.30. 
+Applicant raises the following issues on appeal: whether the Judge’s conclusion that
+Applicant failed to disclose information  to a security clearance investigation interviewer that he was
+required to disclose is supported by the record evidence; whether the Judge’s conclusion under
+Guideline E that Applicant was required to disclose the fact that he was under investigation at his
+workplace for misuse of a computer network was inconsistent with the Judge’s conclusion under
+Guideline M that the workplace violation was unintentional and insignificant; whether the Judge’s
+finding against Applicant on an allegation under Guideline E that Applicant had misused a
+workplace computer network was inconsistent with her earlier favorable finding regarding the same
+facts as alleged under Guideline M; and whether the Judge’s overall security clearance decision was
+arbitrary and capricious under the “whole person” concept.   The Board affirms the Judge’s decision.
+Applicant argues on appeal that there is insufficient evidence to support the Judge’s
+conclusion that, during an initial interview with a DoD investigator on April 17, 2002, Applicant was
+required to disclose the fact that he had been under investigation from November 2001 to February
+2002 for misuse of his workplace computer network and failed to do so.  The Board does not agree.
+Subparagraph 2.b. of the SOR alleged: “During your initial security interview with an authorized
+investigator of the Department of Defense, you deliberately failed to disclose the . . . investigation
+concerning the conduct set forth in paragraph 1., above, due to your fear that this incident would
+negatively impact your security clearance.”  Paragraph 1 of the SOR referenced Applicant’s alleged
+misuse of his workplace computer system.  In his answer to the SOR dated October 11, 2005,
+Applicant stated the following: “On paragraph 2 and subparagraph (b), I admit (emphasis supplied)
+my failure to fully disclose and deliberately not inform the investigator of the . . . investigation
+concerning my conduct as set forth in paragraph (1) because of fear that it would affect my current
+clearance as well as future ones.”  Applicant, in essence, made the same admission earlier in a
+written statement prepared for an investigator on October 31, 2002 , and later in his hearing1
+testimony before the Administrative Judge.   Department Counsel has the burden of presenting2
+evidence to prove controverted facts. See Directive, Additional Procedural Guidance, ¶ E3.1.14.
+However, Applicant’s admissions concerning the alleged falsification, perpetrated in this case by a
+willful omission of information required to be disclosed, were unqualified and unequivocal.  If an
+applicant admits an SOR allegation, then such admission provides an administrative judge with a
+legally sufficient basis to find  that the applicant engaged in the conduct covered by the applicant’s
+admission.  See, e.g., ISCR Case No. 02-21087 at 3 (App. Bd. Aug.19, 2005).  Applicant’s argument
+to the contrary is without merit.
+Applicant argues that since the Administrative Judge determined that the conduct for which
+Applicant was investigated was neither recent nor significant and that it was isolated, unintentional
+and inadvertent, then his failure to disclose it to the interviewer should not be held against him under
+3
+Guideline E.  Applicant is essentially arguing that he should not be held accountable for the omission
+since the Judge ultimately concluded that the underlying conduct that was the basis of the
+falsification allegation was not of security significance.  Applicant’s contention is not persuasive.
+Failure to provide relevant and material information to the government provides a rational basis for
+an unfavorable security decision. See Gayer v. Schlesinger, 490 F.2d 740, 753-754 (D.C. Cir. 1973);
+Clifford v. Shoultz, 413 F.2d 868 (9  Cir. 1969), cert. denied, 396 U.S. 962 (1969).  Accordingly,th
+the Judge’s conclusions under Guideline E regarding Applicant’s failure to disclose the investigation
+into his workplace conduct provide a rational basis, independent of the Judge’s favorable
+conclusions under Guideline M, for her unfavorable security clearance decision.
+Also regarding Guideline E, Applicant appears to argue that because the Judge entered a
+favorable finding regarding his underlying workplace conduct under Guideline M, her adverse
+finding under Guideline E regarding the same underlying conduct was inconsistent with the first
+finding and without basis.  To the extent Applicant argues that Guideline E does not provide any
+independent basis for an adverse decision in the case after the Judge ruled in his favor under
+Guideline M, Applicant’s argument lacks merit.  An Applicant’s security related conduct can be
+alleged under more than one Guideline and, in an appropriate case, can be given independent weight
+by an administrative judge under different Guidelines.  See, e.g., DISCR Case No. 93-1251 at 4 (July
+29, 1994).  In this case, there is a rational basis for an SOR allegation involving Applicant’s
+workplace conduct to be included under both Guideline M and Guideline E, and it was therefore
+legally permissible for the Judge to consider Applicant’s conduct under both and to reach differing
+conclusions under both, so long as the Judge articulated a rational basis for each.  The Board notes
+that the Judge’s decision does not articulate a rationale for ultimately finding against Applicant for
+the underlying workplace conduct under Guideline E.  Given the Judge’s conclusions under
+Guideline M that Applicant’s workplace conduct (misuse of his employer’s computer system) was
+mitigated because it was not recent, and was insignificant, unintentional, and inadvertent, the Judge’s
+failure to articulate a rationale for why the same conduct was ultimately disqualifying under
+Guideline E was error.  However, the Board concludes that it is unnecessary to remand the case to
+the Judge for correction of this error, as her adverse conclusions regarding Applicant’s willful
+concealment of information under Guideline E are sustainable and provide an adequate basis for her
+overall adverse security clearance decision. 
+Applicant argues that the Judge’s conclusions that the case was not mitigated and that he was
+not entitled to a favorable decision under the “whole person” concept were arbitrary and capricious.
+Applicant’s argument is not persuasive.  
+In this case, the Judge weighed the mitigating evidence offered by Applicant against the
+seriousness of the disqualifying conduct, and considered the possible application of relevant
+mitigating conditions and whole person factors.  The Judge found in Applicant’s favor under SOR
+¶¶ 1.a, 3.a, 3b, and 3.c. However, the Judge articulated a rational basis for not favorably applying any
+mitigating conditions or whole person factors with respect to the allegation under ¶ 2.b. of the SOR,
+the one alleging his deliberate failure to disclose.  The Judge reasonably explained why the evidence
+which Applicant had presented in mitigation was insufficient to overcome the government’s security
+concerns.  Given the record that was before her, the Judge’s ultimate unfavorable security clearance
+decision was not arbitrary or capricious.
+4
+Order
+The decision of the Administrative Judge denying Applicant a clearance is  AFFIRMED.
+Signed: Jeffrey D. Billett      
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: Jean E. Smallin         
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody          
+James E. Moody  
+Administrative Judge
+Member, Appeal Board

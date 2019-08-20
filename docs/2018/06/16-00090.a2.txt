@@ -1,0 +1,150 @@
+KEYWORD: Guideline F
+DIGEST: Once alleged debts were either admitted by Applicant or proven by record evidence,
+the burden shifted to Applicant to mitigate the security concerns arising from those debts. 
+Directive ¶ E3.1.15.  As the Judge correctly found, Applicant’s bankruptcy petition only
+addresses four of the alleged debts.  The mere fact that debts may no longer appear on
+Applicant’s credit reports generally does not establish meaningful, independent proof of their
+mitigation. Adverse decision affirmed.
+CASENO: 16-00090.a2
+DATE: 06/11/2018
+DATE: June 11, 2018
+In Re:
+------------------------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 16-00090
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+April 4, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On October 13, 2017, after considering the record, Defense Office of
+Hearings and Appeals (DOHA) Administrative Judge Eric H. Borgstrom denied Applicant’s request
+for a security clearance.  Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+On January 16, 2018, we remanded the case.  On March 8, 2018, the Judge issued a Remand
+Decision, denying Applicant’s request for a security clearance.  Applicant again appealed pursuant
+to the Directive.
+Applicant raised the following issue in his latest appeal: whether the Judge’s adverse
+decision was arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm the
+Judge’s Remand Decision.
+The Judge’s Findings of Fact
+Applicant, who is 46 years old, has been working for a defense contractor since 2012.  He
+has been consistently employed since 2006.  He served in the military for less than two years and
+received a general discharge.  He has never been married and has a minor child.
+The SOR alleges that Applicant has two Federal tax liens (one for about $64,000 and the
+other for about $5,500) and 16 other delinquent debts totaling about $45,000.  He admitted the tax
+liens and one other debt, and denied the remaining debts.  The two liens were filed in 2011.  In 2005,
+Applicant did not have any taxes withheld from his pay and later did not have funds available to pay
+the taxes.  He failed to file his income tax returns for 2006 and 2007.  No evidence was presented
+that he filed the missing tax returns or corrected his Federal income tax withholdings.  Credit reports
+establish the 16 other alleged debts that became delinquent between 2007 and 2014.  
+In early 2017, Applicant filed Chapter 13 bankruptcy.  The bankruptcy petition includes the
+two alleged tax liens and two other alleged debts.  It also lists delinquent Federal taxes totaling
+almost $100,000 for 2005-2012.1  Applicant began making payments on the bankruptcy soon after
+its filing.  In mid-2017, the bankruptcy plan was confirmed.  Applicant has continued to make
+bankruptcy payments through a monthly automatic payroll deduction.  
+Applicant attributed his financial problems to “poor tax management” and his fiancee’s
+unemployment.  Decision at 3.  He provided no details about the timing of her unemployment.  No
+documentary evidence was provided about his debt-resolution efforts before 2017 or about the
+resolution of the 14 alleged debts not included in the bankruptcy.
+1 We note that Applicant’s bankruptcy petition does not specifically list the two alleged Federal tax liens. 
+The tax liability from those liens appears to be included in the listed tax debt of about $100,000 for 2005-2012.  
+2
+The Judge’s Analysis
+Applicant’s delinquent debts total over $114,000, became delinquent between 2007 and
+2014, and remain delinquent.  He presented no documentary evidence that he attempted to resolve
+those debts before 2017.  While his fiancee’s unemployment was a condition beyond his control, he
+failed to demonstrate that he acted responsibly under the circumstances.  There is no evidence that
+he sought credit counseling.  His financial problems apparently are not under control because his
+monthly bankruptcy payment exceeds his listed monthly remainder.  He filed Chapter 13 bankruptcy
+and has been adhering to the bankruptcy plan for one year; however, 14 of the alleged debts remain
+unaddressed.  No documentary evidence was presented of the missing Federal income tax returns. 
+He has complied with the bankruptcy plan to repay delinquent Federal income taxes for 2005-2012. 
+Mitigating condition 20(g) applies to the alleged tax liens.2  He has not demonstrated that he
+rectified his poor decision-making.  Nor has he provided a satisfactory explanation for the delay in
+addressing his delinquent debts.  
+Discussion
+Applicant contends the Judge erred by considering debts that were no longer valid and have
+been mitigated.  He indicated that he listed in his bankruptcy petition all debts that were present on
+recent credit reports from the three credit reporting agencies, and those debts are being resolved
+through the bankruptcy.  We do not find Applicant’s argument persuasive.  First, because the
+purported credit reports upon which the bankruptcy petition is based were not offered into evidence
+and are not part of the record, Applicant’s statements regarding those credit reports constitute new
+evidence that the Appeal Board cannot consider.  Directive ¶ E3.1.29.  Second, the Judge’s material
+findings about the alleged debts were based on substantial evidence or constitute reasonable
+inferences or conclusions that could be drawn from the evidence.  See, e.g., ISCR Case No. 12-
+03420 at 3 (App. Bd. Jul. 25, 2014).  Once alleged debts were either admitted by Applicant or
+proven by record evidence, the burden shifted to Applicant to mitigate the security concerns arising
+from those debts.  Directive ¶ E3.1.15.  As the Judge correctly found, Applicant’s bankruptcy
+petition only addresses four of the alleged debts.  The mere fact that debts may no longer appear on
+Applicant’s credit reports generally does not establish meaningful, independent proof of their
+mitigation.  See, e.g., ISCR Case No. 14-03612 at 3 (Aug. 25, 2015).  Debts may fall off credit
+reports merely due to the passage of time.  See, e.g., ISCR Case No. 03-20327 at 6 (App. Bd. Oct.
+26. 2006).  We find no reason to disturb the Judge’s conclusion that Applicant failed to demonstrate
+that he was responsibly addressing the alleged debts not listed in his bankruptcy petition. 
+Applicant also contends that the Judge erred in concluding he provided no documentary
+evidence of filing his income tax returns for 2006 and 2007.  He argues that all of his past tax returns
+had to be filed for the tax debts to be listed in his bankruptcy petition.  We note, however, that 11
+U.S. Code § 1308 provides that debtors petitioning for Chapter 13 bankruptcy are only required to
+file tax returns for tax periods within four years of the bankruptcy filing.  Applicant has not
+2 Directive, Encl. 2, App A ¶ 20(g) states, “the individual has made arrangements with the appropriate tax
+authority to file or pay the amount owed and is in compliance with those arrangements.”
+3
+established that the Judge erred in concluding Applicant failed to establish that he filed his Federal
+income tax returns for 2006 and 2007.  
+Applicant further contends that the Judge did not consider that his tax liability is being
+resolved through this bankruptcy.   We find this contention has no merit.  The Judge found that
+Applicant’s tax debt was listed in his bankruptcy petition and concluded that mitigating condition
+20(g) applied to the tax debts.  
+Additionally, Applicant argues the Judge erred in concluding that he sought no credit
+counseling because all debtors must undergo such counseling to file Chapter 13 bankruptcy.  We
+note that Applicant checked a block in his bankruptcy petition indicating that he had received a
+briefing from an approved credit counseling agency, but did not have a certificate of completion. 
+The checked block also reflected that he was required to file a copy of the certificate of completion
+within 14 days of the bankruptcy filing.  Applicant Exhibit (AE) C.  Furthermore, he argues that
+Judge erred in concluding he presented no evidence of correcting his tax withholdings by pointing
+to his pay statement in the record that showed his tax withholdings had been corrected.  One
+company pay summary for an unspecific period in 2018 reflected that he earned a total of about
+$7,450 and paid about $950 and $315, respectively, in Federal and state income taxes.  AE D.   Even
+if the Judge erred in concluding Applicant sought no financial counseling and failed to correct his
+tax withholdings, such errors were harmless because they likely did not affect the outcome of the
+case.  See, e.g., ISCR Case No. 11-15184 at 3 (App. Bd. Jul. 25, 2013).  In this regard, we note the
+Judge’s adverse decision is largely based on Applicant’s delay in addressing his financial problems
+and in his failure to demonstrate that he has taken responsible action to resolve the alleged debts not
+listed in the bankruptcy petition.  The Judge did not err in his overall conclusion that Applicant
+failed to mitigate the alleged security concerns.  
+Applicant’s appeal brief fails to establish the Judge committed any harmful error.  The Judge
+examined the relevant evidence and articulated a satisfactory explanation for the decision.  The
+decision is sustainable on this record.  “The general standard is that a clearance may be granted only
+when ‘clearly consistent with the interests of the national security.’”  Department of the Navy v.
+Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A ¶ 2(b):  “Any doubt concerning
+personnel being considered for national security eligibility will be resolved in favor of the national
+security.”
+4
+Order
+The Decision AFFIRMED.    
+Signed: Michael Ra’anan            
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody             
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                 
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+5

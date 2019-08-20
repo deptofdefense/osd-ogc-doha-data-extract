@@ -1,0 +1,112 @@
+KEYWORD: Guideline K; Guideline M; Guideline E
+DIGEST: Once it is established that an applicant has committed security violations, he or she has
+a “very heavy burden” of persuasion as to mitigation. Such violations “strike at the heart of the
+industrial security program.” Adverse decision affirmed.
+CASENO: 15-06050.a1
+DATE: 10/30/2017
+DATE: October 30, 2017
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-06050
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Skyler D. Samp, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On June
+3, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline K (Handling Protected Information), Guideline
+M (Use of Information Technology), and Guideline E (Personal Conduct) of Department of Defense
+Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On August
+9, 2017, after the hearing, Defense Office of Hearings and Appeals (DOHA) Administrative Judge
+Richard A. Cefola denied Applicant’s request for a security clearance.  Applicant appealed pursuant
+to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge erred in concluding that
+Applicant’s circumstances raised security concerns and whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  The Judge’s favorable findings under Guidelines M and
+E are not at issue in this appeal.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact
+Applicant has been employed by a Defense contractor since 2014 and has held a clearance
+since 1996.  Her SOR alleges four security infractions.  In 2011, she failed to secure a COMSEC
+safe, for which she was admonished.  In 2012 she failed to secure a COMSEC vault door, though
+no action was taken.  Later that same year she had two incidents in which encryptors were keyed
+to the wrong classification, resulting in her receiving a written reprimand.  In 2013, Applicant left
+three unsecure SECRET/SAR labels in her unlocked overhead bin for about six weeks in a non-
+classified work area.  Security officials could not rule out a compromise, and Applicant received a
+written disciplinary form and a ten-day suspension without pay.
+The Judge’s Analysis
+The Judge concluded that Applicant’s infractions raised security concerns.  He further
+concluded that none of the Guideline K mitigating conditions were applicable, citing to evidence
+that the most recent incident occurred three years previous and that the classified labels may have
+been compromised.  In the whole-person analysis, the Judge noted Applicant’s work history and the
+respect she enjoys from her colleagues.  However, he stated that he was left with “questions and
+doubts” about Applicant’s eligibility for a clearance.
+Discussion
+Applicant notes language in the Directive that the various disqualifying conditions listed
+under Guideline K “could” raise concerns and be disqualifying.  Appeal Brief at 7; Directive, Encl.
+2, App. A ¶ 34.  She argues that the Judge provided no analysis on this matter, which suggests that
+he misinterpreted the Directive to mandate the denial of a clearance in her case.  
+In fact, the analysis portion of the decision correctly states that the disqualifying conditions
+listed in the Directive could, rather than must, raise concerns.  Although the Judge’s analysis is
+admittedly conclusory, we find no support for Applicant’s contention that the Judge found the
+disqualifying conditions to be applicable as a matter of law or that he otherwise believed that he had
+no discretion regarding their application.  The Directive presumes a nexus between admitted or
+proved circumstances under any of the Guidelines and an applicant’s eligibility for a clearance.  See,
+e.g., ISCR Case No. 15-02903 at 2 (App. Bd. Mar. 9, 2017).  Given that Applicant admitted the
+Guideline K allegations with explanations and that the record contains substantial evidence of the
+allegations as well, we find no reason to disturb the Judge’s conclusion that Applicant’s numerous
+security infractions raise concerns about her judgment and reliability.1
+1To the extent that Applicant’s argument implies a contention that the Judge entered the hearing with an
+inflexible predisposition to issue an adverse decision, we find no support for this in the record.  Applicant has not
+rebutted the presumption that the Judge was impartial.  See, e.g., ISCR Case No. 12-10122 at 3 (App. Bd. Apr. 22, 2016).
+Applicant contends that the Judge provided no analysis regarding her case for mitigation. 
+She also contends that the Judge appears not to have performed a whole-person analysis.  As with
+his treatment of the disqualifying conditions, the Judge’s mitigation analysis is concise.  However,
+the Directive requires a Judge to set forth findings, policies, and conclusions as to the allegations
+in the SOR but does not prescribe a quantum of analysis.  Directive ¶ E3.1.25.  Each case must be
+decided on its own merits, and we conclude that in this case the Judge has satisfied the requirements
+of the Directive.
+Applicant cites to favorable evidence, such as her character references, performance reviews,
+professional accolades, etc.  She argues that this evidence should have played a large part in the
+Judge’s analysis but that he does not mention it.  
+A Judge is not expected to make findings about every piece of evidence in the record, which
+would be a practical impossibility.  See, e.g., ISCR Case No. 14-05396 at 4 (App. Bd. Jan. 10, 2017). 
+In this case, the Judge’s findings capture the essential facts underlying the SOR allegations, and he
+made reference to her good work record in the analysis.  Applicant has not rebutted the presumption
+that the Judge considered all of the evidence in the record.  Neither has she shown that the Judge
+weighed the evidence in a manner that was arbitrary, capricious, or contrary to law.  See, e.g., ISCR
+Case No. 15-08711 at 3 (App. Bd. Aug. 24, 2017).       
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision, both as to the mitigating conditions and the whole-person factors.  The decision is
+sustainable on this record.  Once it is established that an applicant has committed security violations,
+he or she has a “very heavy burden” of persuasion as to mitigation.  Such violations “strike at the
+heart of the industrial security program.”  ISCR Case No. 15-04340 at 3 (App. Bd. Jan. 30, 2017). 
+“The general standard is that a clearance may be granted only when ‘clearly consistent with the
+interests of the national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See
+also Directive, Encl. 2, App. A ¶ 2(b):  “Any doubt concerning personnel being considered for
+national security eligibility will be resolved in favor of the national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody             
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy              
+James F. Duffy
+Administrative Judge
+Member, Appeal Board

@@ -1,0 +1,126 @@
+KEYWORD: Guideline K; Guideline E
+DIGEST: Applicant, a facility security officer should have been aware that sensitive personal
+information must be protected.  Although the Judge made factual errors they are harmless. 
+Adverse decision affirmed.
+CASENO: 06-07515.a1
+DATE: 04/24/2008
+DATE: April 24, 2008
+In Re:
+------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 06-07515
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro Se
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On June 29, 2007, DOHA issued a statement of reasons advising Applicant of the basis
+2
+for that decision—security concerns raised under Guideline K (Handling Protected Information) and
+Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2, 1992), as
+amended (Directive).  Applicant requested a hearing.  On December 28, 2007, after the hearing,
+Administrative Judge Philip S. Howe denied Applicant’s request for a security clearance.  Applicant
+timely appealed pursuant to the Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raises the following issue on appeal: whether the Judge’s decision is arbitrary,
+capricious, or contrary to law.  Specifically, Applicant points out that the Judge’s decision contains
+factual errors and mischaracterizations.  Applicant also disagrees with the Judge’s interpretation of
+the evidence.  
+Whether the Record Supports the Judge’s Factual Findings
+Facts:
+The Judge made the following relevant findings of fact:  
+Applicant is Vice-President and Facility Security Officer (FSO) at a government contracting
+firm.  Security personnel at the company’s headquarters sent Applicant an e-mail message in March
+2004 stating that his uncleared assistant could not have access to the Joint Personnel Adjudication
+System (JPAS), a DoD program containing sensitive personal information.  Computer records show
+that Applicant opened the message. [Applicant has no memory of reading it.]  Applicant received
+a password for access to JPAS.  Applicant’s firm got access to JPAS in approximately April 2004.
+Applicant allowed his assistant, who did not have a security clearance, access to JPAS on a regular
+basis by giving him Applicant’s user name and password, and the assistant also helped Applicant
+to create subsequent passwords.  In July 2005, security personnel at headquarters learned that
+Applicant was allowing his assistant access to JPAS.  Applicant was instructed to stop that practice.
+Applicant immediately instructed his assistant not to access the program on his own, but continued
+to give him information from JPAS in paper print-out format.  In September 2005, Applicant was
+advised to change his password to further limit the assistant’s access.  Applicant complied. 
+Discussion:
+The Appeal Board’s review of the Judge’s findings of facts is limited to determining if they
+are supported by substantial evidence—“such relevant evidence as a reasonable mind might accept
+as adequate to support a conclusion in light of all the contrary evidence in the same record.”
+Directive ¶ E3.1.32.1.  “This is something less than the weight of the evidence, and the possibility
+of drawing two inconsistent conclusions from the evidence does not prevent an administrative
+agency’s finding from being supported by substantial evidence.”  Consolo v. Federal Maritime
+Comm’n, 383 U.S. 607, 620-21 (1966).  In evaluating the Judge’s findings, we are required to give
+deference to the Judge’s credibility determinations.  Directive ¶ E3.1.32.1.      
+Applicant points out several factual errors in the Judge’s decision.  The Judge stated that
+Applicant’s firm began using JPAS in April 2004 and that Applicant therefore was in violation of
+Applicant also notes the same error in the Judge’s synopsis.  The Board has held that error in the synopsis of1
+a decision is generally harmless.  See, e.g., ISCR Case No. 02-06338 at 3 (Sep. 7, 2004).
+Applicant identifies other errors, such as Applicant’s age and years of service in the Air Force.  Likewise, these2
+errors are harmless.
+3
+proper security procedures for 18 months.  Decision at 3 and 5-7.   Applicant states, and Department1
+Counsel acknowledges, that Applicant began using JPAS in August 2004, and Applicant therefore
+demonstrated that the period of violation was shorter.  The Judge also mischaracterized computer
+use under JPAS, apparently believing that JPAS could only be accessed on one computer, which
+Applicant moved into his office in July 2005.  Decision at 3.  Although these are factual errors, they
+are harmless errors when viewed in the context of the record as a whole.   It is not likely that the2
+Judge would have reached a different decision if he had found that Applicant’s security violations
+began four months later or that JPAS was accessible from more than one computer. 
+Whether the Record Supports the Judge’s Ultimate Conclusions
+A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States, Inc. v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29,
+43 (1983) (quoting Burlington Truck Lines v. United States, 371 U.S. 156, 168 (1962)).  The Appeal
+Board may reverse the Judge’s decision to grant, deny, or revoke a security clearance if it is arbitrary,
+capricious, or contrary to law.  Directive ¶ E3.1.32.3.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’” Dep’t of the
+Navy v. Egan, 484 U.S. 518, 528 (1988). 
+Once the government presents evidence raising security concerns, the burden shifts to the
+applicant to rebut, explain, extenuate , or mitigate those concerns.  See Directive ¶ E3.1.15.  The
+Judge considered Applicant’s testimony in that regard and reasonably concluded that Applicant had
+not met his burden of proof.  Although Applicant argues that he was unaware until July 2005 of the
+requirement that his assistant have a security clearance in order to access JPAS, the record supports
+the conclusion that Applicant received and opened an e-mail message containing that information
+in March 2004 and was therefore on notice as to the requirement.  The Judge pointed to Applicant’s
+years of security experience.  While Applicant states that he did not receive training on the JPAS
+program, he had a responsibility as the FSO for his office to familiarize himself with at least the
+basic concepts of JPAS.  The fact that he was given a user name and password for JPAS access
+should have caused Applicant, as FSO, to realize that JPAS was more restricted than prior systems.
+Since access to the information was limited, an experienced FSO should not have shared the
+information itself with an uncleared employee, at least without confirming that he was allowed to
+do so.  Moreover, as an experienced FSO, Applicant should not have allowed another employee
+access to his user name and password.  Applicant argues that the Judge’s decision is overly harsh
+because he did not compromise classified information.  As an FSO, he should have been aware that
+not only classified information, but also sensitive personal information, must be protected.  Directive
+¶¶ E2.34(a) and (g). 
+4
+The Judge discussed why disqualifying conditions under both Guideline K and Guideline E
+applied to Applicant’s conduct and why the conduct was not mitigated under the Guidelines or a
+whole-person analysis.  The Judge’s decision is sustainable based on record evidence.  Applicant’s
+ability to argue for a different interpretation of the evidence and his disagreement with the Judge
+regarding the significance of Applicant’s handling of protected information do not indicate error on
+the part of the Judge.  See, e.g., ISCR Case No. 04-08806 at 4 (App. Bd. May 8, 2007).  The Judge’s
+decision is neither arbitrary, capricious, nor contrary to law.
+Order
+The Judge’s decision denying Applicant a security clearance is AFFIRMED.
+Signed: Michael D. Hipple   
+Michael D. Hipple
+Administrative Judge
+Member, Appeal Board
+Signed: Jean E Smallin   
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody   
+James E. Moody
+Administrative Judge
+Member, Appeal Board

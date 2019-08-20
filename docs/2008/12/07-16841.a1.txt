@@ -1,0 +1,202 @@
+KEYWORD: Guideline F
+DIGEST: Reliance on the non-collectability of a debt does not constitute a good-faith effort to
+resolve the debt within the meaning of the Directive.  The Judge decision did not take into
+account record evidence which ran contrary to her favorable decision. Applicant presented little
+corroboration for his claims to have been defrauded.  Nor did he demonstrate reasonable efforts
+to resolve his delinquent debts including those unrelated to the alleged fraud.  Favorable decision
+reversed.
+CASENO: 07-16841.a1
+DATE: 12/19/2008
+DATE: December 19, 2008
+In Re:
+--------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 07-16841
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Gina L. Marine, Esq., Department Counsel
+FOR APPLICANT
+Pro Se
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On March 7, 2008, DOHA issued a statement of reasons (SOR) advising Applicant of
+the basis for that decision–security concerns raised under Guideline F (Financial Considerations),
+Guideline E (Personal Conduct), and Guideline J (Criminal Conduct) of Department of Defense
+Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On
+September 12, 2008, after the hearing, Administrative Judge Mary E. Henry granted Applicant’s
+request for a security clearance.  Department Counsel filed a timely appeal pursuant to Directive ¶¶
+E3.1.28 and E3.1.30.
+The Judge’s favorable decision under Guidelines E and J is not at issue in this appeal.  1
+3
+Department Counsel raised the following issues on appeal: whether the Judge erred in her
+application of the Guideline F mitigating conditions and whether the Judge’s whole-person analysis
+was erroneous.   Finding error, we reverse the decision of the Judge.1
+Whether the Record Supports the Judge’s Factual Findings
+A.  Facts
+The Judge made the following pertinent findings of fact: Applicant owns and operates a
+company which is a DoD contractor.  He started his business 30 years ago.  In 2005, a real estate
+broker approached Applicant about purchasing rental property.  After discussing the matter with the
+broker, Applicant agreed to buy 22 rental properties, consisting “primarily of single family homes.”
+Decision at 4.  The broker orally promised to sell Applicant the properties at 10% below market
+value.  He stated to Applicant that all the properties were rented and that Applicant would not have
+any out-of-pocket expenses.  The broker also promised to make the down payments, pay all closing
+costs, and cover any shortfall between the loan payments and the rental receipts for a period of one
+year.  The broker obtained the services of an appraiser and of a mortgage broker, both of whom he
+knew.  He obtained 100% financing for the houses, by means of a primary and secondary mortgage
+on each.   
+During the settlement process, Applicant learned that the properties were titled in the name
+of the real estate broker’s wife.  At the final closings, the wife refused to sign the agreement through
+which the real estate broker would pay the difference between the monthly mortgage and the rent
+received on each property.  The real estate broker then refused to sign the agreement himself.
+Applicant lacked the financial resources to pay the difference.
+After settlement, Applicant hired an attorney to review the sale.  “The attorney found serious
+irregularities in the overall transaction,” including that the purchase prices had been inflated; that the
+properties were not all rented, contrary to representations by the broker; and that the real estate
+broker had in the past filed for bankruptcy.  The attorney concluded that the broker, his wife, the
+mortgage broker, and the appraiser had employed an elaborate scheme whereby they dumped “poorly
+performing properties” on Applicant. Decision at 4.  Applicant was not able to meet the mortgage
+obligations after the final closing.
+Subsequently, Applicant’s attorney wrote to the lenders holding the mortgages on the homes,
+advising them that the broker had refused to pay his promised share of the mortgage amounts.
+Applicant offered to work out a financial resolution “to mitigate the damages caused [to] the
+mortgage lenders and Applicant by the scheme.”  Decision at 4-5.  Through his attorney, Applicant
+offered to pay the net rents on the properties to the lenders, to rent the vacant properties, to cooperate
+with selling the properties, and to pursue claims against the broker and the other parties in question.
+4
+In exchange, Applicant requested that the lenders not “negatively impact” his credit rating.  Decision
+at 5.
+The lenders chose to foreclose on the properties, all of which had been sold as of the close
+of the record.  “Three law firms advised Applicant that he would not be liable for any unpaid
+mortgage debt following the sale of these properties under the state’s anti-deficiency statutes because
+his loans were purchase money mortgages . . .  The lenders’ only recourse in this situation is to list
+the debts on Applicant’s credit report.”  Decision at 5.  
+Applicant’s subsequent credit reports show delinquent debt on two corporate credit cards and
+on 18 mortgages, “many of which are second mortgages on the rental properties.  His other debts are
+timely paid and 24 mortgages have a zero balance (some of these mortgages are related to his own
+home.)”  Decision at 5.  Applicant owes a significant amount of money on these two cards.
+“Because there are problems with fraudulent charges on the larger debt, the negotiations are not
+complete.”  Decision at 5-6.  Applicant has filed complaints against the various parties with the State
+Board of Appraisal, the Department of Real Estate, and the Department of Financial Institutions.
+These complaints had not been resolved at the close of the record.  He has expressed an intent to sue
+these parties in court, but lacks the resources to do so. 
+B.  Discussion
+The Appeal Board’s review of the Judge’s findings of facts is limited to determining if they
+are supported by substantial evidence–“such relevant evidence as a reasonable mind might accept
+as adequate to support a conclusion in light of all the contrary evidence in the same record.”
+Directive  ¶ E3.1.32.1.  “This is something less than the weight of the evidence, and the possibility
+of drawing two inconsistent conclusions from the evidence does not prevent an administrative
+agency’s finding from being supported by substantial evidence.”  Consolo v. Federal Maritime
+Comm’n, 383 U.S. 607, 620 (1966).  In evaluating the Judge’s findings, we are required to give
+deference to the Judge’s credibility determinations.  Directive ¶ E3.1.32.1.
+In her brief, Department Counsel argues that the Judge’s decision is not supported by
+substantial record evidence.  The Board will address this concern in the discussion below. 
+Whether the Record Supports the Judge’s Ultimate Conclusions
+ A Judge is required to “examine the relevant data and articulate a satisfactory explanation
+for” the decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  The Appeal
+Board may reverse the Judge’s decision to grant, deny, or revoke a security clearance if it is arbitrary,
+capricious, or contrary to law.  Directive ¶¶ E3.1.32.3 and E3.1.33.3.  
+Directive ¶ E2.18.2
+5
+Once a concern arises regarding an Applicant’s security clearance eligibility, there is a strong
+presumption against the grant or maintenance of a security clearance.  See Dorfmont v. Brown, 913
+F. 2d 1399, 1401 (9  Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After the Government presentsth
+evidence raising security concerns, the burden shifts to the applicant to rebut or mitigate those
+concerns.  See Directive ¶ E3.1.15.  “The application of disqualifying and mitigating conditions and
+whole person factors does not turn simply on a finding that one or more of them apply to the
+particular facts of a case.  Rather, their application requires the exercise of sound discretion in light
+of the record evidence as a whole.”  See, e.g., ISCR Case No. 05-03635 at 3 (App. Bd. Dec. 20,
+2006).
+In deciding whether the Judge's rulings or conclusions are arbitrary or capricious, the Board
+will review the Judge's decision to determine whether:  it does not examine relevant evidence; it fails
+to articulate a satisfactory explanation for its conclusions, including a rational connection between
+the facts found and the choice made; it does not consider relevant factors; it reflects a clear error of
+judgment; it fails to consider an important aspect of the case; it offers an explanation for the decision
+that runs contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere
+difference of opinion.  In deciding whether the Judge's rulings or conclusions are contrary to law,
+the Board will consider whether they are contrary to provisions of Executive Order 10865, the
+Directive, or other applicable federal law.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2,
+2006).
+The security concern under Guideline F is that an applicant’s failure to meet financial
+obligations “may indicate poor self-control, lack of judgment, or unwillingness to abide by rules and
+regulations, all of which can raise questions about an individual’s reliability, trustworthiness and
+ability to protect classified information.”    Given the extent of Applicant’s financial problems, the2
+Judge’s conclusion that Applicant’s case raises Guideline F security concerns is sustainable.  The
+issue to be decided upon appeal is whether the Judge properly concluded that Applicant had met his
+burden of persuasion as to mitigation.
+Department Counsel argues that the Judge’s decision failed to address significant contrary
+record evidence.  This argument is persuasive.  The Judge’s favorable decision relied, to a large
+extent, on her findings that (1) the broker deceived Applicant into purchasing the houses and (2)  the
+state’s anti-deficiency laws prevent a lender from collecting from a homeowner the difference
+between the amount realized at a foreclosure sale and the remaining balance of the home loan.  On
+the latter point, reliance on the non-collectability of a debt does not constitute a good-faith effort to
+resolve that debt within the meaning of the Directive.  See, e.g., ISCR Case No. 07-09966 at 3 (App.
+Bd. Jun. 25, 2008).
+Moreover, in this case, the Judge’s decision did not take into account contrary record
+evidence which is less favorable to Applicant.  The Board notes Applicant Exhibit G, a legal
+memorandum from a law office representing Applicant in his real estate dispute.  The memorandum
+Government Exhibit 2, Response to Interrogatories, which contains this memorandum as an attachment at p.3
+16.
+Tr. at 58.4
+6
+acknowledged that state law forbade collecting deficiency judgments.  However, it went on to say,
+“the magnitude of [Applicant’s] indebtedness on these transactions may cause the lenders to seek
+some other theory on which to recover, such as misrepresentation or a scheme or artifice to defraud,
+possibly alleging that [Applicant] and [the broker] collaborated in a scam designed to pay off the [the
+broker’s] creditors by duping the present lenders . . . it does not seem likely that the anti-deficiency
+statutes would prevent the banks from pursuing that type of claim which could result in a personal
+judgment against [Applicant].”  AE G at 4.
+Another memorandum, by a lawyer working for a different firm, contains similar language.
+While acknowledging the general effect of anti-deficiency statutes, the memorandum goes on to say
+that state case law does not conclusively resolve the question of whether such anti-deficiency statutes
+relieve a homeowner of debt resulting from fraud.  “Clearly the lenders would be remiss if they failed
+to argue that the anti-deficiency statues cannot be used as a shield to prevent recovery of damages
+resulting from fraudulent conduct.”   While neither of these memoranda categorically state that3
+Applicant actually engaged in fraudulent conduct, at the very least they undermine the Judge’s
+finding that Applicant does not owe the banks for the unpaid balance of the mortgages.  However,
+even assuming that Applicant did not knowingly participate in a scheme to defraud (Applicant
+presented no independent corroborating evidence of his claims that the broker defrauded him.), the
+record still raises serious questions about his judgment.  He was offered a business proposition
+containing promises by the broker that would have prompted a reasonable person to inquire further
+before committing to the deal.  This is especially true in light of record evidence of Applicant’s
+extensive business experience.  However, he entered into legally enforceable agreements to purchase
+these 22 houses without reducing to writing the broker’s promises to pay down-payments, closing
+costs, and the shortfall between rents and amounts owed on the debts.  Neither is there record
+evidence of efforts by Applicant to verify other representations made to him by the broker as to the
+value of the houses, the extent to which they were actually rented, etc.  As an attorney testifying for
+Applicant stated, “[I]f he had done a little more due diligence he wouldn’t have got in this jam.”  4
+The Board has considered the entire record, including the matters which Applicant presented
+in mitigation.  Applicant provided little corroboration for his claims of having been defrauded.
+Neither did he demonstrate reasonable efforts to resolve his delinquent debts, including those
+relating to his credit cards.  The Judge herself found that he did not provide evidence of a repayment
+plan for the credit card debts.  The record as a whole does not demonstrate that Applicant’s
+delinquent debts arose from causes outside his control or that he has taken steps to resolve the debts
+sufficient to meet his burden under the Egan standard.  The Judge’s favorable security clearance
+decision is not sustainable. 
+ 
+7
+Order
+The Judge’s favorable security clearance decision is REVERSED.  
+Signed: Jean E. Smallin             
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: William S. Fields            
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody             
+James E. Moody
+Administrative Judge
+Member, Appeal Board

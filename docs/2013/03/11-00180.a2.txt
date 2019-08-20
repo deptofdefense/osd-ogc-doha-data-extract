@@ -1,0 +1,291 @@
+1The SOR contained an allegation under Guideline F (Financial Considerations).  The Judge issued a formal
+finding favorable to Applicant under this Guideline, and this finding has not been an issue during this appeal.
+KEYWORD: Guideline E; Guideline F
+DIGEST: The Judge’s factual findings were reasonably supported by substantial record
+evidence.  An appealing party has a heavy burden in challenging a Judge’s credibility
+determination.  The presence of some mitigating evidence in and of itself is not sufficient to
+demonstrate that the Judge erred.  Adverse decision affirmed. 
+CASE NO: 11-00180.a2
+DATE: 03/14/2013
+DATE:  March 14, 2013
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-00180
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+David F. Hayes, Esq., Department Counsel
+FOR APPLICANT
+John V.  Berry, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+September 29, 2011, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline E (Personal Conduct) and Guideline F
+(Financial Considerations) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended)
+(Directive).  Applicant requested a hearing.  On March 8, 2012, after the hearing, Defense Office
+of Hearings and Appeals (DOHA) Administrative Judge Joan Caton Anthony denied Applicant’s
+request for a security clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.1
+2
+On June 19, 2012, the Board issued a decision in the case remanding the case to the Judge
+for further proceedings.  The remand order was based on the Board’s determination that, although
+the record contained sufficient detail to sustain the Judge’s conclusion that the government had
+established security concerns regarding Applicant under Guideline E, there was insufficient record
+evidence about Applicant’s specific conduct to allow her to properly evaluate the Guideline E
+mitigating conditions in relation to that conduct.  Guideline E of the SOR alleged that Applicant was
+a defendant in a civil lawsuit that ensued after he left the employ of one company for another. The
+lawsuit involved allegations of violations of non-disclosure employment agreements, breach of
+fiduciary duty, violation of the state computer crimes act, violation of the state conspiracy act,
+common law conspiracy, violation of the state uniform trade secrets act, and conversion.   
+The Board also noted that the relative paucity of evidence about Applicant’s specific conduct
+was a consequence of the Judge’s application of the collateral estoppel doctrine.  The Board then
+ruled that application of the doctrine in this case was problematic in that it prevented Applicant from
+fully explaining his conduct and presenting a case in mitigation.  The Board’s remand order
+contained instructions that both parties should be afforded the opportunity to present any additional
+evidence regarding the civil trial and Applicant’s underlying conduct for the Judge’s consideration.
+Pursuant to the remand order a subsequent hearing took place and the parties submitted
+additional evidence.  The record was significantly expanded, largely through the admission of
+pleadings, transcript testimony, and other documents related to the civil trial.  On December 17,
+2012, after the hearing, Judge Anthony denied Applicant’s request for a security clearance.
+Applicant has again appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.  
+Applicant raised the following issues on appeal: (1) whether the Judge erred in finding that
+Applicant had expressed no remorse about his conduct; (2) whether the Judge made erroneous
+findings regarding Applicant’s actions with a 100 gigabyte (GB) computer hard drive; (3) whether
+the Judge erred in not applying Guideline E mitigating conditions in Applicant’s favor; and (4)
+whether the Judge erred in her whole-person analysis. For the reasons that follow, the Board affirms
+the Judge’s decision. 
+Facts
+A statement of the Judge’s findings in the case was included in the Board’s June 19, 2012
+decision.  The following recitation of the Judge’s findings in her remand decision includes many of
+those same findings, but also includes many additional findings.
+The Judge’s pertinent findings in her remand decision are as follows:  Applicant is a senior
+program manager for a Government contractor.  He enlisted in the military, earned a commission,
+and retired as an officer.  He held security clearances during his military service.
+3
+After retirement, he worked for a small technology company, for which he signed an
+employment agreement, which contained a non-disclosure admonition.  This company was
+purchased by Company A, a Defense contractor.  Applicant worked for Company A from 2000 until
+2009.  He did not sign a non-disclosure agreement after coming to work for Company A.  The
+employment agreement that Applicant had signed earlier stated that it did not terminate as a result
+of voluntary or involuntary dissolution of the company, or by any merger or consolidation wherein
+the company was not the surviving or the resulting corporation.  Applicant stated that he did not
+believe the non-disclosure agreement applied to him when he was an employee of Company A.
+However, the jury in his civil trial found that the non-disclosure agreement provisions did apply to
+Applicant during his tenure at Company A.  
+In January 2008, a former colleague of Applicant left Company A and began a Government
+services division at Company B.  In 2009, Applicant and another colleague left Company A and set
+to work for Company B.  Upon leaving Company A, Applicant turned in all equipment provided him
+by the company.  He took with him a 20 GB hard drive, which he had used at Company A during
+the nine years of his employment.  This hard drive was Applicant’s own, the one provided by the
+company contained insufficient memory.  He stated that there were personal matters on the
+computer, as well as some power point presentations on the hard drive.  
+Although Applicant claimed he left Company A on good terms, within two weeks of starting
+his new job, Applicant, three other colleagues, and Company B were named as defendants in a
+lawsuit.  The civil complaint alleged various kinds of economic harm to Company A.  The case was
+tried before a jury, lasting 11 days.  Applicant testified, both on direct examination and on cross-
+examination, for 65 minutes.  His position remained that he had done nothing wrong.  
+At the trial, Applicant admitted that in the first half of 2009, he and a friend at Company B
+discussed gathering together a group of like-minded individuals to do government contracting work
+that would include projects similar to those carried out by Company A.  The friend at Company B
+asked Applicant to identify individuals who would make good employees at Company B.  Applicant
+informed his deputy at Company A that he was accepting a position at Company B.  
+Company A was planning to re-compete for a contract it held with the military.  Applicant
+assisted his friend at Company B in identifying Company A employees who might be recruited by
+Company B in submitting a competitive offer on the contract.  The Company B official sent an e-
+mail proposing a meeting date for several Company A employees to meet with him to discuss the
+re-compete contract.  E-mails identified at trial by Applicant as either written by him or received by
+him demonstrated Applicant’s active involvement in this activity.  
+Also at trial, a computer forensic expert testified that her analysis of Applicant’s Company
+A computer revealed that approximately three days before Applicant resigned from Company A to
+go to work at Company B, a 100 GB hard drive had been attached to his computer and five folders
+created.  One of the folders was labeled “Company B.”  Remote image analysis of the files on the
+100 GB hard drive and the files on Applicant’s Company A computer revealed that several hundred
+files were copied from the company computer to the 100 GB hard drive.  The computer analysis also
+2The court entered judgment against Applicant and his colleagues based on all of the claims found against them.
+However, the court concluded that the damages were duplicative.  Accordingly, she fixed the damages based on the State
+Business Conspiracy Act claim.  Final Order, included in Government Exhibit (GE) 2, Answers to Interrogatories.   
+4
+showed that once copied to the 100 GB hard drive, the files were deleted from Applicant’s computer
+and then also deleted from the computer’s recycle bin.  Applicant acknowledged that he copied files
+from his Company A computer to the 100 GB hard drive.  
+At his remand hearing, Applicant stated that he had copied Company A material onto the 100
+GB hard drive to leave for the individual (his former deputy) he believed would succeed him at
+Company A.  The list of items Applicant returned to Company A when he left contains no mention
+of a 100 GB drive.  The former deputy stated that he already had all the information he needed in
+order to assume duties as Applicant’s successor, and he had no need for any Company A information
+that might have been placed on the 100 GB drive.  The former deputy also stated that he never
+received the 100 GB hard drive.  Applicant was unable to account for the whereabouts of the 100
+GB hard drive.   
+At the trial, it was alleged and established that the materials copied to the 100 GB drive
+included Company A’s proprietary information and trade secrets.  It was also alleged and established
+that Applicant and the current and former employees of Company A and its predecessor company
+who went to work for Company B formed a group who planned to use information taken from
+Company A in order to compete for a lucrative government contract previously held by Company
+A.    
+The civil trial jury found Applicant liable for breach of fiduciary duty, breach of the non-
+disclosure agreement, violation of the State Computer Crimes Act, violation of the State Business
+Conspiracy Act, civil conspiracy, misappropriate of trade secrets,  and for conversion.  
+After considering motions by both sides, the judge entered an order of final judgment.  This
+order directed (1) Applicant and co-defendants to pay over $12,000,000 for violations of the State
+Business Conspiracy Act;2 (2) Applicant to pay $350,000 in punitive damages; and (3) Applicant
+and co-defendants to pay over $1,400,000 in attorney fees.  
+Applicant and co-defendants filed an appeal to the a higher state court.  The appeal  lists five
+assignments of error, all relating to the amount of damages and to evidentiary matters at the trial
+pertaining to damages.  Liability was not raised on appeal.  The State Supreme Court ruled in these
+matters in June 2012.  It held that Company A’s evidence was insufficient to support an award of
+lost goodwill damages.  It upheld the trial court’s awards of trebled and punitive damages in favor
+of Company A. 
+At his remand hearing, Applicant acknowledged that he had been found liable by the jury
+in his trial, but stated that he didn’t do any conversion and that he didn’t do anything.  He stated that
+he didn’t move documents to Company B, and that the computer drive he took with him was his own
+personal drive.  He indicated that everything he did at Company A was to further the job, and his
+3‘[T]he offense is so minor, or so much time has passed, or the behavior is so infrequent, or it happened under
+such unique circumstances that it is unlikely to recur and does not cast doubt on the individual’s reliability,
+trustworthiness, or good judgment.[.]”
+4[T]he individual has acknowledged the behavior and obtained counseling to change the behavior or taken other
+positive steps to alleviate the stressors, circumstances, or factors that caused untrustworthy, unreliable, or other
+inappropriate behavior, and such behavior is unlikely to recur[.]” 
+5
+moving of documents to the 100 GB hard drive was to help the program office at Company A.  He
+stated that he didn’t conspire with anybody and he didn’t poach people.   
+In the Analysis, the Judge concluded that Applicant’s conduct raised security concerns as
+the civil trial jury found against Applicant on the following claims: breach of fiduciary duty; breach
+of contract; violation of a state computer crimes act; violation, in concert with other defendants, of
+a state business conspiracy act; civil conspiracy, in concert with other defendants; misappropriation
+of trade secrets; and conversion.  She concluded that Applicant’s personal conduct, which involved
+failure to follow rules and regulations for safeguarding his employer’s trusted information, was not
+minor, so remote in time, so infrequent, or occurred under such unique circumstances that it was
+unlikely to recur and therefore did not cast doubt on his reliability, trustworthiness, or good
+judgment.  Therefore, mitigating condition ¶ 17(c)3 does not apply.  The Judge concluded that
+Applicant failed to demonstrate that he understood the gravity of the conduct for which the jury
+found him responsible.  He repeatedly insisted he had done nothing wrong, and he failed to
+demonstrate that he understood what had caused his unreliable conduct.  He was unable to ensure
+that such behavior was unlikely to recur.  Therefore, mitigating condition ¶ 17(d)4 does not apply.
+The Judge noted that Applicant joined with others to misappropriate his employer’s proprietary and
+trade secret information.  He participated in activities to encourage other employees of Company
+A to accept employment with Company B.  Applicant’s reason for copying hundreds of files
+containing proprietary and trade secret information from his Company A computer to a 100 GB hard
+drive was not credible.  The Judge finally concluded that  Applicant failed to mitigate the security
+concerns arising under the personal conduct adjudicative guideline.  
+Discussion
+Applicant challenges the Judge’s finding that he insisted that he had done nothing wrong.
+Applicant asserts that he clearly accepted responsibility for the very unique situation that occurred
+to the extent that he could.  Applicant states that he has been clear that he understood the
+significance of the underlying civil litigation, and that he would have handled the issues differently
+in the future.  Applicant states that in a civil action of the type he was involved in, it would be
+impossible to be able to admit and express remorse for the exact misconduct found by the jury
+because the specific misconduct was not defined by the jury.  Applicant has not demonstrated error
+on the part of the Judge.  Neither the record nor the jury’s findings are as vague as Applicant’s
+appeal argument suggests.  The expanded evidentiary record developed on remand included
+evidence of Applicant’s specific conduct.  Contrary to Applicant’s assertions, it also contained jury
+findings that, when considered along with record evidence developed at trial, are specific as to what
+actionable conduct Applicant engaged in.  These facts, with Applicant’s testimony at the remand
+5Tr. 2 at 137 cited in Remand Decision at 10.
+6The Judge specifically rejected Applicant’s explanation that he left the 100 GB hard drive at Company A when
+he departed the company so that his successor could use the company information to carry out his duties.   
+7Applicant asserts that ¶17(d) should have applied to the case, but he does not provide any independent
+argument regarding that mitigating condition, choosing instead to focus his arguments under ¶17(c) and ¶17(f).  An
+appealing party must set forth its claims of error with specificity. See, e.g., ISCR Case No. 00-0429 at 2 (App. Bd. Jul.
+6
+hearing, provide a reasonable basis for the Judge’s conclusion that Applicant continues to assert his
+lack of culpability for the conduct that was the subject of the jury verdict against him.  The Judge
+cites to specific parts of Applicant’s testimony during the remand hearing wherein he denied doing
+some of the things that provided the basis for the jury’s rulings.5  Applicant’s disagreement with the
+Judge’s weighing of the evidence, or his ability to argue for a different interpretation of the
+evidence, is not sufficient to demonstrate the Judge weighed the evidence or reached conclusions
+in a manner that is arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case no. 06-17409 at
+3 (App. Bd. Oct. 12, 2007).    
+Applicant argues that the Judge made erroneous factual findings regarding Applicant’s
+involvement with the 100 GB hard drive.  He noted that the Judge found that he attached a 100 GB
+hard drive to his company computer and copied hundreds of company files to that external drive,
+and that the Judge did not accept Applicant’s explanation for what he did with the 100 GB hard
+drive, nor did she accept Applicant’s theory that he had no nefarious purpose in downloading the
+documents.6  After a review of the record evidence, the Board concludes that the Judge’s finding is
+reasonably supported by that evidence.  Applicant’s appeal arguments on this point essentially set
+forth his version of the record evidence, which is not sufficient to demonstrate error.  The Judge’s
+findings regarding the 100 GB hard drive are based in part on an assessment of Applicant’s
+credibility.  An appealing party has a heavy burden to demonstrate that a Judge’s credibility
+determination is unsustainable in light of all the contrary record evidence.  See, e.g., ISCR Case No.
+00-0417 at 3 (App. Bd. May 1, 2001).  The Board concludes that the Judge’s assessment of the
+credibility of Applicant’s explanations regarding the 100 GB hard drive is sustainable.
+Applicant asserts that the Judge erred in not applying mitigating condition ¶17(c) in
+Applicant’s favor.  He states that the circumstances of this case all involve a single civil action and
+that the issues raised happened only once, were extremely rare, and were highly unlikely to ever
+occur again.  The presence of some mitigating evidence does not alone compel the Judge to make
+a favorable security clearance decision.  As the trier of fact, the Judge has to weigh the evidence as
+a whole and decide whether the favorable evidence outweighs the unfavorable evidence, or vice
+versa.  See, e.g., ISCR Case No. 06-10320 at 2 (App. Bd. Nov. 7, 2007).  In her decision the Judge
+specifically concluded that the conduct was not minor and was not remote in time.  These two
+elements are included in ¶17(c) as well as any considerations of frequency or uniqueness.  The
+Judge’s conclusion that these two elements are absent is sustainable and the record supports her
+conclusion that Applicant’s conduct was not infrequent and did not occur under such unique
+circumstances as to overcome the government’s security concerns.  Applicant has not established
+error.7    
+9, 2001).  Therefore the Board will not consider whether ¶17(d) should have been applied in the case.   
+8“[T]he information was unsubstantiated or from a source of questionable reliability[.]”
+7
+Applicant argues that the Judge should have considered mitigating condition ¶17(f)8when
+deciding the case.  He states that the allegations in the civil trial came from Company A and its
+personnel, and as a result of the trial, Company A was found civilly liable with respect to making
+a false statement.  It is true that Company A was found liable for defamation and was ordered to pay
+Applicant compensatory and punitive damages.  The nature of the defamation was the publication
+by Company A of statements regarding purported DoD investigations of Company B and Company
+B personnel. The defamation count was but one count in a civil action comprised of dozens of
+counts.  The defamation issue was ancillary to the main thrust of the case and arose out of facts
+occurring after the actions for which Applicant was found liable.  Despite being found liable in a
+single defamation count, Company A was also the source of the evidence that led to the jury verdict
+against Applicant and others on multiple counts.  The jury verdict was approved by the trial judge
+and was not challenged on appeal.  Under these circumstances, the Board concludes that the Judge
+was not required, as a matter of law, to apply ¶17(f), or to conclude that a winning plaintiff in a large
+and complex civil lawsuit was a “questionable source.”   
+Applicant asserts that lost in the Judge’s whole-person analysis is any balancing of a
+dedicated public servant’s career over a long period of time, against a one-time civil action.
+Applicant points to his lifetime of access and protection of highly classified information, and recites
+the many accolades he received from colleagues and acquaintances, who noted his skill, honesty,
+and integrity.  Applicant’s history of achievement and his favorable reputation was evidence that
+the Judge was required to consider.  Central to the Judge’s analysis under the whole-person concept
+was the seriousness of Applicant’s misconduct and the fact that, while he denied any wrongdoing,
+Applicant failed to rebut the allegations against him.  The Judge’s whole-person analysis is
+sustainable on this record.     
+We examine a Judge’s findings to see if they are supported by substantial record evidence,
+that is, “such relevant evidence as a reasonable mind might accept as adequate to support a
+conclusion in light of all the contrary evidence in the same record.”  Directive ¶ E3.1.32.1.  See
+ISCR Case No. 11-00970 at 2 (App. Bd. Feb. 28, 2012).  The Board does not review a case de novo.
+The favorable evidence cited by Applicant is not sufficient to demonstrate the Judge’s decision is
+arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 06-11172 at 3 (App. Bd. Sep. 4,
+2007).  After reviewing the record, the Board concludes that the Judge examined the relevant data
+and articulated a satisfactory explanation for the decision, “including a ‘rational connection between
+the facts found and the choice made.’” Motor Vehicle Mfrs. Ass’n of the United States v. State Farm
+Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983) (quoting Burlington Truck Lines, Inc. v. United States,
+371 U.S. 156, 168 (1962)).  “The general standard is that a clearance may be granted only when
+‘clearly consistent with the interests of the national security.’” Department of the Navy v. Egan, 484
+U.S. 518, 528 (1988).  Therefore, the Judge’s ultimate unfavorable security clearance decision is
+sustainable.
+8
+Order
+The Judge’s remand decision is AFFIRMED.
+Signed: Michael Y. Ra’anan            
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett                 
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Concurring Opinion of Administrative Judge James E. Moody
+In my view, the Judge’s original adverse Decision was affirmable.  There is nothing in the
+Remand Decision to change my opinion, insofar as it describes even more extensive misconduct
+than was apparent from the Judge’s original findings of fact.  The adverse conclusions in the
+Remand Decision concerning mitigation are supportable. 
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board

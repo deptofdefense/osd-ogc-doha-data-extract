@@ -1,0 +1,160 @@
+KEYWORD: Guideline F
+DIGEST: The Board has previously noted that it is reasonable for a Judge to expect applicants to
+present documentation about their efforts to resolve debts. As a general proposition, moreover,
+the lack of corroboration is a factor that judges may consider in determining the amount of
+weight that should be given to an applicant’s statements about particular facts.
+CASENO: 15-04851.a1
+DATE: 04/28/2017
+DATE: April 28, 2017
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-04851
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Lawrence A. Ward, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+February 3, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On February 1, 2017, after considering the record, Administrative Judge Eric
+H. Borgstrom denied Applicant’s request for a security clearance.  Applicant appealed pursuant to
+Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following discussion, we affirm the
+Judge’s decision.
+The Judge’s Findings of Fact
+Applicant is a 35-year-old employee of a defense contractor.  He is married and has a minor
+child.  He purchased a home in 2006.  While still owing monthly mortgage payments on that home,
+he purchased a second home in 2012.  His credit report reflected that he immediately ceased
+payments on the first home upon purchasing the second home.  The mortgage loan for the first home
+is in foreclosure status with a past-due balance of $67,000.  Applicant intentionally walked away
+from his financial responsibilities on the first home.  
+Applicant indicated that he consulted an attorney, attempted to sell the first home, sought a
+deed-in-lieu of foreclosure, and applied for a loan modification, but provided no timeline, details,
+or documentation of these efforts.  The record does not reflect whether these efforts occurred before
+or after his decision to purchase the second home and abandon the first home.
+The Judge’s Analysis
+Since the evidence raised Disqualifying Conditions 19(a) “inability or unwillingness to
+satisfy debts” and 19(c) “history of not meeting financial obligations,” the burden shifted to
+Applicant to rebut, explain, extenuate, or mitigate the security concerns.  The mortgage debt remains
+delinquent, and Applicant’s willful default continues to cast doubt on his current reliability,
+trustworthiness, and good judgment.  The nationwide housing crisis may have hindered Applicant’s
+ability to sell his first home and may constitute a circumstance beyond his control, but he made a
+willful and informed decision to cease payments on the loan for the first home when he purchased
+the second home.  There is no evidence he was unable to afford paying on the first home before he
+decided to cease those payments.  He emphasized that the decision to cease loan payments on the
+first home was because it was a losing investment.  His actions constitute a “strategic default” of his
+mortgage loan.1  He failed to provide documentary evidence about his purported attempts to sell his
+house or otherwise resolve the delinquent loan.  He provided insufficient evidence of efforts to
+resolve this delinquent debt and of financial responsibility.   
+Discussion
+Applicant contends that the Judge erred in concluding that Mitigating Condition 20(a)2 does
+not apply.  He argues that the Judge’s analysis of this mitigating condition is inadequate and
+1 The Judge defined “strategic default” as “a decision by a borrower who has the financial means to make
+monthly mortgage payments, but chooses not to do so and, instead, intentionally defaults (i.e., stops making payments)
+on the mortgage loan.”  Decision at 6. 
+2 Directive, Enclosure 2 ¶ 20(a) states: “the behavior happened so long ago, was so infrequent, or occurred
+under such circumstances that it is unlikely to recur and does not cast doubt on the individual’s current reliability,
+trustworthiness, and good judgment[.]”
+consisted of one sentence that his debt remains unpaid.  We note the sentence that Applicant is
+referencing also indicated that “Applicant’s willful default on this loan continues to cast doubt on
+his current reliability, trustworthiness, and good judgement.”  Decision at 5.  In the Appeal Brief,
+Applicant does not challenge the Judge’s conclusion that the default was willful.  Additionally, an
+ongoing, unsatisfied debt is considered recent.  See, e.g.,  ISCR Case No. 07-10575 at 3 (App. Bd.
+Jul. 3, 2008), holding that an unsatisfied debt is a continuing course of conduct for the purpose of
+Mitigating Condition 20(a).   We  find no error in the Judge’s conclusion that Mitigating Condition
+20(a) does not apply to Applicant’s willful default of this significant, ongoing debt. 
+Applicant also contends that the Judge erred in concluding that Mitigating Condition 20(b)3
+does not apply.  He argues that the strategic default occurred due to factors outside of his control,
+specifically the 2008 recession and housing crisis, and that he has taken a number of steps
+unsuccessfully to dispose of the first home.  We do not find Applicant’s arguments persuasive.  He
+purchased the second home in 2012, well after the recession and housing crisis had begun.  In the
+decision, the Judge points out that Applicant stated, “Decision to enter a strategic default scenario
+was a financial decision, not a hardship decision.  Makes more financial sense to take a credit hit and
+lose the home than it does to throw good money at a losing investment for the next 30 year of the
+loan.”  Decision at 2, n. 5, citing Applicant’s statements in his security clearance application. 
+Applicant’s own words undercut a determination that his financial problems arose from conditions
+beyond his control.  In  his argument, Applicant cites to a Hearing Office decision in which the
+Judge rejected Department Counsel’s argument that an applicant’s decision to stop making payments
+on  mortgages was a strategic default.  The Board gives due consideration to that decision; however, 
+Hearing Office decisions are binding neither on other Hearing Office Judges nor on the Board.  See,
+e.g., ISCR Case No. 14-03747 at 3 (App. Bd. Nov. 13, 2015).  Moreover, the cited Hearing Office
+decision is distinguishable because Applicant in the present case has categorized his decision to stop
+making mortgage payments on the first home as a “strategic default.”  We find no error in the
+Judge’s conclusion that Mitigating Condition 20(b) does not apply in this case.
+Applicant further contends that the Judge erred in concluding that Mitigating Condition
+20(d)4 does not apply.  He argues he made a good-faith effort to resolve his mortgage.  In doing so,
+he first claims the Judge erred in concluding “[t]here is no evidence that [Applicant] was unable to
+afford the loan payments on his first home before he decided to cease loan payments and pay only
+the loan payments on his new (second) home.”  Appeal Brief at 6, citing Decision at 5.  He also
+points to his statement in his response to the SOR, “We could not afford the old house payments and
+the new house payment each month.”  Even if the Judge erred in stating there is “no evidence” that
+Applicant was unable to afford the loan payments, it was a harmless error that did not likely change
+the outcome of the case.  See, e.g., ISCR Case No. 08-07258 at 2 (App. Bd. Dec. 29, 2009). We note
+that Applicant has made inconsistent statements about his claim of being unable to pay both
+mortgages by categorizing his termination of the mortgage payments on the first home as a “strategic
+3 Directive, Enclosure 2 ¶ 20(b) states: “the conditions that resulted in the financial problem were largely
+beyond the person’s control (e.g., loss of employment, a business downturn, unexpected medical emergency, or a death,
+divorce or separation), and the individual acted responsibly under the circumstances[.]”
+4 Directive, Enclosure 2 ¶ 20(d) states: “the individual initiated good-faith effort to repay overdue creditors or
+otherwise resolve debts[.]” 
+default” and stating:
+This default was not the result of poor planning and financial hardship.  It was the
+result of a calculated decision about a house that was underwater and showed no
+signs of recovering.  We understood the consequences of the default.  The credit hit,
+the collections agency calls, the ethics of the situation.  It didn’t make financial sense
+to continue paying money on an investment that would never result in a gain so we
+were willing to accept the penalties and chose to walk away from the property. 5    
+Applicant next claims the Judge “categorically dismissed” his good-faith efforts to resolve the debt
+because he did not provide documentary evidence about his efforts to sell the house or otherwise
+resolve the delinquent loan.  Appeal Brief at 7.  Arguing  that nothing in the Adjudicative Guidelines
+require documentary evidence, he contends his statements established the good-faith efforts.  The
+Board, however,  has previously noted that it is reasonable for a Judge to expect applicants to
+present documentation about their efforts to resolve debts.  See, e.g., ISCR Case No. 07-10310 at
+2 (App. Bd. Jul. 30, 2008).  As a general proposition, moreover, the lack of corroboration is a factor
+that Judges may consider in determining the amount of weight that should be given to an applicant’s
+statements about particular facts.  Applicant was responsible for presenting evidence to mitigate
+security concerns that either he admitted or Department Counsel established.  Directive ¶ E3.1.15.
+From our review of the record, we find no error in the Judge’s conclusion that Applicant presented
+insufficient evidence of good-faith payments or other steps taken to resolve the past-due mortgage.
+  
+The balance of Applicant’s arguments amount to claims that the Judge did not consider all
+the evidence or he mis-weighed the evidence.  These arguments, however, are neither enough to
+rebut the presumption that the Judge considered all of the record evidence nor sufficient to show that
+the Judge weighed the evidence in a manner that was arbitrary, capricious, or contrary to law.  See,
+e.g., ISCR Case No. 15-04856 at 2-3 (App. Bd. Mar. 9, 2017).  Additionally, we find no basis for
+concluding the Judge erred in his whole-person analysis.
+The Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of national security.”
+Order
+5 Applicant’s Response to the SOR, Item 1 in Department Counsel’s File of Relevant Material (FORM). 
+The Decision is AFFIRMED.
+Signed: Michael Y. Ra’anan                       
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody                            
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                               
+James F. Duffy
+Administrative Judge
+Member, Appeal Board

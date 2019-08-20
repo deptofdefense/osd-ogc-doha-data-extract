@@ -1,0 +1,172 @@
+KEYWORD: Guideline F
+DIGEST: The Judge’s error regarding Applicant’s current company does not necessitate
+remedial action.  The Judge’s ultimate adverse decision was based a number of conclusions
+independent of the single erroneous comment.  The error was harmless.  Adverse decision
+affirmed.
+CASENO: 11-13529.a1
+DATE: 09/14/2012
+DATE: September 14, 2012
+In Re:
+------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-13529
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Kenneth Saks, Esq.
+2
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On January 20, 2012, DOHA issued a statement of reasons (SOR) advising Applicant
+of the basis for that decision—security concerns raised under Guideline F (Financial Considerations)
+of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On June 8, 2012, after the hearing, Administrative Judge Robert E. Coacher
+denied Applicant’s request for a security clearance.  Applicant timely appealed, pursuant to the
+Directive ¶¶ E3.1.28 and E3.1.30.  
+Applicant raises the following issue on appeal: whether the Judge’s conclusions under
+Guideline F were arbitrary, capricious, or contrary to law.  For the following reasons, the Board
+affirms the Judge’s unfavorable security clearance decision. 
+The Judge made the following findings of fact:  Applicant is a 70-year-old president of a
+defense contractor company.  The SOR alleges seven delinquent debts, two tax liens and two
+judgments.  The total of all his delinquent obligations is $600,112.  
+Applicant started his current company, Co. 2, in 2005.  From 1995 through 2005, Applicant
+was the president and CEO of a prior company, Co. 1.  Applicant relied on government-funded
+contracts to keep this business operating.  Because the contract payments by government agencies
+to Co. 1 were delayed, Applicant hired a “factoring” credit agency to supply a steady monthly cash
+flow by purchasing the company’s accounts receivable.  During 2005, Co. 1 was working on an
+overseas contract that was significantly delayed.  Co. 1 was expecting to earn approximately
+$500,000 upon completion of the contract.  The factoring company became concerned that Co. 1
+would not complete the contract and thus not receive the contract payments.  A receiver was
+appointed for Co. 1, and a Chapter 11 voluntary bankruptcy petition was filed in November 2005.
+In January 2007, the case was converted to a Chapter 7 bankruptcy.  Applicant had personally
+guaranteed many of the loans of Co. 1.  Consequently, even though the company was discharged
+from its liabilities, Applicant was personally responsible for those loans he guaranteed.  Applicant
+was able to pay about $100,000 of the loan guarantee debts.  Those debts are not listed in the SOR.
+A federal tax lien of $397,000 resulted when Co. 1 failed to pay payroll taxes for several
+quarters in 2005.  Applicant did not realize at the time that the taxes were not being paid.  He is in
+the process of negotiating an offer in compromise with the IRS, and he has paid $9,000 toward the
+debt.  Applicant also paid off three smaller debts alleged in the SOR, which total $907.  The
+remaining debts are for Applicant’s loan guarantees.  The aggregate amount of these debts is
+approximately $175,000.  The debts are in various stages of settlement negotiations but are currently
+unresolved.
+Applicant started Co. 2 in 2005 to engage in the same type of business as Co. 1.  He has built
+the business by obtaining contracts with government agencies.  He has 14 employees, and Co. 2
+currently has about $200,000 in the bank and was just awarded a government contract for about
+$96,000.  
+1“[I]nability or unwillingness to satisfy debts[.]”
+2“[A] history of not meeting financial obligations[.]”
+3“[T]he behavior happened so long ago, was so infrequent, or occurred under such circumstances that it is
+unlikely to recur and does not cast doubt on the individual’s current reliability, trustworthiness, or good judgment[.]”
+4“[T]he conditions that resulted in the financial problem were largely beyond the person’s control (e.g., loss
+of employment, a business downturn, unexpected medical emergency, or a death, divorce or separation), and the
+individual acted responsibly under the circumstances[.]”
+5“[T]he person has received or is receiving counseling for the problem and/or there are clear indications that
+the problem is being resolved or is under control[.]”
+6“[t]he individual initiated a good-faith effort to repay overdue creditors or otherwise resolve debts.”
+3
+The Judge reached the following conclusions: Applicant is delinquent on taxes to the IRS.
+He has two judgments against him and owes on the remaining loan guarantee debts.  Therefore he
+was unable or unwilling to satisfy his obligations.  The evidence is sufficient to raise disqualifying
+conditions AG ¶ 19 (a)1 and AG¶ 19(c)2.  The delinquent taxes, judgments, and debts are unresolved
+and ongoing.  He has started a new business, but not addressed many of his financial problems.
+Similar financial problems will recur, since he is still in the same type of business that originally
+incurred the debts.  AG ¶ 20(a)3 is not applicable.  Applicant made a business decision to personally
+guarantee the loans that Co. 1 incurred.  Also, as president and CEO of Co. 1, he was responsible
+to ensure that the payroll taxes got paid.  These were not financial conditions beyond his control.
+AG ¶ 20(b)4 is not applicable.  There is no evidence of financial counseling, and although a few
+debts were paid, the larger obligations remain unpaid, with no firm settlement plan in place.  AG ¶
+20 (c)5 does not apply.  AG ¶ 20(d)6 applies to the debts that were paid.  Applicant’s finances remain
+a concern despite the presence of some mitigation.  
+Applicant asserts that the Judge failed to sufficiently consider the “whole-person” concept,
+that his analysis was “incomplete,” and that he failed to sufficiently consider the mitigating
+circumstances in the case.  More specifically, he argues that the Judge erred in finding against him
+under AG ¶ 19(a) because Applicant’s behavior does not demonstrate an inability or unwillingness
+to satisfy debts.  Applicant fails to demonstrate error.  While Applicant expressed a desire to repay
+his debts, and has managed to make modest payments to retire small debts and slightly lower the IRS
+debt, the record indicates that his overall large debt load remains because he is currently in no
+position to meaningfully reduce it.  Thus, the record clearly reflects Applicant’s inability to satisfy
+his debts and provides a reasonable basis for the Judge’s application of AG ¶ 19(a).  Regarding
+mitigation, despite the debt repayments made by Applicant, the state of the record evidence does not
+mandate a conclusion on the part of the Judge that Applicant has engaged in a good-faith effort to
+repay debts that overrides the government’s security concerns.  Applicant also states that he was the
+victim of circumstances beyond his control.  While certain circumstances that caused Co. 1 to fail
+may have been beyond Applicant’s control, the Judge accurately pointed out that factors more
+directly related to Applicant’s financial arrearages, such as his decision to personally guarantee the
+4
+business loans and his failure to oversee the timely payment of payroll taxes, were matters within
+his control.               
+There is a presumption in favor of regularity and good faith on the part of DOHA Judges as
+they engage in the process of deciding cases.  See, e.g., ISCR Case No. 99-0019 at 5 (App. Bd. Nov.
+22, 1999).  Thus, there is a presumption that the Judge properly considered those mitigating
+conditions in the Adjudicative Guidelines that were applicable to the case.  Similarly, a Judge is
+presumed to have considered all the evidence in the record unless he or she specifically states
+otherwise.  See, e.g., ISCR Case No. 07-00196 at 3 (App. Bd. Feb. 20, 2009).  Applicant fails to
+overcome these presumptions.       
+As the trier of fact, the Judge has to weigh the evidence as a whole and decide whether the
+favorable evidence outweighs the unfavorable evidence, or vice versa.  See, e.g., ISCR Case No. 06-
+10320 at 2 (App. Bd. Nov. 7, 2007).  A party’s disagreement with the Judge’s weighing of the
+evidence, or an ability to argue for a different interpretation of the evidence, is not sufficient to
+demonstrate the Judge weighed the evidence or reached conclusions in a manner that is arbitrary,
+capricious, or contrary to law.  See, e.g., ISCR Case No. 06-17409 at 3 (App. Bd. Oct. 12, 2007).
+When discussing potentially applicable matters in mitigation, Applicant’s appeal brief essentially
+argues for an alternate interpretation of the record evidence.
+Applicant argues that the Judge based his ultimate decision on an inference that has no basis
+in the record evidence.  Specifically, Applicant takes issue with the Judge’s conclusion that similar
+financial problems will recur in the future because Applicant is still in the same type of business
+(with Co. 2) as the type that originally incurred the delinquent debt.  Applicant asserts that although
+Applicant is currently in the same line of business, there is no evidence that he will incur similar
+financial hardships in the future.  Applicant’s argument has merit.  There is no record evidence
+concerning the existence of current financial problems for Co. 2 or the existence of external
+problems with customers or internal business practices of Co. 2 that could lead a reasonable person
+to conclude that Co. 2 is experiencing, or will experience, problems similar to those encountered by
+Co. 1.  The limited amount of evidence available concerning Co. 2 suggests that, although it is a new
+company, it is currently on a firmer financial footing than Co. 1 was during its formative stages.
+Therefore, the Judge’s conclusion that similar financial problems will recur in the future lacks any
+basis in the record evidence. See, e.g., ISCR Case No. 98-0066 at 3 (App. Bd. Aug. 28, 1998).
+Having found error, the Board must assess whether the error necessitates remedial action.
+The Board does not consider individual sentences or passages in a Judge’s decision in isolation, but
+rather will assess those passages in the context of the decision as a whole.  See, e.g., ISCR Case No.
+03-02374 at 3 (App. Bd. Jan 26, 2006).  Here, the Board notes that the Judge based his ultimate
+decision on a number of conclusions independent of his single comment about the presumed
+financial future of Applicant’s Co. 2.  After a consideration of the whole of the Judge’s decision, the
+7The Board notes that the passage found to be in error occurred only in one specific context, namely during the
+Judge’s discussion of the applicability of AG ¶ 20(a).  There is no indication in the Judge’s decision that it had broader
+impact on his analysis.  AG ¶ 20(a) is only one of three mitigating conditions analyzed and ultimately rejected by the
+Judge in the case.  Also, the language in question was not the sole basis of the Judge’s conclusion not to apply AG ¶
+20(a) in Applicant’s favor.    
+5
+Board concludes that the remark was not a principal determinant of the Judge’s ultimate security
+clearance decision.7  Therefore, the error is deemed to be harmless.                                   
+The Board does not review a case de novo.  The favorable evidence cited by Applicant is not
+sufficient to demonstrate the Judge’s decision is arbitrary, capricious, or contrary to law.  See, e.g.,
+ISCR Case No. 06-11172 at 3 (App. Bd. Sep. 4, 2007).  After reviewing the record, the Board
+concludes that the Judge examined the relevant data and articulated a satisfactory explanation for
+his decision, “including a ‘rational connection between the facts found and the choice made.’” Motor
+Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)
+(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The general
+standard is that a clearance may be granted only when ‘clearly consistent with the interests of the
+national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  Therefore, the
+Judge’s ultimate unfavorable security clearance decision is sustainable.
+Order
+The decision of the Judge denying Applicant a security clearance is AFFIRMED.
+Signed: Jeffrey D. Billett      
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: Jean E. Smallin        
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody          
+James E. Moody
+Administrative Judge
+Member, Appeal Board

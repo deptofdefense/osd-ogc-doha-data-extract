@@ -1,0 +1,177 @@
+KEYWORD: Guideline F
+DIGEST: The Judge does not address the extent to which Applicant’s financial problems do not
+explain her failure to have filed her returns at all. Difficulty in meeting financial obligations do
+no provide a plausible excuse to failing to meet an important legal requirement, such as filing
+returns when due. Indeed, the Directive cites failure to file returns as a disqualifying condition in
+and of itself, irrespective of whether the underlying taxes have actually been paid. Favorable
+decision reversed.
+CASENO: 15-03019.a1
+DATE: 07/05/2017
+DATE: July 5, 2017
+In Re:
+---------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-03019
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+John Bayard Glendon, Esq., Deputy Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+November 12, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline F (Financial Considerations) of Department
+of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On March 9, 2017, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Claude Heiny granted Applicant’s request for a security clearance. 
+Department Counsel appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Department Counsel raised the following issues on appeal: whether the Judge’s favorable
+decision ran contrary to the weight of the record evidence and whether the Judge’s whole-person
+analysis was erroneous.  Consistent with the following, we reverse.
+The Judge’s Findings of Fact
+The Judge made the following findings pertinent to the issues raised on appeal:  Applicant
+has been employed by a Defense contractor since mid-2012.  Her annual salary is about $80,000. 
+Applicant and her husband separated in 2003 but are still married.  In 2004 she was fired from a job
+due to inappropriate conduct with another employee.  After that she experienced periods of
+unemployment and at times held down two jobs to provide for her family.
+In her 2012 security clearance application (SCA) Applicant stated that she had not filed
+Federal income tax returns.  In a background interview, she admitted that she had not filed those
+returns for tax years 2006 through 2011.  After her husband left in 2003, she did not have sufficient
+funds withheld from her pay.  This was in order to afford living expenses.  She hired a tax
+professional to assist in filing her returns, although he failed to do so and is no longer in business. 
+She discovered that someone had apparently stolen her identity and received a refund check.  She
+hired another firm that advertises on television but got little results.
+In 2012 she hired a tax company that filed her returns for 2006 through 2011.  She made an
+agreement with the IRS to pay $800 a month toward satisfying her debt.  She entered into another
+installment agreement in 2016 to pay $500 a month.  This will resolve $35,000 in past-due taxes that
+include obligations for 2012 through 2014.  In addition, Applicant owes about $5,000 resulting from
+repossession of a vehicle.  She has offered to settle this debt, although it is beyond the statute of
+limitations.  In addition, she paid off an $8,200 lien for taxes owed in 2002 and 2003.  
+Applicant has been a victim of financial fraud, resulting in her having to open and close five
+checking accounts.  The most recent incident occurred in January 2016, when someone wrote a
+check for $300 on her account.  She has received financial counseling and lives a frugal life.
+The Judge’s Analysis
+Though acknowledging Applicant’s duty to file and pay taxes, the Judge cited to evidence
+that Applicant’s conduct was done to provide for her children.  He cited to evidence of her efforts
+to resolve her tax problems, such as her having resolved a tax lien and her 2016 payment plan with
+the IRS.  In the whole-person analysis, the Judge noted that Applicant is trying to resolve the debt
+resulting from the vehicle repossession.  He stated that she is not living beyond her means and wants
+to address her financial problems.  
+Discussion
+There is a strong presumption against the grant or maintenance of a security clearance.  See
+Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  The
+applicant is responsible for presenting evidence to rebut, explain, extenuate, or mitigate admitted
+or proven facts.  The applicant has the burden of persuasion as to obtaining a favorable decision. 
+Directive ¶ E3.1.15.  The standard applicable in security clearance decisions “is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt concerning personnel being considered
+for access to classified information will be resolved in favor of the national security.”  Directive,
+Enclosure 2 ¶ 2(b). 
+In deciding whether the Judge's rulings or conclusions are erroneous, we will review the
+decision to determine whether:  it does not examine relevant evidence; it fails to articulate a
+satisfactory explanation for its conclusions, including a rational connection between the facts found
+and the choice made; it does not consider relevant factors; it reflects a clear error of judgment; it
+fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  See ISCR Case No. 14-02563 at 3-4 (App. Bd. Aug. 28, 2015).  
+Department Counsel argues that the Judge’s favorable conclusions are not supported by a
+reasonable interpretation of the evidence.  He states that the Judge did not examine Applicant’s
+security-significant conduct as a cumulative whole, thereby impairing his favorable conclusions
+about her judgment and reliability.  
+As Department Counsel argues, the application of Mitigating Conditions does not turn on
+finding simply that one or more apply to the facts of a case.  The Directive requires a Judge to
+consider the entire record in evaluating the extent to which an applicant has met his or her burden
+of persuasion.  See, e.g., ISCR Case No. 14-00321 at 2-3 (App. Bd. Jun. 5, 2015).  Evaluating the
+totality of the evidence in Guideline F cases, even those in which the applicant has actually paid his
+or her debts, requires consideration of the circumstances underlying the debts for what they may
+reveal about the applicant’s judgment and reliability.  See, e.g., ISCR Case No. 14-02394 at 3-4
+(App. Bd. Aug. 17, 2015).  A person who fails repeatedly to fulfill his or her legal obligations does
+not demonstrate the high degree of good judgment and reliability required of those granted access
+to classified information.  See, e.g., ISCR Case 14-06808 at 2 (App. Bd. Nov. 23, 2016).
+We note the Judge’s findings about Applicant’s payment plan with the IRS.  We also note
+his findings about Applicant’s financial difficulties, which had an effect on her tax problems.  These
+were matters that the Judge was required to consider, along with all the other evidence in the record. 
+However, we are persuaded by Department Counsel’s argument that the Decision does not devote
+reasonable attention to evidence that contravenes its favorable conclusion.  See, e.g., ISCR Case No.
+15-02903 at 3 (App. Bd. Mar. 9, 2017) (A Judge is not required to discuss each and every piece of
+record evidence in making a decision, but the Judge cannot ignore, disregard, or fail to discuss
+significant record evidence that a reasonable person could expect to be taken into account in
+reaching a fair and reasoned decision).  For example, Department Counsel cites to Applicant’s
+clearance interview, in which she stated that she had failed to file tax returns for a few years prior
+to 2000, which predated her job loss and marital separation.1  This evidence is not consistent with
+the impression that unfortunate events in the early 2000s led to debt problems that required
+Applicant to prioritize her spending in order to meet the needs of her children, as she presented it
+at the hearing.  More significantly, the Judge does not address the extent to which Applicant’s
+financial problems do not explain her failure to have filed her returns at all.  While difficulty in
+meeting financial obligations may force an applicant to choose the order in which he or she
+addresses unpaid debts, they do not provide a plausible excuse to failing to meet an important legal
+requirement, such as filing returns when due.  Indeed, the Directive cites failure to file returns as a
+disqualifying condition in and of itself, irrespective of whether the underlying taxes have actually
+been paid, as through withholding, etc.  The Judge’s failure to address this circumstance
+significantly impairs his favorable analysis.  Indeed, when discussing this failure, the Judge merely
+cites it as a result of Applicant’s financial problems without giving due consideration to the question
+of whether such problems actually explain or extenuate the failure.  
+As Department Counsel notes, the Judge mitigated Applicant’s concerns through application
+of Mitigating Condition 20(d).  However, the Judge’s treatment of this condition, as it applies to
+Applicant’s tax delinquencies, is conclusory.  He states that Applicant had made a good-faith effort
+to resolve the tax debt but does not address that Applicant had been unable to meet the terms of an
+earlier payment plan, which she terminated after only two months in 2012 due to difficulty in
+meeting the payments.  It is not clear why the Judge concludes that Applicant will be able to meet
+the terms of her current plan, especially in light of evidence that Applicant entered into it after the
+hearing and in light of a paucity of evidence that she has actually made payments.  We have stated
+in the past that promises to resolve debts in the future are not a substitute for an actual track record
+of payment or resolution.    See, e.g., ISCR Case No. 14-04565 at 2 (App. Bd. Sep. 18, 2015).  Given
+the facts of this case, the Decision does not explain how it is that Applicant’s latest payment plan
+constitutes anything more than such a promise of future action.  
+To summarize, we note the Judge’s findings and record evidence that Applicant has a rather
+extensive history of failing to file and/or pay income tax returns.  Her failures go back possibly as
+far as 1996 and are as recent as 2014.2  The record does not show that her failures to have done so
+were due to unfortunate circumstances outside her control.  Rather, her financial problems were
+caused, in significant part, by her own actions, i.e., her having been fired from a job due to
+misconduct.  In any event, as stated above, financial problems do not explain her failure to have filed
+her returns for many years, irrespective of her inability to pay her taxes.  Applicant entered into a
+payment plan with the IRS in 2012 that she could not continue after only a couple of months of
+payment.  Tr. at 65.  Her latest plan came after she received the SOR and indeed after the hearing
+1“[Applicant] has not filed a Federal tax return for income taxes with the Internal Revenue Service (IRS) since
+sometime between 1996 and 2000.  She has not filed or paid income taxes during the last seven years (discrepant).  Her
+husband . . . decided to not have Federal taxes withheld from his paycheck.  She fell out of paying taxes and has not filed
+or paid income taxes since.”  Government Exhibit 5, Interview Summary, at p. 2.  
+2Even at the hearing Applicant was not clear as to the full extent of her tax delinquencies.  “[Q]: When you were
+interviewed, you indicated that you hadn’t filed since sometime between . . . 1996 and 2000. [A]: No, I don’t know if
+I said it like that.  I – what I said was I had not filed, and I wasn’t really sure–I can’t remember verbatim what I said, but
+I do know that when I had my interview . . . I had not filed in years . . . Just like today . . . I couldn’t tell him exactly what
+years.”  Tr. at 63.  
+itself, with the result that there is no evidence of compliance in the record.  See, e.g., ISCR Case No.
+14-01243 at 3 (App. Bd. Jun. 18, 2015) (Timing of debt payments is relevant in evaluating an
+applicant’s case for mitigation).  The Judge did not explain how these facts establish “good-faith”
+under any reasonable interpretation of the Directive.  Neither do these facts support a whole-person
+assessment of good judgment on Applicant’s part sufficient to overcome the concerns raised by her
+many years of delinquent tax filings.  
+After considering the record as a whole, we conclude that the Judge’s favorable analysis
+failed to consider an important aspect of the case.  We also conclude that the evidence, viewed as
+a whole, is not sufficient to meet Applicant’s burden of persuasion under the standard set forth in
+Egan, supra.  To the contrary, the Judge’s decision runs contrary to the weight of the record
+evidence, as Department Counsel argues, and is not sustainable.
+Order
+The Decision is REVERSED.    
+Signed: James E. Moody              
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: William S. Fields             
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                 
+James F. Duffy
+Administrative Judge
+Member, Appeal Board

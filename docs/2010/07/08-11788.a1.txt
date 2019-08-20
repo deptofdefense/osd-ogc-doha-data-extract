@@ -1,0 +1,213 @@
+KEYWORD: Guideline B
+DIGEST: The Directive is subject to general principles of statutory construction.  The
+disqualifying and mitigating conditions are not necessarily most analogous to statutes.  Rather
+they are examples of circumstances to assist in evaluating aspects of an applicant’s case. 
+Disqualifying conditions 7(a) and 7(b) have a significant degree of overlap and one set of
+circumstances may raise security concerns under both conditions. The Executive Order and the
+language of mitigating condition 8(b) should be interpreted as consistent with one another. The
+language in the first is to ensure that a clearance decision does not create a stigma of disloyalty. 
+The second requires Judge to balance an applicant’s ties within the US to his ties to a foreign
+person, organization or country in analyzing the extent to which an applicant might find himself
+in a conflict of interest.  Adverse decision affirmed.
+CASENO: 08-11788.a1
+DATE: 07/28/2010
+DATE: July 28, 2010
+In Re:
+---------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 08-11788
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+2
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Eric J. McNeilus, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On June 10, 2009, DOHA issued a statement of reasons (SOR) advising Applicant of the
+basis for that decision–security concerns raised under Guideline B (Foreign Influence) of Department
+of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.
+On April 28, 2010, after the hearing, Administrative Judge Robert J. Tuider denied Applicant’s
+request for a security clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether Applicant was denied due process;
+whether the Judge erred in his application of the pertinent mitigating conditions; and whether the
+Judge’s adverse security clearance decision is arbitrary, capricious, or contrary to law.  Finding no
+error, we affirm. 
+The Judge made the following pertinent findings of fact: Applicant is a senior technical
+planner working for a Defense contractor.  He was born and raised in Pakistan, where he obtained
+a B.S. in electrical engineering.  He moved to the U.S. in the early 1990s and obtained a M.B.A. He
+lived in another country for a few years, returning to the U.S. in the late 1990s.  
+Applicant’s wife was also born, raised, and educated in Pakistan.  She and Applicant became
+U.S. citizens in the late 2000s.  They have two children, both U.S. citizens.  Applicant and his wife
+are citizens of the U.S., Pakistan, and another country.  
+Applicant has numerous relatives who are citizens and/or residents of Pakistan.  His mother
+lives there, and he speaks with her on the telephone approximately once a week.  He also has two
+brothers living there.  He speaks with one a few times a year and another nearly once a week.
+Applicant also has several sisters who reside in Pakistan and one who lives in the U.S.  Additionally,
+he has several in-laws who live in Pakistan.  He owns a home in that country, valued at $250,000.
+He also owns some commercial real estate there valued at about $50,000.  His net worth in the U.S.
+is about $150,000. 
+Pakistan is a parliamentary federal republic which supported the U.S. in removing the
+Taliban from power in Afghanistan.  However, terrorist groups such as Al-Qaeda operate within
+Pakistan, using the country as a safe haven for planning attacks on the U.S., India, and Europe.
+Pakistan has a poor human rights record.
+Due Process Violation
+ Applicant has raised an issue of due process.  Specifically, he argues that the Judge erred in
+concluding that two Guideline B disqualifying conditions (DC) both applied to Applicant’s case.
+The Judge also concluded that disqualifying condition 7(e) applied.  This condition reads as follows: “a1
+substantial business, financial, or property interest in a foreign country, or in any foreign-owed or foreign-operated
+business, which could subject the individual to heightened risk of foreign influence or exploitation[.]”  Applicant’s due
+process argument does not extend to this provision.  
+Applicant relies on Asiana Airlines v. FAA, 134 F.3d 393, 398 (D.C. Cir. 1998), to the effect that a statute2
+should not be interpreted in such a way as to render its provisions void or superfluous.  See DISCR Case No. 93-1050
+(App. Bd. Dec. 20, 1994), applying principles of statutory construction to the Directive.     
+3
+He argues that the Judge’s analysis renders these two conditions duplicative of each other, working
+to the detriment of Applicant’s case for mitigation.
+The DCs in question are found at Directive, Enclosure 2 ¶¶ 7(a) and (b).   The security1
+concern addressed by 7(a) is as follows: 
+ 
+contact with a foreign family member, business or professional associate, friend, or
+other person who is a citizen or resident in a foreign country if that contact creates
+a heightened risk of foreign exploitation, inducement, manipulation, pressure, or
+coercion.
+7(b), meanwhile, addresses 
+connections to a foreign person, group, government, or country that create a potential
+conflict of interest between the individual’s obligation to protect sensitive
+information or technology and the individual’s desire to help a foreign person, group,
+or country by providing that information.
+Applicant argues that 7(a) covers contact with family members, while (b) addresses broader
+relationships that may create conflicts of interest.  Citing principles of statutory construction,  he2
+argues that “the only individuals who [Applicant] has connections with in Pakistan are his own
+family members.  If paragraph 7(b)–which expressly does not mention family members–applies to
+this situation, then paragraph 7(a) is rendered superfluous, an untenable result.”  He further contends
+that, as a consequence, Applicant was burdened in making his case for mitigation.  “It is entirely
+possible that, if potentially disqualifying condition 7(b) was not considered, [Applicant] may have
+met his burden of proof on mitigating the Government’s security concerns, at least with respect to
+disqualifying condition 7(a).”
+We have considered this argument, in light of the record.  While acknowledging that the
+Directive is subject to general principles of statutory construction, we do not conclude that the
+disqualifying and mitigating conditions are themselves most analogous to statutes.  Rather, they are
+examples both of the kind of circumstances that can give rise to security concerns and of the kind
+that can mitigate them, to assist DOHA personnel in evaluating troubling aspects of an applicant’s
+case.  They are not to be considered exhaustive.  See ISCR Case No. 07-00852 at 4 (App. Bd. May
+27, 2008).  The Directive makes this explicit by stating that security concerns under the various
+“[T]he nature of the relationships with foreign persons, the country in which these persons are located, or the3
+positions or activities of those persons in that country are such that it is unlikely the individual will be placed in a position
+of having to choose between the interests of a foreign individual, group, organization, or government and the interests
+of the U.S.”
+4
+Guidelines include the stated disqualifying conditions, rather than consist solely of them. See, e.g.,
+Directive, Enclosure 2 ¶ 7.    
+Admittedly, the two disqualifying conditions at issue here are not identical in scope. 7(a)
+focuses on contacts with foreign persons that could create a heightened risk of coercion.  7(b)
+concerns relationships with foreign persons, organizations, governments, or countries that pose a risk
+of a conflict of interest.  Regarding the former, a Judge can be expected to examine the nature and
+extent of the relevant contacts, while, with the latter, he or she would consider the nature of the
+relationships at stake.  However, the plain language of these two provisions permits a significant
+degree of overlap, and the same circumstances may in fact raise concerns under both disqualifying
+conditions.  This is especially true regarding family members, persons with whom an applicant may
+well have significant contact and with whom he is bound into lifelong relationships.  See, e.g., ISCR
+Case No. 07-04496 at n. 2 (App. Bd. Oct. 22, 2008), which recognized that foreign family members
+could raise security concerns under both of the disqualifying conditions at issue here.   
+Accordingly, we conclude that there is no error in the Judge’s application of both
+disqualifying conditions 7(a) and (b).  While his having done so could be expected to have affected
+his evaluation of the Applicant’s case for mitigation, we find no reason to believe that Applicant was
+unfairly prejudiced in presenting his case.  Even if the Judge had limited his analysis only to 7(a) and
+(e) (see n. 1 supra), Applicant’s family circumstances and his economic interests in Pakistan are such
+that it is unlikely the Judge would have found the security concerns arising therefrom to have been
+mitigated.  We conclude that the Judge did not apply the disqualifying conditions in such a way as
+to compromise the fairness of the hearing and that Applicant was not deprived of the due process
+rights secured by the Directive.  
+Applicant contends that the Judge erred in not having extended favorable application to
+Directive, Enclosure 2 ¶ 8(a), which sets forth a condition that can mitigate Guideline B security
+concerns.   He states that there is no record evidence that his family in Pakistan knew that he was3
+applying for a clearance; no evidence that he intended to disclose to his family that he had access to
+classified information; and no evidence that his family would be at risk were Applicant to have
+access to classified information.  We have considered this argument in light of the Judge’s findings
+and the record evidence.  The Board has previously held that such factors as relatives’ obscurity or
+the failure of foreign interests to contact those relatives in the past do not provide a meaningful
+measure of whether an applicant’s circumstances pose a security risk.  See ISCR Case No. 07-13696
+at 5 (App. Bd. Feb. 9, 2009).  Neither is the Government required to prove a threat of espionage.
+See, e.g., ISCR Case No. 02-09907 at 7 (App. Bd. Mar. 17, 2004).  Given findings and evidence that
+“[I]n-laws represent a class of persons who are contemplated by the Directive as presenting a potential security4
+risk.  As a matter of common sense and human experience, there is a rebuttable presumption that a person has ties of
+affection for, or obligation to, the immediate family members of the person’s spouse.”  ISCR Case No. 03-26176 at 5
+(App. Bd. Oct. 14, 2005).  
+The presence of terrorist activity in a country is an important consideration in a Foreign Influence case.  ISCR5
+Case No. 05-03250 at 4 (App. Bd. Apr. 6, 2007).  
+“The general standard is that a clearance may be granted only when ‘clearly consistent with the interests of the6
+national security.’”
+“[T]here is no conflict of interest, either because the individual’s sense of loyalty or obligation to the foreign7
+person, group, government, or country is so minimal, or the individual has such deep and longstanding relationships and
+loyalties in the U.S., that the individual can be expected to resolve any conflict of interest in favor of the U.S. interest[.]”
+We must assume that, in promulgating the Directive to implement Executive Order 10865, officials made a8
+determination that the Directive and the Executive Order are compatible.  ISCR Case No. 02-12199 at n. 15 (App. Bd.
+Oct. 7, 2004).  See also Asiana Airlines v. FAA, 134 F.3d at 398, n. 3 supra; and ISCR Case No. 98-0320 at (App. Bd.
+Apr. 8, 1999), citing to the principle of statutory construction that different laws should be interpreted in such a manner
+as to give full force and effect to each, whenever practical.  
+5
+(1) Applicant has numerous relatives and in-laws  in Pakistan with whom he maintains contact; (2)4
+both Applicant and his wife are dual citizens of Pakistan and the U.S.; (3) Applicant has a substantial
+financial interest within Pakistan; (4) Pakistan has a problematic human rights record; and (5)
+terrorist groups operate within Pakistan,  the Judge’s conclusion that ¶ 8 (a) does not apply here is5
+not error.  Similarly, his conclusion that Applicant had not met his burden of persuasion under the
+standard set forth in Department of the Navy v. Egan, 484 U.S. 518, 528 (1988) is sustainable.    6
+Applicant contends that the Judge erred in stating that Applicant’s loyalty is not an issue.
+He cites to Directive, Enclosure 2 ¶ 8(b)  in support of his contention that loyalty is an issue and7
+should have been made a part of the Judge’s analysis.  The challenged statement by the Judge is
+found in that part of the Decision in which the Judge summarizes the policies set forth in the
+Directive.  The Judge quoted Section 7 of Executive Order 10865, included in the Directive at
+Enclosure 1.  This provision states “Any determination under this order adverse to an applicant shall
+be a determination in terms of the national interest and shall in no sense be a determination as to the
+loyalty of the applicant concerned.”  Applicant argues that, despite this language, ¶ 8(b) requires
+consideration of an Applicant’s loyalty and that the Judge failed to do so.  
+ In considering this issue, we note that provisions of the Directive should be interpreted as
+consistent with one another.   The pertinent language in the Executive Order is to ensure that8
+clearance decisions do not create a stigma of disloyalty.  Directive, Enclosure 2 ¶ 8(b), on the other
+hand, requires the Judge to balance an applicant’s ties within the U.S. to his ties to a foreign person,
+organization, or country in analyzing the extent to which an applicant might find himself in a conflict
+of interest.  Accordingly, there is no conflict between the two provisions.  In the case at issue here,
+the correct analysis would entail a balancing of Applicant’s ties or obligations within the U.S. with
+“Although this mitigating condition is partially applicable, it is insufficient to overcome the foreign influence9
+security concerns. [Applicant] has contacts and close relationships with his mother, his siblings in Pakistan, and his sister
+living in the United States, as well as in-laws in [third country].  They all have contacts and a close relationship with
+family members in Pakistan.”  Decision at 10.    
+6
+his ties or obligations to his family members in Pakistan, and the record demonstrates that the Judge
+did so.   9
+Applicant cites some minor errors in the Judge’s decision which are not reflective of the
+findings and conclusions as a whole.  These errors are typographical in nature and thus harmless.
+Applicant argues that the Judge erred by not favorably applying Directive, Enclosure 2 ¶ 8(f) in his
+favor.  Given the quantity of Applicant’s holdings in Pakistan, the Judge’s conclusion was
+reasonable.  Additionally, Applicant cites to a speech by the President.  The text is a prospective
+statement of objectives which does not address the security concerns in Applicant’s case.
+After reviewing the record, the Board concludes that the Judge examined the relevant data
+and articulated a satisfactory explanation for the decision, “including a ‘rational connection between
+the facts found and the choice made’” both as to the mitigating conditions as well as the whole-
+person factors.  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co.,
+463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168
+(1962)).  The Judge’s adverse decision is sustainable on this record.  See Egan, supra. 
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.  
+Signed: Michael Y. Ra’anan          
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett                  
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                  
+James E. Moody
+7
+Administrative Judge
+Member, Appeal Board

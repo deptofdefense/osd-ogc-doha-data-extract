@@ -1,0 +1,325 @@
+KEYWORD: Guideline K; Guideline E
+DIGEST: Criminal investigation report was properly admitted as an official record. Even though
+documents in question were not classified, as alleged in the SOR, they were sensitive and, as
+such, within the scope of Guideline K.  A SOR is required to place an applicant on reasonable
+notice of the allegations against him.  It does not have to satisfy the strict requirements of a
+criminal indictment.  In this case, Applicant’s failure to secure sensitive documents and his
+failure to report the incident were sufficiently alleged in the SOR so as to place him on notice. 
+Adverse decision affirmed.  
+CASE NO: 11-05079.a1
+DATE: 06/06/2012
+DATE: June 6, 2012
+In Re:
+----------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-05079
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On September 12, 2011, DOHA issued a statement of reasons (SOR) advising Applicant
+of the basis for that decision—security concerns raised under Guideline K (Handling Protected
+Information) and Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan.
+2, 1992, as amended) (Directive).  Applicant requested a hearing.  On February 21, 2012, after the
+2
+hearing, Administrative Judge Elizabeth M. Matchinski denied Applicant’s request for a security
+clearance.  Applicant timely appealed pursuant to the Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raises the following issues on appeal: (1) whether the Judge erred in admitting
+documentary evidence over Applicant’s objection; (2) whether the Judge’s conclusions under
+Guideline K are supported by the record evidence; (3) whether the Judge’s conclusions under
+Guideline E are supported by the record evidence; and (4) whether the Judge’s conclusions under
+the whole-person concept are supported by the record evidence.  For the following reasons, the
+Board affirms the Judge’s unfavorable security clearance decision. 
+The Judge made the following findings of fact:  Applicant is 35 years old.  In June 2004,
+while on active duty with the U.S. military, he was serving as a counterintelligence/human
+intelligence specialist in a Middle Eastern country.  His duties included conducting vulnerability
+assessments.  Applicant kept separate notebooks for each assignment in which he recorded his
+observations, usually in shorthand, and he did not conspicuously mark or date them.  Notes were not
+secured, because, according to Applicant, they were unclassified unless combined with information
+regarding terrorist techniques and procedures.  One evening during June 2004, Applicant met a
+Russian woman in a bar.  After consuming seven or eight alcoholic drinks, he invited the woman
+to his hotel room.  While there they engaged in consensual sex.  At one point, Applicant went to the
+bathroom and left the woman alone and unsupervised.  The following morning, after the woman had
+left the room, Applicant discovered he was missing the notebook that he used to take notes regarding
+his vulnerability assessments.  At the time, the notebook contained his sensitive observations
+relating to threat vulnerabilities of U.S. facilities in the area.  He suspected that it had been stolen
+by the Russian woman.  Applicant did not report the incident to any U.S. Government or military
+authorities.  
+In 2008, after being discharged from the military, Applicant pursued civilian employment.
+His new employer sponsored him for SCI access.  In January 2009, during a polygraph examination
+related to his security clearance, Applicant revealed, for the first time, the events involving the loss
+of his notebook in 2004.  Applicant admitted to the polygraph examiner that the information in the
+notebook was considered classified Secret when complied in a report, and he had not reported the
+incident to anyone because he was embarrassed that it happened.  Applicant acknowledged that even
+though he was not certain that his notebook had been stolen by the foreigner, he knew that he had
+lost sensitive information, and that he should have reported the incident to ensure a timely damage
+assessment of the material lost.  In February 2009, Applicant’s TS/SCI access was apparently
+suspended, and he was terminated from his employment because he was denied access to the defense
+agency’s facilities.    
+Applicant is known to be a conscientious, knowledgeable professional by those persons who
+had the opportunity to observe his performance at various times during his career.  
+The Judge reached the following conclusions:  Applicant acknowledged that the
+classification level of the information in his notebook, when reported in his final vulnerability
+assessment, was at the level of “Secret.”  However, it does not necessarily follow that the notes of
+1“[A]ny failure to comply with rules for the protection of classified or other sensitive information[.]”
+2“[S]o much time has elapsed since the behavior, or it happened so infrequently or under such unusual
+circumstances, that it is unlikely to recur and does not cast doubt on the individual’s current reliability, trustworthiness,
+or good judgment[.]”
+3
+his personal observations were classified without reference to other data.  As to whether the notes
+themselves were classified in and of themselves without reference to other data, the evidence is
+inconclusive at best.  Notes were treated like other, non-classified personal information, and left in
+hotel rooms during downtime.  Without proof that the notebook and the notes in it were classified
+in and of themselves, it had not been established that Applicant violated the Navy Security Program
+Regulation provisions cited in the SOR.  
+Likewise, Applicant’s failure to report the loss of the notebook, without proof that it
+contained classified as opposed to sensitive information, does not fall within the reporting
+requirements of the Navy Security Program Regulation provision cited in the SOR.  That being said,
+Applicant clearly understood that he should have reported the loss of his notebook to minimize the
+risks of sensitive information being disclosed to unauthorized persons.  Applicant was negligent in
+failing to adequately protect his sensitive notes, and his failure to report the loss of that sensitive
+information was deliberate.  Guideline K security concerns are not restricted to classified
+information.  It does not take counterintelligence training to appreciate the security risk presented
+by a rendevous with a Russian woman about whom he knew little, if anything, while he was under
+the influence of alcohol and in a foreign locale.  Applicant admitted that he should have reported the
+loss to a counterintelligence officer, who would have likely referred the matter to a
+counterintelligence division.  The fact that Applicant did not report the June 2004 loss until a CI
+polygraph interview in January 2009 is further evidence that he knew that he had violated a
+command rule or practice, if not a specific regulation, concerning proper control of sensitive
+information.  By virtue of his TS/SCI access, Applicant had an individual responsibility to report
+to his cognizant security officer any activities or conduct related to the security guidelines, including
+foreign influence or close associations with foreign nationals, which could conflict with his ability
+to protect classified information from unauthorized disclosure or counterintelligence threats.      
+To the extent that AG ¶ 34(g)1 applies, AG ¶ 35(a)2 is the only Guideline K mitigating
+condition possibly pertinent.  Applicant handled highly classified material for most of his military
+career, and there is no evidence of any inappropriate handling of classified or sensitive information
+apart from the incident at issue.  Nonetheless, his failure to report the loss of sensitive information
+for over four years precludes a conclusion that it happened so long ago or was so infrequent to no
+longer cast doubt on his reliability, trustworthiness, or good judgment.  Reform is not sufficiently
+demonstrated where he continues to rationalize or justify his failure to report the loss or suspected
+loss of sensitive information.  But even if Guideline K is not firmly established because the
+government failed to prove a violation of the Navy Information Security Program Regulations, the
+conduct bears negative implications for his judgment under Guideline E.
+3“Conduct involving questionable judgment, lack of candor, dishonesty, or unwillingness to comply with rules
+and regulations can raise questions about an individual’s reliability, trustworthiness, and ability to protect classified
+information.  Of special interest is any failure to provide truthful and candid answers during the security clearance
+process or any other failure to cooperate with the security clearance process.”
+4“[P]ersonal conduct or concealment of information about one’s conduct that creates a vulnerability to
+exploitation, manipulation, or duress, such as (1) engaging in activities which, if known, may affect the person’s
+personal, professional, or community standing.”
+5‘[C]redible adverse information in several adjudicative issue areas that is not sufficient for an adverse
+determination under any other single guideline, but which, when considered as a whole, supports a whole-person
+assessment of questionable judgment, untrustworthiness, unreliability, lack of candor, unwillingness to comply with rules
+and regulations, or other characteristics indicating that the person may not properly safeguard protected information.”
+6“[T]he individual made prompt, good-faith efforts to correct the omission, concealment, or falsification before
+being confronted with the facts.”
+7“[T]he offense is so minor, or so much time has passed, or the behavior is so infrequent, or it happened under
+such unique circumstances that it is unlikely to recur and does not cast doubt on the individual’s reliability,
+trustworthiness, or good judgment.”
+4
+Under Guideline E, Applicant exercised very poor judgment within AG ¶ 153 by leaving
+sensitive information unattended when a foreign national, about whom he knew little, had
+uncontrolled access.  Suspecting that the foreign national had taken the notebook, Applicant chose
+not to report the loss because he wanted to avoid personal embarrassment, if not censure, for conduct
+inconsistent with the sound judgment expected of someone in his position.  The government
+established its case under AG ¶ 16(e).4  Furthermore, whether he was intoxicated or only “slightly
+buzzed,” Applicant showed poor judgment in consuming seven or eight alcohol drinks and then
+becoming involved with a foreign national, who was essentially a stranger to him, while he was on
+a CI assignment for the U.S. military.  When considered with his failure to timely report the loss of
+the notebook, AG ¶ 16(c)5 is also pertinent.  As for potentially mitigating conditions, AG ¶ 17(a)6
+cannot reasonably be applied, in light of Applicant’s failure to report the loss of the notebook before
+the January 2009 polygraph.  AG ¶17(c)7 also is not pertinent.  Although Applicant has mitigated
+his vulnerability somewhat, it does not completely eliminate the extremely poor judgment he
+displayed in June 2004 and compounded by his failure to disclose the loss of the notebook for over
+four years.  
+Under the whole-person concept, Applicant was a knowledgeable professional who carried
+out his duties with dedication, as his character references attest.  At the same time, this expertise
+makes it especially difficult to mitigate the poor judgment he exhibited in June 2004.  Alcohol may
+well have been a significant factor in him letting down his guard with the Russian female, but it was
+not a factor in his failure to report the loss of the notebook.
+As a threshold issue, Applicant argues that the Judge committed error by introducing certain
+documentary evidence offered by Department Counsel over his objection.  Government Exhibit 3
+was a Naval Criminal Investigative Service Investigation.  Applicant first states that this exhibit was
+obtained through himself when he willingly supplied it as part of the process for clearance
+5
+adjudication.  He then states that the government has not shown any evidence of attempting to obtain
+any evidence from other government agencies when it was clearly within their ability to do so.
+Applicant then states that the Judge erroneously admitted the document since it was not
+authenticated.  Applicant’s arguments do not establish error on the part of the Judge.
+Applicant does not articulate how the source of the evidence is a matter of legal significance.
+Neither does he state with any specificity a theory as to how the fact that the evidence was obtained
+from him provides a basis for excluding the documents in question.  Regarding authentication,
+Directive ¶ E3.1.20 provides that official records created in the regular course of business, other than
+those created or compiled in DoD personnel background reports of investigation, may be received
+and considered by the Administrative Judge without an authenticating witness.  The document in
+question is not a DoD personnel background report of investigation requiring authentication.
+Moreover, since the vast bulk of the evidence contained in the exhibit derives from Applicant
+himself, any concerns about a right of cross-examination or confrontation are largely irrelevant.
+Applicant cites to several perceived administrative irregularities in the polygraph process again
+without establishing how any irregularities, if established, render the exhibit inadmissible.  Without
+clearly stating that the document in question contains inaccuracies, Applicant complains that the
+matters he wrote about in the document were coerced and impossible for the government to prove.
+Applicant provides no details as to how he was coerced or in what respect the document contains
+false or incorrect information.  Regarding the claim of coercion, there is a rebuttable presumption
+that federal officials and employees carry out their duties in good faith.  See, e.g., ISCR Case No.
+07-18065 at 2 (App. Bd. Nov. 18, 2008).  Applicant has failed to overcome this presumption.
+Furthermore, the exclusionary rule does not apply in DOHA proceedings.  See, e.g., ISCR Case No.
+02-12199 at fn 7 (App. Bd. Aug. 8, 2005).  The Judge did not err by admitting Government Exhibit
+3.      
+Applicant argues that the Judge’s decision contains a clear error of law in that it found a
+violation of Guideline K despite also finding that he did not violate any rules or regulations
+concerning the handling of classified or sensitive information.  Applicant states that the Judge’s
+application of Guideline K, which on its face cannot be violated unless there is an express finding
+that Applicant failed to comply with some rule or regulation, was arbitrary and capricious.  He
+asserts that, in a departure from the plain language of Guideline K, the Judge’s decision found a
+violation of Guideline K based on the fact that the information in his notebook was sensitive (as
+opposed to classified) and that Guideline K somehow imposes an obligation to protect, or report the
+loss of, such sensitive information.  
+Applicant’s arguments correctly note that Department Counsel did not establish its case
+under the SOR as written.  After a careful consideration of the evidence, some of which was
+inconclusive,  the Judge concluded that Applicant’s entries in his notebook, standing alone, were
+sensitive in nature but did not rise to the level of classified information.  The Judge found that the
+four specific provisions of the Navy Information Security Program Regulation cited in the SOR
+pertained only to classified information.  The mere fact that Department Counsel did not produce
+substantial evidence to establish the allegations set forth in the SOR to the letter does not end the
+inquiry, however.  Rather, the question becomes, did Department Counsel produce substantial
+6
+evidence of security significant conduct as described under Guideline K, notwithstanding the failure
+to establish every factual allegation listed thereunder.
+Applicant states that Guideline K itself does not prohibit the loss of classified or sensitive
+information, but rather is triggered only where there has been a violation of a rule or regulation
+concerning such information.  Applicant’s assertion that a case against him under Guideline K can
+only be established by a showing that he violated a specific rule or regulation relies on an
+interpretation of Guideline K that is too narrow.  Facially, the language and stated scope of
+Guideline K do not lend themselves to the restricted interpretation proffered by Applicant.  By its
+plain language, Guideline K acknowledges the need to protect sensitive as well as classified
+information, notwithstanding the fact that many more rules and regulations have been promulgated
+to govern the handling of the latter as opposed to the former.  Much conduct that is antithetical to
+the protection of classified or sensitive information may not be contemplated by specific rules or
+regulations.  It need not be.  Security significant conduct may be ascertained through the application
+of common sense with reference to the broad, overall goal of protecting such information.  See ISCR
+Case No. 07-00852 at 4 (App. Bd. May 27, 2008)(In analyzing cases before them, Judges must be
+guided by common sense and with a view toward making a reasoned determination consistent with
+the interests of national security).
+Applicant’s complaint that the Judge assumed that Guideline K imposes a general prohibition
+against the loss of sensitive information is misplaced.  The Adjudicative Guidelines are not criminal
+statutes.  The Judge’s reading of the Guideline recognizes that it is designed, in part, to address
+culpable conduct that results in the loss of classified or sensitive information irrespective of whether
+the conduct is covered by specific rules and regulations.  Such a reading is fair and reasonable.
+While Judges do not have unfettered discretion in this area, and the facts and circumstances of each
+individual case must be evaluated, Guideline K should be interpreted broadly to further the
+government’s interest in protecting classified and sensitive information.  The Board will not interpret
+provisions of the Directive in a manner that would undermine the effectiveness of the industrial
+security program in protecting the national security.  See DISCR Case No. 87-2107 at 7 (App. Bd.
+Oct. 25, 1990).  
+In this case, the SOR allegation under Guideline K clearly references Applicant’s actions in
+failing to safeguard notes transcribed by him while on official duties.  The gravamen of the case
+against him is clearly his actions in becoming intoxicated, inviting a Russian woman into his hotel
+room, failing to secure sensitive notes he had in his possession at the time, and failing to report the
+loss of said notes to the appropriate authorities.  While there was no evidence that a specific rule or
+regulation was violated, it cannot seriously be argued that the conduct engaged in by Applicant
+lacked security significance.  Applicant hid the conduct for several years.  Once the government
+found out about the incident, Applicant lost his access to classified information.  When Applicant
+disclosed the information, he acknowledged that it was wrong of him not to have disclosed it in a
+timely fashion.  These facts are indicative of a general proscription against Applicant’s conduct and
+provide evidence that the conduct was a significant deviation from accepted standards of conduct.
+The fact that Department Counsel did not establish a violation of the regulatory provisions
+7
+enumerated in the SOR is not dispositive of the issue.  The Judge did not err by concluding
+Department Counsel established its case under Guideline K.              
+   Similarly, Applicant argues that the Judge’s findings and conclusions under Guideline E
+were flawed because the SOR premised the security significant conduct under that Guideline on
+violations of rules and regulations.  He argues that if the government had wanted to proceed
+generally under Guideline E, it should have made this clear in the SOR.  To the extent that Applicant
+is attacking the legal sufficiency of the Judge’s findings and conclusions under Guideline E, for the
+reasons articulated in the preceding paragraphs, Applicant’s assertions do not demonstrate error.
+Also,  Applicant concedes in his brief that an adverse finding under Guideline E does not require
+a finding that some rule or regulation has been violated.
+Applicant maintains that because of the specific wording of the SOR, it did not put him on
+fair notice that he would need to prepare a defense “based on all of the other factors and conduct that
+can constitute a Guideline E charge.”  He states that the alleged violation under Guideline E was
+based on alleged violations of rules and regulations, and he prepared for, defended himself and
+prevailed on that very issue.  He argues that it was arbitrary and capricious and a clear violation of
+due process for the government to tell him that it would be proceeding under one theory in order to
+induce him to focus his defense on that theory, and then for the government to come up with an
+entirely new theory, which he had no notice he needed to defend, as to why Guideline E was
+violated.  Applicant’s arguments in this regard lack merit.
+While an applicant is entitled to receive an SOR placing him on reasonable notice of the
+allegations the government is making against him, an SOR is an administrative pleading that is not
+required to satisfy the strict requirements of a criminal indictment, and it does not have to allege
+every possible fact that may be relevant at the hearing.  See, e.g., ISCR Case No. 03-20538 at 2
+(App. Bd. Jul. 5, 2006).  Nor is an SOR, which pleads facts and relevant portions of the Adjudicative
+Guidelines, required to indicate what arguments Department Counsel might make at a hearing, or
+to anticipate every theory that a Judge might utilize to decide a case.  The facts in this case are not
+complicated.  They involve only the circumstances surrounding a single incident of lost sensitive
+information and Applicant’s failure to report the loss.  Considering the record as a whole, the Board
+concludes that the SOR issued to Applicant placed him on adequate notice of the allegations being
+made against him.  Furthermore, Applicant does not indicate with any precision precisely how he
+was hindered from preparing a defense to the allegations.  A review of the hearing transcript does
+not leave the Board with the impression that the SOR prejudiced in any identifiable way Applicant’s
+ability to prepare for the hearing, his ability to participate in the hearing, his ability to raise
+objections or make arguments on his behalf, or his ability to present evidence for the Judge to
+consider in his case.  Given the SOR allegations against Applicant and the manner in which the
+hearing was conducted, Applicant was on adequate notice as to the issue of security concern.     
+8Applicant’s brief references Guideline K mitigating conditions, but the sole citation (and accompanying
+discussion) is to AG ¶ 17(c), a Guideline E mitigating condition.
+9Along these lines, Applicant argues that it was improper for the Judge to hold against him his refusal to accept
+responsibility for his actions because, he claims, he did so in the context of an “adversarial” proceeding where he was
+entitled to vigorously defend himself against charges he believed were without merit.  Nothing prevented Applicant from
+“defending” himself in any manner he deemed appropriate.  It was, however, well within the Judge’s purview to
+characterize any evidence he chose to present, as long as that characterization was supported by substantial evidence.
+Moreover, there is evidence in the record indicating that Applicant tended to minimize his conduct during interviews
+taking place prior to the hearing.    
+8
+Applicant asserts that the Judge did not properly apply the Guideline E mitigating factors or
+the whole-person concept.8  He argues that all four prongs of AG ¶ 17(c) are satisfied, principally
+the passage of time since the incident.  He also argues that under the whole-person concept, the 2004
+incident is properly viewed as an isolated incident in an otherwise illustrious career.  Applicant
+asserts that these matters should have been weighed more heavily in his favor.  The Board does not
+find error.  The Judge acknowledged Applicant’s history of successfully handling classified and
+sensitive information throughout his career, but then concluded that his failure to report the loss of
+the sensitive information for over four years precluded a finding that it happened so long ago or was
+so infrequent as to no longer cast doubt on his reliability, trustworthiness, or good judgment.  As the
+trier of fact, the Judge has to weigh the evidence as a whole and decide whether the favorable
+evidence outweighs the unfavorable evidence, or vice versa.  See, e.g., ISCR Case No. 06-10320 at
+2 (App. Bd. Nov. 7, 2007).  The Board concludes that the Judge appropriately weighed the
+mitigating evidence offered by Applicant against the seriousness of the disqualifying conduct and
+adequately discussed why the disqualifying conduct established under Guideline E was not mitigated
+and why Applicant’s evidence had not overcome the government’s concerns under the whole-person
+concept.9 
+The Board does not review a case de novo.  The favorable evidence cited by Applicant is not
+sufficient to demonstrate the Judge’s decision is arbitrary, capricious, or contrary to law.  See, e.g.,
+ISCR Case No. 06-11172 at 3 (App. Bd. Sep. 4, 2007).  After reviewing the record, the Board
+concludes that the Judge examined the relevant data and articulated a satisfactory explanation for
+her decision, “including a ‘rational connection between the facts found and the choice made.’”
+Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983) (quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962)).  “The
+general standard is that a clearance may be granted only when ‘clearly consistent with the interests
+of the national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  Therefore,
+the Judge’s ultimate unfavorable security clearance decision is sustainable.
+9
+Order
+The decision of the Judge denying Applicant a security clearance is AFFIRMED.
+Signed: Michael Y. Ra’anan        
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett              
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: William S. Fields           
+William S. Fields
+Administrative Judge
+Member, Appeal Board

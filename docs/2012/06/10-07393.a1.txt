@@ -1,0 +1,142 @@
+1The file copy of the SOR is undated.  The July date comes from the Decision at 2.
+KEYWORD: Guideline F
+DIGEST: Judge’s finding that Applicant probably did not owe the deficiency resulting from the
+foreclosure sale of her home was not based upon substantial record evidence.  Even if a debt is
+unenforceable under state law, a Judge must still consider the underlying circumstances. 
+Favorable decision remanded.  
+CASE NO: 10-07393.a1
+DATE: 06/12/2012
+DATE: June 12, 2012
+In Re:
+----------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 10-07393
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Braden M. Murphy, Esq., Department Counsel
+FOR APPLICANT
+Julian Roberts, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On or about July 12, 2011,1 DOHA issued a statement of reasons (SOR) advising
+Applicant of the basis for that decision–security concerns raised under Guideline F (Financial
+Considerations) of Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).
+Applicant requested a hearing.  On February 16, 2012, after the hearing, Administrative Judge
+Michael H. Leonard granted Applicant’s request for a security clearance.  Department Counsel
+appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+2Directive, Enclosure 2 ¶ 20(c): “the person has received or is receiving counseling for the problem and/or
+there are clear indications that the problem is being resolved or is under control[.]”
+3Directive, Enclosure 2 ¶ 20(d): “the individual initiated a good-faith effort to repay overdue creditors or
+otherwise resolve debts[.]” 
+2
+Department Counsel raised the following issues on appeal: whether the Judge erred in his
+findings of fact and whether the Judge’s favorable security clearance decision was arbitrary,
+capricious, or contrary to law.  Consistent with the following, we remand.  
+Facts  
+The Judge made the following pertinent findings of fact: In 2007, Applicant purchased a
+house in a community about 55 miles from her residence, though in the same state.  She purchased
+it as a future retirement home and, pending retirement, she used it as rental property.  She financed
+the purchase with first and second mortgage loans, both from the same lender.  Her rental efforts did
+not result in a positive cash flow, and she sometimes had no renters at all.  
+In 2010, both loans were more than 120 days late, and she had past-due balances.  She
+attempted to work out a modification, and hired a lawyer to assist in this effort.  The lender placed
+her in a trial period, during which she was required to make increased payments, but she was not
+able to continue.  By March 2011, the first loan was in foreclosure and the second was past due (the
+lender subsequently charged off this loan.)  The foreclosure sale resulted in a sales price
+substantially lower than the amount owed on the loan.  Applicant has received no notice or
+paperwork to the effect that she owes the deficiency.  The Judge took administrative notice that
+Applicant’s house is in a state with an anti-deficiency statute, meaning that the lender may not seek
+satisfaction of the deficiency from Applicant’s other assets.   
+The SOR alleged three other debts.  Applicant has paid one of them in full, settled another,
+and has established a repayment plan for the third.  Her current financial situation is stable.  She
+provides assistance to an elderly father and to a disabled adult nephew.  
+In the Analysis, the Judge concluded that Applicant had mitigated the security concerns
+arising from the three debts that had been resolved or were in the process of resolution.  He also
+stated that “it is most probable that she owes nothing more on the loans under the state’s
+antideficiency statute.” Decision at 7.  He concluded that, given these circumstances, Applicant’s
+financial problems are either resolved or are under control2  and that she has demonstrated a good-
+faith effort to pay her creditors.3  He concluded Applicant had met her burden of persuasion
+regarding mitigation.
+Discussion
+Once a concern arises regarding an Applicant’s security clearance eligibility, there is a strong
+presumption against the grant or maintenance of a security clearance.  See Dorfmont v. Brown, 913
+4This statement is located in the Analysis rather than in the Findings section of the Decision.  We will treat
+a finding as such regardless of where it appears in the Decision.  See, e.g., ISCR Case No. 03-23829 at 3 (App. Bd.
+Apr. 27, 2007).  
+3
+F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  After the Government presents
+evidence raising security concerns, the burden shifts to the applicant to rebut or mitigate those
+concerns.  See Directive ¶ E3.1.15.  In rendering a final decision, an “agency must examine the
+relevant data and articulate a satisfactory explanation for” the decision, “including a ‘rational
+connection between the facts found and the choice made.’” Motor Vehicle Mfrs. Ass’n of the United
+States v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines,
+Inc. v. United States, 371 U.S. 156, 168 (1962)).  The standard applicable in security clearance
+decisions “is that a clearance may be granted only when ‘clearly consistent with the interests of the
+national security.’” Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”  Directive, Enclosure 2 ¶ 2(b). 
+In deciding whether the Judge's rulings or conclusions are erroneous, the Board will review
+the Judge's decision to determine whether: it does not examine relevant evidence; it fails to articulate
+a satisfactory explanation for its conclusions, including a rational connection between the facts
+found and the choice made; it does not consider relevant factors; it reflects a clear error of judgment;
+it fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  See ISCR Case No. 03-22861 at 2-3 (App. Bd. Jun. 2, 2006).
+Department Counsel contends that the Judge’s finding that Applicant probably has no further
+liability on the two mortgages due to the operation of state law is erroneous.4  We examine a Judge’s
+findings to determine if they are supported by substantial record evidence, that is, “such relevant
+evidence as a reasonable mind might accept as adequate to support a conclusion in light of all the
+contrary evidence in the same record.”  Directive ¶ E3.1.32.1.  See ISCR Case No. 11-00970 at 2
+(App. Bd. Feb. 28, 2012).  
+The Judge’s favorable decision was based, in large measure, upon this challenged  finding.
+However, the record contains no evidence to support it.  Applicant did not raise the issue of state
+law, testifying only that she did not believe that she owed the money, “but if [the lender] produce[s]
+anything that I do, I will pay it.”  Tr. at 61.  Her response to the SOR asserts that both mortgage
+debts had been extinguished, but it does not specify her reason for thinking so–antideficiency statute,
+debt forgiveness by lender, etc.  Response to SOR, September 1, 2011, at 4.  Neither did Applicant’s
+attorney raise the issue during the hearing.  In any event, the Judge’s having taken notice of an
+unspecified antideficiency statute, in and of itself, is not sufficient to demonstrate that Applicant’s
+circumstances are such that the two mortgage debts had been discharged by operation of law.  See,
+e.g., ISCR Case No. 08-09480 at 3 (App. Bd. Mar. 17, 2010).  Neither is there any evidence to
+demonstrate that an anti-deficiency statute has been specifically applied to the mortgages or that the
+lender had forgiven these debts.  The Judge’s finding that Applicant “most probably” does not owe
+the deficiency is not supported by substantial record evidence.
+4
+Department Counsel also argues that the Judge’s mitigation analysis was flawed.  He
+contends that the Judge’s unsustainable finding that Applicant probably did not owe the mortgage
+debts resulted in an oversimplified decision, one which did not take into account the totality of the
+record evidence.  We find this argument persuasive.  The Judge’s analysis did not address the
+circumstances underlying Applicant’s mortgage debt, nor the sufficiency of her response to that
+debt.  A security clearance proceeding is aimed at evaluating an applicant’s judgment, reliability,
+and trustworthiness.  Even if a delinquent debt is unenforceable under state law, a Judge must
+consider the facts and circumstances surrounding an applicant’s conduct in incurring and failing to
+satisfy the debt in a timely manner.  See, e.g., ISCR Case No. 01-09691 at 3 (App. Bd. Mar. 27,
+2003).  As it stands, the Decision fails to articulate a satisfactory explanation for its ultimate holding.
+ See ISCR Case No. 03-22861, supra.  Accordingly, we remand the case to the Judge for a new
+decision, consistent with the above.
+Order
+The Judge’s favorable security clearance decision is REMANDED.    
+Signed: Jeffrey D. Billett             
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody            
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+SEPARATE OPINION OF ADMINISTRATIVE JUDGE MICHAEL Y. RA’ANAN
+I concur with my colleagues in their analysis of the errors below.  I differ only on the matter
+of disposition.  Applicant has failed to meet her burden as to mitigation.  Therefore, I conclude that
+the case should be reversed.  
+Signed: Michael Y. Ra’anan            
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board

@@ -1,0 +1,133 @@
+KEYWORD: Guideline m; Guideline e
+DIGEST: Ineffective assistance of counsel is not a basis for appeal.  DOHA proceedings are civil
+not criminal.  Adverse decision affirmed.
+CASENO: 07-06332.a1
+DATE: 05/09/2008
+DATE: May 9, 2008
+In Re:
+------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 07-06332
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+Eric Borgstrom, Esq., Department Counsel
+FOR APPLICANT
+Pro Se
+ The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On July 27, 2007, DOHA issued a statement of reasons advising Applicant of the basis
+for that decision—security concerns raised under Guideline M (Misuse of Information Technology
+2
+Systems) and Guideline E (Personal Conduct) of Department of Defense Directive 5220.6 (Jan. 2,
+1992), as amended (Directive).  Applicant requested a hearing.  On February 6, 2008, after the
+hearing, Administrative Judge Matthew E. Malone denied Applicant’s request for a security
+clearance.  Applicant timely appealed pursuant to the Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal:  whether Applicant’s allegation of
+ineffective assistance of counsel constitutes error; whether Department Counsel’s introduction of
+certain evidence was in bad faith and therefore a violation of due process; and whether the Judge
+committed error in his findings and conclusions.  
+The Judge made the following factual findings:  Between March 2005 and May 2006,
+Applicant was employed by a defense contractor as an information technology technician.  In
+addition to his normal duties, Applicant offered to develop a computer program to help the
+contractor manage its projects.  Applicant’s program contained passwords and codes, including
+source and expiration codes, which the company had not required and which Applicant did not
+initially share with his employer.  At one point, an expiration code triggered automatically and
+caused a database to stop working.  Applicant was subsequently told he would be fired if he did not
+supply the passwords and codes to his employer, which he had initially refused to do.  At another
+point, Applicant deliberately deleted a folder containing some of the codes, although he was able to
+reconstruct the codes during the next ten days.  Applicant eventually provided some of the
+information after he was reminded that he had signed a Patent and Trade Secret Agreement which
+required him to do so.  Applicant was let go as part of a reduction in force.  
+In March 2006, Applicant filed a complaint against his employer alleging discrimination,
+harassment, and other types of misconduct by his supervisors.  After he was let go, Applicant filed
+a complaint alleging that he lost his job in retaliation for his earlier complaint.  Applicant testified
+that his complaints were still being investigated, but in September 2006 an investigation by the
+Department of the Army concluded that there was no basis for Applicant’s allegations of wrongdoing
+by his supervisors.  Decision at 3.  In April 2007, the Army Inspector General concluded that
+Applicant lost his job due to reduced manpower needs and Applicant’s unprofessional conduct.
+Decision at 4. 
+In his appeal brief, Applicant repeats the arguments he made at the hearing.  His appeal also
+contains a series of e-mails, including an e-mail exchange in November 2007 between Applicant and
+the Government Accountability Office (GAO).  To the extent the brief contains evidence not
+presented at the hearing, it proffers new evidence, which the Board may not consider on appeal.  See
+Directive ¶ E3.1.29.
+Ineffective assistance of counsel is not a basis for appeal.  DOHA proceedings are civil, not
+criminal, in nature, and the ineffective assistance of counsel doctrine does not apply to them.  See,
+e.g., ISCR Case No. 98-0515 at 3 (App. Bd. Mar. 23, 1999); ISCR Case No. 96-0127 at 2 (App. Bd.
+Jul. 29, 1997).  The actions or inactions of Applicant’s hearing lawyer do not provide a basis for the
+Board to conclude that the Judge’s decision should be reversed or remanded.  See, e.g., ISCR Case
+No. 01-07629 at 2-3 (App. Bd. Apr. 5, 2002).
+“. . . the decision was based off of submitted evidence that may or may not have pertained to my Federal Fraud1
+cases and also all evidence submitted by the prosecution was not presented in its full process leading the administrative
+judge not to believe my testimony when given.”
+The complaints were not part of the SOR allegations against Applicant.  However, Applicant contends that the2
+complaints at least indirectly caused the dispute with his employer which, in his view at least, led to the SOR allegations.
+3
+ 
+While the language in Applicant’s appeal brief is not clear, it appears that he is arguing that
+Department Counsel acted in bad faith in introducing certain evidence pertaining to Applicant’s two
+complaints against his employer and that Applicant was thereby denied due process.   There is a1
+rebuttable presumption that federal officials and employees carry out their duties in good faith.  See,
+e.g., ISCR Case No. 03-21329 at 1 (App. Bd. Sep. 25, 2006).  A party seeking to rebut that
+presumption has a heavy burden of persuasion on appeal.  Applicant has not met that burden,
+because he has not identified anything in the record that suggests a basis for a reasonable person to
+conclude that Department Counsel acted improperly.  Applicant’s two complaints, one to GAO in
+March 2006 and one to the DoD IG in April 2007, were a source of confusion.   It appears that the2
+GAO complaint was investigated at least in part by the Inspector General of the Army (Army IG).
+Among the government’s exhibits, Department Counsel submitted documents stating that the
+investigation of the first complaint by the Army IG was closed, at least as to the issues listed, and
+that the investigation by the DoD IG was closed.  Department Counsel gave copies of those
+documents to Applicant before the hearing.  Applicant had the opportunity to refute those
+documents.  Applicant also had the opportunity to supplement the record if he felt that Department
+Counsel’s documentary submissions were incomplete or misleading.  It appears that Applicant had
+written evidence from GAO before his hearing that the investigation of his first complaint was still
+ongoing, but he did not submit it.  Furthermore, when Applicant testified that the GAO investigation
+was still open, he did not indicate that he had documentation for his assertion.  Applicant also states
+that he was assured by two sources that the investigation of the second complaint was still open, but
+he did not document or submit that information for the hearing.  Applicant has not demonstrated
+denial of due process.     
+Applicant cites sections from the Judge’s decision which he asserts contain  errors.  Applicant
+does identify one factual error:  the Judge stated that in 2007 Applicant filed a complaint with the
+Army IG, while Applicant actually filed that complaint with the DoD IG.  That error is harmless,
+since that fact alone would not affect the Judge’s ultimate conclusions.  Applicant states his
+disagreement with other portions of the Judge’s decision, but those portions involve the Judge’s
+characterization and weighing of the evidence.  Applicant’s explanations of his actions were relevant
+and material evidence that the Judge had to consider.  However, the Judge was not bound to accept
+Applicant’s explanations at face value.  As the trier of fact, the Judge had to consider Applicant’s
+statements in light of the record evidence as a whole.  See, e.g., ISCR Case No. 01-20579 at 5 (App.
+Bd. Apr. 14, 2004).  The fact that Applicant does not agree with the Judge’s findings and
+conclusions, or can offer an alternative interpretation of the record evidence, does not establish error
+on the part of the Judge. 
+4
+The Board has examined the Judge’s decision in light of the record as a whole.  The Judge
+has drawn “a rational connection between the facts found” and his adverse decision.  See Motor
+Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins. Co.,463 U.S. 29, 43 (1983)
+(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168 (1962).  The Judge’s
+finding that Applicant wrongfully denied his employer and the U.S. Army access to a necessary
+computer program and his ultimate conclusion that Applicant was ineligible for a security clearance
+are sustainable. 
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.
+Signed: Jeffrey D. Billett      
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed Jean E. Smallin         
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: William S. Fields      
+William S. Fields
+Administrative Judge
+Member, Appeal Board   
+  
+     

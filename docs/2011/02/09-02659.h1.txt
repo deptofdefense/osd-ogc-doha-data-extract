@@ -1,0 +1,371 @@
+Item 4.1
+Item 1.2
+1
+                                                                     
+                               DEPARTMENT OF DEFENSE
+                DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+)       ISCR Case No. 09-02659
+)
+)
+Applicant for Security Clearance )
+Appearances
+For Government: Daniel F. Crowley, Esquire, Department Counsel
+For Applicant: Pro se
+______________
+Decision
+______________
+WHITE, David M., Administrative Judge:
+Applicant was convicted of Driving Under the Influence in 1996 and 2008. He
+connected classified work stations to an unclassified network in violation of company
+policies and security regulations in 2006 and 2007. The evidence is insufficient to
+mitigate resulting security concerns. Based upon a review of the case file, pleadings,
+and exhibits, eligibility for access to classified information is denied. 
+Applicant submitted a security clearance application on May 1, 2007.  On1
+October 20, 2009, the Defense Office of Hearings and Appeals (DOHA) issued a
+Statement of Reasons (SOR) to Applicant, detailing security concerns under Guidelines
+M (Use of Information Technology Systems), G (Alcohol Consumption), and K (Handling
+Protected Information).  The action was taken under Executive Order 10865,2
+Safeguarding Classified Information within Industry (February 20, 1960), as amended;
+Department of Defense Directive 5220.6, Defense Industrial Personnel Security
+Item 2.3
+The Government submitted 16 Items in support of the SOR allegations. 4
+Item 4.5
+Item 2.6
+Items 15 and 16.7
+Item 5.8
+2
+Clearance Review Program (January 2, 1992), as amended (Directive); and the
+adjudicative guidelines promulgated by the President on December 29, 2005, and
+effective within the Department of Defense for SORs issued after September 1, 2006. 
+Applicant answered the SOR in writing on November 2, 2009, and requested that
+his case be decided by an administrative judge on the written record without a hearing.3
+Department Counsel submitted the Government’s written case on August 10, 2010. A
+complete copy of the File of Relevant Material (FORM)  was provided to Applicant, and4
+he was afforded an opportunity to file objections and submit material in refutation,
+extenuation, or mitigation within 30 days of his receipt of the FORM. 
+Applicant signed the document acknowledging receipt of his copy of the FORM
+on August 16, 2010, and returned it to DOHA. He provided no further response to the
+FORM within the 30-day period, did not request additional time to respond, and
+expressed no objection to my consideration of the evidence submitted by Department
+Counsel. I received the case assignment on October 26, 2010.
+Findings of Fact
+Applicant is a 60-year-old employee of a defense contractor, where he has
+worked since 1997 as a media data technician. He has held a security clearance
+throughout this employment. He is divorced. He has no prior military service.  In his5
+response to the SOR, he admitted each allegation.  Applicant’s admissions, including6
+his responses to DOHA interrogatories,  are incorporated in the following findings.7
+During December 1996 Applicant was arrested and charged with Driving Under
+the Influence of Alcohol/Drugs (DUI), and Careless Driving. He pled guilty to both
+charges, and on December 27, 1997, he was sentenced to 90 days in jail (all
+suspended); 90 days unsupervised probation; fined $525; and ordered to pay $703 in
+fees and costs, and to attend and complete DWI school.8
+After his 1996 DUI, Applicant continued to drink two to three beers a day, but did
+not drink and drive. In October 1998, Applicant voluntarily entered a four-week inpatient
+alcohol rehabilitation program. He said that he was never formally diagnosed with
+Alcohol Abuse or Alcohol Dependence, but sought the treatment to help him stop
+Item 15 at 7; Item 16.9
+Item 8; Item 9; Item 10.10
+Item 11.11
+Item 15 at 5; Item 16. I take notice that March 20 was a Tuesday, while Applicant described the event as12
+having taken place on a Friday.
+Item 2 at 4; Item 11. 13
+Item 7.14
+3
+drinking because it was causing problems in his marriage of 28 years. Applicant did not
+drink alcohol again until sometime in late 2000, when he and his wife divorced. From
+then until his next DUI arrest, in February 2008, he would drink four to five beers a day,
+usually at home. He said he stopped again after that arrest, at least until September 5,
+2008.9
+On October 12, 2006, Applicant mistakenly connected a classified workstation to
+his company’s unclassified network. He was fully aware of the potential serious setback
+to the facility if its operational data processing and 43 storage hard drives had been
+compromised. His reactions upon discovering his error prevented a serious security
+violation, but he failed to notify management of the potential compromise of classified
+data until the next day. This delay in reporting directly violated known standard
+procedures, and caused a considerable amount of time and effort to be expended in
+assessing the possible extent of compromise to the systems during the overnight delay.
+Applicant was suspended without pay for one day, and cautioned to correct his
+misconduct.10
+On March 20, 2007, Applicant again violated standard operating procedures and
+company security policies by patching multiple classified workstations onto the
+unclassified network. As noted above, he was fully aware of the potential seriousness of
+such a compromise. After investigation, his company determined that the violation was
+due to negligence, and resulted in no loss or compromise of classified data. As a result,
+he was suspended without pay for one week.  In his interview on September 5, 2008,11
+Applicant stated that he failed to report this incident until the following day because he
+was scared after he realized what he had done.  However, his Letter of Suspension for12
+the incident made no mention of delayed reporting on this occasion, and his
+supervisor’s report of the incident, dated March 21, 2007, reflects that the supervisor
+was informed of the incident on the day it occurred. Accordingly, I conclude that
+Applicant confused some details of these two incidents during his interview. The
+supervisor’s report also indicates that Applicant’s multiple attempts to log on were only
+thwarted by the inability of the classified workstations to locate a proper domain while
+patched to the unclassified network.  Both this incident and the one in October violated13
+the National Industrial Security Program Operating Manual (NISPOM), Paragraphs 8-
+100 and 8-105c(1).14
+Item 14; Item 15 at 5-6; Item 16.15
+4
+On February 9, 2008, Applicant consumed some beer while eating dinner at a
+local lounge. He did not think that he was intoxicated. He was driving his daughter’s car,
+and did not realize that the lights did not turn on automatically. When he turned onto a
+dark street, he realized his lights were off, and turned them on. A police officer was
+following him, and pulled him over. He failed a field sobriety test and on-scene breath-
+alcohol analysis, after which he was arrested. Applicant reported that he tested at .07
+(below the legal limit) during a post-arrest breath test, but was still charged with DUI and
+Operating a Vehicle without Required Head Lamps. After his defense counsel was
+permitted to inspect all the evidence, Applicant chose to plead No Contest to the DUI
+charge pursuant to an agreement under which the head lamp offense would be
+dismissed and he would be sentenced as if it were a first DUI offense. On July 9, 2008,
+he was convicted of the DUI. He was subsequently given a deferred sentence subject
+to service of one year of probation and 24 hours of community service, installation of an
+ignition interlock, payment of $245 in court costs, and completion of mandatory alcohol
+screening.   15
+Applicant provided no evidence concerning the quality of his professional
+performance, or the level of responsibility his duties entail. He submitted no character
+references or other evidence tending to establish good judgment, trustworthiness, or
+reliability. I was unable to evaluate his credibility, demeanor, or character in person
+since he elected to have his case decided without a hearing. 
+Policies
+When evaluating an applicant’s suitability for a security clearance, the
+administrative judge must consider the adjudicative guidelines (AG). In addition to brief
+introductory explanations for each guideline, the adjudicative guidelines list potentially
+disqualifying conditions (DCs) and mitigating conditions (MCs), which are to be used in
+evaluating an applicant’s eligibility for access to classified information.
+These guidelines are not inflexible rules of law. Instead, recognizing the
+complexities of human behavior, these guidelines are applied in conjunction with the
+factors listed in AG ¶ 2 describing the adjudicative process. The administrative judge’s
+overarching adjudicative goal is a fair, impartial, and commonsense decision. According
+to AG ¶¶ 2(a) and 2(c), the entire process is a conscientious scrutiny of applicable
+guidelines in the context of a number of variables known as the whole-person concept.
+The administrative judge must consider all available, reliable information about the
+person, past and present, favorable and unfavorable, in making a decision.
+The protection of the national security is the paramount consideration. AG ¶ 2(b)
+requires that “[a]ny doubt concerning personnel being considered for access to
+classified information will be resolved in favor of the national security.” In reaching this
+decision, I have drawn only those conclusions that are reasonable, logical, and based
+on the evidence contained in the record. Likewise, I have avoided drawing inferences
+5
+grounded on mere speculation or conjecture. Under Directive ¶ E3.1.14, the
+Government must present evidence to establish controverted facts alleged in the SOR.
+Under Directive ¶ E3.1.15, “[t]he applicant is responsible for presenting witnesses and
+other evidence to rebut, explain, extenuate, or mitigate facts admitted by the applicant
+or proven by Department Counsel, and has the ultimate burden of persuasion as to
+obtaining a favorable clearance decision.” Section 7 of Executive Order 10865 provides:
+“[a]ny determination under this order adverse to an applicant shall be a determination in
+terms of the national interest and shall in no sense be a determination as to the loyalty
+of the applicant concerned.”
+A person applying for access to classified information seeks to enter into a
+fiduciary relationship with the Government predicated upon trust and confidence. This
+relationship transcends normal duty hours and endures throughout off-duty hours. The
+Government reposes a high degree of trust and confidence in individuals to whom it
+grants access to classified information. Decisions include, by necessity, consideration of
+the possible risk the applicant may deliberately or inadvertently fail to protect or
+safeguard classified information. Such decisions entail a certain degree of legally
+permissible extrapolation as to potential, rather than actual, risk of compromise of
+classified information.
+Analysis
+Guideline M, Use of Information Technology Systems
+AG ¶ 39 expresses the security concern pertaining to use of information
+technology systems:
+Noncompliance with rules, procedures, guidelines or regulations pertaining
+to information technology systems may raise security concerns about an
+individual's reliability and trustworthiness, calling into question the
+willingness or ability to properly protect sensitive systems, networks, and
+information. Information Technology Systems include all related computer
+hardware, software, firmware, and data used for the communication,
+transmission, processing, manipulation, storage, or protection of
+information.
+AG ¶ 40 describes conditions that could raise a security concern and may be
+disqualifying. The three DCs supported by the SOR allegations and asserted by
+Department Counsel are:
+(e) unauthorized use of a government or other information technology
+system;
+(f) introduction, removal, or duplication of hardware, firmware, software, or
+media to or from any information technology system without authorization,
+when prohibited by rules, procedures, guidelines or regulations; and
+6
+(g) negligence or lax security habits in handling information technology
+that persist despite counseling by management.
+Applicant connected classified workstations to the unclassified network in
+violation of security procedures and his company’s standard procedures on two
+occasions during the seven months preceding submission of his present security
+clearance application. This negligence continued despite his being formally counseled
+and suspended for a day without pay after the first incident. Security concerns under the
+foregoing DCs are established, shifting the burden to Applicant to prove mitigation.
+AG ¶ 41 provides conditions that could mitigate security concerns:
+(a) so much time has elapsed since the behavior happened, or it
+happened under such unusual circumstances, that it is unlikely to recur
+and does not cast doubt on the individual's reliability, trustworthiness, or
+good judgment;
+(b) the misuse was minor and done only in the interest of organizational
+efficiency and effectiveness, such as letting another person use one's
+password or computer when no other timely alternative was readily
+available; and
+(c) the conduct was unintentional or inadvertent and was followed by a
+prompt, good-faith effort to correct the situation and by notification of
+supervisor.
+ 
+Applicant’s misuse of his company’s computer systems was both recent and
+repeated. He offered no evidence of unusual circumstances that caused his
+carelessness and violation of procedures. His conduct had the potential for major
+system compromise and interruption of operations, and was not done in furtherance of
+any organizational efficiency or effectiveness. Both incidents were apparently negligent,
+rather than intentional, but he failed to promptly report the first incident. The second
+incident involved multiple attempts by Applicant to improperly connect the systems that
+were only foiled by a technical detail. Accordingly, Applicant did not establish substantial
+mitigation under any of these provisions. 
+Guideline G, Alcohol Consumption
+AG ¶ 21 expresses the security concern pertaining to alcohol consumption:
+Excessive alcohol consumption often leads to the exercise of questionable
+judgment or the failure to control impulses, and can raise questions about
+an individual's reliability and trustworthiness.
+AG ¶ 22 describes conditions that could raise a security concern and may be
+disqualifying. The two DCs asserted by Department Counsel are:
+7
+(a) alcohol-related incidents away from work, such as driving while under
+the influence, fighting, child or spouse abuse, disturbing the peace, or
+other incidents of concern, regardless of whether the individual is
+diagnosed as an alcohol abuser or alcohol dependent; and
+(c) habitual or binge consumption of alcohol to the point of impaired
+judgment, regardless of whether the individual is diagnosed as an alcohol
+abuser or alcohol dependent.
+However, only the first of these two DCs will be considered here because the
+SOR did not allege facts, or otherwise provide notice of the potential application of the
+latter provision. Applicant’s two arrests and convictions for DUI, in 1996 and 2008,
+support security concerns under AG ¶ 22(a). Accordingly, the burden is shifted to
+Applicant to mitigate the resulting security concerns.
+AG ¶ 23 provides conditions that could mitigate alcohol consumption security
+concerns:
+(a) so much time has passed, or the behavior was so infrequent, or it
+happened under such unusual circumstances that it is unlikely to recur or
+does not cast doubt on the individual's current reliability, trustworthiness,
+or good judgment;
+(b) the individual acknowledges his or her alcoholism or issues of alcohol
+abuse, provides evidence of actions taken to overcome this problem, and
+has established a pattern of abstinence (if alcohol dependent) or
+responsible use (if an alcohol abuser);
+(c) the individual is a current employee who is participating in a counseling
+or treatment program, has no history of previous treatment and relapse,
+and is making satisfactory progress; and
+(d) the individual has successfully completed inpatient or outpatient
+counseling or rehabilitation along with any required aftercare, has
+demonstrated a clear and established pattern of modified consumption or
+abstinence in accordance with treatment recommendations, such as
+participation in meetings of Alcoholics Anonymous or a similar
+organization and has received a favorable prognosis by a duly qualified
+medical professional or a licensed clinical social worker who is a staff
+member of a recognized alcohol treatment program.
+Applicant was involved in two alcohol-related driving offenses, twelve years
+apart. The most recent incident was about three years ago, but nine months after
+submission of the clearance application under present adjudication. Neither of these
+incidents was shown to have occurred under unusual circumstances. His choice to
+resume alcohol consumption in 2000, after completing a voluntary treatment program,
+8
+and his failure to submit any evidence concerning his drinking since September 2008,
+preclude a finding that such incidents are unlikely to recur. Accordingly, AG ¶ 23(a)
+does not provide mitigation.
+Applicant neither asserted, nor offered any evidence to establish mitigation under
+AG ¶¶ 23(b) or (c). Applicant apparently completed inpatient alcohol treatment in 1998,
+but resumed drinking within two years, and failed to submit documentation of
+participation in counseling or treatment since then. He provided no current favorable
+prognosis by a duly qualified medical professional or social worker, or evidence of his
+consumption pattern since September 2008, as would be required to find mitigation
+under AG ¶ 23(d). 
+Guideline K, Handling Protected Information
+AG ¶ 33 expresses the security concern pertaining to handling protected
+information: 
+Deliberate or negligent failure to comply with rules and regulations for
+protecting classified or other sensitive information raises doubt about an
+individual's trustworthiness, judgment, reliability, or willingness and ability
+to safeguard such information, and is a serious security concern.
+AG ¶ 34 describes conditions that could raise a security concern and may be
+disqualifying. Department Counsel asserted the applicability of four DCs:
+(b) collecting or storing classified or other protected information at home or
+in any other unauthorized location;
+(c) loading, drafting, editing, modifying, storing, transmitting, or otherwise
+handling classified reports, data, or other information on any unapproved
+equipment including but not limited to any typewriter, word processor, or
+computer hardware, software, drive, system, gameboard, handheld,
+"palm" or pocket device or other adjunct equipment;
+(g) any failure to comply with rules for the protection of classified or other
+sensitive information; and
+(h) negligence or lax security habits that persist despite counseling by
+management.
+The record is devoid of any evidence to support application of either AG ¶¶ 34(b)
+or (c), and Department Counsel failed to identify any. However, Applicant did fail to
+comply with rules prohibiting the connection of classified workstations to the unclassified
+network on two occasions, and failed to promptly report the first such violation as
+required by security procedures. His persistent negligence is established by the second
+incident of a similar nature within six months of the first incident for which he was
+9
+counseled and suspended without pay. Both incidents violated the NISPOM, as alleged
+in the SOR. These facts raise security concerns under AG ¶¶ 34(g) and (h).  
+AG ¶ 35 provides conditions that could mitigate security concerns:
+(a) so much time has elapsed since the behavior, or it has happened so
+infrequently or under such unusual circumstances, that it is unlikely to
+recur and does not cast doubt on the individual's current reliability,
+trustworthiness, or good judgment;
+(b) the individual responded favorably to counseling or remedial security
+training and now demonstrates a positive attitude toward the discharge of
+security responsibilities; and
+(c) the security violations were due to improper or inadequate training.
+Both security violations occurred within the seven months preceding his present
+clearance application, and were too similar to support a conclusion that they are unlikely
+to recur. He failed to respond to counseling by engaging in a second violation shortly
+after being suspended for the first incident. Applicant made no assertion of improper or
+inadequate training, and knew the wrongfulness and potential severity of his conduct as
+soon as it occurred. He failed to establish mitigation under any of these provisions. 
+Whole-Person Concept
+Under the whole-person concept, the administrative judge must evaluate an
+applicant’s eligibility for a security clearance by considering the totality of the applicant’s
+conduct and all relevant circumstances. The administrative judge should consider the
+nine adjudicative process factors listed at AG ¶ 2(a): 
+(1) the nature, extent, and seriousness of the conduct; (2) the
+circumstances surrounding the conduct, to include knowledgeable
+participation; (3) the frequency and recency of the conduct; (4) the
+individual’s age and maturity at the time of the conduct; (5) the extent to
+which participation is voluntary; (6) the presence or absence of
+rehabilitation and other permanent behavioral changes; (7) the motivation
+for the conduct; (8) the potential for pressure, coercion, exploitation, or
+duress; and (9) the likelihood of continuation or recurrence. 
+Under AG ¶ 2(c), the ultimate determination of whether to grant eligibility for a security
+clearance must be an overall commonsense judgment based upon careful consideration
+of the guidelines and the whole-person concept.   
+I considered the potentially disqualifying and mitigating conditions in light of all
+pertinent facts and circumstances surrounding this case. Applicant is a mature,
+accountable adult who voluntarily chose to engage in the conduct of concern. This
+10
+conduct has spanned the past fourteen years. He committed two alcohol-related driving
+offenses in 1996 and 2008, and resumed drinking shortly after his 1998 alcohol
+treatment program. Without providing further explanation of the reasons behind his
+security problems, he admittedly committed two similar security violations within the
+seven months preceding this clearance request. The likelihood of continuation or
+recurrence of irresponsible conduct and the ongoing potential for exploitation or duress
+have not been refuted. He did not demonstrate rehabilitation or other permanent
+behavioral changes. 
+Overall, the record evidence leaves me with substantial doubt as to Applicant’s
+present eligibility and suitability for a security clearance. He did not meet his burden to
+mitigate the security concerns arising from his alcohol consumption and information-
+system-based security violations.
+Formal Findings
+Formal findings for or against Applicant on the allegations set forth in the SOR,
+as required by ¶ E3.1.25 of Enclosure 3 of the Directive, are:
+Paragraph 1, Guideline M: AGAINST APPLICANT
+Subparagraph 1.a: Against Applicant
+Subparagraph 1.b: Against Applicant
+Paragraph 2, Guideline G: AGAINST APPLICANT
+Subparagraph 2.a: Against Applicant
+Subparagraph 2.b: Against Applicant
+Paragraph 3, Guideline K: AGAINST APPLICANT
+Subparagraph 3.a: Against Applicant
+Conclusion
+In light of all of the circumstances presented by the record in this case, it is not
+clearly consistent with the national interest to grant Applicant eligibility for a security
+clearance. Eligibility for access to classified information is denied.
+                                              
+DAVID M. WHITE
+Administrative Judge

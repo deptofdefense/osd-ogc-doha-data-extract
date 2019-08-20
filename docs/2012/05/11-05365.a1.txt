@@ -1,0 +1,139 @@
+KEYWORD: Guideline F
+DIGEST: Conduct not alleged in a SOR may be considered for several reasons, including
+evaluating an applicant’s case for mitigation.  The Directive presumes a nexus between proven
+conduct under any of the Guidelines and an applicant’s security eligibility.  Adverse decision
+affirmed.
+CASE NO: 11-05365.a1
+DATE: 05/01/2012
+DATE: May 1, 2012
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 11-05365
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On July 28, 2011, DOHA issued a statement of reasons (SOR) advising Applicant of the
+basis for that decision–security concerns raised under Guideline F (Financial Considerations) of
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On February 29, 2012, after the hearing, Administrative Judge John Grattan
+Metz, Jr., denied Applicant’s request for a security clearance.  Applicant appealed pursuant to
+Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge’s findings were supported
+by substantial record evidence; whether the Judge erred by considering conduct not alleged in the
+SOR; whether the evidence established a nexus between Applicant’s financial condition and the
+possibility that she would engage in criminal activity; whether the Judge considered all of the record
+evidence; and whether the Judge’s adverse security clearance decision was arbitrary, capricious, or
+contrary to law.  Consistent with the following, we affirm the Judge’s decision.  
+The Judge made the following pertinent findings of fact: Applicant is an employee of a
+Government contractor.  She has financial problems, the SOR alleging 14 delinquent debts totaling
+over $26,000.  Applicant has paid or settled five of these debts and has made some payment on
+others.  Two of the alleged debts were not hers.  However, her largest debts remain unpaid.  She also
+owes the Internal Revenue Service (IRS) about $2,500 for unpaid taxes, a debt not alleged in the
+SOR.  Applicant experienced unemployment since 2003.  Twice she left jobs due to deaths in the
+family.  Once she was terminated during a probationary period, and on another occasion she left a
+job because she believed that a work appraisal was unfair.  She worked for a while as an armed
+security guard, but lost that job because she failed to pass the firearm qualification.  Applicant has
+not received financial counseling or submitted a budget.  She entered into a repayment plan with the
+IRS, although it is not clear how many payments she made before she stopped working.  She enjoys
+a good reputation for the quality of her work performance, character, community involvement, and
+academic achievements.
+In the Analysis, the Judge noted that Applicant’s financial problems were affected by her
+periods of unemployment, stating, however, that most of her unemployment was due to her own
+choices rather than to circumstances beyond her control.  He stated that her failure in the firearm
+qualification was not totally a circumstance beyond her control and that she had failed to explain
+why she remained unemployed for so long in the early to mid-2000s.  The Judge stated that her three
+largest debts are over $5,000, and that she has a $3,000 delinquent rent account as well.  When
+viewed in light of her unpaid taxes, Applicant’s financial situation is not likely to be resolved in the
+foreseeable future, and she has taken little action to address it.    
+Applicant contends that some of the Judge’s findings of fact were in error.  Among other
+things, she states that two of the alleged debts were not hers and that her debt total was less than the
+$26,000 that the Judge found.  She also challenges the Judge’s statements that most of her
+unemployment was voluntary and that she had taken little action to resolve her debts.  Some of the
+challenged statements, such as those addressing the adequacy of Applicant’s efforts at debt
+resolution, are conclusions drawn from the findings rather than findings themselves.  We note that
+the Judge actually found in Applicant’s favor regarding the two debts that she claimed were not hers
+and that the figure of $26,000 was a statement as to the total amount of debt alleged in the SOR,
+rather than of the portion of Applicant’s debts remaining unpaid at the close of the record.
+Moreover, the Judge’s findings about the reasons for Applicant’s unemployment are drawn from
+Applicant’s own answers to questions in the Security Clearance Application (SCA), Government
+Exhibit 1, Section 13.  Viewed in light of the totality of the record evidence, the Judge’s material
+findings of security concern are based on substantial record evidence or constitute reasonable
+characterizations or inferences that can be drawn from the record.  See, e.g., ISCR Case No. 10-
+05750 at 2 (App. Bd. Dec. 8, 2011).    
+Applicant contends that the Judge erred by considering evidence of her tax debt, since it was
+not alleged in the SOR.  Conduct not alleged in a SOR may be considered for a number of reasons,
+1Directive, Enclosure 2 ¶ 19(a): “inability or unwillingness to satisfy debts[.]”
+2Directive, Enclosure 2 ¶ 19(c): “a history of not meeting financial obligations[.]”  
+such as assessing an applicant’s credibility and evaluating an applicant’s evidence in mitigation and
+extenuation.  See, e.g., ISCR Case No. 08-06859 at 4 (App. Bd. Oct. 29, 2010).  In this case, the
+Judge addressed the tax debt in his overall discussion of the possible application of  the mitigating
+conditions.  Accordingly, he considered it in its proper context.  We find no error in the Judge’s
+treatment of this evidence.
+Applicant contends that the evidence does not establish a nexus between her financial
+problems and the likelihood that she would commit crimes to resolve those problems.  She contends
+that the Judge relied upon assumptions rather than evidence or case law in concluding that her
+circumstances raised security concerns.
+The Guideline F security concern is as follows:
+Failure or inability to live within one’s means, satisfy debts, and meet financial
+obligations may indicate poor self-control, lack of judgment, or unwillingness to
+abide by rules and regulations, all of which can raise questions about an individual’s
+reliability, trustworthiness, and ability to protect classified information.  An
+individual who is financially overextended is at risk of having to engage in illegal
+acts to generate funds.  Directive, Enclosure 2 ¶ 18.
+This concern is broader than the possibility that an applicant might knowingly compromise
+classified information in order to raise money in satisfaction of his or her debts.  Rather, it requires
+a Judge to examine the totality of an applicant’s financial history and circumstances.  The Judge
+must consider pertinent evidence regarding the applicant’s self-control, judgment, and other qualities
+essential to protecting the national secrets as well as the vulnerabilities inherent in the
+circumstances.  The Directive presumes a nexus between proven conduct under any of the
+Guidelines and an applicant’s security eligibility.  See, e.g., ISCR Case No. 10-09511 at 3 (App. Bd.
+Nov. 17, 2011).  In this case, Applicant’s answers to the SCA and to DOHA interrogatories, along
+with the two credit reports, are sufficient to raise the two disqualifying conditions that the Judge
+addressed, 19(a)1 and (c).2  See  ISCR Case No. 10-06791 at 2 (App. Bd. Dec. 12, 2011).  The Judge
+was not required to make an explicit finding regarding nexus, and we find no error in his analysis.
+Applicant cites to evidence favorable to her, for example that she had not accepted certain
+settlement offers because she had become unemployed.  We interpret her argument to mean that the
+Judge did not consider all of the record evidence.  However, a Judge is presumed to have considered
+all of the evidence in the record.  See, e.g., ISCR Case No. 09-07597 at 3 (App. Bd. Oct. 19, 2011).
+The Judge made findings regarding the affect Applicant’s unemployment exerted on her finances.
+However, his conclusion that the length and frequency of her unemployment was not adequately
+explained and that she had not demonstrated responsible action in regard to the totality of her debts
+was supported by the record.  
+Applicant has not rebutted the presumption that the Judge considered all of the record
+evidence.  The record supports a conclusion that the Judge examined the relevant data and
+articulated a satisfactory explanation for the decision, “including a ‘rational connection between the
+facts found and the choice made.’”  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm
+Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States,
+371 U.S. 156, 168 (1962)).  The Judge’s adverse decision is sustainable on this record.  “The general
+standard is that a clearance may be granted only when ‘clearly consistent with the interests of the
+national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive,
+Enclosure 2 ¶ 2(b):  “Any doubt concerning personnel being considered for access to classified
+information will be resolved in favor of the national security.”
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.  
+Signed: Michael Y. Ra’anan          
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jean E. Smallin               
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody             
+James E. Moody
+Administrative Judge
+Member, Appeal Board

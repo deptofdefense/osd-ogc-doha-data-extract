@@ -1,0 +1,180 @@
+KEYWORD: Guideline F
+DIGEST: We conclude the challenged finding that Applicant’s child support arrearage had been
+resolved is erroneous. Applicant did not begin addressing his financial problems in earnest until
+after he had received the SOR.  The Judge did not seriously address this, although we have long
+held that the timing of an applicant’s debt payments is a relevant matter in evaluating the
+applicant’s reliability and judgment. Favorable decision reversed.
+CASENO: 17-00569.a1
+DATE: 09/18/2018
+DATE: September 18, 2018
+In Re:
+---------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-00569
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+Allison Marie, Esq. Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+March 23, 2017, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On February 5, 2018, after considering the record, Defense Office of
+Hearings and Appeals (DOHA) Administrative Judge Robert Robinson Gales granted Applicant’s
+request for a security clearance.  Department Counsel appealed pursuant to Directive ¶¶  E3.1.28
+and E3.1.30.
+Department Counsel raised the following issue on appeal: whether the Judge’s favorable
+decision failed to address important aspects of the record, thereby rendering it arbitrary, capricious,
+or contrary to law.  Consistent with the following, we reverse. 
+The Judge’s Findings of Fact
+Applicant served in the Reserves of the U.S. military.  He received an Honorable Discharge,
+despite several performance and disciplinary problems.  He has attended college but does not hold
+a degree.  Applicant has numerous delinquent debts: two home improvement loans for which he
+owes about $43,500 and $21,000; a student loan for about $34,000; three credit card debts with an
+aggregate past-due balance of about $15,000; a child support arrearage of over $3,700; and a
+medical account of about $600.  In addition to these debts, Applicant had a house that was sold in
+a foreclosure sale.  
+The Judge found that Applicant’s debts were either paid or in the process of being resolved. 
+He noted, for example, that there is no indication in Applicant’s credit reports of a deficiency from
+the sale of his home.  He also noted that Applicant’s child support payments were covered by a
+garnishment order and that the arrearage had been satisfied because there had been no garnished
+payment reflected in the most recent account statement.  He also found that Applicant’s other debts
+had been covered by payment plans with which he was compliant.
+Applicant’s problems began when he lost his job in early 2013 as a result of a reduction in
+force.  He interrupted his search for a new job because he needed to care for his mother during an
+illness.  Therefore, he depleted his savings, and his debts got “out of hand.”  Decision at 3. 
+Applicant’s mother eventually passed away in September 2016.  Applicant returned to work,
+reconnected with his creditors, established a budget, and began repaying his debts.
+He did not submit a statement showing his monthly income and expenses, so it is difficult
+to determine if he has the financial ability to pay his current bills while addressing his delinquent
+debts.  A recent credit report, however, showed no new delinquent accounts.  Applicant has either
+resolved, or is in the process of resolving, his delinquent debts.
+The Judge’s Analysis
+2
+The Judge cited to events that were beyond Applicant’s control, such as his unemployment
+and his mother’s illness, that affected his finances.  He concluded, however, that Applicant had
+demonstrated responsible action in regard to his debts by entering into repayment plans.  He
+concluded that Applicant’s problems were apparently under control and that his poor financial
+history does not cast doubt upon his current reliability, trustworthiness, and good judgment.
+Discussion
+There is a strong presumption against the grant or maintenance of a security clearance.  See
+Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  The
+applicant is responsible for presenting evidence to rebut, explain, extenuate, or mitigate admitted
+or proven facts.  The applicant has the burden of persuasion as to obtaining a favorable decision. 
+Directive ¶ E3.1.15.  The standard applicable in security clearance decisions “is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’” Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt concerning personnel being considered
+for national security eligibility will be resolved in favor of the national security.”  Directive,
+Enclosure 2 ¶ 2(b). 
+In deciding whether the Judge's rulings or conclusions are erroneous, we will review the
+decision to determine whether:  it does not examine relevant evidence; it fails to articulate a
+satisfactory explanation for its conclusions, including a rational connection between the facts found
+and the choice made; it does not consider relevant factors; it reflects a clear error of judgment; it
+fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  See, e.g., ISCR Case No. 14-02563 at 3-4 (App. Bd. Aug. 28, 2015).
+Department Counsel challenges the Judge’s finding that Applicant’s child support arrearage
+had been resolved.  We examine a Judge’s findings to see if they are supported by substantial
+evidence, that is, “such relevant evidence as a reasonable mind might accept as adequate to support
+a conclusion in light of all the contrary evidence in the same record.”  Directive ¶ E3.1.32.1.  See,
+e.g.,  ISCR Case No. 17-00506 at 3 (App. Bd. Aug. 7, 2018).
+The challenged finding was based upon a document that Applicant submitted in his Response
+to the File of Relevant Material (FORM).  This document is a four-page printout that shows
+Applicant’s child support payments going back to January 2014.  This document was produced on
+August 11, 2017.  The entry for each month discloses the amount that was withdrawn from
+Applicant’s account in satisfaction of his obligation, except for August 2017.  The entry for this
+month is blank.  The Judge inferred from this that Applicant’s arrearage was paid off, because no
+funds had been expended for August 2017.  Department Counsel persuasively argues, however, that
+the reason that there was no payment recorded for August 2017 was that the transaction simply had
+not been processed at the time that the document in question was produced.  This appears to be the
+case, insofar as this document clearly states that, as of the date it was generated, Applicant remained
+in arrears in the amount of $1,010.95.  Accordingly, we conclude the challenged finding that
+Applicant’s child support arrearage had been resolved is erroneous.
+3
+Department Counsel also argues that the Judge’s mitigation analysis failed to address
+significant aspects of the case; for example, Applicant’s dilatory response to his bad debts.  As
+Department Counsel observes, Applicant completed his security clearance application (SCA) in late
+2015, disclosing his delinquent debts and promising to consolidate his debts and resolve them
+“soon.”  See Item 5, SCA, at 30-33.  About ten months later, Applicant sat for his clearance
+interview.  He acknowledged his debts when confronted with them, again promising that he would
+consolidate them and pay them off.  Item 6, Interview Summary, at 9-12.  Therefore, despite having
+formally acknowledged, and promised to pay off, his debts nearly a year before, Applicant disclosed
+to his interviewer no actual, concrete efforts at debt resolution.  Indeed, as Department Counsel
+argues, Applicant did not begin addressing his financial problems in earnest until after he had
+received the SOR.  The Judge did not seriously address this, although we have long held that the
+timing of an applicant’s debt payments is a relevant matter in evaluating the applicant’s reliability
+and judgment.  See, e.g., ISCR Case No. 12-01335 at 5 (App. Bd. Dec. 29, 2017).  An applicant who
+begins to resolve financial problems only after being placed on notice that his or her security
+clearance is in jeopardy may be lacking in the judgment and self-discipline to follow rules and
+regulations over time or when there is no immediate threat to his or her own interests.  See, e.g.,
+ISCR Case No.17-01213 at 5 (App. Bd. Jun. 29, 2018).  A Judge is not required to discuss each and
+every piece of record evidence in making a decision, but a Judge cannot ignore, disregard, or fail
+to discuss significant record evidence that a reasonable person could expect to be taken into account
+in reaching a fair and reasoned decision.  See, e.g., ISCR Case No. 15-02903 at 3 (App. Bd. Mar.
+9, 2017).  In the case before us, the timing of Applicant’s payment plans is an example of such
+evidence.  The Judge’s failure to address the timing of Applicant’s efforts at debt resolution impairs
+his overall favorable conclusion.
+We are also persuaded by other things that Department Counsel has raised in his Appeal
+Brief.  He argues, in effect, that the record does not support a conclusion that Applicant has
+established control over his debts.  He notes, for example, that Applicant has made only a few
+payments of $5 a month in the early stage of a rehabilitation plan for his student loan.  As
+Department Counsel observes, a few payments of such a nominal amount, even if they are required
+to rehabilitate the loan for eventual resolution, do not show that Applicant has begun to address this
+debt in a meaningful way.  Moreover, he has made regular minimal payments for each of the three
+credit card debts owed to the credit union but had demonstrated only sporadic efforts at other credit
+card debts owed to banks.  Regarding one of them, for example, Department Counsel notes that
+Applicant had made payments in May and July 2017, each for $25, with no evidence of further
+payment.  The insufficiency of Applicant’s mitigation evidence is underscored by the Judge’s own
+comment that Applicant has provided no information about his income and expenses, leaving it
+difficult to determine if he will be able to follow through on his payment plan.  Although an
+applicant is not required to be debt free or to pay off all his debts at once, he is required to show that
+he has a reasonable plan for resolving his debts with concomitant conduct so that they no longer cast
+doubt upon his judgment or reliability.  Id.  All in all, the record does not support a conclusion that
+Applicant has actually demonstrated a track record of debt payment or that his financial problems
+are under control.
+  
+4
+Department Counsel argues that the Judge’s whole-person analysis was erroneous.  An
+appropriate whole-person analysis abides by the Directive’s requirement that a case must be decided
+in light of the entirety of the evidence: “Each clearance decision must be a fair and impartial
+common sense determination based upon consideration of all the relevant and material information”
+contained in the record.  Directive ¶ 6.3.  We find Department Counsel’s argument to be persuasive. 
+Given the extent of Applicant’s delinquent debts and the relatively small amounts that he has
+actually remitted to his creditors, and given the timing of Applicant’s efforts, we conclude that the
+record as a whole does not support the Judge’s overall favorable decision.  Although a clearance
+adjudication is not an effort to compel an applicant to pay his debts, it is an examination into the
+extent to which the applicant may be deficient in qualities essential to the protection of classified
+information.  The record as a whole does not support the Judge’s conclusion that Applicant has
+mitigated the concerns raised in his SOR in light of the standard set forth in Egan at 528.  We
+conclude that  the Judge failed to consider all of the relevant and material information in the case
+and issued a decision that ran contrary to the weight of the evidence.  The Judge’s favorable decision
+is not sustainable.
+5
+Order
+The Decision is REVERSED.  
+  
+Signed: Michael Ra’anan              
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                 
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+6

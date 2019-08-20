@@ -1,0 +1,198 @@
+KEYWORD: Guideline F
+DIGEST: The extent to which payments under a payment plan establish an aspect of the
+mitigating condition depends on the circumstances of a given case. Applicant owes $192,000 to
+the IRS and $19,000 to his state tax authority.  Applicant entered into the payment plan with the
+IRS in July 2016.  The record contains evidence that Applicant made five monthly payments.
+Applicant is to continue making monthly payments until the debt is resolved, which would occur
+after about four years of payments. Given other significant financial obligations that Applicant
+must fulfill, such as child support payments, and a paucity of evidence as to his ordinary
+expenses that will need to be balanced with his tax payments, Applicant has not established
+compliance sufficient to meet the Egan standard. Favorable decision reversed.
+CASENO: 16-01726.a1
+DATE: 02/28/2018
+DATE: February 28, 2018
+In Re:
+------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 16-01726
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+August 22, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On October 31, 2017, after considering the record, Defense Office of
+Hearings and Appeals (DOHA) Administrative Judge Nichole L. Noel granted Applicant’s request
+for a security clearance.  Department Counsel appealed pursuant to Directive ¶¶  E3.1.28 and
+E3.1.30.
+Department Counsel raised the following issue on appeal: whether the Judge’s favorable
+decision was unsupported by the weight of the record evidence.  Consistent with the following, we
+reverse. 
+The Judge’s Findings of Fact
+Applicant has worked for a Federal contractor since 2011.  Applicant disclosed on his
+security clearance application (SCA) that he had failed to file and pay Federal taxes for tax years
+2010, 2012, and 2013.  He also failed to pay Federal taxes for 2014.  He had filed his returns by the
+time he completed his SCA but had not paid his tax debt.  In 2016, the IRS filed a lien against
+Applicant in the amount of $192,000.  
+Applicant attributed his tax problem to a reduction in income for 2011.  In that year he took
+off two months to address a medical issue, resulting in a diminution in pay.1  As a consequence, he
+could not meet recurring obligations, such as his $3,400 per month child support payments.  He
+stated that his loss of income and his payment of college tuition on behalf of his oldest child
+diminished his ability to pay his taxes.
+In late 2015, Applicant’s lawyer negotiated a plan to resolve a $19,000 debt to his state tax
+authorities.  He agreed to pay over $1,000 a month to resolve this debt.  In addition, Applicant
+reached an agreement with the IRS to pay $1,900 a month, increasing over time as other obligations
+such as child support diminish, to discharge his Federal tax obligation.  The tax lien will remain in
+place until Applicant has satisfied his Federal tax debt.  As of December 2016, Applicant was in
+compliance with his payment agreement with the IRS.  He has maintained his consumer credit
+accounts in good standing.
+The Judge’s Analysis
+The Judge concluded that Applicant’s failure to have paid his Federal taxes for the years in
+question met the criteria for two disqualifying conditions: a history of not meeting financial
+1Applicant told his clearance investigator in 2015 that he had voluntarily entered an alcohol treatment program. 
+Item 10, 2011 and 2015 Clearance Interview Summaries, at p. 12.
+2
+obligations2 and failure to file Federal, state, or local income tax return or failure to pay annual
+Federal, state, or local income tax as required.3  In further concluding that he had met his burden of
+persuasion as to mitigation, the Judge cited to his payment plans with state and Federal tax
+authorities.  Citing to mitigating conditions 20(d)4 and 20(g),5 the Judge concluded that Applicant
+had demonstrated compliance with his payment plans and that his tax problems are under control.6 
+Discussion
+Department Counsel argues that the Judge’s decision failed to address significant contrary
+record evidence, thereby impairing her analysis.  He argues that the Judge failed to examine the
+evidence as a cumulative whole.  After considering the record that was before the Judge, we find
+Department Counsel’s arguments to be persuasive.
+There is a strong presumption against the grant or maintenance of a security clearance.  See
+Dorfmont v. Brown, 913 F. 2d 1399, 1401 (9th Cir. 1990), cert. denied, 499 U.S. 905 (1991).  The
+applicant is responsible for presenting evidence to rebut, explain, extenuate, or mitigate admitted
+or proven facts.  The applicant has the burden of persuasion as to obtaining a favorable decision. 
+Directive ¶ E3.1.15.  The standard applicable in security clearance decisions “is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’” Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  “Any doubt concerning personnel being considered
+for access to classified information will be resolved in favor of the national security.”  Directive,
+Enclosure 2 ¶ 2(b). 
+In deciding whether the Judge's rulings or conclusions are erroneous, we will review the
+decision to determine whether:  it does not examine relevant evidence; it fails to articulate a
+satisfactory explanation for its conclusions, including a rational connection between the facts found
+and the choice made; it does not consider relevant factors; it reflects a clear error of judgment; it
+fails to consider an important aspect of the case; it offers an explanation for the decision that runs
+contrary to the record evidence; or it is so implausible that it cannot be ascribed to a mere difference
+of opinion.  See ISCR Case No. 14-02563 at 3-4 (App. Bd. Aug. 28, 2015).
+2Directive, Encl. 2, App. A ¶ 19(c).
+3Directive, Encl. 2, App. A ¶ 19(g).
+4Directive, Encl. 2, App. A ¶ 20(d): “the individual initiated and is adhering to a good-faith effort to repay
+overdue creditors or otherwise resolve debts[.]”  
+5Directive, Encl. 2, App. A ¶ 20(g): “the individual has made arrangements with the appropriate tax authority
+to file or pay the amount owed and is in compliance with those arrangements.”
+6The Judge also cited to Directive, Encl. 2, App. A ¶ 20(c): “the individual has received or is receiving financial
+counseling for the problem from a legitimate and credible source, such as a non-profit credit counseling service, and there
+are clear indications that the problem is being resolved or is under control[.]”  There is nothing in the record to suggest
+that Applicant’s tax representation firm satisfies the requirement for a counseling service.  
+3
+Department Counsel bases his argument to a large extent on the size of Applicant’s tax debt,
+the few payments that he had made under his payment plan as of the close of the record, and on a
+paucity of evidence of an actual nexus between Applicant’s circumstances and his failure to pay his
+tax debt.  In noting the Judge’s reliance on mitigating condition 20(g),  Department Counsel
+acknowledges that Applicant has established payment plans with the IRS and his state tax
+authorities, but he argues that the few payments that Applicant had made by the close of the record
+preclude a conclusion that he is in compliance sufficient to meet his burden of persuasion as to
+mitigation.  
+The extent to which payments under a payment plan establish this aspect of the mitigating
+condition will depend on the circumstances of a given case.  In the case before us, Applicant owes
+$192,000 to the IRS and $19,000 to his state tax authority.7  Applicant entered into the payment plan
+with the IRS in July 2016.  The record contains evidence that Applicant made five monthly
+payments (August-December 2016) before the record closed.  Under the plan, Applicant is to
+continue making monthly payments until the debt is resolved, which would occur after about four
+years of payments. Moreover, given evidence of other significant financial obligations that
+Applicant must fulfill, such as child support payments, and a paucity of evidence as to his ordinary
+expenses that will need to be balanced with his tax payments, it is not clear from the record that
+Applicant has established compliance sufficient to meet the Egan standard or that he will necessarily
+be able to make his payments for the several years remaining on his plan.  The Judge’s analysis does
+not consider whether, under the circumstances of this case, Applicant’s plan is equivalent to a
+promise to discharge his debts in the future, which is not enough to establish a track record of debt
+resolution.  See, e. g., ISCR Case No. 14-04565 at 2 (App. Bd. Sep. 18, 2015).
+Applicant’s reply brief contains substantial new evidence.  The Board is not permitted to
+consider new evidence.  Directive ¶ E3.1.29.
+Moreover, as Department Counsel argues, even if an applicant has paid his debts or made
+arrangements to resolve them, a Judge may still consider the underlying circumstances for what they 
+reveal about the applicant’s judgment and reliability.  By the same token a Judge may consider a
+paucity of mitigating evidence in evaluating whether the applicant has met his or her burden of
+persuasion.  See, e.g., ISCR Case No. 16-02246 at 2-3 (App. Bd. Dec. 8, 2017).  
+In this case, the Judge cited to Applicant’s two-months of diminished income during which
+he received medical attention.  Department Counsel argues that the record does not establish a nexus
+between this circumstance and Applicant’s tax deficiencies.  That is, it does not show how two
+months of reduced pay resulted in a tax liability of the extent alleged in the SOR and admitted by
+Applicant.  Moreover, the Judge failed meaningfully to address evidence that Applicant lacked the
+funds to pay his income tax due in part to his payments for his daughter’s tuition.  While it is
+understandable that an applicant would want to assist his offspring in paying for higher education,
+in a case like this, Applicant’s payments could suggest misplaced priorities.  See, e.g., ISCR Case
+7The back taxes owed to the state were not alleged in the SOR and the record contains no proof of payments
+to the state under the purported repayment plan.
+4
+No. 09-03724 at 2 (App. Bd. Mar. 23, 2010), in which a Judge denied the applicant a clearance due,
+in part, to his having prioritized such things as additional education over his responsibility to pay
+his debts.  At the least, tuition payments for an offspring old enough to attend college do not
+constitute matters that were outside Applicant’s control.  As it stands, the record does not establish
+a connection between Applicant’s personal circumstances and his failure to address his legal
+obligation to pay his taxes.
+We note other things in the record that undercut the Judge’s favorable analysis.  For example,
+despite Applicant’s contention that his loss of pay in 2011 was at the root of his tax delinquencies,
+the record contains evidence that he has previously had tax liens entered against him.  For example,
+Item 6, a Public Trust Questionnaire, discloses a tax lien dated in late 1999, and Item 7, a credit
+report, shows two tax liens filed against him in late 2005.  The existence of tax problems that
+antedate those alleged in the SOR contravene Applicant’s claim that his current delinquencies are
+due to recent, unusual circumstances.8  
+More significant is the Judge’s finding that Applicant had not merely failed to pay his taxes
+but had failed even to file his returns.  Assuming arguendo that there is some mitigating force to
+evidence of Applicant’s medical treatment and loss of pay during 2011, such an occurrence would
+not explain why he failed to file his returns on time in the first place, as the law requires.  The duty
+to file returns and the duty to pay taxes when due are correlative obligations.  Even an excusable
+inability to pay, however, does not necessarily mitigate evidence that for multiple years an applicant
+did not submit his or her returns.  Indeed, failure to file tax returns by itself can be a reason to deny
+a clearance.  Such a failure suggests that an applicant has a problem with complying with well-
+established government rules and regulations, voluntary compliance with which is essential for
+protecting classified information.  See, e.g., ISCR Case No. 15-03208 at 3 (App. Bd. Mar 7, 2017).
+To sum up, the record evidence shows that Applicant amassed a substantial debt to the IRS
+as well as one to tax authorities in his state of residence.  The evidence does not establish a nexus
+between Applicant’s diminution in income and his asserted inability to pay his taxes.  Neither has
+Applicant provided evidence of his recurring expenses, precluding a meaningful analysis of his
+ability to follow through on his payment plan.  Applicant has had tax liens filed against him in the
+past, and his failure to have filed his returns is an independent reason to doubt his eligibility for a
+clearance, one which evidence of a loss of income or a recent payment plan are not sufficient to
+mitigate.  As Department Counsel argues, the Judge failed to address Applicant’s circumstances as
+a whole, resulting in a Decision that does not consider important aspects of the case and runs
+contrary to the weight of the evidence.
+8In a clearance interview conducted in 2011, Applicant was confronted with these tax liens and denied any
+knowledge of them.  Item 10 at p. 6.  However, as stated above, Applicant disclosed a 1999 tax lien on his Public Trust
+Questionnaire.  Item 6 at p. 7.  The most plausible reading of the evidence is that the one discussed in the interview is
+the same as the one addressed in the questionnaire.  Applicant’s denial of a tax lien that he had previously disclosed is
+an inconsistent statement that has some impact upon his credibility.  
+5
+Order
+The Decision is REVERSED.    
+Signed: Michael Ra’anan              
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                 
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+6

@@ -1,0 +1,121 @@
+KEYWORD: Guideline F
+DIGEST: The Board must consider not only whether there is record evidence supporting a
+Judge’s findings, but also whether there is evidence that fairly detracts from the weight of the
+evidence supporting those findings, and whether the Judge’s findings reflect a reasonable
+interpretation of the record evidence as a whole. The Judge did not discuss one credit report in
+his findings on two debts.This credit report is significant record evidence that tends to contradict
+the Judge’s statement that the “credit reports” did not show the debt in SOR allegation 1.f was
+paid. Adverse decision remanded.
+CASENO: 14-06592.a1
+DATE: 04/20/2016
+DATE: April 20, 2016
+In Re:
+---------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-06592
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On May
+9, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a decision
+on the written record.  On February 3, 2016, after considering the record, Defense Office of
+Hearings and Appeals (DOHA) Administrative Judge Philip S. Howe denied Applicant’s request
+for a security clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s adverse decision reflects
+the record.  Specifically, Applicant claimed he paid the debts and the Judge failed to consider his
+divorce.  Consistent with the following, we remand the decision.
+The Judge’s Findings of Fact and Analysis
+The Judge found for Applicant on four delinquent debts alleged in the SOR because of
+Applicant’s unemployment and eventual payment of the debts. He found against Applicant on two
+delinquent debts (SOR allegations 1.e and 1.f), totaling almost $4,000. He determined the credit
+report dated October 7, 2014, showed the debt in allegation 1.e was unresolved and the “credit
+reports” did not show the debt in allegation 1.f was paid. He concluded that Applicant’s
+circumstances raised two concerns: “inability or unwillingness to satisfy debts”1 and “a history of
+not meeting financial obligations[.]”2
+Discussion
+We construe Applicant’s appeal as challenging the Judge’s findings that the debts in SOR
+allegations 1.e and 1.f are unpaid. When an administrative judge’s factual findings are challenged,
+the Board must determine whether “[t]he Administrative Judge’s findings of fact are supported by
+such evidence as a reasonable mind might accept as adequate to support a conclusion in light of all
+the contrary evidence in the same record.” Directive  ¶ E3.1.32.1. The Board must consider not only
+whether there is record evidence supporting a Judge’s findings, but also whether there is evidence
+that fairly detracts from the weight of the evidence supporting those findings, and whether the
+Judge’s findings reflect a reasonable interpretation of the record evidence as a whole. 
+In a credit report dated September 28, 2015, the comments section addressing the debt in
+SOR allegation 1.e reflects “Consumer disputes - reinvestigation in progress[.] Paid charge off[.]”
+The balance and past-due amount for that debt are listed as zero. The date of last payment on the
+debt is listed as October 2014, which is also the month of the credit report cited in the Judge’s
+finding that the debt was unresolved. Additionally, the credit report dated September 28, 2015,
+1Directive, Enclosure 2 ¶ 19(a).
+2Directive, Enclosure 2 ¶ 19(c).
+2
+reflected the status of the debt in SOR allegation 1.f was “Pays account as agreed[,]” and listed the
+past-due amount as zero. 
+A Judge is not required to discuss each and every piece of record evidence in making a
+decision, but the Judge cannot ignore, disregard, or fail to discuss significant record evidence that
+a reasonable person could expect to be taken into account in reaching a fair and reasoned decision. 
+See, e.g., ISCR Case No. 12-01500 at 3 (App. Bd. Aug. 25, 2015). In this case, the Judge did not
+discuss the credit report dated September 28, 2015, in his findings on the debts in SOR allegations
+1.e and 1.f. This credit report is significant record evidence that should have been discussed in 
+reaching a decision on those allegations. It also tends to contradict the Judge’s statement that the
+“credit reports” did not show the debt in SOR allegation 1.f was paid. The Board remands the case
+to the Administrative Judge for consideration of the credit report dated September 28, 2015, in
+regards to the debts in SOR allegations 1.e and 1.f.
+Applicant raised other appeal issues, but it would be premature to address those other issues
+at this time.
+Conclusion
+Applicant has demonstrated error that warrants remand. Pursuant to Directive ¶ E3.1.33.2.,
+the Board remands the case to the Administrative Judge for the issuance of a new decision in
+accordance with the instructions herein. 
+Order
+The Decision is REMANDED.  
+See Dissenting Opinion         
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody       
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy          
+James F. Duffy
+3
+Administrative Judge
+Member, Appeal Board
+DISSENTING OPINION OF ADMINISTRATIVE JUDGE MICHAEL Y. RA’ANAN
+The majority opinion is predicated on a reading of Applicant appeal brief that I do not share. 
+Applicant wrote (in pertinent part) “It [the Judge’s decision] also doesn’t state the fact that I took
+the more challenging approach to my situation.  Rather [than] filing for Bankruptcy I honored my
+Debt and paid Everything.”  (text added in brackets for purposes of clarity.)
+The majority’s decision relies on a reading of the cited language as a challenge to the Judge’s
+findings of fact regarding the debts discussed in SOR allegations 1.e and 1.f., even though those
+findings are never mentioned. By contrast, I read the clause as a challenge to the Judge’s overall
+understanding and analysis of Applicant’s case in mitigation which is squarely raised by Applicant’s
+language. 
+The Appeal Board has often noted that an appealing party must raise assignments of error
+by the Judge with specificity.  See, e.g., ISCR Case No. 14-03734 at 4 (App. Bd Feb. 18, 2016) “On
+appeal, Applicant discusses Guideline E only peripherally, and does not assert error on the part of
+the Judge with the requisite degree of specificity.”  See also, e.g. ISCR Case No. 14-00683 at 3
+(App. Bd. Jan. 28, 2015).  “There is no presumption of error below, and the appealing party must
+raise claims of error with specificity and identify how the Judge committed factual or legal error.”
+Given our limited scope of review under the Directive, our case law regarding specificity and
+the current concern for judicial economy, I conclude that the Judge’s decision should be affirmed.
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+4

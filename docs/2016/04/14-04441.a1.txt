@@ -1,0 +1,176 @@
+KEYWORD: Guideline K; Guideline B; Guideline D
+DIGEST: The Directive presumes there is a nexus between proven circumstances under any
+Guideline and an applicant’s security eligibility  The disqualifying conditions listed under each
+Guideline are illustrative only, not exhaustive and exclusive.  In analyzing cases, Judges must be
+guided by common sense and with a view toward making a reasoned determination consistent
+with national security.  A duty to report ongoing contact with a foreign national bears a rational
+relation to the protection of classified information within the meaning of Guideline K.  The
+Directive provides that “any failure to comply with rules for the protection of classified
+information” could raise a concern about an applicant’s clearance eligibility. Adverse decision
+affirmed
+CASENO: 14-0441.a1
+DATE: 04/08/2016
+DATE: April 8, 2016
+In Re:
+-------- 
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-04441
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Claire Shapiro, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+February 15, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline K (Handling Protected Information), Guideline
+B (Foreign Influence), Guideline D (Sexual Behavior) and Guideline E (Personal Conduct) of
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive). Applicant requested
+a hearing.  On January 14, 2016, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge LeRoy F. Foreman denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge’s findings of fact
+contained errors; whether Applicant’s conduct raised security concerns; and whether the Judge’s
+adverse decision was arbitrary, capricious, or contrary to law.  Consistent with the following, we
+affirm.  
+The Judge’s Findings of Fact
+Applicant has worked for a Defense contractor since 1996 and has held a clearance since
+early 1998.  Applicant’s SOR alleges several infractions, many of which were cross-alleged under
+the four Guidelines at issue.  The Judge found that Applicant had signed a log sheet certifying that
+the front door to the workplace was secure when, in fact, he had not checked the door.  The door was
+later found not to have been properly secured.  Applicant sent a classified email that was not
+encrypted.  Applicant received a written warning for this inadvertent violation.  In 2014, he was
+reprimanded for failing to complete checkout procedures for securing access to a classified storage
+room.  
+During 2012, Applicant engaged in an affair with a married woman from Japan.  They had
+sexual relations about six times during the course of the affair.  He made attempts to contact her by
+means of his work email account.  The emails were discovered during an investigation of an
+unrelated problem.  Applicant also had sexual contact with three other women, two from Japan and
+another from the Philippines.  He maintained email contact with them on a quarterly basis, although
+he stated that the messages were of a general nature, such as holiday greetings, etc.  Applicant’s
+employer required that continuing contacts with non-U.S. citizens be reported to the facility security
+officer (FSO).  Applicant was made aware of this requirement but did not inform his FSO of his
+relations with the woman with whom he had the affair.  Neither did he inform his wife about this
+relationship.  
+Applicant has received pay raises and bonuses for the high quality of his work.  He also
+received an award for having developed a means for discovering “a spill of classified information.” 
+Decision at 5.  
+2
+Japan is a major U.S. ally who cooperates with the U.S. on a broad range of issues.  It has
+a good human rights record.  The Philippines is a top trading partner with the U.S.  The country has
+certain human rights problems, however, such as warrantless arrests, torture and abuse by security
+forces, violence against women, etc.  Terrorist organizations are active in the Philippines, and U.S.
+citizens are advised to use caution when traveling to certain parts of the country.  
+The Judge’s Analysis
+The Judge resolved each of the Guidelines against Applicant.  He concluded that Applicant’s
+conduct, viewed as a whole, was recent.  He noted that Applicant began to comply with a duty to
+submit written reports of foreign travel as soon as he became aware of the obligation and that he
+disclosed his affair with the Japanese woman when he completed his SCA.  However, the Judge
+concluded that Applicant’s having sent a classified email unencrypted was not due to inadequate
+training.  He noted that Applicant’s contact with the Japanese woman was neither casual nor
+sufficiently infrequent to mitigate concerns arising from it.  He found that this affair was not minor
+and that Applicant had not terminated it himself.  He stated that Applicant had provided no evidence
+of counseling or other remedial measures, nor had he disclosed this misconduct to his wife.
+Discussion
+Applicant has challenged the Judge’s conclusion that his failure to report the affair raised
+concerns under Guideline K, in that it did directly involve the handling of protected information. 
+He also challenged the Judge’s conclusion that his conduct raised Guideline E concerns.  Among
+other things, he argues that his conduct does not constitute a pattern of rule violations such as would
+implicate Directive, Enclosure 2 ¶ 16(d)(3).1  
+The Directive presumes there is a nexus between proven circumstances under any of its
+Guidelines and an applicant’s security eligibility.  See, e.g., ISCR Case No. 14-04648 at 3 (App. Bd.
+Sep. 9, 2015).   The disqualifying conditions listed under each Guideline are illustrative only, not
+exhaustive and exclusive.  In analyzing cases before them, Judges must be guided by common sense
+and with a view toward making a reasoned determination consistent with the interests of national
+security.  See, e.g.,  ISCR Case No. 12-01698 at 4 (App. Bd. Jun. 13, 2014).   
+A duty to report ongoing contact with a foreign national bears a rational relation to the
+protection of classified information within the meaning of Guideline K.2  Indeed, the Directive
+provides that “any failure to comply with rules for the protection of classified information” could
+raise a concern about an applicant’s clearance eligibility.  Enclosure 2 ¶ 34(g).  (emphasis added) 
+1This provision addresses information that “supports a whole-person assessment of questionable judgment,
+untrustworthiness, unreliability, lack of candor, unwillingness to comply with rules and regulations . . . this includes but
+is not limited to consideration of: . . . (3) a pattern of dishonesty or rule violations[.]”  
+2Directive, Enclosure 2 ¶ 33: “Deliberate or negligent failure to comply with rules and regulations for protecting
+classified or either sensitive information raises doubt about an individual’s trustworthiness, judgment, reliability, or
+willingness and ability to safeguard such information, and is a serious security concern.”  (emphasis added)
+3
+Therefore, Applicant’s argument that the infraction bore only an indirect relation to national
+security, even if true, is not enough to rebut the presumption of nexus.   
+Moreover, Applicant’s various infractions are sufficient to impugn his judgment and
+willingness to comply with rules and regulations, thereby raising a concern under Guideline E about
+his ability to protect classified information.  See Directive, Enclosure 2 ¶ 15.3  Applicant’s failures
+to comply with various security and reporting requirements possess a common feature, a laxity in
+following procedures designed to protect classified information.  Accordingly, they can reasonably
+be understood as a pattern of rule violations rather than a series of isolated acts, as Applicant argues. 
+Under the facts of this case, the Judge’s application of Directive, Enclosure 2 ¶ 16(d)(3) is
+supportable.  Moreover, Applicant’s failure to report his affair with a married woman from a foreign
+country could create a vulnerability to exploitation, duress, etc. within the meaning of Directive,
+Enclosure 2 ¶ 16(e).4  In any event, even if Applicant’s conduct did not satisfy the explicit criteria
+of Guideline K or E disqualifying conditions, the Judge could still have concluded that it raised
+security concerns.  See ISCR Case No. 12-01698, supra. We find no reason to disturb the Judge’s
+treatment of the mitigating conditions.
+Applicant challenges the Judge’s finding that he had failed to ensure that both doors of his
+employer’s facility were secure.  He argues that persons in the building after Applicant left could
+have been responsible.  The Judge’s finding on this matter, however, is supported by Applicant’s
+answers during his clearance interview (Summary, Interview Conducted on January 8, 2014, at p.
+3, included in Government Exhibit 3, Answers to Interrogatories) and by his testimony beginning
+at p. 36 of the Transcript.  We conclude that the Judge’s material findings are based upon “such
+relevant evidence as a reasonable mind might accept as adequate to support a conclusion in light of
+all the contrary evidence in the same record.”  Directive ¶ E3.1.32.1. 
+Applicant cites to various pieces of evidence that he contends are sufficiently mitigating as
+to warrant a favorable clearance decision.  Among other things, he notes his many years of holding
+a clearance without incident or concern.  Regarding his security record, even those with good prior
+records can encounter circumstances in which their judgment and reliability might be called into
+question.  See, e.g., ISCR Case No. 14-04648 at 3 (App. Bd. Sep. 9, 2015);  Adams v. Laird, 420 F.
+2d 230, 238-239 (D. C. Cir. 1969), cert. denied 397 U.S. 1039 (1970).  Applicant has not rebutted
+the presumption that the Judge considered all of the evidence in the record.  See, e.g., ISCR Case
+No. 14-06093 at 3 (App. Bd. Dec. 4, 2015).  Applicant’s argument consists in large measure of an
+alternative interpretation of the record, which is not enough to show that the Judge weighed the
+evidence in a manner that was arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No.
+14-06440 at 4 (App. Bd. Jan. 8, 2016).  
+3“Conduct involving questionable judgment, lack of candor, dishonesty, or unwillingness to comply with rules
+and regulations can raise questions about an individual’s reliability, trustworthiness and ability to protect classified
+information.”  
+4“[P]ersonal conduct, or concealment of information about one’s conduct, that creates a vulnerability to
+exploitation, manipulation, or duress[.]”  
+4
+In summary, the record contains substantial evidence that Applicant made a false
+certification regarding the locking of a secure facility; sent a classified email unencrypted; failed to
+complete checkout procedures for a classified storage area; conducted extramarital affairs with four
+foreign women; and failed to report his security significant conduct as he knew that he had an
+obligation to do.  These infractions, viewed cumulatively, support the Judge’s conclusions under
+each of the Guidelines covered by the SOR.  After evaluating the record evidence as a whole, we
+conclude that the Judge examined the relevant data and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  In particular, security violations “strike at the
+heart of the industrial security program.”  Once it is established that an applicant has committed
+security violations, the applicant has “a very heavy burden” in mitigation.  Accordingly, a Judge
+must give any claims of reform or rehabilitation “strict scrutiny.”  ISCR Case No. 11-09219 at 3
+(App. Bd. Mar. 31, 2014). “The general standard is that a clearance may be granted only when
+‘clearly consistent with the interests of the national security.’”  Department of the Navy v. Egan, 484
+U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt concerning personnel
+being considered for access to classified information will be resolved in favor of the national
+security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan                
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: Jeffrey D. Billett                    
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody                  
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+5

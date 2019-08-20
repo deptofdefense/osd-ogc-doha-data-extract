@@ -1,0 +1,123 @@
+KEYWORD: Guideline F
+DIGEST: Even if debts have been resolved a Judge may still consider the underlying
+circumstances for what they may reveal about the applicant’s judgment and reliability.  The
+government need not wait until an individual mishandles or fails to safeguard classified
+information before it can make an unfavorable security clearance decision.  Even those with
+good prior records can encounter circumstances in which their judgment and reliability might be
+compromised.  Adverse decision affirmed.
+CASENO: 17/02599.a1
+DATE: 01/18/2019
+DATE: January 18, 2019
+In Re:
+--------------------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 17-02599
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Pro se
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+August 29, 2017, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant  requested a hearing. 
+On October 12, 2018, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Elizabeth M. Matchinski denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s adverse decision was
+arbitrary, capricious, or contrary to law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact
+Applicant has a bachelor’s degree and requires a clearance as a condition of his current
+employment by a Defense contractor.  He is married with two grown children.  Applicant has
+numerous delinquent debts.  The ones that the Judge found against him were for credit card accounts
+and a line of credit provided by a bank.  Applicant attributed his financial problems to several
+causes–his failure to monitor spending or maintain a budget; his having refinanced his home to pay
+off credit card debt; and his mismanagement of an inheritance that he received upon the death of his
+mother.  
+Applicant sought the assistance of an attorney to file for Chapter 13 bankruptcy on his
+behalf.  Accordingly, he stopped paying on credit cards, as they were to be included in the
+bankruptcy petition.  Applicant’s attorney did not file a petition, however, because he “kept trying
+to figure out the right formula.”  Decision at 5.  Subsequently Applicant discovered a means of debt
+resolution propounded by a radio personality.  He began selling some of his assets in order to build
+up a cash emergency fund, and he sold off a vehicle.  However, he still did not have enough funds
+to pay off his credit card debts. 
+Although Applicant stated on more than one occasion that he would pay all of his debts, as
+of the close of the record he had failed to do so.  For example, he claimed that he would resolve his
+largest account, a credit card debt for nearly $23,000, by withdrawing from his retirement fund, but
+he provided no evidence that this debt had been paid or settled.  Neither did he demonstrate
+resolution of two relatively small credit card accounts.  He did present evidence that the creditor of
+a $4500 charged-off account had forgiven $3,472 and that he testified that he had paid taxes on this
+amount.  In the Analysis, however, the Judge stated that it was not clear from the record whether
+Applicant still owed some portion of the debt that might be attributable to interest or penalties. 
+Applicant self-reported his financial problems to his employer, and he has handled classified
+information properly.  A supervisor from a previous job recommended him for a clearance, provided
+he addresses his financial situation.
+2
+The Judge’s Analysis
+The Judge concluded that Applicant’s circumstances raised three disqualifying conditions:
+inability to satisfy debts, a history of not meeting financial obligations, and consistent
+overspending.1  Regarding four debts, including the largest addressed above, she concluded that
+Applicant had not demonstrated mitigation.  She noted that creditors were willing to settle, although
+Applicant did not have on hand sufficient funds to make even the reduced amounts.  She stated that
+Applicant does not have pending settlement offers or plans.  She noted Applicant’s evidence that
+his difficulties were, in large part, due to his having failed to budget his expenses, his reliance upon
+credit cards, etc.  She also noted evidence that Applicant had engaged in new spending by using
+discretionary funds that could have been directed toward debt payment.  In the whole-person
+analysis, the Judge acknowledged that Applicant had properly handled classified information while
+undergoing financial difficulties.  She stated, however, that once a security concern arises, there is
+a strong presumption against the grant or renewal of a clearance.  
+Discussion
+Applicant argues that he has resolved all of his debts.  His argument includes assertions from
+outside the record, which we cannot consider.  Directive ¶ E3.1.29.  In any event, even if debts have
+been resolved a Judge may still consider the underlying circumstances for what they may reveal
+about the applicant’s judgment and reliability.    See, e.g., ISCR Case No. 16-02246 at 2 (App. Bd.
+Dec. 8, 2017).  He cites to aspects of the record that he contends are favorable to him, such as his
+efforts at debt settlement, the debt that the creditor forgave, his full disclosure of his financial
+problems to his employer, his credit reports which he argues show that his debts have been resolved,
+and his good security record.  On this last point, the government need not wait until an individual
+mishandles or fails to safeguard classified information before it can make an unfavorable security
+clearance decision.  Even those with good prior records can encounter circumstances in which their
+judgment and reliability might be compromised.  See, e.g., ISCR Case No. 15-07941 at 2 (App. Bd.
+Nov. 29, 2018).  Applicant has not rebutted the presumption that the Judge considered all of the
+evidence in the record, nor has he shown that the Judge weighed the evidence in a manner that was
+arbitrary, capricious, or contrary to law.  Id.  Applicant cites to a portion of his clearance interview
+summary which states that he cannot be blackmailed or coerced due to his financial difficulties. 
+However, this represents the interviewer’s summary of Applicant’s answers, not the interviewer’s
+independent judgment as to Applicant’s eligibility for a clearance.  Even if it did represent the
+interviewer’s opinion it would not bind the Government in evaluating Applicant’s case.  See, e.g.,
+ISCR Case No. 15-03995 at 3 (App. Bd. Apr. 24, 2017).        
+Given Applicant’s history of overspending and evidence that as of the close of the record he
+still had not resolved his delinquent debts, we find no error in the Judge’s overall adverse
+conclusion.  The Judge examined the relevant evidence and articulated a satisfactory explanation
+for the decision.  The decision is sustainable on this record.  “The general standard is that a clearance
+may be granted only when ‘clearly consistent with the interests of the national security.’” 
+1See Directive, Encl. 2, App. A ¶¶ (a), (c), and (e).
+3
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A ¶
+2(b):  “Any doubt concerning personnel being considered for national security eligibility will be
+resolved in favor of the national security.”
+Order
+The Decision is AFFIRMED.   
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                 
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+4

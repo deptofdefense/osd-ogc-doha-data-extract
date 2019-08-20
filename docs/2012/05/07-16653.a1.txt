@@ -1,0 +1,103 @@
+KEYWORD: Guideline F; Guideline E; Guideline M
+DIGEST: Conduct not alleged in a SOR may be considered for several reasons, including a
+credibility determination.  Applicant was not denied the due process afforded him by the
+Directive.  Adverse decision affirmed.
+CASE NO: 07-16653.a1
+DATE: 05/01/2012
+DATE: May 1, 2012
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 07-16653
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Timothy Aiken, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On June 16, 2011, DOHA issued a statement of reasons (SOR) advising Applicant of the
+basis for that decision–security concerns raised under Guideline F (Financial Considerations),
+Guideline E (Personal Conduct), and Guideline M (Use of Information Technology Systems) of
+Department of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant
+requested a hearing.  On February 1, 2012, after the hearing, Administrative Judge Marc E. Curry
+denied Applicant’s request for a security clearance.  Applicant appealed pursuant to Directive ¶¶
+E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge’s consideration of
+conduct not contained in the SOR denied Applicant due process and whether the Judge’s adverse
+security clearance decision was arbitrary, capricious, or contrary to law.  The Judge’s favorable
+findings under Guidelines F and M are not at issue in this appeal.  Consistent with the following, we
+affirm the Judge’s decision.
+The Judge made the following pertinent findings of fact: Applicant is employed in the field
+of information technology.  He has worked for his current employer since March 2011.  Applicant
+served in the Navy during 1997.  He did not complete basic training, receiving a general discharge
+under honorable conditions after a positive urinalysis for marijuana.  
+Previously Applicant worked for another Defense contractor.  During that period of
+employment, Applicant was alleged to have created directory files and scripts without obtaining
+permission from the system administrator.  Applicant stated that he was not aware that his conduct
+was wrongful.  Although he was found to have been trying to minimize the risk of operator error
+rather than to have been acting maliciously, the Government client requested that he be removed
+from the contract.  Applicant submitted a resignation in lieu of dismissal due to these allegations.
+However, his employer rehired him several days later.
+In completing his security clearance application (SCA), Applicant denied that he had, within
+the previous seven years, been fired from a job, quit, or left under unfavorable circumstances.
+Moreover, in response to questions about his discharge from the Navy, he advised a security
+clearance investigator that it was the result of a knee injury.  He did not disclose his failed drug test.
+Applicant testified that he had told the investigator about the drug test, but that the investigator had
+not included it in the summary of Applicant’s interview.  However, when the summary was
+presented to Applicant as part of a series of DOHA interrogatories in 2009, Applicant certified that
+the summary was accurate.  This apparent false statement was not alleged in the SOR.   
+In the Analysis, the Judge concluded that Applicant’s SCA omission was intentional.  In so
+doing, the Judge considered the plain language of the question at issue, as well as the uncharged
+misconduct regarding his failed drug test.  The Judge stated that he was considering this misconduct
+in performing his credibility determination.  The Judge ultimately concluded that Applicant had not
+mitigated the concerns arising from his omission to the SCA.
+Applicant contends that the Judge erred by considering the uncharged misconduct.  He stated
+that he had not been placed on notice that this evidence would be considered and that by doing so
+the Judge had denied him an opportunity to prepare his case.  This evidence was contained in
+Government Exhibit (GE) 2, Answers to Interrogatories, dated January 12, 2010.  Applicant did not
+object to the admission of this exhibit.  Tr. at 15.  The Directive requires a Department Counsel to
+provide an applicant with a copy of all documentary evidence to be submitted at a hearing (Directive
+¶ E3.1.13).  The exhibit is cited several times in the transcript, and there is nothing in the record to
+suggest that Department Counsel failed to provide Applicant with a copy.  See ISCR Case No. 07-
+18324 at 6 (App. Bd. Mar. 11, 2011) (Federal agencies are entitled to a presumption of good faith
+and regularity in the performance of their responsibilities).  Moreover, conduct not alleged in a SOR
+may be considered for a number of reasons, including assessing an applicant’s credibility.  See, e.g.,
+1Cf. Federal Rule of Evidence 404(b) provides that evidence of uncharged acts may be considered for a number
+of reasons, including proof of intent, motive, and lack of mistake. 
+ISCR Case No. 03-20327 at 4 (App. Bd. Oct. 26, 2006).1  This is the context which the Judge
+discussed the challenged evidence.  Accordingly, we conclude that Applicant was not denied the due
+process afforded by the Directive.   
+  
+The record supports a conclusion that the Judge examined the relevant data and articulated
+a satisfactory explanation for the decision, “including a ‘rational connection between the facts found
+and the choice made.’”  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins.
+Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168
+(1962)).  The Judge’s adverse decision is sustainable on this record.  “The general standard is that
+a clearance may be granted only when ‘clearly consistent with the interests of the national security.’”
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):
+“Any doubt concerning personnel being considered for access to classified information will be
+resolved in favor of the national security.”
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.  
+Signed: Jean E. Smallin                
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed: William S. Fields              
+William S. Fields
+Administrative Judge
+Member, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board

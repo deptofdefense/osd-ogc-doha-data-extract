@@ -1,0 +1,175 @@
+KEYWORD: Guideline K; Guideline M; Guideline E
+DIGEST: The Judge’s material findings are supported by substantial evidence.  We give
+deference to a Judge’s credibility determinations. Security violations strike at the heart of the
+industrial security program.  Applicant’s denial of wrongdoing undercut his efforts to show
+rehabilitation.  
+CASE NO: 14-05396.a1
+DATE: 01/10/2017
+DATE: January 10, 2017
+In Re:
+----------------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 14-05396
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Arran S. Treadway, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+November 6, 2015, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline K (Handling Protected Information), Guideline
+M (Use of Information Technology Systems), and Guideline E (Personal Conduct) of Department
+of Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On August 31, 2016, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Wilford H. Ross denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge’s findings of fact
+contained errors and whether the Judge’s adverse decision was arbitrary, capricious, or contrary to
+law.  Consistent with the following, we affirm.  
+The Judge’s Findings of Fact
+Applicant holds bachelor’s and master’s degrees and works for a Defense contractor.  He is
+seeking to retain a security clearance that he holds in connection with his employment.
+The Judge made extensive findings about Applicant’s security-significant conduct, which
+was alleged under each of the three guidelines cited in the SOR.  In essence, Applicant committed
+three security violations.  In 2012, he knowingly attempted to introduce computer discs containing
+classified information onto a hard drive that was not accredited for that material.  In January 2013,
+Applicant possessed classified information without authorization and without signing appropriate
+receipts.  The information in question pertained to a contract that had ended, and use of documents
+associated with that contract was limited.  Finally, in April 2013, Applicant put a CD pertaining to
+this contract into an unapproved classified information system and printed classified information
+without authorization.  
+Applicant did not agree that he had violated any security protocols, claiming that his use of
+the classified information in question was with appropriate authorization.  However, Applicant’s
+employer gave him a letter of reprimand (LOR) for “clear violation of the company’s Corporate
+Security Standard Practice and Procedures.”  Decision at 6.  The LOR stated, in pertinent part:
+The aggressive and persistent nature of your actions in your attempts to gain
+possession of classified materials in which you were told by corporate security that
+you could not possess on more than one occasion raises suspicion about your intent
+in regard to proper handling of classified materials.  Id.
+The LOR offered Applicant the choice of accepting one day of leave without pay as an alternative
+to being fired.  Applicant accepted this offer.  Applicant signed an acknowledgment that he had
+received the LOR and was provided with an opportunity to discuss it.  Applicant contended that he
+signed the LOR through coercion.  However, the Judge noted that Applicant’s signature only meant
+that he had received a copy of the LOR and had an opportunity to discuss it.  
+Applicant is highly respected in his field of expertise.  His character references stated that
+he is knowledgeable about security requirements and is able to follow rules and regulations.  One
+person, who has worked with Applicant for over ten years, expressed “utmost confidence” that
+Applicant handles classified information in accordance with regulatory guidance.  Applicant served
+as a reservist in the military, retiring in the grade of 0-4.  He received numerous awards and
+commendations during his military career.
+2
+The Judge’s Analysis
+The Judge acknowledged Applicant’s professional competence and his contributions to the
+Defense industry.  He noted Applicant’s having held a clearance for many years and his
+understanding of security issues.  He stated that Applicant had worked on the contract referenced
+above and “obviously felt a sense of ownership and entitlement about the material he had created
+over the years concerning this contract.”  Id. at 11.  The Judge stated that Applicant felt that the
+security requirements placed upon him in reference to this contract were unnecessary, but that he
+knew, or should have known, what the requirements were.  
+The Judge concluded that Applicant violated security protocols and that he did so knowingly
+and with an intent to circumvent the strictures that his company placed on documents pertinent to
+the contract.  Although recognizing that others might have born some responsibility as well, he
+stated that it was Applicant’s duty to follow security rules, regardless of the conduct of others. 
+The Judge stated that Applicant continues to deny having done anything wrong.  However,
+there is no support for Applicant’s claims that he had authorization for his use of the contract
+materials.  The Judge observed that security rules are not voluntary.  Given Applicant’s refusal to
+acknowledge wrongdoing, none of the mitigating conditions are entitled to favorable application. 
+In the whole-person analysis, the Judge concluded that there is insufficient evidence of rehabilitation
+or other behavioral changes.  The Judge stated flatly that, based on the record that was before him,
+he could not conclude “that Applicant would be likely to properly obey security rules and
+regulations in the future if faced with the same or similar circumstances.”  Id. at 13.  As a
+consequence, the Judge entered adverse findings under each of the guidelines.  
+Discussion
+Applicant contends that the Judge’s findings did not address significant evidence that was
+essential to a fair evaluation of his case.  Among other things, he cites to his having held a clearance
+for many years without incident or concern, his educational attainments, and the passage of over
+three years since the last infraction.  He also contends that the Judge erred by finding that he had
+violated security rules.  We examine a Judge’s findings to see if they are supported by “such relevant
+evidence as a reasonable mind might accept as adequate to support a conclusion in light of all the
+contrary evidence in the same record.”  Directive ¶ E3.1.32.1.  See ISCR Case No. 14-04226 at 3
+(App. Bd. Aug. 18, 2015).   
+Concerning whether Applicant had committed security infractions, the record contains a
+copy of an incident report prepared by officials at Applicant’s place of employment.  Government
+Exhibit (GE) 4, Security Incidents Final Report, dated May 1, 2013.  This report describes
+Applicant’s conduct in detail and lists the names of persons interviewed, concluding that Applicant
+deliberately disregarded established security requirements.  At the hearing, Applicant could not
+provide a reason for the persons cited in the report to have fabricated evidence against him.  See Tr.
+at 64-66.  The record also contains a copy of the LOR that the Judge described in his findings.  GE
+5, Memo, dated May 6, 2013.  This document also describes Applicant’s conduct, though not in so
+3
+great detail as GE 4.  It characterized Applicant’s infractions as “a clear violation” of the company’s
+security practices and procedures.  These two exhibits, when read in conjunction with the record
+evidence as a whole, constitute substantial evidence that Applicant performed acts that constituted
+deliberate violations of rules designed to protect classified information.  
+Applicant states that he acknowledged receipt of the LOR through duress.  He describes GE
+5 as a “coerced confession” and argues that it is of no evidentiary value.  Appeal Brief at 8. 
+However, GE 5 is not a confession but a disciplinary action.  Applicant’s signature did not certify
+that he agreed with the content of the LOR, only that he had received it and had been given an
+opportunity to discuss it, as the Judge found.  Applicant’s contention that he was pressured to sign
+this receipt acknowledgment, even if true, does not undermine the Judge’s reliance upon GE 5 as
+a credible presentation of Applicant’s conduct and of the intent that underlay it.  We give deference
+to a Judge’s credibility determinations.  Directive ¶ E3.1.32.1.  We find no reason to disturb the
+Judge’s findings that Applicant’s conduct violated security rules.  
+Concerning Applicant’s other arguments, a Judge is not expected to make findings about
+every piece of evidence in the record, which would be a practical impossibility.  See, e.g., ISCR
+Case No. 14-05795 at 2 (App. Bd. Apr. 26, 2016).  As stated above, he explicitly addressed
+Applicant’s long experience in holding a security clearance, and he gave consideration to other
+favorable evidence, such as Applicant’s educational and professional attainments, his good
+reputation, and his knowledge of security rules.  The findings, viewed as a whole, captured facts
+sufficient to support  a reasoned analysis of the concerns raised in the SOR.  The Judge’s material
+findings are based on substantial evidence, or constitute reasonable characterizations or inferences
+that could be drawn from the record.  Applicant has not identified any harmful error likely to change
+the outcome of the case.  Considering the record evidence as a whole, the Judge’s material findings
+of security concern are sustainable.  See, e.g., ISCR Case No. 12-03420 at 3 (App. Bd. Jul. 25,
+2014).
+The balance of Applicant’s brief constitutes a disagreement with the Judge’s weighing of the
+evidence, which is not enough to show that the Judge weighed the evidence in a manner that was
+arbitrary, capricious, or contrary to law.  See, e.g., ISCR Case No. 14-06686 at 2 (App. Bd. Apr. 27,
+2016).  Security violations “strike at the heart of the industrial security program.”  A Judge must
+give any claims of reform or rehabilitation “strict scrutiny.”  ISCR Case No. 11-09219 at 3 (App.
+Bd. Mar. 31, 2014).  In this case, as the Judge noted, Applicant’s presentation consisted in
+overwhelming measure of denials that he had done anything wrong.  Given the substantial evidence
+to the contrary, however, the Judge did not err in concluding that Applicant had not met his burden
+of persuasion.  
+Applicant notes that his most recent infraction is over three years old.  He argues that his
+conduct “cannot be repeated due to behavioral and environmental changes which preclude the
+conditions of 2012-2013 from being repeated.”  Appeal Brief at 2.  However, Applicant’s persistent
+denial of wrongdoing supports the Judge’s conclusion that he has not demonstrated rehabilitation. 
+See, e.g., ISCR Case No. 08-03620 at 3-4 (App. Bd. May 6, 2009), a Guideline J case in which the
+applicant’s denial of criminal intent undercut his effort to show rehabilitation.    
+     
+4
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  An applicant who deliberately engages in security violations demonstrates a disregard for, 
+or indifference to, national security interests and undermines the integrity and effectiveness of the
+industrial security program.  See, e.g., ISCR Case No. 07-08119 at 3 (App. Bd. Jul. 8, 2010).  The
+decision is sustainable on this record.  “The general standard is that a clearance may be granted only
+when ‘clearly consistent with the interests of the national security.’”  Department of the Navy v.
+Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt concerning
+personnel being considered for access to classified information will be resolved in favor of the
+national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Y. Ra’anan          
+Michael Y. Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+5

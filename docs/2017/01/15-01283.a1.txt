@@ -1,0 +1,124 @@
+KEYWORD: Guideline F
+DIGEST: An appealing party must state with sufficient specificity what it is about a Judge’s
+decision that he or she believes to be erroneous so as to enable reviewing authorities, such as the
+Appeal Board, to address the assignment of error  We are unable to determine which findings
+Applicant is contesting.  Adverse decision affirmed
+CASENO: 15-01283.a1
+DATE: 01/13/2017
+DATE: January 13, 2017
+In Re:
+------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-01283
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Gregory F. Greiner, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+February 25, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for that
+decision–security concerns raised under Guideline F (Financial Considerations) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On October 21, 2016, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Mark Harvey denied Applicant’s request for a security clearance.  Applicant
+appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s decision was arbitrary,
+capricious, or contrary to law. Consistent with the following, we affirm.
+The Judge’s Findings of Fact  
+Applicant, who is 39 years old, has worked for his employer since 2001.  He admitted that
+he failed to file his Federal and state income tax returns for 2008 through 2011.  He attributed the
+delay  in filing his tax returns to his computer hard drive crashing in 2008 and to becoming
+distracted by work and other commitments.  He also indicated that he needed information from his
+2008 and 2009 tax returns to file the subsequent year’s tax return.  Additionally, he believed that he
+could not file tax returns for subsequent years unless he had filed for the previous year and, if he was
+owed refunds, the IRS would not be concerned about his failure to file his tax returns.  
+In 2012, Applicant disclosed in his security clearance application (SCA) and during his
+personal subject interview (PSI) that he had not filed his tax returns for 2008-2011.  He stated that
+he was going to seek assistance from an accountant and planned to file his tax returns in December
+2012.  After the PSI, he believed his security clearance hearing would occur shortly and that it
+“would look shady” or that he was “trying to cover up [his] track” if he filed his tax returns. 
+Decision at 2.  
+Applicant signed his Federal and state income tax returns for 2008-2010 on the date of his
+security clearance hearing in September 2016 and was entitled to refunds for each of those tax
+returns.  He filed his Federal tax returns for 2011-2014 in April 2015 and was entitled to refunds for
+each of those tax returns.  He filed his 2015 Federal income tax return on time. 
+Applicant does not have any delinquent debts or negative entries on his credit report. 
+Besides his tax return filing issues, he has no other financial concerns. 
+The Judge’s Analysis
+The Judge concluded:
+[Applicant’s] explanations for not filing his tax returns justify at most a brief delay
+for filing his income tax returns.  My assessment is that his failure to timely file his
+federal and state tax returns for tax years 2008 through 2011 is based mostly on
+2
+procrastination, his belief that he would not suffer any penalty so long as he was due
+a refund, and his failure to give filing his tax returns a high priority.  His
+explanations  do not fully mitigate financial considerations security concerns.
+Discussion
+Applicant contends that the Judge’s findings are not supported by such relevant evidence that
+a reasonable person might accept the conclusions in light of the full record.  Appeal Brief at 5.
+However, he did not specify what particular findings were unsupported.1   An appealing party must
+state with sufficient specificity what it is about a Judge’s decision that he or she believes to be
+erroneous so as to enable reviewing authorities, such as the Appeal Board, to address the assignment
+of error.  See, e.g., ISCR Case No. 14-05920 at 3 (App. Bd. Jan. 8, 2016).   We are unable to
+determine which findings Applicant is contesting.  
+Applicant argues that the Judge failed to consider pertinent mitigating evidence. 
+Specifically, he claims the Judge did not give him full credit for his testimony and other evidence
+regarding his willingness to file all necessary tax returns.  This argument, however, fails to rebut the
+presumption that the Judge considered all of the record evidence.  See, e.g., ISCR Case No. 12-
+05959 at 2 (App. Bd. Apr. 6, 2016).  Applicant also argues that he successfully mitigated the
+Guideline F security concerns because the late tax filing occurred under circumstances that should
+not cast doubt on his reliability, that he made good-faith and substantial efforts to resolve all of his
+outstanding tax filing problems; and that those problems are under control.  In essence, Applicant
+is challenging the amount of weight the Judge gave certain evidence.   It is well established that a
+party’s disagreement with the Judge’s weighing of the evidence, or an ability to argue for a different
+interpretation of the evidence, is not sufficient to demonstrate the Judge weighed the evidence or
+reached conclusions in a manner that is arbitrary, capricious, or contrary to law.  See, e.g., ISCR
+Case No. 14-06634 at 2 (App. Bd. Apr. 28, 2016).
+Contrary to Applicant’s contention, the Judge’s whole-person analysis supports a
+unfavorable security clearance determination.  In conducting his whole-person analysis, the Judge
+complied with the requirements of Directive ¶ 6.3, by considering the totality of the evidence in
+reaching his decision.  See, e.g., ISCR Case No. 14-02806 at 4 (App. Bd. Sep. 9, 2015).  The Judge
+correctly cited an Appeal Board decision for the propositions that failure to comply with Federal
+and/or state tax laws suggests that an applicant has a problem with abiding by well-established
+Government rules and regulations and that voluntary compliance with rules and regulations is
+essential for protecting classified information.  Decision at 8, citing ISCR Case No. 15-01031 at 4
+(App. Bd. Jun. 15, 2016).  A person who fails repeatedly to fulfill his or her legal obligations does
+not demonstrate the high degree of good judgment and reliability required of those granted access
+to classified information.  See, e.g., ISCR Case No. 14-01894 at 5 (App. Bd. Aug. 18, 2015). 
+1 We note that Applicant admitted in his response to the SOR that he did not file his tax returns for the listed
+years, which supported the Judge’s determination that disqualifying condition 19(g) (i.e., failure to file annual Federal,
+state, or local tax returns as required . . .) was established. 
+3
+Evidence that Applicant failed to file his Federal and state income tax returns in a timely manner
+for four years supports the Judge’s ultimate conclusion. 
+     
+The Judge examined the relevant evidence and articulated a satisfactory explanation for the
+decision.  The decision is sustainable on this record.  “The general standard is that a clearance may
+be granted only when ‘clearly consistent with the interests of the national security.’”  Department
+of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Enclosure 2 ¶ 2(b):  “Any doubt
+concerning personnel being considered for access to classified information will be resolved in favor
+of the national security.”
+Order
+The Decision is AFFIRMED.  
+Signed: Michael Ra’anan       
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody           
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+4

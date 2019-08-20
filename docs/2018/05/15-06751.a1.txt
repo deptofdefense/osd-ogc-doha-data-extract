@@ -1,0 +1,147 @@
+KEYWORD: Guideline E
+DIGEST: There is a rebuttable presumption that a Judge is impartial and unbiased, and a party
+seeking to overcome that presumption has a heavy burden of persuasion. We conclude that the
+Judge’s questioning of Applicant, though somewhat sharp at times, did not evidence an
+inflexible predisposition against him. Adverse decision affirmed.
+CASENO: 15-06751.a1
+DATE: 05/14/2018
+DATE: May 14, 2018
+In Re:
+---------------------------
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 15-06751
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Troy L. Nussbaum, Esq.
+The Department of Defense (DoD) declined to grant Applicant a security clearance.  On
+November 17, 2016, DoD issued a statement of reasons (SOR) advising Applicant of the basis for
+that decision–security concerns raised under Guideline E (Personal Conduct) of Department of
+Defense Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing. 
+On February 8, 2018, after the hearing, Defense Office of Hearings and Appeals (DOHA)
+Administrative Judge Edward W. Loughran denied Applicant’s request for a security clearance. 
+Applicant appealed pursuant to Directive ¶¶ E3.1.28 and E3.1.30.
+Applicant raised the following issues on appeal: whether the Judge lacked the requisite
+impartiality; whether the Judge erred in amending the SOR; whether the Judge’s credibility
+determination was erroneous; and whether the Judge’s adverse decision was arbitrary, capricious,
+or contrary to law.  Consistent with the following, we affirm.
+The Judge’s Findings of Fact
+From the late 1990s until the early 2000s, Applicant worked for a previous employer.  He
+told one of the company’s owners that, in the past, he had installed a program that permitted the
+downloading and sharing of illegal or pirated software.  His employer told him not to do that at the
+company.  Later, the company decided to make an online game available to its employees.  The
+company sent a server to Applicant’s home to be used for the game.  At some point, the illegal
+program referenced above was installed on the server.  Applicant used the program to download
+educational material, music, games, pornographic videos, and movies.  Applicant had several dozen
+CDs and DVDs of pirated software at his home.
+At the same time, the FBI was conducting an investigation into software piracy.  Agents
+visited Applicant’s home.  His wife notified him that agents were there, and he told her to hide the
+pirated software that he had downloaded.  During an interview, he initially stated to the agents that
+the purpose of the server was to provide access to the online game.  Applicant later admitted that
+the server also contained the illicit software program.  Applicant turned over the pirated software
+that he had told his wife to hide and consented to a search of his home.  The agents seized pirated
+software as well as legitimate CDs and DVDs, including Christmas presents.  Applicant agreed to
+act as a confidential informant for the FBI, and he was not charged with any offense.
+During his background interview, Applicant discussed the FBI investigation.  He did not
+disclose that he had known the illegal program had been installed on the server.  In his answers to
+DOHA interrogatories, he again discussed the FBI investigation.  He stated that the FBI returned
+all of his property that they had seized and he was never charged with any crime.  Again, he did not
+disclose that he had known about the illegal program or that he had used it to download software. 
+Applicant’s statements were correct, insofar as he advised that he did not know how the illegal
+2
+program had been installed on the server.  They were not correct in that they failed to mention his
+own involvement in downloading pirated software.  Applicant admitted that he should have
+disclosed that he himself had downloaded pirated software.
+Applicant enjoys an excellent reputation for his job performance.  He is considered
+trustworthy, reliable, mature, honest and responsible.  His witnesses and character references
+recommend that he receive a clearance.
+The Judge’s Analysis
+The Judge found that Applicant’s interview and his interrogatory answers were untrue
+because they omitted material information about his own knowledge of the illegal program and his
+having used it to download pirated software.  He found that Applicant’s omissions were for the
+purpose of misleading the Government about his involvement in the incident.  The Judge resolved
+allegations about the presence of the illegal program on the company server and Applicant’s effort
+to hide the contraband in Applicant’s favor due to the passage of time without re-offense.  However,
+he concluded that Applicant had not mitigated concerns arising from his omissions during his
+interview and in interrogatory answers.  He stated that Applicant’s claim that the omissions were
+innocent was untrue and that, as a consequence, he could not find that Applicant had met his burden
+of persuasion as to mitigation.
+Discussion
+  Applicant contends that the Judge was biased against him.  He cites to portions of the
+transcript in which the Judge questioned him concerning a possible false statement Applicant had
+made during his interrogatory answers and concerning his failure to admit his knowledge of the
+illegal technology.  The Judge also questioned a witness to discover the extent to which he was
+aware of the facts underlying the SOR allegations.  There is a rebuttable presumption that a Judge
+is impartial and unbiased, and a party seeking to overcome that presumption has a heavy burden of
+persuasion.  See, e.g., ISCR Case No. 12-09421 at 2 (App. Bd. Nov. 15, 2017).  
+We have considered this assignment of error in light of the Decision, the transcript, and the
+record as a whole.  The Judge admitted all of Applicant’s evidence,1 permitted him to testify at
+length, and to call witnesses, who testified unimpeded, save for questions designed to explore a
+witnesses’s knowledge.  We conclude that the Judge’s questioning of Applicant, though somewhat
+sharp at times, did not evidence an inflexible predisposition against him.    
+In presenting his argument about bias, Applicant cites to the Judge’s having granted a
+Department Counsel motion to amend the SOR.  The allegation in question originally stated, in
+pertinent part, that Applicant had failed to disclose that he had known that the computers were not
+1The Judge concluded that one of Applicant’s documents was a brief rather than an evidentiary exhibit.  He
+made the brief part of the record, though he stated that he would consider it as argument rather than evidence.  Tr. at 18-
+19.  
+3
+actually being used to run the online game.  As amended, the allegation stated that Applicant had
+failed to disclose that he had known that the computers were being used for software piracy as well
+as to run the online game.  We review a Judge’s decision to amend an SOR for an abuse of
+discretion.  See, e.g., ISCR Case No. 14-00019 at 4 (App. Bd. Sep. 18, 2014).  
+In this case, the transcript shows that the Judge granted the proposed amendment in order
+to conform the SOR with the evidence, which is consistent with Directive ¶ E3.1.17.  The Judge
+offered both parties additional time to present evidence in regard to the amended allegation. 
+Applicant stated that he did not desire additional time.  Tr. at 175.  The Judge did not abuse his
+discretion in amending the SOR.  In light of the above, we conclude that Applicant has not met his
+heavy burden of persuasion to rebut the presumption that the Judge was unbiased.    
+The balance of Applicant’s appeal brief is a challenge to the Judge’s weighing of the
+evidence.  In so doing, he argues that the Judge erred in finding Applicant’s presentation to be
+lacking credibility.  We are required to give deference to a Judge’s credibility determinations. 
+Directive ¶ E3.1.32.1.  Applicant’s argument does not persuade us to withhold that deference. 
+Moreover, an ability to argue for a different interpretation of the evidence is not enough to show that
+the Judge weighed the evidence in a manner that was arbitrary, capricious, or contrary to law.  See,
+e.g., ISCR Case No.15-07062 at 2 (App. Bd. Nov. 21, 2017).  
+The concern under Guideline E addresses, among other things, an applicant’s failure to
+provide candid answers during national security investigative or adjudicative processes.  The
+Directive  provides that “refusal to provide full, frank, and truthful answers to lawful questions of
+investigators [or] security officials” will “normally result in an unfavorable . . . security clearance
+action[.]” Directive, Encl. 2, App. A, ¶ 15.  Given evidence that Applicant deliberately failed to
+disclose his involvement in the illegal information technology, we find no reason to disturb the
+Judge’s overall adverse decision.   
+The record supports a conclusion that the Judge examined the relevant data and articulated
+a satisfactory explanation for the decision, “including a ‘rational connection between the facts found
+and the choice made.’”  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm Mut. Auto. Ins.
+Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States, 371 U.S. 156, 168
+(1962)).  The Judge’s adverse decision is sustainable on this record.  “The general standard is that
+a clearance may be granted only when ‘clearly consistent with the interests of the national security.’” 
+Department of the Navy v. Egan, 484 U.S. 518, 528 (1988).  See also Directive, Encl. 2, App. A ¶
+2(b):  “Any doubt concerning personnel being considered for national security eligibility will be
+resolved in favor of the national security.”
+4
+Order
+The Decision is AFFIRMED.    
+Signed: Michael Ra’anan             
+Michael Ra’anan
+Administrative Judge
+Chairperson, Appeal Board
+Signed: James E. Moody               
+James E. Moody
+Administrative Judge
+Member, Appeal Board
+Signed: James F. Duffy                  
+James F. Duffy
+Administrative Judge
+Member, Appeal Board
+5

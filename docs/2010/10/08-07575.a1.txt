@@ -1,0 +1,104 @@
+KEYWORD: Guideline H; Guideline E; Guideline J
+DIGEST: An SOR allegation may be included under multiple guidelines and given independent
+weight under each guideline.  Lack of truthfulness or candor in the security clearance process is
+at the heart of Guideline E.  Adverse decision affirmed.
+CASENO: 08-07575.a1
+DATE: 10/08/2010
+DATE: October 8, 2010
+In Re:
+------
+ 
+Applicant for Security Clearance
+)
+)
+)
+)
+)
+)
+)
+)
+ISCR Case No. 08-07575
+APPEAL BOARD DECISION
+APPEARANCES
+FOR GOVERNMENT
+James B. Norman, Esq., Chief Department Counsel
+FOR APPLICANT
+Michael F. O’Connor, Esq.
+The Defense Office of Hearings and Appeals (DOHA) declined to grant Applicant a security
+clearance.  On December 14, 2009, DOHA issued a statement of reasons (SOR) advising Applicant
+2
+of the basis for that decision–security concerns raised under Guideline H (Drug Involvement),
+Guideline E (Personal Conduct) and Guideline J (Criminal Conduct) of Department of Defense
+Directive 5220.6 (Jan. 2, 1992, as amended) (Directive).  Applicant requested a hearing.  On July
+14, 2010, after the hearing, Administrative Judge Arthur E. Marshall, Jr., denied Applicant’s request
+for a security clearance.  Applicant appealed pursuant to Directive ¶¶  E3.1.28 and E3.1.30.
+Applicant raised the following issue on appeal: whether the Judge’s adverse decision under
+Guideline E was arbitrary, capricious, or contrary to law.  Consistent with the following discussion,
+we affirm the decision of the Judge.
+The Judge made the following pertinent findings of fact: Applicant is a systems analyst
+working for a Defense contractor.  He has a history of significant drug abuse, including the abuse
+of marijuana, cocaine, opiates, heroin, and Percocet (without a prescription).  This conduct
+continued after Applicant had been granted a security clearance in 2006.  His last instance of drug
+abuse was in 2007.  Applicant received in-patient drug abuse treatment and, upon his successful
+completion, was discharged with a recommended plan for continued out-patient care.  He has
+followed that plan, receiving counseling from a psychologist.  He has also attended Alcoholics
+Anonymous meetings to address difficulties with alcohol consumption.  
+When he completed his security clearance application (SCA), Applicant answered “no” to
+a question inquiring if he had illegally used controlled substances within the previous seven years.
+This answer was false, due to the drug abuse described above.  The Judge found that, under the
+circumstances of this case, this false answer was deliberate.
+Applicant’s false answer to the SCA was alleged under Guideline E and also under Guideline
+J.  The Judge found against Applicant under the former, but he cleared him under the latter.
+Applicant contends that the Judge’s adverse decision is inconsistent, in that, having found the false
+answer to have been mitigated under Guideline J, the Judge should have reached a similar
+conclusion under Guideline E.
+However, previous decisions by the Appeal Board have stated that an SOR allegation may
+be included under more than one Guideline and may be given independent weight under each.
+Furthermore, a finding of mitigation under one Guideline does not compel a similar finding under
+another.  See, e.g., ISCR Case No. 03-05072 at 6 (App. Bd. Jul. 14, 2005); ISCR Case No. 04-90251
+at 3 (App. Bd. Mar. 27, 2007).  In considering an applicant’s claim that a Judge has treated two
+Guidelines inconsistently, we will examine the record and the Directive to determine if there is a
+rational basis for the Judge’s decision.
+The Guideline E security concern includes the following language: “Of special interest is any
+failure to provide truthful and candid answers during the security clearance process . . .”  Directive,
+Enclosure 2 ¶ 15.  Similar language does not appear in the security concern under Guideline J.  See
+Directive, Enclosure 2 ¶ 30.  This language places an applicant’s lack of truthfulness or candor in
+the security clearance process at the heart of Guideline E, and the Judge cited it in his decision.
+Applicant’s false statement about his drug use (which use was, at the time he completed the SCA,
+1Applicant testified that he had attended AA meetings even prior to his entry into the drug treatment program.
+He stated that, upon occasion, he would tell his wife that he was going to an AA meeting when in actuality he would
+join up with an acquaintance and use illegal drugs.  “It wasn’t every time, but it was certainly convenient for me to . .
+. say I’m going to an AA meeting, and that would give me an hour to go use drugs, and then return.”  Tr. at 49-50.  See
+also Applicant Interview Summary, included in Answers to Interrogatories: “While attending AA meetings, [Applicant]
+met a guy who . . . was not clean.  The guy started offering him drugs . . . He was skipping AA meetings to do drugs with
+this guy.  He would tell his wife he was going to an AA meeting, but was actually hanging out with this guy and using
+drugs.”  
+3
+an ongoing course of conduct), was of a nature to frustrate the proper functioning of his clearance
+investigation.  This is a sufficient reason for the Judge to evaluate the false statement differently
+under Guideline E than he did under J.  Additionally, we note record evidence that he had made false
+statements to his wife.1  These statements do not appear to constitute criminal conduct, but they are
+relevant to a whole-person evaluation of Guideline E and, therefore, provide another reason for the
+Judge to have examined that Guideline in a different context from the way he treated Guideline J.
+After reviewing the record, we conclude that the Judge examined the relevant data and
+articulated a satisfactory explanation for the decision, “including a ‘rational connection between the
+facts found and the choice made.’”  Motor Vehicle Mfrs. Ass’n of the United States v. State Farm
+Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983)(quoting Burlington Truck Lines, Inc. v. United States,
+371 U.S. 156, 168 (1962)).  The Judge’s adverse decision is sustainable on this record.  “The general
+standard is that a clearance may be granted only when ‘clearly consistent with the interests of the
+national security.’”  Department of the Navy v. Egan, 484 U.S. 518, 528 (1988). 
+Order
+The Judge’s adverse security clearance decision is AFFIRMED.  
+Signed: Jeffrey D. Billett               
+Jeffrey D. Billett
+Administrative Judge
+Member, Appeal Board
+Signed: Jean E. Smallin               
+Jean E. Smallin
+Administrative Judge
+Member, Appeal Board
+Signed James E. Moody                 
+4
+James E. Moody
+Administrative Judge
+Member, Appeal Board
