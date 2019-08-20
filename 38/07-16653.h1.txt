@@ -1,0 +1,299 @@
+1
+                                                             
+                           DEPARTMENT OF DEFENSE
+         DEFENSE OFFICE OF HEARINGS AND APPEALS
+          
+            
+In the matter of: )
+)
+) ISCR Case No. 07-16653
+          )
+Applicant for Security Clearance )
+Appearances
+For Government: Tovah Minster, Esquire, Department Counsel
+For Applicant: Stephen J. Bildman, Personal Representative
+______________
+Decision
+______________
+CURRY, Marc E., Administrative Judge:
+Applicant mitigated the financial considerations and information technology
+security concerns, but failed to mitigate the personal conduct security concern.
+Clearance is denied. 
+Statement of the Case
+On June 16, 2011, the Defense Office of Hearings and Appeals (DOHA) issued a
+Statement of Reasons (SOR) to Applicant detailing security concerns under Guidelines
+F, financial considerations, M, use of information technology, and E, personal conduct.
+The action was taken under Executive Order 10865, Safeguarding Classified
+Information within Industry (February 20, 1960), as amended; Department of Defense
+Directive 5220.6, Defense Industrial Personnel Security Clearance Review Program
+(January 2, 1992), as amended (Directive); and the  adjudicative guidelines (AG)
+implemented by the Department of Defense on December 1, 2006.
+Applicant answered the SOR on August 20, 2011, denying all of the allegations
+except 1.a, and requesting a hearing. The case was assigned to me on August 31,
+2
+2011. A notice of hearing was issued on November 14, 2011, scheduling the case for
+December 1, 2011. I held the hearing as scheduled and received nine Government
+exhibits, marked as Government Exhibits (GE) 1 through 9, and 17 Applicant Exhibits
+(AE) marked as AE A through Q. Also, I considered the testimony of Applicant and a
+character witness.
+At the close of the hearing, I left the record open, at Applicant’s request, for the
+submission of an additional exhibit. Within the time allotted, Applicant submitted the
+additional exhibit. Department Counsel had no objection, and I admitted it as AE R.
+DOHA received the transcript (Tr.) on December 9, 2011. 
+Findings of Fact
+Applicant is a 34-year-old married man with four children, The oldest three are
+teenagers from an earlier marriage that ended in divorce in 2003. The youngest is
+seven years old. Applicant’s ex-wife has physical custody of the two oldest teenagers,
+and Applicant has physical custody of the youngest teenager. (Tr. 25) Applicant is a
+high school graduate and has taken some college courses.
+Applicant works in the information technology field. He has earned several
+information technology certifications over the years. Applicant has worked for his current
+employer since March 2011. 
+From 2003 to approximately 2010, Applicant accrued approximately $22,000 of
+delinquent debt. (Tr. 28) Applicant owes the majority, totalling approximately $15,000, to
+a car company (subparagraph 1.a). This debt became delinquent in 2007. (GE 5 at 2)
+The remainder of the delinquencies include a credit card account (subparagraph 1.b),
+utilities (subparagraphs 1.c, 1h), a medical account (subparagraph 1.d), another
+automobile delinquency (subparagraph 1.e), two student loan accounts (subparagraphs
+1.f and 1.g), and two miscellaneous delinquencies (subparagraphs 1.I, 1.j).
+Applicant’s financial problems stem from his 2003 divorce, and were exacerbated
+when his current wife lost her job in 2010. (Tr. 48) She remains unemployed. (Tr. 47)
+Since beginning his current job, Applicant’s salary has increased by $20,000. (Tr.
+33) He has several hundred dollars of after-expense monthly income. (Tr. 48)  This has
+enabled him to begin satisfying his delinquencies. As of the hearing date, Applicant had
+satisfied all of the debts except subparagraphs 1.a, 1.g, and 1.i. 
+Applicant contacted the creditor listed in subparagraph 1.a. It agreed to reduce
+the delinquency by half, but insisted on the payment in a lump sum, which Applicant
+could not afford. (Tr. 31) Applicant’s supervisor, the chief executive officer of the
+company, testified. He was so impressed with Applicant’s work quality that he agreed to
+pay the debt and deduct it from a future “bonus or profit share . . .” (Tr. 84) The day
+after the hearing, Applicant submitted a copy of the check, drawn from his employer’s
+account, satisfying subparagraph 1.a. (AE R)
+Applicant and his father share the same name.1
+3
+Applicant disputes subparagraphs 1.g and 1.i. Subparagraph 1.g is an allegedly
+delinquent student loan totalling $3,527. Applicant contends this is his father’s debt.1
+Neither the age of the debtor listed on the bill nor the social security number of the
+debtor matches Applicant. (Compare AE G and GE 1 at 1) Applicant submitted
+evidence showing that his student loan account is current. (AE F) I find that Applicant
+has only one student loan account, as listed in subparagraph 1.i, and it is current.  
+Subparagraph 1.i is a debt allegedly owed to a book club totalling $70. Applicant
+disputes this debt, but has been unsuccessful in contacting the original creditor.
+Before Applicant worked for his current employer, he worked, among other
+places, for another defense contractor between 1998 and 2003. (GE 1 at 16) His duties
+included assisting the Government employees with using their information technology
+system, “changing system tapes for backups, balancing daily logs, and running system
+scripts.” (Tr. 37)
+On January 24, 2003, the Government client of Applicant’s employer alleged that
+he created directory files and scripts within a larger directory without obtaining
+permission from the Government’s system administrator. Also, Applicant was alleged to
+have installed an editor within the system directory without the system administrator’s
+prior review. (GE 4 at 3) 
+The Government system administrator who reported these problems noted that
+Applicant did not act with “malicious intent,” and was actually trying to improve or
+minimize the risk of operator error. (GE 4 at 3) However, he “did not think to ask the
+appropriate personnel for permission,” nor did he first inquire about the “rules and
+regulations that govern creating, editing, and modifying such files. (GE 4 at 3)
+Based on theses alleged information technology infractions, the Government
+client of Applicant’s employer asked that he be removed from the contract. When
+Applicant’s employer confronted him with these allegations, Applicant stated that he
+was unaware that he had committed any information technology infractions. Also, he
+asserted he had no reason to believe he was violating protocol because one of the
+onsite Government employees helped him download the editor. (GE 4 at 3) The system
+administrator who reported Applicant’s alleged misconduct acknowledged that a
+Government employee helped Applicant, but noted that he was not in her chain of
+command.
+Applicant’s employer, after reviewing the allegations against him, told him to sign
+a resignation in lieu of dismissal, but told him to “hang tight,” and promised to re-hire
+him as soon as an employment opportunity on another contract arose. Applicant then
+resigned. Nine days later, his employer re-hired him and assigned him to another
+contract. (AE E at 3) Applicant continued to work with his employer for another six
+4
+weeks before leaving to take another position. He had no additional adverse incidents
+for the remainder of his stint with his employer.
+Applicant completed a security clearance application on October 3, 2006. He
+answered “no” in response to “Section 22: Employment Record . . . e. Last 7 years,
+fired, quit, or left/unfavorable circumstances?” (GE 1 at 34) Applicant testified that he
+did not consider that his employer in 2003 released him under unfavorable
+circumstances after asking him to resign, because they rehired him to work on another
+contract, as promised, within ten days of his resignation.  
+Applicant enlisted in the U.S. Navy in 1997. He did not complete basic training,
+as he received a general discharge after testing positive for marijuana. (Tr. 56, 97) In
+response to questions about his discharge from an investigative agent in 2006,
+Applicant stated it occurred after he experienced a knee problem. (GE 2 at 10) He did
+not disclose that he had failed a drug test. (GE 2 at 10)
+During cross-examination, Applicant testified that he told the investigative agent
+of the failed drug test, and that the investigator’s interview summary inaccurately
+excluded it. (Tr. 57) In late 2009, DOHA propounded interrogatories to Applicant. (GE 2)
+Attached to the interrogatories was a copy of the investigator’s summary of Applicant’s
+personal subject interview. (GE 2 at 10) Question 3 asked whether the summary
+accurately reflected the information that Applicant provided to the investigator. Applicant
+answered, “Yes.” (GE 2 at 8)
+Policies
+The adjudicative guidelines list potentially disqualifying conditions and mitigating
+conditions. These guidelines are not inflexible rules of law. Instead, recognizing the
+complexities of human behavior, they are applied together with the factors listed in the
+adjudicative process. According to AG ¶ 2(c), the entire process is a conscientious
+scrutiny of a number of variables known as the “whole-person concept.” The
+administrative judge must consider all available, reliable information about the person,
+past and present, favorable and unfavorable, in making a decision.
+The protection of the national security is the paramount consideration. AG ¶ 2(b)
+requires that “[a]ny doubt concerning personnel being considered for access to
+classified information will be resolved in favor of national security.” 
+Under Directive ¶ E3.1.14, the Government must present evidence to establish
+controverted facts alleged in the SOR. Under Directive ¶ E3.1.15, the applicant is
+responsible for presenting “witnesses and other evidence to rebut, explain, extenuate,
+or mitigate facts admitted by applicant or proven by department counsel  . . . ” The
+applicant has the ultimate burden of persuasion for obtaining a favorable security
+decision.
+5
+Analysis
+Guideline F, Financial Considerations
+Under this guideline, “failure or inability to live within one’s means, satisfy debts,
+and meet financial obligations may indicate poor self-control, lack of judgment, or
+unwillingness to abide by rules and regulations, all of which can raise questions about
+an individual’s reliability, trustworthiness and ability to protect classified information” (AG
+¶ 18). Applicant’s financial struggles trigger the application of AG ¶¶ 19(a), “inability or
+unwillingness to satisfy debts,” and 19(c), “a history of not meeting financial obligations.”
+The following mitigating conditions under AG ¶ 20 are potentially applicable:
+(b) the conditions that resulted in the financial problem were largely
+beyond the person’s control (e.g., loss of employment, a business
+downturn, unexpected medical emergency, or a death, divorce, or
+separation), and the individual acted responsibly under the circumstances;
+(c) the person has received or is receiving counseling for the problem
+and/or there are clear indications that the problem is being resolved or is
+under control; 
+(d) the individual initiated a good-faith effort to repay overdue creditors or
+otherwise resolve debts; and
+(e) the individual has a reasonable basis to dispute the legitimacy of the
+past-due debt which is the cause of the problem and provides
+documented proof to substantiate the basis of the dispute or provides
+evidence of actions to resolve the issue.
+Applicant did not elaborate about his 2003 divorce and how it contributed to his
+financial problems. Moreover, his most significant delinquency, the car loan listed in
+subparagraph 1.a, became delinquent four years after the divorce. Nevertheless, since
+obtaining his current job with a significantly higher salary, Applicant has contacted his
+creditors and satisfied all of the delinquencies except subparagraph 1.a, 1.g, and 1.i.
+Although Applicant had not satisfied subparagraph 1.a as of the hearing date, he did
+make good-faith efforts to develop a payment plan. When these efforts were
+unsuccessful, his boss paid the debt for him, and will develop a repayment plan
+whereupon Applicant will repay him through either a reduced future bonus, or reduced
+profit-share.
+Applicant provided evidence successfully disputing the student loan listed in
+subparagraph 1.g. The only unresolved debt is 1.i, a disputed debt less than $100
+dollars. I conclude that all of the mitigating conditions apply. 
+6
+Guideline E, Personal Conduct
+Under this guideline, “conduct involving questionable judgment, lack of candor,
+dishonesty, or unwillingness to comply with rules and regulations can raise questions
+about an individual’s reliability, trustworthiness, and ability to protect classified
+information.” (AG ¶ 15) Moreover, “of special interest is any failure to provide truthful
+and candid answers during the security clearance process or any other failure to
+cooperate with the security clearance process.” 
+Applicant’s omission from his security clearance application of a job that he
+resigned from under adverse circumstances raises the issue of whether AG ¶ 16(a),
+“deliberate omission, concealment, or falsification of relevant facts from any personnel
+security questionnaire, personal history statement, or similar form used to conduct
+investigations, determine employment qualifications, award benefits or status,
+determine security clearance eligibility or trustworthiness, or award fiduciary
+responsibilities,” applies. Applicant contends that the circumstances of his resignation
+from his job in 2003 is not covered under Section 22 of the security clearance
+application because his employer was not taking a punitive action when it asked him to
+resign in lieu of termination. Rather, they were simply removing him from the contract
+and taking him off the payroll until another contract opportunity became available. 
+According to the Appeal Board, “however narrowly [an] applicant seeks to
+characterize . . . the facts and circumstances, applicant[s] are bound by the plain
+language of the question,” when completing a security clearance application. (ISCR
+Case No. 98-0470 (App. Bd. Apr. 19, 1999)) Consequently, although the credibility of
+Applicant’s contention is bolstered by the fact that the company re-hired him within two
+weeks of his resignation, I am unable to conclude the omission was unintentional.
+In evaluating Applicant’s credibility, I considered his cross-examination
+responses to questions regarding the circumstances surrounding his discharge from the
+Navy. Specifically, when asked why he did not tell the investigative agent in 2006 that a
+failed drug test led to his general discharge, he provided an explanation that
+contradicted his 2006 interrogatory responses. In considering this information, I am
+cognizant that the SOR does not allege any other falsifications. However, unlisted
+adverse information has probative value in weighing an applicant’s credibility. I conclude
+Applicant intended to conceal the circumstances of his resignation when he omitted it
+from his security clearance application. AG ¶ 16(a) applies without mitigation.
+Guideline M, Use of Information Technology Systems
+Under this guideline, “noncompliance with rules, procedures, guidelines, or
+regulations pertaining to information technology systems may raise security concerns
+about an individual’s reliability and trustworthiness, calling into question the willingness
+or ability to properly protect sensitive systems, networks, and information.” (AG ¶ 39)
+Information technology systems include “all related computer hardware, software,
+7
+firmware, and data used for the communication, transmission, processing, manipulation,
+storage, or protection of information.” (Id.)
+Applicant committed several information technology infractions including creating
+scripts within a directory and installing an editor without permission. The disqualifying
+conditions set forth in AG ¶¶ 40(e), “unauthorized use of a government or other
+information technology system,” and 40(f), “introduction, removal, or duplication of
+hardware, firmware, software, or media to or from any information technology system
+without authorization when prohibited by rules, procedures, guidelines or regulations,”
+apply.
+The following mitigating conditions are potentially applicable:
+(a) so much time has elapsed since the behavior happened, or it
+happened under such unusual circumstances, that it is unlikely to recur
+and does not cast doubt on the individual’s reliability, trustworthiness, or
+good judgment;
+(b) the misuse was minor and done only in the interest of organizational
+efficiency and effectiveness, such as letting another person use one’s
+password or computer when no other timely alternative was readily
+available; and
+(c) the conduct was unintentional or inadvertent and was followed by a
+prompt, good-faith effort to correct the situation and by notification of
+supervisor.
+Applicant modified his company’s Government client’s information technology
+system to make it better-organized, improve its efficiency, and make it more fail-safe. In
+the process, he was unaware he was violating any Government regulations or protocol,
+and had no reason to know he was violating any regulations or protocol because a
+Government employee was assisting him in completing the tasks.
+Before this episode in 2003, Applicant had no history of information technology
+violations, and has committed none since then. AG ¶¶ 41(a) and 41(b) apply, and the
+first prong of AG ¶ 41(c)  applies.
+Subparagraph 3.b of the Guideline M paragraph cross-alleges the falsification
+allegation set forth in Guideline E, subparagraph 2.a. Although Applicant’s conduct, as
+set forth under subparagraph 2.a, constitutes a security concern under Guideline E, the
+conduct is not covered under Guideline M. Consequently, I have resolved subparagraph
+3.b in Applicant’s favor, not because the underlying conduct was mitigated, but because
+the Government erroneously alleged it under Guideline M. 
+8
+Whole-Person Concept
+Under the whole-person concept, the administrative judge must evaluate an
+applicant’s eligibility for a security clearance by considering the totality of the applicant’s
+conduct and all the circumstances. The administrative judge should consider the nine
+adjudicative process factors listed at AG ¶ 2(a): 
+(1) the nature, extent, and seriousness of the conduct; (2) the
+circumstances surrounding the conduct, to include knowledgeable
+participation; (3) the frequency and recency of the conduct; (4) the
+individual’s age and maturity at the time of the conduct; (5) the extent to
+which participation is voluntary; (6) the presence or absence of
+rehabilitation and other permanent behavioral changes; (7) the motivation
+for the conduct; (8) the potential for pressure, coercion, exploitation, or
+duress; and (9) the likelihood of continuation or recurrence. 
+Applicant deserves credit for mitigating the financial considerations security
+concern. Also, his job performance is so outstanding that his employer paid his most
+significant delinquency, in an effort to mitigate the security concerns. Applicant’s misuse
+of information technology was minor, isolated, and remote in time. Applicant however,
+failed to overcome the negative ramifications of his falsification of his 2006 security
+clearance application. Upon considering this case in the context of the whole-person
+concept, I conclude Applicant has failed to mitigate the security concerns.
+Formal Findings
+Formal findings for or against Applicant on the allegations set forth in the SOR,
+as required by section E3.1.25 of Enclosure 3 of the Directive, are:
+Paragraph 1, Guideline F: FOR APPLICANT
+Subparagraphs 1.a - 1.j: For Applicant
+Paragraph 2, Guideline E: AGAINST APPLICANT
+Subparagraph 2.a: Against Applicant
+Paragraph 3, Guideline M: FOR APPLICANT
+Subparagraph 3.a: For Applicant
+Subparagraph 3.b: For Applicant
+9
+Conclusion
+In light of all of the circumstances presented by the record in this case, it is not
+clearly consistent with the national interest to grant Applicant eligibility for a security
+clearance. Eligibility for access to classified information is denied.
+                                             
+MARC E. CURRY
+Administrative Judge
